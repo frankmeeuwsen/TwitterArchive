@@ -1,6 +1,496 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Fri Mar 03 16:16:26 +0000 2017",
+		"id": 837698187590774800,
+		"id_str": "837698187590774784",
+		"text": "RT @OldSchool80s: Mar. 3, 1989, De La Soul released their debut album 3 Feet High and Rising. #80s Featured \"Me, Myself &amp; I\". https://t.co/…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "80s",
+					"indices": [
+						94,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OldSchool80s",
+					"name": "Old School 80s",
+					"id": 31015297,
+					"id_str": "31015297",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! |",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9224,
+			"friends_count": 1835,
+			"listed_count": 630,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3106,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62230,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/613488198665273344/gGkybNv-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/613488198665273344/gGkybNv-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1487681446",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Mar 03 15:30:33 +0000 2017",
+			"id": 837686643150716900,
+			"id_str": "837686643150716928",
+			"text": "Mar. 3, 1989, De La Soul released their debut album 3 Feet High and Rising. #80s Featured \"Me, Myself &amp; I\". https://t.co/GHsSqapOFA",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "80s",
+						"indices": [
+							76,
+							80
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 837686639996645400,
+						"id_str": "837686639996645376",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/media/C6APj5IXMAAhyle.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C6APj5IXMAAhyle.jpg",
+						"url": "https://t.co/GHsSqapOFA",
+						"display_url": "pic.twitter.com/GHsSqapOFA",
+						"expanded_url": "https://twitter.com/OldSchool80s/status/837686643150716928/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 316,
+								"h": 316,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 316,
+								"h": 316,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 316,
+								"h": 316,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 837686639996645400,
+						"id_str": "837686639996645376",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/media/C6APj5IXMAAhyle.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C6APj5IXMAAhyle.jpg",
+						"url": "https://t.co/GHsSqapOFA",
+						"display_url": "pic.twitter.com/GHsSqapOFA",
+						"expanded_url": "https://twitter.com/OldSchool80s/status/837686643150716928/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 316,
+								"h": 316,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 316,
+								"h": 316,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 316,
+								"h": 316,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 31015297,
+				"id_str": "31015297",
+				"name": "Old School 80s",
+				"screen_name": "OldSchool80s",
+				"location": "Shermer, Illinois circa '80s",
+				"description": "One dude's perspective on all things pop culture w/ special attention paid to the awesome 80s decade  including exclusive interviews w/ some who made it so",
+				"url": "http://t.co/ZR6aZydjqD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/ZR6aZydjqD",
+								"expanded_url": "http://OldSchool.tblog.com",
+								"display_url": "OldSchool.tblog.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 57167,
+				"friends_count": 346,
+				"listed_count": 498,
+				"created_at": "Tue Apr 14 01:13:52 +0000 2009",
+				"favourites_count": 318,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 14800,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/8871817/i_love_the_80s.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/8871817/i_love_the_80s.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/499733959148711936/KFV83fHA_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/499733959148711936/KFV83fHA_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/31015297/1415467401",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 31,
+			"favorite_count": 61,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Mar 03 16:15:18 +0000 2017",
+		"id": 837697901916741600,
+		"id_str": "837697901916741633",
+		"text": "Wauw. r/NL een-na-grootste subreddit voor een land. Plus 🍞 https://t.co/FzqPFDR3wT",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FzqPFDR3wT",
+					"expanded_url": "https://twitter.com/nosop3/status/837695452271235074",
+					"display_url": "twitter.com/nosop3/status/…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! |",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9224,
+			"friends_count": 1835,
+			"listed_count": 630,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3106,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62230,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/613488198665273344/gGkybNv-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/613488198665273344/gGkybNv-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1487681446",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 837695452271235100,
+		"quoted_status_id_str": "837695452271235074",
+		"quoted_status": {
+			"created_at": "Fri Mar 03 16:05:34 +0000 2017",
+			"id": 837695452271235100,
+			"id_str": "837695452271235074",
+			"text": "\"Beste meneer Pechtold, bent u bekend met de complottheorie dat u eigenlijk een brood zou zijn?\"\nhttps://t.co/LYCQMAA0TD",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/LYCQMAA0TD",
+						"expanded_url": "http://nos.nl/l/2161089",
+						"display_url": "nos.nl/l/2161089",
+						"indices": [
+							97,
+							120
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19386691,
+				"id_str": "19386691",
+				"name": "NOS op 3",
+				"screen_name": "nosop3",
+				"location": "Hilversum",
+				"description": "We beleven. We leggen uit. We brengen ver dichtbij. NOS op 3. Nieuws om te delen.\n* Volg ons ook op 3FM en FunX *",
+				"url": "http://t.co/97np2iLq2Q",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/97np2iLq2Q",
+								"expanded_url": "http://www.nosop3.nl",
+								"display_url": "nosop3.nl",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 142919,
+				"friends_count": 318,
+				"listed_count": 1582,
+				"created_at": "Fri Jan 23 08:32:35 +0000 2009",
+				"favourites_count": 185,
+				"utc_offset": 3600,
+				"time_zone": "Amsterdam",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 58610,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/677101996/31f3cedd12c5963ed058688b42d055cc.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/677101996/31f3cedd12c5963ed058688b42d055cc.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/435531371012845568/fsfvcfoQ_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/435531371012845568/fsfvcfoQ_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19386691/1487926536",
+				"profile_link_color": "CC0000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Fri Mar 03 14:56:19 +0000 2017",
 		"id": 837678025479176200,
 		"id_str": "837678025479176196",
