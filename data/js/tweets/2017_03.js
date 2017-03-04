@@ -1,6 +1,291 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Sat Mar 04 17:40:35 +0000 2017",
+		"id": 838081754527322100,
+		"id_str": "838081754527322112",
+		"text": "Hier kan ik uren naar kijken. https://t.co/yqw3TDG1hQ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yqw3TDG1hQ",
+					"expanded_url": "https://twitter.com/theaterofscifi/status/838064703234576384",
+					"display_url": "twitter.com/theaterofscifi…",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! |",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9225,
+			"friends_count": 1837,
+			"listed_count": 630,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3108,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62214,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1487681446",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 838064703234576400,
+		"quoted_status_id_str": "838064703234576384",
+		"quoted_status": {
+			"created_at": "Sat Mar 04 16:32:50 +0000 2017",
+			"id": 838064703234576400,
+			"id_str": "838064703234576384",
+			"text": "https://t.co/6rALNJE2DV",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 838064679578665000,
+						"id_str": "838064679578664960",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/C6FnYsUWgAAcA-4.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C6FnYsUWgAAcA-4.jpg",
+						"url": "https://t.co/6rALNJE2DV",
+						"display_url": "pic.twitter.com/6rALNJE2DV",
+						"expanded_url": "https://twitter.com/theaterofscifi/status/838064703234576384/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 500,
+								"h": 282,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 192,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 282,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 838064679578665000,
+						"id_str": "838064679578664960",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/C6FnYsUWgAAcA-4.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C6FnYsUWgAAcA-4.jpg",
+						"url": "https://t.co/6rALNJE2DV",
+						"display_url": "pic.twitter.com/6rALNJE2DV",
+						"expanded_url": "https://twitter.com/theaterofscifi/status/838064703234576384/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 500,
+								"h": 282,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 192,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 282,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								250,
+								141
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/C6FnYsUWgAAcA-4.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 443032867,
+				"id_str": "443032867",
+				"name": "Theater of SciFi",
+				"screen_name": "theaterofscifi",
+				"location": "Offworld",
+				"description": "Well, you're here. Run away now. Run while you still can.",
+				"url": "https://t.co/WkRt8MVsLh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WkRt8MVsLh",
+								"expanded_url": "http://theaterofscifi.com/",
+								"display_url": "theaterofscifi.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 56362,
+				"friends_count": 34957,
+				"listed_count": 891,
+				"created_at": "Wed Dec 21 18:50:14 +0000 2011",
+				"favourites_count": 26621,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 32952,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "261802",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/466683514163720192/GbubY0Oi.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/466683514163720192/GbubY0Oi.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/472569246195515392/tY-WMtgl_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/472569246195515392/tY-WMtgl_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/443032867/1401831914",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "7AC3EE",
+				"profile_text_color": "3D1957",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 124,
+			"favorite_count": 187,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Sat Mar 04 16:35:41 +0000 2017",
 		"id": 838065420607303700,
 		"id_str": "838065420607303680",
