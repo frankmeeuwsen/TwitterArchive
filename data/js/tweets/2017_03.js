@@ -1,6 +1,445 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Sat Mar 04 20:30:25 +0000 2017",
+		"id": 838124493038026800,
+		"id_str": "838124493038026752",
+		"text": "RT @widmhintsnl: RT als jij denkt dat Thomas de mol is. #widm #wieisdemol",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "widm",
+					"indices": [
+						56,
+						61
+					]
+				},
+				{
+					"text": "wieisdemol",
+					"indices": [
+						62,
+						73
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "widmhintsnl",
+					"name": "WIDMHINTS.nl",
+					"id": 702147180434432000,
+					"id_str": "702147180434432000",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! |",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9225,
+			"friends_count": 1837,
+			"listed_count": 630,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3109,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62219,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1487681446",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Feb 25 20:29:13 +0000 2017",
+			"id": 835587475087188000,
+			"id_str": "835587475087187969",
+			"text": "RT als jij denkt dat Thomas de mol is. #widm #wieisdemol",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "widm",
+						"indices": [
+							39,
+							44
+						]
+					},
+					{
+						"text": "wieisdemol",
+						"indices": [
+							45,
+							56
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 702147180434432000,
+				"id_str": "702147180434432000",
+				"name": "WIDMHINTS.nl",
+				"screen_name": "widmhintsnl",
+				"location": "Oregon, USA",
+				"description": "Fanaccount van het populaire TV-Programma Wie is de Mol? Gaat opzoek naar theorieën, hints en aanwijzingen die naar de Mol verwijzen.",
+				"url": "https://t.co/dakQPA5CLM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/dakQPA5CLM",
+								"expanded_url": "https://widmhints.nl/",
+								"display_url": "widmhints.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 991,
+				"friends_count": 106,
+				"listed_count": 10,
+				"created_at": "Tue Feb 23 15:05:07 +0000 2016",
+				"favourites_count": 69,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 514,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/819569412223205380/leSqEJPE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/819569412223205380/leSqEJPE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/702147180434432000/1478627911",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 155,
+			"favorite_count": 29,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "nl"
+		},
+		"is_quote_status": false,
+		"retweet_count": 155,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "nl"
+	},
+	{
+		"created_at": "Sat Mar 04 20:23:33 +0000 2017",
+		"id": 838122765249048600,
+		"id_str": "838122765249048576",
+		"text": "RT @timeghost_app: The movie \"Dirty Dancing\" is closer to the Martin Luther King Jr's \"I Have A Dream\" speech than today! #timeghost https:…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "timeghost",
+					"indices": [
+						122,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "timeghost_app",
+					"name": "Time Ghost",
+					"id": 3355524059,
+					"id_str": "3355524059",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! |",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9225,
+			"friends_count": 1837,
+			"listed_count": 630,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3109,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62219,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1487681446",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Mar 04 20:00:02 +0000 2017",
+			"id": 838116848637890600,
+			"id_str": "838116848637890560",
+			"text": "The movie \"Dirty Dancing\" is closer to the Martin Luther King Jr's \"I Have A Dream\" speech than today! #timeghost https://t.co/MIkmnXS6lp",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "timeghost",
+						"indices": [
+							103,
+							113
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/MIkmnXS6lp",
+						"expanded_url": "http://timeghost-app.appspot.com/p/ag9zfnRpbWVnaG9zdC1hcHByEgsSBUV2ZW50GICAgICdipYJDA/ag9zfnRpbWVnaG9zdC1hcHByEgsSBUV2ZW50GICAgICvv4wLDA",
+						"display_url": "timeghost-app.appspot.com/p/ag9zfnRpbWVn…",
+						"indices": [
+							114,
+							137
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://timeghost-app.appspot.com/\" rel=\"nofollow\">Timeghost App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3355524059,
+				"id_str": "3355524059",
+				"name": "Time Ghost",
+				"screen_name": "timeghost_app",
+				"location": "",
+				"description": "Making you feel old since 2015.",
+				"url": "https://t.co/CcZI58VbPE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/CcZI58VbPE",
+								"expanded_url": "http://timeghost-app.appspot.com",
+								"display_url": "timeghost-app.appspot.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 39,
+				"friends_count": 0,
+				"listed_count": 2,
+				"created_at": "Thu Jul 02 18:23:15 +0000 2015",
+				"favourites_count": 8,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2276,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/618476798951579648/yky6qtLC.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/618476798951579648/yky6qtLC.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/619630426039017472/JeApA2Or_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/619630426039017472/JeApA2Or_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3355524059/1436331962",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Mar 04 19:51:26 +0000 2017",
 		"id": 838114681101373400,
 		"id_str": "838114681101373440",
