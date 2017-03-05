@@ -1,6 +1,197 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Sun Mar 05 08:32:47 +0000 2017",
+		"id": 838306281295343600,
+		"id_str": "838306281295343616",
+		"text": "RT @vnnbrg: Je kan nog drieduizend onbegrepen PVV'ers in je krant zetten, maar dan krijg ik nog steeds geen begrip voor die bekrompen buite…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "vnnbrg",
+					"name": "Pascal Vanenburg",
+					"id": 186410052,
+					"id_str": "186410052",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! |",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9226,
+			"friends_count": 1837,
+			"listed_count": 630,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3110,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62222,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1487681446",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Mar 04 14:53:07 +0000 2017",
+			"id": 838039609338626000,
+			"id_str": "838039609338626048",
+			"text": "Je kan nog drieduizend onbegrepen PVV'ers in je krant zetten, maar dan krijg ik nog steeds geen begrip voor die bekrompen buitenlanderhaat.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 186410052,
+				"id_str": "186410052",
+				"name": "Pascal Vanenburg",
+				"screen_name": "vnnbrg",
+				"location": "Almere",
+				"description": "Schrijver. Redacteur. BNNVARA. @Joop_nl. Boek 'De man die zichzelf in Auschwitz liet opsluiten' ligt vanaf 14-3 in de winkel. Twittert op titel van je moeder.",
+				"url": "https://t.co/r7tOBqhmyb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/r7tOBqhmyb",
+								"expanded_url": "https://www.bol.com/nl/p/de-man-die-zichzelf-in-auschwitz-liet-opsluiten/9200000072181875/?suggestio",
+								"display_url": "bol.com/nl/p/de-man-di…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5347,
+				"friends_count": 793,
+				"listed_count": 114,
+				"created_at": "Fri Sep 03 11:40:59 +0000 2010",
+				"favourites_count": 11346,
+				"utc_offset": -10800,
+				"time_zone": "Greenland",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 38974,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/816329055804989441/1e4KRLlW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/816329055804989441/1e4KRLlW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/186410052/1485939456",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 208,
+			"favorite_count": 391,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "nl"
+		},
+		"is_quote_status": false,
+		"retweet_count": 208,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Sun Mar 05 07:36:54 +0000 2017",
 		"id": 838292217466929200,
 		"id_str": "838292217466929153",
