@@ -1,6 +1,602 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Mon Mar 06 12:59:32 +0000 2017",
+		"id": 838735802423263200,
+		"id_str": "838735802423263232",
+		"text": "RT @xkcdComic: Listening https://t.co/j1Fd4INQje https://t.co/O5Mt9SNnVv https://t.co/gGVHOsxZRl",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "xkcdComic",
+					"name": "XKCD Comic",
+					"id": 2251623492,
+					"id_str": "2251623492",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/j1Fd4INQje",
+					"expanded_url": "https://xkcd.com/1807/",
+					"display_url": "xkcd.com/1807/",
+					"indices": [
+						25,
+						48
+					]
+				},
+				{
+					"url": "https://t.co/O5Mt9SNnVv",
+					"expanded_url": "https://m.xkcd.com/1807/",
+					"display_url": "m.xkcd.com/1807/",
+					"indices": [
+						49,
+						72
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 838735408494084100,
+					"id_str": "838735408494084096",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/C6PJaQPVAAA8QBq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C6PJaQPVAAA8QBq.jpg",
+					"url": "https://t.co/gGVHOsxZRl",
+					"display_url": "pic.twitter.com/gGVHOsxZRl",
+					"expanded_url": "https://twitter.com/xkcdComic/status/838735411895808001/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 285,
+							"h": 413,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 285,
+							"h": 413,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 285,
+							"h": 413,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 838735411895808000,
+					"source_status_id_str": "838735411895808001",
+					"source_user_id": 2251623492,
+					"source_user_id_str": "2251623492"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 838735408494084100,
+					"id_str": "838735408494084096",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/C6PJaQPVAAA8QBq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C6PJaQPVAAA8QBq.jpg",
+					"url": "https://t.co/gGVHOsxZRl",
+					"display_url": "pic.twitter.com/gGVHOsxZRl",
+					"expanded_url": "https://twitter.com/xkcdComic/status/838735411895808001/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 285,
+							"h": 413,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 285,
+							"h": 413,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 285,
+							"h": 413,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 838735411895808000,
+					"source_status_id_str": "838735411895808001",
+					"source_user_id": 2251623492,
+					"source_user_id_str": "2251623492"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! |",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9226,
+			"friends_count": 1837,
+			"listed_count": 629,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3114,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62237,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1487681446",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Mar 06 12:57:59 +0000 2017",
+			"id": 838735411895808000,
+			"id_str": "838735411895808001",
+			"text": "Listening https://t.co/j1Fd4INQje https://t.co/O5Mt9SNnVv https://t.co/gGVHOsxZRl",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/j1Fd4INQje",
+						"expanded_url": "https://xkcd.com/1807/",
+						"display_url": "xkcd.com/1807/",
+						"indices": [
+							10,
+							33
+						]
+					},
+					{
+						"url": "https://t.co/O5Mt9SNnVv",
+						"expanded_url": "https://m.xkcd.com/1807/",
+						"display_url": "m.xkcd.com/1807/",
+						"indices": [
+							34,
+							57
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 838735408494084100,
+						"id_str": "838735408494084096",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/media/C6PJaQPVAAA8QBq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C6PJaQPVAAA8QBq.jpg",
+						"url": "https://t.co/gGVHOsxZRl",
+						"display_url": "pic.twitter.com/gGVHOsxZRl",
+						"expanded_url": "https://twitter.com/xkcdComic/status/838735411895808001/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 285,
+								"h": 413,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 285,
+								"h": 413,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 285,
+								"h": 413,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 838735408494084100,
+						"id_str": "838735408494084096",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/media/C6PJaQPVAAA8QBq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C6PJaQPVAAA8QBq.jpg",
+						"url": "https://t.co/gGVHOsxZRl",
+						"display_url": "pic.twitter.com/gGVHOsxZRl",
+						"expanded_url": "https://twitter.com/xkcdComic/status/838735411895808001/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 285,
+								"h": 413,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 285,
+								"h": 413,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 285,
+								"h": 413,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://dghubble.com\" rel=\"nofollow\">xkcdComic</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2251623492,
+				"id_str": "2251623492",
+				"name": "XKCD Comic",
+				"screen_name": "xkcdComic",
+				"location": "",
+				"description": "XKCD comic feed with images, mobile friendly links, and what-if articles. Unofficial, run by @dghubble",
+				"url": "http://t.co/Tca90xyNDW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Tca90xyNDW",
+								"expanded_url": "http://xkcd.com",
+								"display_url": "xkcd.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 84815,
+				"friends_count": 1,
+				"listed_count": 1379,
+				"created_at": "Wed Dec 18 08:00:58 +0000 2013",
+				"favourites_count": 5,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 579,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/413359024617185280/pS8lVAWA_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/413359024617185280/pS8lVAWA_normal.png",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 218,
+			"favorite_count": 239,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 218,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Mar 06 12:57:07 +0000 2017",
+		"id": 838735191946448900,
+		"id_str": "838735191946448897",
+		"text": "Mijn nieuwe column op Numrush! Hackers in de kinderkamer https://t.co/xrgwFe2MwU",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xrgwFe2MwU",
+					"expanded_url": "http://numrush.nl/2017/03/06/column-frank-meeuwsen-hackers-kinderkamer/",
+					"display_url": "numrush.nl/2017/03/06/col…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! |",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9226,
+			"friends_count": 1837,
+			"listed_count": 629,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3114,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62237,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1487681446",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
+		"created_at": "Mon Mar 06 12:51:51 +0000 2017",
+		"id": 838733868832260100,
+		"id_str": "838733868832260096",
+		"text": "@Heimerik Als het in comic sans was geprint was het echt af...",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Heimerik",
+					"name": "Rik toe Water",
+					"id": 27025735,
+					"id_str": "27025735",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 838722467006922800,
+		"in_reply_to_status_id_str": "838722467006922753",
+		"in_reply_to_user_id": 27025735,
+		"in_reply_to_user_id_str": "27025735",
+		"in_reply_to_screen_name": "Heimerik",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! |",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9226,
+			"friends_count": 1837,
+			"listed_count": 629,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3114,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62237,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1487681446",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Mon Mar 06 11:40:27 +0000 2017",
 		"id": 838715898101960700,
 		"id_str": "838715898101960704",
