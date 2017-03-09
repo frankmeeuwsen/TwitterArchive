@@ -1,6 +1,304 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Thu Mar 09 15:18:29 +0000 2017",
+		"id": 839857933915668500,
+		"id_str": "839857933915668481",
+		"text": "RT @privacyfirst: Analyse verkiezingsprogramma's: @GroenLinks, @D66, @PartijvdDieren &amp; @Piratenpartij doen het goed op #Privacy https://t.c…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Privacy",
+					"indices": [
+						123,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "privacyfirst",
+					"name": "Privacy First",
+					"id": 56665846,
+					"id_str": "56665846",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "groenlinks",
+					"name": "GroenLinks",
+					"id": 11836402,
+					"id_str": "11836402",
+					"indices": [
+						50,
+						61
+					]
+				},
+				{
+					"screen_name": "D66",
+					"name": "D66",
+					"id": 28076891,
+					"id_str": "28076891",
+					"indices": [
+						63,
+						67
+					]
+				},
+				{
+					"screen_name": "PartijvdDieren",
+					"name": "PvdD",
+					"id": 20710359,
+					"id_str": "20710359",
+					"indices": [
+						69,
+						84
+					]
+				},
+				{
+					"screen_name": "Piratenpartij",
+					"name": "Piratenpartij",
+					"id": 44876843,
+					"id_str": "44876843",
+					"indices": [
+						91,
+						105
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! |",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9225,
+			"friends_count": 1837,
+			"listed_count": 626,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3117,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62234,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1487681446",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Mar 09 14:50:37 +0000 2017",
+			"id": 839850918057230300,
+			"id_str": "839850918057230338",
+			"text": "Analyse verkiezingsprogramma's: @GroenLinks, @D66, @PartijvdDieren &amp; @Piratenpartij doen het goed op #Privacy https://t.co/jF34jTydRA",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Privacy",
+						"indices": [
+							105,
+							113
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "groenlinks",
+						"name": "GroenLinks",
+						"id": 11836402,
+						"id_str": "11836402",
+						"indices": [
+							32,
+							43
+						]
+					},
+					{
+						"screen_name": "D66",
+						"name": "D66",
+						"id": 28076891,
+						"id_str": "28076891",
+						"indices": [
+							45,
+							49
+						]
+					},
+					{
+						"screen_name": "PartijvdDieren",
+						"name": "PvdD",
+						"id": 20710359,
+						"id_str": "20710359",
+						"indices": [
+							51,
+							66
+						]
+					},
+					{
+						"screen_name": "Piratenpartij",
+						"name": "Piratenpartij",
+						"id": 44876843,
+						"id_str": "44876843",
+						"indices": [
+							73,
+							87
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/jF34jTydRA",
+						"expanded_url": "https://www.privacyfirst.nl/aandachtsvelden/wetgeving/item/1066-groenlinks-d66-partij-voor-de-dieren-en-piratenpartij-doen-het-goed-als-het-om-privacy-gaat.html",
+						"display_url": "privacyfirst.nl/aandachtsvelde…",
+						"indices": [
+							114,
+							137
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 56665846,
+				"id_str": "56665846",
+				"name": "Privacy First",
+				"screen_name": "privacyfirst",
+				"location": "Amsterdam, Nederland",
+				"description": "Stichting Privacy First zet zich in voor het behoud en de versterking van uw recht op privacy.",
+				"url": "https://t.co/CIon4inzcA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/CIon4inzcA",
+								"expanded_url": "https://www.privacyfirst.nl",
+								"display_url": "privacyfirst.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3048,
+				"friends_count": 422,
+				"listed_count": 114,
+				"created_at": "Tue Jul 14 11:03:16 +0000 2009",
+				"favourites_count": 6,
+				"utc_offset": 3600,
+				"time_zone": "Amsterdam",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 12951,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/389895007/privacykey3.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/389895007/privacykey3.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/312986123/Logo_SPF-symbool-315_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/312986123/Logo_SPF-symbool-315_normal.jpg",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Thu Mar 09 12:11:50 +0000 2017",
 		"id": 839810959900360700,
 		"id_str": "839810959900360706",
