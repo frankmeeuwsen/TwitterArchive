@@ -1,6 +1,636 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Sun Mar 12 19:17:47 +0000 2017",
+		"id": 841005316552708100,
+		"id_str": "841005316552708102",
+		"text": "RT @CityLightsBooks: Jack Kerouac. Born on this day in Lowell, MA, 1922. #JackKerouac https://t.co/94EcUhy4E1",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JackKerouac",
+					"indices": [
+						73,
+						85
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CityLightsBooks",
+					"name": "City Lights Books",
+					"id": 16459787,
+					"id_str": "16459787",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 840371945094840300,
+					"id_str": "840371945094840320",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/C6mZ1OKVAAASqWl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C6mZ1OKVAAASqWl.jpg",
+					"url": "https://t.co/94EcUhy4E1",
+					"display_url": "pic.twitter.com/94EcUhy4E1",
+					"expanded_url": "https://twitter.com/CityLightsBooks/status/841000844342509569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 916,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1966,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 519,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 841000844342509600,
+					"source_status_id_str": "841000844342509569",
+					"source_user_id": 16459787,
+					"source_user_id_str": "16459787"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 840371945094840300,
+					"id_str": "840371945094840320",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/C6mZ1OKVAAASqWl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C6mZ1OKVAAASqWl.jpg",
+					"url": "https://t.co/94EcUhy4E1",
+					"display_url": "pic.twitter.com/94EcUhy4E1",
+					"expanded_url": "https://twitter.com/CityLightsBooks/status/841000844342509569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 916,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1966,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 519,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 841000844342509600,
+					"source_status_id_str": "841000844342509569",
+					"source_user_id": 16459787,
+					"source_user_id_str": "16459787"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! |",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9230,
+			"friends_count": 1836,
+			"listed_count": 625,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3134,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62248,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1487681446",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Mar 12 19:00:00 +0000 2017",
+			"id": 841000844342509600,
+			"id_str": "841000844342509569",
+			"text": "Jack Kerouac. Born on this day in Lowell, MA, 1922. #JackKerouac https://t.co/94EcUhy4E1",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "JackKerouac",
+						"indices": [
+							52,
+							64
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 840371945094840300,
+						"id_str": "840371945094840320",
+						"indices": [
+							65,
+							88
+						],
+						"media_url": "http://pbs.twimg.com/media/C6mZ1OKVAAASqWl.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C6mZ1OKVAAASqWl.jpg",
+						"url": "https://t.co/94EcUhy4E1",
+						"display_url": "pic.twitter.com/94EcUhy4E1",
+						"expanded_url": "https://twitter.com/CityLightsBooks/status/841000844342509569/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 916,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1500,
+								"h": 1966,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 519,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 840371945094840300,
+						"id_str": "840371945094840320",
+						"indices": [
+							65,
+							88
+						],
+						"media_url": "http://pbs.twimg.com/media/C6mZ1OKVAAASqWl.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C6mZ1OKVAAASqWl.jpg",
+						"url": "https://t.co/94EcUhy4E1",
+						"display_url": "pic.twitter.com/94EcUhy4E1",
+						"expanded_url": "https://twitter.com/CityLightsBooks/status/841000844342509569/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 916,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1500,
+								"h": 1966,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 519,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16459787,
+				"id_str": "16459787",
+				"name": "City Lights Books",
+				"screen_name": "CityLightsBooks",
+				"location": "San Francisco, CA",
+				"description": "A landmark independent bookstore & publisher that specializes in world literature, the arts, & progressive politics. Visit our blog at http://t.co/6MKhYzmRGp",
+				"url": "http://t.co/KpzyDFIctD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/KpzyDFIctD",
+								"expanded_url": "http://www.citylights.com",
+								"display_url": "citylights.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/6MKhYzmRGp",
+								"expanded_url": "http://blogcitylights.com",
+								"display_url": "blogcitylights.com",
+								"indices": [
+									135,
+									157
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 125813,
+				"friends_count": 1716,
+				"listed_count": 2313,
+				"created_at": "Thu Sep 25 23:18:02 +0000 2008",
+				"favourites_count": 3945,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 15496,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "111212",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000154320592/p7oexYVX.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000154320592/p7oexYVX.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/684457761594150912/4kfvZk2K_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/684457761594150912/4kfvZk2K_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16459787/1485463466",
+				"profile_link_color": "EEC719",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E08216",
+				"profile_text_color": "273D45",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Mar 12 19:17:07 +0000 2017",
+		"id": 841005148805746700,
+		"id_str": "841005148805746688",
+		"text": "Omekot @Marjolijn zeg dat je hier bij bent geweest! Of gaat zijn. Of bent aan het zijn. Tijdzones zijn niet mijn di… https://t.co/I0xXp4bhnh",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Marjolijn",
+					"name": "Marjolijn",
+					"id": 1610571,
+					"id_str": "1610571",
+					"indices": [
+						7,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/I0xXp4bhnh",
+					"expanded_url": "https://twitter.com/i/web/status/841005148805746688",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! |",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9230,
+			"friends_count": 1836,
+			"listed_count": 625,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3134,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62248,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1487681446",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 840696837933826000,
+		"quoted_status_id_str": "840696837933826051",
+		"quoted_status": {
+			"created_at": "Sat Mar 11 22:52:00 +0000 2017",
+			"id": 840696837933826000,
+			"id_str": "840696837933826051",
+			"text": "Tomorrow at 2 PM #sxsw2017 I throw down w/  NPR’s @nprmonkeysee about #80smovies. This will be tripendicular #bratpackamerica",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "sxsw2017",
+						"indices": [
+							17,
+							26
+						]
+					},
+					{
+						"text": "80smovies",
+						"indices": [
+							70,
+							80
+						]
+					},
+					{
+						"text": "bratpackamerica",
+						"indices": [
+							109,
+							125
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "nprmonkeysee",
+						"name": "Linda Holmes",
+						"id": 15638615,
+						"id_str": "15638615",
+						"indices": [
+							50,
+							63
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 44353,
+				"id_str": "44353",
+				"name": "Kevin Smokler",
+				"screen_name": "Weegee",
+				"location": "San Francisco",
+				"description": "Author of \"Brat Pack America: A Love Letter to 80s Teen Movies.  \n\nRegular: @salon \n\nNewsletter/Trapper Keepers:  https://t.co/D1UPFtpJup",
+				"url": "https://t.co/83ezohD19T",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/83ezohD19T",
+								"expanded_url": "http://www.kevinsmokler.com",
+								"display_url": "kevinsmokler.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/D1UPFtpJup",
+								"expanded_url": "http://tinyletter.com/kevinsmokler",
+								"display_url": "tinyletter.com/kevinsmokler",
+								"indices": [
+									114,
+									137
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 60398,
+				"friends_count": 1149,
+				"listed_count": 1172,
+				"created_at": "Wed Dec 06 03:40:49 +0000 2006",
+				"favourites_count": 5943,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 61858,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/3885364/Friday_Night_Lights.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/3885364/Friday_Night_Lights.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/764301472792051712/xAGDlwqF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/764301472792051712/xAGDlwqF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/44353/1471058621",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "0B0F0D",
+				"profile_sidebar_fill_color": "EAF7CA",
+				"profile_text_color": "100F0F",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Sun Mar 12 10:38:36 +0000 2017",
 		"id": 840874659277074400,
 		"id_str": "840874659277074433",
