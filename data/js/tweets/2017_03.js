@@ -1,6 +1,373 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Sun Mar 12 10:38:36 +0000 2017",
+		"id": 840874659277074400,
+		"id_str": "840874659277074433",
+		"text": "RT @TechnicallyRon: The new twitter settings are pretty good to be fair https://t.co/pHYdsBfwnp",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TechnicallyRon",
+					"name": "TechnicallyRon",
+					"id": 108140114,
+					"id_str": "108140114",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 840628309025292300,
+					"id_str": "840628309025292288",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/C6qC_kOXAAAFPGA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C6qC_kOXAAAFPGA.jpg",
+					"url": "https://t.co/pHYdsBfwnp",
+					"display_url": "pic.twitter.com/pHYdsBfwnp",
+					"expanded_url": "https://twitter.com/TechnicallyRon/status/840628391845978113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 359,
+							"h": 577,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 359,
+							"h": 577,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 359,
+							"h": 577,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 840628391845978100,
+					"source_status_id_str": "840628391845978113",
+					"source_user_id": 108140114,
+					"source_user_id_str": "108140114"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 840628309025292300,
+					"id_str": "840628309025292288",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/C6qC_kOXAAAFPGA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C6qC_kOXAAAFPGA.jpg",
+					"url": "https://t.co/pHYdsBfwnp",
+					"display_url": "pic.twitter.com/pHYdsBfwnp",
+					"expanded_url": "https://twitter.com/TechnicallyRon/status/840628391845978113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 359,
+							"h": 577,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 359,
+							"h": 577,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 359,
+							"h": 577,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 840628391845978100,
+					"source_status_id_str": "840628391845978113",
+					"source_user_id": 108140114,
+					"source_user_id_str": "108140114"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! |",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9229,
+			"friends_count": 1836,
+			"listed_count": 626,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3132,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62246,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1487681446",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Mar 11 18:20:01 +0000 2017",
+			"id": 840628391845978100,
+			"id_str": "840628391845978113",
+			"text": "The new twitter settings are pretty good to be fair https://t.co/pHYdsBfwnp",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 840628309025292300,
+						"id_str": "840628309025292288",
+						"indices": [
+							52,
+							75
+						],
+						"media_url": "http://pbs.twimg.com/media/C6qC_kOXAAAFPGA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C6qC_kOXAAAFPGA.jpg",
+						"url": "https://t.co/pHYdsBfwnp",
+						"display_url": "pic.twitter.com/pHYdsBfwnp",
+						"expanded_url": "https://twitter.com/TechnicallyRon/status/840628391845978113/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 359,
+								"h": 577,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 359,
+								"h": 577,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 359,
+								"h": 577,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 840628309025292300,
+						"id_str": "840628309025292288",
+						"indices": [
+							52,
+							75
+						],
+						"media_url": "http://pbs.twimg.com/media/C6qC_kOXAAAFPGA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C6qC_kOXAAAFPGA.jpg",
+						"url": "https://t.co/pHYdsBfwnp",
+						"display_url": "pic.twitter.com/pHYdsBfwnp",
+						"expanded_url": "https://twitter.com/TechnicallyRon/status/840628391845978113/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 359,
+								"h": 577,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 359,
+								"h": 577,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 359,
+								"h": 577,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 108140114,
+				"id_str": "108140114",
+				"name": "TechnicallyRon",
+				"screen_name": "TechnicallyRon",
+				"location": "London, England",
+				"description": "Idiot. Human disaster. Author of Lifeabet (https://t.co/GMhCbXMIn7) and 'The Anxiety Survival Guide' coming 2018",
+				"url": "https://t.co/XX69ETz4xd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/XX69ETz4xd",
+								"expanded_url": "http://www.technicallyron.com",
+								"display_url": "technicallyron.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/GMhCbXMIn7",
+								"expanded_url": "http://bit.ly/Lifeabet",
+								"display_url": "bit.ly/Lifeabet",
+								"indices": [
+									43,
+									66
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 86587,
+				"friends_count": 930,
+				"listed_count": 1084,
+				"created_at": "Mon Jan 25 00:18:06 +0000 2010",
+				"favourites_count": 9056,
+				"utc_offset": -36000,
+				"time_zone": "Hawaii",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 124536,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FF6699",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/815170921770131456/dUazScWA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/815170921770131456/dUazScWA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/108140114/1474712808",
+				"profile_link_color": "B40B43",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 528,
+			"favorite_count": 1224,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 528,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Mar 12 06:37:56 +0000 2017",
 		"id": 840814096564006900,
 		"id_str": "840814096564006912",
