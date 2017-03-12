@@ -1,6 +1,256 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Sun Mar 12 06:37:56 +0000 2017",
+		"id": 840814096564006900,
+		"id_str": "840814096564006912",
+		"text": "RT @Vigro: Ik vraag me dus al weken af: “Wat is waar?” https://t.co/pzea74xxm5",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Vigro",
+					"name": "Martin Klomp",
+					"id": 6256452,
+					"id_str": "6256452",
+					"indices": [
+						3,
+						9
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/pzea74xxm5",
+					"expanded_url": "https://medium.com/@vigro/wat-is-waar-926a6bda36e8?source=twitterShare-62c71cbf4372-1489299866",
+					"display_url": "medium.com/@vigro/wat-is-…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! |",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9230,
+			"friends_count": 1839,
+			"listed_count": 625,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3132,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62245,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1487681446",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Mar 12 06:24:46 +0000 2017",
+			"id": 840810779943292900,
+			"id_str": "840810779943292928",
+			"text": "Ik vraag me dus al weken af: “Wat is waar?” https://t.co/pzea74xxm5",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/pzea74xxm5",
+						"expanded_url": "https://medium.com/@vigro/wat-is-waar-926a6bda36e8?source=twitterShare-62c71cbf4372-1489299866",
+						"display_url": "medium.com/@vigro/wat-is-…",
+						"indices": [
+							44,
+							67
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">iOS</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 6256452,
+				"id_str": "6256452",
+				"name": "Martin Klomp",
+				"screen_name": "Vigro",
+				"location": "Hardinxveld-Giessendam",
+				"description": "https://t.co/oLPI3dMLES\nhttps://t.co/7k7K7PAMST\nhttps://t.co/c4XEhrHls7\nhttps://t.co/rFQWPFAUdD",
+				"url": "http://t.co/S2Ks3Bhk6a",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/S2Ks3Bhk6a",
+								"expanded_url": "http://www.stookhoksessies.nl/",
+								"display_url": "stookhoksessies.nl",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/oLPI3dMLES",
+								"expanded_url": "https://instagram.com/vigro",
+								"display_url": "instagram.com/vigro",
+								"indices": [
+									0,
+									23
+								]
+							},
+							{
+								"url": "https://t.co/7k7K7PAMST",
+								"expanded_url": "https://soundcloud.com/vigro",
+								"display_url": "soundcloud.com/vigro",
+								"indices": [
+									24,
+									47
+								]
+							},
+							{
+								"url": "https://t.co/c4XEhrHls7",
+								"expanded_url": "https://www.pinterest.com/vigro/",
+								"display_url": "pinterest.com/vigro/",
+								"indices": [
+									48,
+									71
+								]
+							},
+							{
+								"url": "https://t.co/rFQWPFAUdD",
+								"expanded_url": "https://open.spotify.com/user/vigro13",
+								"display_url": "open.spotify.com/user/vigro13",
+								"indices": [
+									72,
+									95
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 671,
+				"friends_count": 287,
+				"listed_count": 40,
+				"created_at": "Wed May 23 09:40:00 +0000 2007",
+				"favourites_count": 4148,
+				"utc_offset": 3600,
+				"time_zone": "Amsterdam",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 33334,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/779898682/4ba89d6857a1407a259b10dc88ea1be1.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/779898682/4ba89d6857a1407a259b10dc88ea1be1.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/702212654119649280/S4rgDhmN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/702212654119649280/S4rgDhmN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/6256452/1482740646",
+				"profile_link_color": "999999",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "222222",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Sat Mar 11 19:33:21 +0000 2017",
 		"id": 840646846720725000,
 		"id_str": "840646846720724993",
