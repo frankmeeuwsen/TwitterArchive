@@ -1,6 +1,363 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Mon Mar 13 18:07:20 +0000 2017",
+		"id": 841349977586700300,
+		"id_str": "841349977586700288",
+		"text": "RT @JordanUhl: hey trump, solved your little microwave problem... https://t.co/ZiGI2zj8gb",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JordanUhl",
+					"name": "Jordan Uhl",
+					"id": 68752979,
+					"id_str": "68752979",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 841303699972595700,
+					"id_str": "841303699972595712",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/C6zpQfkWoAALZ5w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C6zpQfkWoAALZ5w.jpg",
+					"url": "https://t.co/ZiGI2zj8gb",
+					"display_url": "pic.twitter.com/ZiGI2zj8gb",
+					"expanded_url": "https://twitter.com/JordanUhl/status/841303749100523522/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 519,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 733,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 733,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 841303749100523500,
+					"source_status_id_str": "841303749100523522",
+					"source_user_id": 68752979,
+					"source_user_id_str": "68752979"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 841303699972595700,
+					"id_str": "841303699972595712",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/C6zpQfkWoAALZ5w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C6zpQfkWoAALZ5w.jpg",
+					"url": "https://t.co/ZiGI2zj8gb",
+					"display_url": "pic.twitter.com/ZiGI2zj8gb",
+					"expanded_url": "https://twitter.com/JordanUhl/status/841303749100523522/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 519,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 733,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 733,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 841303749100523500,
+					"source_status_id_str": "841303749100523522",
+					"source_user_id": 68752979,
+					"source_user_id_str": "68752979"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! |",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9225,
+			"friends_count": 1836,
+			"listed_count": 625,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3135,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62230,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1487681446",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Mar 13 15:03:39 +0000 2017",
+			"id": 841303749100523500,
+			"id_str": "841303749100523522",
+			"text": "hey trump, solved your little microwave problem... https://t.co/ZiGI2zj8gb",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 841303699972595700,
+						"id_str": "841303699972595712",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/media/C6zpQfkWoAALZ5w.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C6zpQfkWoAALZ5w.jpg",
+						"url": "https://t.co/ZiGI2zj8gb",
+						"display_url": "pic.twitter.com/ZiGI2zj8gb",
+						"expanded_url": "https://twitter.com/JordanUhl/status/841303749100523522/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 519,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 960,
+								"h": 733,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 733,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 841303699972595700,
+						"id_str": "841303699972595712",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/media/C6zpQfkWoAALZ5w.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C6zpQfkWoAALZ5w.jpg",
+						"url": "https://t.co/ZiGI2zj8gb",
+						"display_url": "pic.twitter.com/ZiGI2zj8gb",
+						"expanded_url": "https://twitter.com/JordanUhl/status/841303749100523522/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 519,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 960,
+								"h": 733,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 733,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 68752979,
+				"id_str": "68752979",
+				"name": "Jordan Uhl",
+				"screen_name": "JordanUhl",
+				"location": "Washington, D.C.",
+				"description": "2-3 interests • Place of employment • Maybe 1-2 prominent former employers • Witty joke! • @oppstn",
+				"url": "https://t.co/QyNeRJrUAK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/QyNeRJrUAK",
+								"expanded_url": "http://amzn.to/2k5Xrv9",
+								"display_url": "amzn.to/2k5Xrv9",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 37855,
+				"friends_count": 2083,
+				"listed_count": 426,
+				"created_at": "Tue Aug 25 17:33:14 +0000 2009",
+				"favourites_count": 56601,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 6107,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/472070391385427971/pLvFjN8z.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/472070391385427971/pLvFjN8z.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/831590701972467720/VMqRmpqw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/831590701972467720/VMqRmpqw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/68752979/1484660667",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 506,
+			"favorite_count": 1249,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 506,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Mar 13 11:09:15 +0000 2017",
 		"id": 841244760643907600,
 		"id_str": "841244760643907584",
