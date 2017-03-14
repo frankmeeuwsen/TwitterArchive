@@ -1,6 +1,849 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Tue Mar 14 18:02:40 +0000 2017",
+		"id": 841711189071675400,
+		"id_str": "841711189071675392",
+		"text": "Je kunt het niet vaak genoeg herhalen. Waarom ik @Piratenpartij stem, een blogpost - https://t.co/J0jIW8Oj8t #ppnl #piratenpartij",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ppnl",
+					"indices": [
+						109,
+						114
+					]
+				},
+				{
+					"text": "piratenpartij",
+					"indices": [
+						115,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Piratenpartij",
+					"name": "Piratenpartij",
+					"id": 44876843,
+					"id_str": "44876843",
+					"indices": [
+						49,
+						63
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/J0jIW8Oj8t",
+					"expanded_url": "http://frankmeeuwsen.github.io/PPNL/",
+					"display_url": "frankmeeuwsen.github.io/PPNL/",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! |",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9225,
+			"friends_count": 1836,
+			"listed_count": 625,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3140,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62252,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1487681446",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
+		"created_at": "Tue Mar 14 17:59:24 +0000 2017",
+		"id": 841710367608885200,
+		"id_str": "841710367608885249",
+		"text": "RT @ncilla: De verkiezingsbelofte van de #Piratenpartij 💪🤓💜We're never gonna.... https://t.co/tYV1Zet42o",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Piratenpartij",
+					"indices": [
+						41,
+						55
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ncilla",
+					"name": "Ancilla van de Leest",
+					"id": 16391453,
+					"id_str": "16391453",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 841699391182393300,
+					"id_str": "841699391182393345",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/C65RIwMW0AEg6KH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C65RIwMW0AEg6KH.jpg",
+					"url": "https://t.co/tYV1Zet42o",
+					"display_url": "pic.twitter.com/tYV1Zet42o",
+					"expanded_url": "https://twitter.com/ncilla/status/841699397763289090/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 241,
+							"h": 151,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 241,
+							"h": 151,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 241,
+							"h": 151,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 841699397763289100,
+					"source_status_id_str": "841699397763289090",
+					"source_user_id": 16391453,
+					"source_user_id_str": "16391453"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 841699391182393300,
+					"id_str": "841699391182393345",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/C65RIwMW0AEg6KH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C65RIwMW0AEg6KH.jpg",
+					"url": "https://t.co/tYV1Zet42o",
+					"display_url": "pic.twitter.com/tYV1Zet42o",
+					"expanded_url": "https://twitter.com/ncilla/status/841699397763289090/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 241,
+							"h": 151,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 241,
+							"h": 151,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 241,
+							"h": 151,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 841699397763289100,
+					"source_status_id_str": "841699397763289090",
+					"source_user_id": 16391453,
+					"source_user_id_str": "16391453"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! |",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9225,
+			"friends_count": 1836,
+			"listed_count": 625,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3140,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62252,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1487681446",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Mar 14 17:15:49 +0000 2017",
+			"id": 841699397763289100,
+			"id_str": "841699397763289090",
+			"text": "De verkiezingsbelofte van de #Piratenpartij 💪🤓💜We're never gonna.... https://t.co/tYV1Zet42o",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Piratenpartij",
+						"indices": [
+							29,
+							43
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 841699391182393300,
+						"id_str": "841699391182393345",
+						"indices": [
+							69,
+							92
+						],
+						"media_url": "http://pbs.twimg.com/media/C65RIwMW0AEg6KH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C65RIwMW0AEg6KH.jpg",
+						"url": "https://t.co/tYV1Zet42o",
+						"display_url": "pic.twitter.com/tYV1Zet42o",
+						"expanded_url": "https://twitter.com/ncilla/status/841699397763289090/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 241,
+								"h": 151,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 241,
+								"h": 151,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 241,
+								"h": 151,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 841699391182393300,
+						"id_str": "841699391182393345",
+						"indices": [
+							69,
+							92
+						],
+						"media_url": "http://pbs.twimg.com/media/C65RIwMW0AEg6KH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C65RIwMW0AEg6KH.jpg",
+						"url": "https://t.co/tYV1Zet42o",
+						"display_url": "pic.twitter.com/tYV1Zet42o",
+						"expanded_url": "https://twitter.com/ncilla/status/841699397763289090/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 241,
+								"h": 151,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 241,
+								"h": 151,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 241,
+								"h": 151,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16391453,
+				"id_str": "16391453",
+				"name": "Ancilla van de Leest",
+				"screen_name": "ncilla",
+				"location": "Nederland",
+				"description": "Lijsttrekker @Piratenpartij : Vrijheid | Burgerrechten | Privacy | Transparantie | Beleid gebaseerd op feiten | LGBT | Democratie | Zorgfonds | Basisinkomen",
+				"url": "https://t.co/suLbosp3ug",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/suLbosp3ug",
+								"expanded_url": "https://www.ppnl.nl",
+								"display_url": "ppnl.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 42527,
+				"friends_count": 5492,
+				"listed_count": 1009,
+				"created_at": "Sun Sep 21 15:08:05 +0000 2008",
+				"favourites_count": 6019,
+				"utc_offset": 3600,
+				"time_zone": "Amsterdam",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 58940,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/205267871/roses-vintage.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/205267871/roses-vintage.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/838775723900960768/VFJC4N_G_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/838775723900960768/VFJC4N_G_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16391453/1484657948",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C9D6D4",
+				"profile_text_color": "BDA1BB",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 44,
+			"favorite_count": 49,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"is_quote_status": false,
+		"retweet_count": 44,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
+		"created_at": "Tue Mar 14 17:51:01 +0000 2017",
+		"id": 841708256112332800,
+		"id_str": "841708256112332800",
+		"text": "RT @Piratenpartij: De toekomst van Nederland ziet er  zonnig uit. Maar liefst 7 zetels voor de #Piratenpartij! #scholierenverkiezingen http…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Piratenpartij",
+					"indices": [
+						95,
+						109
+					]
+				},
+				{
+					"text": "scholierenverkiezingen",
+					"indices": [
+						111,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Piratenpartij",
+					"name": "Piratenpartij",
+					"id": 44876843,
+					"id_str": "44876843",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! |",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9225,
+			"friends_count": 1836,
+			"listed_count": 625,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3140,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62252,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1487681446",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Mar 14 17:01:13 +0000 2017",
+			"id": 841695726627250200,
+			"id_str": "841695726627250177",
+			"text": "De toekomst van Nederland ziet er  zonnig uit. Maar liefst 7 zetels voor de #Piratenpartij! #scholierenverkiezingen… https://t.co/FU1FpnI4H7",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Piratenpartij",
+						"indices": [
+							76,
+							90
+						]
+					},
+					{
+						"text": "scholierenverkiezingen",
+						"indices": [
+							92,
+							115
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/FU1FpnI4H7",
+						"expanded_url": "https://twitter.com/i/web/status/841695726627250177",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 44876843,
+				"id_str": "44876843",
+				"name": "Piratenpartij",
+				"screen_name": "Piratenpartij",
+				"location": "The Netherlands",
+				"description": "De Piratenpartij (#PPNL) staat voor vrijheid van informatie, burgerrechten, privacy, transparantie en directe democratie. https://t.co/nH6W1q6HDA",
+				"url": "https://t.co/j622nmvojT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/j622nmvojT",
+								"expanded_url": "https://piratenpartij.nl",
+								"display_url": "piratenpartij.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/nH6W1q6HDA",
+								"expanded_url": "https://tk2017.piratenpartij.nl/",
+								"display_url": "tk2017.piratenpartij.nl",
+								"indices": [
+									122,
+									145
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 16640,
+				"friends_count": 12282,
+				"listed_count": 614,
+				"created_at": "Fri Jun 05 12:03:42 +0000 2009",
+				"favourites_count": 11750,
+				"utc_offset": 3600,
+				"time_zone": "Amsterdam",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 25994,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000178522181/GEE-UPzx.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000178522181/GEE-UPzx.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/762032061897113600/GoP0J5x7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/762032061897113600/GoP0J5x7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/44876843/1484593566",
+				"profile_link_color": "572B85",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C7C7C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 27,
+			"favorite_count": 30,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "nl"
+	},
+	{
+		"created_at": "Tue Mar 14 17:49:18 +0000 2017",
+		"id": 841707824526827500,
+		"id_str": "841707824526827520",
+		"text": "@Merkwerker nu begint het wel verleidelijk te worden, zo'n kaartje...",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Merkwerker",
+					"name": "Merkwerker",
+					"id": 2846461203,
+					"id_str": "2846461203",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 841685083836813300,
+		"in_reply_to_status_id_str": "841685083836813312",
+		"in_reply_to_user_id": 2846461203,
+		"in_reply_to_user_id_str": "2846461203",
+		"in_reply_to_screen_name": "Merkwerker",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! |",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9225,
+			"friends_count": 1836,
+			"listed_count": 625,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3140,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62252,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1487681446",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Tue Mar 14 16:07:33 +0000 2017",
 		"id": 841682219685072900,
 		"id_str": "841682219685072896",
