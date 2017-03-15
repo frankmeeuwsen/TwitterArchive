@@ -1,6 +1,620 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Wed Mar 15 21:44:01 +0000 2017",
+		"id": 842129283191562200,
+		"id_str": "842129283191562250",
+		"text": "RT @lemonodor: Traps for autonomous cars, by @jamesbridle: https://t.co/Ozl7oKOlnh https://t.co/zh0ZAriYCP",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lemonodor",
+					"name": "John Wiseman",
+					"id": 1682351,
+					"id_str": "1682351",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "jamesbridle",
+					"name": "James Bridle",
+					"id": 187512368,
+					"id_str": "187512368",
+					"indices": [
+						45,
+						57
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ozl7oKOlnh",
+					"expanded_url": "https://www.flickr.com/photos/stml/albums/72157679746550690/with/33411791166/",
+					"display_url": "flickr.com/photos/stml/al…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 842057708702453800,
+					"id_str": "842057708702453760",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/C6-XBk-W0AA9fkr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C6-XBk-W0AA9fkr.jpg",
+					"url": "https://t.co/zh0ZAriYCP",
+					"display_url": "pic.twitter.com/zh0ZAriYCP",
+					"expanded_url": "https://twitter.com/lemonodor/status/842057726825975808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 643,
+							"h": 581,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 643,
+							"h": 581,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 643,
+							"h": 581,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 842057726825975800,
+					"source_status_id_str": "842057726825975808",
+					"source_user_id": 1682351,
+					"source_user_id_str": "1682351"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 842057708702453800,
+					"id_str": "842057708702453760",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/C6-XBk-W0AA9fkr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C6-XBk-W0AA9fkr.jpg",
+					"url": "https://t.co/zh0ZAriYCP",
+					"display_url": "pic.twitter.com/zh0ZAriYCP",
+					"expanded_url": "https://twitter.com/lemonodor/status/842057726825975808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 643,
+							"h": 581,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 643,
+							"h": 581,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 643,
+							"h": 581,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 842057726825975800,
+					"source_status_id_str": "842057726825975808",
+					"source_user_id": 1682351,
+					"source_user_id_str": "1682351"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! |",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9220,
+			"friends_count": 1837,
+			"listed_count": 625,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3153,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62284,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1487681446",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Mar 15 16:59:41 +0000 2017",
+			"id": 842057726825975800,
+			"id_str": "842057726825975808",
+			"text": "Traps for autonomous cars, by @jamesbridle: https://t.co/Ozl7oKOlnh https://t.co/zh0ZAriYCP",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "jamesbridle",
+						"name": "James Bridle",
+						"id": 187512368,
+						"id_str": "187512368",
+						"indices": [
+							30,
+							42
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Ozl7oKOlnh",
+						"expanded_url": "https://www.flickr.com/photos/stml/albums/72157679746550690/with/33411791166/",
+						"display_url": "flickr.com/photos/stml/al…",
+						"indices": [
+							44,
+							67
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 842057708702453800,
+						"id_str": "842057708702453760",
+						"indices": [
+							68,
+							91
+						],
+						"media_url": "http://pbs.twimg.com/media/C6-XBk-W0AA9fkr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C6-XBk-W0AA9fkr.jpg",
+						"url": "https://t.co/zh0ZAriYCP",
+						"display_url": "pic.twitter.com/zh0ZAriYCP",
+						"expanded_url": "https://twitter.com/lemonodor/status/842057726825975808/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 643,
+								"h": 581,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 643,
+								"h": 581,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 643,
+								"h": 581,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 842057708702453800,
+						"id_str": "842057708702453760",
+						"indices": [
+							68,
+							91
+						],
+						"media_url": "http://pbs.twimg.com/media/C6-XBk-W0AA9fkr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C6-XBk-W0AA9fkr.jpg",
+						"url": "https://t.co/zh0ZAriYCP",
+						"display_url": "pic.twitter.com/zh0ZAriYCP",
+						"expanded_url": "https://twitter.com/lemonodor/status/842057726825975808/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 643,
+								"h": 581,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 643,
+								"h": 581,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 643,
+								"h": 581,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1682351,
+				"id_str": "1682351",
+				"name": "John Wiseman",
+				"screen_name": "lemonodor",
+				"location": "Los Angeles",
+				"description": "Persistent sousveiller, builder of speech interfaces. jjwiseman@gmail.com / https://t.co/r2HAYBu4LF",
+				"url": "http://t.co/JFgzDlsyFp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/JFgzDlsyFp",
+								"expanded_url": "http://lemondronor.com/",
+								"display_url": "lemondronor.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/r2HAYBu4LF",
+								"expanded_url": "http://keybase.io/lemonodor",
+								"display_url": "keybase.io/lemonodor",
+								"indices": [
+									76,
+									99
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1835,
+				"friends_count": 632,
+				"listed_count": 103,
+				"created_at": "Tue Mar 20 22:52:08 +0000 2007",
+				"favourites_count": 7269,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6056,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/450039947001487360/kSy6Eql1.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/450039947001487360/kSy6Eql1.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/596349970401267712/78XeQR5B_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/596349970401267712/78XeQR5B_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1682351/1400643238",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 981,
+			"favorite_count": 1220,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 981,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Mar 15 21:41:37 +0000 2017",
+		"id": 842128676716175400,
+		"id_str": "842128676716175380",
+		"text": "RT @pnederkoorn: Heeft Henk Krol de PvdA al gefeliciteerd? #tk17",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tk17",
+					"indices": [
+						59,
+						64
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pnederkoorn",
+					"name": "Patrick Nederkoorn",
+					"id": 269031159,
+					"id_str": "269031159",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! |",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9220,
+			"friends_count": 1837,
+			"listed_count": 625,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3153,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62284,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1487681446",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Mar 15 21:31:14 +0000 2017",
+			"id": 842126064990195700,
+			"id_str": "842126064990195712",
+			"text": "Heeft Henk Krol de PvdA al gefeliciteerd? #tk17",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "tk17",
+						"indices": [
+							42,
+							47
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 269031159,
+				"id_str": "269031159",
+				"name": "Patrick Nederkoorn",
+				"screen_name": "pnederkoorn",
+				"location": "",
+				"description": "Cabaretier. Theatervoorstelling Het Komt Nu Wel Heel Dichtbij @humstu en festivalvoorstelling @zomaargasten, schrijft voor @varaspijkers en @oogopmorgen",
+				"url": "https://t.co/9tc4AhKsoR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9tc4AhKsoR",
+								"expanded_url": "http://www.patricknederkoorn.nl",
+								"display_url": "patricknederkoorn.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 883,
+				"friends_count": 595,
+				"listed_count": 22,
+				"created_at": "Sat Mar 19 23:57:00 +0000 2011",
+				"favourites_count": 395,
+				"utc_offset": 7200,
+				"time_zone": "Athens",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1119,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/701032206265929728/UPGZNI7W_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/701032206265929728/UPGZNI7W_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 71,
+			"favorite_count": 67,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "nl"
+		},
+		"is_quote_status": false,
+		"retweet_count": 71,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Wed Mar 15 19:37:22 +0000 2017",
 		"id": 842097411132686300,
 		"id_str": "842097411132686336",
