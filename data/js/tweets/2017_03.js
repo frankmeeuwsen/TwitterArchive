@@ -1,6 +1,301 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Wed Mar 15 18:35:04 +0000 2017",
+		"id": 842081732622987300,
+		"id_str": "842081732622987264",
+		"text": "Ze volgen een sessie op SXSW over gifs in de journalistiek en hupsakeetje! 😉 https://t.co/NGinWioUxG",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NGinWioUxG",
+					"expanded_url": "https://twitter.com/numrush/status/842079288006447104",
+					"display_url": "twitter.com/numrush/status…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! |",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9220,
+			"friends_count": 1837,
+			"listed_count": 625,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3148,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62281,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1487681446",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 842079288006447100,
+		"quoted_status_id_str": "842079288006447104",
+		"quoted_status": {
+			"created_at": "Wed Mar 15 18:25:21 +0000 2017",
+			"id": 842079288006447100,
+			"id_str": "842079288006447104",
+			"text": "VISA toont zonnebril waarmee je kunt betalen https://t.co/ZsnZGG3Cxv https://t.co/lBB4UvmU0e",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ZsnZGG3Cxv",
+						"expanded_url": "http://bit.ly/2nFbx85",
+						"display_url": "bit.ly/2nFbx85",
+						"indices": [
+							45,
+							68
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 842079283703091200,
+						"id_str": "842079283703091200",
+						"indices": [
+							69,
+							92
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/C6-qpaHWkAA1i2u.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C6-qpaHWkAA1i2u.jpg",
+						"url": "https://t.co/lBB4UvmU0e",
+						"display_url": "pic.twitter.com/lBB4UvmU0e",
+						"expanded_url": "https://twitter.com/Numrush/status/842079288006447104/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 500,
+								"h": 284,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 500,
+								"h": 284,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 193,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 842079283703091200,
+						"id_str": "842079283703091200",
+						"indices": [
+							69,
+							92
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/C6-qpaHWkAA1i2u.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C6-qpaHWkAA1i2u.jpg",
+						"url": "https://t.co/lBB4UvmU0e",
+						"display_url": "pic.twitter.com/lBB4UvmU0e",
+						"expanded_url": "https://twitter.com/Numrush/status/842079288006447104/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"large": {
+								"w": 500,
+								"h": 284,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 500,
+								"h": 284,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 193,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								125,
+								71
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/C6-qpaHWkAA1i2u.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 529372023,
+				"id_str": "529372023",
+				"name": "Numrush",
+				"screen_name": "Numrush",
+				"location": "Amsterdam",
+				"description": "Techsite over de impact van innovatie. Nieuws en achtergrond over de wijze waarop technologie ons dagelijks leven, werk en cultuur verandert. tips@numrush.nl",
+				"url": "https://t.co/CnpgAbAJwV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/CnpgAbAJwV",
+								"expanded_url": "http://www.numrush.nl",
+								"display_url": "numrush.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5860,
+				"friends_count": 6371,
+				"listed_count": 191,
+				"created_at": "Mon Mar 19 13:13:29 +0000 2012",
+				"favourites_count": 88,
+				"utc_offset": 3600,
+				"time_zone": "Amsterdam",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 16309,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/452760011/pattern.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/452760011/pattern.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/684356637344317440/LMx7kO5f_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/684356637344317440/LMx7kO5f_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/529372023/1479080300",
+				"profile_link_color": "FFB400",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Wed Mar 15 17:49:46 +0000 2017",
 		"id": 842070330340454400,
 		"id_str": "842070330340454411",
