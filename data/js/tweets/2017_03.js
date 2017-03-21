@@ -1,6 +1,694 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Tue Mar 21 08:37:34 +0000 2017",
+		"id": 844105693053489200,
+		"id_str": "844105693053489152",
+		"text": "/cc @gonniespijkstra https://t.co/WIv58F28Op",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gonniespijkstra",
+					"name": "Gonnie Spijkstra",
+					"id": 7677082,
+					"id_str": "7677082",
+					"indices": [
+						4,
+						20
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WIv58F28Op",
+					"expanded_url": "https://twitter.com/jangles/status/844105418787950592",
+					"display_url": "twitter.com/jangles/status…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! |",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9219,
+			"friends_count": 1837,
+			"listed_count": 625,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3157,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62279,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1487681446",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 844105418787950600,
+		"quoted_status_id_str": "844105418787950592",
+		"quoted_status": {
+			"created_at": "Tue Mar 21 08:36:29 +0000 2017",
+			"id": 844105418787950600,
+			"id_str": "844105418787950592",
+			"text": "Why @qz puts user experience at the centre of its strategy https://t.co/sgIBZlAlox via @journalismnews &lt; #insights",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "insights",
+						"indices": [
+							108,
+							117
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "qz",
+						"name": "Quartz",
+						"id": 573918122,
+						"id_str": "573918122",
+						"indices": [
+							4,
+							7
+						]
+					},
+					{
+						"screen_name": "journalismnews",
+						"name": "Journalism.co.uk",
+						"id": 3943871,
+						"id_str": "3943871",
+						"indices": [
+							87,
+							102
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/sgIBZlAlox",
+						"expanded_url": "http://www.journalism.co.uk/news/why-quartz-puts-user-experience-at-the-centre-of-its-strategy/s2/a701418/",
+						"display_url": "journalism.co.uk/news/why-quart…",
+						"indices": [
+							59,
+							82
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 47973,
+				"id_str": "47973",
+				"name": "Neville Hobson",
+				"screen_name": "jangles",
+				"location": "Thames Valley",
+				"description": "Digital natural. Blogger. Podcaster. Occasional test pilot of shiny new objects. Opinions my own. Visual content https://t.co/3w8oJ9vwkT",
+				"url": "https://t.co/kE8GgIPO44",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kE8GgIPO44",
+								"expanded_url": "http://www.nevillehobson.com",
+								"display_url": "nevillehobson.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/3w8oJ9vwkT",
+								"expanded_url": "http://www.rebelmouse.com/jangles",
+								"display_url": "rebelmouse.com/jangles",
+								"indices": [
+									113,
+									136
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 14144,
+				"friends_count": 2799,
+				"listed_count": 1879,
+				"created_at": "Thu Dec 07 12:46:55 +0000 2006",
+				"favourites_count": 1354,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 87247,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/641142977457315840/DIY2KSg0_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/641142977457315840/DIY2KSg0_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/47973/1398249034",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Tue Mar 21 08:29:23 +0000 2017",
+		"id": 844103634652745700,
+		"id_str": "844103634652745728",
+		"text": "Dagstart bij @TheVillageCaM. Je mist wat @Roh 😉 https://t.co/uMkk1YIdxc",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheVillageCaM",
+					"name": "TheVillageCoffee",
+					"id": 260992622,
+					"id_str": "260992622",
+					"indices": [
+						13,
+						27
+					]
+				},
+				{
+					"screen_name": "Roh",
+					"name": "Ronald van Schaik",
+					"id": 1447551,
+					"id_str": "1447551",
+					"indices": [
+						41,
+						45
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 844103586426617900,
+					"id_str": "844103586426617856",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/844103586426617856/pu/img/I2tsKZKay2DEa61c.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/844103586426617856/pu/img/I2tsKZKay2DEa61c.jpg",
+					"url": "https://t.co/uMkk1YIdxc",
+					"display_url": "pic.twitter.com/uMkk1YIdxc",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/844103634652745728/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 844103586426617900,
+					"id_str": "844103586426617856",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/844103586426617856/pu/img/I2tsKZKay2DEa61c.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/844103586426617856/pu/img/I2tsKZKay2DEa61c.jpg",
+					"url": "https://t.co/uMkk1YIdxc",
+					"display_url": "pic.twitter.com/uMkk1YIdxc",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/844103634652745728/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 15108,
+						"variants": [
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/844103586426617856/pu/vid/240x240/cUdRsprCxo9GSW48.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/844103586426617856/pu/vid/480x480/gw5cHWpjbms65AqK.mp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/844103586426617856/pu/vid/720x720/d56QVdTATIermIq1.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/844103586426617856/pu/pl/Cw8VbvHY5P0gc8VM.m3u8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! |",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9219,
+			"friends_count": 1837,
+			"listed_count": 625,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3157,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62279,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1487681446",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
+		"created_at": "Tue Mar 21 08:28:00 +0000 2017",
+		"id": 844103285736984600,
+		"id_str": "844103285736984576",
+		"text": "RT @troyhunt: Just blogged: I just added another 140 data breaches to Have I been pwned https://t.co/5IdvFTGB4z",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "troyhunt",
+					"name": "Troy Hunt",
+					"id": 14414286,
+					"id_str": "14414286",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5IdvFTGB4z",
+					"expanded_url": "http://ift.tt/2nMANKI",
+					"display_url": "ift.tt/2nMANKI",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! |",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9219,
+			"friends_count": 1837,
+			"listed_count": 625,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3157,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62279,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1487681446",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Mar 21 03:48:19 +0000 2017",
+			"id": 844032899410264000,
+			"id_str": "844032899410264069",
+			"text": "Just blogged: I just added another 140 data breaches to Have I been pwned https://t.co/5IdvFTGB4z",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/5IdvFTGB4z",
+						"expanded_url": "http://ift.tt/2nMANKI",
+						"display_url": "ift.tt/2nMANKI",
+						"indices": [
+							74,
+							97
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14414286,
+				"id_str": "14414286",
+				"name": "Troy Hunt",
+				"screen_name": "troyhunt",
+				"location": "Australia",
+				"description": "Pluralsight author. Microsoft Regional Director and MVP for Developer Security. Online security, technology and “The Cloud”. Creator of @haveibeenpwned.",
+				"url": "https://t.co/AfbmRkyvh8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/AfbmRkyvh8",
+								"expanded_url": "https://www.troyhunt.com",
+								"display_url": "troyhunt.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 54219,
+				"friends_count": 878,
+				"listed_count": 2022,
+				"created_at": "Wed Apr 16 23:32:12 +0000 2008",
+				"favourites_count": 748,
+				"utc_offset": 36000,
+				"time_zone": "Brisbane",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 67637,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "575757",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/227451681/Twitter-Background.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/227451681/Twitter-Background.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1154092629/Square__small__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1154092629/Square__small__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14414286/1460855746",
+				"profile_link_color": "2B628A",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFF9F4",
+				"profile_text_color": "545454",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 28,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Mar 21 07:07:59 +0000 2017",
 		"id": 844083150292734000,
 		"id_str": "844083150292733953",
