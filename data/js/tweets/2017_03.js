@@ -1,6 +1,276 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Wed Mar 22 19:30:37 +0000 2017",
+		"id": 844632424227258400,
+		"id_str": "844632424227258371",
+		"text": "RT @rafahari: Introducing Settings’ Stories!\nDon’t know where to change the wifi? Share a selfie with all your friends! https://t.co/EISQ4P…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rafahari",
+					"name": "Rafael Conde",
+					"id": 42387965,
+					"id_str": "42387965",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! |",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9217,
+			"friends_count": 1839,
+			"listed_count": 626,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3158,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62284,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1487681446",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Mar 22 14:52:37 +0000 2017",
+			"id": 844562463051931600,
+			"id_str": "844562463051931648",
+			"text": "Introducing Settings’ Stories!\nDon’t know where to change the wifi? Share a selfie with all your friends! https://t.co/EISQ4PzEn1",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 844562449311379500,
+						"id_str": "844562449311379456",
+						"indices": [
+							106,
+							129
+						],
+						"media_url": "http://pbs.twimg.com/media/C7h9Eq3WsAArBtS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C7h9Eq3WsAArBtS.jpg",
+						"url": "https://t.co/EISQ4PzEn1",
+						"display_url": "pic.twitter.com/EISQ4PzEn1",
+						"expanded_url": "https://twitter.com/rafahari/status/844562463051931648/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1152,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 844562449311379500,
+						"id_str": "844562449311379456",
+						"indices": [
+							106,
+							129
+						],
+						"media_url": "http://pbs.twimg.com/media/C7h9Eq3WsAArBtS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C7h9Eq3WsAArBtS.jpg",
+						"url": "https://t.co/EISQ4PzEn1",
+						"display_url": "pic.twitter.com/EISQ4PzEn1",
+						"expanded_url": "https://twitter.com/rafahari/status/844562463051931648/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1152,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+			"in_reply_to_status_id": 844561825526173700,
+			"in_reply_to_status_id_str": "844561825526173697",
+			"in_reply_to_user_id": 42387965,
+			"in_reply_to_user_id_str": "42387965",
+			"in_reply_to_screen_name": "rafahari",
+			"user": {
+				"id": 42387965,
+				"id_str": "42387965",
+				"name": "Rafael Conde",
+				"screen_name": "rafahari",
+				"location": "Portugal ✈ San Francisco ",
+				"description": "Design Lead @Netlify,\nand co-host of @LayoutFM",
+				"url": "https://t.co/BQSecSsbat",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/BQSecSsbat",
+								"expanded_url": "http://rafaelconde.net",
+								"display_url": "rafaelconde.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1820,
+				"friends_count": 306,
+				"listed_count": 115,
+				"created_at": "Mon May 25 11:07:04 +0000 2009",
+				"favourites_count": 2064,
+				"utc_offset": 0,
+				"time_zone": "Lisbon",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9295,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/805709860037918720/fiNeqcj1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/805709860037918720/fiNeqcj1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/42387965/1480931380",
+				"profile_link_color": "122730",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 448,
+			"favorite_count": 622,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 448,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Mar 22 17:37:04 +0000 2017",
 		"id": 844603850849947600,
 		"id_str": "844603850849947648",
