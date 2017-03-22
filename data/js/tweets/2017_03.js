@@ -1,6 +1,219 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Wed Mar 22 17:37:04 +0000 2017",
+		"id": 844603850849947600,
+		"id_str": "844603850849947648",
+		"text": "@Raaphorst @erikvisser ooeehh. Laat het @Elja1op1 maar niet horen.... https://t.co/d8gr42S6W2",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Raaphorst",
+					"name": "Marco Raaphorst",
+					"id": 1082331,
+					"id_str": "1082331",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "erikvisser",
+					"name": "Erik Visser",
+					"id": 3690891,
+					"id_str": "3690891",
+					"indices": [
+						11,
+						22
+					]
+				},
+				{
+					"screen_name": "Elja1op1",
+					"name": "Elja Daae",
+					"id": 111704957,
+					"id_str": "111704957",
+					"indices": [
+						40,
+						49
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 844603842981482500,
+					"id_str": "844603842981482496",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/C7iiuGTXUAA20H0.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C7iiuGTXUAA20H0.jpg",
+					"url": "https://t.co/d8gr42S6W2",
+					"display_url": "pic.twitter.com/d8gr42S6W2",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/844603850849947648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 500,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 272,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 844603842981482500,
+					"id_str": "844603842981482496",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/C7iiuGTXUAA20H0.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C7iiuGTXUAA20H0.jpg",
+					"url": "https://t.co/d8gr42S6W2",
+					"display_url": "pic.twitter.com/d8gr42S6W2",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/844603850849947648/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 500,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 272,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 400,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							5,
+							4
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/C7iiuGTXUAA20H0.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 844603225236029400,
+		"in_reply_to_status_id_str": "844603225236029440",
+		"in_reply_to_user_id": 1082331,
+		"in_reply_to_user_id_str": "1082331",
+		"in_reply_to_screen_name": "Raaphorst",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! |",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9218,
+			"friends_count": 1839,
+			"listed_count": 625,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3158,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62283,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1487681446",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Wed Mar 22 17:03:54 +0000 2017",
 		"id": 844595501760700400,
 		"id_str": "844595501760700416",
