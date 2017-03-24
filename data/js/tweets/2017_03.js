@@ -1,6 +1,1126 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Fri Mar 24 08:38:01 +0000 2017",
+		"id": 845192968633905200,
+		"id_str": "845192968633905152",
+		"text": "Iets voor @tmobile_webcare ? https://t.co/dll4sX70mp",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tmobile_webcare",
+					"name": "T-Mobile Webcare",
+					"id": 86293774,
+					"id_str": "86293774",
+					"indices": [
+						10,
+						26
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/dll4sX70mp",
+					"expanded_url": "https://twitter.com/slofstra/status/845184387700289536",
+					"display_url": "twitter.com/slofstra/statu…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! |",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9211,
+			"friends_count": 1841,
+			"listed_count": 625,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3166,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62310,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1487681446",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 845184387700289500,
+		"quoted_status_id_str": "845184387700289536",
+		"quoted_status": {
+			"created_at": "Fri Mar 24 08:03:55 +0000 2017",
+			"id": 845184387700289500,
+			"id_str": "845184387700289536",
+			"text": "Welk groot bedrijf is bereid om op de Giro555-actiedag (woensdag) zijn webcareteam (deels) af te staan? Wordt een onvergetelijke ervaring!",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 37391040,
+				"id_str": "37391040",
+				"name": "Erik Slofstra",
+				"screen_name": "Slofstra",
+				"location": "Eindhoven",
+				"description": "socialmediastrateeg @slofstracom • zzp • momenteel in actie voor @Giro555.",
+				"url": "https://t.co/tnsbKbIkeZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/tnsbKbIkeZ",
+								"expanded_url": "http://www.slofstracommunicatie.nl",
+								"display_url": "slofstracommunicatie.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1534,
+				"friends_count": 1003,
+				"listed_count": 84,
+				"created_at": "Sun May 03 08:56:31 +0000 2009",
+				"favourites_count": 5097,
+				"utc_offset": 3600,
+				"time_zone": "Amsterdam",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11004,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/415117973/100_3765.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/415117973/100_3765.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/833991204551397376/lBnOYCfW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/833991204551397376/lBnOYCfW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/37391040/1473801843",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "E6E8EB",
+				"profile_sidebar_fill_color": "B8C1C4",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
+		"created_at": "Fri Mar 24 08:36:53 +0000 2017",
+		"id": 845192683324817400,
+		"id_str": "845192683324817411",
+		"text": "RT @Stickerart030: Excellent mural at @oproerbrouwerij // https://t.co/fakpoEdv4E https://t.co/u7KoWSnXw1",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Stickerart030",
+					"name": "Stickerart 030",
+					"id": 762370834824650800,
+					"id_str": "762370834824650752",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "oproerbrouwerij",
+					"name": "Oproer Brouwerij",
+					"id": 3783149236,
+					"id_str": "3783149236",
+					"indices": [
+						38,
+						54
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fakpoEdv4E",
+					"expanded_url": "http://zpr.io/PbMh5",
+					"display_url": "zpr.io/PbMh5",
+					"indices": [
+						58,
+						81
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 845185220110303200,
+					"id_str": "845185220110303234",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/C7qzes4VwAIUjoo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C7qzes4VwAIUjoo.jpg",
+					"url": "https://t.co/u7KoWSnXw1",
+					"display_url": "pic.twitter.com/u7KoWSnXw1",
+					"expanded_url": "https://twitter.com/Stickerart030/status/845185222496837634/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 845185222496837600,
+					"source_status_id_str": "845185222496837634",
+					"source_user_id": 762370834824650800,
+					"source_user_id_str": "762370834824650752"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 845185220110303200,
+					"id_str": "845185220110303234",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/C7qzes4VwAIUjoo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C7qzes4VwAIUjoo.jpg",
+					"url": "https://t.co/u7KoWSnXw1",
+					"display_url": "pic.twitter.com/u7KoWSnXw1",
+					"expanded_url": "https://twitter.com/Stickerart030/status/845185222496837634/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 845185222496837600,
+					"source_status_id_str": "845185222496837634",
+					"source_user_id": 762370834824650800,
+					"source_user_id_str": "762370834824650752"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! |",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9211,
+			"friends_count": 1841,
+			"listed_count": 625,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3166,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62310,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1487681446",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Mar 24 08:07:14 +0000 2017",
+			"id": 845185222496837600,
+			"id_str": "845185222496837634",
+			"text": "Excellent mural at @oproerbrouwerij // https://t.co/fakpoEdv4E https://t.co/u7KoWSnXw1",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "oproerbrouwerij",
+						"name": "Oproer Brouwerij",
+						"id": 3783149236,
+						"id_str": "3783149236",
+						"indices": [
+							19,
+							35
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/fakpoEdv4E",
+						"expanded_url": "http://zpr.io/PbMh5",
+						"display_url": "zpr.io/PbMh5",
+						"indices": [
+							39,
+							62
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 845185220110303200,
+						"id_str": "845185220110303234",
+						"indices": [
+							63,
+							86
+						],
+						"media_url": "http://pbs.twimg.com/media/C7qzes4VwAIUjoo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C7qzes4VwAIUjoo.jpg",
+						"url": "https://t.co/u7KoWSnXw1",
+						"display_url": "pic.twitter.com/u7KoWSnXw1",
+						"expanded_url": "https://twitter.com/Stickerart030/status/845185222496837634/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 845185220110303200,
+						"id_str": "845185220110303234",
+						"indices": [
+							63,
+							86
+						],
+						"media_url": "http://pbs.twimg.com/media/C7qzes4VwAIUjoo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C7qzes4VwAIUjoo.jpg",
+						"url": "https://t.co/u7KoWSnXw1",
+						"display_url": "pic.twitter.com/u7KoWSnXw1",
+						"expanded_url": "https://twitter.com/Stickerart030/status/845185222496837634/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://zapier.com/\" rel=\"nofollow\">Zapier.com</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 762370834824650800,
+				"id_str": "762370834824650752",
+				"name": "Stickerart 030",
+				"screen_name": "Stickerart030",
+				"location": "Utrecht, The Netherlands",
+				"description": "Forwarded Instagram account for Stickerart in Utrecht | Exterior Decoration Curator | Adhesive Enthousiast | Slap the surface",
+				"url": "https://t.co/YY6bXuaEw3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YY6bXuaEw3",
+								"expanded_url": "https://www.instagram.com/stickerart030/",
+								"display_url": "instagram.com/stickerart030/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10,
+				"friends_count": 8,
+				"listed_count": 0,
+				"created_at": "Sun Aug 07 19:32:26 +0000 2016",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 213,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/762371481120739328/qLHdAO3H_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/762371481120739328/qLHdAO3H_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/762370834824650752/1470598540",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Fri Mar 24 08:35:39 +0000 2017",
+		"id": 845192372547862500,
+		"id_str": "845192372547862530",
+		"text": "De nieuwe Icebucket challenge? https://t.co/tezptxojLY",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tezptxojLY",
+					"expanded_url": "https://twitter.com/ajplus/status/845185693185798145",
+					"display_url": "twitter.com/ajplus/status/…",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! |",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9211,
+			"friends_count": 1841,
+			"listed_count": 625,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3166,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62310,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1487681446",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 845185693185798100,
+		"quoted_status_id_str": "845185693185798145",
+		"quoted_status": {
+			"created_at": "Fri Mar 24 08:09:06 +0000 2017",
+			"id": 845185693185798100,
+			"id_str": "845185693185798145",
+			"text": "This water bottle challenge raises awareness about climate change 🌍 https://t.co/ZFTq66WLEE",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 844729838304866300,
+						"id_str": "844729838304866304",
+						"indices": [
+							68,
+							91
+						],
+						"media_url": "http://pbs.twimg.com/media/C7kZ3vZVsAAS3M6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C7kZ3vZVsAAS3M6.jpg",
+						"url": "https://t.co/ZFTq66WLEE",
+						"display_url": "pic.twitter.com/ZFTq66WLEE",
+						"expanded_url": "https://twitter.com/ajplus/status/845185693185798145/video/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 844729838304866300,
+						"id_str": "844729838304866304",
+						"indices": [
+							68,
+							91
+						],
+						"media_url": "http://pbs.twimg.com/media/C7kZ3vZVsAAS3M6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C7kZ3vZVsAAS3M6.jpg",
+						"url": "https://t.co/ZFTq66WLEE",
+						"display_url": "pic.twitter.com/ZFTq66WLEE",
+						"expanded_url": "https://twitter.com/ajplus/status/845185693185798145/video/1",
+						"type": "video",
+						"sizes": {
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 67040,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/844729838304866304/pl/L9cin-hHmEIZ1LH-.m3u8"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/844729838304866304/vid/720x720/i6Gq_4PrYI2jn-3p.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/844729838304866304/vid/240x240/yTCV_hXN1rAh6U0d.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/844729838304866304/vid/480x480/OTrmgvCO0JMrY19N.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 110396781,
+				"id_str": "110396781",
+				"name": "AJ+",
+				"screen_name": "ajplus",
+				"location": "",
+				"description": "AJ+ is news for the connected generation, sharing human struggles, and challenging the status quo. Download the app to be a part of a global community.",
+				"url": "http://t.co/ajmT5k7yEI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/ajmT5k7yEI",
+								"expanded_url": "http://ajplus.net",
+								"display_url": "ajplus.net",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 513868,
+				"friends_count": 324,
+				"listed_count": 5316,
+				"created_at": "Mon Feb 01 11:53:42 +0000 2010",
+				"favourites_count": 1989,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 40381,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/510269137071783936/AOB0NWwG_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/510269137071783936/AOB0NWwG_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/110396781/1479175537",
+				"profile_link_color": "6CC5F5",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "8F8A89",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 218,
+			"favorite_count": 197,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
+		"created_at": "Fri Mar 24 08:34:16 +0000 2017",
+		"id": 845192025452437500,
+		"id_str": "845192025452437504",
+		"text": "/cc @ehpo https://t.co/jxQgbVHeMO",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ehpo",
+					"name": "Niels Aalberts",
+					"id": 20199054,
+					"id_str": "20199054",
+					"indices": [
+						4,
+						9
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jxQgbVHeMO",
+					"expanded_url": "https://twitter.com/djzwartveld/status/845190770831245312",
+					"display_url": "twitter.com/djzwartveld/st…",
+					"indices": [
+						10,
+						33
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! |",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9211,
+			"friends_count": 1841,
+			"listed_count": 625,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3166,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62310,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1487681446",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 845190770831245300,
+		"quoted_status_id_str": "845190770831245312",
+		"quoted_status": {
+			"created_at": "Fri Mar 24 08:29:17 +0000 2017",
+			"id": 845190770831245300,
+			"id_str": "845190770831245312",
+			"text": "Gorillaz en T-Mobile gaan samenwerken - https://t.co/6xNbRRZNVZ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/6xNbRRZNVZ",
+						"expanded_url": "https://liveforward.t-mobile.nl/tmobile-en-gorillaz/",
+						"display_url": "liveforward.t-mobile.nl/tmobile-en-gor…",
+						"indices": [
+							40,
+							63
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2220361328,
+				"id_str": "2220361328",
+				"name": "Dirk Jan Zwartveld",
+				"screen_name": "djzwartveld",
+				"location": "Wateringen",
+				"description": "Vinex Vader. Houdt van muziek, tech, lezen en hardlopen. Is Customer Experience Manager bij @KnipprTV & assistent-pogrammeur bij @Waterpop.",
+				"url": "https://t.co/Cw9zPnWiKh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Cw9zPnWiKh",
+								"expanded_url": "http://www.djzwartveld.nl",
+								"display_url": "djzwartveld.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 393,
+				"friends_count": 129,
+				"listed_count": 28,
+				"created_at": "Thu Nov 28 21:13:41 +0000 2013",
+				"favourites_count": 816,
+				"utc_offset": 3600,
+				"time_zone": "Amsterdam",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5500,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000170465744/mzMbYrk7.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000170465744/mzMbYrk7.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/842666817973899264/hDJSmygI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/842666817973899264/hDJSmygI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2220361328/1391540843",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Thu Mar 23 15:10:49 +0000 2017",
 		"id": 844929431881830400,
 		"id_str": "844929431881830402",
