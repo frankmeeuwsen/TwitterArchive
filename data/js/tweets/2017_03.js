@@ -1,6 +1,373 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Sat Mar 25 18:24:50 +0000 2017",
+		"id": 845703032679600100,
+		"id_str": "845703032679600130",
+		"text": "Dit wil je niet tegenkomen bij een demonstratie... https://t.co/fBA6BUOizE",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fBA6BUOizE",
+					"expanded_url": "https://twitter.com/libshipwreck/status/845645648984788992",
+					"display_url": "twitter.com/libshipwreck/s…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! |",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9206,
+			"friends_count": 1841,
+			"listed_count": 624,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3171,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62329,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1487681446",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 845645648984789000,
+		"quoted_status_id_str": "845645648984788992",
+		"quoted_status": {
+			"created_at": "Sat Mar 25 14:36:48 +0000 2017",
+			"id": 845645648984789000,
+			"id_str": "845645648984788992",
+			"text": "Coming soon to a collapsing democracy near you...\n https://t.co/ZGHFvbAKGq",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 845275399856668700,
+						"id_str": "845275399856668677",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/845275399856668677/pu/img/SQ8NQ8iabEwzXQrJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/845275399856668677/pu/img/SQ8NQ8iabEwzXQrJ.jpg",
+						"url": "https://t.co/ZGHFvbAKGq",
+						"display_url": "pic.twitter.com/ZGHFvbAKGq",
+						"expanded_url": "https://twitter.com/atbobb/status/845275672914231296/video/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 845275672914231300,
+						"source_status_id_str": "845275672914231296",
+						"source_user_id": 61569037,
+						"source_user_id_str": "61569037"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 845275399856668700,
+						"id_str": "845275399856668677",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/845275399856668677/pu/img/SQ8NQ8iabEwzXQrJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/845275399856668677/pu/img/SQ8NQ8iabEwzXQrJ.jpg",
+						"url": "https://t.co/ZGHFvbAKGq",
+						"display_url": "pic.twitter.com/ZGHFvbAKGq",
+						"expanded_url": "https://twitter.com/atbobb/status/845275672914231296/video/1",
+						"type": "video",
+						"sizes": {
+							"large": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 845275672914231300,
+						"source_status_id_str": "845275672914231296",
+						"source_user_id": 61569037,
+						"source_user_id_str": "61569037",
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 60060,
+							"variants": [
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/845275399856668677/pu/vid/240x240/uSZStK4aqyXm9VkS.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/845275399856668677/pu/pl/5S18rysQOXgDDrHg.m3u8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/845275399856668677/pu/vid/480x480/0S5Sq2JixK2WPWlP.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 61569037,
+								"id_str": "61569037",
+								"name": "bob",
+								"screen_name": "atbobb",
+								"location": "the OC, bitch ",
+								"description": "father's rights activist & feminist.",
+								"url": "https://t.co/9tZCt0gI3L",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/9tZCt0gI3L",
+												"expanded_url": "http://hittrackeronline.com",
+												"display_url": "hittrackeronline.com",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 1489,
+								"friends_count": 647,
+								"listed_count": 60,
+								"created_at": "Thu Jul 30 19:04:25 +0000 2009",
+								"favourites_count": 135209,
+								"utc_offset": -25200,
+								"time_zone": "Pacific Time (US & Canada)",
+								"geo_enabled": false,
+								"verified": false,
+								"statuses_count": 57724,
+								"lang": "en",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "C0DEED",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/835637594394243073/VzjTbFIM_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/835637594394243073/VzjTbFIM_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/61569037/1464224306",
+								"profile_link_color": "1DA1F2",
+								"profile_sidebar_border_color": "C0DEED",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": true,
+								"default_profile": true,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1143288666,
+				"id_str": "1143288666",
+				"name": "LibrarianShipwreck",
+				"screen_name": "libshipwreck",
+				"location": "The Library",
+				"description": "Libraries, Archives, Technology, Impending Doom",
+				"url": "http://t.co/5s89gRBIrr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/5s89gRBIrr",
+								"expanded_url": "http://librarianshipwreck.wordpress.com",
+								"display_url": "librarianshipwreck.wordpress.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6823,
+				"friends_count": 1000,
+				"listed_count": 267,
+				"created_at": "Sat Feb 02 20:06:43 +0000 2013",
+				"favourites_count": 11884,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 19433,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "709397",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/859016913/a08196ca1bf7c5737f2be022b4b051ab.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/859016913/a08196ca1bf7c5737f2be022b4b051ab.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3248710190/dc853bf46f9bd1d9335e2fc2482fe87b_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3248710190/dc853bf46f9bd1d9335e2fc2482fe87b_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1143288666/1392206407",
+				"profile_link_color": "A30C0C",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1349,
+			"favorite_count": 1010,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Sat Mar 25 15:53:04 +0000 2017",
 		"id": 845664841050308600,
 		"id_str": "845664841050308609",
