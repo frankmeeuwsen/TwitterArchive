@@ -1,6 +1,286 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Sat Mar 25 14:48:40 +0000 2017",
+		"id": 845648633269813200,
+		"id_str": "845648633269813248",
+		"text": "Gut zeg. Ben je na 4 uur reizen eindelijk in Den Haag voor je demonstratie. Moet je nog dat halve Malieveld oversjo… https://t.co/VixEldi6Ah",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VixEldi6Ah",
+					"expanded_url": "https://twitter.com/i/web/status/845648633269813248",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! |",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9209,
+			"friends_count": 1841,
+			"listed_count": 625,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3171,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62325,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1487681446",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 845632501372665900,
+		"quoted_status_id_str": "845632501372665857",
+		"quoted_status": {
+			"created_at": "Sat Mar 25 13:44:34 +0000 2017",
+			"id": 845632501372665900,
+			"id_str": "845632501372665857",
+			"text": "Triumph des Wilders #malieveld https://t.co/X4ALN2LTjs",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "malieveld",
+						"indices": [
+							20,
+							30
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 845632452689301500,
+						"id_str": "845632452689301505",
+						"indices": [
+							31,
+							54
+						],
+						"media_url": "http://pbs.twimg.com/media/C7xKPEEWkAEt1Zj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C7xKPEEWkAEt1Zj.jpg",
+						"url": "https://t.co/X4ALN2LTjs",
+						"display_url": "pic.twitter.com/X4ALN2LTjs",
+						"expanded_url": "https://twitter.com/hoterminus/status/845632501372665857/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 845632452689301500,
+						"id_str": "845632452689301505",
+						"indices": [
+							31,
+							54
+						],
+						"media_url": "http://pbs.twimg.com/media/C7xKPEEWkAEt1Zj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C7xKPEEWkAEt1Zj.jpg",
+						"url": "https://t.co/X4ALN2LTjs",
+						"display_url": "pic.twitter.com/X4ALN2LTjs",
+						"expanded_url": "https://twitter.com/hoterminus/status/845632501372665857/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 98002541,
+				"id_str": "98002541",
+				"name": "Hotel Terminus",
+				"screen_name": "hoterminus",
+				"location": "Rotterdam, Nederland",
+				"description": "Nazi puncher - Told you so - English & Dutch  - Sonja - logwijf@hotmail.com - #FreePalestine",
+				"url": "http://t.co/fKOisMjy8a",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/fKOisMjy8a",
+								"expanded_url": "http://eindpunt.blogspot.com",
+								"display_url": "eindpunt.blogspot.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1353,
+				"friends_count": 700,
+				"listed_count": 70,
+				"created_at": "Sat Dec 19 23:21:51 +0000 2009",
+				"favourites_count": 4878,
+				"utc_offset": 3600,
+				"time_zone": "Amsterdam",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 93508,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "15357E",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000115106662/400f6a16843d6a98fbc7f765de237f6c.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000115106662/400f6a16843d6a98fbc7f765de237f6c.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/696096770263228417/HMFUM3IU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/696096770263228417/HMFUM3IU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/98002541/1454796821",
+				"profile_link_color": "15357E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Sat Mar 25 11:04:06 +0000 2017",
 		"id": 845592121952403500,
 		"id_str": "845592121952403456",
