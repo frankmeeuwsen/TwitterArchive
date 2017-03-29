@@ -1,6 +1,399 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Wed Mar 29 14:04:36 +0000 2017",
+		"id": 847087096531746800,
+		"id_str": "847087096531746816",
+		"text": "@JeroeP Een andere recente NL hiphop artiest die je kan aanbevelen dan?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JeroeP",
+					"name": "Jeroen Portengen",
+					"id": 36028180,
+					"id_str": "36028180",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 847085234847957000,
+		"in_reply_to_status_id_str": "847085234847956994",
+		"in_reply_to_user_id": 36028180,
+		"in_reply_to_user_id_str": "36028180",
+		"in_reply_to_screen_name": "JeroeP",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! |",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9212,
+			"friends_count": 1842,
+			"listed_count": 624,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3174,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62269,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1487681446",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl"
+	},
+	{
+		"created_at": "Wed Mar 29 14:03:57 +0000 2017",
+		"id": 847086934128296000,
+		"id_str": "847086934128295937",
+		"text": "@riakopo1 Elk nummer voelt voor mij als een lichte variatie op hetzelfde thema, ik ben een boef, van de straat, kijk uit pas op, blowen.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "riakopo1",
+					"name": "ri akopo",
+					"id": 2264929146,
+					"id_str": "2264929146",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 847085674666823700,
+		"in_reply_to_status_id_str": "847085674666823681",
+		"in_reply_to_user_id": 2264929146,
+		"in_reply_to_user_id_str": "2264929146",
+		"in_reply_to_screen_name": "riakopo1",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! |",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9212,
+			"friends_count": 1842,
+			"listed_count": 624,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3174,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62269,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1487681446",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl"
+	},
+	{
+		"created_at": "Wed Mar 29 14:02:51 +0000 2017",
+		"id": 847086654670147600,
+		"id_str": "847086654670147586",
+		"text": "@riakopo1 True, zit zeker verschil in die nummers, maar overall genomen pakt het album me niet met verrassende beats of lyrics.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "riakopo1",
+					"name": "ri akopo",
+					"id": 2264929146,
+					"id_str": "2264929146",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 847085674666823700,
+		"in_reply_to_status_id_str": "847085674666823681",
+		"in_reply_to_user_id": 2264929146,
+		"in_reply_to_user_id_str": "2264929146",
+		"in_reply_to_screen_name": "riakopo1",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! |",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9212,
+			"friends_count": 1842,
+			"listed_count": 624,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3174,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62269,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1487681446",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl"
+	},
+	{
+		"created_at": "Wed Mar 29 13:50:57 +0000 2017",
+		"id": 847083658947297300,
+		"id_str": "847083658947297280",
+		"text": "Eindelijk Boef eens luisteren. Sorry, iets te eentonig door het album heen wat mij betreft. Veel van hetzelfde.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! |",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9212,
+			"friends_count": 1842,
+			"listed_count": 624,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3174,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62269,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1487681446",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Wed Mar 29 09:45:22 +0000 2017",
 		"id": 847021856829968400,
 		"id_str": "847021856829968384",
