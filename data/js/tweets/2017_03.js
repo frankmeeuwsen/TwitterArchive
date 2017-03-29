@@ -1,6 +1,373 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Wed Mar 29 14:53:27 +0000 2017",
+		"id": 847099391072723000,
+		"id_str": "847099391072722944",
+		"text": "RT @ValaAfshar: RIP traditional TV 📺 https://t.co/MYWyHe9Cb6",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ValaAfshar",
+					"name": "Vala Afshar",
+					"id": 259725229,
+					"id_str": "259725229",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 847093633396473900,
+					"id_str": "847093633396473857",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/C8F7K-YXgAEi6M_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C8F7K-YXgAEi6M_.jpg",
+					"url": "https://t.co/MYWyHe9Cb6",
+					"display_url": "pic.twitter.com/MYWyHe9Cb6",
+					"expanded_url": "https://twitter.com/ValaAfshar/status/847093642233872386/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 980,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 555,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 981,
+							"h": 1201,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 847093642233872400,
+					"source_status_id_str": "847093642233872386",
+					"source_user_id": 259725229,
+					"source_user_id_str": "259725229"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 847093633396473900,
+					"id_str": "847093633396473857",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/C8F7K-YXgAEi6M_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C8F7K-YXgAEi6M_.jpg",
+					"url": "https://t.co/MYWyHe9Cb6",
+					"display_url": "pic.twitter.com/MYWyHe9Cb6",
+					"expanded_url": "https://twitter.com/ValaAfshar/status/847093642233872386/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 980,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 555,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 981,
+							"h": 1201,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 847093642233872400,
+					"source_status_id_str": "847093642233872386",
+					"source_user_id": 259725229,
+					"source_user_id_str": "259725229"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! |",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9212,
+			"friends_count": 1842,
+			"listed_count": 624,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3174,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62270,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1487681446",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Mar 29 14:30:37 +0000 2017",
+			"id": 847093642233872400,
+			"id_str": "847093642233872386",
+			"text": "RIP traditional TV 📺 https://t.co/MYWyHe9Cb6",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 847093633396473900,
+						"id_str": "847093633396473857",
+						"indices": [
+							21,
+							44
+						],
+						"media_url": "http://pbs.twimg.com/media/C8F7K-YXgAEi6M_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C8F7K-YXgAEi6M_.jpg",
+						"url": "https://t.co/MYWyHe9Cb6",
+						"display_url": "pic.twitter.com/MYWyHe9Cb6",
+						"expanded_url": "https://twitter.com/ValaAfshar/status/847093642233872386/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 980,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 555,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 981,
+								"h": 1201,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 847093633396473900,
+						"id_str": "847093633396473857",
+						"indices": [
+							21,
+							44
+						],
+						"media_url": "http://pbs.twimg.com/media/C8F7K-YXgAEi6M_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C8F7K-YXgAEi6M_.jpg",
+						"url": "https://t.co/MYWyHe9Cb6",
+						"display_url": "pic.twitter.com/MYWyHe9Cb6",
+						"expanded_url": "https://twitter.com/ValaAfshar/status/847093642233872386/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 980,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 555,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 981,
+								"h": 1201,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 259725229,
+				"id_str": "259725229",
+				"name": "Vala Afshar",
+				"screen_name": "ValaAfshar",
+				"location": "Boston",
+				"description": "Chief Digital Evangelist, @Salesforce     | Blog: @HuffingtonPost | Book: https://t.co/oSpLljigAi | Show: @DisrupTVShow",
+				"url": "https://t.co/nSnWIXeE3A",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/nSnWIXeE3A",
+								"expanded_url": "http://www.huffingtonpost.com/vala-afshar/",
+								"display_url": "huffingtonpost.com/vala-afshar/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/oSpLljigAi",
+								"expanded_url": "http://bit.ly/tposbe",
+								"display_url": "bit.ly/tposbe",
+								"indices": [
+									74,
+									97
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 180470,
+				"friends_count": 445,
+				"listed_count": 9079,
+				"created_at": "Wed Mar 02 13:31:29 +0000 2011",
+				"favourites_count": 2,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 303754,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1259558245/vala_300dpi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259558245/vala_300dpi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/259725229/1439209336",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 20,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Mar 29 14:04:36 +0000 2017",
 		"id": 847087096531746800,
 		"id_str": "847087096531746816",
