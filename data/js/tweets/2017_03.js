@@ -1,6 +1,256 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Fri Mar 31 16:36:37 +0000 2017",
+		"id": 847850127935066100,
+		"id_str": "847850127935066112",
+		"text": "Titel is een beetje lame maar de uitvoering in het artikel is fraai gedaan! #1april https://t.co/RM3M4rHJAd",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "1april",
+					"indices": [
+						76,
+						83
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RM3M4rHJAd",
+					"expanded_url": "https://twitter.com/peninsula79/status/847843641938673666",
+					"display_url": "twitter.com/peninsula79/st…",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! |",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9208,
+			"friends_count": 1844,
+			"listed_count": 624,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3177,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62285,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1487681446",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 847843641938673700,
+		"quoted_status_id_str": "847843641938673666",
+		"quoted_status": {
+			"created_at": "Fri Mar 31 16:10:51 +0000 2017",
+			"id": 847843641938673700,
+			"id_str": "847843641938673666",
+			"text": "This #SHIT is (a) bomb! @joshdotai  https://t.co/R1YtaQW9gO",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SHIT",
+						"indices": [
+							5,
+							10
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "joshdotai",
+						"name": "Josh.ai",
+						"id": 3302208898,
+						"id_str": "3302208898",
+						"indices": [
+							24,
+							34
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/R1YtaQW9gO",
+						"expanded_url": "http://www.cepro.com/article/josh_ai_voice_control_smart_home_integrated_technologies",
+						"display_url": "cepro.com/article/josh_a…",
+						"indices": [
+							36,
+							59
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 224424356,
+				"id_str": "224424356",
+				"name": "Jimmy Famolare",
+				"screen_name": "peninsula79",
+				"location": "Santa Monica, CA",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 68,
+				"friends_count": 94,
+				"listed_count": 1,
+				"created_at": "Wed Dec 08 23:55:44 +0000 2010",
+				"favourites_count": 686,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 594,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/843957170601246720/MTOpXXz4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/843957170601246720/MTOpXXz4_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "3b77caf94bfc81fe",
+				"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+				"place_type": "city",
+				"name": "Los Angeles",
+				"full_name": "Los Angeles, CA",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-118.668404,
+								33.704538
+							],
+							[
+								-118.155409,
+								33.704538
+							],
+							[
+								-118.155409,
+								34.337041
+							],
+							[
+								-118.668404,
+								34.337041
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Fri Mar 31 15:17:47 +0000 2017",
 		"id": 847830290361962500,
 		"id_str": "847830290361962496",
