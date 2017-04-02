@@ -1,6 +1,535 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Sun Apr 02 05:56:44 +0000 2017",
+		"id": 848413873229242400,
+		"id_str": "848413873229242372",
+		"text": "RT @Phil_Lewis_: This is the best video on the Internet currently. https://t.co/KPNZddth5S",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Phil_Lewis_",
+					"name": "Philip Lewis",
+					"id": 286998245,
+					"id_str": "286998245",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 847742113521451000,
+					"id_str": "847742113521451008",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/847742113521451008/pu/img/6w-tIpOK3wMpRzwe.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/847742113521451008/pu/img/6w-tIpOK3wMpRzwe.jpg",
+					"url": "https://t.co/KPNZddth5S",
+					"display_url": "pic.twitter.com/KPNZddth5S",
+					"expanded_url": "https://twitter.com/stevosideways/status/847742734542659584/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 194,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 560,
+							"h": 320,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 560,
+							"h": 320,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 847742734542659600,
+					"source_status_id_str": "847742734542659584",
+					"source_user_id": 315119456,
+					"source_user_id_str": "315119456"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 847742113521451000,
+					"id_str": "847742113521451008",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/847742113521451008/pu/img/6w-tIpOK3wMpRzwe.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/847742113521451008/pu/img/6w-tIpOK3wMpRzwe.jpg",
+					"url": "https://t.co/KPNZddth5S",
+					"display_url": "pic.twitter.com/KPNZddth5S",
+					"expanded_url": "https://twitter.com/stevosideways/status/847742734542659584/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 194,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 560,
+							"h": 320,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 560,
+							"h": 320,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 847742734542659600,
+					"source_status_id_str": "847742734542659584",
+					"source_user_id": 315119456,
+					"source_user_id_str": "315119456",
+					"video_info": {
+						"aspect_ratio": [
+							7,
+							4
+						],
+						"duration_millis": 101602,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/847742113521451008/pu/pl/n3f2Ohw3xh_MNgbx.m3u8"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/847742113521451008/pu/vid/314x180/IgBwbVWU0sp1tFQW.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 315119456,
+							"id_str": "315119456",
+							"name": "Stevosideways",
+							"screen_name": "stevosideways",
+							"location": "Dublin",
+							"description": "Former host of the @LFCDaytrippers podcast! I've scored more goals at Anfield than Rickie Lambert!! 😎 #lfc | Key member in the ongoing fight against the #BWODH",
+							"url": "https://t.co/3OWclhIHI4",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/3OWclhIHI4",
+											"expanded_url": "http://www.acast.com/lfcdaytrippers",
+											"display_url": "acast.com/lfcdaytrippers",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 1365,
+							"friends_count": 197,
+							"listed_count": 25,
+							"created_at": "Sat Jun 11 10:08:49 +0000 2011",
+							"favourites_count": 691,
+							"utc_offset": 3600,
+							"time_zone": "Casablanca",
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 5141,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/782521447092813824/WC8BHUxW_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/782521447092813824/WC8BHUxW_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/315119456/1477379690",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! |",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9210,
+			"friends_count": 1843,
+			"listed_count": 624,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3177,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62234,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1487681446",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Apr 01 13:49:20 +0000 2017",
+			"id": 848170419551129600,
+			"id_str": "848170419551129600",
+			"text": "This is the best video on the Internet currently. https://t.co/KPNZddth5S",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 847742113521451000,
+						"id_str": "847742113521451008",
+						"indices": [
+							50,
+							73
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/847742113521451008/pu/img/6w-tIpOK3wMpRzwe.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/847742113521451008/pu/img/6w-tIpOK3wMpRzwe.jpg",
+						"url": "https://t.co/KPNZddth5S",
+						"display_url": "pic.twitter.com/KPNZddth5S",
+						"expanded_url": "https://twitter.com/stevosideways/status/847742734542659584/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 194,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 560,
+								"h": 320,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 560,
+								"h": 320,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 847742734542659600,
+						"source_status_id_str": "847742734542659584",
+						"source_user_id": 315119456,
+						"source_user_id_str": "315119456"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 847742113521451000,
+						"id_str": "847742113521451008",
+						"indices": [
+							50,
+							73
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/847742113521451008/pu/img/6w-tIpOK3wMpRzwe.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/847742113521451008/pu/img/6w-tIpOK3wMpRzwe.jpg",
+						"url": "https://t.co/KPNZddth5S",
+						"display_url": "pic.twitter.com/KPNZddth5S",
+						"expanded_url": "https://twitter.com/stevosideways/status/847742734542659584/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 194,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 560,
+								"h": 320,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 560,
+								"h": 320,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 847742734542659600,
+						"source_status_id_str": "847742734542659584",
+						"source_user_id": 315119456,
+						"source_user_id_str": "315119456",
+						"video_info": {
+							"aspect_ratio": [
+								7,
+								4
+							],
+							"duration_millis": 101602,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/847742113521451008/pu/pl/n3f2Ohw3xh_MNgbx.m3u8"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/847742113521451008/pu/vid/314x180/IgBwbVWU0sp1tFQW.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 315119456,
+								"id_str": "315119456",
+								"name": "Stevosideways",
+								"screen_name": "stevosideways",
+								"location": "Dublin",
+								"description": "Former host of the @LFCDaytrippers podcast! I've scored more goals at Anfield than Rickie Lambert!! 😎 #lfc | Key member in the ongoing fight against the #BWODH",
+								"url": "https://t.co/3OWclhIHI4",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/3OWclhIHI4",
+												"expanded_url": "http://www.acast.com/lfcdaytrippers",
+												"display_url": "acast.com/lfcdaytrippers",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 1365,
+								"friends_count": 197,
+								"listed_count": 25,
+								"created_at": "Sat Jun 11 10:08:49 +0000 2011",
+								"favourites_count": 691,
+								"utc_offset": 3600,
+								"time_zone": "Casablanca",
+								"geo_enabled": true,
+								"verified": false,
+								"statuses_count": 5141,
+								"lang": "en",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "C0DEED",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/782521447092813824/WC8BHUxW_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/782521447092813824/WC8BHUxW_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/315119456/1477379690",
+								"profile_link_color": "1DA1F2",
+								"profile_sidebar_border_color": "C0DEED",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": true,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 286998245,
+				"id_str": "286998245",
+				"name": "Philip Lewis",
+				"screen_name": "Phil_Lewis_",
+				"location": "Washington, DC",
+				"description": "Detroit native. Front Page Editor at the @HuffingtonPost.",
+				"url": "https://t.co/LkpzouUrji",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/LkpzouUrji",
+								"expanded_url": "https://m.facebook.com/philip.lewis4",
+								"display_url": "m.facebook.com/philip.lewis4",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 50224,
+				"friends_count": 2291,
+				"listed_count": 1231,
+				"created_at": "Sun Apr 24 03:45:44 +0000 2011",
+				"favourites_count": 8058,
+				"utc_offset": -18000,
+				"time_zone": "Quito",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 168012,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/822973387404414976/Q6pHdcYQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/822973387404414976/Q6pHdcYQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/286998245/1459226760",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 25359,
+			"favorite_count": 40004,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 25359,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Apr 01 21:35:11 +0000 2017",
 		"id": 848287651279110100,
 		"id_str": "848287651279110144",
