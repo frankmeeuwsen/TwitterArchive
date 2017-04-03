@@ -1,6 +1,118 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Mon Apr 03 21:40:54 +0000 2017",
+		"id": 849013868223496200,
+		"id_str": "849013868223496192",
+		"text": "@davewiner Are you active on or aware of https://t.co/9QgJmNJZ2U? Federated social networks. Seems like a thing for you to check out!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "davewiner",
+					"name": "Dave Winer",
+					"id": 3839,
+					"id_str": "3839",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9QgJmNJZ2U",
+					"expanded_url": "http://Mastodon.social",
+					"display_url": "Mastodon.social",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 3839,
+		"in_reply_to_user_id_str": "3839",
+		"in_reply_to_screen_name": "davewiner",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! |",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9212,
+			"friends_count": 1844,
+			"listed_count": 624,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3176,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62245,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1487681446",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Apr 03 20:33:51 +0000 2017",
 		"id": 848996994207162400,
 		"id_str": "848996994207162369",
