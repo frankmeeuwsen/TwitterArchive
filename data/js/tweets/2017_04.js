@@ -1,6 +1,438 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Mon Apr 03 16:45:38 +0000 2017",
+		"id": 848939562789462000,
+		"id_str": "848939562789462017",
+		"text": "RT @internetofshit: That escalated quickly https://t.co/TbtnDGsfR8",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "internetofshit",
+					"name": "Internet of Shit",
+					"id": 3356531254,
+					"id_str": "3356531254",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 848919540041953300,
+					"id_str": "848919540041953280",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/C8f30usWsAABITr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C8f30usWsAABITr.jpg",
+					"url": "https://t.co/TbtnDGsfR8",
+					"display_url": "pic.twitter.com/TbtnDGsfR8",
+					"expanded_url": "https://twitter.com/internetofshit/status/848919726973734912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1043,
+							"h": 274,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 179,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1043,
+							"h": 274,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 848919726973734900,
+					"source_status_id_str": "848919726973734912",
+					"source_user_id": 3356531254,
+					"source_user_id_str": "3356531254"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 848919540041953300,
+					"id_str": "848919540041953280",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/C8f30usWsAABITr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C8f30usWsAABITr.jpg",
+					"url": "https://t.co/TbtnDGsfR8",
+					"display_url": "pic.twitter.com/TbtnDGsfR8",
+					"expanded_url": "https://twitter.com/internetofshit/status/848919726973734912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1043,
+							"h": 274,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 179,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1043,
+							"h": 274,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 848919726973734900,
+					"source_status_id_str": "848919726973734912",
+					"source_user_id": 3356531254,
+					"source_user_id_str": "3356531254"
+				},
+				{
+					"id": 848919709953269800,
+					"id_str": "848919709953269760",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/C8f3-nqXoAApVW_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C8f3-nqXoAApVW_.jpg",
+					"url": "https://t.co/TbtnDGsfR8",
+					"display_url": "pic.twitter.com/TbtnDGsfR8",
+					"expanded_url": "https://twitter.com/internetofshit/status/848919726973734912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 472,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 267,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1623,
+							"h": 638,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 848919726973734900,
+					"source_status_id_str": "848919726973734912",
+					"source_user_id": 3356531254,
+					"source_user_id_str": "3356531254"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! |",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9208,
+			"friends_count": 1844,
+			"listed_count": 624,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3176,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62240,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1487681446",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Apr 03 15:26:49 +0000 2017",
+			"id": 848919726973734900,
+			"id_str": "848919726973734912",
+			"text": "That escalated quickly https://t.co/TbtnDGsfR8",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 848919540041953300,
+						"id_str": "848919540041953280",
+						"indices": [
+							23,
+							46
+						],
+						"media_url": "http://pbs.twimg.com/media/C8f30usWsAABITr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C8f30usWsAABITr.jpg",
+						"url": "https://t.co/TbtnDGsfR8",
+						"display_url": "pic.twitter.com/TbtnDGsfR8",
+						"expanded_url": "https://twitter.com/internetofshit/status/848919726973734912/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1043,
+								"h": 274,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 179,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1043,
+								"h": 274,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 848919540041953300,
+						"id_str": "848919540041953280",
+						"indices": [
+							23,
+							46
+						],
+						"media_url": "http://pbs.twimg.com/media/C8f30usWsAABITr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C8f30usWsAABITr.jpg",
+						"url": "https://t.co/TbtnDGsfR8",
+						"display_url": "pic.twitter.com/TbtnDGsfR8",
+						"expanded_url": "https://twitter.com/internetofshit/status/848919726973734912/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1043,
+								"h": 274,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 179,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1043,
+								"h": 274,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 848919709953269800,
+						"id_str": "848919709953269760",
+						"indices": [
+							23,
+							46
+						],
+						"media_url": "http://pbs.twimg.com/media/C8f3-nqXoAApVW_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C8f3-nqXoAApVW_.jpg",
+						"url": "https://t.co/TbtnDGsfR8",
+						"display_url": "pic.twitter.com/TbtnDGsfR8",
+						"expanded_url": "https://twitter.com/internetofshit/status/848919726973734912/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 472,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 267,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1623,
+								"h": 638,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3356531254,
+				"id_str": "3356531254",
+				"name": "Internet of Shit",
+				"screen_name": "internetofshit",
+				"location": "In your stuff",
+				"description": "whatever, put a chip in it. say hello: internetofshit@gmail.com",
+				"url": "https://t.co/mkZKf1xsv9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/mkZKf1xsv9",
+								"expanded_url": "http://facebook.com/internetofshit",
+								"display_url": "facebook.com/internetofshit",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 198577,
+				"friends_count": 152,
+				"listed_count": 2484,
+				"created_at": "Fri Jul 03 09:04:06 +0000 2015",
+				"favourites_count": 3094,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3492,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/616895706150797312/ol4PeiHz_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/616895706150797312/ol4PeiHz_normal.png",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 453,
+			"favorite_count": 578,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 453,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Apr 03 10:30:37 +0000 2017",
 		"id": 848845185840808000,
 		"id_str": "848845185840807936",
