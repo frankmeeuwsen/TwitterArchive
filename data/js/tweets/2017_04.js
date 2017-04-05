@@ -1,6 +1,999 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Wed Apr 05 16:39:53 +0000 2017",
+		"id": 849662889556312000,
+		"id_str": "849662889556312064",
+		"text": "RT @BerniceKing: If only Daddy would have known about the power of #Pepsi. https://t.co/FA6JPrY72V",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Pepsi",
+					"indices": [
+						67,
+						73
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BerniceKing",
+					"name": "Be A King",
+					"id": 54617733,
+					"id_str": "54617733",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 849656694795907100,
+					"id_str": "849656694795907072",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/C8qWQyJXsAAaYcx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C8qWQyJXsAAaYcx.jpg",
+					"url": "https://t.co/FA6JPrY72V",
+					"display_url": "pic.twitter.com/FA6JPrY72V",
+					"expanded_url": "https://twitter.com/BerniceKing/status/849656699464056832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 980,
+							"h": 552,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 980,
+							"h": 552,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 849656699464056800,
+					"source_status_id_str": "849656699464056832",
+					"source_user_id": 54617733,
+					"source_user_id_str": "54617733"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 849656694795907100,
+					"id_str": "849656694795907072",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/C8qWQyJXsAAaYcx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C8qWQyJXsAAaYcx.jpg",
+					"url": "https://t.co/FA6JPrY72V",
+					"display_url": "pic.twitter.com/FA6JPrY72V",
+					"expanded_url": "https://twitter.com/BerniceKing/status/849656699464056832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 980,
+							"h": 552,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 980,
+							"h": 552,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 849656699464056800,
+					"source_status_id_str": "849656699464056832",
+					"source_user_id": 54617733,
+					"source_user_id_str": "54617733"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9211,
+			"friends_count": 1847,
+			"listed_count": 625,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3180,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62243,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1487681446",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Apr 05 16:15:17 +0000 2017",
+			"id": 849656699464056800,
+			"id_str": "849656699464056832",
+			"text": "If only Daddy would have known about the power of #Pepsi. https://t.co/FA6JPrY72V",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Pepsi",
+						"indices": [
+							50,
+							56
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 849656694795907100,
+						"id_str": "849656694795907072",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/media/C8qWQyJXsAAaYcx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C8qWQyJXsAAaYcx.jpg",
+						"url": "https://t.co/FA6JPrY72V",
+						"display_url": "pic.twitter.com/FA6JPrY72V",
+						"expanded_url": "https://twitter.com/BerniceKing/status/849656699464056832/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 980,
+								"h": 552,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 980,
+								"h": 552,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 849656694795907100,
+						"id_str": "849656694795907072",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/media/C8qWQyJXsAAaYcx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C8qWQyJXsAAaYcx.jpg",
+						"url": "https://t.co/FA6JPrY72V",
+						"display_url": "pic.twitter.com/FA6JPrY72V",
+						"expanded_url": "https://twitter.com/BerniceKing/status/849656699464056832/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 980,
+								"h": 552,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 980,
+								"h": 552,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 54617733,
+				"id_str": "54617733",
+				"name": "Be A King",
+				"screen_name": "BerniceKing",
+				"location": "Atlanta, GA",
+				"description": "Bernice A. King is a life-changing global thought leader, orator, CEO of @TheKingCenter, daughter of global legacy leaders. Raise the standard. #Nonviolence365™",
+				"url": "https://t.co/zq0VeoIg6H",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zq0VeoIg6H",
+								"expanded_url": "http://www.BerniceKing.com",
+								"display_url": "BerniceKing.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 46254,
+				"friends_count": 175,
+				"listed_count": 443,
+				"created_at": "Tue Jul 07 17:30:48 +0000 2009",
+				"favourites_count": 2663,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 6228,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "642D8B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/747222048674570240/yLROOX6u_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/747222048674570240/yLROOX6u_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/54617733/1488347605",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "65B0DA",
+				"profile_sidebar_fill_color": "7AC3EE",
+				"profile_text_color": "3D1957",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9766,
+			"favorite_count": 12070,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 9766,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Apr 05 16:37:17 +0000 2017",
+		"id": 849662236557799400,
+		"id_str": "849662236557799425",
+		"text": "RT @misener: Loving the Easter egg on the @stownpodcast website https://t.co/y7x5Hcr60N",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "misener",
+					"name": "Dan Misener",
+					"id": 17921219,
+					"id_str": "17921219",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "stownpodcast",
+					"name": "S-Town Podcast",
+					"id": 804036710090899500,
+					"id_str": "804036710090899456",
+					"indices": [
+						42,
+						55
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 846799200511823900,
+					"id_str": "846799200511823873",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/C8BvYuaXkAEfO_1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C8BvYuaXkAEfO_1.jpg",
+					"url": "https://t.co/y7x5Hcr60N",
+					"display_url": "pic.twitter.com/y7x5Hcr60N",
+					"expanded_url": "https://twitter.com/misener/status/846802083227545600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1196,
+							"h": 652,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1196,
+							"h": 652,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 371,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 846802083227545600,
+					"source_status_id_str": "846802083227545600",
+					"source_user_id": 17921219,
+					"source_user_id_str": "17921219"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 846799200511823900,
+					"id_str": "846799200511823873",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/C8BvYuaXkAEfO_1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C8BvYuaXkAEfO_1.jpg",
+					"url": "https://t.co/y7x5Hcr60N",
+					"display_url": "pic.twitter.com/y7x5Hcr60N",
+					"expanded_url": "https://twitter.com/misener/status/846802083227545600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1196,
+							"h": 652,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1196,
+							"h": 652,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 371,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 846802083227545600,
+					"source_status_id_str": "846802083227545600",
+					"source_user_id": 17921219,
+					"source_user_id_str": "17921219"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9211,
+			"friends_count": 1847,
+			"listed_count": 625,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3180,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62243,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1487681446",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Mar 28 19:12:04 +0000 2017",
+			"id": 846802083227545600,
+			"id_str": "846802083227545600",
+			"text": "Loving the Easter egg on the @stownpodcast website https://t.co/y7x5Hcr60N",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "stownpodcast",
+						"name": "S-Town Podcast",
+						"id": 804036710090899500,
+						"id_str": "804036710090899456",
+						"indices": [
+							29,
+							42
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 846799200511823900,
+						"id_str": "846799200511823873",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/media/C8BvYuaXkAEfO_1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C8BvYuaXkAEfO_1.jpg",
+						"url": "https://t.co/y7x5Hcr60N",
+						"display_url": "pic.twitter.com/y7x5Hcr60N",
+						"expanded_url": "https://twitter.com/misener/status/846802083227545600/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1196,
+								"h": 652,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1196,
+								"h": 652,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 371,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 846799200511823900,
+						"id_str": "846799200511823873",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/media/C8BvYuaXkAEfO_1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C8BvYuaXkAEfO_1.jpg",
+						"url": "https://t.co/y7x5Hcr60N",
+						"display_url": "pic.twitter.com/y7x5Hcr60N",
+						"expanded_url": "https://twitter.com/misener/status/846802083227545600/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1196,
+								"h": 652,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1196,
+								"h": 652,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 371,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17921219,
+				"id_str": "17921219",
+				"name": "Dan Misener",
+				"screen_name": "misener",
+				"location": "",
+				"description": "I make podcasts.\n\nHost of Work in Progress from @SlackStories, and producer of @GRTTWaK. Columnist @cbcradio, instructor at @RTARyerson + @munkschool.",
+				"url": "https://t.co/HQGgtpFtGp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/HQGgtpFtGp",
+								"expanded_url": "http://misener.org",
+								"display_url": "misener.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3904,
+				"friends_count": 1282,
+				"listed_count": 222,
+				"created_at": "Sat Dec 06 12:55:16 +0000 2008",
+				"favourites_count": 1400,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5455,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EDECE9",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/347731271/NSTexturedFullScreenBackgroundColor.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/347731271/NSTexturedFullScreenBackgroundColor.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/439264875672395776/m3IFW9qe_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/439264875672395776/m3IFW9qe_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17921219/1440862294",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "D3D2CF",
+				"profile_sidebar_fill_color": "E3E2DE",
+				"profile_text_color": "634047",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 47,
+			"favorite_count": 199,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 47,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Apr 05 16:34:41 +0000 2017",
+		"id": 849661579406835700,
+		"id_str": "849661579406835712",
+		"text": "Can't recommend this podcast enough. Such a beauty. Breath taking storylines and an amazing ending. https://t.co/9eH0KBqR0L",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9eH0KBqR0L",
+					"expanded_url": "https://twitter.com/stownpodcast/status/847529969123299332",
+					"display_url": "twitter.com/stownpodcast/s…",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9211,
+			"friends_count": 1847,
+			"listed_count": 625,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3180,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62243,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1487681446",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 847529969123299300,
+		"quoted_status_id_str": "847529969123299332",
+		"quoted_status": {
+			"created_at": "Thu Mar 30 19:24:25 +0000 2017",
+			"id": 847529969123299300,
+			"id_str": "847529969123299332",
+			"text": "\"You should probably start listening now before somebody spoils the twist.\" #STown https://t.co/mdbFdAeEIy",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "STown",
+						"indices": [
+							76,
+							82
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/mdbFdAeEIy",
+						"expanded_url": "http://nyti.ms/2ofBS10",
+						"display_url": "nyti.ms/2ofBS10",
+						"indices": [
+							83,
+							106
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 804036710090899500,
+				"id_str": "804036710090899456",
+				"name": "S-Town Podcast",
+				"screen_name": "stownpodcast",
+				"location": "",
+				"description": "A nonfiction podcast from @serial and @thisamerlife, hosted by @BriHReed.",
+				"url": "https://t.co/hbsmffrcox",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hbsmffrcox",
+								"expanded_url": "https://stownpodcast.org",
+								"display_url": "stownpodcast.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 22109,
+				"friends_count": 5,
+				"listed_count": 99,
+				"created_at": "Wed Nov 30 18:57:44 +0000 2016",
+				"favourites_count": 267,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 75,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/841467361119096833/HyCyoKBd_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/841467361119096833/HyCyoKBd_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/804036710090899456/1489456445",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 128,
+			"favorite_count": 276,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Apr 05 16:15:07 +0000 2017",
 		"id": 849656655465852900,
 		"id_str": "849656655465852928",
