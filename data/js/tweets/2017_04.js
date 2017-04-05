@@ -1,6 +1,373 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Wed Apr 05 14:25:00 +0000 2017",
+		"id": 849628942982160400,
+		"id_str": "849628942982160385",
+		"text": "RT @HistoricalPics: 23 years ago today, the music industry lost a true rock legend. RIP Kurt Cobain. https://t.co/ITXN3TaffB",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HistoricalPics",
+					"name": "Historical Pics",
+					"id": 1598644159,
+					"id_str": "1598644159",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 849574443848519700,
+					"id_str": "849574443848519680",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/C8pLdJfXUAALTAX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C8pLdJfXUAALTAX.jpg",
+					"url": "https://t.co/ITXN3TaffB",
+					"display_url": "pic.twitter.com/ITXN3TaffB",
+					"expanded_url": "https://twitter.com/HistoricalPics/status/849574446293766144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 337,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 337,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 337,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 849574446293766100,
+					"source_status_id_str": "849574446293766144",
+					"source_user_id": 1598644159,
+					"source_user_id_str": "1598644159"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 849574443848519700,
+					"id_str": "849574443848519680",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/C8pLdJfXUAALTAX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C8pLdJfXUAALTAX.jpg",
+					"url": "https://t.co/ITXN3TaffB",
+					"display_url": "pic.twitter.com/ITXN3TaffB",
+					"expanded_url": "https://twitter.com/HistoricalPics/status/849574446293766144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 337,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 337,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 337,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 849574446293766100,
+					"source_status_id_str": "849574446293766144",
+					"source_user_id": 1598644159,
+					"source_user_id_str": "1598644159"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9211,
+			"friends_count": 1847,
+			"listed_count": 625,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3178,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62239,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1487681446",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Apr 05 10:48:26 +0000 2017",
+			"id": 849574446293766100,
+			"id_str": "849574446293766144",
+			"text": "23 years ago today, the music industry lost a true rock legend. RIP Kurt Cobain. https://t.co/ITXN3TaffB",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 849574443848519700,
+						"id_str": "849574443848519680",
+						"indices": [
+							81,
+							104
+						],
+						"media_url": "http://pbs.twimg.com/media/C8pLdJfXUAALTAX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C8pLdJfXUAALTAX.jpg",
+						"url": "https://t.co/ITXN3TaffB",
+						"display_url": "pic.twitter.com/ITXN3TaffB",
+						"expanded_url": "https://twitter.com/HistoricalPics/status/849574446293766144/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 600,
+								"h": 337,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 337,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 600,
+								"h": 337,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 849574443848519700,
+						"id_str": "849574443848519680",
+						"indices": [
+							81,
+							104
+						],
+						"media_url": "http://pbs.twimg.com/media/C8pLdJfXUAALTAX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C8pLdJfXUAALTAX.jpg",
+						"url": "https://t.co/ITXN3TaffB",
+						"display_url": "pic.twitter.com/ITXN3TaffB",
+						"expanded_url": "https://twitter.com/HistoricalPics/status/849574446293766144/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 600,
+								"h": 337,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 337,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 600,
+								"h": 337,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1598644159,
+				"id_str": "1598644159",
+				"name": "Historical Pics",
+				"screen_name": "HistoricalPics",
+				"location": "Earth",
+				"description": "Travel through time on twitter! \n\nBusiness: thehistoricalpics@gmail.com",
+				"url": "http://t.co/1FcwsgIxgf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/1FcwsgIxgf",
+								"expanded_url": "http://facebook.com/historicalpics1",
+								"display_url": "facebook.com/historicalpics1",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4926526,
+				"friends_count": 273,
+				"listed_count": 11492,
+				"created_at": "Tue Jul 16 15:09:46 +0000 2013",
+				"favourites_count": 1555,
+				"utc_offset": 3600,
+				"time_zone": "Dublin",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 12995,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000427629583/884341028bb46b82f4dc8743b9ad24d7_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000427629583/884341028bb46b82f4dc8743b9ad24d7_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1598644159/1373988080",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2886,
+			"favorite_count": 4067,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2886,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Apr 05 12:50:41 +0000 2017",
 		"id": 849605209173237800,
 		"id_str": "849605209173237761",
