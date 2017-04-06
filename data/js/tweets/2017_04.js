@@ -1,6 +1,274 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Thu Apr 06 11:09:47 +0000 2017",
+		"id": 849942204189749200,
+		"id_str": "849942204189749248",
+		"text": "\"Ik heb niets te verbergen\" anyone? Anyone? https://t.co/wvpFsTnboN",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wvpFsTnboN",
+					"expanded_url": "https://twitter.com/johnnyryan/status/849913433843793920",
+					"display_url": "twitter.com/johnnyryan/sta…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9209,
+			"friends_count": 1847,
+			"listed_count": 625,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3183,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62253,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1487681446",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 849913433843793900,
+		"quoted_status_id_str": "849913433843793920",
+		"quoted_status": {
+			"created_at": "Thu Apr 06 09:15:27 +0000 2017",
+			"id": 849913433843793900,
+			"id_str": "849913433843793920",
+			"text": "This is terrifying. \nAnyone can buy these data about you today (in the US). \n(From @FTC 2014 report on data brokers… https://t.co/QLpJKeR4SE",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "FTC",
+						"name": "FTC",
+						"id": 187993109,
+						"id_str": "187993109",
+						"indices": [
+							83,
+							87
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/QLpJKeR4SE",
+						"expanded_url": "https://twitter.com/i/web/status/849913433843793920",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17271664,
+				"id_str": "17271664",
+				"name": "Johnny Ryan",
+				"screen_name": "johnnyryan",
+				"location": "Dublin",
+				"description": "FRHistS. Writer & digital historian. Head of Ecosystem at @PageFair. Author of 'A History of the Internet and the Digital Future' https://t.co/7Qk1F0yW0N.",
+				"url": "https://t.co/CRjqxku8j8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/CRjqxku8j8",
+								"expanded_url": "https://pagefair.com/drjohnnyryan/",
+								"display_url": "pagefair.com/drjohnnyryan/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/7Qk1F0yW0N",
+								"expanded_url": "http://amzn.com/1861897774",
+								"display_url": "amzn.com/1861897774",
+								"indices": [
+									130,
+									153
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 6970,
+				"friends_count": 3995,
+				"listed_count": 323,
+				"created_at": "Sun Nov 09 18:03:05 +0000 2008",
+				"favourites_count": 4677,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6560,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/600409634310987777/QojvHNB3.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/600409634310987777/QojvHNB3.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1249574983/500x5001_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1249574983/500x5001_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17271664/1465906181",
+				"profile_link_color": "009AB9",
+				"profile_sidebar_border_color": "5ED4DC",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "7dde0febc9ef245b",
+				"url": "https://api.twitter.com/1.1/geo/id/7dde0febc9ef245b.json",
+				"place_type": "city",
+				"name": "Dublin City",
+				"full_name": "Dublin City, Ireland",
+				"country_code": "IE",
+				"country": "Ireland",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-6.387438,
+								53.2987449
+							],
+							[
+								-6.1078047,
+								53.2987449
+							],
+							[
+								-6.1078047,
+								53.4110598
+							],
+							[
+								-6.387438,
+								53.4110598
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 29,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 5,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Thu Apr 06 09:35:57 +0000 2017",
 		"id": 849918591042560000,
 		"id_str": "849918591042560000",
