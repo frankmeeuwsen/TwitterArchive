@@ -1,6 +1,250 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Tue Apr 11 06:21:56 +0000 2017",
+		"id": 851681705371074600,
+		"id_str": "851681705371074560",
+		"text": "Deze had ik nog niet gezien. Geweldig! https://t.co/VTquXilQnv",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VTquXilQnv",
+					"expanded_url": "https://twitter.com/mastodonmusic/status/849424628401541121",
+					"display_url": "twitter.com/mastodonmusic/…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9210,
+			"friends_count": 1846,
+			"listed_count": 626,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3194,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62232,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1487681446",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 849424628401541100,
+		"quoted_status_id_str": "849424628401541121",
+		"quoted_status": {
+			"created_at": "Wed Apr 05 00:53:07 +0000 2017",
+			"id": 849424628401541100,
+			"id_str": "849424628401541121",
+			"text": "1) Make album https://t.co/VS5PhdwUjd\n2) Release album\n3) Tour\n4) Make open source alternative to twitter\n\nPretty b… https://t.co/t2rFVWy6Fm",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/VS5PhdwUjd",
+						"expanded_url": "http://wbr.ec/emperorofsand",
+						"display_url": "wbr.ec/emperorofsand",
+						"indices": [
+							14,
+							37
+						]
+					},
+					{
+						"url": "https://t.co/t2rFVWy6Fm",
+						"expanded_url": "https://twitter.com/i/web/status/849424628401541121",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18065572,
+				"id_str": "18065572",
+				"name": "Mastodon",
+				"screen_name": "mastodonmusic",
+				"location": "Atlanta, GA",
+				"description": "New album 'Emperor of Sand' out now! https://t.co/A9W7Z32dwO | On tour this spring! https://t.co/EkXk0Mn6qK",
+				"url": "http://t.co/nlnr4wS9tt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/nlnr4wS9tt",
+								"expanded_url": "http://mastodonrocks.com",
+								"display_url": "mastodonrocks.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/A9W7Z32dwO",
+								"expanded_url": "https://wbr.ec/emperorofsand",
+								"display_url": "wbr.ec/emperorofsand",
+								"indices": [
+									37,
+									60
+								]
+							},
+							{
+								"url": "https://t.co/EkXk0Mn6qK",
+								"expanded_url": "http://mastodonrocks.com/tour",
+								"display_url": "mastodonrocks.com/tour",
+								"indices": [
+									84,
+									107
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 367756,
+				"friends_count": 7123,
+				"listed_count": 2195,
+				"created_at": "Fri Dec 12 00:51:35 +0000 2008",
+				"favourites_count": 1846,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 1380,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/824852402217955328/QrFAKTJY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/824852402217955328/QrFAKTJY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18065572/1490932593",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 849412806835351600,
+			"quoted_status_id_str": "849412806835351552",
+			"retweet_count": 874,
+			"favorite_count": 1463,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Tue Apr 11 06:20:03 +0000 2017",
 		"id": 851681229992861700,
 		"id_str": "851681229992861696",
