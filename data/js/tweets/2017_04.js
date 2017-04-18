@@ -1,6 +1,659 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Tue Apr 18 11:03:31 +0000 2017",
+		"id": 854289281761910800,
+		"id_str": "854289281761910784",
+		"text": "RT @HilariousEdited: hey @pepsi that shit is not working https://t.co/uivauKixUR",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HilariousEdited",
+					"name": "memes",
+					"id": 552011578,
+					"id_str": "552011578",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "pepsi",
+					"name": "Pepsi™",
+					"id": 18139619,
+					"id_str": "18139619",
+					"indices": [
+						25,
+						31
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 854103110180106200,
+					"id_str": "854103110180106240",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/854103110180106240/pu/img/8j33KiyAZKlXJpv1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/854103110180106240/pu/img/8j33KiyAZKlXJpv1.jpg",
+					"url": "https://t.co/uivauKixUR",
+					"display_url": "pic.twitter.com/uivauKixUR",
+					"expanded_url": "https://twitter.com/camilzf/status/854103178467434496/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 718,
+							"h": 404,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 854103178467434500,
+					"source_status_id_str": "854103178467434496",
+					"source_user_id": 3040368190,
+					"source_user_id_str": "3040368190"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 854103110180106200,
+					"id_str": "854103110180106240",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/854103110180106240/pu/img/8j33KiyAZKlXJpv1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/854103110180106240/pu/img/8j33KiyAZKlXJpv1.jpg",
+					"url": "https://t.co/uivauKixUR",
+					"display_url": "pic.twitter.com/uivauKixUR",
+					"expanded_url": "https://twitter.com/camilzf/status/854103178467434496/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 718,
+							"h": 404,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 854103178467434500,
+					"source_status_id_str": "854103178467434496",
+					"source_user_id": 3040368190,
+					"source_user_id_str": "3040368190",
+					"video_info": {
+						"aspect_ratio": [
+							359,
+							202
+						],
+						"duration_millis": 7049,
+						"variants": [
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/854103110180106240/pu/vid/318x180/51oV7hkSW8OT3G9b.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/854103110180106240/pu/pl/Uxsh5vTQ6cXpo81k.m3u8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/854103110180106240/pu/vid/638x360/yJen7PB0tFOSmK0q.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 3040368190,
+							"id_str": "3040368190",
+							"name": "Cami (♥ω♥ )",
+							"screen_name": "camilzf",
+							"location": "",
+							"description": "Nsfw - Boobs, yuri and shitposting. Posts are not myself - Don't ask for source.",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 8066,
+							"friends_count": 107,
+							"listed_count": 110,
+							"created_at": "Mon Feb 16 07:23:23 +0000 2015",
+							"favourites_count": 19597,
+							"utc_offset": -10800,
+							"time_zone": "Brasilia",
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 28523,
+							"lang": "en-gb",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": true,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/827698507968606208/ALhVz2nz_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/827698507968606208/ALhVz2nz_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/3040368190/1424072126",
+							"profile_link_color": "9266CC",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": false,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9223,
+			"friends_count": 1845,
+			"listed_count": 622,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3213,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62207,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1487681446",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Apr 18 00:52:27 +0000 2017",
+			"id": 854135504182296600,
+			"id_str": "854135504182296576",
+			"text": "hey @pepsi that shit is not working https://t.co/uivauKixUR",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "pepsi",
+						"name": "Pepsi™",
+						"id": 18139619,
+						"id_str": "18139619",
+						"indices": [
+							4,
+							10
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 854103110180106200,
+						"id_str": "854103110180106240",
+						"indices": [
+							36,
+							59
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/854103110180106240/pu/img/8j33KiyAZKlXJpv1.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/854103110180106240/pu/img/8j33KiyAZKlXJpv1.jpg",
+						"url": "https://t.co/uivauKixUR",
+						"display_url": "pic.twitter.com/uivauKixUR",
+						"expanded_url": "https://twitter.com/camilzf/status/854103178467434496/video/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 718,
+								"h": 404,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 854103178467434500,
+						"source_status_id_str": "854103178467434496",
+						"source_user_id": 3040368190,
+						"source_user_id_str": "3040368190"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 854103110180106200,
+						"id_str": "854103110180106240",
+						"indices": [
+							36,
+							59
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/854103110180106240/pu/img/8j33KiyAZKlXJpv1.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/854103110180106240/pu/img/8j33KiyAZKlXJpv1.jpg",
+						"url": "https://t.co/uivauKixUR",
+						"display_url": "pic.twitter.com/uivauKixUR",
+						"expanded_url": "https://twitter.com/camilzf/status/854103178467434496/video/1",
+						"type": "video",
+						"sizes": {
+							"large": {
+								"w": 718,
+								"h": 404,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 854103178467434500,
+						"source_status_id_str": "854103178467434496",
+						"source_user_id": 3040368190,
+						"source_user_id_str": "3040368190",
+						"video_info": {
+							"aspect_ratio": [
+								359,
+								202
+							],
+							"duration_millis": 7049,
+							"variants": [
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/854103110180106240/pu/vid/318x180/51oV7hkSW8OT3G9b.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/854103110180106240/pu/pl/Uxsh5vTQ6cXpo81k.m3u8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/854103110180106240/pu/vid/638x360/yJen7PB0tFOSmK0q.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 3040368190,
+								"id_str": "3040368190",
+								"name": "Cami (♥ω♥ )",
+								"screen_name": "camilzf",
+								"location": "",
+								"description": "Nsfw - Boobs, yuri and shitposting. Posts are not myself - Don't ask for source.",
+								"url": null,
+								"entities": {
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 8066,
+								"friends_count": 107,
+								"listed_count": 110,
+								"created_at": "Mon Feb 16 07:23:23 +0000 2015",
+								"favourites_count": 19597,
+								"utc_offset": -10800,
+								"time_zone": "Brasilia",
+								"geo_enabled": false,
+								"verified": false,
+								"statuses_count": 28523,
+								"lang": "en-gb",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": true,
+								"profile_background_color": "000000",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/827698507968606208/ALhVz2nz_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/827698507968606208/ALhVz2nz_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/3040368190/1424072126",
+								"profile_link_color": "9266CC",
+								"profile_sidebar_border_color": "000000",
+								"profile_sidebar_fill_color": "000000",
+								"profile_text_color": "000000",
+								"profile_use_background_image": false,
+								"has_extended_profile": true,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 552011578,
+				"id_str": "552011578",
+				"name": "memes",
+				"screen_name": "HilariousEdited",
+				"location": "",
+				"description": "Posting the best memes of the internet. *We don't own any content on this page, DM for credits or removals*",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 929977,
+				"friends_count": 112,
+				"listed_count": 1571,
+				"created_at": "Thu Apr 12 17:03:02 +0000 2012",
+				"favourites_count": 11,
+				"utc_offset": 7200,
+				"time_zone": "Amsterdam",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3129,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000075004352/e5e94b3ef180fc7ac18e1b65a97a0ec5.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000075004352/e5e94b3ef180fc7ac18e1b65a97a0ec5.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/798333061913948160/zjwjqrNM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/798333061913948160/zjwjqrNM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/552011578/1410018593",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E3E2DE",
+				"profile_text_color": "634047",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1601,
+			"favorite_count": 1863,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1601,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Apr 18 11:01:49 +0000 2017",
+		"id": 854288852504244200,
+		"id_str": "854288852504244224",
+		"text": "Instagram mirrors Pinterest with feature for organizing saved posts https://t.co/HDNp8Wz2rl via @VentureBeat",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "VentureBeat",
+					"name": "VentureBeat",
+					"id": 60642052,
+					"id_str": "60642052",
+					"indices": [
+						96,
+						108
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HDNp8Wz2rl",
+					"expanded_url": "https://venturebeat.com/2017/04/17/instagram-mirrors-pinterest-with-feature-for-organizing-saved-posts/?utm_campaign=Feed%3A%2Bventurebeat%2FSZYF%2B%28VentureBeat%29&utm_medium=feed&utm_source=feedburner",
+					"display_url": "venturebeat.com/2017/04/17/ins…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9223,
+			"friends_count": 1845,
+			"listed_count": 622,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3213,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62207,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1487681446",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Apr 17 16:45:18 +0000 2017",
 		"id": 854012909034381300,
 		"id_str": "854012909034381313",
