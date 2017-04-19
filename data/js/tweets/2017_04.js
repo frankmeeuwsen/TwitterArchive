@@ -1,6 +1,401 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Wed Apr 19 06:21:43 +0000 2017",
+		"id": 854580751605674000,
+		"id_str": "854580751605673985",
+		"text": "RT @fmunoz92: A script that lets you add stories EVERYWHERE https://t.co/ZwxsCBUvOR @ProductHunt https://t.co/CcWMH53aDz",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "fmunoz92",
+					"name": "Facundo Muñoz",
+					"id": 97954339,
+					"id_str": "97954339",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "ProductHunt",
+					"name": "Product Hunt",
+					"id": 2208027565,
+					"id_str": "2208027565",
+					"indices": [
+						84,
+						96
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZwxsCBUvOR",
+					"expanded_url": "http://buff.ly/2pz03rC",
+					"display_url": "buff.ly/2pz03rC",
+					"indices": [
+						60,
+						83
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 854574329446621200,
+					"id_str": "854574329446621184",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/C9wO0yzVYAAvn6S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C9wO0yzVYAAvn6S.jpg",
+					"url": "https://t.co/CcWMH53aDz",
+					"display_url": "pic.twitter.com/CcWMH53aDz",
+					"expanded_url": "https://twitter.com/fmunoz92/status/854574332496007169/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 479,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1248,
+							"h": 498,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 271,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 854574332496007200,
+					"source_status_id_str": "854574332496007169",
+					"source_user_id": 97954339,
+					"source_user_id_str": "97954339"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 854574329446621200,
+					"id_str": "854574329446621184",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/C9wO0yzVYAAvn6S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C9wO0yzVYAAvn6S.jpg",
+					"url": "https://t.co/CcWMH53aDz",
+					"display_url": "pic.twitter.com/CcWMH53aDz",
+					"expanded_url": "https://twitter.com/fmunoz92/status/854574332496007169/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 479,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1248,
+							"h": 498,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 271,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 854574332496007200,
+					"source_status_id_str": "854574332496007169",
+					"source_user_id": 97954339,
+					"source_user_id_str": "97954339"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9224,
+			"friends_count": 1844,
+			"listed_count": 622,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3213,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62215,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1487681446",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Apr 19 05:56:12 +0000 2017",
+			"id": 854574332496007200,
+			"id_str": "854574332496007169",
+			"text": "A script that lets you add stories EVERYWHERE https://t.co/ZwxsCBUvOR @ProductHunt https://t.co/CcWMH53aDz",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ProductHunt",
+						"name": "Product Hunt",
+						"id": 2208027565,
+						"id_str": "2208027565",
+						"indices": [
+							70,
+							82
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/ZwxsCBUvOR",
+						"expanded_url": "http://buff.ly/2pz03rC",
+						"display_url": "buff.ly/2pz03rC",
+						"indices": [
+							46,
+							69
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 854574329446621200,
+						"id_str": "854574329446621184",
+						"indices": [
+							83,
+							106
+						],
+						"media_url": "http://pbs.twimg.com/media/C9wO0yzVYAAvn6S.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9wO0yzVYAAvn6S.jpg",
+						"url": "https://t.co/CcWMH53aDz",
+						"display_url": "pic.twitter.com/CcWMH53aDz",
+						"expanded_url": "https://twitter.com/fmunoz92/status/854574332496007169/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 479,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1248,
+								"h": 498,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 271,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 854574329446621200,
+						"id_str": "854574329446621184",
+						"indices": [
+							83,
+							106
+						],
+						"media_url": "http://pbs.twimg.com/media/C9wO0yzVYAAvn6S.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9wO0yzVYAAvn6S.jpg",
+						"url": "https://t.co/CcWMH53aDz",
+						"display_url": "pic.twitter.com/CcWMH53aDz",
+						"expanded_url": "https://twitter.com/fmunoz92/status/854574332496007169/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 479,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1248,
+								"h": 498,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 271,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 97954339,
+				"id_str": "97954339",
+				"name": "Facundo Muñoz",
+				"screen_name": "fmunoz92",
+				"location": "Río Cuarto, Argentina",
+				"description": "Co-founder QActivo. Web Development, Software, Big data, Startups, Travels.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 517,
+				"friends_count": 607,
+				"listed_count": 32,
+				"created_at": "Sat Dec 19 18:34:01 +0000 2009",
+				"favourites_count": 740,
+				"utc_offset": -10800,
+				"time_zone": "Buenos Aires",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 570,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/750403814553968640/XxL4Cean_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/750403814553968640/XxL4Cean_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/97954339/1478784599",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 21,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Apr 18 21:24:56 +0000 2017",
 		"id": 854445667938443300,
 		"id_str": "854445667938443264",
