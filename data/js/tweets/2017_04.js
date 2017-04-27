@@ -1,6 +1,328 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Thu Apr 27 05:39:35 +0000 2017",
+		"id": 857469251262832600,
+		"id_str": "857469251262832640",
+		"text": "RT @dangillmor: As an Amazon shareholder, I think that people who put an Amazon-powered microphone and video camera in their bedrooms are b…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dangillmor",
+					"name": "Dan Gillmor",
+					"id": 6267962,
+					"id_str": "6267962",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9237,
+			"friends_count": 1812,
+			"listed_count": 623,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3230,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62196,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Apr 27 01:03:44 +0000 2017",
+			"id": 857399834805928000,
+			"id_str": "857399834805927937",
+			"text": "As an Amazon shareholder, I think that people who put an Amazon-powered microphone and video camera in their bedrooms are bonkers.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 6267962,
+				"id_str": "6267962",
+				"name": "Dan Gillmor",
+				"screen_name": "dangillmor",
+				"location": "California, Arizona, etc.",
+				"description": "Bio and disclosures: http://t.co/hvOSLk0oIQ. Retweets usually mean endorsements, but not always.",
+				"url": "http://t.co/46VwxiMsRU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/46VwxiMsRU",
+								"expanded_url": "http://dangillmor.com/",
+								"display_url": "dangillmor.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/hvOSLk0oIQ",
+								"expanded_url": "http://dangillmor.com/about",
+								"display_url": "dangillmor.com/about",
+								"indices": [
+									21,
+									43
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 43583,
+				"friends_count": 1200,
+				"listed_count": 3532,
+				"created_at": "Wed May 23 18:24:33 +0000 2007",
+				"favourites_count": 8,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 65900,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/108307695/danmug.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/108307695/danmug.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/531650871533117440/zHSKbNRU_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/531650871533117440/zHSKbNRU_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/6267962/1471368925",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 115,
+			"favorite_count": 268,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 115,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Apr 27 05:30:57 +0000 2017",
+		"id": 857467080991494100,
+		"id_str": "857467080991494145",
+		"text": "Een nieuwe Nederlandse Mastodon server, met dank aan @mdbraber : mastodon.nl\n\nLekker hollands lullen en Koningsdag selfies posten!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mdbraber",
+					"name": "Maarten den Braber",
+					"id": 9938952,
+					"id_str": "9938952",
+					"indices": [
+						53,
+						62
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9237,
+			"friends_count": 1812,
+			"listed_count": 623,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3230,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62196,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Wed Apr 26 20:39:33 +0000 2017",
 		"id": 857333350855520300,
 		"id_str": "857333350855520256",
