@@ -1,6 +1,287 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Thu Apr 27 20:12:05 +0000 2017",
+		"id": 857688824931110900,
+		"id_str": "857688824931110912",
+		"text": "Hahaha. Dank voor de waardering! https://t.co/KKWVsnqY3U",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KKWVsnqY3U",
+					"expanded_url": "https://twitter.com/punkmedia/status/857646202162171904",
+					"display_url": "twitter.com/punkmedia/stat…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9231,
+			"friends_count": 1812,
+			"listed_count": 623,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3230,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62199,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 857646202162171900,
+		"quoted_status_id_str": "857646202162171904",
+		"quoted_status": {
+			"created_at": "Thu Apr 27 17:22:43 +0000 2017",
+			"id": 857646202162171900,
+			"id_str": "857646202162171904",
+			"text": "WOOOP WOOOP 10 JAAR OP TWITTER https://t.co/WWdjT1fox0 #dailyblog met @puur over @erwblo @marcoderksen… https://t.co/PSoGxqpcXr",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "dailyblog",
+						"indices": [
+							55,
+							65
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "puur",
+						"name": "puur",
+						"id": 5776422,
+						"id_str": "5776422",
+						"indices": [
+							70,
+							75
+						]
+					},
+					{
+						"screen_name": "erwblo",
+						"name": "erwin blom",
+						"id": 713333,
+						"id_str": "713333",
+						"indices": [
+							81,
+							88
+						]
+					},
+					{
+						"screen_name": "marcoderksen",
+						"name": "Marco Derksen",
+						"id": 1252681,
+						"id_str": "1252681",
+						"indices": [
+							89,
+							102
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/WWdjT1fox0",
+						"expanded_url": "http://www.punkmedia.nl/blog/1195-wooop-wooop-10-jaar-op-twitter",
+						"display_url": "punkmedia.nl/blog/1195-wooo…",
+						"indices": [
+							31,
+							54
+						]
+					},
+					{
+						"url": "https://t.co/PSoGxqpcXr",
+						"expanded_url": "https://twitter.com/i/web/status/857646202162171904",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							104,
+							127
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5549572,
+				"id_str": "5549572",
+				"name": "PUNKMEDIA",
+				"screen_name": "punkmedia",
+				"location": "Lochem",
+				"description": "Filmer, fotograaf, journalist. https://t.co/92Mn6AUxaB https://t.co/g5Afez3BgQ initiatiefnemer #mijnmoment",
+				"url": "http://t.co/I5Fw1l1PhY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/I5Fw1l1PhY",
+								"expanded_url": "http://www.punkmedia.nl",
+								"display_url": "punkmedia.nl",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/92Mn6AUxaB",
+								"expanded_url": "https://vimeo.com/punkmedia",
+								"display_url": "vimeo.com/punkmedia",
+								"indices": [
+									31,
+									54
+								]
+							},
+							{
+								"url": "https://t.co/g5Afez3BgQ",
+								"expanded_url": "https://www.flickr.com/photos/eventbranche/sets/",
+								"display_url": "flickr.com/photos/eventbr…",
+								"indices": [
+									55,
+									78
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 5153,
+				"friends_count": 2367,
+				"listed_count": 303,
+				"created_at": "Fri Apr 27 09:53:39 +0000 2007",
+				"favourites_count": 2333,
+				"utc_offset": 7200,
+				"time_zone": "Amsterdam",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 32548,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000152989766/CyY25MP_.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000152989766/CyY25MP_.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/799704800367673346/ZIxrVwfK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/799704800367673346/ZIxrVwfK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5549572/1411466287",
+				"profile_link_color": "FF0073",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Thu Apr 27 13:21:44 +0000 2017",
 		"id": 857585555659423700,
 		"id_str": "857585555659423745",
