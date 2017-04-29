@@ -1,6 +1,278 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Sat Apr 29 20:25:11 +0000 2017",
+		"id": 858416897884381200,
+		"id_str": "858416897884381185",
+		"text": "Damn dit is leuk. Twitter Moments gebruiken als een soort 'zine. Like it https://t.co/Qo5m64JptE",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Qo5m64JptE",
+					"expanded_url": "https://twitter.com/casualsheets/status/858156962910949376",
+					"display_url": "twitter.com/casualsheets/s…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9231,
+			"friends_count": 1810,
+			"listed_count": 623,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3231,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62164,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 858156962910949400,
+		"quoted_status_id_str": "858156962910949376",
+		"quoted_status": {
+			"created_at": "Sat Apr 29 03:12:18 +0000 2017",
+			"id": 858156962910949400,
+			"id_str": "858156962910949376",
+			"text": "⚡️ “#CasualFriday, Issue 1”\nhttps://t.co/M9cPfWvetK\nlinks + stories by\n- @cheriehu42\n- @nickcicero \n- @earnestp \n- @jank0\n- @rjcc",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "CasualFriday",
+						"indices": [
+							4,
+							17
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "cheriehu42",
+						"name": "Cherie Hu",
+						"id": 2774548399,
+						"id_str": "2774548399",
+						"indices": [
+							73,
+							84
+						]
+					},
+					{
+						"screen_name": "nickcicero",
+						"name": "Nick Cicero",
+						"id": 18448279,
+						"id_str": "18448279",
+						"indices": [
+							87,
+							98
+						]
+					},
+					{
+						"screen_name": "earnestp",
+						"name": "Earnest Pettie",
+						"id": 5885192,
+						"id_str": "5885192",
+						"indices": [
+							102,
+							111
+						]
+					},
+					{
+						"screen_name": "jank0",
+						"name": "Janko Roettgers",
+						"id": 11818292,
+						"id_str": "11818292",
+						"indices": [
+							115,
+							121
+						]
+					},
+					{
+						"screen_name": "rjcc",
+						"name": "Richard Lawler",
+						"id": 15009761,
+						"id_str": "15009761",
+						"indices": [
+							124,
+							129
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/M9cPfWvetK",
+						"expanded_url": "https://twitter.com/i/moments/855191951720693760",
+						"display_url": "twitter.com/i/moments/8551…",
+						"indices": [
+							28,
+							51
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 763913570434228200,
+				"id_str": "763913570434228224",
+				"name": "Casual Spreadsheets",
+				"screen_name": "casualsheets",
+				"location": "",
+				"description": "Organizing messes, but not that much. Tracking social media and showbiz, baby. A @bluechoochoo side-project. 20% off discount code: NEWYEARNEWYOU",
+				"url": "https://t.co/uozsBa4GvD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/uozsBa4GvD",
+								"expanded_url": "http://breakroom.casualspreadsheets.com/gimme_subscribe_shut_up_take_my_money.html",
+								"display_url": "breakroom.casualspreadsheets.com/gimme_subscrib…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 735,
+				"friends_count": 476,
+				"listed_count": 39,
+				"created_at": "Fri Aug 12 01:42:42 +0000 2016",
+				"favourites_count": 1262,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 730,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/793478975871782912/NlBoiCt4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/793478975871782912/NlBoiCt4_normal.jpg",
+				"profile_link_color": "490362",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Sat Apr 29 18:49:47 +0000 2017",
 		"id": 858392888006377500,
 		"id_str": "858392888006377473",
