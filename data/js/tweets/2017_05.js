@@ -1,6 +1,523 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Wed May 03 07:01:35 +0000 2017",
+		"id": 859664216214700000,
+		"id_str": "859664216214700034",
+		"text": "RT @rob_sheridan: When someone asks you to design something for free https://t.co/Hn9lpQiWV6",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rob_sheridan",
+					"name": "Rob Sheridan",
+					"id": 19668592,
+					"id_str": "19668592",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Hn9lpQiWV6",
+					"expanded_url": "https://twitter.com/theafrix/status/859332901837692929",
+					"display_url": "twitter.com/theafrix/statu…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9241,
+			"friends_count": 1813,
+			"listed_count": 622,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3231,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62142,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue May 02 16:54:38 +0000 2017",
+			"id": 859451072875712500,
+			"id_str": "859451072875712512",
+			"text": "When someone asks you to design something for free https://t.co/Hn9lpQiWV6",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Hn9lpQiWV6",
+						"expanded_url": "https://twitter.com/theafrix/status/859332901837692929",
+						"display_url": "twitter.com/theafrix/statu…",
+						"indices": [
+							51,
+							74
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19668592,
+				"id_str": "19668592",
+				"name": "Rob Sheridan",
+				"screen_name": "rob_sheridan",
+				"location": "Seattle, WA",
+				"description": "Art director, illustrator, writer, photographer, nerd. Formerly of NIN/HTDA. info(at)rob-sheridan(dotcom)",
+				"url": "https://t.co/y7FyAdQ6a3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/y7FyAdQ6a3",
+								"expanded_url": "http://rob-sheridan.com",
+								"display_url": "rob-sheridan.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 45683,
+				"friends_count": 568,
+				"listed_count": 2207,
+				"created_at": "Wed Jan 28 19:01:55 +0000 2009",
+				"favourites_count": 14740,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 14434,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "333333",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/715378874/3913e433eb1048fc10b61eccc55614e0.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/715378874/3913e433eb1048fc10b61eccc55614e0.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3628319046/bd9abe9df1fc61e5b6213d0e38af12b1_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3628319046/bd9abe9df1fc61e5b6213d0e38af12b1_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19668592/1485894967",
+				"profile_link_color": "C40000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C4C4C4",
+				"profile_text_color": "4D4D4D",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 859332901837692900,
+			"quoted_status_id_str": "859332901837692929",
+			"quoted_status": {
+				"created_at": "Tue May 02 09:05:04 +0000 2017",
+				"id": 859332901837692900,
+				"id_str": "859332901837692929",
+				"text": "Brilliant poster. Nice one Dave. https://t.co/AEmk7yFrUk",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 859331700614197200,
+							"id_str": "859331700614197248",
+							"indices": [
+								33,
+								56
+							],
+							"media_url": "http://pbs.twimg.com/media/C-z1oPdXcAASoFU.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/C-z1oPdXcAASoFU.jpg",
+							"url": "https://t.co/AEmk7yFrUk",
+							"display_url": "pic.twitter.com/AEmk7yFrUk",
+							"expanded_url": "https://twitter.com/theafrix/status/859332901837692929/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 720,
+									"h": 960,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 720,
+									"h": 960,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 510,
+									"h": 680,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 859331700614197200,
+							"id_str": "859331700614197248",
+							"indices": [
+								33,
+								56
+							],
+							"media_url": "http://pbs.twimg.com/media/C-z1oPdXcAASoFU.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/C-z1oPdXcAASoFU.jpg",
+							"url": "https://t.co/AEmk7yFrUk",
+							"display_url": "pic.twitter.com/AEmk7yFrUk",
+							"expanded_url": "https://twitter.com/theafrix/status/859332901837692929/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 720,
+									"h": 960,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 720,
+									"h": 960,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 510,
+									"h": 680,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 481943747,
+					"id_str": "481943747",
+					"name": "Tom Wysocki",
+					"screen_name": "theafrix",
+					"location": "Sweden",
+					"description": "Designer",
+					"url": "https://t.co/UsMC1rOH7k",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/UsMC1rOH7k",
+									"expanded_url": "http://theafrix.tumblr.com/",
+									"display_url": "theafrix.tumblr.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 1401,
+					"friends_count": 101,
+					"listed_count": 62,
+					"created_at": "Fri Feb 03 10:43:03 +0000 2012",
+					"favourites_count": 102,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 860,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000143222039/ge5nqlvR.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000143222039/ge5nqlvR.jpeg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/859426599212634113/XAaqN7kY_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/859426599212634113/XAaqN7kY_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/481943747/1486052318",
+					"profile_link_color": "000000",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "regular"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 11826,
+				"favorite_count": 28115,
+				"favorited": false,
+				"retweeted": true,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 104,
+			"favorite_count": 226,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 859332901837692900,
+		"quoted_status_id_str": "859332901837692929",
+		"retweet_count": 104,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed May 03 06:59:30 +0000 2017",
+		"id": 859663689502339100,
+		"id_str": "859663689502339073",
+		"text": "@AFASPersonal @AFAS Ik krijg jullie Bijwerk Assistant niet geinstalleerd op Firefox 53.0, zelfs niet na override xpsignatures. Wat nu?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AFASPersonal",
+					"name": "AFAS Personal",
+					"id": 16665985,
+					"id_str": "16665985",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "AFAS",
+					"name": "AFAS Software",
+					"id": 46121217,
+					"id_str": "46121217",
+					"indices": [
+						14,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 16665985,
+		"in_reply_to_user_id_str": "16665985",
+		"in_reply_to_screen_name": "AFASPersonal",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9241,
+			"friends_count": 1813,
+			"listed_count": 622,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3231,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62142,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Tue May 02 09:55:12 +0000 2017",
 		"id": 859345518945849300,
 		"id_str": "859345518945849344",
