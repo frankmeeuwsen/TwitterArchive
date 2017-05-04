@@ -1,6 +1,590 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Thu May 04 15:32:15 +0000 2017",
+		"id": 860155117961703400,
+		"id_str": "860155117961703429",
+		"text": "En ook dit nog. Landmark klassieker Check Your Head turns 25. Wat een plaat is dat. Nog altijd. https://t.co/SdPR1vjksz",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SdPR1vjksz",
+					"expanded_url": "https://twitter.com/PublicEnemyFTP/status/855454831447646208",
+					"display_url": "twitter.com/PublicEnemyFTP…",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9241,
+			"friends_count": 1814,
+			"listed_count": 620,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3232,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62149,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 855454831447646200,
+		"quoted_status_id_str": "855454831447646208",
+		"quoted_status": {
+			"created_at": "Fri Apr 21 16:15:00 +0000 2017",
+			"id": 855454831447646200,
+			"id_str": "855454831447646208",
+			"text": "The PE family salutes the @beastieboys today on the 25th anniversary of Check Your Head. #RIPMCA https://t.co/ZNOcKsLZoD",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "RIPMCA",
+						"indices": [
+							89,
+							96
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "beastieboys",
+						"name": "Beastie Boys",
+						"id": 20172395,
+						"id_str": "20172395",
+						"indices": [
+							26,
+							38
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 855454825504358400,
+						"id_str": "855454825504358400",
+						"indices": [
+							97,
+							120
+						],
+						"media_url": "http://pbs.twimg.com/media/C98voaOUwAAjQAg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C98voaOUwAAjQAg.jpg",
+						"url": "https://t.co/ZNOcKsLZoD",
+						"display_url": "pic.twitter.com/ZNOcKsLZoD",
+						"expanded_url": "https://twitter.com/PublicEnemyFTP/status/855454831447646208/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 745,
+								"h": 739,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 675,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 745,
+								"h": 739,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 855454825504358400,
+						"id_str": "855454825504358400",
+						"indices": [
+							97,
+							120
+						],
+						"media_url": "http://pbs.twimg.com/media/C98voaOUwAAjQAg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C98voaOUwAAjQAg.jpg",
+						"url": "https://t.co/ZNOcKsLZoD",
+						"display_url": "pic.twitter.com/ZNOcKsLZoD",
+						"expanded_url": "https://twitter.com/PublicEnemyFTP/status/855454831447646208/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 745,
+								"h": 739,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 675,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 745,
+								"h": 739,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 518737741,
+				"id_str": "518737741",
+				"name": "PUBLIC ENEMY",
+				"screen_name": "PublicEnemyFTP",
+				"location": "PlanetEarth",
+				"description": "Official Twitter of the Legendary Public Enemy #PEftp Also follow @MrChuckD @FlavorFlav @djlordofficial @griffthenme @jamesbombs1w @pop1960",
+				"url": "https://t.co/c0vbPPgnot",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/c0vbPPgnot",
+								"expanded_url": "http://www.publicenemy.com",
+								"display_url": "publicenemy.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 116911,
+				"friends_count": 5370,
+				"listed_count": 825,
+				"created_at": "Thu Mar 08 18:16:06 +0000 2012",
+				"favourites_count": 981,
+				"utc_offset": -10800,
+				"time_zone": "Atlantic Time (Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 11279,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/444286405/public-enemy-logo-5001191-1.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/444286405/public-enemy-logo-5001191-1.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/614629299367251968/VUwK1Jpp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/614629299367251968/VUwK1Jpp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/518737741/1435373972",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 249,
+			"favorite_count": 434,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
+		"created_at": "Thu May 04 15:30:35 +0000 2017",
+		"id": 860154697671475200,
+		"id_str": "860154697671475200",
+		"text": "RT @fabfivefredly: Five years ago the world lost a one of the greats. May the MCA be with you. #RIPMCA \n\nI'm Yauch and I'm out. https://t.c…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RIPMCA",
+					"indices": [
+						95,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "fabfivefredly",
+					"name": "FredlyTheCleverRuse",
+					"id": 27051998,
+					"id_str": "27051998",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9241,
+			"friends_count": 1814,
+			"listed_count": 620,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3232,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62149,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu May 04 12:38:01 +0000 2017",
+			"id": 860111270518943700,
+			"id_str": "860111270518943744",
+			"text": "Five years ago the world lost a one of the greats. May the MCA be with you. #RIPMCA \n\nI'm Yauch and I'm out. https://t.co/J7RTY87kb5",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "RIPMCA",
+						"indices": [
+							76,
+							83
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 860111263141154800,
+						"id_str": "860111263141154816",
+						"indices": [
+							109,
+							132
+						],
+						"media_url": "http://pbs.twimg.com/media/C--6owLXUAAZmG3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C--6owLXUAAZmG3.jpg",
+						"url": "https://t.co/J7RTY87kb5",
+						"display_url": "pic.twitter.com/J7RTY87kb5",
+						"expanded_url": "https://twitter.com/fabfivefredly/status/860111270518943744/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 484,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 683,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 683,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 860111263141154800,
+						"id_str": "860111263141154816",
+						"indices": [
+							109,
+							132
+						],
+						"media_url": "http://pbs.twimg.com/media/C--6owLXUAAZmG3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C--6owLXUAAZmG3.jpg",
+						"url": "https://t.co/J7RTY87kb5",
+						"display_url": "pic.twitter.com/J7RTY87kb5",
+						"expanded_url": "https://twitter.com/fabfivefredly/status/860111270518943744/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 484,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 683,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 683,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 27051998,
+				"id_str": "27051998",
+				"name": "FredlyTheCleverRuse",
+				"screen_name": "fabfivefredly",
+				"location": "mike's corner",
+				"description": "surrenderer to the flow - aspirant comedienne - Jah seeker - general phishery - i didnt choose the phish life, the phish life chose me - OG - Sophisticunt™",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 893,
+				"friends_count": 628,
+				"listed_count": 31,
+				"created_at": "Fri Mar 27 17:30:36 +0000 2009",
+				"favourites_count": 24320,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 24047,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/647841106/rz6v52n0yk3l39akq8mx.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/647841106/rz6v52n0yk3l39akq8mx.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/848586492909957127/CJ30yPLe_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/848586492909957127/CJ30yPLe_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/27051998/1460845837",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "829D5E",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 40,
+			"favorite_count": 85,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 40,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed May 03 20:32:41 +0000 2017",
 		"id": 859868337324556300,
 		"id_str": "859868337324556289",
