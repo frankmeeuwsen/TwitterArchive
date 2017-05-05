@@ -1,6 +1,385 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Fri May 05 16:51:35 +0000 2017",
+		"id": 860537470559060000,
+		"id_str": "860537470559059968",
+		"text": "@Nelleke @elger Ik weet jullie huisnummer eigenlijk niet...",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Nelleke",
+					"name": "Nelleke Poorthuis",
+					"id": 6850052,
+					"id_str": "6850052",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "elger",
+					"name": "Elger van der Wel",
+					"id": 14142375,
+					"id_str": "14142375",
+					"indices": [
+						9,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": 860413566209359900,
+		"in_reply_to_status_id_str": "860413566209359872",
+		"in_reply_to_user_id": 6850052,
+		"in_reply_to_user_id_str": "6850052",
+		"in_reply_to_screen_name": "Nelleke",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9241,
+			"friends_count": 1814,
+			"listed_count": 620,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3233,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62155,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl"
+	},
+	{
+		"created_at": "Fri May 05 16:51:05 +0000 2017",
+		"id": 860537342804807700,
+		"id_str": "860537342804807680",
+		"text": "Woeha! https://t.co/hZHpEANyZ2",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hZHpEANyZ2",
+					"expanded_url": "https://twitter.com/RamonesNL/status/860431284358787072",
+					"display_url": "twitter.com/RamonesNL/stat…",
+					"indices": [
+						7,
+						30
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9241,
+			"friends_count": 1814,
+			"listed_count": 620,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3233,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62155,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 860431284358787100,
+		"quoted_status_id_str": "860431284358787072",
+		"quoted_status": {
+			"created_at": "Fri May 05 09:49:38 +0000 2017",
+			"id": 860431284358787100,
+			"id_str": "860431284358787072",
+			"text": "Van Jasper's huis in Den Haag reisde ik op 5 mei 2001 naar Breda, waar ik bij @frankmeeuwsen verbleef… https://t.co/zAzqtZyg9o",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "frankmeeuwsen",
+						"name": "Frank Meeuwsen",
+						"id": 816203,
+						"id_str": "816203",
+						"indices": [
+							78,
+							92
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/zAzqtZyg9o",
+						"expanded_url": "https://twitter.com/i/web/status/860431284358787072",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							103,
+							126
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15049434,
+				"id_str": "15049434",
+				"name": "Ramon Stoppelenburg",
+				"screen_name": "RamonesNL",
+				"location": "Phnom Penh, Cambodja",
+				"description": "Schrijver, reiziger, tour operator, kookgek, CrossFit L1 atleet en eigenaar van twee filmhuizen in Cambodja.",
+				"url": "https://t.co/8WiDlj0x6A",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8WiDlj0x6A",
+								"expanded_url": "http://www.ramonstoppelenburg.nl",
+								"display_url": "ramonstoppelenburg.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 803,
+				"friends_count": 786,
+				"listed_count": 45,
+				"created_at": "Sun Jun 08 19:44:26 +0000 2008",
+				"favourites_count": 499,
+				"utc_offset": 25200,
+				"time_zone": "Hanoi",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 19410,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/225525194/strand.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/225525194/strand.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/848480591855075328/yru3r24A_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/848480591855075328/yru3r24A_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15049434/1429942327",
+				"profile_link_color": "36409E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "BDBDBD",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "99cdab25eddd6bce",
+				"url": "https://api.twitter.com/1.1/geo/id/99cdab25eddd6bce.json",
+				"place_type": "city",
+				"name": "Amsterdam",
+				"full_name": "Amsterdam, The Netherlands",
+				"country_code": "NL",
+				"country": "The Netherlands",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								4.7288999,
+								52.2782266
+							],
+							[
+								5.0792072,
+								52.2782266
+							],
+							[
+								5.0792072,
+								52.4312289
+							],
+							[
+								4.7288999,
+								52.4312289
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Fri May 05 07:15:39 +0000 2017",
 		"id": 860392533238710300,
 		"id_str": "860392533238710272",
