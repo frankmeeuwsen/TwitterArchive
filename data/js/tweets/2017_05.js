@@ -1,6 +1,260 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Sat May 06 18:11:10 +0000 2017",
+		"id": 860919884594765800,
+		"id_str": "860919884594765824",
+		"text": "Dit is echt te gek. Nielsbrief-materiaal @ehpo https://t.co/w4KcuDZUGw",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ehpo",
+					"name": "Niels Aalberts",
+					"id": 20199054,
+					"id_str": "20199054",
+					"indices": [
+						41,
+						46
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/w4KcuDZUGw",
+					"expanded_url": "https://twitter.com/danamrich/status/859790587934916608",
+					"display_url": "twitter.com/danamrich/stat…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9243,
+			"friends_count": 1814,
+			"listed_count": 620,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3233,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62102,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 859790587934916600,
+		"quoted_status_id_str": "859790587934916608",
+		"quoted_status": {
+			"created_at": "Wed May 03 15:23:44 +0000 2017",
+			"id": 859790587934916600,
+			"id_str": "859790587934916608",
+			"text": "From @NPR's All Songs Considered: 'Sgt. Pepper's' Becomes A 'Star Wars' Parody In Comical New Album https://t.co/esXojM2q0K #PLSDSP",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "PLSDSP",
+						"indices": [
+							124,
+							131
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "NPR",
+						"name": "NPR",
+						"id": 5392522,
+						"id_str": "5392522",
+						"indices": [
+							5,
+							9
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/esXojM2q0K",
+						"expanded_url": "https://n.pr/2pwdg3s",
+						"display_url": "n.pr/2pwdg3s",
+						"indices": [
+							100,
+							123
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3442781,
+				"id_str": "3442781",
+				"name": "Dan Amrich",
+				"screen_name": "DanAmrich",
+				"location": "Bay Area, CA",
+				"description": "Half of @pswapninja, author of Critical Path: How to Review Videogames for a Living https://t.co/GjNclsY1ns, guitar geek & property of @katrinauch",
+				"url": "https://t.co/8QS3v9xzvR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8QS3v9xzvR",
+								"expanded_url": "https://en.wikipedia.org/wiki/Dan_Amrich",
+								"display_url": "en.wikipedia.org/wiki/Dan_Amrich",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/GjNclsY1ns",
+								"expanded_url": "http://bit.ly/damrich",
+								"display_url": "bit.ly/damrich",
+								"indices": [
+									84,
+									107
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 9804,
+				"friends_count": 1071,
+				"listed_count": 336,
+				"created_at": "Wed Apr 04 17:26:20 +0000 2007",
+				"favourites_count": 1647,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 34805,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000080",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/859296678205063172/Q66rKxls_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/859296678205063172/Q66rKxls_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3442781/1433165832",
+				"profile_link_color": "000080",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "FF8C00",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 15,
+			"favorite_count": 46,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Sat May 06 15:21:35 +0000 2017",
 		"id": 860877210164637700,
 		"id_str": "860877210164637697",
