@@ -1,6 +1,500 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Thu May 11 13:14:31 +0000 2017",
+		"id": 862657170453794800,
+		"id_str": "862657170453794818",
+		"text": "@gonniespijkstra Ik geloof er niks van",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gonniespijkstra",
+					"name": "Gonnie Spijkstra",
+					"id": 7677082,
+					"id_str": "7677082",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 862655468883382300,
+		"in_reply_to_status_id_str": "862655468883382273",
+		"in_reply_to_user_id": 7677082,
+		"in_reply_to_user_id_str": "7677082",
+		"in_reply_to_screen_name": "gonniespijkstra",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9232,
+			"friends_count": 1813,
+			"listed_count": 620,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3240,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62104,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl"
+	},
+	{
+		"created_at": "Thu May 11 12:31:06 +0000 2017",
+		"id": 862646243507523600,
+		"id_str": "862646243507523584",
+		"text": "RT @Radiolab: #Science. https://t.co/sXtZ1Rw9M6",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Science",
+					"indices": [
+						14,
+						22
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Radiolab",
+					"name": "Radiolab 🔬",
+					"id": 28583197,
+					"id_str": "28583197",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 862646060979675100,
+					"id_str": "862646060979675137",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/C_i8BZ-VYAEnanD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C_i8BZ-VYAEnanD.jpg",
+					"url": "https://t.co/sXtZ1Rw9M6",
+					"display_url": "pic.twitter.com/sXtZ1Rw9M6",
+					"expanded_url": "https://twitter.com/Radiolab/status/862646063223771140/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 627,
+							"h": 313,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 627,
+							"h": 313,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 627,
+							"h": 313,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 862646063223771100,
+					"source_status_id_str": "862646063223771140",
+					"source_user_id": 28583197,
+					"source_user_id_str": "28583197"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 862646060979675100,
+					"id_str": "862646060979675137",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/C_i8BZ-VYAEnanD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C_i8BZ-VYAEnanD.jpg",
+					"url": "https://t.co/sXtZ1Rw9M6",
+					"display_url": "pic.twitter.com/sXtZ1Rw9M6",
+					"expanded_url": "https://twitter.com/Radiolab/status/862646063223771140/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 627,
+							"h": 313,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 627,
+							"h": 313,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 627,
+							"h": 313,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 862646063223771100,
+					"source_status_id_str": "862646063223771140",
+					"source_user_id": 28583197,
+					"source_user_id_str": "28583197"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9232,
+			"friends_count": 1813,
+			"listed_count": 620,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3240,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62104,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu May 11 12:30:23 +0000 2017",
+			"id": 862646063223771100,
+			"id_str": "862646063223771140",
+			"text": "#Science. https://t.co/sXtZ1Rw9M6",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Science",
+						"indices": [
+							0,
+							8
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 862646060979675100,
+						"id_str": "862646060979675137",
+						"indices": [
+							10,
+							33
+						],
+						"media_url": "http://pbs.twimg.com/media/C_i8BZ-VYAEnanD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_i8BZ-VYAEnanD.jpg",
+						"url": "https://t.co/sXtZ1Rw9M6",
+						"display_url": "pic.twitter.com/sXtZ1Rw9M6",
+						"expanded_url": "https://twitter.com/Radiolab/status/862646063223771140/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 627,
+								"h": 313,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 627,
+								"h": 313,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 627,
+								"h": 313,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 862646060979675100,
+						"id_str": "862646060979675137",
+						"indices": [
+							10,
+							33
+						],
+						"media_url": "http://pbs.twimg.com/media/C_i8BZ-VYAEnanD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_i8BZ-VYAEnanD.jpg",
+						"url": "https://t.co/sXtZ1Rw9M6",
+						"display_url": "pic.twitter.com/sXtZ1Rw9M6",
+						"expanded_url": "https://twitter.com/Radiolab/status/862646063223771140/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 627,
+								"h": 313,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 627,
+								"h": 313,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 627,
+								"h": 313,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 28583197,
+				"id_str": "28583197",
+				"name": "Radiolab 🔬",
+				"screen_name": "Radiolab",
+				"location": "multiple universes",
+				"description": "Radiolab is a show about curiosity from @WNYCStudios.",
+				"url": "https://t.co/QsDWEhVDly",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/QsDWEhVDly",
+								"expanded_url": "http://www.radiolab.org",
+								"display_url": "radiolab.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 251404,
+				"friends_count": 1021,
+				"listed_count": 5571,
+				"created_at": "Fri Apr 03 15:18:57 +0000 2009",
+				"favourites_count": 17542,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 5967,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "110F0E",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/120043984/rl_logo_orange_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/120043984/rl_logo_orange_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/28583197/1475688815",
+				"profile_link_color": "E04206",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 61,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Thu May 11 08:51:00 +0000 2017",
 		"id": 862590853273047000,
 		"id_str": "862590853273047045",
