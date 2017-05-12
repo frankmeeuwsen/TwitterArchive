@@ -1,6 +1,521 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Fri May 12 20:01:24 +0000 2017",
+		"id": 863121954072666100,
+		"id_str": "863121954072666112",
+		"text": "RT @evilsc0t: The reality of today’s #nhscyberattack #ransomware https://t.co/jNoPSvNFVe https://t.co/7tu9RNwZ9s",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "nhscyberattack",
+					"indices": [
+						37,
+						52
+					]
+				},
+				{
+					"text": "ransomware",
+					"indices": [
+						53,
+						64
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "evilsc0t",
+					"name": "Scott",
+					"id": 3037352781,
+					"id_str": "3037352781",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jNoPSvNFVe",
+					"expanded_url": "http://bit.ly/2pH6gOI",
+					"display_url": "bit.ly/2pH6gOI",
+					"indices": [
+						65,
+						88
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 863112734216511500,
+					"id_str": "863112734216511488",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/C_pkdXQXYAAQ9rO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C_pkdXQXYAAQ9rO.jpg",
+					"url": "https://t.co/7tu9RNwZ9s",
+					"display_url": "pic.twitter.com/7tu9RNwZ9s",
+					"expanded_url": "https://twitter.com/evilsc0t/status/863112769557721088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 330,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 582,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 602,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 863112769557721100,
+					"source_status_id_str": "863112769557721088",
+					"source_user_id": 3037352781,
+					"source_user_id_str": "3037352781"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 863112734216511500,
+					"id_str": "863112734216511488",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/C_pkdXQXYAAQ9rO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C_pkdXQXYAAQ9rO.jpg",
+					"url": "https://t.co/7tu9RNwZ9s",
+					"display_url": "pic.twitter.com/7tu9RNwZ9s",
+					"expanded_url": "https://twitter.com/evilsc0t/status/863112769557721088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 330,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 582,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 602,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 863112769557721100,
+					"source_status_id_str": "863112769557721088",
+					"source_user_id": 3037352781,
+					"source_user_id_str": "3037352781"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9233,
+			"friends_count": 1813,
+			"listed_count": 620,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3240,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62058,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri May 12 19:24:54 +0000 2017",
+			"id": 863112769557721100,
+			"id_str": "863112769557721088",
+			"text": "The reality of today’s #nhscyberattack #ransomware https://t.co/jNoPSvNFVe https://t.co/7tu9RNwZ9s",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "nhscyberattack",
+						"indices": [
+							23,
+							38
+						]
+					},
+					{
+						"text": "ransomware",
+						"indices": [
+							39,
+							50
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/jNoPSvNFVe",
+						"expanded_url": "http://bit.ly/2pH6gOI",
+						"display_url": "bit.ly/2pH6gOI",
+						"indices": [
+							51,
+							74
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 863112734216511500,
+						"id_str": "863112734216511488",
+						"indices": [
+							75,
+							98
+						],
+						"media_url": "http://pbs.twimg.com/media/C_pkdXQXYAAQ9rO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_pkdXQXYAAQ9rO.jpg",
+						"url": "https://t.co/7tu9RNwZ9s",
+						"display_url": "pic.twitter.com/7tu9RNwZ9s",
+						"expanded_url": "https://twitter.com/evilsc0t/status/863112769557721088/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 330,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 582,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1242,
+								"h": 602,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 863112734216511500,
+						"id_str": "863112734216511488",
+						"indices": [
+							75,
+							98
+						],
+						"media_url": "http://pbs.twimg.com/media/C_pkdXQXYAAQ9rO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_pkdXQXYAAQ9rO.jpg",
+						"url": "https://t.co/7tu9RNwZ9s",
+						"display_url": "pic.twitter.com/7tu9RNwZ9s",
+						"expanded_url": "https://twitter.com/evilsc0t/status/863112769557721088/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 330,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 582,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1242,
+								"h": 602,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3037352781,
+				"id_str": "3037352781",
+				"name": "Scott",
+				"screen_name": "evilsc0t",
+				"location": "Offaly, Ireland",
+				"description": "Proud Scot, in Ireland. Horses and photography are my thing.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 122,
+				"friends_count": 113,
+				"listed_count": 0,
+				"created_at": "Sat Feb 14 19:13:04 +0000 2015",
+				"favourites_count": 248,
+				"utc_offset": 3600,
+				"time_zone": "Dublin",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2492,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/845746095967875074/FzSt2s4x_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/845746095967875074/FzSt2s4x_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3037352781/1493069510",
+				"profile_link_color": "0C1BBE",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 59,
+			"favorite_count": 49,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 59,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri May 12 19:23:32 +0000 2017",
+		"id": 863112423150161900,
+		"id_str": "863112423150161921",
+		"text": "@jeltenieuwhuis Dat vind ik nou ook!\n\nOh wacht...",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jeltenieuwhuis",
+					"name": "Jelte Nieuwenhuis",
+					"id": 20782612,
+					"id_str": "20782612",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 863096334483681300,
+		"in_reply_to_status_id_str": "863096334483681280",
+		"in_reply_to_user_id": 20782612,
+		"in_reply_to_user_id_str": "20782612",
+		"in_reply_to_screen_name": "jeltenieuwhuis",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9233,
+			"friends_count": 1813,
+			"listed_count": 620,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3240,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62058,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Fri May 12 13:07:17 +0000 2017",
 		"id": 863017739341967400,
 		"id_str": "863017739341967360",
