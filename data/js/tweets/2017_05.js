@@ -1,6 +1,362 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Sat May 13 23:03:45 +0000 2017",
+		"id": 863530232829141000,
+		"id_str": "863530232829140996",
+		"text": "RT @flierefluiterin: Haha kijk nou @DavidAdMolen @johncoffeymusic https://t.co/UwJ7uPjsxQ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "flierefluiterin",
+					"name": "Joyce Roskamp 🍟",
+					"id": 42390865,
+					"id_str": "42390865",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "DavidAdMolen",
+					"name": "David Achter de Mole",
+					"id": 118557866,
+					"id_str": "118557866",
+					"indices": [
+						35,
+						48
+					]
+				},
+				{
+					"screen_name": "johncoffeymusic",
+					"name": "John Coffey",
+					"id": 46203676,
+					"id_str": "46203676",
+					"indices": [
+						49,
+						65
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UwJ7uPjsxQ",
+					"expanded_url": "https://twitter.com/nme/status/863524873913729024",
+					"display_url": "twitter.com/nme/status/863…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9235,
+			"friends_count": 1812,
+			"listed_count": 620,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3243,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62060,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat May 13 22:47:15 +0000 2017",
+			"id": 863526079935459300,
+			"id_str": "863526079935459328",
+			"text": "Haha kijk nou @DavidAdMolen @johncoffeymusic https://t.co/UwJ7uPjsxQ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DavidAdMolen",
+						"name": "David Achter de Mole",
+						"id": 118557866,
+						"id_str": "118557866",
+						"indices": [
+							14,
+							27
+						]
+					},
+					{
+						"screen_name": "johncoffeymusic",
+						"name": "John Coffey",
+						"id": 46203676,
+						"id_str": "46203676",
+						"indices": [
+							28,
+							44
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/UwJ7uPjsxQ",
+						"expanded_url": "https://twitter.com/nme/status/863524873913729024",
+						"display_url": "twitter.com/nme/status/863…",
+						"indices": [
+							45,
+							68
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 42390865,
+				"id_str": "42390865",
+				"name": "Joyce Roskamp 🍟",
+				"screen_name": "flierefluiterin",
+				"location": "Utrecht, Netherlands",
+				"description": "Zingt lievelingsliedjes woordelijk mee, popquizt/d/ed, frietoloog | te huur: programmering productie projectmanagement | pubquiz delovelyladies.nl",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3618,
+				"friends_count": 3024,
+				"listed_count": 114,
+				"created_at": "Mon May 25 11:37:52 +0000 2009",
+				"favourites_count": 6410,
+				"utc_offset": 7200,
+				"time_zone": "Amsterdam",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 75174,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FAFAFA",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/87813247/frietmuseum-brugge-3663.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/87813247/frietmuseum-brugge-3663.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/750443990743416832/57VTFDbF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/750443990743416832/57VTFDbF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/42390865/1456178462",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "F0E8EF",
+				"profile_sidebar_fill_color": "D9D8F0",
+				"profile_text_color": "0A090A",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 863524873913729000,
+			"quoted_status_id_str": "863524873913729024",
+			"quoted_status": {
+				"created_at": "Sat May 13 22:42:28 +0000 2017",
+				"id": 863524873913729000,
+				"id_str": "863524873913729024",
+				"text": "For some reason, a brewery has created a beer using 50,000 litres of urine collected at music festival… https://t.co/p24kokVCEK",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/p24kokVCEK",
+							"expanded_url": "https://twitter.com/i/web/status/863524873913729024",
+							"display_url": "twitter.com/i/web/status/8…",
+							"indices": [
+								104,
+								127
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 19063323,
+					"id_str": "19063323",
+					"name": "NME",
+					"screen_name": "NME",
+					"location": "London",
+					"description": "First for music news",
+					"url": "https://t.co/A278qJqyA1",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/A278qJqyA1",
+									"expanded_url": "http://www.nme.com",
+									"display_url": "nme.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 884147,
+					"friends_count": 2504,
+					"listed_count": 15563,
+					"created_at": "Fri Jan 16 11:52:57 +0000 2009",
+					"favourites_count": 2329,
+					"utc_offset": 7200,
+					"time_zone": "Amsterdam",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 136469,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": true,
+					"profile_background_color": "FFF04D",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/644293653922467841/fUTlS2Xr.jpg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/644293653922467841/fUTlS2Xr.jpg",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/862548794960949248/vRf6VZ_9_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/862548794960949248/vRf6VZ_9_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/19063323/1494482634",
+					"profile_link_color": "0099CC",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "EDF0F8",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 12,
+				"favorite_count": 43,
+				"favorited": true,
+				"retweeted": true,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 863524873913729000,
+		"quoted_status_id_str": "863524873913729024",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Sat May 13 13:37:02 +0000 2017",
 		"id": 863387613339811800,
 		"id_str": "863387613339811842",
