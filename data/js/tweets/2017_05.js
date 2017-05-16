@@ -1,6 +1,239 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Tue May 16 17:26:06 +0000 2017",
+		"id": 864532421919866900,
+		"id_str": "864532421919866880",
+		"text": "RT @qz: Computer hacking is the biggest story in the world now—too bad all the photos are so weird https://t.co/eqGjCxgSQ5",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "qz",
+					"name": "Quartz",
+					"id": 573918122,
+					"id_str": "573918122",
+					"indices": [
+						3,
+						6
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/eqGjCxgSQ5",
+					"expanded_url": "http://qz.com/983726",
+					"display_url": "qz.com/983726",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9242,
+			"friends_count": 1815,
+			"listed_count": 619,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3244,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62031,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue May 16 13:30:01 +0000 2017",
+			"id": 864473012497653800,
+			"id_str": "864473012497653760",
+			"text": "Computer hacking is the biggest story in the world now—too bad all the photos are so weird https://t.co/eqGjCxgSQ5",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/eqGjCxgSQ5",
+						"expanded_url": "http://qz.com/983726",
+						"display_url": "qz.com/983726",
+						"indices": [
+							91,
+							114
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 573918122,
+				"id_str": "573918122",
+				"name": "Quartz",
+				"screen_name": "qz",
+				"location": "The World",
+				"description": "Quartz is a new kind of global business news outlet. Sign up for the Quartz Daily Brief: http://t.co/3cm80H1KMS",
+				"url": "http://t.co/dNTqipG8lu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/dNTqipG8lu",
+								"expanded_url": "http://qz.com",
+								"display_url": "qz.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/3cm80H1KMS",
+								"expanded_url": "http://qz.com/daily-brief/",
+								"display_url": "qz.com/daily-brief/",
+								"indices": [
+									89,
+									111
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 286331,
+				"friends_count": 166,
+				"listed_count": 9240,
+				"created_at": "Mon May 07 19:53:20 +0000 2012",
+				"favourites_count": 1021,
+				"utc_offset": -10800,
+				"time_zone": "Atlantic Time (Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 88622,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/615280495958495232/nX0-Mypb_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/615280495958495232/nX0-Mypb_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/573918122/1491599439",
+				"profile_link_color": "168DD9",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 17,
+			"favorite_count": 17,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue May 16 16:52:33 +0000 2017",
 		"id": 864523981340241900,
 		"id_str": "864523981340241920",
