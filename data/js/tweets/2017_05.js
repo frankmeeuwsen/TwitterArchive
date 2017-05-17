@@ -1,6 +1,245 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Wed May 17 07:52:49 +0000 2017",
+		"id": 864750537195049000,
+		"id_str": "864750537195048960",
+		"text": "RT @patrickloonstra: LIVE on #Periscope: TNW Hackbattle kickoff https://t.co/toLgWIYJaj",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Periscope",
+					"indices": [
+						29,
+						39
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "patrickloonstra",
+					"name": "Patrick 🕶",
+					"id": 9647022,
+					"id_str": "9647022",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/toLgWIYJaj",
+					"expanded_url": "https://www.pscp.tv/w/a-qm5zk0ODZ8MWRSS1pBVm5rZ2R4QqYL0rDVRavawqnAanCNLXLBoam2LXzACD9d4n0Sihx3",
+					"display_url": "pscp.tv/w/a-qm5zk0ODZ8…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9244,
+			"friends_count": 1816,
+			"listed_count": 619,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3248,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62036,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed May 17 07:51:44 +0000 2017",
+			"id": 864750267937501200,
+			"id_str": "864750267937501184",
+			"text": "LIVE on #Periscope: TNW Hackbattle kickoff https://t.co/toLgWIYJaj",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Periscope",
+						"indices": [
+							8,
+							18
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/toLgWIYJaj",
+						"expanded_url": "https://www.pscp.tv/w/a-qm5zk0ODZ8MWRSS1pBVm5rZ2R4QqYL0rDVRavawqnAanCNLXLBoam2LXzACD9d4n0Sihx3",
+						"display_url": "pscp.tv/w/a-qm5zk0ODZ8…",
+						"indices": [
+							43,
+							66
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">iOS</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 9647022,
+				"id_str": "9647022",
+				"name": "Patrick 🕶",
+				"screen_name": "patrickloonstra",
+				"location": "Zwolle + Amsterdam",
+				"description": "Full stack designer at @iamTriggi and myself ☕️☀️⛵️ / Collects at @acffca / Sends weekly @goodmondaynl / Loves outdoor / Drone piloot",
+				"url": "https://t.co/q2Rt6BQYeZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/q2Rt6BQYeZ",
+								"expanded_url": "http://www.patrickloonstra.nl",
+								"display_url": "patrickloonstra.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1797,
+				"friends_count": 140,
+				"listed_count": 116,
+				"created_at": "Wed Oct 24 06:17:00 +0000 2007",
+				"favourites_count": 2149,
+				"utc_offset": 7200,
+				"time_zone": "Amsterdam",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 47980,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "40817D",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/656014322943041536/Z1XFAaEA.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/656014322943041536/Z1XFAaEA.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/752776679366467584/abe_7n-V_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/752776679366467584/abe_7n-V_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/9647022/1450218767",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "85C1BE",
+				"profile_text_color": "061F20",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed May 17 06:12:39 +0000 2017",
 		"id": 864725333165133800,
 		"id_str": "864725333165133824",
