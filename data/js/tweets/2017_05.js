@@ -1,6 +1,476 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Wed May 24 18:29:11 +0000 2017",
+		"id": 867447402843828200,
+		"id_str": "867447402843828228",
+		"text": "RT @Seinfeld2000: Pope Your Enthusiasm https://t.co/joAC3sk5oe",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Seinfeld2000",
+					"name": "Seinfeld Current Day",
+					"id": 1081562149,
+					"id_str": "1081562149",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 867400807716536300,
+					"id_str": "867400807716536320",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/DAmg90GV0AAGu8s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DAmg90GV0AAGu8s.jpg",
+					"url": "https://t.co/joAC3sk5oe",
+					"display_url": "pic.twitter.com/joAC3sk5oe",
+					"expanded_url": "https://twitter.com/Seinfeld2000/status/867401452330729472/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 867401452330729500,
+					"source_status_id_str": "867401452330729472",
+					"source_user_id": 1081562149,
+					"source_user_id_str": "1081562149"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 867400807716536300,
+					"id_str": "867400807716536320",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/DAmg90GV0AAGu8s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DAmg90GV0AAGu8s.jpg",
+					"url": "https://t.co/joAC3sk5oe",
+					"display_url": "pic.twitter.com/joAC3sk5oe",
+					"expanded_url": "https://twitter.com/Seinfeld2000/status/867401452330729472/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 867401452330729500,
+					"source_status_id_str": "867401452330729472",
+					"source_user_id": 1081562149,
+					"source_user_id_str": "1081562149",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 15082,
+						"variants": [
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/867400807716536320/vid/320x180/TkoBlNrMrAmFhQ_q.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/867400807716536320/pl/aCzLCl4LI3lcamLV.m3u8"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/867400807716536320/vid/1280x720/tmhgEpp1UQHCSLvM.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/867400807716536320/vid/640x360/jiW1cUD2APPt4Q8S.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false,
+						"source_user": {
+							"id": 1081562149,
+							"id_str": "1081562149",
+							"name": "Seinfeld Current Day",
+							"screen_name": "Seinfeld2000",
+							"location": "",
+							"description": "Imagen Seinfeld was never canceled and still NBC comedy program today?",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 143151,
+							"friends_count": 1,
+							"listed_count": 1037,
+							"created_at": "Sat Jan 12 02:17:49 +0000 2013",
+							"favourites_count": 62797,
+							"utc_offset": -10800,
+							"time_zone": "Atlantic Time (Canada)",
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 8178,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/784451272/2604dd7bfd1a9574d44507dcca92b516.jpeg",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/784451272/2604dd7bfd1a9574d44507dcca92b516.jpeg",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/685302732182274049/gc5Bh8UU_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/685302732182274049/gc5Bh8UU_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1081562149/1452223878",
+							"profile_link_color": "0084B4",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9251,
+			"friends_count": 1823,
+			"listed_count": 619,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3271,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62031,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed May 24 15:26:36 +0000 2017",
+			"id": 867401452330729500,
+			"id_str": "867401452330729472",
+			"text": "Pope Your Enthusiasm https://t.co/joAC3sk5oe",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 867400807716536300,
+						"id_str": "867400807716536320",
+						"indices": [
+							21,
+							44
+						],
+						"media_url": "http://pbs.twimg.com/media/DAmg90GV0AAGu8s.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DAmg90GV0AAGu8s.jpg",
+						"url": "https://t.co/joAC3sk5oe",
+						"display_url": "pic.twitter.com/joAC3sk5oe",
+						"expanded_url": "https://twitter.com/Seinfeld2000/status/867401452330729472/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 867400807716536300,
+						"id_str": "867400807716536320",
+						"indices": [
+							21,
+							44
+						],
+						"media_url": "http://pbs.twimg.com/media/DAmg90GV0AAGu8s.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DAmg90GV0AAGu8s.jpg",
+						"url": "https://t.co/joAC3sk5oe",
+						"display_url": "pic.twitter.com/joAC3sk5oe",
+						"expanded_url": "https://twitter.com/Seinfeld2000/status/867401452330729472/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 15082,
+							"variants": [
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/867400807716536320/vid/320x180/TkoBlNrMrAmFhQ_q.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/867400807716536320/pl/aCzLCl4LI3lcamLV.m3u8"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/867400807716536320/vid/1280x720/tmhgEpp1UQHCSLvM.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/867400807716536320/vid/640x360/jiW1cUD2APPt4Q8S.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1081562149,
+				"id_str": "1081562149",
+				"name": "Seinfeld Current Day",
+				"screen_name": "Seinfeld2000",
+				"location": "",
+				"description": "Imagen Seinfeld was never canceled and still NBC comedy program today?",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 143151,
+				"friends_count": 1,
+				"listed_count": 1037,
+				"created_at": "Sat Jan 12 02:17:49 +0000 2013",
+				"favourites_count": 62797,
+				"utc_offset": -10800,
+				"time_zone": "Atlantic Time (Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8178,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/784451272/2604dd7bfd1a9574d44507dcca92b516.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/784451272/2604dd7bfd1a9574d44507dcca92b516.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/685302732182274049/gc5Bh8UU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/685302732182274049/gc5Bh8UU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1081562149/1452223878",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11054,
+			"favorite_count": 14863,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 11054,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed May 24 16:49:17 +0000 2017",
 		"id": 867422262584127500,
 		"id_str": "867422262584127490",
