@@ -1,6 +1,317 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Wed May 24 07:27:53 +0000 2017",
+		"id": 867280981102927900,
+		"id_str": "867280981102927873",
+		"text": "/cc @JeanPaulH @Markies @guidoz @ajthijssen @Werner @Marjolijn @johanvoets (mis ik nog mensen? Vast wel he) https://t.co/3JxiD3rdFE",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JeanPaulH",
+					"name": "Jean-Paul Horn",
+					"id": 6236612,
+					"id_str": "6236612",
+					"indices": [
+						4,
+						14
+					]
+				},
+				{
+					"screen_name": "Markies",
+					"name": "Mark de Kock",
+					"id": 1858541,
+					"id_str": "1858541",
+					"indices": [
+						15,
+						23
+					]
+				},
+				{
+					"screen_name": "guidoz",
+					"name": "guidoz in Zweden",
+					"id": 7305132,
+					"id_str": "7305132",
+					"indices": [
+						24,
+						31
+					]
+				},
+				{
+					"screen_name": "ajthijssen",
+					"name": "AJ = ❌❌❌ 🇸🇪",
+					"id": 22033661,
+					"id_str": "22033661",
+					"indices": [
+						32,
+						43
+					]
+				},
+				{
+					"screen_name": "Werner",
+					"name": "Werner Vogels",
+					"id": 113963,
+					"id_str": "113963",
+					"indices": [
+						44,
+						51
+					]
+				},
+				{
+					"screen_name": "Marjolijn",
+					"name": "Marjolijn",
+					"id": 1610571,
+					"id_str": "1610571",
+					"indices": [
+						52,
+						62
+					]
+				},
+				{
+					"screen_name": "johanvoets",
+					"name": "Johan Voets",
+					"id": 7422272,
+					"id_str": "7422272",
+					"indices": [
+						63,
+						74
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3JxiD3rdFE",
+					"expanded_url": "https://twitter.com/iamtriggi/status/867280026168852480",
+					"display_url": "twitter.com/iamtriggi/stat…",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9249,
+			"friends_count": 1823,
+			"listed_count": 619,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3268,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62053,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 867280026168852500,
+		"quoted_status_id_str": "867280026168852480",
+		"quoted_status": {
+			"created_at": "Wed May 24 07:24:06 +0000 2017",
+			"id": 867280026168852500,
+			"id_str": "867280026168852480",
+			"text": "Get your smart home ready for tonight. Blink your lights with each @AFCAjax goal. https://t.co/LBf5PXkkST #ajaman #UELfinal",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ajaman",
+						"indices": [
+							106,
+							113
+						]
+					},
+					{
+						"text": "UELfinal",
+						"indices": [
+							114,
+							123
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "AFCAjax",
+						"name": "AFC Ajax",
+						"id": 153000691,
+						"id_str": "153000691",
+						"indices": [
+							67,
+							75
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/LBf5PXkkST",
+						"expanded_url": "http://triggi.com/ajax",
+						"display_url": "triggi.com/ajax",
+						"indices": [
+							82,
+							105
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3879014177,
+				"id_str": "3879014177",
+				"name": "Triggi",
+				"screen_name": "iamTriggi",
+				"location": "Amsterdam, Noord-Holland",
+				"description": "Triggi makes smart devices smarter by connecting them to other devices, apps and services. Following your rules.\nWhat's your thing?",
+				"url": "https://t.co/pBhJkA5cPz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pBhJkA5cPz",
+								"expanded_url": "http://www.triggi.com",
+								"display_url": "triggi.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 423,
+				"friends_count": 151,
+				"listed_count": 30,
+				"created_at": "Tue Oct 06 08:45:54 +0000 2015",
+				"favourites_count": 111,
+				"utc_offset": 7200,
+				"time_zone": "Amsterdam",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 621,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/707569736054231042/wfWgy8XS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/707569736054231042/wfWgy8XS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3879014177/1478094625",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Wed May 24 06:36:13 +0000 2017",
 		"id": 867267978349424600,
 		"id_str": "867267978349424640",
