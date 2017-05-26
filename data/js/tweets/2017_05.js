@@ -1,6 +1,239 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Fri May 26 09:19:25 +0000 2017",
+		"id": 868033825653354500,
+		"id_str": "868033825653354497",
+		"text": "Posterart is weer 🔥🔥🔥 https://t.co/BG5ufVj1Ts",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BG5ufVj1Ts",
+					"expanded_url": "https://twitter.com/pearljamonline/status/867992030194016256",
+					"display_url": "twitter.com/pearljamonline…",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9248,
+			"friends_count": 1823,
+			"listed_count": 618,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3272,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62035,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 867992030194016300,
+		"quoted_status_id_str": "867992030194016256",
+		"quoted_status": {
+			"created_at": "Fri May 26 06:33:21 +0000 2017",
+			"id": 867992030194016300,
+			"id_str": "867992030194016256",
+			"text": "#EddieVedder European Tour 2017 starts tomorrow in Amsterdam! Are you ready?\n\nArtwork Ian Williams via @mrtsurt… https://t.co/aDRIIn697Q",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "EddieVedder",
+						"indices": [
+							0,
+							12
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mrtsurt",
+						"name": "Mr TSURT",
+						"id": 788128163415023600,
+						"id_str": "788128163415023616",
+						"indices": [
+							103,
+							111
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/aDRIIn697Q",
+						"expanded_url": "https://twitter.com/i/web/status/867992030194016256",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							113,
+							136
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 27473819,
+				"id_str": "27473819",
+				"name": "PearlJamOnLine.it",
+				"screen_name": "PearlJamOnLine",
+				"location": "Reggio Emilia, Italy",
+				"description": "Pearl Jam italian fansite since 2001. Run by fans, for fans. Follow the strangest tribe...",
+				"url": "https://t.co/xCsNcqPv9O",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/xCsNcqPv9O",
+								"expanded_url": "http://www.pearljamonline.it",
+								"display_url": "pearljamonline.it",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 40065,
+				"friends_count": 893,
+				"listed_count": 443,
+				"created_at": "Sun Mar 29 18:24:06 +0000 2009",
+				"favourites_count": 526,
+				"utc_offset": 7200,
+				"time_zone": "Rome",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 21389,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "17160F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000049108266/5eb0c8075d5b06fc14650b4dfaa1bb58.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000049108266/5eb0c8075d5b06fc14650b4dfaa1bb58.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/665890674127060992/zy4hkN9V_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/665890674127060992/zy4hkN9V_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/27473819/1495543396",
+				"profile_link_color": "9D582E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EBE79F",
+				"profile_text_color": "0A080A",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 27,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed May 24 20:00:54 +0000 2017",
 		"id": 867470483645771800,
 		"id_str": "867470483645771777",
@@ -236,7 +469,7 @@ Grailbird.data.tweets_2017_05 =
 		"created_at": "Wed May 24 19:40:36 +0000 2017",
 		"id": 867465372840144900,
 		"id_str": "867465372840144896",
-		"text": "@Marjolijn Doe ff een frame-by-frame analyse!\n\nPS. Vakantie geboekt vanaf 15/7....\n\n🤦‍♂️🤦🏻‍♂️🤦🏿‍♂️🤦🏾‍♂️🤦🏾‍♀️🤦🏿‍♀️🤦‍♀️🤦🏻‍♀️",
+		"text": "@Marjolijn Doe ff een frame-by-frame analyse!\n\nPS. Vakantie geboekt vanaf 15/7....\n\n🤦♂️🤦🏻♂️🤦🏿♂️🤦🏾♂️🤦🏾♀️🤦🏿♀️🤦♀️🤦🏻♀️",
 		"truncated": false,
 		"entities": {
 			"hashtags": [],
