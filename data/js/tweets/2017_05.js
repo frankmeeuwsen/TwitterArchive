@@ -1,6 +1,235 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Sun May 28 15:39:24 +0000 2017",
+		"id": 868854226465824800,
+		"id_str": "868854226465824768",
+		"text": "Ongegeneerde aanrader dat boek! Prachtig verhaal van een échte die-hard fan. https://t.co/IWSPN8pTv4",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IWSPN8pTv4",
+					"expanded_url": "https://twitter.com/mathijsvisser/status/868755758019735553",
+					"display_url": "twitter.com/mathijsvisser/…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9250,
+			"friends_count": 1826,
+			"listed_count": 618,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3278,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62040,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 868755758019735600,
+		"quoted_status_id_str": "868755758019735553",
+		"quoted_status": {
+			"created_at": "Sun May 28 09:08:08 +0000 2017",
+			"id": 868755758019735600,
+			"id_str": "868755758019735553",
+			"text": "Na de geweldige 1e show van #EddieVedder in #Amsterdam veel zin om aan dit boek te beginnen! (Ook iets voor jou… https://t.co/8ssvyR1iwg",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "EddieVedder",
+						"indices": [
+							28,
+							40
+						]
+					},
+					{
+						"text": "Amsterdam",
+						"indices": [
+							44,
+							54
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/8ssvyR1iwg",
+						"expanded_url": "https://twitter.com/i/web/status/868755758019735553",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							113,
+							136
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 113746745,
+				"id_str": "113746745",
+				"name": "Mathijs Visser",
+				"screen_name": "mathijsvisser",
+				"location": "Netherlands",
+				"description": "Ondernemer | Happy Leads | CatchDM | Direct Marketing | Online Marketing | Basketball | Muziek | Pearl Jam",
+				"url": "https://t.co/qj3gENPchm",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/qj3gENPchm",
+								"expanded_url": "http://www.happyleads.nl",
+								"display_url": "happyleads.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 626,
+				"friends_count": 404,
+				"listed_count": 51,
+				"created_at": "Fri Feb 12 22:21:42 +0000 2010",
+				"favourites_count": 428,
+				"utc_offset": 7200,
+				"time_zone": "Amsterdam",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10684,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FCFCFC",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/74763565/logo__2_.gif",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/74763565/logo__2_.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/477013352737431552/5oP8om_-_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/477013352737431552/5oP8om_-_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/113746745/1398692023",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FCFCFC",
+				"profile_sidebar_fill_color": "FCFCFC",
+				"profile_text_color": "000003",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Sun May 28 14:09:55 +0000 2017",
 		"id": 868831707713200100,
 		"id_str": "868831707713200129",
