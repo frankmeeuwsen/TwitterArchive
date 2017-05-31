@@ -1,6 +1,494 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Wed May 31 21:11:56 +0000 2017",
+		"id": 870025075499688000,
+		"id_str": "870025075499687939",
+		"text": "RT @Evuachave: When art just happens... #Covfefe #trump #imgur #convfefe https://t.co/SjI5uVbfiR",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Covfefe",
+					"indices": [
+						40,
+						48
+					]
+				},
+				{
+					"text": "trump",
+					"indices": [
+						49,
+						55
+					]
+				},
+				{
+					"text": "imgur",
+					"indices": [
+						56,
+						62
+					]
+				},
+				{
+					"text": "convfefe",
+					"indices": [
+						63,
+						72
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Evuachave",
+					"name": "Eva Valentina",
+					"id": 2386540161,
+					"id_str": "2386540161",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 869986293064900600,
+					"id_str": "869986293064900608",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/DBLP7JWXoAAxow1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DBLP7JWXoAAxow1.jpg",
+					"url": "https://t.co/SjI5uVbfiR",
+					"display_url": "pic.twitter.com/SjI5uVbfiR",
+					"expanded_url": "https://twitter.com/Evuachave/status/869986327533543424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 869986327533543400,
+					"source_status_id_str": "869986327533543424",
+					"source_user_id": 2386540161,
+					"source_user_id_str": "2386540161"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 869986293064900600,
+					"id_str": "869986293064900608",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/DBLP7JWXoAAxow1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DBLP7JWXoAAxow1.jpg",
+					"url": "https://t.co/SjI5uVbfiR",
+					"display_url": "pic.twitter.com/SjI5uVbfiR",
+					"expanded_url": "https://twitter.com/Evuachave/status/869986327533543424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 869986327533543400,
+					"source_status_id_str": "869986327533543424",
+					"source_user_id": 2386540161,
+					"source_user_id_str": "2386540161"
+				},
+				{
+					"id": 869986314862694400,
+					"id_str": "869986314862694400",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/DBLP8ajXkAAOblr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DBLP8ajXkAAOblr.jpg",
+					"url": "https://t.co/SjI5uVbfiR",
+					"display_url": "pic.twitter.com/SjI5uVbfiR",
+					"expanded_url": "https://twitter.com/Evuachave/status/869986327533543424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 869986327533543400,
+					"source_status_id_str": "869986327533543424",
+					"source_user_id": 2386540161,
+					"source_user_id_str": "2386540161"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9246,
+			"friends_count": 1829,
+			"listed_count": 617,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3291,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62046,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed May 31 18:37:58 +0000 2017",
+			"id": 869986327533543400,
+			"id_str": "869986327533543424",
+			"text": "When art just happens... #Covfefe #trump #imgur #convfefe https://t.co/SjI5uVbfiR",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Covfefe",
+						"indices": [
+							25,
+							33
+						]
+					},
+					{
+						"text": "trump",
+						"indices": [
+							34,
+							40
+						]
+					},
+					{
+						"text": "imgur",
+						"indices": [
+							41,
+							47
+						]
+					},
+					{
+						"text": "convfefe",
+						"indices": [
+							48,
+							57
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 869986293064900600,
+						"id_str": "869986293064900608",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/media/DBLP7JWXoAAxow1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DBLP7JWXoAAxow1.jpg",
+						"url": "https://t.co/SjI5uVbfiR",
+						"display_url": "pic.twitter.com/SjI5uVbfiR",
+						"expanded_url": "https://twitter.com/Evuachave/status/869986327533543424/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 750,
+								"h": 1334,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 869986293064900600,
+						"id_str": "869986293064900608",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/media/DBLP7JWXoAAxow1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DBLP7JWXoAAxow1.jpg",
+						"url": "https://t.co/SjI5uVbfiR",
+						"display_url": "pic.twitter.com/SjI5uVbfiR",
+						"expanded_url": "https://twitter.com/Evuachave/status/869986327533543424/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 750,
+								"h": 1334,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 869986314862694400,
+						"id_str": "869986314862694400",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/media/DBLP8ajXkAAOblr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DBLP8ajXkAAOblr.jpg",
+						"url": "https://t.co/SjI5uVbfiR",
+						"display_url": "pic.twitter.com/SjI5uVbfiR",
+						"expanded_url": "https://twitter.com/Evuachave/status/869986327533543424/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 1334,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2386540161,
+				"id_str": "2386540161",
+				"name": "Eva Valentina",
+				"screen_name": "Evuachave",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 369,
+				"friends_count": 401,
+				"listed_count": 9,
+				"created_at": "Wed Mar 05 21:39:20 +0000 2014",
+				"favourites_count": 671,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 180,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/704963708741677056/XkgmkR0S_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/704963708741677056/XkgmkR0S_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2386540161/1456948725",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 114,
+			"favorite_count": 223,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 114,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed May 31 17:27:20 +0000 2017",
 		"id": 869968550013931500,
 		"id_str": "869968550013931520",
