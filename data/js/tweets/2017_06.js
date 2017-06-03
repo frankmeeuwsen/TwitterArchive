@@ -1,6 +1,308 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Sat Jun 03 20:04:26 +0000 2017",
+		"id": 871095250462416900,
+		"id_str": "871095250462416897",
+		"text": "Aldus Voets. https://t.co/dTLvO9KrC1",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dTLvO9KrC1",
+					"expanded_url": "https://twitter.com/johanvoets/status/871089356328620033",
+					"display_url": "twitter.com/johanvoets/sta…",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9247,
+			"friends_count": 1830,
+			"listed_count": 618,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3300,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62051,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 871089356328620000,
+		"quoted_status_id_str": "871089356328620033",
+		"quoted_status": {
+			"created_at": "Sat Jun 03 19:41:01 +0000 2017",
+			"id": 871089356328620000,
+			"id_str": "871089356328620033",
+			"text": "IoT-app Triggi werkt vanaf nu met tussenschakelaar KlikAanKlikUit https://t.co/VWhRs0rZ1E https://t.co/LkYOtKWcvA",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/VWhRs0rZ1E",
+						"expanded_url": "http://numru.sh/2szSPkI",
+						"display_url": "numru.sh/2szSPkI",
+						"indices": [
+							66,
+							89
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 871089354348798000,
+						"id_str": "871089354348797952",
+						"indices": [
+							90,
+							113
+						],
+						"media_url": "http://pbs.twimg.com/media/DBa7Jw2VoAA6-1l.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DBa7Jw2VoAA6-1l.jpg",
+						"url": "https://t.co/LkYOtKWcvA",
+						"display_url": "pic.twitter.com/LkYOtKWcvA",
+						"expanded_url": "https://twitter.com/johanvoets/status/871089356328620033/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 782,
+								"h": 521,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 782,
+								"h": 521,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 871089354348798000,
+						"id_str": "871089354348797952",
+						"indices": [
+							90,
+							113
+						],
+						"media_url": "http://pbs.twimg.com/media/DBa7Jw2VoAA6-1l.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DBa7Jw2VoAA6-1l.jpg",
+						"url": "https://t.co/LkYOtKWcvA",
+						"display_url": "pic.twitter.com/LkYOtKWcvA",
+						"expanded_url": "https://twitter.com/johanvoets/status/871089356328620033/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 782,
+								"h": 521,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 782,
+								"h": 521,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 7422272,
+				"id_str": "7422272",
+				"name": "Johan Voets",
+				"screen_name": "johanvoets",
+				"location": "Amsterdam, the Netherlands",
+				"description": "Founder @OKGOnl | @Numrush & @Vance_nl | Gaming | Snowboarding | Music | Mr. @marjolijn | https://t.co/KPz69NbzbL | IG: johanvoets",
+				"url": "https://t.co/PY7pd7iRHA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PY7pd7iRHA",
+								"expanded_url": "http://okgo.nl",
+								"display_url": "okgo.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/KPz69NbzbL",
+								"expanded_url": "http://johanvoets.com",
+								"display_url": "johanvoets.com",
+								"indices": [
+									90,
+									113
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 4826,
+				"friends_count": 2069,
+				"listed_count": 302,
+				"created_at": "Thu Jul 12 06:41:46 +0000 2007",
+				"favourites_count": 1159,
+				"utc_offset": 7200,
+				"time_zone": "Amsterdam",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 54585,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/435294933894057984/knC63ifI.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/435294933894057984/knC63ifI.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/700785037650829312/7nTfNN6q_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/700785037650829312/7nTfNN6q_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/7422272/1448004097",
+				"profile_link_color": "FAB81E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "2C2C2C",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Sat Jun 03 18:47:43 +0000 2017",
 		"id": 871075944534036500,
 		"id_str": "871075944534036482",
