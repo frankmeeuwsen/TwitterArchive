@@ -1,6 +1,253 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Wed Jun 07 18:51:55 +0000 2017",
+		"id": 872526553774788600,
+		"id_str": "872526553774788608",
+		"text": "RT @_skinnymeanman: The most underrated band on the fucking face of the earth. #nowplaying @deadsara\nhttps://t.co/IoTbXk7dbB",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "nowplaying",
+					"indices": [
+						79,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_skinnymeanman",
+					"name": "Justin",
+					"id": 614031012,
+					"id_str": "614031012",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "deadsara",
+					"name": "dead sara",
+					"id": 35649837,
+					"id_str": "35649837",
+					"indices": [
+						91,
+						100
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/IoTbXk7dbB",
+					"expanded_url": "https://open.spotify.com/track/5C7fj9poodMIuJgRd90g4t",
+					"display_url": "open.spotify.com/track/5C7fj9po…",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9243,
+			"friends_count": 1830,
+			"listed_count": 616,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3309,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62056,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jun 07 08:52:15 +0000 2017",
+			"id": 872375643127853000,
+			"id_str": "872375643127853057",
+			"text": "The most underrated band on the fucking face of the earth. #nowplaying @deadsara\nhttps://t.co/IoTbXk7dbB",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "nowplaying",
+						"indices": [
+							59,
+							70
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "deadsara",
+						"name": "dead sara",
+						"id": 35649837,
+						"id_str": "35649837",
+						"indices": [
+							71,
+							80
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/IoTbXk7dbB",
+						"expanded_url": "https://open.spotify.com/track/5C7fj9poodMIuJgRd90g4t",
+						"display_url": "open.spotify.com/track/5C7fj9po…",
+						"indices": [
+							81,
+							104
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 614031012,
+				"id_str": "614031012",
+				"name": "Justin",
+				"screen_name": "_skinnymeanman",
+				"location": "Inland Empire, CA",
+				"description": "I do recording and play music and stuff.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 193,
+				"friends_count": 248,
+				"listed_count": 3,
+				"created_at": "Thu Jun 21 02:28:29 +0000 2012",
+				"favourites_count": 8789,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 16921,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DD2E55",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/510899627759898624/AS50J68q.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/510899627759898624/AS50J68q.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/832468738809090049/CGinCHoJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/832468738809090049/CGinCHoJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/614031012/1469555012",
+				"profile_link_color": "1D99D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Jun 07 17:06:33 +0000 2017",
 		"id": 872500036151779300,
 		"id_str": "872500036151779328",
