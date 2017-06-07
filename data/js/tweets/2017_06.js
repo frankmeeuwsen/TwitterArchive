@@ -1,6 +1,392 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Wed Jun 07 15:40:08 +0000 2017",
+		"id": 872478289008484400,
+		"id_str": "872478289008484352",
+		"text": "RT @galka_max: Best statistics question ever https://t.co/WrrznJnf7l",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "galka_max",
+					"name": "Max Galka",
+					"id": 2184943214,
+					"id_str": "2184943214",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 871768634447802400,
+					"id_str": "871768634447802368",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/DBkk9EaWsAAkkzq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DBkk9EaWsAAkkzq.jpg",
+					"url": "https://t.co/WrrznJnf7l",
+					"display_url": "pic.twitter.com/WrrznJnf7l",
+					"expanded_url": "https://twitter.com/galka_max/status/872446043627155457/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 620,
+							"h": 349,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 620,
+							"h": 349,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 620,
+							"h": 349,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 872446043627155500,
+					"source_status_id_str": "872446043627155457",
+					"source_user_id": 2184943214,
+					"source_user_id_str": "2184943214"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 871768634447802400,
+					"id_str": "871768634447802368",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/DBkk9EaWsAAkkzq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DBkk9EaWsAAkkzq.jpg",
+					"url": "https://t.co/WrrznJnf7l",
+					"display_url": "pic.twitter.com/WrrznJnf7l",
+					"expanded_url": "https://twitter.com/galka_max/status/872446043627155457/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 620,
+							"h": 349,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 620,
+							"h": 349,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 620,
+							"h": 349,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 872446043627155500,
+					"source_status_id_str": "872446043627155457",
+					"source_user_id": 2184943214,
+					"source_user_id_str": "2184943214"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9244,
+			"friends_count": 1830,
+			"listed_count": 616,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3309,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62054,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jun 07 13:32:00 +0000 2017",
+			"id": 872446043627155500,
+			"id_str": "872446043627155457",
+			"text": "Best statistics question ever https://t.co/WrrznJnf7l",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 871768634447802400,
+						"id_str": "871768634447802368",
+						"indices": [
+							30,
+							53
+						],
+						"media_url": "http://pbs.twimg.com/media/DBkk9EaWsAAkkzq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DBkk9EaWsAAkkzq.jpg",
+						"url": "https://t.co/WrrznJnf7l",
+						"display_url": "pic.twitter.com/WrrznJnf7l",
+						"expanded_url": "https://twitter.com/galka_max/status/872446043627155457/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 620,
+								"h": 349,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 620,
+								"h": 349,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 620,
+								"h": 349,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 871768634447802400,
+						"id_str": "871768634447802368",
+						"indices": [
+							30,
+							53
+						],
+						"media_url": "http://pbs.twimg.com/media/DBkk9EaWsAAkkzq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DBkk9EaWsAAkkzq.jpg",
+						"url": "https://t.co/WrrznJnf7l",
+						"display_url": "pic.twitter.com/WrrznJnf7l",
+						"expanded_url": "https://twitter.com/galka_max/status/872446043627155457/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 620,
+								"h": 349,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 620,
+								"h": 349,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 620,
+								"h": 349,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2184943214,
+				"id_str": "2184943214",
+				"name": "Max Galka",
+				"screen_name": "galka_max",
+				"location": "New York, NY",
+				"description": "Information design https://t.co/ukWVdh6dNG • adjunct instructor @PennDesign • contributor @GuardianCities / HuffPo • founder @FOIAmapper / https://t.co/OOgup90dFP",
+				"url": "https://t.co/6CMrFooVP2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6CMrFooVP2",
+								"expanded_url": "http://metrocosm.com/",
+								"display_url": "metrocosm.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/ukWVdh6dNG",
+								"expanded_url": "http://Metrocosm.com",
+								"display_url": "Metrocosm.com",
+								"indices": [
+									19,
+									42
+								]
+							},
+							{
+								"url": "https://t.co/OOgup90dFP",
+								"expanded_url": "https://Blueshift.io",
+								"display_url": "Blueshift.io",
+								"indices": [
+									139,
+									162
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 44885,
+				"friends_count": 1876,
+				"listed_count": 1214,
+				"created_at": "Sat Nov 09 19:47:12 +0000 2013",
+				"favourites_count": 33262,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 7200,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "89C9FA",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/609256783463489537/GZUWDBsl.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/609256783463489537/GZUWDBsl.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/509352358141124608/xZm7IOv__normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/509352358141124608/xZm7IOv__normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2184943214/1493571631",
+				"profile_link_color": "FF6F19",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 126,
+			"favorite_count": 157,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 126,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Jun 07 07:14:22 +0000 2017",
 		"id": 872351008701251600,
 		"id_str": "872351008701251585",
