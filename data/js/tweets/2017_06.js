@@ -1,6 +1,715 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Thu Jun 08 20:12:54 +0000 2017",
+		"id": 872909320307998700,
+		"id_str": "872909320307998721",
+		"text": "RT @jbaert: Beste. Naam. Voor. Dierenarts. Ooit. https://t.co/AEWk6H7NAm",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jbaert",
+					"name": "Jeroen Baert",
+					"id": 20519534,
+					"id_str": "20519534",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AEWk6H7NAm",
+					"expanded_url": "https://twitter.com/Rainmaker1973/status/872784613885739008",
+					"display_url": "twitter.com/Rainmaker1973/…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9242,
+			"friends_count": 1830,
+			"listed_count": 618,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3311,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62063,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jun 08 20:04:01 +0000 2017",
+			"id": 872907083552870400,
+			"id_str": "872907083552870400",
+			"text": "Beste. Naam. Voor. Dierenarts. Ooit. https://t.co/AEWk6H7NAm",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/AEWk6H7NAm",
+						"expanded_url": "https://twitter.com/Rainmaker1973/status/872784613885739008",
+						"display_url": "twitter.com/Rainmaker1973/…",
+						"indices": [
+							37,
+							60
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20519534,
+				"id_str": "20519534",
+				"name": "Jeroen Baert",
+				"screen_name": "jbaert",
+				"location": "Leuven, Belgium",
+				"description": "Computer scientist, engineer, graphics PhD researcher, improv @bilvzw /stand-up comedian, science commentator. PGP: 30F2 857D 9129 3519",
+				"url": "https://t.co/xP0RShCERk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/xP0RShCERk",
+								"expanded_url": "http://www.jeroen-baert.be",
+								"display_url": "jeroen-baert.be",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4078,
+				"friends_count": 528,
+				"listed_count": 77,
+				"created_at": "Tue Feb 10 15:26:49 +0000 2009",
+				"favourites_count": 616,
+				"utc_offset": 7200,
+				"time_zone": "Brussels",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 27745,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/108168617/100thWindow-1024x768.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/108168617/100thWindow-1024x768.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/828763799847059458/kcZthzAe_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/828763799847059458/kcZthzAe_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20519534/1434468463",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 872784613885739000,
+			"quoted_status_id_str": "872784613885739008",
+			"quoted_status": {
+				"created_at": "Thu Jun 08 11:57:22 +0000 2017",
+				"id": 872784613885739000,
+				"id_str": "872784613885739008",
+				"text": "\"Well, about your cat... There's good news &amp; bad news...\"\nhttps://t.co/qHonstj7cX https://t.co/WkLPfPqjt9",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/qHonstj7cX",
+							"expanded_url": "http://bit.ly/2b3gYKd",
+							"display_url": "bit.ly/2b3gYKd",
+							"indices": [
+								62,
+								85
+							]
+						}
+					],
+					"media": [
+						{
+							"id": 872784601319657500,
+							"id_str": "872784601319657472",
+							"indices": [
+								86,
+								109
+							],
+							"media_url": "http://pbs.twimg.com/media/DBzA-H8W0AACEKF.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DBzA-H8W0AACEKF.jpg",
+							"url": "https://t.co/WkLPfPqjt9",
+							"display_url": "pic.twitter.com/WkLPfPqjt9",
+							"expanded_url": "https://twitter.com/Rainmaker1973/status/872784613885739008/photo/1",
+							"type": "photo",
+							"sizes": {
+								"small": {
+									"w": 526,
+									"h": 635,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 526,
+									"h": 635,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 526,
+									"h": 635,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 872784601319657500,
+							"id_str": "872784601319657472",
+							"indices": [
+								86,
+								109
+							],
+							"media_url": "http://pbs.twimg.com/media/DBzA-H8W0AACEKF.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DBzA-H8W0AACEKF.jpg",
+							"url": "https://t.co/WkLPfPqjt9",
+							"display_url": "pic.twitter.com/WkLPfPqjt9",
+							"expanded_url": "https://twitter.com/Rainmaker1973/status/872784613885739008/photo/1",
+							"type": "photo",
+							"sizes": {
+								"small": {
+									"w": 526,
+									"h": 635,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 526,
+									"h": 635,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 526,
+									"h": 635,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 177101260,
+					"id_str": "177101260",
+					"name": "Massimo",
+					"screen_name": "Rainmaker1973",
+					"location": "Italy, North by Northwest",
+					"description": "Astronomy, space imaging & processing, astronautics, meteorology, #CitizenScience. @AstronautiNEWS columnist (IT). Engineer, #STEM » Science & Space news",
+					"url": "https://t.co/M7lNlCNbHR",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/M7lNlCNbHR",
+									"expanded_url": "http://www.astratelescope.org/",
+									"display_url": "astratelescope.org",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 17209,
+					"friends_count": 220,
+					"listed_count": 492,
+					"created_at": "Wed Aug 11 07:13:13 +0000 2010",
+					"favourites_count": 1900,
+					"utc_offset": 7200,
+					"time_zone": "Rome",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 74785,
+					"lang": "it",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C6E2EE",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/551781899077574656/fxiMBWHy.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/551781899077574656/fxiMBWHy.jpeg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/686298118904786944/H4aoP8vA_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/686298118904786944/H4aoP8vA_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/177101260/1422214939",
+					"profile_link_color": "1F98C7",
+					"profile_sidebar_border_color": "C6E2EE",
+					"profile_sidebar_fill_color": "DAECF4",
+					"profile_text_color": "663B12",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 979,
+				"favorite_count": 1502,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 4,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 872784613885739000,
+		"quoted_status_id_str": "872784613885739008",
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
+		"created_at": "Thu Jun 08 20:00:45 +0000 2017",
+		"id": 872906263914565600,
+		"id_str": "872906263914565632",
+		"text": "RT @PearlJam: 25 years ago today, Pearl Jam played @PinkpopFest alongside @LouReed, @OfficialCult, @Soundgarden and more. Who remembers thi…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PearlJam",
+					"name": "Pearl Jam",
+					"id": 15155074,
+					"id_str": "15155074",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "pinkpopfest",
+					"name": "Pinkpop festival",
+					"id": 82294405,
+					"id_str": "82294405",
+					"indices": [
+						51,
+						63
+					]
+				},
+				{
+					"screen_name": "LouReed",
+					"name": "Lou Reed",
+					"id": 42690723,
+					"id_str": "42690723",
+					"indices": [
+						74,
+						82
+					]
+				},
+				{
+					"screen_name": "officialcult",
+					"name": "THE CULT",
+					"id": 111267600,
+					"id_str": "111267600",
+					"indices": [
+						84,
+						97
+					]
+				},
+				{
+					"screen_name": "soundgarden",
+					"name": "Soundgarden",
+					"id": 101894425,
+					"id_str": "101894425",
+					"indices": [
+						99,
+						111
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9242,
+			"friends_count": 1830,
+			"listed_count": 618,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3311,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62063,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jun 08 19:32:34 +0000 2017",
+			"id": 872899170729959400,
+			"id_str": "872899170729959424",
+			"text": "25 years ago today, Pearl Jam played @PinkpopFest alongside @LouReed, @OfficialCult, @Soundgarden and more. Who rem… https://t.co/WeLfQsB6W7",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "pinkpopfest",
+						"name": "Pinkpop festival",
+						"id": 82294405,
+						"id_str": "82294405",
+						"indices": [
+							37,
+							49
+						]
+					},
+					{
+						"screen_name": "LouReed",
+						"name": "Lou Reed",
+						"id": 42690723,
+						"id_str": "42690723",
+						"indices": [
+							60,
+							68
+						]
+					},
+					{
+						"screen_name": "officialcult",
+						"name": "THE CULT",
+						"id": 111267600,
+						"id_str": "111267600",
+						"indices": [
+							70,
+							83
+						]
+					},
+					{
+						"screen_name": "soundgarden",
+						"name": "Soundgarden",
+						"id": 101894425,
+						"id_str": "101894425",
+						"indices": [
+							85,
+							97
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/WeLfQsB6W7",
+						"expanded_url": "https://twitter.com/i/web/status/872899170729959424",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15155074,
+				"id_str": "15155074",
+				"name": "Pearl Jam",
+				"screen_name": "PearlJam",
+				"location": "Seattle, WA",
+				"description": "Pearl Jam have launched a brand new website. Discover more:  https://t.co/1TasMMHPhd",
+				"url": "https://t.co/J95aoJ5FKF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/J95aoJ5FKF",
+								"expanded_url": "http://www.PearlJam.com",
+								"display_url": "PearlJam.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/1TasMMHPhd",
+								"expanded_url": "http://PearlJam.com",
+								"display_url": "PearlJam.com",
+								"indices": [
+									61,
+									84
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3548680,
+				"friends_count": 787,
+				"listed_count": 18420,
+				"created_at": "Wed Jun 18 06:59:14 +0000 2008",
+				"favourites_count": 1042,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 5469,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/458709139665846272/xuqdWuDa.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/458709139665846272/xuqdWuDa.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/826481620999864320/iCp_gDwp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/826481620999864320/iCp_gDwp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15155074/1485883530",
+				"profile_link_color": "A47D41",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 655,
+			"favorite_count": 1491,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 655,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Jun 08 17:09:46 +0000 2017",
 		"id": 872863232146518000,
 		"id_str": "872863232146518016",
