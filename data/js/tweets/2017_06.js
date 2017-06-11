@@ -1,6 +1,409 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Sun Jun 11 11:08:22 +0000 2017",
+		"id": 873859446933524500,
+		"id_str": "873859446933524481",
+		"text": "Zondagmiddag. Zon. Tuintje. Kids. Jeweetoch. https://t.co/NhggrxOBBX",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 873859433197166600,
+					"id_str": "873859433197166593",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/DCCShktXYAEZpB5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DCCShktXYAEZpB5.jpg",
+					"url": "https://t.co/NhggrxOBBX",
+					"display_url": "pic.twitter.com/NhggrxOBBX",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/873859446933524481/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 873859433197166600,
+					"id_str": "873859433197166593",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/DCCShktXYAEZpB5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DCCShktXYAEZpB5.jpg",
+					"url": "https://t.co/NhggrxOBBX",
+					"display_url": "pic.twitter.com/NhggrxOBBX",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/873859446933524481/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9244,
+			"friends_count": 1830,
+			"listed_count": 616,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3314,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62050,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "871685aa82f8a489",
+			"url": "https://api.twitter.com/1.1/geo/id/871685aa82f8a489.json",
+			"place_type": "city",
+			"name": "Utrecht",
+			"full_name": "Utrecht, The Netherlands",
+			"country_code": "NL",
+			"country": "The Netherlands",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							4.9702867,
+							52.0262429
+						],
+						[
+							5.1952468,
+							52.0262429
+						],
+						[
+							5.1952468,
+							52.142137
+						],
+						[
+							4.9702867,
+							52.142137
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
+		"created_at": "Sun Jun 11 11:03:03 +0000 2017",
+		"id": 873858109009211400,
+		"id_str": "873858109009211392",
+		"text": "@vangeest @industryof_cool @marcoderksen @Markies @roosvanvugt @DeFries @ChristaRomp @KAFygi @rogierschmit Zijn daar al voorbeelden van?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "vangeest",
+					"name": "Yuri van Geest",
+					"id": 819522,
+					"id_str": "819522",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "industryof_cool",
+					"name": "Frans Reitsma",
+					"id": 21128108,
+					"id_str": "21128108",
+					"indices": [
+						10,
+						26
+					]
+				},
+				{
+					"screen_name": "marcoderksen",
+					"name": "Marco Derksen",
+					"id": 1252681,
+					"id_str": "1252681",
+					"indices": [
+						27,
+						40
+					]
+				},
+				{
+					"screen_name": "Markies",
+					"name": "Mark de Kock",
+					"id": 1858541,
+					"id_str": "1858541",
+					"indices": [
+						41,
+						49
+					]
+				},
+				{
+					"screen_name": "roosvanvugt",
+					"name": "Roos van Vugt",
+					"id": 21687228,
+					"id_str": "21687228",
+					"indices": [
+						50,
+						62
+					]
+				},
+				{
+					"screen_name": "DeFries",
+					"name": "Remkus de Vries",
+					"id": 14264386,
+					"id_str": "14264386",
+					"indices": [
+						63,
+						71
+					]
+				},
+				{
+					"screen_name": "ChristaRomp",
+					"name": "Christa Romp",
+					"id": 26492815,
+					"id_str": "26492815",
+					"indices": [
+						72,
+						84
+					]
+				},
+				{
+					"screen_name": "KAFygi",
+					"name": "Kari-Anne Fygi",
+					"id": 8242152,
+					"id_str": "8242152",
+					"indices": [
+						85,
+						92
+					]
+				},
+				{
+					"screen_name": "rogierschmit",
+					"name": "Rogier Schmit",
+					"id": 45845129,
+					"id_str": "45845129",
+					"indices": [
+						93,
+						106
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 873853487523803100,
+		"in_reply_to_status_id_str": "873853487523803136",
+		"in_reply_to_user_id": 819522,
+		"in_reply_to_user_id_str": "819522",
+		"in_reply_to_screen_name": "vangeest",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9244,
+			"friends_count": 1830,
+			"listed_count": 616,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3314,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62050,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Sun Jun 11 08:03:55 +0000 2017",
 		"id": 873813029619732500,
 		"id_str": "873813029619732481",
