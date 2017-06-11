@@ -1,6 +1,349 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Sun Jun 11 08:03:55 +0000 2017",
+		"id": 873813029619732500,
+		"id_str": "873813029619732481",
+		"text": "@industryof_cool @marcoderksen @Markies @roosvanvugt @DeFries @ChristaRomp @KAFygi @rogierschmit @vangeest Oeh nou.… https://t.co/DD6pgiM6IS",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "industryof_cool",
+					"name": "Frans Reitsma",
+					"id": 21128108,
+					"id_str": "21128108",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "marcoderksen",
+					"name": "Marco Derksen",
+					"id": 1252681,
+					"id_str": "1252681",
+					"indices": [
+						17,
+						30
+					]
+				},
+				{
+					"screen_name": "Markies",
+					"name": "Mark de Kock",
+					"id": 1858541,
+					"id_str": "1858541",
+					"indices": [
+						31,
+						39
+					]
+				},
+				{
+					"screen_name": "roosvanvugt",
+					"name": "Roos van Vugt",
+					"id": 21687228,
+					"id_str": "21687228",
+					"indices": [
+						40,
+						52
+					]
+				},
+				{
+					"screen_name": "DeFries",
+					"name": "Remkus de Vries",
+					"id": 14264386,
+					"id_str": "14264386",
+					"indices": [
+						53,
+						61
+					]
+				},
+				{
+					"screen_name": "ChristaRomp",
+					"name": "Christa Romp",
+					"id": 26492815,
+					"id_str": "26492815",
+					"indices": [
+						62,
+						74
+					]
+				},
+				{
+					"screen_name": "KAFygi",
+					"name": "Kari-Anne Fygi",
+					"id": 8242152,
+					"id_str": "8242152",
+					"indices": [
+						75,
+						82
+					]
+				},
+				{
+					"screen_name": "rogierschmit",
+					"name": "Rogier Schmit",
+					"id": 45845129,
+					"id_str": "45845129",
+					"indices": [
+						83,
+						96
+					]
+				},
+				{
+					"screen_name": "vangeest",
+					"name": "Yuri van Geest",
+					"id": 819522,
+					"id_str": "819522",
+					"indices": [
+						97,
+						106
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DD6pgiM6IS",
+					"expanded_url": "https://twitter.com/i/web/status/873813029619732481",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 873802202976047100,
+		"in_reply_to_status_id_str": "873802202976047105",
+		"in_reply_to_user_id": 21128108,
+		"in_reply_to_user_id_str": "21128108",
+		"in_reply_to_screen_name": "industryof_cool",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9243,
+			"friends_count": 1830,
+			"listed_count": 616,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3312,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62048,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl"
+	},
+	{
+		"created_at": "Sun Jun 11 08:02:55 +0000 2017",
+		"id": 873812777072242700,
+		"id_str": "873812777072242688",
+		"text": "@bardweijer @volkskrant Joe Bard! Kom eens langs bij ons @iamTriggi. Who needs ecosystemen when you mooie vaderdagc… https://t.co/GwukNuia3P",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bardweijer",
+					"name": "Bard van de Weijer",
+					"id": 31423894,
+					"id_str": "31423894",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "volkskrant",
+					"name": "de Volkskrant",
+					"id": 3103261,
+					"id_str": "3103261",
+					"indices": [
+						12,
+						23
+					]
+				},
+				{
+					"screen_name": "iamTriggi",
+					"name": "Triggi",
+					"id": 3879014177,
+					"id_str": "3879014177",
+					"indices": [
+						57,
+						67
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GwukNuia3P",
+					"expanded_url": "https://twitter.com/i/web/status/873812777072242688",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 873432535296036900,
+		"in_reply_to_status_id_str": "873432535296036864",
+		"in_reply_to_user_id": 31423894,
+		"in_reply_to_user_id_str": "31423894",
+		"in_reply_to_screen_name": "bardweijer",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9243,
+			"friends_count": 1830,
+			"listed_count": 616,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3312,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62048,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838040225628762112/WeV3XjHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Sat Jun 10 20:50:30 +0000 2017",
 		"id": 873643559982960600,
 		"id_str": "873643559982960640",
