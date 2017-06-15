@@ -1,6 +1,317 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Thu Jun 15 20:23:48 +0000 2017",
+		"id": 875448780044214300,
+		"id_str": "875448780044214272",
+		"text": "Hier komt alles samen. Wat geweldig. https://t.co/v6cvuA7tDZ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/v6cvuA7tDZ",
+					"expanded_url": "https://twitter.com/thememegifs/status/875443664125779968",
+					"display_url": "twitter.com/thememegifs/st…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9252,
+			"friends_count": 1833,
+			"listed_count": 616,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3321,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62097,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 875443664125780000,
+		"quoted_status_id_str": "875443664125779968",
+		"quoted_status": {
+			"created_at": "Thu Jun 15 20:03:29 +0000 2017",
+			"id": 875443664125780000,
+			"id_str": "875443664125779968",
+			"text": "#HappyBirthdayGIF \n\nThe GIF was born 30 years ago today! 🎉 https://t.co/aiebJ3y6Q0",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "HappyBirthdayGIF",
+						"indices": [
+							0,
+							17
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 875443438849863700,
+						"id_str": "875443438849863680",
+						"indices": [
+							59,
+							82
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/875443438849863680/pu/img/AWDX284swlguJrpW.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/875443438849863680/pu/img/AWDX284swlguJrpW.jpg",
+						"url": "https://t.co/aiebJ3y6Q0",
+						"display_url": "pic.twitter.com/aiebJ3y6Q0",
+						"expanded_url": "https://twitter.com/thememegifs/status/875443664125779968/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 145,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 255,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 272,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 875443438849863700,
+						"id_str": "875443438849863680",
+						"indices": [
+							59,
+							82
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/875443438849863680/pu/img/AWDX284swlguJrpW.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/875443438849863680/pu/img/AWDX284swlguJrpW.jpg",
+						"url": "https://t.co/aiebJ3y6Q0",
+						"display_url": "pic.twitter.com/aiebJ3y6Q0",
+						"expanded_url": "https://twitter.com/thememegifs/status/875443664125779968/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 145,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 255,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 272,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								40,
+								17
+							],
+							"duration_millis": 59120,
+							"variants": [
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/875443438849863680/pu/vid/422x180/Jsy1zerPUx9FKkSh.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/875443438849863680/pu/pl/G_YFIjqOQFa4DC0z.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2598764419,
+				"id_str": "2598764419",
+				"name": "The Memegifs 🐇",
+				"screen_name": "thememegifs",
+				"location": "Internet",
+				"description": "Gif edits and memes.                                          It's pronounced 'JIF' not 'GIF'.",
+				"url": "https://t.co/xZ6P0cguba",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/xZ6P0cguba",
+								"expanded_url": "http://thememegifs.tumblr.com/",
+								"display_url": "thememegifs.tumblr.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3466,
+				"friends_count": 7,
+				"listed_count": 24,
+				"created_at": "Tue Jul 01 23:50:52 +0000 2014",
+				"favourites_count": 80,
+				"utc_offset": 10800,
+				"time_zone": "Istanbul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1480,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "404040",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/637683112709910528/toPLSLAF.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/637683112709910528/toPLSLAF.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/715889651584745473/3OQDeoy4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/715889651584745473/3OQDeoy4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2598764419/1440348716",
+				"profile_link_color": "468499",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 19,
+			"favorite_count": 24,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Thu Jun 15 20:10:08 +0000 2017",
 		"id": 875445339171323900,
 		"id_str": "875445339171323906",
