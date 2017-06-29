@@ -1,6 +1,157 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Thu Jun 29 18:51:15 +0000 2017",
+		"id": 880498916147462100,
+		"id_str": "880498916147462146",
+		"text": "@jpschadde @Bavaria @marketingonline Tsk. Maakte @ijsgek een tijd terug al met @DuitsLauret bier. Heer-lok!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jpschadde",
+					"name": "jpschadde",
+					"id": 12789402,
+					"id_str": "12789402",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "Bavaria",
+					"name": "Bavaria",
+					"id": 292561007,
+					"id_str": "292561007",
+					"indices": [
+						11,
+						19
+					]
+				},
+				{
+					"screen_name": "marketingonline",
+					"name": "marketingonline",
+					"id": 12589992,
+					"id_str": "12589992",
+					"indices": [
+						20,
+						36
+					]
+				},
+				{
+					"screen_name": "ijsgek",
+					"name": "Roberto Gelato",
+					"id": 60125846,
+					"id_str": "60125846",
+					"indices": [
+						49,
+						56
+					]
+				},
+				{
+					"screen_name": "DuitsLauret",
+					"name": "Duits&Lauret",
+					"id": 93165443,
+					"id_str": "93165443",
+					"indices": [
+						79,
+						91
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 880416419426467800,
+		"in_reply_to_status_id_str": "880416419426467841",
+		"in_reply_to_user_id": 12789402,
+		"in_reply_to_user_id_str": "12789402",
+		"in_reply_to_screen_name": "jpschadde",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9243,
+			"friends_count": 1833,
+			"listed_count": 616,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3336,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61619,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Thu Jun 29 09:45:19 +0000 2017",
 		"id": 880361530356846600,
 		"id_str": "880361530356846592",
