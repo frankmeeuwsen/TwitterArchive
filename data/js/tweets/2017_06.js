@@ -1,6 +1,218 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Thu Jun 29 09:45:19 +0000 2017",
+		"id": 880361530356846600,
+		"id_str": "880361530356846592",
+		"text": "RT @GeertjeVisser: Zoon (6): \"mam, wil je mijn boot even op Twitter zetten? Daar kun je namelijk heel populair mee worden\".\n\nDus dan doe ik…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GeertjeVisser",
+					"name": "Geertje Visser",
+					"id": 20544870,
+					"id_str": "20544870",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9243,
+			"friends_count": 1833,
+			"listed_count": 617,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3336,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61618,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jun 29 08:28:54 +0000 2017",
+			"id": 880342296075657200,
+			"id_str": "880342296075657217",
+			"text": "Zoon (6): \"mam, wil je mijn boot even op Twitter zetten? Daar kun je namelijk heel populair mee worden\".\n\nDus dan d… https://t.co/lVBie5riWk",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/lVBie5riWk",
+						"expanded_url": "https://twitter.com/i/web/status/880342296075657217",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20544870,
+				"id_str": "20544870",
+				"name": "Geertje Visser",
+				"screen_name": "GeertjeVisser",
+				"location": "Amstelveen",
+				"description": "Schaap in wolfskleren | Communicatie | Columnist @Amstelveenz | 3 zonen | Blinkt uit in het omverwerpen van uiteenlopende vloeistoffen | Doet @jazzinhetdorp",
+				"url": "https://t.co/0C5fAFynAU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0C5fAFynAU",
+								"expanded_url": "http://www.redigeertje.wordpress.com",
+								"display_url": "redigeertje.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3872,
+				"friends_count": 2560,
+				"listed_count": 66,
+				"created_at": "Tue Feb 10 20:54:05 +0000 2009",
+				"favourites_count": 4454,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 21043,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FCEBB6",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000133125147/oA-nKyqS.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000133125147/oA-nKyqS.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/749261489681338368/r9AxSc29_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/749261489681338368/r9AxSc29_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20544870/1467377001",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "F0A830",
+				"profile_sidebar_fill_color": "78C0A8",
+				"profile_text_color": "5E412F",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 39,
+			"favorite_count": 257,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"is_quote_status": false,
+		"retweet_count": 39,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Thu Jun 29 08:10:39 +0000 2017",
 		"id": 880337706395586600,
 		"id_str": "880337706395586560",
