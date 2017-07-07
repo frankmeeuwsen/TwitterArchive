@@ -1,6 +1,449 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Fri Jul 07 06:06:26 +0000 2017",
+		"id": 883205549407563800,
+		"id_str": "883205549407563778",
+		"text": "Cool spul! https://t.co/R0nEZLtPUG",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/R0nEZLtPUG",
+					"expanded_url": "https://twitter.com/valaafshar/status/883135732025630720",
+					"display_url": "twitter.com/valaafshar/sta…",
+					"indices": [
+						11,
+						34
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9237,
+			"friends_count": 1835,
+			"listed_count": 616,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3346,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61639,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "871685aa82f8a489",
+			"url": "https://api.twitter.com/1.1/geo/id/871685aa82f8a489.json",
+			"place_type": "city",
+			"name": "Utrecht",
+			"full_name": "Utrecht, The Netherlands",
+			"country_code": "NL",
+			"country": "The Netherlands",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							4.9702867,
+							52.0262429
+						],
+						[
+							5.1952468,
+							52.0262429
+						],
+						[
+							5.1952468,
+							52.142137
+						],
+						[
+							4.9702867,
+							52.142137
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 883135732025630700,
+		"quoted_status_id_str": "883135732025630720",
+		"quoted_status": {
+			"created_at": "Fri Jul 07 01:29:01 +0000 2017",
+			"id": 883135732025630700,
+			"id_str": "883135732025630720",
+			"text": "These moving blocks mimic human movement https://t.co/rSLuCFmyrr",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 854083206727036900,
+						"id_str": "854083206727036929",
+						"indices": [
+							41,
+							64
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/854083206727036929/img/zArqQZE31nTZtaFx.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/854083206727036929/img/zArqQZE31nTZtaFx.jpg",
+						"url": "https://t.co/rSLuCFmyrr",
+						"display_url": "pic.twitter.com/rSLuCFmyrr",
+						"expanded_url": "https://twitter.com/thisisinsider/status/883047923302318080/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 883047923302318100,
+						"source_status_id_str": "883047923302318080",
+						"source_user_id": 3226282347,
+						"source_user_id_str": "3226282347"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 854083206727036900,
+						"id_str": "854083206727036929",
+						"indices": [
+							41,
+							64
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/854083206727036929/img/zArqQZE31nTZtaFx.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/854083206727036929/img/zArqQZE31nTZtaFx.jpg",
+						"url": "https://t.co/rSLuCFmyrr",
+						"display_url": "pic.twitter.com/rSLuCFmyrr",
+						"expanded_url": "https://twitter.com/thisisinsider/status/883047923302318080/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 883047923302318100,
+						"source_status_id_str": "883047923302318080",
+						"source_user_id": 3226282347,
+						"source_user_id_str": "3226282347",
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 91341,
+							"variants": [
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/854083206727036929/vid/720x720/K4FL4kWJ7Ilq150h.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/854083206727036929/vid/480x480/yVxFdaM68kUnY-fB.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/854083206727036929/vid/240x240/AZkrhgwDRK1zX_1X.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/854083206727036929/pl/ut5Cf2Q7-JQoQ4Y_.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"call_to_actions": {
+								"visit_site": {
+									"url": "https://www.thisisinsider.com"
+								}
+							},
+							"embeddable": true,
+							"monetizable": true,
+							"source_user": {
+								"id": 3226282347,
+								"id_str": "3226282347",
+								"name": "INSIDER",
+								"screen_name": "thisisinsider",
+								"location": "Manhattan, NY",
+								"description": "Life is an adventure!  FB: https://t.co/QOZMy8bkWY Snapchat: thisisinsider IG: @thisisinsider",
+								"url": "https://t.co/SA6gsxnfFR",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/SA6gsxnfFR",
+												"expanded_url": "http://thisisinsider.com",
+												"display_url": "thisisinsider.com",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": [
+											{
+												"url": "https://t.co/QOZMy8bkWY",
+												"expanded_url": "https://www.facebook.com/thisisinsider",
+												"display_url": "facebook.com/thisisinsider",
+												"indices": [
+													27,
+													50
+												]
+											}
+										]
+									}
+								},
+								"protected": false,
+								"followers_count": 110083,
+								"friends_count": 528,
+								"listed_count": 671,
+								"created_at": "Fri May 01 14:53:51 +0000 2015",
+								"favourites_count": 1729,
+								"utc_offset": -25200,
+								"time_zone": "Pacific Time (US & Canada)",
+								"geo_enabled": false,
+								"verified": true,
+								"statuses_count": 20947,
+								"lang": "en",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "C0DEED",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/755852886400077825/G1p62uZ8_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/755852886400077825/G1p62uZ8_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/3226282347/1485960707",
+								"profile_link_color": "1DA1F2",
+								"profile_sidebar_border_color": "C0DEED",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": true,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 259725229,
+				"id_str": "259725229",
+				"name": "Vala Afshar",
+				"screen_name": "ValaAfshar",
+				"location": "Boston",
+				"description": "Chief Digital Evangelist, @Salesforce | Blog: @HuffPost | Book: https://t.co/oSpLljigAi | Show: @DisrupTVShow",
+				"url": "https://t.co/nSnWIXeE3A",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/nSnWIXeE3A",
+								"expanded_url": "http://www.huffingtonpost.com/vala-afshar/",
+								"display_url": "huffingtonpost.com/vala-afshar/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/oSpLljigAi",
+								"expanded_url": "http://bit.ly/tposbe",
+								"display_url": "bit.ly/tposbe",
+								"indices": [
+									64,
+									87
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 200845,
+				"friends_count": 400,
+				"listed_count": 9418,
+				"created_at": "Wed Mar 02 13:31:29 +0000 2011",
+				"favourites_count": 13,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 315446,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1259558245/vala_300dpi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259558245/vala_300dpi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/259725229/1439209336",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 50,
+			"favorite_count": 85,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Jul 06 22:41:04 +0000 2017",
 		"id": 883093466024218600,
 		"id_str": "883093466024218624",
