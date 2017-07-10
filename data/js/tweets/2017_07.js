@@ -1,6 +1,373 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Mon Jul 10 10:32:41 +0000 2017",
+		"id": 884359715966386200,
+		"id_str": "884359715966386176",
+		"text": "RT @bbchase: I have some thoughts about why news orgs are finding that people won’t read long articles… https://t.co/G8Zh6GTA6w",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bbchase",
+					"name": "Ben Chase",
+					"id": 37849872,
+					"id_str": "37849872",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 882299923764588500,
+					"id_str": "882299923764588545",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/DD6PGyVXsAED7JU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DD6PGyVXsAED7JU.jpg",
+					"url": "https://t.co/G8Zh6GTA6w",
+					"display_url": "pic.twitter.com/G8Zh6GTA6w",
+					"expanded_url": "https://twitter.com/bbchase/status/882299931591094272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 173,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 520,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 305,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 882299931591094300,
+					"source_status_id_str": "882299931591094272",
+					"source_user_id": 37849872,
+					"source_user_id_str": "37849872"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 882299923764588500,
+					"id_str": "882299923764588545",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/DD6PGyVXsAED7JU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DD6PGyVXsAED7JU.jpg",
+					"url": "https://t.co/G8Zh6GTA6w",
+					"display_url": "pic.twitter.com/G8Zh6GTA6w",
+					"expanded_url": "https://twitter.com/bbchase/status/882299931591094272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 173,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 520,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 305,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 882299931591094300,
+					"source_status_id_str": "882299931591094272",
+					"source_user_id": 37849872,
+					"source_user_id_str": "37849872"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9236,
+			"friends_count": 1842,
+			"listed_count": 615,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3353,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61671,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jul 04 18:07:50 +0000 2017",
+			"id": 882299931591094300,
+			"id_str": "882299931591094272",
+			"text": "I have some thoughts about why news orgs are finding that people won’t read long articles… https://t.co/G8Zh6GTA6w",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 882299923764588500,
+						"id_str": "882299923764588545",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/media/DD6PGyVXsAED7JU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DD6PGyVXsAED7JU.jpg",
+						"url": "https://t.co/G8Zh6GTA6w",
+						"display_url": "pic.twitter.com/G8Zh6GTA6w",
+						"expanded_url": "https://twitter.com/bbchase/status/882299931591094272/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 173,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 520,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 305,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 882299923764588500,
+						"id_str": "882299923764588545",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/media/DD6PGyVXsAED7JU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DD6PGyVXsAED7JU.jpg",
+						"url": "https://t.co/G8Zh6GTA6w",
+						"display_url": "pic.twitter.com/G8Zh6GTA6w",
+						"expanded_url": "https://twitter.com/bbchase/status/882299931591094272/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 173,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 520,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 305,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 37849872,
+				"id_str": "37849872",
+				"name": "Ben Chase",
+				"screen_name": "bbchase",
+				"location": "Champaign, IL",
+				"description": "Network engineer who knows way too much about Apple. Tweets are unfocused.",
+				"url": "https://t.co/s0FQdnt4sC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/s0FQdnt4sC",
+								"expanded_url": "http://www.smallthingsfloat.com",
+								"display_url": "smallthingsfloat.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 883,
+				"friends_count": 444,
+				"listed_count": 45,
+				"created_at": "Tue May 05 03:46:58 +0000 2009",
+				"favourites_count": 6551,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 21401,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/826953104914575362/8ES_jFUK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/826953104914575362/8ES_jFUK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/37849872/1448234918",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 16192,
+			"favorite_count": 31723,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 16192,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jul 10 09:54:10 +0000 2017",
 		"id": 884350021218570200,
 		"id_str": "884350021218570245",
