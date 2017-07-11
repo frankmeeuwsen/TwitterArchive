@@ -1,6 +1,334 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Tue Jul 11 12:08:07 +0000 2017",
+		"id": 884746120357974000,
+		"id_str": "884746120357974016",
+		"text": "RT @Marloes: Wat een treurigheid dit. Maar echt. https://t.co/9fuo7eiMrj",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Marloes",
+					"name": "Marloes van der Laan",
+					"id": 237216383,
+					"id_str": "237216383",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9fuo7eiMrj",
+					"expanded_url": "https://twitter.com/Frekie/status/884538366246748160",
+					"display_url": "twitter.com/Frekie/status/…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9234,
+			"friends_count": 1845,
+			"listed_count": 615,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3354,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61684,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jul 11 09:33:07 +0000 2017",
+			"id": 884707115201384400,
+			"id_str": "884707115201384448",
+			"text": "Wat een treurigheid dit. Maar echt. https://t.co/9fuo7eiMrj",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/9fuo7eiMrj",
+						"expanded_url": "https://twitter.com/Frekie/status/884538366246748160",
+						"display_url": "twitter.com/Frekie/status/…",
+						"indices": [
+							36,
+							59
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 237216383,
+				"id_str": "237216383",
+				"name": "Marloes van der Laan",
+				"screen_name": "Marloes",
+				"location": "Amsterdam / Brussels",
+				"description": "Communications for Benelux & EU @Uber. Previously @Twitter and @KNVB. Cares about climate change. And football.",
+				"url": "https://t.co/En3ibgzRf5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/En3ibgzRf5",
+								"expanded_url": "http://linkd.in/1uRXKLa",
+								"display_url": "linkd.in/1uRXKLa",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4941,
+				"friends_count": 1119,
+				"listed_count": 110,
+				"created_at": "Wed Jan 12 10:21:20 +0000 2011",
+				"favourites_count": 6310,
+				"utc_offset": 7200,
+				"time_zone": "Amsterdam",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9964,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/853152881142370304/Vvs8d0oT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/853152881142370304/Vvs8d0oT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/237216383/1499228661",
+				"profile_link_color": "55ACEE",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 884538366246748200,
+			"quoted_status_id_str": "884538366246748160",
+			"quoted_status": {
+				"created_at": "Mon Jul 10 22:22:35 +0000 2017",
+				"id": 884538366246748200,
+				"id_str": "884538366246748160",
+				"text": "VI zet voor het eerst in zijn bestaan voetbalsters op de cover (hulde!), maar daar is nog niet iedereen klaar voor.… https://t.co/BLB11dVvey",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/BLB11dVvey",
+							"expanded_url": "https://twitter.com/i/web/status/884538366246748160",
+							"display_url": "twitter.com/i/web/status/8…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 24905123,
+					"id_str": "24905123",
+					"name": "Freek Verhulst",
+					"screen_name": "Frekie",
+					"location": "Tilburg, Nederland",
+					"description": "Je kunt me kennen van @keingeloelpod, @FairHuxley, @3voor12Tilburg, @The_Daily_Indie, @Glowfmradio, @BNDeStem en @jenzel07's socialmedia.",
+					"url": "https://t.co/KAz3SKkdKZ",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/KAz3SKkdKZ",
+									"expanded_url": "https://open.spotify.com/track/0A4HdJca7zSvWGQyOyarh6",
+									"display_url": "open.spotify.com/track/0A4HdJca…",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 836,
+					"friends_count": 1186,
+					"listed_count": 22,
+					"created_at": "Tue Mar 17 16:14:25 +0000 2009",
+					"favourites_count": 5650,
+					"utc_offset": -7200,
+					"time_zone": "Greenland",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 55778,
+					"lang": "nl",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "352726",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/85221658/IMAG0005.JPG",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/85221658/IMAG0005.JPG",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/800442334718660610/tHAMhDWH_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/800442334718660610/tHAMhDWH_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/24905123/1452645729",
+					"profile_link_color": "D02B55",
+					"profile_sidebar_border_color": "829D5E",
+					"profile_sidebar_fill_color": "99CC33",
+					"profile_text_color": "3E4415",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 37,
+				"favorite_count": 22,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "nl"
+			},
+			"retweet_count": 11,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 884538366246748200,
+		"quoted_status_id_str": "884538366246748160",
+		"retweet_count": 11,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Tue Jul 11 10:36:03 +0000 2017",
 		"id": 884722950787694600,
 		"id_str": "884722950787694592",
