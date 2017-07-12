@@ -1,6 +1,506 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Wed Jul 12 21:57:54 +0000 2017",
+		"id": 885256932935835600,
+		"id_str": "885256932935835648",
+		"text": "RT @Learn_Things: This is how a Leonardo da Vinci Bridge is made https://t.co/BTXxMtaiyK",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Learn_Things",
+					"name": "Science GIFs⚛️",
+					"id": 593370001,
+					"id_str": "593370001",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 844270125075185700,
+					"id_str": "844270125075185664",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/844270125075185664/pu/img/-gjYDKE_w4Lyotf-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/844270125075185664/pu/img/-gjYDKE_w4Lyotf-.jpg",
+					"url": "https://t.co/BTXxMtaiyK",
+					"display_url": "pic.twitter.com/BTXxMtaiyK",
+					"expanded_url": "https://twitter.com/ThingsWork/status/844270323730124800/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 336,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 190,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 336,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 844270323730124800,
+					"source_status_id_str": "844270323730124800",
+					"source_user_id": 2217099931,
+					"source_user_id_str": "2217099931"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 844270125075185700,
+					"id_str": "844270125075185664",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/844270125075185664/pu/img/-gjYDKE_w4Lyotf-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/844270125075185664/pu/img/-gjYDKE_w4Lyotf-.jpg",
+					"url": "https://t.co/BTXxMtaiyK",
+					"display_url": "pic.twitter.com/BTXxMtaiyK",
+					"expanded_url": "https://twitter.com/ThingsWork/status/844270323730124800/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 336,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 190,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 336,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 844270323730124800,
+					"source_status_id_str": "844270323730124800",
+					"source_user_id": 2217099931,
+					"source_user_id_str": "2217099931",
+					"video_info": {
+						"aspect_ratio": [
+							25,
+							14
+						],
+						"duration_millis": 82934,
+						"variants": [
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/844270125075185664/pu/vid/320x180/MUUNuyfRVHoMrRnd.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/844270125075185664/pu/pl/D8FKvcT0vWp867J1.m3u8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 2217099931,
+							"id_str": "2217099931",
+							"name": "How Things Work",
+							"screen_name": "ThingsWork",
+							"location": "email: how@viralspark.net",
+							"description": "Satisfy your curiosity with amazing new perspectives on how things work.",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 305358,
+							"friends_count": 2,
+							"listed_count": 1741,
+							"created_at": "Wed Nov 27 03:33:46 +0000 2013",
+							"favourites_count": 288,
+							"utc_offset": -18000,
+							"time_zone": "Central Time (US & Canada)",
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 748,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "FFFFFF",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/502166591027433472/dSN8P3hG_normal.jpeg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/502166591027433472/dSN8P3hG_normal.jpeg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/2217099931/1408561443",
+							"profile_link_color": "0084B4",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9224,
+			"friends_count": 1851,
+			"listed_count": 615,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3357,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61683,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jul 12 21:13:05 +0000 2017",
+			"id": 885245651373764600,
+			"id_str": "885245651373764608",
+			"text": "This is how a Leonardo da Vinci Bridge is made https://t.co/BTXxMtaiyK",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 844270125075185700,
+						"id_str": "844270125075185664",
+						"indices": [
+							47,
+							70
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/844270125075185664/pu/img/-gjYDKE_w4Lyotf-.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/844270125075185664/pu/img/-gjYDKE_w4Lyotf-.jpg",
+						"url": "https://t.co/BTXxMtaiyK",
+						"display_url": "pic.twitter.com/BTXxMtaiyK",
+						"expanded_url": "https://twitter.com/ThingsWork/status/844270323730124800/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 600,
+								"h": 336,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 190,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 336,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 844270323730124800,
+						"source_status_id_str": "844270323730124800",
+						"source_user_id": 2217099931,
+						"source_user_id_str": "2217099931"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 844270125075185700,
+						"id_str": "844270125075185664",
+						"indices": [
+							47,
+							70
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/844270125075185664/pu/img/-gjYDKE_w4Lyotf-.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/844270125075185664/pu/img/-gjYDKE_w4Lyotf-.jpg",
+						"url": "https://t.co/BTXxMtaiyK",
+						"display_url": "pic.twitter.com/BTXxMtaiyK",
+						"expanded_url": "https://twitter.com/ThingsWork/status/844270323730124800/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 600,
+								"h": 336,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 190,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 336,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 844270323730124800,
+						"source_status_id_str": "844270323730124800",
+						"source_user_id": 2217099931,
+						"source_user_id_str": "2217099931",
+						"video_info": {
+							"aspect_ratio": [
+								25,
+								14
+							],
+							"duration_millis": 82934,
+							"variants": [
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/844270125075185664/pu/vid/320x180/MUUNuyfRVHoMrRnd.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/844270125075185664/pu/pl/D8FKvcT0vWp867J1.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 2217099931,
+								"id_str": "2217099931",
+								"name": "How Things Work",
+								"screen_name": "ThingsWork",
+								"location": "email: how@viralspark.net",
+								"description": "Satisfy your curiosity with amazing new perspectives on how things work.",
+								"url": null,
+								"entities": {
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 305358,
+								"friends_count": 2,
+								"listed_count": 1741,
+								"created_at": "Wed Nov 27 03:33:46 +0000 2013",
+								"favourites_count": 288,
+								"utc_offset": -18000,
+								"time_zone": "Central Time (US & Canada)",
+								"geo_enabled": false,
+								"verified": false,
+								"statuses_count": 748,
+								"lang": "en",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "FFFFFF",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/502166591027433472/dSN8P3hG_normal.jpeg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/502166591027433472/dSN8P3hG_normal.jpeg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/2217099931/1408561443",
+								"profile_link_color": "0084B4",
+								"profile_sidebar_border_color": "FFFFFF",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": false,
+								"has_extended_profile": false,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 593370001,
+				"id_str": "593370001",
+				"name": "Science GIFs⚛️",
+				"screen_name": "Learn_Things",
+				"location": "",
+				"description": "The best Science GIFs, Vines and videos!",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1144314,
+				"friends_count": 27,
+				"listed_count": 3533,
+				"created_at": "Tue May 29 04:49:10 +0000 2012",
+				"favourites_count": 4,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1399,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/541249547385982976/5IYaH6zA_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/541249547385982976/5IYaH6zA_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/593370001/1417880383",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 483,
+			"favorite_count": 1290,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 483,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Jul 12 20:35:29 +0000 2017",
 		"id": 885236191976620000,
 		"id_str": "885236191976620032",
