@@ -1,6 +1,360 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Thu Jul 13 20:44:16 +0000 2017",
+		"id": 885600787447115800,
+		"id_str": "885600787447115776",
+		"text": "RT @80s_Kidz: Fact https://t.co/86fluQiTlJ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "80s_Kidz",
+					"name": "80s Kidz",
+					"id": 2983850007,
+					"id_str": "2983850007",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 885597809474506800,
+					"id_str": "885597809474506752",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/DEpGg_-XkAAgwwP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DEpGg_-XkAAgwwP.jpg",
+					"url": "https://t.co/86fluQiTlJ",
+					"display_url": "pic.twitter.com/86fluQiTlJ",
+					"expanded_url": "https://twitter.com/80s_Kidz/status/885597825408663552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 885597825408663600,
+					"source_status_id_str": "885597825408663552",
+					"source_user_id": 2983850007,
+					"source_user_id_str": "2983850007"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 885597809474506800,
+					"id_str": "885597809474506752",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/DEpGg_-XkAAgwwP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DEpGg_-XkAAgwwP.jpg",
+					"url": "https://t.co/86fluQiTlJ",
+					"display_url": "pic.twitter.com/86fluQiTlJ",
+					"expanded_url": "https://twitter.com/80s_Kidz/status/885597825408663552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 885597825408663600,
+					"source_status_id_str": "885597825408663552",
+					"source_user_id": 2983850007,
+					"source_user_id_str": "2983850007"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9223,
+			"friends_count": 1851,
+			"listed_count": 615,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3360,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61691,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jul 13 20:32:29 +0000 2017",
+			"id": 885597825408663600,
+			"id_str": "885597825408663552",
+			"text": "Fact https://t.co/86fluQiTlJ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 885597809474506800,
+						"id_str": "885597809474506752",
+						"indices": [
+							5,
+							28
+						],
+						"media_url": "http://pbs.twimg.com/media/DEpGg_-XkAAgwwP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DEpGg_-XkAAgwwP.jpg",
+						"url": "https://t.co/86fluQiTlJ",
+						"display_url": "pic.twitter.com/86fluQiTlJ",
+						"expanded_url": "https://twitter.com/80s_Kidz/status/885597825408663552/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 885597809474506800,
+						"id_str": "885597809474506752",
+						"indices": [
+							5,
+							28
+						],
+						"media_url": "http://pbs.twimg.com/media/DEpGg_-XkAAgwwP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DEpGg_-XkAAgwwP.jpg",
+						"url": "https://t.co/86fluQiTlJ",
+						"display_url": "pic.twitter.com/86fluQiTlJ",
+						"expanded_url": "https://twitter.com/80s_Kidz/status/885597825408663552/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2983850007,
+				"id_str": "2983850007",
+				"name": "80s Kidz",
+				"screen_name": "80s_Kidz",
+				"location": "My treehouse-circa 1985",
+				"description": "Born in the 70s & grew up during the 80s? Then this is the Twitter page for you!! Lets reminisce about the greatest decade there ever was.70s stuff may appear.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 36608,
+				"friends_count": 227,
+				"listed_count": 175,
+				"created_at": "Sun Jan 18 10:16:43 +0000 2015",
+				"favourites_count": 325,
+				"utc_offset": 3600,
+				"time_zone": "Dublin",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7636,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/586888365737316354/m46EjVJh.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/586888365737316354/m46EjVJh.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/819980047322857472/6GvpfZ7L_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/819980047322857472/6GvpfZ7L_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2983850007/1496478073",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 23,
+			"favorite_count": 40,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Jul 13 20:11:26 +0000 2017",
 		"id": 885592524571783200,
 		"id_str": "885592524571783168",
