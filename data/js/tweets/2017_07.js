@@ -1,6 +1,810 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Thu Jul 13 16:13:05 +0000 2017",
+		"id": 885532542195163100,
+		"id_str": "885532542195163141",
+		"text": "RT @drewisgooden: Oh my god dude we get it, you've had sex, you can stop tweeting about it now https://t.co/CXPf6O18AF",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "drewisgooden",
+					"name": "Drew Gooden",
+					"id": 341924311,
+					"id_str": "341924311",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 885260207206674400,
+					"id_str": "885260207206674432",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/DEkTd9hXsAACrKD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DEkTd9hXsAACrKD.jpg",
+					"url": "https://t.co/CXPf6O18AF",
+					"display_url": "pic.twitter.com/CXPf6O18AF",
+					"expanded_url": "https://twitter.com/drewisgooden/status/885260212382445568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 750,
+							"h": 163,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 148,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 163,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 885260212382445600,
+					"source_status_id_str": "885260212382445568",
+					"source_user_id": 341924311,
+					"source_user_id_str": "341924311"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 885260207206674400,
+					"id_str": "885260207206674432",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/DEkTd9hXsAACrKD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DEkTd9hXsAACrKD.jpg",
+					"url": "https://t.co/CXPf6O18AF",
+					"display_url": "pic.twitter.com/CXPf6O18AF",
+					"expanded_url": "https://twitter.com/drewisgooden/status/885260212382445568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 750,
+							"h": 163,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 148,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 163,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 885260212382445600,
+					"source_status_id_str": "885260212382445568",
+					"source_user_id": 341924311,
+					"source_user_id_str": "341924311"
+				},
+				{
+					"id": 885260207210803200,
+					"id_str": "885260207210803200",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/DEkTd9iWsAAzVBz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DEkTd9iWsAAzVBz.jpg",
+					"url": "https://t.co/CXPf6O18AF",
+					"display_url": "pic.twitter.com/CXPf6O18AF",
+					"expanded_url": "https://twitter.com/drewisgooden/status/885260212382445568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 750,
+							"h": 602,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 546,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 602,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 885260212382445600,
+					"source_status_id_str": "885260212382445568",
+					"source_user_id": 341924311,
+					"source_user_id_str": "341924311"
+				},
+				{
+					"id": 885260207219146800,
+					"id_str": "885260207219146753",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/DEkTd9kWAAEEUJM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DEkTd9kWAAEEUJM.jpg",
+					"url": "https://t.co/CXPf6O18AF",
+					"display_url": "pic.twitter.com/CXPf6O18AF",
+					"expanded_url": "https://twitter.com/drewisgooden/status/885260212382445568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 678,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 752,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 752,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 885260212382445600,
+					"source_status_id_str": "885260212382445568",
+					"source_user_id": 341924311,
+					"source_user_id_str": "341924311"
+				},
+				{
+					"id": 885260207227535400,
+					"id_str": "885260207227535360",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/DEkTd9mWAAAs0KV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DEkTd9mWAAAs0KV.jpg",
+					"url": "https://t.co/CXPf6O18AF",
+					"display_url": "pic.twitter.com/CXPf6O18AF",
+					"expanded_url": "https://twitter.com/drewisgooden/status/885260212382445568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 1001,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1001,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 509,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 885260212382445600,
+					"source_status_id_str": "885260212382445568",
+					"source_user_id": 341924311,
+					"source_user_id_str": "341924311"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9222,
+			"friends_count": 1851,
+			"listed_count": 615,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3359,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61685,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jul 12 22:10:56 +0000 2017",
+			"id": 885260212382445600,
+			"id_str": "885260212382445568",
+			"text": "Oh my god dude we get it, you've had sex, you can stop tweeting about it now https://t.co/CXPf6O18AF",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 885260207206674400,
+						"id_str": "885260207206674432",
+						"indices": [
+							77,
+							100
+						],
+						"media_url": "http://pbs.twimg.com/media/DEkTd9hXsAACrKD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DEkTd9hXsAACrKD.jpg",
+						"url": "https://t.co/CXPf6O18AF",
+						"display_url": "pic.twitter.com/CXPf6O18AF",
+						"expanded_url": "https://twitter.com/drewisgooden/status/885260212382445568/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 750,
+								"h": 163,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 148,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 163,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 885260207206674400,
+						"id_str": "885260207206674432",
+						"indices": [
+							77,
+							100
+						],
+						"media_url": "http://pbs.twimg.com/media/DEkTd9hXsAACrKD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DEkTd9hXsAACrKD.jpg",
+						"url": "https://t.co/CXPf6O18AF",
+						"display_url": "pic.twitter.com/CXPf6O18AF",
+						"expanded_url": "https://twitter.com/drewisgooden/status/885260212382445568/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 750,
+								"h": 163,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 148,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 163,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 885260207210803200,
+						"id_str": "885260207210803200",
+						"indices": [
+							77,
+							100
+						],
+						"media_url": "http://pbs.twimg.com/media/DEkTd9iWsAAzVBz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DEkTd9iWsAAzVBz.jpg",
+						"url": "https://t.co/CXPf6O18AF",
+						"display_url": "pic.twitter.com/CXPf6O18AF",
+						"expanded_url": "https://twitter.com/drewisgooden/status/885260212382445568/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 750,
+								"h": 602,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 546,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 750,
+								"h": 602,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 885260207219146800,
+						"id_str": "885260207219146753",
+						"indices": [
+							77,
+							100
+						],
+						"media_url": "http://pbs.twimg.com/media/DEkTd9kWAAEEUJM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DEkTd9kWAAEEUJM.jpg",
+						"url": "https://t.co/CXPf6O18AF",
+						"display_url": "pic.twitter.com/CXPf6O18AF",
+						"expanded_url": "https://twitter.com/drewisgooden/status/885260212382445568/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 678,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 752,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 752,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 885260207227535400,
+						"id_str": "885260207227535360",
+						"indices": [
+							77,
+							100
+						],
+						"media_url": "http://pbs.twimg.com/media/DEkTd9mWAAAs0KV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DEkTd9mWAAAs0KV.jpg",
+						"url": "https://t.co/CXPf6O18AF",
+						"display_url": "pic.twitter.com/CXPf6O18AF",
+						"expanded_url": "https://twitter.com/drewisgooden/status/885260212382445568/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 750,
+								"h": 1001,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 1001,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 509,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 341924311,
+				"id_str": "341924311",
+				"name": "Drew Gooden",
+				"screen_name": "drewisgooden",
+				"location": "Internet",
+				"description": "I love to make content",
+				"url": "https://t.co/Q8CdgL3k6o",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Q8CdgL3k6o",
+								"expanded_url": "https://youtu.be/gIOJWGyATBA",
+								"display_url": "youtu.be/gIOJWGyATBA",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 30730,
+				"friends_count": 499,
+				"listed_count": 178,
+				"created_at": "Mon Jul 25 05:18:53 +0000 2011",
+				"favourites_count": 18361,
+				"utc_offset": -18000,
+				"time_zone": "Quito",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 8042,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/303067696/aurora_kuenzli.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/303067696/aurora_kuenzli.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/630630839106314240/h7zQP7H2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/630630839106314240/h7zQP7H2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/341924311/1491778221",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 22610,
+			"favorite_count": 93841,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 22610,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jul 13 16:11:06 +0000 2017",
+		"id": 885532043152691200,
+		"id_str": "885532043152691200",
+		"text": "En het is een Rijksmonument...\n\nWel hilarisch: bezichtiging op eigen risico... https://t.co/ULyXykxFNk",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ULyXykxFNk",
+					"expanded_url": "https://twitter.com/tweetvaria/status/885496734067118080",
+					"display_url": "twitter.com/tweetvaria/sta…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9222,
+			"friends_count": 1851,
+			"listed_count": 615,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3359,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61685,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 885496734067118100,
+		"quoted_status_id_str": "885496734067118080",
+		"quoted_status": {
+			"created_at": "Thu Jul 13 13:50:47 +0000 2017",
+			"id": 885496734067118100,
+			"id_str": "885496734067118080",
+			"text": "Ik zie potentie. Je moet een beetje door de foto's heenkijken... #funda https://t.co/j8Sb235QFN",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "funda",
+						"indices": [
+							65,
+							71
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/j8Sb235QFN",
+						"expanded_url": "http://www.funda.nl/koop/vlissingen/huis-49220601-molenstraat-43/",
+						"display_url": "funda.nl/koop/vlissinge…",
+						"indices": [
+							72,
+							95
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 139146732,
+				"id_str": "139146732",
+				"name": "Erwin Koster",
+				"screen_name": "tweetvaria",
+				"location": "Utrecht",
+				"description": "Werkt als interim-professional. Vindt werken leuk. Bokst, speelt piano en is liever thuis dan op vakantie...",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 486,
+				"friends_count": 378,
+				"listed_count": 22,
+				"created_at": "Sat May 01 17:54:59 +0000 2010",
+				"favourites_count": 4634,
+				"utc_offset": -7200,
+				"time_zone": "Greenland",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 21382,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/435328897186795520/OGOpzAEB.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/435328897186795520/OGOpzAEB.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/852618190110822404/vCnFLPVd_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/852618190110822404/vCnFLPVd_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/139146732/1397578415",
+				"profile_link_color": "909090",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "2C2C2C",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Wed Jul 12 21:57:54 +0000 2017",
 		"id": 885256932935835600,
 		"id_str": "885256932935835648",
