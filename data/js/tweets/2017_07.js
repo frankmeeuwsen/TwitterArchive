@@ -1,6 +1,329 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Tue Jul 18 20:05:53 +0000 2017",
+		"id": 887403068844900400,
+		"id_str": "887403068844900353",
+		"text": "#stuurgeenhulp #tuscanytrip #bellaitalia #mangiare #potabile https://t.co/3lqcRgrcOS",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "stuurgeenhulp",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"text": "tuscanytrip",
+					"indices": [
+						15,
+						27
+					]
+				},
+				{
+					"text": "bellaitalia",
+					"indices": [
+						28,
+						40
+					]
+				},
+				{
+					"text": "mangiare",
+					"indices": [
+						41,
+						50
+					]
+				},
+				{
+					"text": "potabile",
+					"indices": [
+						51,
+						60
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 887402814170955800,
+					"id_str": "887402814170955776",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/DFCwKGdXgAAa-Ab.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DFCwKGdXgAAa-Ab.jpg",
+					"url": "https://t.co/3lqcRgrcOS",
+					"display_url": "pic.twitter.com/3lqcRgrcOS",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/887403068844900353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 887402814170955800,
+					"id_str": "887402814170955776",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/DFCwKGdXgAAa-Ab.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DFCwKGdXgAAa-Ab.jpg",
+					"url": "https://t.co/3lqcRgrcOS",
+					"display_url": "pic.twitter.com/3lqcRgrcOS",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/887403068844900353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 887402814162554900,
+					"id_str": "887402814162554881",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/DFCwKGbXUAEtHxT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DFCwKGbXUAEtHxT.jpg",
+					"url": "https://t.co/3lqcRgrcOS",
+					"display_url": "pic.twitter.com/3lqcRgrcOS",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/887403068844900353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 887402814389006300,
+					"id_str": "887402814389006337",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/DFCwKHRWsAE_A6d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DFCwKHRWsAE_A6d.jpg",
+					"url": "https://t.co/3lqcRgrcOS",
+					"display_url": "pic.twitter.com/3lqcRgrcOS",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/887403068844900353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 887402814166761500,
+					"id_str": "887402814166761473",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/DFCwKGcXgAEbSFx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DFCwKGcXgAEbSFx.jpg",
+					"url": "https://t.co/3lqcRgrcOS",
+					"display_url": "pic.twitter.com/3lqcRgrcOS",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/887403068844900353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 810,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 810,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 538,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9225,
+			"friends_count": 1850,
+			"listed_count": 617,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3365,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61680,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Sat Jul 15 11:09:36 +0000 2017",
 		"id": 886180946302693400,
 		"id_str": "886180946302693376",
