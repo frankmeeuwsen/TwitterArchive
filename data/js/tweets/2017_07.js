@@ -1,6 +1,921 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Sat Jul 22 07:12:48 +0000 2017",
+		"id": 888658066975191000,
+		"id_str": "888658066975191040",
+		"text": "RT @SonderLawliet: a god among men https://t.co/xjYSmMVCvb",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SonderLawliet",
+					"name": "Slater",
+					"id": 281271429,
+					"id_str": "281271429",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 888146356250005500,
+					"id_str": "888146356250005504",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/DFNUZ8jW0AAfdFu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DFNUZ8jW0AAfdFu.jpg",
+					"url": "https://t.co/xjYSmMVCvb",
+					"display_url": "pic.twitter.com/xjYSmMVCvb",
+					"expanded_url": "https://twitter.com/SonderLawliet/status/888146360939282435/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 585,
+							"h": 797,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 499,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 585,
+							"h": 797,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 888146360939282400,
+					"source_status_id_str": "888146360939282435",
+					"source_user_id": 281271429,
+					"source_user_id_str": "281271429"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 888146356250005500,
+					"id_str": "888146356250005504",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/DFNUZ8jW0AAfdFu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DFNUZ8jW0AAfdFu.jpg",
+					"url": "https://t.co/xjYSmMVCvb",
+					"display_url": "pic.twitter.com/xjYSmMVCvb",
+					"expanded_url": "https://twitter.com/SonderLawliet/status/888146360939282435/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 585,
+							"h": 797,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 499,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 585,
+							"h": 797,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 888146360939282400,
+					"source_status_id_str": "888146360939282435",
+					"source_user_id": 281271429,
+					"source_user_id_str": "281271429"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9225,
+			"friends_count": 1851,
+			"listed_count": 617,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3369,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61668,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jul 20 21:19:28 +0000 2017",
+			"id": 888146360939282400,
+			"id_str": "888146360939282435",
+			"text": "a god among men https://t.co/xjYSmMVCvb",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 888146356250005500,
+						"id_str": "888146356250005504",
+						"indices": [
+							16,
+							39
+						],
+						"media_url": "http://pbs.twimg.com/media/DFNUZ8jW0AAfdFu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DFNUZ8jW0AAfdFu.jpg",
+						"url": "https://t.co/xjYSmMVCvb",
+						"display_url": "pic.twitter.com/xjYSmMVCvb",
+						"expanded_url": "https://twitter.com/SonderLawliet/status/888146360939282435/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 585,
+								"h": 797,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 499,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 585,
+								"h": 797,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 888146356250005500,
+						"id_str": "888146356250005504",
+						"indices": [
+							16,
+							39
+						],
+						"media_url": "http://pbs.twimg.com/media/DFNUZ8jW0AAfdFu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DFNUZ8jW0AAfdFu.jpg",
+						"url": "https://t.co/xjYSmMVCvb",
+						"display_url": "pic.twitter.com/xjYSmMVCvb",
+						"expanded_url": "https://twitter.com/SonderLawliet/status/888146360939282435/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 585,
+								"h": 797,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 499,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 585,
+								"h": 797,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 281271429,
+				"id_str": "281271429",
+				"name": "Slater",
+				"screen_name": "SonderLawliet",
+				"location": "Discord: SonderLawliet#5877",
+				"description": "I LIKE THICC BAGELS also I drink coffee",
+				"url": "https://t.co/zhEnxqQ7ez",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zhEnxqQ7ez",
+								"expanded_url": "https://www.twitch.tv/sonderlawliet",
+								"display_url": "twitch.tv/sonderlawliet",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3972,
+				"friends_count": 200,
+				"listed_count": 31,
+				"created_at": "Wed Apr 13 00:01:10 +0000 2011",
+				"favourites_count": 36193,
+				"utc_offset": -18000,
+				"time_zone": "Quito",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 38800,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/888179660605059072/EqPaHs9y_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/888179660605059072/EqPaHs9y_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/281271429/1500389119",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 20658,
+			"favorite_count": 31320,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 20658,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Jul 22 07:11:33 +0000 2017",
+		"id": 888657751580323800,
+		"id_str": "888657751580323840",
+		"text": "@soochoibosman Same place, same fun!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "soochoibosman",
+					"name": "Soo Choi-Bosman",
+					"id": 224308887,
+					"id_str": "224308887",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 888654204113498100,
+		"in_reply_to_status_id_str": "888654204113498112",
+		"in_reply_to_user_id": 224308887,
+		"in_reply_to_user_id_str": "224308887",
+		"in_reply_to_screen_name": "soochoibosman",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9225,
+			"friends_count": 1851,
+			"listed_count": 617,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3369,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61668,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "50ea617a56ad710c",
+			"url": "https://api.twitter.com/1.1/geo/id/50ea617a56ad710c.json",
+			"place_type": "city",
+			"name": "Cavriglia",
+			"full_name": "Cavriglia, Toscana",
+			"country_code": "IT",
+			"country": "Italy",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							11.3974342,
+							43.4790472
+						],
+						[
+							11.5218812,
+							43.4790472
+						],
+						[
+							11.5218812,
+							43.5868226
+						],
+						[
+							11.3974342,
+							43.5868226
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Jul 22 06:33:08 +0000 2017",
+		"id": 888648085706072000,
+		"id_str": "888648085706072064",
+		"text": "Belangrijkste moment van de #glampingleven: zijn er nog verse croissantjes of staat er al een rij tot buiten bij de… https://t.co/4L5r7gZQhZ",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "glampingleven",
+					"indices": [
+						28,
+						42
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4L5r7gZQhZ",
+					"expanded_url": "https://twitter.com/i/web/status/888648085706072064",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9225,
+			"friends_count": 1851,
+			"listed_count": 617,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3369,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61668,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "50ea617a56ad710c",
+			"url": "https://api.twitter.com/1.1/geo/id/50ea617a56ad710c.json",
+			"place_type": "city",
+			"name": "Cavriglia",
+			"full_name": "Cavriglia, Toscana",
+			"country_code": "IT",
+			"country": "Italy",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							11.3974342,
+							43.4790472
+						],
+						[
+							11.5218812,
+							43.4790472
+						],
+						[
+							11.5218812,
+							43.5868226
+						],
+						[
+							11.3974342,
+							43.5868226
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
+		"created_at": "Sat Jul 22 06:29:04 +0000 2017",
+		"id": 888647061159243800,
+		"id_str": "888647061159243777",
+		"text": "RT @iamTriggi: We take our hat off to industry-colleagues @thingtonhq who decide to shut down. Until a next time! Props to @tomcoates and h…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "iamTriggi",
+					"name": "Triggi",
+					"id": 3879014177,
+					"id_str": "3879014177",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "thingtonhq",
+					"name": "Thington",
+					"id": 239453824,
+					"id_str": "239453824",
+					"indices": [
+						58,
+						69
+					]
+				},
+				{
+					"screen_name": "tomcoates",
+					"name": "Tom Coates",
+					"id": 12514,
+					"id_str": "12514",
+					"indices": [
+						123,
+						133
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9225,
+			"friends_count": 1851,
+			"listed_count": 617,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3369,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61668,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jul 22 06:23:22 +0000 2017",
+			"id": 888645628196266000,
+			"id_str": "888645628196265985",
+			"text": "We take our hat off to industry-colleagues @thingtonhq who decide to shut down. Until a next time! Props to @tomcoates and his team!",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "thingtonhq",
+						"name": "Thington",
+						"id": 239453824,
+						"id_str": "239453824",
+						"indices": [
+							43,
+							54
+						]
+					},
+					{
+						"screen_name": "tomcoates",
+						"name": "Tom Coates",
+						"id": 12514,
+						"id_str": "12514",
+						"indices": [
+							108,
+							118
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3879014177,
+				"id_str": "3879014177",
+				"name": "Triggi",
+				"screen_name": "iamTriggi",
+				"location": "Amsterdam, Nederland",
+				"description": "Triggi makes smart devices smarter by connecting them to other devices, apps and services. Following your rules. What's your thing? \nhttps://t.co/wGluG8535r",
+				"url": "https://t.co/pBhJkA5cPz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pBhJkA5cPz",
+								"expanded_url": "http://www.triggi.com",
+								"display_url": "triggi.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/wGluG8535r",
+								"expanded_url": "http://triggi.com/app/",
+								"display_url": "triggi.com/app/",
+								"indices": [
+									133,
+									156
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 426,
+				"friends_count": 157,
+				"listed_count": 31,
+				"created_at": "Tue Oct 06 08:45:54 +0000 2015",
+				"favourites_count": 113,
+				"utc_offset": 7200,
+				"time_zone": "Amsterdam",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 647,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/707569736054231042/wfWgy8XS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/707569736054231042/wfWgy8XS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3879014177/1500374061",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Jul 21 20:00:07 +0000 2017",
 		"id": 888488783103967200,
 		"id_str": "888488783103967233",
