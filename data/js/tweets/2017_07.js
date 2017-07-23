@@ -1,6 +1,527 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Sun Jul 23 13:54:53 +0000 2017",
+		"id": 889121641976000500,
+		"id_str": "889121641976000512",
+		"text": "RT @qrush: How to be a parent in 2017 https://t.co/zpOWt9d7Jp",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "qrush",
+					"name": "Nick Quaranto 🇩🇪",
+					"id": 5743852,
+					"id_str": "5743852",
+					"indices": [
+						3,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 888874967408029700,
+					"id_str": "888874967408029697",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/DFXrEsoXsAESKeA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DFXrEsoXsAESKeA.jpg",
+					"url": "https://t.co/zpOWt9d7Jp",
+					"display_url": "pic.twitter.com/zpOWt9d7Jp",
+					"expanded_url": "https://twitter.com/qrush/status/888874973565267969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 538,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 759,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 759,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 888874973565268000,
+					"source_status_id_str": "888874973565267969",
+					"source_user_id": 5743852,
+					"source_user_id_str": "5743852"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 888874967408029700,
+					"id_str": "888874967408029697",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/DFXrEsoXsAESKeA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DFXrEsoXsAESKeA.jpg",
+					"url": "https://t.co/zpOWt9d7Jp",
+					"display_url": "pic.twitter.com/zpOWt9d7Jp",
+					"expanded_url": "https://twitter.com/qrush/status/888874973565267969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 538,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 759,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 759,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 888874973565268000,
+					"source_status_id_str": "888874973565267969",
+					"source_user_id": 5743852,
+					"source_user_id_str": "5743852"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9221,
+			"friends_count": 1851,
+			"listed_count": 617,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3371,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61658,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jul 22 21:34:42 +0000 2017",
+			"id": 888874973565268000,
+			"id_str": "888874973565267969",
+			"text": "How to be a parent in 2017 https://t.co/zpOWt9d7Jp",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 888874967408029700,
+						"id_str": "888874967408029697",
+						"indices": [
+							27,
+							50
+						],
+						"media_url": "http://pbs.twimg.com/media/DFXrEsoXsAESKeA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DFXrEsoXsAESKeA.jpg",
+						"url": "https://t.co/zpOWt9d7Jp",
+						"display_url": "pic.twitter.com/zpOWt9d7Jp",
+						"expanded_url": "https://twitter.com/qrush/status/888874973565267969/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 538,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 759,
+								"h": 960,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 759,
+								"h": 960,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 888874967408029700,
+						"id_str": "888874967408029697",
+						"indices": [
+							27,
+							50
+						],
+						"media_url": "http://pbs.twimg.com/media/DFXrEsoXsAESKeA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DFXrEsoXsAESKeA.jpg",
+						"url": "https://t.co/zpOWt9d7Jp",
+						"display_url": "pic.twitter.com/zpOWt9d7Jp",
+						"expanded_url": "https://twitter.com/qrush/status/888874973565267969/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 538,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 759,
+								"h": 960,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 759,
+								"h": 960,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5743852,
+				"id_str": "5743852",
+				"name": "Nick Quaranto 🇩🇪",
+				"screen_name": "qrush",
+				"location": "Berlin, Germany",
+				"description": "Building @CoworkBuffalo & @MxDesk. Started https://t.co/cMTBPJjX8Z 8 years ago. He/him.",
+				"url": "https://t.co/lJMUrPfM8T",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/lJMUrPfM8T",
+								"expanded_url": "http://quaran.to",
+								"display_url": "quaran.to",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/cMTBPJjX8Z",
+								"expanded_url": "http://rubygems.org",
+								"display_url": "rubygems.org",
+								"indices": [
+									43,
+									66
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 8758,
+				"friends_count": 2858,
+				"listed_count": 667,
+				"created_at": "Thu May 03 15:49:55 +0000 2007",
+				"favourites_count": 37542,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 42716,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/48504038/pattern.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/48504038/pattern.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/881207382843555841/BA5r_jQr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/881207382843555841/BA5r_jQr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5743852/1493974945",
+				"profile_link_color": "8A6E4E",
+				"profile_sidebar_border_color": "A88965",
+				"profile_sidebar_fill_color": "F0E2C0",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "3078869807f9dd36",
+				"url": "https://api.twitter.com/1.1/geo/id/3078869807f9dd36.json",
+				"place_type": "city",
+				"name": "Berlin",
+				"full_name": "Berlin, Germany",
+				"country_code": "DE",
+				"country": "Germany",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								13.088304,
+								52.338079
+							],
+							[
+								13.760909,
+								52.338079
+							],
+							[
+								13.760909,
+								52.675323
+							],
+							[
+								13.088304,
+								52.675323
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 778,
+			"favorite_count": 1295,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 778,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jul 23 13:42:53 +0000 2017",
+		"id": 889118621745762300,
+		"id_str": "889118621745762304",
+		"text": "@soochoibosman Gelukkig was het een uitzondering op de regel. Ik had het hier nog niet eerder meegemaakt. Na een uur waren ze terug...",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "soochoibosman",
+					"name": "Soo Choi-Bosman",
+					"id": 224308887,
+					"id_str": "224308887",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 889110055236358100,
+		"in_reply_to_status_id_str": "889110055236358144",
+		"in_reply_to_user_id": 224308887,
+		"in_reply_to_user_id_str": "224308887",
+		"in_reply_to_screen_name": "soochoibosman",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9221,
+			"friends_count": 1851,
+			"listed_count": 617,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3371,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61658,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Sun Jul 23 09:10:12 +0000 2017",
 		"id": 889050001128738800,
 		"id_str": "889050001128738816",
