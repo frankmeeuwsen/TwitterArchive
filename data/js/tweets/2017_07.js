@@ -1,6 +1,310 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Tue Jul 25 05:18:10 +0000 2017",
+		"id": 889716381628944400,
+		"id_str": "889716381628944385",
+		"text": "RT @th3j35t3r: WOW. Hit tweet &amp; scroll UP for full thread. Some of u may remember parts of it as it happened. She tried same w me. \nhttps:/…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "th3j35t3r",
+					"name": "JΞSŦΞR ✪ ΔCŦUΔL³³º¹",
+					"id": 97994396,
+					"id_str": "97994396",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9222,
+			"friends_count": 1853,
+			"listed_count": 617,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3372,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61664,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jul 25 04:02:28 +0000 2017",
+			"id": 889697331507077100,
+			"id_str": "889697331507077120",
+			"text": "WOW. Hit tweet &amp; scroll UP for full thread. Some of u may remember parts of it as it happened. She tried same w me. \nhttps://t.co/WliNBpkCbx",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/WliNBpkCbx",
+						"expanded_url": "https://twitter.com/FraudeTaylor1/status/889597110013788160",
+						"display_url": "twitter.com/FraudeTaylor1/…",
+						"indices": [
+							121,
+							144
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 97994396,
+				"id_str": "97994396",
+				"name": "JΞSŦΞR ✪ ΔCŦUΔL³³º¹",
+				"screen_name": "th3j35t3r",
+				"location": "https://keybase.io/th3j35t3r",
+				"description": "Cyber Minuteman ● Listed in TIME Mag 30 Most Influential Ppl on the Internet ● My laptop's in the Intl Spy Museum DC ● Cameo role in #MrRobot ● Creator #iAWACS",
+				"url": "https://t.co/cVw5RkuiCd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/cVw5RkuiCd",
+								"expanded_url": "https://jesterscourt.cc/jay-faves/",
+								"display_url": "jesterscourt.cc/jay-faves/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 194618,
+				"friends_count": 1337,
+				"listed_count": 3211,
+				"created_at": "Sat Dec 19 22:27:39 +0000 2009",
+				"favourites_count": 96321,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 20871,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "050000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/486366435841548290/I0QKGX8A.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/486366435841548290/I0QKGX8A.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/882565012962779136/7afpXenA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/882565012962779136/7afpXenA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/97994396/1426201632",
+				"profile_link_color": "73220B",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 889597110013788200,
+			"quoted_status_id_str": "889597110013788160",
+			"quoted_status": {
+				"created_at": "Mon Jul 24 21:24:13 +0000 2017",
+				"id": 889597110013788200,
+				"id_str": "889597110013788160",
+				"text": "61/ So would she rename her Twitter account as 'hackerish' looking \"CL3V3R_G1RL, if she was really and truly sorry… https://t.co/QSagtwsxaN",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/QSagtwsxaN",
+							"expanded_url": "https://twitter.com/i/web/status/889597110013788160",
+							"display_url": "twitter.com/i/web/status/8…",
+							"indices": [
+								116,
+								139
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": 889596948055031800,
+				"in_reply_to_status_id_str": "889596948055031808",
+				"in_reply_to_user_id": 867201591635583000,
+				"in_reply_to_user_id_str": "867201591635582977",
+				"in_reply_to_screen_name": "FraudeTaylor1",
+				"user": {
+					"id": 867201591635583000,
+					"id_str": "867201591635582977",
+					"name": "Fraude Taylor I",
+					"screen_name": "FraudeTaylor1",
+					"location": "Washington DC",
+					"description": "Veteran of one Twitter campaign. Got a lucky strike, now I am owned by Louise Mensch.",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 4148,
+					"friends_count": 227,
+					"listed_count": 13,
+					"created_at": "Wed May 24 02:12:26 +0000 2017",
+					"favourites_count": 3150,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 1671,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "F5F8FA",
+					"profile_background_image_url": null,
+					"profile_background_image_url_https": null,
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/887334933475213312/c2fr3aE9_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/887334933475213312/c2fr3aE9_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/867201591635582977/1497386757",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 6,
+				"favorite_count": 20,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 44,
+			"favorite_count": 125,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": true,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 889597110013788200,
+		"quoted_status_id_str": "889597110013788160",
+		"retweet_count": 44,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jul 24 20:11:16 +0000 2017",
 		"id": 889578753021628400,
 		"id_str": "889578753021628416",
