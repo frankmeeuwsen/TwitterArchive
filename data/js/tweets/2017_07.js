@@ -1,6 +1,588 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Mon Jul 31 20:10:21 +0000 2017",
+		"id": 892115237087973400,
+		"id_str": "892115237087973376",
+		"text": "RT @PiercedSkull: #Scaramucci\n\n(no caption necessary) https://t.co/vumKcIgHvg",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Scaramucci",
+					"indices": [
+						18,
+						29
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PiercedSkull",
+					"name": "Pin Head",
+					"id": 424210801,
+					"id_str": "424210801",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 892111906386960400,
+					"id_str": "892111906386960384",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/DGFrDWAXYAAoCj8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DGFrDWAXYAAoCj8.jpg",
+					"url": "https://t.co/vumKcIgHvg",
+					"display_url": "pic.twitter.com/vumKcIgHvg",
+					"expanded_url": "https://twitter.com/PiercedSkull/status/892111918357520384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 452,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 638,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 638,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 892111918357520400,
+					"source_status_id_str": "892111918357520384",
+					"source_user_id": 424210801,
+					"source_user_id_str": "424210801"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 892111906386960400,
+					"id_str": "892111906386960384",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/DGFrDWAXYAAoCj8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DGFrDWAXYAAoCj8.jpg",
+					"url": "https://t.co/vumKcIgHvg",
+					"display_url": "pic.twitter.com/vumKcIgHvg",
+					"expanded_url": "https://twitter.com/PiercedSkull/status/892111918357520384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 452,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 638,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 638,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 892111918357520400,
+					"source_status_id_str": "892111918357520384",
+					"source_user_id": 424210801,
+					"source_user_id_str": "424210801"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9215,
+			"friends_count": 1856,
+			"listed_count": 616,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3381,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61662,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jul 31 19:57:10 +0000 2017",
+			"id": 892111918357520400,
+			"id_str": "892111918357520384",
+			"text": "#Scaramucci\n\n(no caption necessary) https://t.co/vumKcIgHvg",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Scaramucci",
+						"indices": [
+							0,
+							11
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 892111906386960400,
+						"id_str": "892111906386960384",
+						"indices": [
+							36,
+							59
+						],
+						"media_url": "http://pbs.twimg.com/media/DGFrDWAXYAAoCj8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DGFrDWAXYAAoCj8.jpg",
+						"url": "https://t.co/vumKcIgHvg",
+						"display_url": "pic.twitter.com/vumKcIgHvg",
+						"expanded_url": "https://twitter.com/PiercedSkull/status/892111918357520384/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 452,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 638,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 638,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 892111906386960400,
+						"id_str": "892111906386960384",
+						"indices": [
+							36,
+							59
+						],
+						"media_url": "http://pbs.twimg.com/media/DGFrDWAXYAAoCj8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DGFrDWAXYAAoCj8.jpg",
+						"url": "https://t.co/vumKcIgHvg",
+						"display_url": "pic.twitter.com/vumKcIgHvg",
+						"expanded_url": "https://twitter.com/PiercedSkull/status/892111918357520384/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 452,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 638,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 638,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 424210801,
+				"id_str": "424210801",
+				"name": "Pin Head",
+				"screen_name": "PiercedSkull",
+				"location": "",
+				"description": "Changing the Twittersphere - by any MEMES necessary.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9613,
+				"friends_count": 2194,
+				"listed_count": 209,
+				"created_at": "Tue Nov 29 13:54:48 +0000 2011",
+				"favourites_count": 23376,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 43057,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ACDED6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/885942194066132992/Kmerb5zu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/885942194066132992/Kmerb5zu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/424210801/1500580082",
+				"profile_link_color": "FA260A",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "F6F6F6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 45,
+			"favorite_count": 94,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 45,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jul 31 20:09:48 +0000 2017",
+		"id": 892115096801030100,
+		"id_str": "892115096801030148",
+		"text": "RT @BettyBowers: John Kelly just bought one of these boards from Amtrak to announce Trump White House staff changes in real time. #Scaramuc…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BettyBowers",
+					"name": "Mrs. Betty Bowers",
+					"id": 46775436,
+					"id_str": "46775436",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9215,
+			"friends_count": 1856,
+			"listed_count": 616,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3381,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61662,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jul 31 19:56:20 +0000 2017",
+			"id": 892111707967021000,
+			"id_str": "892111707967021058",
+			"text": "John Kelly just bought one of these boards from Amtrak to announce Trump White House staff changes in real time.… https://t.co/Me7cXitOqG",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Me7cXitOqG",
+						"expanded_url": "https://twitter.com/i/web/status/892111707967021058",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							114,
+							137
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 46775436,
+				"id_str": "46775436",
+				"name": "Mrs. Betty Bowers",
+				"screen_name": "BettyBowers",
+				"location": "The Only Country God Likes",
+				"description": "Mrs. Betty Bowers, America's Best Christian™ is created and written by Andrew Bradley. CONTACT: AmericasBestChristian@gmail.com",
+				"url": "http://t.co/my3PSiyBtF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/my3PSiyBtF",
+								"expanded_url": "http://www.bettybowers.com",
+								"display_url": "bettybowers.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 97048,
+				"friends_count": 378,
+				"listed_count": 1399,
+				"created_at": "Fri Jun 12 23:28:17 +0000 2009",
+				"favourites_count": 1974,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7810,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C7589F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/624374704476782592/YBYnho_J.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/624374704476782592/YBYnho_J.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/863397939758202880/bj7o42a8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/863397939758202880/bj7o42a8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/46775436/1483544835",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 443,
+			"favorite_count": 1078,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 443,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jul 31 14:10:41 +0000 2017",
 		"id": 892024720341835800,
 		"id_str": "892024720341835777",
