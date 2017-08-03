@@ -1,6 +1,886 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Thu Aug 03 17:19:59 +0000 2017",
+		"id": 893159526354038800,
+		"id_str": "893159526354038784",
+		"text": "RT @MarkV: Wat er met een startup gebeurt als ze haar merkwaarden vergeet.\n\n https://t.co/aDyiaQVaPg \n\n#bunq #bunqpremium https://t.co/pY35…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "bunq",
+					"indices": [
+						103,
+						108
+					]
+				},
+				{
+					"text": "bunqpremium",
+					"indices": [
+						109,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MarkV",
+					"name": "Mark Vletter",
+					"id": 7287552,
+					"id_str": "7287552",
+					"indices": [
+						3,
+						9
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/aDyiaQVaPg",
+					"expanded_url": "https://markvletter.com/blog/debunqed/",
+					"display_url": "markvletter.com/blog/debunqed/",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9215,
+			"friends_count": 1857,
+			"listed_count": 616,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3388,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61640,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Aug 03 15:46:13 +0000 2017",
+			"id": 893135929048748000,
+			"id_str": "893135929048748036",
+			"text": "Wat er met een startup gebeurt als ze haar merkwaarden vergeet.\n\n https://t.co/aDyiaQVaPg \n\n#bunq #bunqpremium https://t.co/pY35ow0DOc",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "bunq",
+						"indices": [
+							92,
+							97
+						]
+					},
+					{
+						"text": "bunqpremium",
+						"indices": [
+							98,
+							110
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/aDyiaQVaPg",
+						"expanded_url": "https://markvletter.com/blog/debunqed/",
+						"display_url": "markvletter.com/blog/debunqed/",
+						"indices": [
+							66,
+							89
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 893135924699082800,
+						"id_str": "893135924699082753",
+						"indices": [
+							111,
+							134
+						],
+						"media_url": "http://pbs.twimg.com/media/DGUOZDfUMAEkYQ_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DGUOZDfUMAEkYQ_.jpg",
+						"url": "https://t.co/pY35ow0DOc",
+						"display_url": "pic.twitter.com/pY35ow0DOc",
+						"expanded_url": "https://twitter.com/MarkV/status/893135929048748036/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 839,
+								"h": 446,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 839,
+								"h": 446,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 361,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 893135924699082800,
+						"id_str": "893135924699082753",
+						"indices": [
+							111,
+							134
+						],
+						"media_url": "http://pbs.twimg.com/media/DGUOZDfUMAEkYQ_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DGUOZDfUMAEkYQ_.jpg",
+						"url": "https://t.co/pY35ow0DOc",
+						"display_url": "pic.twitter.com/pY35ow0DOc",
+						"expanded_url": "https://twitter.com/MarkV/status/893135929048748036/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 839,
+								"h": 446,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 839,
+								"h": 446,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 361,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 7287552,
+				"id_str": "7287552",
+				"name": "Mark Vletter",
+				"screen_name": "MarkV",
+				"location": "Groningen, The Netherlands",
+				"description": "Rebel with a cause @VoysNL and @WeAreSpindle. Father (3x), Husband (1x). Keynote speaker and columnist (#holacracy #workingwithoutbosses ao)",
+				"url": "https://t.co/oefCpAYlPm",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/oefCpAYlPm",
+								"expanded_url": "http://www.markvletter.com",
+								"display_url": "markvletter.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3480,
+				"friends_count": 972,
+				"listed_count": 109,
+				"created_at": "Fri Jul 06 09:28:41 +0000 2007",
+				"favourites_count": 10645,
+				"utc_offset": 7200,
+				"time_zone": "Amsterdam",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 20737,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/804589604510855168/_Bib-_o6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/804589604510855168/_Bib-_o6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/7287552/1447871631",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 17,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
+		"created_at": "Thu Aug 03 16:28:12 +0000 2017",
+		"id": 893146492256620500,
+		"id_str": "893146492256620544",
+		"text": "RT @AdamParkhomenko: the most normal thing in 2017 so far https://t.co/X05h6nQFrG",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AdamParkhomenko",
+					"name": "Adam Parkhomenko",
+					"id": 18382184,
+					"id_str": "18382184",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 892888250565574700,
+					"id_str": "892888250565574656",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/892888250565574656/pu/img/6hMRT5QFQ5u1YntJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/892888250565574656/pu/img/6hMRT5QFQ5u1YntJ.jpg",
+					"url": "https://t.co/X05h6nQFrG",
+					"display_url": "pic.twitter.com/X05h6nQFrG",
+					"expanded_url": "https://twitter.com/kfury/status/892888280810700804/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 892888280810700800,
+					"source_status_id_str": "892888280810700804",
+					"source_user_id": 785,
+					"source_user_id_str": "785"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 892888250565574700,
+					"id_str": "892888250565574656",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/892888250565574656/pu/img/6hMRT5QFQ5u1YntJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/892888250565574656/pu/img/6hMRT5QFQ5u1YntJ.jpg",
+					"url": "https://t.co/X05h6nQFrG",
+					"display_url": "pic.twitter.com/X05h6nQFrG",
+					"expanded_url": "https://twitter.com/kfury/status/892888280810700804/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 892888280810700800,
+					"source_status_id_str": "892888280810700804",
+					"source_user_id": 785,
+					"source_user_id_str": "785",
+					"video_info": {
+						"aspect_ratio": [
+							3,
+							4
+						],
+						"duration_millis": 5000,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/892888250565574656/pu/pl/aLdDtfv5wSjaa3MX.m3u8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/892888250565574656/pu/vid/480x640/gKnRFGey_B8EgxIw.mp4"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/892888250565574656/pu/vid/240x320/TAwR3ALkcLTXLUgn.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 785,
+							"id_str": "785",
+							"name": "Kevin Fox 🦊",
+							"screen_name": "kfury",
+							"location": "San Francisco Bay Area",
+							"description": "Mixing art and artificial intelligence. Co-founded @electricimp. Former designer @google, @facebook, @friendfeed, @mozilla, @yahoo.",
+							"url": "https://t.co/iPSO9JACS2",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/iPSO9JACS2",
+											"expanded_url": "http://kfury.com",
+											"display_url": "kfury.com",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 18291,
+							"friends_count": 1044,
+							"listed_count": 738,
+							"created_at": "Fri Jul 14 07:42:04 +0000 2006",
+							"favourites_count": 19033,
+							"utc_offset": -25200,
+							"time_zone": "Pacific Time (US & Canada)",
+							"geo_enabled": false,
+							"verified": true,
+							"statuses_count": 44609,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/833142395738820608/D7KMdJ8G_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/833142395738820608/D7KMdJ8G_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/785/1487471883",
+							"profile_link_color": "1B95E0",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": false,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9215,
+			"friends_count": 1857,
+			"listed_count": 616,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3388,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61640,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Aug 03 05:50:48 +0000 2017",
+			"id": 892986087475380200,
+			"id_str": "892986087475380224",
+			"text": "the most normal thing in 2017 so far https://t.co/X05h6nQFrG",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 892888250565574700,
+						"id_str": "892888250565574656",
+						"indices": [
+							37,
+							60
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/892888250565574656/pu/img/6hMRT5QFQ5u1YntJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/892888250565574656/pu/img/6hMRT5QFQ5u1YntJ.jpg",
+						"url": "https://t.co/X05h6nQFrG",
+						"display_url": "pic.twitter.com/X05h6nQFrG",
+						"expanded_url": "https://twitter.com/kfury/status/892888280810700804/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 453,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 960,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 800,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						},
+						"source_status_id": 892888280810700800,
+						"source_status_id_str": "892888280810700804",
+						"source_user_id": 785,
+						"source_user_id_str": "785"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 892888250565574700,
+						"id_str": "892888250565574656",
+						"indices": [
+							37,
+							60
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/892888250565574656/pu/img/6hMRT5QFQ5u1YntJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/892888250565574656/pu/img/6hMRT5QFQ5u1YntJ.jpg",
+						"url": "https://t.co/X05h6nQFrG",
+						"display_url": "pic.twitter.com/X05h6nQFrG",
+						"expanded_url": "https://twitter.com/kfury/status/892888280810700804/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 453,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 960,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 800,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						},
+						"source_status_id": 892888280810700800,
+						"source_status_id_str": "892888280810700804",
+						"source_user_id": 785,
+						"source_user_id_str": "785",
+						"video_info": {
+							"aspect_ratio": [
+								3,
+								4
+							],
+							"duration_millis": 5000,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/892888250565574656/pu/pl/aLdDtfv5wSjaa3MX.m3u8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/892888250565574656/pu/vid/480x640/gKnRFGey_B8EgxIw.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/892888250565574656/pu/vid/240x320/TAwR3ALkcLTXLUgn.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 785,
+								"id_str": "785",
+								"name": "Kevin Fox 🦊",
+								"screen_name": "kfury",
+								"location": "San Francisco Bay Area",
+								"description": "Mixing art and artificial intelligence. Co-founded @electricimp. Former designer @google, @facebook, @friendfeed, @mozilla, @yahoo.",
+								"url": "https://t.co/iPSO9JACS2",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/iPSO9JACS2",
+												"expanded_url": "http://kfury.com",
+												"display_url": "kfury.com",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 18291,
+								"friends_count": 1044,
+								"listed_count": 738,
+								"created_at": "Fri Jul 14 07:42:04 +0000 2006",
+								"favourites_count": 19033,
+								"utc_offset": -25200,
+								"time_zone": "Pacific Time (US & Canada)",
+								"geo_enabled": false,
+								"verified": true,
+								"statuses_count": 44609,
+								"lang": "en",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "000000",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/833142395738820608/D7KMdJ8G_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/833142395738820608/D7KMdJ8G_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/785/1487471883",
+								"profile_link_color": "1B95E0",
+								"profile_sidebar_border_color": "000000",
+								"profile_sidebar_fill_color": "000000",
+								"profile_text_color": "000000",
+								"profile_use_background_image": false,
+								"has_extended_profile": true,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18382184,
+				"id_str": "18382184",
+				"name": "Adam Parkhomenko",
+				"screen_name": "AdamParkhomenko",
+				"location": "✈️🚅🚙",
+				"description": "Father, Longtime Hillary aide, Ukrainian-American, GMU Criminology, Law & Society Alum, Ready for Hillary Founder, First Responder, among other things.",
+				"url": "https://t.co/3QVeRQFQDR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/3QVeRQFQDR",
+								"expanded_url": "http://AdamParkhomenko.com",
+								"display_url": "AdamParkhomenko.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 158449,
+				"friends_count": 135396,
+				"listed_count": 1522,
+				"created_at": "Fri Dec 26 01:30:43 +0000 2008",
+				"favourites_count": 43250,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 34281,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/436925855063764992/0WzFDDVH.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/436925855063764992/0WzFDDVH.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/881993514351042560/qdkroVWw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/881993514351042560/qdkroVWw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18382184/1498035472",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 44719,
+			"favorite_count": 76886,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 44719,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Aug 03 15:09:50 +0000 2017",
 		"id": 893126772111401000,
 		"id_str": "893126772111400960",
