@@ -1,6 +1,490 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Thu Aug 03 21:02:54 +0000 2017",
+		"id": 893215622049484800,
+		"id_str": "893215622049484803",
+		"text": "Morgen overal ingelaste \"inhaak\"-brainstorms met social teams. Mediabureaus passen nog even tarieven_Q3.pdf aan. https://t.co/HupGGxCO7P",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HupGGxCO7P",
+					"expanded_url": "https://twitter.com/petradeboevere/status/893213074580176896",
+					"display_url": "twitter.com/petradeboevere…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9215,
+			"friends_count": 1856,
+			"listed_count": 616,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3393,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61647,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "871685aa82f8a489",
+			"url": "https://api.twitter.com/1.1/geo/id/871685aa82f8a489.json",
+			"place_type": "city",
+			"name": "Utrecht",
+			"full_name": "Utrecht, The Netherlands",
+			"country_code": "NL",
+			"country": "The Netherlands",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							4.9702867,
+							52.0262429
+						],
+						[
+							5.1952468,
+							52.0262429
+						],
+						[
+							5.1952468,
+							52.142137
+						],
+						[
+							4.9702867,
+							52.142137
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 893213074580176900,
+		"quoted_status_id_str": "893213074580176896",
+		"quoted_status": {
+			"created_at": "Thu Aug 03 20:52:46 +0000 2017",
+			"id": 893213074580176900,
+			"id_str": "893213074580176896",
+			"text": "En alle merken hebben de rondvaartboot gemist. Geen Bavariajurkjes, Heinekentoeters of oranje mayonaise. Marketeers eat your heart out.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1358811,
+				"id_str": "1358811",
+				"name": "Petra de Boevere",
+				"screen_name": "PetradeBoevere",
+				"location": "Breskens en Sluis",
+				"description": "Waan v/d dag tussen flessen. Ondernemer, columniste, auteur Meisje van de Slijterij 2010, Durf te Doen 2013, ONL https://t.co/GOItlmdURE ®",
+				"url": "http://t.co/RGyvMkumWl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/RGyvMkumWl",
+								"expanded_url": "http://www.devuurtoren.nl",
+								"display_url": "devuurtoren.nl",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/GOItlmdURE",
+								"expanded_url": "http://www.meisjevandeslijterij.nl",
+								"display_url": "meisjevandeslijterij.nl",
+								"indices": [
+									113,
+									136
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 13760,
+				"friends_count": 3101,
+				"listed_count": 736,
+				"created_at": "Sat Mar 17 15:40:13 +0000 2007",
+				"favourites_count": 6965,
+				"utc_offset": 7200,
+				"time_zone": "Amsterdam",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 350,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1657",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/563379557827235840/FZb3LIZx.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/563379557827235840/FZb3LIZx.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3383570917/0751d5614efa13f6b9ba0893be5035c6_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3383570917/0751d5614efa13f6b9ba0893be5035c6_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1358811/1398241179",
+				"profile_link_color": "1A1657",
+				"profile_sidebar_border_color": "FF9933",
+				"profile_sidebar_fill_color": "FF9933",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 19,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "nl"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
+		"created_at": "Thu Aug 03 20:31:56 +0000 2017",
+		"id": 893207829624082400,
+		"id_str": "893207829624082432",
+		"text": "RT @PearlJam: On 8/3/1991, the music video for #PearlJam's first single, “Alive,” was filmed at a concert at Seattle's RKCNDY. https://t.co…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PearlJam",
+					"indices": [
+						47,
+						56
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PearlJam",
+					"name": "Pearl Jam",
+					"id": 15155074,
+					"id_str": "15155074",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9215,
+			"friends_count": 1856,
+			"listed_count": 616,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3393,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61647,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Aug 03 20:26:00 +0000 2017",
+			"id": 893206337974411300,
+			"id_str": "893206337974411265",
+			"text": "On 8/3/1991, the music video for #PearlJam's first single, “Alive,” was filmed at a concert at Seattle's RKCNDY. https://t.co/ObGKUpSJbO",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "PearlJam",
+						"indices": [
+							33,
+							42
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ObGKUpSJbO",
+						"expanded_url": "http://bit.ly/pj-alive",
+						"display_url": "bit.ly/pj-alive",
+						"indices": [
+							113,
+							136
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15155074,
+				"id_str": "15155074",
+				"name": "Pearl Jam",
+				"screen_name": "PearlJam",
+				"location": "Seattle, WA",
+				"description": "Pearl Jam have launched a brand new website. Discover more:  https://t.co/1TasMMHPhd",
+				"url": "https://t.co/J95aoJ5FKF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/J95aoJ5FKF",
+								"expanded_url": "http://www.PearlJam.com",
+								"display_url": "PearlJam.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/1TasMMHPhd",
+								"expanded_url": "http://PearlJam.com",
+								"display_url": "PearlJam.com",
+								"indices": [
+									61,
+									84
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3573499,
+				"friends_count": 791,
+				"listed_count": 18348,
+				"created_at": "Wed Jun 18 06:59:14 +0000 2008",
+				"favourites_count": 1240,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 5671,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/458709139665846272/xuqdWuDa.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/458709139665846272/xuqdWuDa.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/826481620999864320/iCp_gDwp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/826481620999864320/iCp_gDwp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15155074/1485883530",
+				"profile_link_color": "A47D41",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 150,
+			"favorite_count": 439,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 150,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Aug 03 20:04:49 +0000 2017",
 		"id": 893201005533376500,
 		"id_str": "893201005533376513",
