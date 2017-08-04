@@ -1,6 +1,559 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Fri Aug 04 19:42:37 +0000 2017",
+		"id": 893557806707740700,
+		"id_str": "893557806707740673",
+		"text": "RT @whoismrrobot: The old world is dead. It's time to create a new one.\n\nseason_3.0. #MrRobot. 10.11. @USA_Network. https://t.co/abr7zEEWiK",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MrRobot",
+					"indices": [
+						85,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "whoismrrobot",
+					"name": "Mr. Robot",
+					"id": 3066551830,
+					"id_str": "3066551830",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "USA_Network",
+					"name": "USA Network",
+					"id": 19777078,
+					"id_str": "19777078",
+					"indices": [
+						102,
+						114
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 893555999616925700,
+					"id_str": "893555999616925696",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/DGaNDGlXsAEiUAD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DGaNDGlXsAEiUAD.jpg",
+					"url": "https://t.co/abr7zEEWiK",
+					"display_url": "pic.twitter.com/abr7zEEWiK",
+					"expanded_url": "https://twitter.com/whoismrrobot/status/893556770056142848/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1282,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 893556770056142800,
+					"source_status_id_str": "893556770056142848",
+					"source_user_id": 3066551830,
+					"source_user_id_str": "3066551830"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 893555999616925700,
+					"id_str": "893555999616925696",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/DGaNDGlXsAEiUAD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DGaNDGlXsAEiUAD.jpg",
+					"url": "https://t.co/abr7zEEWiK",
+					"display_url": "pic.twitter.com/abr7zEEWiK",
+					"expanded_url": "https://twitter.com/whoismrrobot/status/893556770056142848/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1282,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 893556770056142800,
+					"source_status_id_str": "893556770056142848",
+					"source_user_id": 3066551830,
+					"source_user_id_str": "3066551830",
+					"video_info": {
+						"aspect_ratio": [
+							130,
+							73
+						],
+						"duration_millis": 60061,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/893555999616925696/vid/1282x720/gM9i3CUsr9N5CcEB.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/893555999616925696/pl/FnD8pxJ1Yi9Q2aVj.m3u8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/893555999616925696/vid/640x360/4hqcvFRVBr-SH48g.mp4"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/893555999616925696/vid/320x180/KJG0Vh2bygCFXAJX.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false,
+						"source_user": {
+							"id": 3066551830,
+							"id_str": "3066551830",
+							"name": "Mr. Robot",
+							"screen_name": "whoismrrobot",
+							"location": "",
+							"description": "Catch up on season_2.0 of #MrRobot on @AmazonVideo https://t.co/KyAbLoadRy",
+							"url": "http://t.co/sk8Rh3vWlW",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "http://t.co/sk8Rh3vWlW",
+											"expanded_url": "http://www.usanetwork.com/mrrobot",
+											"display_url": "usanetwork.com/mrrobot",
+											"indices": [
+												0,
+												22
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": [
+										{
+											"url": "https://t.co/KyAbLoadRy",
+											"expanded_url": "http://usanet.tv/2vgzLtj",
+											"display_url": "usanet.tv/2vgzLtj",
+											"indices": [
+												51,
+												74
+											]
+										}
+									]
+								}
+							},
+							"protected": false,
+							"followers_count": 413901,
+							"friends_count": 1177,
+							"listed_count": 1703,
+							"created_at": "Tue Mar 03 00:44:21 +0000 2015",
+							"favourites_count": 2247,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 17616,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/644191726643445761/kSPfYZXR.jpg",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/644191726643445761/kSPfYZXR.jpg",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/875092513991872512/PHtQ3Q8q_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/875092513991872512/PHtQ3Q8q_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/3066551830/1497473273",
+							"profile_link_color": "0084B4",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "regular"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9220,
+			"friends_count": 1857,
+			"listed_count": 616,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3393,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61605,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Aug 04 19:38:30 +0000 2017",
+			"id": 893556770056142800,
+			"id_str": "893556770056142848",
+			"text": "The old world is dead. It's time to create a new one.\n\nseason_3.0. #MrRobot. 10.11. @USA_Network. https://t.co/abr7zEEWiK",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MrRobot",
+						"indices": [
+							67,
+							75
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "USA_Network",
+						"name": "USA Network",
+						"id": 19777078,
+						"id_str": "19777078",
+						"indices": [
+							84,
+							96
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 893555999616925700,
+						"id_str": "893555999616925696",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/DGaNDGlXsAEiUAD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DGaNDGlXsAEiUAD.jpg",
+						"url": "https://t.co/abr7zEEWiK",
+						"display_url": "pic.twitter.com/abr7zEEWiK",
+						"expanded_url": "https://twitter.com/whoismrrobot/status/893556770056142848/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1282,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 674,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 893555999616925700,
+						"id_str": "893555999616925696",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/DGaNDGlXsAEiUAD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DGaNDGlXsAEiUAD.jpg",
+						"url": "https://t.co/abr7zEEWiK",
+						"display_url": "pic.twitter.com/abr7zEEWiK",
+						"expanded_url": "https://twitter.com/whoismrrobot/status/893556770056142848/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1282,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 674,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								130,
+								73
+							],
+							"duration_millis": 60061,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/893555999616925696/vid/1282x720/gM9i3CUsr9N5CcEB.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/893555999616925696/pl/FnD8pxJ1Yi9Q2aVj.m3u8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/893555999616925696/vid/640x360/4hqcvFRVBr-SH48g.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/893555999616925696/vid/320x180/KJG0Vh2bygCFXAJX.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3066551830,
+				"id_str": "3066551830",
+				"name": "Mr. Robot",
+				"screen_name": "whoismrrobot",
+				"location": "",
+				"description": "Catch up on season_2.0 of #MrRobot on @AmazonVideo https://t.co/KyAbLoadRy",
+				"url": "http://t.co/sk8Rh3vWlW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/sk8Rh3vWlW",
+								"expanded_url": "http://www.usanetwork.com/mrrobot",
+								"display_url": "usanetwork.com/mrrobot",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/KyAbLoadRy",
+								"expanded_url": "http://usanet.tv/2vgzLtj",
+								"display_url": "usanet.tv/2vgzLtj",
+								"indices": [
+									51,
+									74
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 413901,
+				"friends_count": 1177,
+				"listed_count": 1703,
+				"created_at": "Tue Mar 03 00:44:21 +0000 2015",
+				"favourites_count": 2247,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 17616,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/644191726643445761/kSPfYZXR.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/644191726643445761/kSPfYZXR.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/875092513991872512/PHtQ3Q8q_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875092513991872512/PHtQ3Q8q_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3066551830/1497473273",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1822,
+			"favorite_count": 2209,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1822,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Aug 04 15:59:28 +0000 2017",
 		"id": 893501649943011300,
 		"id_str": "893501649943011329",
