@@ -1,6 +1,419 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Sat Aug 05 14:42:00 +0000 2017",
+		"id": 893844542537052200,
+		"id_str": "893844542537052160",
+		"text": "RT @thememegifs: Neil deGrasse Tyson\nhttps://t.co/D1gNXfyEgU https://t.co/qJhGS6CwCW",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thememegifs",
+					"name": "The Memegifs 🌵",
+					"id": 2598764419,
+					"id_str": "2598764419",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/D1gNXfyEgU",
+					"expanded_url": "http://thememegifs.tumblr.com/post/163826830586/neil-degrasse-tyson",
+					"display_url": "thememegifs.tumblr.com/post/163826830…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 893807902003212300,
+					"id_str": "893807902003212288",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DGdxjSBWsAA0_UC.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DGdxjSBWsAA0_UC.jpg",
+					"url": "https://t.co/qJhGS6CwCW",
+					"display_url": "pic.twitter.com/qJhGS6CwCW",
+					"expanded_url": "https://twitter.com/thememegifs/status/893808003459276800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 300,
+							"h": 300,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 300,
+							"h": 300,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 300,
+							"h": 300,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 893808003459276800,
+					"source_status_id_str": "893808003459276800",
+					"source_user_id": 2598764419,
+					"source_user_id_str": "2598764419"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 893807902003212300,
+					"id_str": "893807902003212288",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DGdxjSBWsAA0_UC.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DGdxjSBWsAA0_UC.jpg",
+					"url": "https://t.co/qJhGS6CwCW",
+					"display_url": "pic.twitter.com/qJhGS6CwCW",
+					"expanded_url": "https://twitter.com/thememegifs/status/893808003459276800/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 300,
+							"h": 300,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 300,
+							"h": 300,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 300,
+							"h": 300,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 893808003459276800,
+					"source_status_id_str": "893808003459276800",
+					"source_user_id": 2598764419,
+					"source_user_id_str": "2598764419",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DGdxjSBWsAA0_UC.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9220,
+			"friends_count": 1858,
+			"listed_count": 616,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3394,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61606,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Aug 05 12:16:48 +0000 2017",
+			"id": 893808003459276800,
+			"id_str": "893808003459276800",
+			"text": "Neil deGrasse Tyson\nhttps://t.co/D1gNXfyEgU https://t.co/qJhGS6CwCW",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/D1gNXfyEgU",
+						"expanded_url": "http://thememegifs.tumblr.com/post/163826830586/neil-degrasse-tyson",
+						"display_url": "thememegifs.tumblr.com/post/163826830…",
+						"indices": [
+							20,
+							43
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 893807902003212300,
+						"id_str": "893807902003212288",
+						"indices": [
+							44,
+							67
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DGdxjSBWsAA0_UC.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DGdxjSBWsAA0_UC.jpg",
+						"url": "https://t.co/qJhGS6CwCW",
+						"display_url": "pic.twitter.com/qJhGS6CwCW",
+						"expanded_url": "https://twitter.com/thememegifs/status/893808003459276800/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 300,
+								"h": 300,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 300,
+								"h": 300,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 300,
+								"h": 300,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 893807902003212300,
+						"id_str": "893807902003212288",
+						"indices": [
+							44,
+							67
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DGdxjSBWsAA0_UC.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DGdxjSBWsAA0_UC.jpg",
+						"url": "https://t.co/qJhGS6CwCW",
+						"display_url": "pic.twitter.com/qJhGS6CwCW",
+						"expanded_url": "https://twitter.com/thememegifs/status/893808003459276800/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"large": {
+								"w": 300,
+								"h": 300,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 300,
+								"h": 300,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 300,
+								"h": 300,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/DGdxjSBWsAA0_UC.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2598764419,
+				"id_str": "2598764419",
+				"name": "The Memegifs 🌵",
+				"screen_name": "thememegifs",
+				"location": "Internet",
+				"description": "Gif edits and memes.\n\nIt's pronounced 'JIF' not 'GIF'.",
+				"url": "https://t.co/xZ6P0bYTjC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/xZ6P0bYTjC",
+								"expanded_url": "http://thememegifs.tumblr.com/",
+								"display_url": "thememegifs.tumblr.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3465,
+				"friends_count": 7,
+				"listed_count": 25,
+				"created_at": "Tue Jul 01 23:50:52 +0000 2014",
+				"favourites_count": 90,
+				"utc_offset": 10800,
+				"time_zone": "Istanbul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1545,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "404040",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/637683112709910528/toPLSLAF.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/637683112709910528/toPLSLAF.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/715889651584745473/3OQDeoy4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/715889651584745473/3OQDeoy4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2598764419/1440348716",
+				"profile_link_color": "468499",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "cy"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "cy"
+	},
+	{
 		"created_at": "Fri Aug 04 19:42:37 +0000 2017",
 		"id": 893557806707740700,
 		"id_str": "893557806707740673",
