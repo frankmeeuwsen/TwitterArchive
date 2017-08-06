@@ -1,6 +1,536 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Sun Aug 06 10:25:45 +0000 2017",
+		"id": 894142444018774000,
+		"id_str": "894142444018774016",
+		"text": "RT @Stickerart030: Dies de Los Muertos. Or it's a party by @c.s.veritas last year // https://t.co/BIeniBPOsI https://t.co/GazpsOl9jv",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Stickerart030",
+					"name": "Stickerart 030",
+					"id": 762370834824650800,
+					"id_str": "762370834824650752",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "c",
+					"name": "Coley",
+					"id": 632173,
+					"id_str": "632173",
+					"indices": [
+						59,
+						61
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BIeniBPOsI",
+					"expanded_url": "http://zpr.io/PvCiT",
+					"display_url": "zpr.io/PvCiT",
+					"indices": [
+						85,
+						108
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 894127021412028400,
+					"id_str": "894127021412028416",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/DGiTyedXkAAYm5H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DGiTyedXkAAYm5H.jpg",
+					"url": "https://t.co/GazpsOl9jv",
+					"display_url": "pic.twitter.com/GazpsOl9jv",
+					"expanded_url": "https://twitter.com/Stickerart030/status/894127023676850176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 894127023676850200,
+					"source_status_id_str": "894127023676850176",
+					"source_user_id": 762370834824650800,
+					"source_user_id_str": "762370834824650752"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 894127021412028400,
+					"id_str": "894127021412028416",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/DGiTyedXkAAYm5H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DGiTyedXkAAYm5H.jpg",
+					"url": "https://t.co/GazpsOl9jv",
+					"display_url": "pic.twitter.com/GazpsOl9jv",
+					"expanded_url": "https://twitter.com/Stickerart030/status/894127023676850176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 894127023676850200,
+					"source_status_id_str": "894127023676850176",
+					"source_user_id": 762370834824650800,
+					"source_user_id_str": "762370834824650752"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9222,
+			"friends_count": 1859,
+			"listed_count": 616,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3394,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61609,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Aug 06 09:24:29 +0000 2017",
+			"id": 894127023676850200,
+			"id_str": "894127023676850176",
+			"text": "Dies de Los Muertos. Or it's a party by @c.s.veritas last year // https://t.co/BIeniBPOsI https://t.co/GazpsOl9jv",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "c",
+						"name": "Coley",
+						"id": 632173,
+						"id_str": "632173",
+						"indices": [
+							40,
+							42
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/BIeniBPOsI",
+						"expanded_url": "http://zpr.io/PvCiT",
+						"display_url": "zpr.io/PvCiT",
+						"indices": [
+							66,
+							89
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 894127021412028400,
+						"id_str": "894127021412028416",
+						"indices": [
+							90,
+							113
+						],
+						"media_url": "http://pbs.twimg.com/media/DGiTyedXkAAYm5H.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DGiTyedXkAAYm5H.jpg",
+						"url": "https://t.co/GazpsOl9jv",
+						"display_url": "pic.twitter.com/GazpsOl9jv",
+						"expanded_url": "https://twitter.com/Stickerart030/status/894127023676850176/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 894127021412028400,
+						"id_str": "894127021412028416",
+						"indices": [
+							90,
+							113
+						],
+						"media_url": "http://pbs.twimg.com/media/DGiTyedXkAAYm5H.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DGiTyedXkAAYm5H.jpg",
+						"url": "https://t.co/GazpsOl9jv",
+						"display_url": "pic.twitter.com/GazpsOl9jv",
+						"expanded_url": "https://twitter.com/Stickerart030/status/894127023676850176/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://zapier.com/\" rel=\"nofollow\">Zapier.com</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 762370834824650800,
+				"id_str": "762370834824650752",
+				"name": "Stickerart 030",
+				"screen_name": "Stickerart030",
+				"location": "Utrecht, The Netherlands",
+				"description": "Forwarded Instagram account for Stickerart in Utrecht | Exterior Decoration Curator | Adhesive Enthousiast | Slap the surface",
+				"url": "https://t.co/YY6bXuaEw3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YY6bXuaEw3",
+								"expanded_url": "https://www.instagram.com/stickerart030/",
+								"display_url": "instagram.com/stickerart030/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12,
+				"friends_count": 8,
+				"listed_count": 0,
+				"created_at": "Sun Aug 07 19:32:26 +0000 2016",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 279,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/762371481120739328/qLHdAO3H_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/762371481120739328/qLHdAO3H_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/762370834824650752/1470598540",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Aug 06 10:23:29 +0000 2017",
+		"id": 894141874222530600,
+		"id_str": "894141874222530561",
+		"text": "Reddit meme gebruiken voor een advertentie op @Marktplaats, ik kan dat. https://t.co/Pe0LMNU8lT\n(PS: Mooie klok! Altijd binnengehangen!)",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Marktplaats",
+					"name": "Marktplaats",
+					"id": 271321218,
+					"id_str": "271321218",
+					"indices": [
+						46,
+						58
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Pe0LMNU8lT",
+					"expanded_url": "https://link.marktplaats.nl/m1190666893",
+					"display_url": "link.marktplaats.nl/m1190666893",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9222,
+			"friends_count": 1859,
+			"listed_count": 616,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3394,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61609,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Sat Aug 05 21:38:14 +0000 2017",
 		"id": 893949291043147800,
 		"id_str": "893949291043147780",
