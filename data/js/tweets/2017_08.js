@@ -1,6 +1,467 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Wed Aug 09 20:50:37 +0000 2017",
+		"id": 895386861631352800,
+		"id_str": "895386861631352832",
+		"text": "RT @timmaughan: Before you drop 5 bucks on that cheap bodega phone charger: this one has a SIM and GPS hidden in it to steal your info http…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "timmaughan",
+					"name": "Tim Maughan",
+					"id": 19285268,
+					"id_str": "19285268",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9218,
+			"friends_count": 1862,
+			"listed_count": 616,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3402,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61612,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Aug 08 17:23:49 +0000 2017",
+			"id": 894972428736221200,
+			"id_str": "894972428736221188",
+			"text": "Before you drop 5 bucks on that cheap bodega phone charger: this one has a SIM and GPS hidden in it to steal your i… https://t.co/j6Q4Vfofwd",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/j6Q4Vfofwd",
+						"expanded_url": "https://twitter.com/i/web/status/894972428736221188",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19285268,
+				"id_str": "19285268",
+				"name": "Tim Maughan",
+				"screen_name": "timmaughan",
+				"location": "Brooklyn, NY",
+				"description": "Writer. Debut novel INFINITE DETAIL forthcoming on FSG. Bylines at BBC, Motherboard, New Scientist. Brit. If found lost in subway please return to @savasavasava",
+				"url": "https://t.co/7LVpnv5XGc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7LVpnv5XGc",
+								"expanded_url": "https://www.clippings.me/timmaughan",
+								"display_url": "clippings.me/timmaughan",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8332,
+				"friends_count": 2407,
+				"listed_count": 470,
+				"created_at": "Wed Jan 21 12:15:15 +0000 2009",
+				"favourites_count": 31386,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 130778,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "82DEE3",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/265147813/paintwork1.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/265147813/paintwork1.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/795049217450528772/IjP8JcHV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/795049217450528772/IjP8JcHV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19285268/1479402276",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "131B0E",
+				"profile_sidebar_fill_color": "1A1A1F",
+				"profile_text_color": "B3A696",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 894789440584929300,
+			"quoted_status_id_str": "894789440584929281",
+			"quoted_status": {
+				"created_at": "Tue Aug 08 05:16:41 +0000 2017",
+				"id": 894789440584929300,
+				"id_str": "894789440584929281",
+				"text": "中国のUSB充電アダプター型盗聴器が先進的すぎる。\n充電器の上のふたを開けると、なんとSIMスロットがある。\nSIMカードを挿入した状態で、このSIMカードの電話番号宛にSMSを送ると、コールバックし、これに出ると盗聴できる仕様。… https://t.co/B9t3S0kfdq",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/B9t3S0kfdq",
+							"expanded_url": "https://twitter.com/i/web/status/894789440584929281",
+							"display_url": "twitter.com/i/web/status/8…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 2264213035,
+					"id_str": "2264213035",
+					"name": "若ちゃん",
+					"screen_name": "wk_tyn",
+					"location": "ITF/coins/埼玉/雀荘/実委jsys16",
+					"description": "ActionScript、Swift、PHPでの開発。 ジャンカーでガジェクラ。麻雀大好き。鉄道もぼちぼち。スマホの音ゲーシミュ開発。 ごちうさ/このすば/欅坂46 Hackintosh,JailbreakなどのアップルHackが好き。最近カラオケはまった（採点とか） 【重要】FF外からのクソリプはご遠慮ください。",
+					"url": "https://t.co/Zg0yo9YPu2",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/Zg0yo9YPu2",
+									"expanded_url": "http://www.chloroware.com/blog",
+									"display_url": "chloroware.com/blog",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 3240,
+					"friends_count": 916,
+					"listed_count": 61,
+					"created_at": "Fri Dec 27 11:25:27 +0000 2013",
+					"favourites_count": 131998,
+					"utc_offset": -25200,
+					"time_zone": "Pacific Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 64718,
+					"lang": "ja",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/894797218258890752/7zpnUkUu_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/894797218258890752/7zpnUkUu_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/2264213035/1498569152",
+					"profile_link_color": "19CF86",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "regular"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 35177,
+				"favorite_count": 23803,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "ja"
+			},
+			"retweet_count": 498,
+			"favorite_count": 433,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 894789440584929300,
+		"quoted_status_id_str": "894789440584929281",
+		"retweet_count": 498,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Aug 09 20:44:34 +0000 2017",
+		"id": 895385336943128600,
+		"id_str": "895385336943128577",
+		"text": "@El_Reinders Veel liefs voor haar en bijpassende Weezer teksten.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "El_Reinders",
+					"name": "Elze 🌵",
+					"id": 185567840,
+					"id_str": "185567840",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 895342549807792100,
+		"in_reply_to_status_id_str": "895342549807792128",
+		"in_reply_to_user_id": 185567840,
+		"in_reply_to_user_id_str": "185567840",
+		"in_reply_to_screen_name": "El_Reinders",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9218,
+			"friends_count": 1862,
+			"listed_count": 616,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3402,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61612,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "871685aa82f8a489",
+			"url": "https://api.twitter.com/1.1/geo/id/871685aa82f8a489.json",
+			"place_type": "city",
+			"name": "Utrecht",
+			"full_name": "Utrecht, The Netherlands",
+			"country_code": "NL",
+			"country": "The Netherlands",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							4.9702867,
+							52.0262429
+						],
+						[
+							5.1952468,
+							52.0262429
+						],
+						[
+							5.1952468,
+							52.142137
+						],
+						[
+							4.9702867,
+							52.142137
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Wed Aug 09 08:30:21 +0000 2017",
 		"id": 895200564753125400,
 		"id_str": "895200564753125381",
