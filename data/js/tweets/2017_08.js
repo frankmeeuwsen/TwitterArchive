@@ -1,6 +1,251 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Thu Aug 10 07:23:14 +0000 2017",
+		"id": 895546062626226200,
+		"id_str": "895546062626226176",
+		"text": "1993-2006 sowieso. Daarna nog 3-4 keer. https://t.co/qiKhMsjzHa",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qiKhMsjzHa",
+					"expanded_url": "https://twitter.com/amandakuyper/status/895539728635834368",
+					"display_url": "twitter.com/amandakuyper/s…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9217,
+			"friends_count": 1862,
+			"listed_count": 616,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3402,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61613,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "a917063aa167ace9",
+			"url": "https://api.twitter.com/1.1/geo/id/a917063aa167ace9.json",
+			"place_type": "city",
+			"name": "Stichtse Vecht",
+			"full_name": "Stichtse Vecht, Nederland",
+			"country_code": "NL",
+			"country": "The Netherlands",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							4.9092946,
+							52.1149386
+						],
+						[
+							5.1204217,
+							52.1149386
+						],
+						[
+							5.1204217,
+							52.2892586
+						],
+						[
+							4.9092946,
+							52.2892586
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 895539728635834400,
+		"quoted_status_id_str": "895539728635834368",
+		"quoted_status": {
+			"created_at": "Thu Aug 10 06:58:04 +0000 2017",
+			"id": 895539728635834400,
+			"id_str": "895539728635834368",
+			"text": "We bouwden een monumentje: 25 jaar Lowlands. Trendsettend muziekstadje in de polder. Bij welke editie was jij? https://t.co/tXH5totqiN  @nrc",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "nrc",
+						"name": "NRC",
+						"id": 3103641,
+						"id_str": "3103641",
+						"indices": [
+							136,
+							140
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/tXH5totqiN",
+						"expanded_url": "https://www.nrc.nl/nieuws/2017/08/09/25-jaar-lowlands-trendsettend-feest-12452150-a1569391",
+						"display_url": "nrc.nl/nieuws/2017/08…",
+						"indices": [
+							111,
+							134
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 54294700,
+				"id_str": "54294700",
+				"name": "Amanda Kuyper",
+				"screen_name": "amandakuyper",
+				"location": "",
+				"description": "Music editor Dutch newspaper NRC Handelsblad. Pop & all that jazz",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4149,
+				"friends_count": 956,
+				"listed_count": 96,
+				"created_at": "Mon Jul 06 18:49:45 +0000 2009",
+				"favourites_count": 618,
+				"utc_offset": 7200,
+				"time_zone": "Amsterdam",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 14450,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E07EDB",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/75776738/sax-music.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/75776738/sax-music.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/743171580403015680/BpJZNLHT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/743171580403015680/BpJZNLHT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/54294700/1426199063",
+				"profile_link_color": "701270",
+				"profile_sidebar_border_color": "871B79",
+				"profile_sidebar_fill_color": "FBA8FF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Wed Aug 09 20:50:37 +0000 2017",
 		"id": 895386861631352800,
 		"id_str": "895386861631352832",
