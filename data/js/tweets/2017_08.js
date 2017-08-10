@@ -1,6 +1,700 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Thu Aug 10 22:01:41 +0000 2017",
+		"id": 895767130691579900,
+		"id_str": "895767130691579906",
+		"text": "S04 en begin S05 van House of Cards gekeken. Sometimes truth is stranger than fiction. https://t.co/mgqbmuxnbw",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 895767078392778800,
+					"id_str": "895767078392778753",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DG5naW0XUAEEvSe.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DG5naW0XUAEEvSe.jpg",
+					"url": "https://t.co/mgqbmuxnbw",
+					"display_url": "pic.twitter.com/mgqbmuxnbw",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/895767130691579906/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 500,
+							"h": 250,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 250,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 170,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 895767078392778800,
+					"id_str": "895767078392778753",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DG5naW0XUAEEvSe.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DG5naW0XUAEEvSe.jpg",
+					"url": "https://t.co/mgqbmuxnbw",
+					"display_url": "pic.twitter.com/mgqbmuxnbw",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/895767130691579906/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 500,
+							"h": 250,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 250,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 170,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							2,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DG5naW0XUAEEvSe.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9219,
+			"friends_count": 1863,
+			"listed_count": 616,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3406,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61628,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Aug 10 21:57:24 +0000 2017",
+		"id": 895766055787876400,
+		"id_str": "895766055787876352",
+		"text": "@HumphryJoey salesmanagers ;-)",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HumphryJoey",
+					"name": "Humphry",
+					"id": 54028848,
+					"id_str": "54028848",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 895612990224973800,
+		"in_reply_to_status_id_str": "895612990224973824",
+		"in_reply_to_user_id": 54028848,
+		"in_reply_to_user_id_str": "54028848",
+		"in_reply_to_screen_name": "HumphryJoey",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9219,
+			"friends_count": 1863,
+			"listed_count": 616,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3406,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61628,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Aug 10 21:55:57 +0000 2017",
+		"id": 895765687330844700,
+		"id_str": "895765687330844672",
+		"text": "RT @Sarradis: Oh @imgur, what would we do without you. \n#GameOfThones7 https://t.co/0F4ZEX79nL",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GameOfThones7",
+					"indices": [
+						56,
+						70
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Sarradis",
+					"name": "Shannon Dawn☾",
+					"id": 21021561,
+					"id_str": "21021561",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "imgur",
+					"name": "Imgur",
+					"id": 113211856,
+					"id_str": "113211856",
+					"indices": [
+						17,
+						23
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 895655283128762400,
+					"id_str": "895655283128762369",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/DG4BvBAXgAEpT4c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DG4BvBAXgAEpT4c.jpg",
+					"url": "https://t.co/0F4ZEX79nL",
+					"display_url": "pic.twitter.com/0F4ZEX79nL",
+					"expanded_url": "https://twitter.com/Sarradis/status/895655288061255680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 610,
+							"h": 403,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 610,
+							"h": 403,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 610,
+							"h": 403,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 895655288061255700,
+					"source_status_id_str": "895655288061255680",
+					"source_user_id": 21021561,
+					"source_user_id_str": "21021561"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 895655283128762400,
+					"id_str": "895655283128762369",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/DG4BvBAXgAEpT4c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DG4BvBAXgAEpT4c.jpg",
+					"url": "https://t.co/0F4ZEX79nL",
+					"display_url": "pic.twitter.com/0F4ZEX79nL",
+					"expanded_url": "https://twitter.com/Sarradis/status/895655288061255680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 610,
+							"h": 403,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 610,
+							"h": 403,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 610,
+							"h": 403,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 895655288061255700,
+					"source_status_id_str": "895655288061255680",
+					"source_user_id": 21021561,
+					"source_user_id_str": "21021561"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9219,
+			"friends_count": 1863,
+			"listed_count": 616,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3406,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61628,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Aug 10 14:37:15 +0000 2017",
+			"id": 895655288061255700,
+			"id_str": "895655288061255680",
+			"text": "Oh @imgur, what would we do without you. \n#GameOfThones7 https://t.co/0F4ZEX79nL",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GameOfThones7",
+						"indices": [
+							42,
+							56
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "imgur",
+						"name": "Imgur",
+						"id": 113211856,
+						"id_str": "113211856",
+						"indices": [
+							3,
+							9
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 895655283128762400,
+						"id_str": "895655283128762369",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/media/DG4BvBAXgAEpT4c.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DG4BvBAXgAEpT4c.jpg",
+						"url": "https://t.co/0F4ZEX79nL",
+						"display_url": "pic.twitter.com/0F4ZEX79nL",
+						"expanded_url": "https://twitter.com/Sarradis/status/895655288061255680/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 610,
+								"h": 403,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 610,
+								"h": 403,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 610,
+								"h": 403,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 895655283128762400,
+						"id_str": "895655283128762369",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/media/DG4BvBAXgAEpT4c.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DG4BvBAXgAEpT4c.jpg",
+						"url": "https://t.co/0F4ZEX79nL",
+						"display_url": "pic.twitter.com/0F4ZEX79nL",
+						"expanded_url": "https://twitter.com/Sarradis/status/895655288061255680/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 610,
+								"h": 403,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 610,
+								"h": 403,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 610,
+								"h": 403,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21021561,
+				"id_str": "21021561",
+				"name": "Shannon Dawn☾",
+				"screen_name": "Sarradis",
+				"location": "Halifax, Nova Scotia",
+				"description": "That nerdy artist who loves crows and smiles a lot.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 191,
+				"friends_count": 492,
+				"listed_count": 17,
+				"created_at": "Mon Feb 16 20:12:53 +0000 2009",
+				"favourites_count": 5245,
+				"utc_offset": -10800,
+				"time_zone": "Atlantic Time (Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6472,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "98938F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/880900284087771137/k2cxElhe_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/880900284087771137/k2cxElhe_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21021561/1502298610",
+				"profile_link_color": "4A4C50",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F6F6F6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 44,
+			"favorite_count": 117,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 44,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Aug 10 20:18:23 +0000 2017",
 		"id": 895741135704002600,
 		"id_str": "895741135704002560",
