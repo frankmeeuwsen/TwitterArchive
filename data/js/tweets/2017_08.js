@@ -1,6 +1,415 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Fri Aug 11 16:52:38 +0000 2017",
+		"id": 896051745905823700,
+		"id_str": "896051745905823745",
+		"text": "RT @itsRamel: Happy Birthday Hip-Hop! #BirthofHipHop https://t.co/6OVsd9pJgE",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BirthofHipHop",
+					"indices": [
+						38,
+						52
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "itsRamel",
+					"name": "rah-mel",
+					"id": 20598239,
+					"id_str": "20598239",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 895987066496053200,
+					"id_str": "895987066496053248",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DG8vfWXXcAALi9T.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DG8vfWXXcAALi9T.jpg",
+					"url": "https://t.co/6OVsd9pJgE",
+					"display_url": "pic.twitter.com/6OVsd9pJgE",
+					"expanded_url": "https://twitter.com/itsRamel/status/895987079234150400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 450,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 435,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 450,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 895987079234150400,
+					"source_status_id_str": "895987079234150400",
+					"source_user_id": 20598239,
+					"source_user_id_str": "20598239"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 895987066496053200,
+					"id_str": "895987066496053248",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DG8vfWXXcAALi9T.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DG8vfWXXcAALi9T.jpg",
+					"url": "https://t.co/6OVsd9pJgE",
+					"display_url": "pic.twitter.com/6OVsd9pJgE",
+					"expanded_url": "https://twitter.com/itsRamel/status/895987079234150400/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 450,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 435,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 450,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 895987079234150400,
+					"source_status_id_str": "895987079234150400",
+					"source_user_id": 20598239,
+					"source_user_id_str": "20598239",
+					"video_info": {
+						"aspect_ratio": [
+							25,
+							32
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DG8vfWXXcAALi9T.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9218,
+			"friends_count": 1864,
+			"listed_count": 616,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3402,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61608,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Aug 11 12:35:40 +0000 2017",
+			"id": 895987079234150400,
+			"id_str": "895987079234150400",
+			"text": "Happy Birthday Hip-Hop! #BirthofHipHop https://t.co/6OVsd9pJgE",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BirthofHipHop",
+						"indices": [
+							24,
+							38
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 895987066496053200,
+						"id_str": "895987066496053248",
+						"indices": [
+							39,
+							62
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DG8vfWXXcAALi9T.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DG8vfWXXcAALi9T.jpg",
+						"url": "https://t.co/6OVsd9pJgE",
+						"display_url": "pic.twitter.com/6OVsd9pJgE",
+						"expanded_url": "https://twitter.com/itsRamel/status/895987079234150400/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 450,
+								"h": 576,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 435,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 450,
+								"h": 576,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 895987066496053200,
+						"id_str": "895987066496053248",
+						"indices": [
+							39,
+							62
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DG8vfWXXcAALi9T.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DG8vfWXXcAALi9T.jpg",
+						"url": "https://t.co/6OVsd9pJgE",
+						"display_url": "pic.twitter.com/6OVsd9pJgE",
+						"expanded_url": "https://twitter.com/itsRamel/status/895987079234150400/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 450,
+								"h": 576,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 435,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 450,
+								"h": 576,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								25,
+								32
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/DG8vfWXXcAALi9T.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20598239,
+				"id_str": "20598239",
+				"name": "rah-mel",
+				"screen_name": "itsRamel",
+				"location": "Chicago, IL",
+				"description": "Author, 2x British Academy of Twits winner & #BMCAwards winner in K-12 Ed. Humble enough 2 know I'm no better than anyone but wise enough 2 know I am different.",
+				"url": "https://t.co/4tSeDa7tEr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4tSeDa7tEr",
+								"expanded_url": "http://www.itsramel.com/",
+								"display_url": "itsramel.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 35702,
+				"friends_count": 26546,
+				"listed_count": 495,
+				"created_at": "Wed Feb 11 15:55:38 +0000 2009",
+				"favourites_count": 3022,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 103532,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/876619893147348992/nH_h2_xb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/876619893147348992/nH_h2_xb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20598239/1358105891",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 558,
+			"favorite_count": 607,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 558,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Aug 11 16:07:15 +0000 2017",
 		"id": 896040325453664300,
 		"id_str": "896040325453664256",
