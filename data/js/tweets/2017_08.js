@@ -1,6 +1,751 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Sat Aug 12 17:06:47 +0000 2017",
+		"id": 896417695834533900,
+		"id_str": "896417695834533888",
+		"text": "Thread. Klik om te openen en te lezen. Doen. https://t.co/iAcCJTThs9",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iAcCJTThs9",
+					"expanded_url": "https://twitter.com/juliusgoat/status/896326301832925184",
+					"display_url": "twitter.com/juliusgoat/sta…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9216,
+			"friends_count": 1863,
+			"listed_count": 616,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3404,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61612,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "871685aa82f8a489",
+			"url": "https://api.twitter.com/1.1/geo/id/871685aa82f8a489.json",
+			"place_type": "city",
+			"name": "Utrecht",
+			"full_name": "Utrecht, The Netherlands",
+			"country_code": "NL",
+			"country": "The Netherlands",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							4.9702867,
+							52.0262429
+						],
+						[
+							5.1952468,
+							52.0262429
+						],
+						[
+							5.1952468,
+							52.142137
+						],
+						[
+							4.9702867,
+							52.142137
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 896326301832925200,
+		"quoted_status_id_str": "896326301832925184",
+		"quoted_status": {
+			"created_at": "Sat Aug 12 11:03:37 +0000 2017",
+			"id": 896326301832925200,
+			"id_str": "896326301832925184",
+			"text": "Imagine if these people ever faced actual oppression. https://t.co/dhPCbtfEjO",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 896326282430095400,
+						"id_str": "896326282430095360",
+						"indices": [
+							54,
+							77
+						],
+						"media_url": "http://pbs.twimg.com/media/DHBkAUMXoAAocyW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHBkAUMXoAAocyW.jpg",
+						"url": "https://t.co/dhPCbtfEjO",
+						"display_url": "pic.twitter.com/dhPCbtfEjO",
+						"expanded_url": "https://twitter.com/JuliusGoat/status/896326301832925184/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 533,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 560,
+								"h": 714,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 560,
+								"h": 714,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 896326282430095400,
+						"id_str": "896326282430095360",
+						"indices": [
+							54,
+							77
+						],
+						"media_url": "http://pbs.twimg.com/media/DHBkAUMXoAAocyW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHBkAUMXoAAocyW.jpg",
+						"url": "https://t.co/dhPCbtfEjO",
+						"display_url": "pic.twitter.com/dhPCbtfEjO",
+						"expanded_url": "https://twitter.com/JuliusGoat/status/896326301832925184/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 533,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 560,
+								"h": 714,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 560,
+								"h": 714,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14869615,
+				"id_str": "14869615",
+				"name": "Large Adult Goat",
+				"screen_name": "JuliusGoat",
+				"location": "Midnorthwest-Northeast-Midwest",
+				"description": "Getting rather old but he's a good mouse. Funny is mungible.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14289,
+				"friends_count": 255,
+				"listed_count": 163,
+				"created_at": "Thu May 22 15:37:55 +0000 2008",
+				"favourites_count": 4614,
+				"utc_offset": -18000,
+				"time_zone": "Quito",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 45538,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/875644845125021701/J7JFgjs1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875644845125021701/J7JFgjs1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14869615/1462705475",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 47461,
+			"favorite_count": 79751,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
+		"created_at": "Sat Aug 12 17:03:37 +0000 2017",
+		"id": 896416895905222700,
+		"id_str": "896416895905222662",
+		"text": "RT @missbreton: The new KKK uniform sucks https://t.co/LuyOtcIMsa",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "missbreton",
+					"name": "Ana Breton",
+					"id": 22692264,
+					"id_str": "22692264",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 896400863312449500,
+					"id_str": "896400863312449537",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/DHCn1foXkAE4l0F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHCn1foXkAE4l0F.jpg",
+					"url": "https://t.co/LuyOtcIMsa",
+					"display_url": "pic.twitter.com/LuyOtcIMsa",
+					"expanded_url": "https://twitter.com/missbreton/status/896400878202232833/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 960,
+							"h": 620,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 620,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 439,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 896400878202232800,
+					"source_status_id_str": "896400878202232833",
+					"source_user_id": 22692264,
+					"source_user_id_str": "22692264"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 896400863312449500,
+					"id_str": "896400863312449537",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/DHCn1foXkAE4l0F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHCn1foXkAE4l0F.jpg",
+					"url": "https://t.co/LuyOtcIMsa",
+					"display_url": "pic.twitter.com/LuyOtcIMsa",
+					"expanded_url": "https://twitter.com/missbreton/status/896400878202232833/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 960,
+							"h": 620,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 620,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 439,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 896400878202232800,
+					"source_status_id_str": "896400878202232833",
+					"source_user_id": 22692264,
+					"source_user_id_str": "22692264"
+				},
+				{
+					"id": 896400863379542000,
+					"id_str": "896400863379542016",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/DHCn1f4XUAAFQzS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHCn1f4XUAAFQzS.jpg",
+					"url": "https://t.co/LuyOtcIMsa",
+					"display_url": "pic.twitter.com/LuyOtcIMsa",
+					"expanded_url": "https://twitter.com/missbreton/status/896400878202232833/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 306,
+							"h": 513,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 306,
+							"h": 513,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 306,
+							"h": 513,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 896400878202232800,
+					"source_status_id_str": "896400878202232833",
+					"source_user_id": 22692264,
+					"source_user_id_str": "22692264"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9216,
+			"friends_count": 1863,
+			"listed_count": 616,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3404,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61612,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Aug 12 15:59:58 +0000 2017",
+			"id": 896400878202232800,
+			"id_str": "896400878202232833",
+			"text": "The new KKK uniform sucks https://t.co/LuyOtcIMsa",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 896400863312449500,
+						"id_str": "896400863312449537",
+						"indices": [
+							26,
+							49
+						],
+						"media_url": "http://pbs.twimg.com/media/DHCn1foXkAE4l0F.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHCn1foXkAE4l0F.jpg",
+						"url": "https://t.co/LuyOtcIMsa",
+						"display_url": "pic.twitter.com/LuyOtcIMsa",
+						"expanded_url": "https://twitter.com/missbreton/status/896400878202232833/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 960,
+								"h": 620,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 620,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 439,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 896400863312449500,
+						"id_str": "896400863312449537",
+						"indices": [
+							26,
+							49
+						],
+						"media_url": "http://pbs.twimg.com/media/DHCn1foXkAE4l0F.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHCn1foXkAE4l0F.jpg",
+						"url": "https://t.co/LuyOtcIMsa",
+						"display_url": "pic.twitter.com/LuyOtcIMsa",
+						"expanded_url": "https://twitter.com/missbreton/status/896400878202232833/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 960,
+								"h": 620,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 620,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 439,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 896400863379542000,
+						"id_str": "896400863379542016",
+						"indices": [
+							26,
+							49
+						],
+						"media_url": "http://pbs.twimg.com/media/DHCn1f4XUAAFQzS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHCn1f4XUAAFQzS.jpg",
+						"url": "https://t.co/LuyOtcIMsa",
+						"display_url": "pic.twitter.com/LuyOtcIMsa",
+						"expanded_url": "https://twitter.com/missbreton/status/896400878202232833/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 306,
+								"h": 513,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 306,
+								"h": 513,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 306,
+								"h": 513,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22692264,
+				"id_str": "22692264",
+				"name": "Ana Breton",
+				"screen_name": "missbreton",
+				"location": "New York",
+				"description": "🇲🇽 Digital Producer @FullFrontalSamB. Organizer @lamarchademayo. All my views are @mileskahn's. #binders",
+				"url": "https://t.co/4OGmzVUAjF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4OGmzVUAjF",
+								"expanded_url": "http://www.anabretonfilms.com",
+								"display_url": "anabretonfilms.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1469,
+				"friends_count": 1163,
+				"listed_count": 35,
+				"created_at": "Tue Mar 03 22:31:51 +0000 2009",
+				"favourites_count": 5742,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 4178,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FCF7FC",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/24848663/SuperNachosBeef_Specialties.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/24848663/SuperNachosBeef_Specialties.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/879677001619169280/037AmWs5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/879677001619169280/037AmWs5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22692264/1501173476",
+				"profile_link_color": "96AD15",
+				"profile_sidebar_border_color": "1C381B",
+				"profile_sidebar_fill_color": "0C6604",
+				"profile_text_color": "21111A",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3910,
+			"favorite_count": 6511,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3910,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Aug 12 15:31:47 +0000 2017",
 		"id": 896393784308760600,
 		"id_str": "896393784308760576",
