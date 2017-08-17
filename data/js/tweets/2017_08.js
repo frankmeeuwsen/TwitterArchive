@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Thu Aug 17 15:07:54 +0000 2017",
+		"id": 898199714398691300,
+		"id_str": "898199714398691329",
+		"text": "Duits voetbal? Doen we! Knipper je lampen bij een goal. https://t.co/fHH1ud1UOG",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fHH1ud1UOG",
+					"expanded_url": "https://twitter.com/lmf4lol/status/898197780723904512",
+					"display_url": "twitter.com/lmf4lol/status…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9219,
+			"friends_count": 1871,
+			"listed_count": 615,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3412,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61585,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "99cdab25eddd6bce",
+			"url": "https://api.twitter.com/1.1/geo/id/99cdab25eddd6bce.json",
+			"place_type": "city",
+			"name": "Amsterdam",
+			"full_name": "Amsterdam, The Netherlands",
+			"country_code": "NL",
+			"country": "The Netherlands",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							4.7288999,
+							52.2782266
+						],
+						[
+							5.0792072,
+							52.2782266
+						],
+						[
+							5.0792072,
+							52.4312289
+						],
+						[
+							4.7288999,
+							52.4312289
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 898197780723904500,
+		"quoted_status_id_str": "898197780723904512",
+		"quoted_status": {
+			"created_at": "Thu Aug 17 15:00:13 +0000 2017",
+			"id": 898197780723904500,
+			"id_str": "898197780723904512",
+			"text": "Lasse deine Hue Lampen blinken bei jedem Tor in der #Bundesliga. Mit der kostenlosen Triggi app https://t.co/SkvOcn6JiL #smarthome #domotica",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Bundesliga",
+						"indices": [
+							52,
+							63
+						]
+					},
+					{
+						"text": "smarthome",
+						"indices": [
+							120,
+							130
+						]
+					},
+					{
+						"text": "domotica",
+						"indices": [
+							131,
+							140
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/SkvOcn6JiL",
+						"expanded_url": "http://www.triggi.com/bundesliga",
+						"display_url": "triggi.com/bundesliga",
+						"indices": [
+							96,
+							119
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 722729222444359700,
+				"id_str": "722729222444359681",
+				"name": "pstoned",
+				"screen_name": "lmf4lol",
+				"location": "Amsterdam, The Netherlands",
+				"description": "I work as Creative Technologist & Agile Coach. I consult in A.I., Crypto, Cypherpunk & other cool stuff. Love binge watching seasons",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 76,
+				"friends_count": 200,
+				"listed_count": 32,
+				"created_at": "Wed Apr 20 10:10:49 +0000 2016",
+				"favourites_count": 422,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 434,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/879743171240087552/hEQUDq4U_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/879743171240087552/hEQUDq4U_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/722729222444359681/1488551240",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Thu Aug 17 10:57:22 +0000 2017",
 		"id": 898136667923599400,
 		"id_str": "898136667923599361",
