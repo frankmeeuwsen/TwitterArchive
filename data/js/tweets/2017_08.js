@@ -1,6 +1,373 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Tue Aug 22 11:54:50 +0000 2017",
+		"id": 899963065642438700,
+		"id_str": "899963065642438656",
+		"text": "RT @joeyalison: I fixed giraffes. https://t.co/QtavtoFRAt",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "joeyalison",
+					"name": "Joey Alison Sayers",
+					"id": 312107565,
+					"id_str": "312107565",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 899863978465153000,
+					"id_str": "899863978465153024",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/DHz1hU6V0AAsaT_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHz1hU6V0AAsaT_.jpg",
+					"url": "https://t.co/QtavtoFRAt",
+					"display_url": "pic.twitter.com/QtavtoFRAt",
+					"expanded_url": "https://twitter.com/joeyalison/status/899864062615371776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 899864062615371800,
+					"source_status_id_str": "899864062615371776",
+					"source_user_id": 312107565,
+					"source_user_id_str": "312107565"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 899863978465153000,
+					"id_str": "899863978465153024",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/DHz1hU6V0AAsaT_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHz1hU6V0AAsaT_.jpg",
+					"url": "https://t.co/QtavtoFRAt",
+					"display_url": "pic.twitter.com/QtavtoFRAt",
+					"expanded_url": "https://twitter.com/joeyalison/status/899864062615371776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 899864062615371800,
+					"source_status_id_str": "899864062615371776",
+					"source_user_id": 312107565,
+					"source_user_id_str": "312107565"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9219,
+			"friends_count": 1872,
+			"listed_count": 613,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3418,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61552,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Aug 22 05:21:25 +0000 2017",
+			"id": 899864062615371800,
+			"id_str": "899864062615371776",
+			"text": "I fixed giraffes. https://t.co/QtavtoFRAt",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 899863978465153000,
+						"id_str": "899863978465153024",
+						"indices": [
+							18,
+							41
+						],
+						"media_url": "http://pbs.twimg.com/media/DHz1hU6V0AAsaT_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHz1hU6V0AAsaT_.jpg",
+						"url": "https://t.co/QtavtoFRAt",
+						"display_url": "pic.twitter.com/QtavtoFRAt",
+						"expanded_url": "https://twitter.com/joeyalison/status/899864062615371776/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 899863978465153000,
+						"id_str": "899863978465153024",
+						"indices": [
+							18,
+							41
+						],
+						"media_url": "http://pbs.twimg.com/media/DHz1hU6V0AAsaT_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHz1hU6V0AAsaT_.jpg",
+						"url": "https://t.co/QtavtoFRAt",
+						"display_url": "pic.twitter.com/QtavtoFRAt",
+						"expanded_url": "https://twitter.com/joeyalison/status/899864062615371776/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 312107565,
+				"id_str": "312107565",
+				"name": "Joey Alison Sayers",
+				"screen_name": "joeyalison",
+				"location": "Oakland, CA",
+				"description": "I draw comics!  See: @TheNib, @gocomics, Mad Magazine, some other stuff. Mom to two children and millions of bacteria.",
+				"url": "https://t.co/FW0ozrlUjT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FW0ozrlUjT",
+								"expanded_url": "http://www.jsayers.com",
+								"display_url": "jsayers.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5831,
+				"friends_count": 1422,
+				"listed_count": 117,
+				"created_at": "Mon Jun 06 16:01:28 +0000 2011",
+				"favourites_count": 22903,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 8090,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "642D8B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/818340722956898304/P9tdUU3X_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/818340722956898304/P9tdUU3X_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/312107565/1466889027",
+				"profile_link_color": "D500FF",
+				"profile_sidebar_border_color": "65B0DA",
+				"profile_sidebar_fill_color": "7AC3EE",
+				"profile_text_color": "3D1957",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 735,
+			"favorite_count": 2947,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 735,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Aug 22 07:55:37 +0000 2017",
 		"id": 899902864969084900,
 		"id_str": "899902864969084928",
