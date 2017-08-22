@@ -1,6 +1,664 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Tue Aug 22 19:49:32 +0000 2017",
+		"id": 900082531885867000,
+		"id_str": "900082531885867008",
+		"text": "Dit moeten wij in NL! https://t.co/xUzeCWaPQY",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xUzeCWaPQY",
+					"expanded_url": "https://twitter.com/jeroen_lenaers/status/900071692894179328",
+					"display_url": "twitter.com/jeroen_lenaers…",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9219,
+			"friends_count": 1873,
+			"listed_count": 613,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3418,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61555,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 900071692894179300,
+		"quoted_status_id_str": "900071692894179328",
+		"quoted_status": {
+			"created_at": "Tue Aug 22 19:06:28 +0000 2017",
+			"id": 900071692894179300,
+			"id_str": "900071692894179328",
+			"text": "Sloveense Bierfontein. Uitvinding van de eeuw 😄 https://t.co/o0NC0f2MPb",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 900071677366853600,
+						"id_str": "900071677366853632",
+						"indices": [
+							48,
+							71
+						],
+						"media_url": "http://pbs.twimg.com/media/DH2ya_nXYAAua2z.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DH2ya_nXYAAua2z.jpg",
+						"url": "https://t.co/o0NC0f2MPb",
+						"display_url": "pic.twitter.com/o0NC0f2MPb",
+						"expanded_url": "https://twitter.com/jeroen_lenaers/status/900071692894179328/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 900071677366853600,
+						"id_str": "900071677366853632",
+						"indices": [
+							48,
+							71
+						],
+						"media_url": "http://pbs.twimg.com/media/DH2ya_nXYAAua2z.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DH2ya_nXYAAua2z.jpg",
+						"url": "https://t.co/o0NC0f2MPb",
+						"display_url": "pic.twitter.com/o0NC0f2MPb",
+						"expanded_url": "https://twitter.com/jeroen_lenaers/status/900071692894179328/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 900071677358374900,
+						"id_str": "900071677358374912",
+						"indices": [
+							48,
+							71
+						],
+						"media_url": "http://pbs.twimg.com/media/DH2ya_lWAAA9ign.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DH2ya_lWAAA9ign.jpg",
+						"url": "https://t.co/o0NC0f2MPb",
+						"display_url": "pic.twitter.com/o0NC0f2MPb",
+						"expanded_url": "https://twitter.com/jeroen_lenaers/status/900071692894179328/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 900071677358374900,
+						"id_str": "900071677358374913",
+						"indices": [
+							48,
+							71
+						],
+						"media_url": "http://pbs.twimg.com/media/DH2ya_lWAAEA2m_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DH2ya_lWAAEA2m_.jpg",
+						"url": "https://t.co/o0NC0f2MPb",
+						"display_url": "pic.twitter.com/o0NC0f2MPb",
+						"expanded_url": "https://twitter.com/jeroen_lenaers/status/900071692894179328/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 399991392,
+				"id_str": "399991392",
+				"name": "Jeroen Lenaers",
+				"screen_name": "jeroen_lenaers",
+				"location": "",
+				"description": "Lid vh Europees Parlement voor het CDA. Limburgs-Nederlandse-Europeaan uit Stramproy, houdt van voetbal, muziek en theater",
+				"url": "http://t.co/mm7BqKdc9S",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/mm7BqKdc9S",
+								"expanded_url": "http://www.jeroenlenaers.nl",
+								"display_url": "jeroenlenaers.nl",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2624,
+				"friends_count": 1263,
+				"listed_count": 109,
+				"created_at": "Fri Oct 28 10:36:22 +0000 2011",
+				"favourites_count": 913,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 4863,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/453876538472030208/eda1SDrI_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/453876538472030208/eda1SDrI_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/399991392/1383577639",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
+		"created_at": "Tue Aug 22 19:29:14 +0000 2017",
+		"id": 900077421097087000,
+		"id_str": "900077421097086978",
+		"text": "Bananahacking voor Medium engagement! Test het gerust op https://t.co/EMFbpRbkTG ;-) https://t.co/sCferZdXfk",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EMFbpRbkTG",
+					"expanded_url": "https://medium.com/@frankmeeuwsen/ai-predict-setlists-concert-6cb04307b439",
+					"display_url": "medium.com/@frankmeeuwsen…",
+					"indices": [
+						57,
+						80
+					]
+				},
+				{
+					"url": "https://t.co/sCferZdXfk",
+					"expanded_url": "https://twitter.com/_tessr/status/837066735937191938",
+					"display_url": "twitter.com/_tessr/status/…",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9219,
+			"friends_count": 1873,
+			"listed_count": 613,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3418,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61555,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 837066735937192000,
+		"quoted_status_id_str": "837066735937191938",
+		"quoted_status": {
+			"created_at": "Wed Mar 01 22:27:16 +0000 2017",
+			"id": 837066735937192000,
+			"id_str": "837066735937191938",
+			"text": "1. If u hold down the clap at the end of a Medium series it increments indefinitely \n2. Bananas are capacitive https://t.co/EkwzNN9Lzy",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 837066723232641000,
+						"id_str": "837066723232641024",
+						"indices": [
+							111,
+							134
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/C53bv_OU8AAgJpO.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C53bv_OU8AAgJpO.jpg",
+						"url": "https://t.co/EkwzNN9Lzy",
+						"display_url": "pic.twitter.com/EkwzNN9Lzy",
+						"expanded_url": "https://twitter.com/_tessr/status/837066735937191938/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 320,
+								"h": 320,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 320,
+								"h": 320,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 320,
+								"h": 320,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 837066723232641000,
+						"id_str": "837066723232641024",
+						"indices": [
+							111,
+							134
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/C53bv_OU8AAgJpO.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C53bv_OU8AAgJpO.jpg",
+						"url": "https://t.co/EkwzNN9Lzy",
+						"display_url": "pic.twitter.com/EkwzNN9Lzy",
+						"expanded_url": "https://twitter.com/_tessr/status/837066735937191938/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"small": {
+								"w": 320,
+								"h": 320,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 320,
+								"h": 320,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 320,
+								"h": 320,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/C53bv_OU8AAgJpO.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 107837944,
+				"id_str": "107837944",
+				"name": "Tess Rinearson",
+				"screen_name": "_tessr",
+				"location": "San Francisco",
+				"description": "Misplaced Seattleite, college dropout, Medium engineering alumna. \n\nNow building things a͢͟nd̨͟ ̶̧b͝͏r͢e̸̛à͢k̶҉i̢ng͜͜͢ th͏̶in̶͢͝g̛̛s͘͢ at @Chain.",
+				"url": "https://t.co/iF6szKWtvv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/iF6szKWtvv",
+								"expanded_url": "http://tes.sr",
+								"display_url": "tes.sr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14725,
+				"friends_count": 1829,
+				"listed_count": 570,
+				"created_at": "Sat Jan 23 22:51:50 +0000 2010",
+				"favourites_count": 16763,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 18945,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "262626",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/434936300441833472/kEdiEXRk.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/434936300441833472/kEdiEXRk.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/799412813747798016/I9UloZ44_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/799412813747798016/I9UloZ44_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/107837944/1455573447",
+				"profile_link_color": "33A11A",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 144,
+			"favorite_count": 567,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Tue Aug 22 17:06:22 +0000 2017",
 		"id": 900041468785643500,
 		"id_str": "900041468785643520",
