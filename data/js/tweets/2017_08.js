@@ -1,6 +1,323 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Tue Aug 22 07:55:37 +0000 2017",
+		"id": 899902864969084900,
+		"id_str": "899902864969084928",
+		"text": "RT @davidehrlich: science: we predicted the *exact date* of today’s eclipse 85 years ago, but people don’t think we can predict global warm…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "davidehrlich",
+					"name": "david ehrlich",
+					"id": 22452361,
+					"id_str": "22452361",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9217,
+			"friends_count": 1872,
+			"listed_count": 613,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3418,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61551,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Aug 21 17:16:19 +0000 2017",
+			"id": 899681584948928500,
+			"id_str": "899681584948928512",
+			"text": "science: we predicted the *exact date* of today’s eclipse 85 years ago, but people don’t think we can predict globa… https://t.co/Rxe6BZiItZ",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Rxe6BZiItZ",
+						"expanded_url": "https://twitter.com/i/web/status/899681584948928512",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22452361,
+				"id_str": "22452361",
+				"name": "david ehrlich",
+				"screen_name": "davidehrlich",
+				"location": "obviously brooklyn",
+				"description": "senior film critic @Indiewire. \n''not even death could conjure respect from him.'' – Fox News",
+				"url": "https://t.co/gDkQkGk8xH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gDkQkGk8xH",
+								"expanded_url": "http://www.indiewire.com/author/david-ehrlich",
+								"display_url": "indiewire.com/author/david-e…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 34630,
+				"friends_count": 479,
+				"listed_count": 809,
+				"created_at": "Mon Mar 02 04:49:35 +0000 2009",
+				"favourites_count": 44355,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 70370,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5351820/cat_1.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5351820/cat_1.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2250575322/Screen_Shot_2012-05-26_at_12.12.33_AM_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2250575322/Screen_Shot_2012-05-26_at_12.12.33_AM_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22452361/1355205322",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 899639819617411100,
+			"quoted_status_id_str": "899639819617411073",
+			"quoted_status": {
+				"created_at": "Mon Aug 21 14:30:22 +0000 2017",
+				"id": 899639819617411100,
+				"id_str": "899639819617411073",
+				"text": "85 years ago, NYT reported that after the total eclipse of 1932, the next opportunity to study one would be today.… https://t.co/ukMbleCBOh",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/ukMbleCBOh",
+							"expanded_url": "https://twitter.com/i/web/status/899639819617411073",
+							"display_url": "twitter.com/i/web/status/8…",
+							"indices": [
+								116,
+								139
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 2432213029,
+					"id_str": "2432213029",
+					"name": "NYT Archives",
+					"screen_name": "NYTArchives",
+					"location": "New York, NY",
+					"description": "Highlights from the 165-year-old archive of The New York Times.  Links to TimesMachine are publicly available for seven days after we tweet them.",
+					"url": "http://t.co/iKfqZ7cgzF",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/iKfqZ7cgzF",
+									"expanded_url": "http://timesmachine.nytimes.com",
+									"display_url": "timesmachine.nytimes.com",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 61546,
+					"friends_count": 71,
+					"listed_count": 1290,
+					"created_at": "Mon Apr 07 15:24:22 +0000 2014",
+					"favourites_count": 107,
+					"utc_offset": -10800,
+					"time_zone": "Atlantic Time (Canada)",
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 4137,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "EDECEA",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/880481642380500994/HVxPH6mk_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/880481642380500994/HVxPH6mk_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/2432213029/1405095689",
+					"profile_link_color": "666666",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 4057,
+				"favorite_count": 5432,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 5274,
+			"favorite_count": 8566,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 899639819617411100,
+		"quoted_status_id_str": "899639819617411073",
+		"retweet_count": 5274,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Aug 22 07:13:50 +0000 2017",
 		"id": 899892352105545700,
 		"id_str": "899892352105545729",
