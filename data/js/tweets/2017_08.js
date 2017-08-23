@@ -1,6 +1,816 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Wed Aug 23 05:58:38 +0000 2017",
+		"id": 900235816445907000,
+		"id_str": "900235816445906944",
+		"text": "RT @_youhadonejob1: I'm not sure Disney gets the concept of pirates. https://t.co/qwwH8ZXGSp",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_youhadonejob1",
+					"name": "You Had One Job",
+					"id": 3898598357,
+					"id_str": "3898598357",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 900076634195320800,
+					"id_str": "900076634195320832",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/DH227hPXYAAcS6x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DH227hPXYAAcS6x.jpg",
+					"url": "https://t.co/qwwH8ZXGSp",
+					"display_url": "pic.twitter.com/qwwH8ZXGSp",
+					"expanded_url": "https://twitter.com/_youhadonejob1/status/900076635965280257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 582,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 616,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 616,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 900076635965280300,
+					"source_status_id_str": "900076635965280257",
+					"source_user_id": 3898598357,
+					"source_user_id_str": "3898598357"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 900076634195320800,
+					"id_str": "900076634195320832",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/DH227hPXYAAcS6x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DH227hPXYAAcS6x.jpg",
+					"url": "https://t.co/qwwH8ZXGSp",
+					"display_url": "pic.twitter.com/qwwH8ZXGSp",
+					"expanded_url": "https://twitter.com/_youhadonejob1/status/900076635965280257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 582,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 616,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 616,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 900076635965280300,
+					"source_status_id_str": "900076635965280257",
+					"source_user_id": 3898598357,
+					"source_user_id_str": "3898598357"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9219,
+			"friends_count": 1873,
+			"listed_count": 613,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3419,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61558,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Aug 22 19:26:07 +0000 2017",
+			"id": 900076635965280300,
+			"id_str": "900076635965280257",
+			"text": "I'm not sure Disney gets the concept of pirates. https://t.co/qwwH8ZXGSp",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 900076634195320800,
+						"id_str": "900076634195320832",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/media/DH227hPXYAAcS6x.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DH227hPXYAAcS6x.jpg",
+						"url": "https://t.co/qwwH8ZXGSp",
+						"display_url": "pic.twitter.com/qwwH8ZXGSp",
+						"expanded_url": "https://twitter.com/_youhadonejob1/status/900076635965280257/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 582,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 720,
+								"h": 616,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 616,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 900076634195320800,
+						"id_str": "900076634195320832",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/media/DH227hPXYAAcS6x.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DH227hPXYAAcS6x.jpg",
+						"url": "https://t.co/qwwH8ZXGSp",
+						"display_url": "pic.twitter.com/qwwH8ZXGSp",
+						"expanded_url": "https://twitter.com/_youhadonejob1/status/900076635965280257/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 582,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 720,
+								"h": 616,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 616,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3898598357,
+				"id_str": "3898598357",
+				"name": "You Had One Job",
+				"screen_name": "_youhadonejob1",
+				"location": "yhojob1gmail.com",
+				"description": "You had one job and messed up plus more fun pics and vids.I do not own any content just a fan/parody*and will remove content @ copyright holders request,email",
+				"url": "https://t.co/jRKY0FMPFF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jRKY0FMPFF",
+								"expanded_url": "https://m.facebook.com/Funny-pics-377802085710502/",
+								"display_url": "m.facebook.com/Funny-pics-377…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 255016,
+				"friends_count": 245,
+				"listed_count": 1612,
+				"created_at": "Thu Oct 08 10:23:15 +0000 2015",
+				"favourites_count": 199,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3471,
+				"lang": "en-GB",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/703223013551022080/u6mVd-Tk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/703223013551022080/u6mVd-Tk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3898598357/1444300597",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 538,
+			"favorite_count": 1625,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 538,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Aug 23 05:56:39 +0000 2017",
+		"id": 900235315935400000,
+		"id_str": "900235315935399936",
+		"text": "RT @Junglefushimi: My mom made this meme don't let her down https://t.co/AjjMAW97pS",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Junglefushimi",
+					"name": "Fusushi 🍣",
+					"id": 2692308140,
+					"id_str": "2692308140",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 899773940431806500,
+					"id_str": "899773940431806464",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/DHyjobGXYAA2tcp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHyjobGXYAA2tcp.jpg",
+					"url": "https://t.co/AjjMAW97pS",
+					"display_url": "pic.twitter.com/AjjMAW97pS",
+					"expanded_url": "https://twitter.com/Junglefushimi/status/899773945976692736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 320,
+							"h": 373,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 373,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 320,
+							"h": 373,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 899773945976692700,
+					"source_status_id_str": "899773945976692736",
+					"source_user_id": 2692308140,
+					"source_user_id_str": "2692308140"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 899773940431806500,
+					"id_str": "899773940431806464",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/DHyjobGXYAA2tcp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHyjobGXYAA2tcp.jpg",
+					"url": "https://t.co/AjjMAW97pS",
+					"display_url": "pic.twitter.com/AjjMAW97pS",
+					"expanded_url": "https://twitter.com/Junglefushimi/status/899773945976692736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 320,
+							"h": 373,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 373,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 320,
+							"h": 373,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 899773945976692700,
+					"source_status_id_str": "899773945976692736",
+					"source_user_id": 2692308140,
+					"source_user_id_str": "2692308140"
+				},
+				{
+					"id": 899773940435955700,
+					"id_str": "899773940435955712",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/DHyjobHWsAAWj9T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHyjobHWsAAWj9T.jpg",
+					"url": "https://t.co/AjjMAW97pS",
+					"display_url": "pic.twitter.com/AjjMAW97pS",
+					"expanded_url": "https://twitter.com/Junglefushimi/status/899773945976692736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 639,
+							"h": 620,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 639,
+							"h": 620,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 639,
+							"h": 620,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 899773945976692700,
+					"source_status_id_str": "899773945976692736",
+					"source_user_id": 2692308140,
+					"source_user_id_str": "2692308140"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9219,
+			"friends_count": 1873,
+			"listed_count": 613,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3419,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61558,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Aug 21 23:23:20 +0000 2017",
+			"id": 899773945976692700,
+			"id_str": "899773945976692736",
+			"text": "My mom made this meme don't let her down https://t.co/AjjMAW97pS",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 899773940431806500,
+						"id_str": "899773940431806464",
+						"indices": [
+							41,
+							64
+						],
+						"media_url": "http://pbs.twimg.com/media/DHyjobGXYAA2tcp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHyjobGXYAA2tcp.jpg",
+						"url": "https://t.co/AjjMAW97pS",
+						"display_url": "pic.twitter.com/AjjMAW97pS",
+						"expanded_url": "https://twitter.com/Junglefushimi/status/899773945976692736/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 320,
+								"h": 373,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 320,
+								"h": 373,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 320,
+								"h": 373,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 899773940431806500,
+						"id_str": "899773940431806464",
+						"indices": [
+							41,
+							64
+						],
+						"media_url": "http://pbs.twimg.com/media/DHyjobGXYAA2tcp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHyjobGXYAA2tcp.jpg",
+						"url": "https://t.co/AjjMAW97pS",
+						"display_url": "pic.twitter.com/AjjMAW97pS",
+						"expanded_url": "https://twitter.com/Junglefushimi/status/899773945976692736/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 320,
+								"h": 373,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 320,
+								"h": 373,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 320,
+								"h": 373,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 899773940435955700,
+						"id_str": "899773940435955712",
+						"indices": [
+							41,
+							64
+						],
+						"media_url": "http://pbs.twimg.com/media/DHyjobHWsAAWj9T.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHyjobHWsAAWj9T.jpg",
+						"url": "https://t.co/AjjMAW97pS",
+						"display_url": "pic.twitter.com/AjjMAW97pS",
+						"expanded_url": "https://twitter.com/Junglefushimi/status/899773945976692736/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 639,
+								"h": 620,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 639,
+								"h": 620,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 639,
+								"h": 620,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2692308140,
+				"id_str": "2692308140",
+				"name": "Fusushi 🍣",
+				"screen_name": "Junglefushimi",
+				"location": "bigender she/her/they/them",
+				"description": "✨Sasha | 20 | gf @eiprej 💕| FL | Eng/Sp OK!✨I yell about things with shitposting & personal stuff sprinkled in here and there. Main interests are in listo! ⬇️",
+				"url": "https://t.co/KYXBuvMj5J",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/KYXBuvMj5J",
+								"expanded_url": "https://listography.com/junglefushimi",
+								"display_url": "listography.com/junglefushimi",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 681,
+				"friends_count": 595,
+				"listed_count": 31,
+				"created_at": "Wed Jul 30 09:30:31 +0000 2014",
+				"favourites_count": 21232,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 17178,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/880047495643930624/mkeczEKL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/880047495643930624/mkeczEKL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2692308140/1500543742",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 28678,
+			"favorite_count": 63305,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 28678,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Aug 22 20:32:57 +0000 2017",
 		"id": 900093457900998700,
 		"id_str": "900093457900998657",
