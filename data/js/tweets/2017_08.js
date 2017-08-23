@@ -1,6 +1,379 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Wed Aug 23 11:19:26 +0000 2017",
+		"id": 900316547843051500,
+		"id_str": "900316547843051521",
+		"text": "@wilbertleering ... #momentje ...",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "momentje",
+					"indices": [
+						20,
+						29
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wilbertleering",
+					"name": "Wilbert Leering",
+					"id": 11021172,
+					"id_str": "11021172",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 900315182232207400,
+		"in_reply_to_status_id_str": "900315182232207360",
+		"in_reply_to_user_id": 11021172,
+		"in_reply_to_user_id_str": "11021172",
+		"in_reply_to_screen_name": "wilbertleering",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9219,
+			"friends_count": 1873,
+			"listed_count": 613,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3419,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61563,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Wed Aug 23 11:11:20 +0000 2017",
+		"id": 900314507716825100,
+		"id_str": "900314507716825088",
+		"text": "#The #tweet #that #started #this #...  \n\n#hashtag10 https://t.co/329lSKDUra",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "The",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "tweet",
+					"indices": [
+						5,
+						11
+					]
+				},
+				{
+					"text": "that",
+					"indices": [
+						12,
+						17
+					]
+				},
+				{
+					"text": "started",
+					"indices": [
+						18,
+						26
+					]
+				},
+				{
+					"text": "this",
+					"indices": [
+						27,
+						32
+					]
+				},
+				{
+					"text": "hashtag10",
+					"indices": [
+						41,
+						51
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/329lSKDUra",
+					"expanded_url": "https://twitter.com/chrismessina/status/223115412",
+					"display_url": "twitter.com/chrismessina/s…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9219,
+			"friends_count": 1873,
+			"listed_count": 613,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3419,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61563,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 223115412,
+		"quoted_status_id_str": "223115412",
+		"quoted_status": {
+			"created_at": "Thu Aug 23 19:25:10 +0000 2007",
+			"id": 223115412,
+			"id_str": "223115412",
+			"text": "how do you feel about using # (pound) for groups. As in #barcamp [msg]?",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "barcamp",
+						"indices": [
+							56,
+							64
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1186,
+				"id_str": "1186",
+				"name": "⌗ChrisMessina",
+				"screen_name": "chrismessina",
+				"location": "San Francisco, CA",
+				"description": "#TheHashtagIsX (10)! X-Uber; X-Google. The oracle of the internet (#thereIsNoSpoon). I feel stupid and contagious. Hold my 🥑.",
+				"url": "https://t.co/W38ENnYInx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/W38ENnYInx",
+								"expanded_url": "http://m.me/messinabot",
+								"display_url": "m.me/messinabot",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 96017,
+				"friends_count": 4648,
+				"listed_count": 4631,
+				"created_at": "Sun Jul 16 06:53:48 +0000 2006",
+				"favourites_count": 12383,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 39516,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "CF290C",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/86425594/xd76c913111e2caa58f9257eadc3f4b0.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/86425594/xd76c913111e2caa58f9257eadc3f4b0.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/887770946702000129/RSecocBi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/887770946702000129/RSecocBi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1186/1502923190",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "868686",
+				"profile_sidebar_fill_color": "F1F1F1",
+				"profile_text_color": "444444",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1860,
+			"favorite_count": 3500,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Wed Aug 23 10:01:52 +0000 2017",
 		"id": 900297028483285000,
 		"id_str": "900297028483284992",
