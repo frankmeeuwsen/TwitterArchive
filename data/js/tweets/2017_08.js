@@ -1,6 +1,573 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Fri Aug 25 05:42:01 +0000 2017",
+		"id": 900956410757890000,
+		"id_str": "900956410757890053",
+		"text": "RT @jehorowitz: Please share this widely. https://t.co/xfsXuY68Ih",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jehorowitz",
+					"name": "Jordan Horowitz",
+					"id": 16087273,
+					"id_str": "16087273",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 900936389029576700,
+					"id_str": "900936389029576704",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/DIDE31lUwAAMSrx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DIDE31lUwAAMSrx.jpg",
+					"url": "https://t.co/xfsXuY68Ih",
+					"display_url": "pic.twitter.com/xfsXuY68Ih",
+					"expanded_url": "https://twitter.com/jehorowitz/status/900936394696146946/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1140,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 646,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1180,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 900936394696147000,
+					"source_status_id_str": "900936394696146946",
+					"source_user_id": 16087273,
+					"source_user_id_str": "16087273"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 900936389029576700,
+					"id_str": "900936389029576704",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/DIDE31lUwAAMSrx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DIDE31lUwAAMSrx.jpg",
+					"url": "https://t.co/xfsXuY68Ih",
+					"display_url": "pic.twitter.com/xfsXuY68Ih",
+					"expanded_url": "https://twitter.com/jehorowitz/status/900936394696146946/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1140,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 646,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1180,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 900936394696147000,
+					"source_status_id_str": "900936394696146946",
+					"source_user_id": 16087273,
+					"source_user_id_str": "16087273"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9220,
+			"friends_count": 1874,
+			"listed_count": 613,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3423,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61533,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Aug 25 04:22:29 +0000 2017",
+			"id": 900936394696147000,
+			"id_str": "900936394696146946",
+			"text": "Please share this widely. https://t.co/xfsXuY68Ih",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 900936389029576700,
+						"id_str": "900936389029576704",
+						"indices": [
+							26,
+							49
+						],
+						"media_url": "http://pbs.twimg.com/media/DIDE31lUwAAMSrx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DIDE31lUwAAMSrx.jpg",
+						"url": "https://t.co/xfsXuY68Ih",
+						"display_url": "pic.twitter.com/xfsXuY68Ih",
+						"expanded_url": "https://twitter.com/jehorowitz/status/900936394696146946/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 1140,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 646,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1242,
+								"h": 1180,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 900936389029576700,
+						"id_str": "900936389029576704",
+						"indices": [
+							26,
+							49
+						],
+						"media_url": "http://pbs.twimg.com/media/DIDE31lUwAAMSrx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DIDE31lUwAAMSrx.jpg",
+						"url": "https://t.co/xfsXuY68Ih",
+						"display_url": "pic.twitter.com/xfsXuY68Ih",
+						"expanded_url": "https://twitter.com/jehorowitz/status/900936394696146946/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 1140,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 646,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1242,
+								"h": 1180,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16087273,
+				"id_str": "16087273",
+				"name": "Jordan Horowitz",
+				"screen_name": "jehorowitz",
+				"location": "Culver City, California",
+				"description": "Husband/Father/OHQ with @juliahartowitz. LA LA LAND, FAST COLOR, MISS STEVENS, THE KEEPING ROOM, THE KIDS ARE ALL RIGHT, COUNTERPART (tv). also: politics 😬",
+				"url": "https://t.co/SRDQH3MZsB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/SRDQH3MZsB",
+								"expanded_url": "http://originalhq.com",
+								"display_url": "originalhq.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 28789,
+				"friends_count": 1217,
+				"listed_count": 206,
+				"created_at": "Mon Sep 01 20:17:20 +0000 2008",
+				"favourites_count": 3988,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 17225,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/873000339712090112/tg3e4Egj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/873000339712090112/tg3e4Egj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16087273/1501040174",
+				"profile_link_color": "D02B55",
+				"profile_sidebar_border_color": "829D5E",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 576,
+			"favorite_count": 756,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 576,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Aug 25 05:25:23 +0000 2017",
+		"id": 900952223638630400,
+		"id_str": "900952223638630400",
+		"text": "Love this idea!!\n\n“Decentralize It!” by @ftrain https://t.co/COIeSb8LRO https://t.co/1mrFU9lqO1",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ftrain",
+					"name": "Paul Ford",
+					"id": 6981492,
+					"id_str": "6981492",
+					"indices": [
+						40,
+						47
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/COIeSb8LRO",
+					"expanded_url": "https://trackchanges.postlight.com/decentralize-it-2c9f0bc2ed8e?source=twitterShare-eb6c578c8e88-1503638704",
+					"display_url": "trackchanges.postlight.com/decentralize-i…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 900952221239525400,
+					"id_str": "900952221239525377",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/DIDTRZKUwAE49dl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DIDTRZKUwAE49dl.jpg",
+					"url": "https://t.co/1mrFU9lqO1",
+					"display_url": "pic.twitter.com/1mrFU9lqO1",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/900952223638630400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 750,
+							"h": 673,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 673,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 610,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 900952221239525400,
+					"id_str": "900952221239525377",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/DIDTRZKUwAE49dl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DIDTRZKUwAE49dl.jpg",
+					"url": "https://t.co/1mrFU9lqO1",
+					"display_url": "pic.twitter.com/1mrFU9lqO1",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/900952223638630400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 750,
+							"h": 673,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 673,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 610,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9220,
+			"friends_count": 1874,
+			"listed_count": 613,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3423,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61533,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Aug 24 21:56:23 +0000 2017",
 		"id": 900839227633610800,
 		"id_str": "900839227633610752",
