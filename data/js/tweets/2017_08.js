@@ -1,6 +1,257 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Sat Aug 26 18:54:52 +0000 2017",
+		"id": 901518323099349000,
+		"id_str": "901518323099348995",
+		"text": "Commentaar bij #EkHockey2017 #belNed: \"ze heeft een harde flats\". Kantochnie @boerdeboer, zulke praat?? https://t.co/61vlo7MEn3",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EkHockey2017",
+					"indices": [
+						15,
+						28
+					]
+				},
+				{
+					"text": "belNed",
+					"indices": [
+						29,
+						36
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "boerdeboer",
+					"name": "Bert de Boer",
+					"id": 11798112,
+					"id_str": "11798112",
+					"indices": [
+						77,
+						88
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 901518315390214100,
+					"id_str": "901518315390214145",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DILWIaNXoAEz6qD.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DILWIaNXoAEz6qD.jpg",
+					"url": "https://t.co/61vlo7MEn3",
+					"display_url": "pic.twitter.com/61vlo7MEn3",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/901518323099348995/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 138,
+							"h": 138,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 244,
+							"h": 138,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 244,
+							"h": 138,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 244,
+							"h": 138,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 901518315390214100,
+					"id_str": "901518315390214145",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DILWIaNXoAEz6qD.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DILWIaNXoAEz6qD.jpg",
+					"url": "https://t.co/61vlo7MEn3",
+					"display_url": "pic.twitter.com/61vlo7MEn3",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/901518323099348995/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 138,
+							"h": 138,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 244,
+							"h": 138,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 244,
+							"h": 138,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 244,
+							"h": 138,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							122,
+							69
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DILWIaNXoAEz6qD.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9216,
+			"friends_count": 1876,
+			"listed_count": 612,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3423,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61545,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "871685aa82f8a489",
+			"url": "https://api.twitter.com/1.1/geo/id/871685aa82f8a489.json",
+			"place_type": "city",
+			"name": "Utrecht",
+			"full_name": "Utrecht, The Netherlands",
+			"country_code": "NL",
+			"country": "The Netherlands",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							4.9702867,
+							52.0262429
+						],
+						[
+							5.1952468,
+							52.0262429
+						],
+						[
+							5.1952468,
+							52.142137
+						],
+						[
+							4.9702867,
+							52.142137
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Sat Aug 26 17:55:27 +0000 2017",
 		"id": 901503370426449900,
 		"id_str": "901503370426449921",
