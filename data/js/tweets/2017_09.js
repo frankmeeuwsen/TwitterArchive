@@ -1,6 +1,383 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Fri Sep 01 21:53:52 +0000 2017",
+		"id": 903737696711049200,
+		"id_str": "903737696711049216",
+		"text": "RT @Zen_Moments: When in China... https://t.co/UPQqR65XM2",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Zen_Moments",
+					"name": "Zen Moments",
+					"id": 17486629,
+					"id_str": "17486629",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 903730677799104500,
+					"id_str": "903730677799104512",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/DIqyQ2bWsAANMoy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DIqyQ2bWsAANMoy.jpg",
+					"url": "https://t.co/UPQqR65XM2",
+					"display_url": "pic.twitter.com/UPQqR65XM2",
+					"expanded_url": "https://twitter.com/Zen_Moments/status/903731308253376515/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 743,
+							"h": 548,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 502,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 743,
+							"h": 548,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 903731308253376500,
+					"source_status_id_str": "903731308253376515",
+					"source_user_id": 17486629,
+					"source_user_id_str": "17486629"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 903730677799104500,
+					"id_str": "903730677799104512",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/DIqyQ2bWsAANMoy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DIqyQ2bWsAANMoy.jpg",
+					"url": "https://t.co/UPQqR65XM2",
+					"display_url": "pic.twitter.com/UPQqR65XM2",
+					"expanded_url": "https://twitter.com/Zen_Moments/status/903731308253376515/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 743,
+							"h": 548,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 502,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 743,
+							"h": 548,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 903731308253376500,
+					"source_status_id_str": "903731308253376515",
+					"source_user_id": 17486629,
+					"source_user_id_str": "17486629"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9212,
+			"friends_count": 1878,
+			"listed_count": 612,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3430,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61519,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Sep 01 21:28:29 +0000 2017",
+			"id": 903731308253376500,
+			"id_str": "903731308253376515",
+			"text": "When in China... https://t.co/UPQqR65XM2",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 903730677799104500,
+						"id_str": "903730677799104512",
+						"indices": [
+							17,
+							40
+						],
+						"media_url": "http://pbs.twimg.com/media/DIqyQ2bWsAANMoy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DIqyQ2bWsAANMoy.jpg",
+						"url": "https://t.co/UPQqR65XM2",
+						"display_url": "pic.twitter.com/UPQqR65XM2",
+						"expanded_url": "https://twitter.com/Zen_Moments/status/903731308253376515/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 743,
+								"h": 548,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 502,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 743,
+								"h": 548,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 903730677799104500,
+						"id_str": "903730677799104512",
+						"indices": [
+							17,
+							40
+						],
+						"media_url": "http://pbs.twimg.com/media/DIqyQ2bWsAANMoy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DIqyQ2bWsAANMoy.jpg",
+						"url": "https://t.co/UPQqR65XM2",
+						"display_url": "pic.twitter.com/UPQqR65XM2",
+						"expanded_url": "https://twitter.com/Zen_Moments/status/903731308253376515/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 743,
+								"h": 548,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 502,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 743,
+								"h": 548,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17486629,
+				"id_str": "17486629",
+				"name": "Zen Moments",
+				"screen_name": "Zen_Moments",
+				"location": "Dartmooor - Devon - England",
+				"description": "Inspiration, Wisdom, Authenticity & Humour. https://t.co/LB6Cf4bA9E",
+				"url": "https://t.co/XlTd1Rbmq5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/XlTd1Rbmq5",
+								"expanded_url": "https://zenmoments.org",
+								"display_url": "zenmoments.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/LB6Cf4bA9E",
+								"expanded_url": "https://zenquotes.org",
+								"display_url": "zenquotes.org",
+								"indices": [
+									44,
+									67
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 348540,
+				"friends_count": 628,
+				"listed_count": 6175,
+				"created_at": "Wed Nov 19 14:22:53 +0000 2008",
+				"favourites_count": 69,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 34074,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "8B542B",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/881535123/325aaed792a99fcd65389a84263f7e69.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/881535123/325aaed792a99fcd65389a84263f7e69.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1117626620/circle-1_normal.PNG",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1117626620/circle-1_normal.PNG",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17486629/1486081081",
+				"profile_link_color": "617E9A",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "1C0C0C",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 16,
+			"favorite_count": 42,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Sep 01 20:31:28 +0000 2017",
 		"id": 903716959581347800,
 		"id_str": "903716959581347846",
