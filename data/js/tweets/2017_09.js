@@ -1,6 +1,218 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Wed Sep 06 12:32:29 +0000 2017",
+		"id": 905408359578443800,
+		"id_str": "905408359578443778",
+		"text": "RT @jesseklaver: Iedereen kan straks het Wilhelmus zingen, maar niet de doktersrekening betalen. Noem dat maar een gaaf land. https://t.co/…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jesseklaver",
+					"name": "Jesse Klaver",
+					"id": 17422867,
+					"id_str": "17422867",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9217,
+			"friends_count": 1882,
+			"listed_count": 613,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3438,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61503,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Sep 06 06:15:55 +0000 2017",
+			"id": 905313594845352000,
+			"id_str": "905313594845351936",
+			"text": "Iedereen kan straks het Wilhelmus zingen, maar niet de doktersrekening betalen. Noem dat maar een gaaf land. https://t.co/pWPD68TGiv",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/pWPD68TGiv",
+						"expanded_url": "https://www.ad.nl/binnenland/eigen-risico-gaat-onder-rutte-iii-verder-omhoog~a0edf35d/",
+						"display_url": "ad.nl/binnenland/eig…",
+						"indices": [
+							109,
+							132
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17422867,
+				"id_str": "17422867",
+				"name": "Jesse Klaver",
+				"screen_name": "jesseklaver",
+				"location": "Den Haag",
+				"description": "Jesse Klaver is fractievoorzitter van GroenLinks in de Tweede Kamer. Dit account wordt beheerd door Jesse en zijn team.",
+				"url": "https://t.co/5T9sC4x4ox",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5T9sC4x4ox",
+								"expanded_url": "http://www.jesseklaver.nl",
+								"display_url": "jesseklaver.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 135708,
+				"friends_count": 522,
+				"listed_count": 1028,
+				"created_at": "Sun Nov 16 14:35:15 +0000 2008",
+				"favourites_count": 16,
+				"utc_offset": -36000,
+				"time_zone": "Hawaii",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 1948,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/157700603/Jesse_Klaver_10_copy.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/157700603/Jesse_Klaver_10_copy.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/821403769133039617/tCaQ0HLZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/821403769133039617/tCaQ0HLZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17422867/1489680697",
+				"profile_link_color": "2D5900",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1155,
+			"favorite_count": 1429,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1155,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Wed Sep 06 08:14:22 +0000 2017",
 		"id": 905343402358792200,
 		"id_str": "905343402358792192",
