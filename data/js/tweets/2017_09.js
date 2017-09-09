@@ -1,6 +1,776 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Sat Sep 09 18:58:49 +0000 2017",
+		"id": 906592747615920100,
+		"id_str": "906592747615920128",
+		"text": "2016: Hygge\n2017: Lagom\n2018: Ikigai https://t.co/A8TGM83f9d",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/A8TGM83f9d",
+					"expanded_url": "https://twitter.com/wef/status/906442564395552768",
+					"display_url": "twitter.com/wef/status/906…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9214,
+			"friends_count": 1882,
+			"listed_count": 613,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3442,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61489,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 906442564395552800,
+		"quoted_status_id_str": "906442564395552768",
+		"quoted_status": {
+			"created_at": "Sat Sep 09 09:02:02 +0000 2017",
+			"id": 906442564395552800,
+			"id_str": "906442564395552768",
+			"text": "Is this Japanese concept the secret to a long, happy, meaningful life? https://t.co/5yaYUljpCS https://t.co/VdDiDNiL6A",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/5yaYUljpCS",
+						"expanded_url": "http://wef.ch/2eV73Zk",
+						"display_url": "wef.ch/2eV73Zk",
+						"indices": [
+							71,
+							94
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 906442558619910100,
+						"id_str": "906442558619910145",
+						"indices": [
+							95,
+							118
+						],
+						"media_url": "http://pbs.twimg.com/media/DJRUtFvWAAE7WMz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DJRUtFvWAAE7WMz.jpg",
+						"url": "https://t.co/VdDiDNiL6A",
+						"display_url": "pic.twitter.com/VdDiDNiL6A",
+						"expanded_url": "https://twitter.com/wef/status/906442564395552768/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1124,
+								"h": 1063,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 643,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1124,
+								"h": 1063,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 906442558619910100,
+						"id_str": "906442558619910145",
+						"indices": [
+							95,
+							118
+						],
+						"media_url": "http://pbs.twimg.com/media/DJRUtFvWAAE7WMz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DJRUtFvWAAE7WMz.jpg",
+						"url": "https://t.co/VdDiDNiL6A",
+						"display_url": "pic.twitter.com/VdDiDNiL6A",
+						"expanded_url": "https://twitter.com/wef/status/906442564395552768/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1124,
+								"h": 1063,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 643,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1124,
+								"h": 1063,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5120691,
+				"id_str": "5120691",
+				"name": "World Economic Forum",
+				"screen_name": "wef",
+				"location": "Geneva, Switzerland",
+				"description": "The international organization for public private cooperation. Follow us for research, insight and analysis on global issues",
+				"url": "https://t.co/1vmI17VRPv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1vmI17VRPv",
+								"expanded_url": "http://wef.ch/agenda",
+								"display_url": "wef.ch/agenda",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3154827,
+				"friends_count": 342,
+				"listed_count": 22962,
+				"created_at": "Wed Apr 18 14:00:19 +0000 2007",
+				"favourites_count": 1909,
+				"utc_offset": 7200,
+				"time_zone": "Bern",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 93983,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FCFCFC",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/459256738458267648/NQmn-I-R.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/459256738458267648/NQmn-I-R.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/565498192171507712/r2Hb2gvX_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/565498192171507712/r2Hb2gvX_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5120691/1498537802",
+				"profile_link_color": "419FCF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "7AC3EE",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 251,
+			"favorite_count": 346,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "no"
+	},
+	{
+		"created_at": "Sat Sep 09 18:57:10 +0000 2017",
+		"id": 906592331243180000,
+		"id_str": "906592331243180032",
+		"text": "RT @ziyatong: When internet users evacuate. https://t.co/mfykdTGlzv",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ziyatong",
+					"name": "IM🍑HIM",
+					"id": 948104532,
+					"id_str": "948104532",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 906366734625538000,
+					"id_str": "906366734625538048",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/DJQPvjWWAAA11PC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DJQPvjWWAAA11PC.jpg",
+					"url": "https://t.co/mfykdTGlzv",
+					"display_url": "pic.twitter.com/mfykdTGlzv",
+					"expanded_url": "https://twitter.com/ziyatong/status/906366780247040000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 906366780247040000,
+					"source_status_id_str": "906366780247040000",
+					"source_user_id": 948104532,
+					"source_user_id_str": "948104532"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 906366734625538000,
+					"id_str": "906366734625538048",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/DJQPvjWWAAA11PC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DJQPvjWWAAA11PC.jpg",
+					"url": "https://t.co/mfykdTGlzv",
+					"display_url": "pic.twitter.com/mfykdTGlzv",
+					"expanded_url": "https://twitter.com/ziyatong/status/906366780247040000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 906366780247040000,
+					"source_status_id_str": "906366780247040000",
+					"source_user_id": 948104532,
+					"source_user_id_str": "948104532"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9214,
+			"friends_count": 1882,
+			"listed_count": 613,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3442,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61489,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Sep 09 04:00:54 +0000 2017",
+			"id": 906366780247040000,
+			"id_str": "906366780247040000",
+			"text": "When internet users evacuate. https://t.co/mfykdTGlzv",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 906366734625538000,
+						"id_str": "906366734625538048",
+						"indices": [
+							30,
+							53
+						],
+						"media_url": "http://pbs.twimg.com/media/DJQPvjWWAAA11PC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DJQPvjWWAAA11PC.jpg",
+						"url": "https://t.co/mfykdTGlzv",
+						"display_url": "pic.twitter.com/mfykdTGlzv",
+						"expanded_url": "https://twitter.com/ziyatong/status/906366780247040000/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 906366734625538000,
+						"id_str": "906366734625538048",
+						"indices": [
+							30,
+							53
+						],
+						"media_url": "http://pbs.twimg.com/media/DJQPvjWWAAA11PC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DJQPvjWWAAA11PC.jpg",
+						"url": "https://t.co/mfykdTGlzv",
+						"display_url": "pic.twitter.com/mfykdTGlzv",
+						"expanded_url": "https://twitter.com/ziyatong/status/906366780247040000/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 948104532,
+				"id_str": "948104532",
+				"name": "IM🍑HIM",
+				"screen_name": "ziyatong",
+				"location": "Laniakea Supercluster",
+				"description": "Host/Producer at Daily Planet, Discovery Channel. Activist. Happy human. Views are my own.",
+				"url": "https://t.co/PA6x7QOQUu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PA6x7QOQUu",
+								"expanded_url": "http://www.discovery.ca/dailyplanet",
+								"display_url": "discovery.ca/dailyplanet",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 24802,
+				"friends_count": 1549,
+				"listed_count": 678,
+				"created_at": "Wed Nov 14 17:03:42 +0000 2012",
+				"favourites_count": 19388,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 30493,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "09BEDE",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/711668347/9179a36ed91837a12ff9205fb6984269.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/711668347/9179a36ed91837a12ff9205fb6984269.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/433453539092754433/z0T_czjY_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/433453539092754433/z0T_czjY_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/948104532/1363741503",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6820,
+			"favorite_count": 20455,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6820,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Sep 09 18:38:37 +0000 2017",
+		"id": 906587665948201000,
+		"id_str": "906587665948200960",
+		"text": "Heerlijk hoor. Social Distortion en Eddie Vedder op Ohanafest doen Ball and Chain. https://t.co/DS9FWn0juU",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DS9FWn0juU",
+					"expanded_url": "https://youtu.be/F1KPV06ifLo",
+					"display_url": "youtu.be/F1KPV06ifLo",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9214,
+			"friends_count": 1882,
+			"listed_count": 613,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3442,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61489,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Sat Sep 09 05:40:18 +0000 2017",
 		"id": 906391794325356500,
 		"id_str": "906391794325356545",
