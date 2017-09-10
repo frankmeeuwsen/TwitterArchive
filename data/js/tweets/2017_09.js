@@ -1,6 +1,377 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Sun Sep 10 12:15:29 +0000 2017",
+		"id": 906853633664352300,
+		"id_str": "906853633664352257",
+		"text": "We need less threads and more blogs. https://t.co/g2QjCTSbTX (in Dutch, sorry @MattNavarra) https://t.co/qLyk83k9l5",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MattNavarra",
+					"name": "Matt Navarra ⭐️",
+					"id": 16211566,
+					"id_str": "16211566",
+					"indices": [
+						78,
+						90
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/g2QjCTSbTX",
+					"expanded_url": "http://diggingthedigital.com/Threads-versus-posts/",
+					"display_url": "diggingthedigital.com/Threads-versus…",
+					"indices": [
+						37,
+						60
+					]
+				},
+				{
+					"url": "https://t.co/qLyk83k9l5",
+					"expanded_url": "https://twitter.com/mattnavarra/status/906825255737610242",
+					"display_url": "twitter.com/mattnavarra/st…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9215,
+			"friends_count": 1882,
+			"listed_count": 613,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3443,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61490,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "871685aa82f8a489",
+			"url": "https://api.twitter.com/1.1/geo/id/871685aa82f8a489.json",
+			"place_type": "city",
+			"name": "Utrecht",
+			"full_name": "Utrecht, The Netherlands",
+			"country_code": "NL",
+			"country": "The Netherlands",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							4.9702867,
+							52.0262429
+						],
+						[
+							5.1952468,
+							52.0262429
+						],
+						[
+							5.1952468,
+							52.142137
+						],
+						[
+							4.9702867,
+							52.142137
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 906825255737610200,
+		"quoted_status_id_str": "906825255737610242",
+		"quoted_status": {
+			"created_at": "Sun Sep 10 10:22:43 +0000 2017",
+			"id": 906825255737610200,
+			"id_str": "906825255737610242",
+			"text": "WOAH! Twitter has a hidden tweet storm feature! \n\nh/t Devesh Logendran https://t.co/QpDLhKnAZZ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 906825248187842600,
+						"id_str": "906825248187842560",
+						"indices": [
+							71,
+							94
+						],
+						"media_url": "http://pbs.twimg.com/media/DJWwwjeXgAAxfGG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DJWwwjeXgAAxfGG.jpg",
+						"url": "https://t.co/QpDLhKnAZZ",
+						"display_url": "pic.twitter.com/QpDLhKnAZZ",
+						"expanded_url": "https://twitter.com/MattNavarra/status/906825255737610242/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 720,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 408,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 768,
+								"h": 1280,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 906825248187842600,
+						"id_str": "906825248187842560",
+						"indices": [
+							71,
+							94
+						],
+						"media_url": "http://pbs.twimg.com/media/DJWwwjeXgAAxfGG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DJWwwjeXgAAxfGG.jpg",
+						"url": "https://t.co/QpDLhKnAZZ",
+						"display_url": "pic.twitter.com/QpDLhKnAZZ",
+						"expanded_url": "https://twitter.com/MattNavarra/status/906825255737610242/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 720,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 408,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 768,
+								"h": 1280,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 906825248175263700,
+						"id_str": "906825248175263744",
+						"indices": [
+							71,
+							94
+						],
+						"media_url": "http://pbs.twimg.com/media/DJWwwjbXkAAyDkn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DJWwwjbXkAAyDkn.jpg",
+						"url": "https://t.co/QpDLhKnAZZ",
+						"display_url": "pic.twitter.com/QpDLhKnAZZ",
+						"expanded_url": "https://twitter.com/MattNavarra/status/906825255737610242/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 720,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 408,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 768,
+								"h": 1280,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16211566,
+				"id_str": "16211566",
+				"name": "Matt Navarra ⭐️",
+				"screen_name": "MattNavarra",
+				"location": "Cardiff, UK",
+				"description": "Director of Social Media for @TheNextWeb @TNWconference | Ex-UK Gov Digital Comms | Twitter Addict | Facebook Geek | 😎",
+				"url": "https://t.co/6Yki6laoNz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6Yki6laoNz",
+								"expanded_url": "https://twitter.com/messages/compose?recipient_id=16211566&welcome_message_id=893985474230054916",
+								"display_url": "twitter.com/messages/compo…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 21747,
+				"friends_count": 2662,
+				"listed_count": 1489,
+				"created_at": "Tue Sep 09 21:25:05 +0000 2008",
+				"favourites_count": 76668,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 78292,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/461445103488212993/OJmbFfgR.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/461445103488212993/OJmbFfgR.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/863440217394614274/12gg2uJf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/863440217394614274/12gg2uJf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16211566/1495447468",
+				"profile_link_color": "2200CC",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "171106",
+				"profile_text_color": "473623",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 21,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Sep 09 18:58:49 +0000 2017",
 		"id": 906592747615920100,
 		"id_str": "906592747615920128",
