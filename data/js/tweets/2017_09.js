@@ -1,6 +1,635 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Sun Sep 10 12:30:05 +0000 2017",
+		"id": 906857306616422400,
+		"id_str": "906857306616422400",
+		"text": "Plakje worst erbij. En één verkeerde beweging met de stoel en onze koning ligt in de kapstok. Gotta love it. https://t.co/DYbOPhtuDZ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DYbOPhtuDZ",
+					"expanded_url": "https://twitter.com/jongderik/status/906232485968830466",
+					"display_url": "twitter.com/jongderik/stat…",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9215,
+			"friends_count": 1882,
+			"listed_count": 613,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3443,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61492,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "871685aa82f8a489",
+			"url": "https://api.twitter.com/1.1/geo/id/871685aa82f8a489.json",
+			"place_type": "city",
+			"name": "Utrecht",
+			"full_name": "Utrecht, The Netherlands",
+			"country_code": "NL",
+			"country": "The Netherlands",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							4.9702867,
+							52.0262429
+						],
+						[
+							5.1952468,
+							52.0262429
+						],
+						[
+							5.1952468,
+							52.142137
+						],
+						[
+							4.9702867,
+							52.142137
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 906232485968830500,
+		"quoted_status_id_str": "906232485968830466",
+		"quoted_status": {
+			"created_at": "Fri Sep 08 19:07:16 +0000 2017",
+			"id": 906232485968830500,
+			"id_str": "906232485968830466",
+			"text": "De koning en de burgemeester van onze hoofdstad. Samen in de kroeg. Nederland &lt;3 https://t.co/D2Ontaj0mn",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 906232481686442000,
+						"id_str": "906232481686441985",
+						"indices": [
+							84,
+							107
+						],
+						"media_url": "http://pbs.twimg.com/media/DJOVpALXUAEdRvh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DJOVpALXUAEdRvh.jpg",
+						"url": "https://t.co/D2Ontaj0mn",
+						"display_url": "pic.twitter.com/D2Ontaj0mn",
+						"expanded_url": "https://twitter.com/Jongderik/status/906232485968830466/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 720,
+								"h": 514,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 514,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 485,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 906232481686442000,
+						"id_str": "906232481686441985",
+						"indices": [
+							84,
+							107
+						],
+						"media_url": "http://pbs.twimg.com/media/DJOVpALXUAEdRvh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DJOVpALXUAEdRvh.jpg",
+						"url": "https://t.co/D2Ontaj0mn",
+						"display_url": "pic.twitter.com/D2Ontaj0mn",
+						"expanded_url": "https://twitter.com/Jongderik/status/906232485968830466/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 720,
+								"h": 514,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 514,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 485,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1066424348,
+				"id_str": "1066424348",
+				"name": "Rik de Jong",
+				"screen_name": "Jongderik",
+				"location": "Gouda, Zuid-Holland",
+				"description": "Politieke Wetenschappen. Schrijft. Liberal Democracy en Rule of Law. Jalta. LHBT. Slechthorende muziekliefhebber. Gematigd fanaticus.",
+				"url": "https://t.co/z2TXWqirHc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/z2TXWqirHc",
+								"expanded_url": "https://www.instagram.com/jongderik95/",
+								"display_url": "instagram.com/jongderik95/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3145,
+				"friends_count": 950,
+				"listed_count": 59,
+				"created_at": "Sun Jan 06 18:55:58 +0000 2013",
+				"favourites_count": 1200,
+				"utc_offset": 7200,
+				"time_zone": "Amsterdam",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 38538,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/903172289176449026/WqutGKQ5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/903172289176449026/WqutGKQ5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1066424348/1503340797",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 35,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
+		"created_at": "Sun Sep 10 12:22:03 +0000 2017",
+		"id": 906855285788213200,
+		"id_str": "906855285788213249",
+		"text": "RT @dsearls: Just improved my post on #publishing+#advertising with a better title image and caption. https://t.co/GOrmBK9HfM Other improve…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "publishing",
+					"indices": [
+						38,
+						49
+					]
+				},
+				{
+					"text": "advertising",
+					"indices": [
+						50,
+						62
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dsearls",
+					"name": "Doc Searls",
+					"id": 3339171,
+					"id_str": "3339171",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GOrmBK9HfM",
+					"expanded_url": "http://bit.ly/ltst1t",
+					"display_url": "bit.ly/ltst1t",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9215,
+			"friends_count": 1882,
+			"listed_count": 613,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3443,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61492,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Sep 10 10:27:30 +0000 2017",
+			"id": 906826458164801500,
+			"id_str": "906826458164801536",
+			"text": "Just improved my post on #publishing+#advertising with a better title image and caption. https://t.co/GOrmBK9HfM Other improvements coming.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "publishing",
+						"indices": [
+							25,
+							36
+						]
+					},
+					{
+						"text": "advertising",
+						"indices": [
+							37,
+							49
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/GOrmBK9HfM",
+						"expanded_url": "http://bit.ly/ltst1t",
+						"display_url": "bit.ly/ltst1t",
+						"indices": [
+							89,
+							112
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3339171,
+				"id_str": "3339171",
+				"name": "Doc Searls",
+				"screen_name": "dsearls",
+				"location": "SBA, BOS, JFK, EWR, SFO, LHR",
+				"description": "Wrote https://t.co/e3wRYgXFZv, co-wrote @Cluetrain, ed @ @LinuxJournal, blogs @ https://t.co/wxYeU3TPID & https://t.co/6ly0yrmlXr, runs @VRM, fellow @ @ucsbcits",
+				"url": "http://t.co/wxYeU4br7d",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/wxYeU4br7d",
+								"expanded_url": "http://doc.searls.com",
+								"display_url": "doc.searls.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/e3wRYgXFZv",
+								"expanded_url": "http://j.mp/ntnecn",
+								"display_url": "j.mp/ntnecn",
+								"indices": [
+									6,
+									29
+								]
+							},
+							{
+								"url": "https://t.co/wxYeU3TPID",
+								"expanded_url": "http://doc.searls.com",
+								"display_url": "doc.searls.com",
+								"indices": [
+									80,
+									103
+								]
+							},
+							{
+								"url": "https://t.co/6ly0yrmlXr",
+								"expanded_url": "http://doc.blog",
+								"display_url": "doc.blog",
+								"indices": [
+									106,
+									129
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 24089,
+				"friends_count": 3631,
+				"listed_count": 2139,
+				"created_at": "Tue Apr 03 16:47:00 +0000 2007",
+				"favourites_count": 47,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 13294,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/2032212/sunset2.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/2032212/sunset2.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1250175157/headshot_blackshirt_5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1250175157/headshot_blackshirt_5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3339171/1365217514",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "01a9a39529b27f36",
+				"url": "https://api.twitter.com/1.1/geo/id/01a9a39529b27f36.json",
+				"place_type": "city",
+				"name": "Manhattan",
+				"full_name": "Manhattan, NY",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-74.026675,
+								40.683935
+							],
+							[
+								-73.910408,
+								40.683935
+							],
+							[
+								-73.910408,
+								40.877483
+							],
+							[
+								-74.026675,
+								40.877483
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Sep 10 12:15:29 +0000 2017",
 		"id": 906853633664352300,
 		"id_str": "906853633664352257",
