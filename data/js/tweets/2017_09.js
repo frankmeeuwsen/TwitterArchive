@@ -1,6 +1,399 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Tue Sep 12 20:15:54 +0000 2017",
+		"id": 907699311915532300,
+		"id_str": "907699311915532293",
+		"text": "RT @blackmirror: https://t.co/kFF9lEMtzZ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "blackmirror",
+					"name": "Black Mirror",
+					"id": 4206492575,
+					"id_str": "4206492575",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 907695498626302000,
+					"id_str": "907695498626301953",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DJjIPy_XgAES_z8.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DJjIPy_XgAES_z8.jpg",
+					"url": "https://t.co/kFF9lEMtzZ",
+					"display_url": "pic.twitter.com/kFF9lEMtzZ",
+					"expanded_url": "https://twitter.com/blackmirror/status/907695792202317832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 910,
+							"h": 506,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 189,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 334,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 907695792202317800,
+					"source_status_id_str": "907695792202317832",
+					"source_user_id": 4206492575,
+					"source_user_id_str": "4206492575"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 907695498626302000,
+					"id_str": "907695498626301953",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DJjIPy_XgAES_z8.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DJjIPy_XgAES_z8.jpg",
+					"url": "https://t.co/kFF9lEMtzZ",
+					"display_url": "pic.twitter.com/kFF9lEMtzZ",
+					"expanded_url": "https://twitter.com/blackmirror/status/907695792202317832/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 910,
+							"h": 506,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 189,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 334,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 907695792202317800,
+					"source_status_id_str": "907695792202317832",
+					"source_user_id": 4206492575,
+					"source_user_id_str": "4206492575",
+					"video_info": {
+						"aspect_ratio": [
+							455,
+							253
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DJjIPy_XgAES_z8.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9215,
+			"friends_count": 1882,
+			"listed_count": 613,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3445,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61443,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Sep 12 20:01:55 +0000 2017",
+			"id": 907695792202317800,
+			"id_str": "907695792202317832",
+			"text": "https://t.co/kFF9lEMtzZ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 907695498626302000,
+						"id_str": "907695498626301953",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DJjIPy_XgAES_z8.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DJjIPy_XgAES_z8.jpg",
+						"url": "https://t.co/kFF9lEMtzZ",
+						"display_url": "pic.twitter.com/kFF9lEMtzZ",
+						"expanded_url": "https://twitter.com/blackmirror/status/907695792202317832/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 910,
+								"h": 506,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 189,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 334,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 907695498626302000,
+						"id_str": "907695498626301953",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DJjIPy_XgAES_z8.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DJjIPy_XgAES_z8.jpg",
+						"url": "https://t.co/kFF9lEMtzZ",
+						"display_url": "pic.twitter.com/kFF9lEMtzZ",
+						"expanded_url": "https://twitter.com/blackmirror/status/907695792202317832/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"large": {
+								"w": 910,
+								"h": 506,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 189,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 334,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								455,
+								253
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/DJjIPy_XgAES_z8.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4206492575,
+				"id_str": "4206492575",
+				"name": "Black Mirror",
+				"screen_name": "blackmirror",
+				"location": "The palm of your hand",
+				"description": "Our job is to explain what's happening to you as best we can.",
+				"url": "https://t.co/9bKkEiwjYH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9bKkEiwjYH",
+								"expanded_url": "http://blackmirror.tumblr.com",
+								"display_url": "blackmirror.tumblr.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 167158,
+				"friends_count": 7,
+				"listed_count": 693,
+				"created_at": "Tue Nov 17 02:33:56 +0000 2015",
+				"favourites_count": 754,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 717,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/778605099794960385/6jW6Vl_d_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/778605099794960385/6jW6Vl_d_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4206492575/1477057020",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1959,
+			"favorite_count": 3373,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1959,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Tue Sep 12 18:35:31 +0000 2017",
 		"id": 907674048322310100,
 		"id_str": "907674048322310145",
