@@ -1,6 +1,382 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Wed Sep 13 16:38:31 +0000 2017",
+		"id": 908006992727375900,
+		"id_str": "908006992727375873",
+		"text": "Met mijn huidige favoriet: @zardulu! \nhttps://t.co/3eXJwGnoUV https://t.co/uXFhbZhJFw",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "zardulu",
+					"name": "Zardulu",
+					"id": 3654439995,
+					"id_str": "3654439995",
+					"indices": [
+						27,
+						35
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3eXJwGnoUV",
+					"expanded_url": "https://gimletmedia.com/episode/zardulu/",
+					"display_url": "gimletmedia.com/episode/zardul…",
+					"indices": [
+						38,
+						61
+					]
+				},
+				{
+					"url": "https://t.co/uXFhbZhJFw",
+					"expanded_url": "https://twitter.com/FZelders/status/907988776366034944",
+					"display_url": "twitter.com/FZelders/statu…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9216,
+			"friends_count": 1885,
+			"listed_count": 613,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3446,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61450,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 907988776366035000,
+		"quoted_status_id_str": "907988776366034944",
+		"quoted_status": {
+			"created_at": "Wed Sep 13 15:26:08 +0000 2017",
+			"id": 907988776366035000,
+			"id_str": "907988776366034944",
+			"text": "@frankmeeuwsen @replyall Met ReplayAll: Altijd genieten…",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "frankmeeuwsen",
+						"name": "Frank Meeuwsen",
+						"id": 816203,
+						"id_str": "816203",
+						"indices": [
+							0,
+							14
+						]
+					},
+					{
+						"screen_name": "replyall",
+						"name": "Reply All",
+						"id": 2871094552,
+						"id_str": "2871094552",
+						"indices": [
+							15,
+							24
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+			"in_reply_to_status_id": 907932941824794600,
+			"in_reply_to_status_id_str": "907932941824794624",
+			"in_reply_to_user_id": 816203,
+			"in_reply_to_user_id_str": "816203",
+			"in_reply_to_screen_name": "frankmeeuwsen",
+			"user": {
+				"id": 8511492,
+				"id_str": "8511492",
+				"name": "FredZ",
+				"screen_name": "FZelders",
+				"location": "the Netherlands, (NL) Breugel",
+				"description": "♥ Wilma | ♥ Brabant | Geeft @MacLessen | Mac | iPad | iPhone | Fotografeert met iPhone | is fredzelders op Instagram | mijn webstek is fredzelders.nl",
+				"url": "https://t.co/wdmryVpiso",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wdmryVpiso",
+								"expanded_url": "http://fredzelders.nl",
+								"display_url": "fredzelders.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 637,
+				"friends_count": 311,
+				"listed_count": 62,
+				"created_at": "Wed Aug 29 14:03:32 +0000 2007",
+				"favourites_count": 2023,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 23702,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/800659338318741504/AEgvUaFr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/800659338318741504/AEgvUaFr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/8511492/1449332412",
+				"profile_link_color": "29A0CC",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
+		"created_at": "Wed Sep 13 16:37:51 +0000 2017",
+		"id": 908006823508267000,
+		"id_str": "908006823508267008",
+		"text": "@camathome Ook een prima podcast titel, Note to Self. https://t.co/UqelR0JnKe @NoteToSelf",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "camathome",
+					"name": "Corrie Gerritsma",
+					"id": 4796131,
+					"id_str": "4796131",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "NoteToSelf",
+					"name": "Note to Self",
+					"id": 469617682,
+					"id_str": "469617682",
+					"indices": [
+						78,
+						89
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UqelR0JnKe",
+					"expanded_url": "https://www.wnyc.org/shows/notetoself",
+					"display_url": "wnyc.org/shows/notetose…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 907933214404218900,
+		"in_reply_to_status_id_str": "907933214404218882",
+		"in_reply_to_user_id": 4796131,
+		"in_reply_to_user_id_str": "4796131",
+		"in_reply_to_screen_name": "camathome",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9216,
+			"friends_count": 1885,
+			"listed_count": 613,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3446,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61450,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Wed Sep 13 15:12:19 +0000 2017",
 		"id": 907985299330015200,
 		"id_str": "907985299330015238",
