@@ -1,6 +1,526 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Tue Sep 19 20:27:12 +0000 2017",
+		"id": 910238870129856500,
+		"id_str": "910238870129856516",
+		"text": "RT @jetscott: Excuse me, I’m just laying out IKEA furniture on a subway platform #ARKit #iphone8plus https://t.co/lECKVB4VQi",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ARKit",
+					"indices": [
+						81,
+						87
+					]
+				},
+				{
+					"text": "iphone8plus",
+					"indices": [
+						88,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jetscott",
+					"name": "Scott Stein",
+					"id": 14245253,
+					"id_str": "14245253",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 910187092189134800,
+					"id_str": "910187092189134849",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/910187092189134849/pu/img/lUQEgjkLCkHLDWN_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/910187092189134849/pu/img/lUQEgjkLCkHLDWN_.jpg",
+					"url": "https://t.co/lECKVB4VQi",
+					"display_url": "pic.twitter.com/lECKVB4VQi",
+					"expanded_url": "https://twitter.com/jetscott/status/910187172648677381/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 604,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 1067,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 910187172648677400,
+					"source_status_id_str": "910187172648677381",
+					"source_user_id": 14245253,
+					"source_user_id_str": "14245253"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 910187092189134800,
+					"id_str": "910187092189134849",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/910187092189134849/pu/img/lUQEgjkLCkHLDWN_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/910187092189134849/pu/img/lUQEgjkLCkHLDWN_.jpg",
+					"url": "https://t.co/lECKVB4VQi",
+					"display_url": "pic.twitter.com/lECKVB4VQi",
+					"expanded_url": "https://twitter.com/jetscott/status/910187172648677381/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 604,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 1067,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 910187172648677400,
+					"source_status_id_str": "910187172648677381",
+					"source_user_id": 14245253,
+					"source_user_id_str": "14245253",
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 33000,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/910187092189134849/pu/vid/360x640/22zHkCktvlOnPMO4.mp4"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/910187092189134849/pu/vid/180x320/LgHvZTQA2MXOkHU4.mp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/910187092189134849/pu/vid/720x1280/r7nePI24GnlyvUYx.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/910187092189134849/pu/pl/6B1CBLqEx5CFakWy.m3u8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 14245253,
+							"id_str": "14245253",
+							"name": "Scott Stein",
+							"screen_name": "jetscott",
+							"location": "new york metropolitan halo",
+							"description": "mobile, connected, virtual, augmented. senior editor, @cnet",
+							"url": "https://t.co/tPh5VKV8D8",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/tPh5VKV8D8",
+											"expanded_url": "http://www.cnet.com/profile/ScottStein8/",
+											"display_url": "cnet.com/profile/ScottS…",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 14228,
+							"friends_count": 1051,
+							"listed_count": 709,
+							"created_at": "Fri Mar 28 17:13:54 +0000 2008",
+							"favourites_count": 9608,
+							"utc_offset": -14400,
+							"time_zone": "Eastern Time (US & Canada)",
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 45382,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "0E404B",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/741711871/c2fa49cfae5ab2415f7980b1cf2d7fb7.png",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/741711871/c2fa49cfae5ab2415f7980b1cf2d7fb7.png",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/910186171690569729/tDa_5BTu_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/910186171690569729/tDa_5BTu_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/14245253/1477957798",
+							"profile_link_color": "103D39",
+							"profile_sidebar_border_color": "D5E487",
+							"profile_sidebar_fill_color": "93B274",
+							"profile_text_color": "3F6D50",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9213,
+			"friends_count": 1891,
+			"listed_count": 613,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3459,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61393,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Sep 19 17:01:47 +0000 2017",
+			"id": 910187172648677400,
+			"id_str": "910187172648677381",
+			"text": "Excuse me, I’m just laying out IKEA furniture on a subway platform #ARKit #iphone8plus https://t.co/lECKVB4VQi",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ARKit",
+						"indices": [
+							67,
+							73
+						]
+					},
+					{
+						"text": "iphone8plus",
+						"indices": [
+							74,
+							86
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 910187092189134800,
+						"id_str": "910187092189134849",
+						"indices": [
+							87,
+							110
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/910187092189134849/pu/img/lUQEgjkLCkHLDWN_.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/910187092189134849/pu/img/lUQEgjkLCkHLDWN_.jpg",
+						"url": "https://t.co/lECKVB4VQi",
+						"display_url": "pic.twitter.com/lECKVB4VQi",
+						"expanded_url": "https://twitter.com/jetscott/status/910187172648677381/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 604,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 1067,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 910187092189134800,
+						"id_str": "910187092189134849",
+						"indices": [
+							87,
+							110
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/910187092189134849/pu/img/lUQEgjkLCkHLDWN_.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/910187092189134849/pu/img/lUQEgjkLCkHLDWN_.jpg",
+						"url": "https://t.co/lECKVB4VQi",
+						"display_url": "pic.twitter.com/lECKVB4VQi",
+						"expanded_url": "https://twitter.com/jetscott/status/910187172648677381/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 604,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 1067,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 33000,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/910187092189134849/pu/vid/360x640/22zHkCktvlOnPMO4.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/910187092189134849/pu/vid/180x320/LgHvZTQA2MXOkHU4.mp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/910187092189134849/pu/vid/720x1280/r7nePI24GnlyvUYx.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/910187092189134849/pu/pl/6B1CBLqEx5CFakWy.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14245253,
+				"id_str": "14245253",
+				"name": "Scott Stein",
+				"screen_name": "jetscott",
+				"location": "new york metropolitan halo",
+				"description": "mobile, connected, virtual, augmented. senior editor, @cnet",
+				"url": "https://t.co/tPh5VKV8D8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/tPh5VKV8D8",
+								"expanded_url": "http://www.cnet.com/profile/ScottStein8/",
+								"display_url": "cnet.com/profile/ScottS…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14228,
+				"friends_count": 1051,
+				"listed_count": 709,
+				"created_at": "Fri Mar 28 17:13:54 +0000 2008",
+				"favourites_count": 9608,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 45382,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0E404B",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/741711871/c2fa49cfae5ab2415f7980b1cf2d7fb7.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/741711871/c2fa49cfae5ab2415f7980b1cf2d7fb7.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/910186171690569729/tDa_5BTu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/910186171690569729/tDa_5BTu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14245253/1477957798",
+				"profile_link_color": "103D39",
+				"profile_sidebar_border_color": "D5E487",
+				"profile_sidebar_fill_color": "93B274",
+				"profile_text_color": "3F6D50",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 278,
+			"favorite_count": 550,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 278,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Sep 19 18:06:31 +0000 2017",
 		"id": 910203463136661500,
 		"id_str": "910203463136661505",
