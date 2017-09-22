@@ -1,6 +1,288 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Fri Sep 22 10:38:44 +0000 2017",
+		"id": 911177940699893800,
+		"id_str": "911177940699893760",
+		"text": "Nu zit ik de rest van mijn vrijdag met die nummers in mijn hoofd... https://t.co/llZ4tuwer5",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/llZ4tuwer5",
+					"expanded_url": "https://twitter.com/MissPointwood/status/911150197924909056",
+					"display_url": "twitter.com/MissPointwood/…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9213,
+			"friends_count": 1895,
+			"listed_count": 613,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3461,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61348,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 911150197924909000,
+		"quoted_status_id_str": "911150197924909056",
+		"quoted_status": {
+			"created_at": "Fri Sep 22 08:48:30 +0000 2017",
+			"id": 911150197924909000,
+			"id_str": "911150197924909056",
+			"text": "Dit is fantastisch. https://t.co/tlqte6db0w",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 911150186633863200,
+						"id_str": "911150186633863168",
+						"indices": [
+							20,
+							43
+						],
+						"media_url": "http://pbs.twimg.com/media/DKUORGtXoAAQzmG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DKUORGtXoAAQzmG.jpg",
+						"url": "https://t.co/tlqte6db0w",
+						"display_url": "pic.twitter.com/tlqte6db0w",
+						"expanded_url": "https://twitter.com/MissPointwood/status/911150197924909056/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1080,
+								"h": 662,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 662,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 417,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 911150186633863200,
+						"id_str": "911150186633863168",
+						"indices": [
+							20,
+							43
+						],
+						"media_url": "http://pbs.twimg.com/media/DKUORGtXoAAQzmG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DKUORGtXoAAQzmG.jpg",
+						"url": "https://t.co/tlqte6db0w",
+						"display_url": "pic.twitter.com/tlqte6db0w",
+						"expanded_url": "https://twitter.com/MissPointwood/status/911150197924909056/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1080,
+								"h": 662,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 662,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 417,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1215876391,
+				"id_str": "1215876391",
+				"name": "Suus",
+				"screen_name": "MissPointwood",
+				"location": "Nederland",
+				"description": "Schrijft. Wijndrinker. Niet met mate. Librocubicularist. Fashion DIY. Heeft overigens ook gewoon een linkeroog.",
+				"url": "https://t.co/vCHuep5wXo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vCHuep5wXo",
+								"expanded_url": "http://www.instagram.com/misspointwood",
+								"display_url": "instagram.com/misspointwood",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10509,
+				"friends_count": 495,
+				"listed_count": 61,
+				"created_at": "Sun Feb 24 16:01:29 +0000 2013",
+				"favourites_count": 2074,
+				"utc_offset": 7200,
+				"time_zone": "Amsterdam",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 29881,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/459052151608578048/bqHDy7LZ_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/459052151608578048/bqHDy7LZ_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1215876391/1429272777",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 46,
+			"favorite_count": 133,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Fri Sep 22 09:26:57 +0000 2017",
 		"id": 911159875132121100,
 		"id_str": "911159875132121088",
