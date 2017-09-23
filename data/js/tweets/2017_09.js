@@ -1,6 +1,394 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Sat Sep 23 06:06:47 +0000 2017",
+		"id": 911471888383299600,
+		"id_str": "911471888383299584",
+		"text": "RT @RobTemple101: Wrote this for anyone who’s recently started a new job.\n(@Telegraph) https://t.co/nvdMDM3S3X",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RobTemple101",
+					"name": "Rob Temple",
+					"id": 1073408192,
+					"id_str": "1073408192",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "Telegraph",
+					"name": "The Telegraph",
+					"id": 16343974,
+					"id_str": "16343974",
+					"indices": [
+						75,
+						85
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 910813017838952400,
+					"id_str": "910813017838952448",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/DKPbnTEXoAAhM1j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DKPbnTEXoAAhM1j.jpg",
+					"url": "https://t.co/nvdMDM3S3X",
+					"display_url": "pic.twitter.com/nvdMDM3S3X",
+					"expanded_url": "https://twitter.com/RobTemple101/status/910813027225817088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 1625,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 643,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1134,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 910813027225817100,
+					"source_status_id_str": "910813027225817088",
+					"source_user_id": 1073408192,
+					"source_user_id_str": "1073408192"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 910813017838952400,
+					"id_str": "910813017838952448",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/DKPbnTEXoAAhM1j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DKPbnTEXoAAhM1j.jpg",
+					"url": "https://t.co/nvdMDM3S3X",
+					"display_url": "pic.twitter.com/nvdMDM3S3X",
+					"expanded_url": "https://twitter.com/RobTemple101/status/910813027225817088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 1625,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 643,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1134,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 910813027225817100,
+					"source_status_id_str": "910813027225817088",
+					"source_user_id": 1073408192,
+					"source_user_id_str": "1073408192"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9214,
+			"friends_count": 1897,
+			"listed_count": 613,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3461,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61352,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Sep 21 10:28:42 +0000 2017",
+			"id": 910813027225817100,
+			"id_str": "910813027225817088",
+			"text": "Wrote this for anyone who’s recently started a new job.\n(@Telegraph) https://t.co/nvdMDM3S3X",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Telegraph",
+						"name": "The Telegraph",
+						"id": 16343974,
+						"id_str": "16343974",
+						"indices": [
+							57,
+							67
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 910813017838952400,
+						"id_str": "910813017838952448",
+						"indices": [
+							69,
+							92
+						],
+						"media_url": "http://pbs.twimg.com/media/DKPbnTEXoAAhM1j.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DKPbnTEXoAAhM1j.jpg",
+						"url": "https://t.co/nvdMDM3S3X",
+						"display_url": "pic.twitter.com/nvdMDM3S3X",
+						"expanded_url": "https://twitter.com/RobTemple101/status/910813027225817088/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1536,
+								"h": 1625,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 643,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1134,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 910813017838952400,
+						"id_str": "910813017838952448",
+						"indices": [
+							69,
+							92
+						],
+						"media_url": "http://pbs.twimg.com/media/DKPbnTEXoAAhM1j.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DKPbnTEXoAAhM1j.jpg",
+						"url": "https://t.co/nvdMDM3S3X",
+						"display_url": "pic.twitter.com/nvdMDM3S3X",
+						"expanded_url": "https://twitter.com/RobTemple101/status/910813027225817088/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1536,
+								"h": 1625,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 643,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1134,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1073408192,
+				"id_str": "1073408192",
+				"name": "Rob Temple",
+				"screen_name": "RobTemple101",
+				"location": "TakesHerbalBathsInTheCountry",
+				"description": "Writer of Very British Problems (@SoVeryBritish) now showing on @netflix. Repped by @mushenska. @Telegraph columnist. Tech hack. Copywriter. Owner of giant dog.",
+				"url": "https://t.co/XEtPZkOPPP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/XEtPZkOPPP",
+								"expanded_url": "http://www.verybritishproblems.com",
+								"display_url": "verybritishproblems.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 21763,
+				"friends_count": 368,
+				"listed_count": 84,
+				"created_at": "Wed Jan 09 10:31:18 +0000 2013",
+				"favourites_count": 444,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 1261,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/876031810546913280/0RKsMjZ6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/876031810546913280/0RKsMjZ6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1073408192/1477135867",
+				"profile_link_color": "FA743E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 758,
+			"favorite_count": 2323,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 758,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Sep 22 19:14:00 +0000 2017",
 		"id": 911307610330140700,
 		"id_str": "911307610330140673",
