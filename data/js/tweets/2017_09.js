@@ -1,6 +1,370 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Tue Sep 26 16:31:46 +0000 2017",
+		"id": 912716334391283700,
+		"id_str": "912716334391283713",
+		"text": "Wat mist er in deze Uitgelichte Tweet? Ofwel een tweet waar voor is betaald om breed te distribueren. Om bereik naa… https://t.co/Xhzf8ih6o5",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Xhzf8ih6o5",
+					"expanded_url": "https://twitter.com/i/web/status/912716334391283713",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9213,
+			"friends_count": 1898,
+			"listed_count": 613,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3470,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61330,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "871685aa82f8a489",
+			"url": "https://api.twitter.com/1.1/geo/id/871685aa82f8a489.json",
+			"place_type": "city",
+			"name": "Utrecht",
+			"full_name": "Utrecht, The Netherlands",
+			"country_code": "NL",
+			"country": "The Netherlands",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							4.9702867,
+							52.0262429
+						],
+						[
+							5.1952468,
+							52.0262429
+						],
+						[
+							5.1952468,
+							52.142137
+						],
+						[
+							4.9702867,
+							52.142137
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 911168919838347300,
+		"quoted_status_id_str": "911168919838347264",
+		"quoted_status": {
+			"created_at": "Fri Sep 22 10:02:53 +0000 2017",
+			"id": 911168919838347300,
+			"id_str": "911168919838347264",
+			"text": "Echte #cyberaanvallen zijn minder opvallend. Zou jij het weten als je bedrijf wordt aangevallen? Doe de test: https://t.co/UtbcOfBdyV",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "cyberaanvallen",
+						"indices": [
+							6,
+							21
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 911162701694537700,
+						"id_str": "911162701694537728",
+						"indices": [
+							110,
+							133
+						],
+						"media_url": "http://pbs.twimg.com/media/DKUddu6XUAECnuH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DKUddu6XUAECnuH.jpg",
+						"url": "https://t.co/UtbcOfBdyV",
+						"display_url": "pic.twitter.com/UtbcOfBdyV",
+						"expanded_url": "https://twitter.com/microsoftnl/status/911168919838347264/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 355,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 800,
+								"h": 418,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 418,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 911162701694537700,
+						"id_str": "911162701694537728",
+						"indices": [
+							110,
+							133
+						],
+						"media_url": "http://pbs.twimg.com/media/DKUddu6XUAECnuH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DKUddu6XUAECnuH.jpg",
+						"url": "https://t.co/UtbcOfBdyV",
+						"display_url": "pic.twitter.com/UtbcOfBdyV",
+						"expanded_url": "https://twitter.com/microsoftnl/status/911168919838347264/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 355,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 800,
+								"h": 418,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 418,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 26000,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/911162701694537728/vid/640x360/kXBdp8K1GZ56kXY7.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/911162701694537728/vid/320x180/fcmymX3OdCtAMGsM.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/911162701694537728/pl/m3JRZnFl4uS8YU5f.m3u8"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/911162701694537728/vid/1280x720/bXooTmxF2asJrqsS.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"call_to_actions": {
+								"visit_site": {
+									"url": "https://www.microsoft.com/netherlands/beveiliging/default.aspx?wt.mc_id=aid651398_qsg_185207_b#digital-security-test"
+								}
+							},
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19016519,
+				"id_str": "19016519",
+				"name": "Microsoft Nederland",
+				"screen_name": "microsoftnl",
+				"location": "Schiphol, Netherlands",
+				"description": "Informatie en nieuws van Microsoft Nederland. Voor technische vragen staat @MicrosoftHelpt op werkdagen van 9.00 tot 16.00u voor je klaar.",
+				"url": "https://t.co/n7LhH3l4m8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/n7LhH3l4m8",
+								"expanded_url": "http://microsoft.nl",
+								"display_url": "microsoft.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 17134,
+				"friends_count": 2854,
+				"listed_count": 430,
+				"created_at": "Thu Jan 15 09:33:42 +0000 2009",
+				"favourites_count": 1089,
+				"utc_offset": 7200,
+				"time_zone": "Amsterdam",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 9433,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "00AFEF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/565709664/social_bgicons.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/565709664/social_bgicons.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/875648667826376705/X9pvdYQU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875648667826376705/X9pvdYQU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19016519/1490366814",
+				"profile_link_color": "FF8B00",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 19,
+			"favorite_count": 44,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"scopes": {
+				"followers": false
+			},
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Tue Sep 26 09:31:53 +0000 2017",
 		"id": 912610669744328700,
 		"id_str": "912610669744328704",
