@@ -1,6 +1,307 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Tue Sep 26 18:50:17 +0000 2017",
+		"id": 912751196137558000,
+		"id_str": "912751196137558017",
+		"text": "RT @doritosyndrome: Welcome to marketing 2017, where a bleach brand can put this out with a straight face. @Dr_Draper https://t.co/kv6OcpzB…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "doritosyndrome",
+					"name": "David Felton",
+					"id": 453190067,
+					"id_str": "453190067",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "Dr_Draper",
+					"name": "Ryan Wallman",
+					"id": 911413417,
+					"id_str": "911413417",
+					"indices": [
+						107,
+						117
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9213,
+			"friends_count": 1899,
+			"listed_count": 613,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3470,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61331,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Sep 25 16:04:14 +0000 2017",
+			"id": 912347019578105900,
+			"id_str": "912347019578105856",
+			"text": "Welcome to marketing 2017, where a bleach brand can put this out with a straight face. @Dr_Draper https://t.co/kv6OcpzBKq",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Dr_Draper",
+						"name": "Ryan Wallman",
+						"id": 911413417,
+						"id_str": "911413417",
+						"indices": [
+							87,
+							97
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 912345150948507600,
+						"id_str": "912345150948507649",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/DKlNFLrWAAEKgQy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DKlNFLrWAAEKgQy.jpg",
+						"url": "https://t.co/kv6OcpzBKq",
+						"display_url": "pic.twitter.com/kv6OcpzBKq",
+						"expanded_url": "https://twitter.com/doritosyndrome/status/912347019578105856/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 683,
+								"h": 253,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 252,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 683,
+								"h": 253,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 912345150948507600,
+						"id_str": "912345150948507649",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/DKlNFLrWAAEKgQy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DKlNFLrWAAEKgQy.jpg",
+						"url": "https://t.co/kv6OcpzBKq",
+						"display_url": "pic.twitter.com/kv6OcpzBKq",
+						"expanded_url": "https://twitter.com/doritosyndrome/status/912347019578105856/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 683,
+								"h": 253,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 252,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 683,
+								"h": 253,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 453190067,
+				"id_str": "453190067",
+				"name": "David Felton",
+				"screen_name": "doritosyndrome",
+				"location": "London, England",
+				"description": "Creative at @JungleCreations world's 5th biggest and 1st coolest media company. #OMBLE",
+				"url": "https://t.co/uG2uCxKbYJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/uG2uCxKbYJ",
+								"expanded_url": "http://www.asaanddavid.com",
+								"display_url": "asaanddavid.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 22075,
+				"friends_count": 1068,
+				"listed_count": 60,
+				"created_at": "Mon Jan 02 17:37:09 +0000 2012",
+				"favourites_count": 7440,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 18205,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/607285071783948289/Ox8WuxJ-.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/607285071783948289/Ox8WuxJ-.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/849258657988698112/kdQO4YQ7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/849258657988698112/kdQO4YQ7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/453190067/1504907776",
+				"profile_link_color": "16EAC4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 37,
+			"favorite_count": 63,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Sep 26 16:31:46 +0000 2017",
 		"id": 912716334391283700,
 		"id_str": "912716334391283713",
