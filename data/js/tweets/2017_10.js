@@ -1,6 +1,642 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Mon Oct 09 11:18:44 +0000 2017",
+		"id": 917348598542630900,
+		"id_str": "917348598542630912",
+		"text": "Intergalactic humor.... https://t.co/MWCjpEmdNZ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MWCjpEmdNZ",
+					"expanded_url": "https://twitter.com/AtticusGF/status/916705438397218816",
+					"display_url": "twitter.com/AtticusGF/stat…",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9208,
+			"friends_count": 1905,
+			"listed_count": 612,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3455,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61259,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 916705438397218800,
+		"quoted_status_id_str": "916705438397218816",
+		"quoted_status": {
+			"created_at": "Sat Oct 07 16:43:02 +0000 2017",
+			"id": 916705438397218800,
+			"id_str": "916705438397218816",
+			"text": "i am a mature adult i am a mature adult i am a mature adult i am a mature adult https://t.co/RYLNRBHXTI",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 916705424325230600,
+						"id_str": "916705424325230593",
+						"indices": [
+							80,
+							103
+						],
+						"media_url": "http://pbs.twimg.com/media/DLjKufyUQAEPIla.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DLjKufyUQAEPIla.jpg",
+						"url": "https://t.co/RYLNRBHXTI",
+						"display_url": "pic.twitter.com/RYLNRBHXTI",
+						"expanded_url": "https://twitter.com/AtticusGF/status/916705438397218816/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 430,
+								"h": 334,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 430,
+								"h": 334,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 430,
+								"h": 334,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 916705424325230600,
+						"id_str": "916705424325230593",
+						"indices": [
+							80,
+							103
+						],
+						"media_url": "http://pbs.twimg.com/media/DLjKufyUQAEPIla.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DLjKufyUQAEPIla.jpg",
+						"url": "https://t.co/RYLNRBHXTI",
+						"display_url": "pic.twitter.com/RYLNRBHXTI",
+						"expanded_url": "https://twitter.com/AtticusGF/status/916705438397218816/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 430,
+								"h": 334,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 430,
+								"h": 334,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 430,
+								"h": 334,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 93269181,
+				"id_str": "93269181",
+				"name": "Atticus Goldfinch",
+				"screen_name": "AtticusGF",
+				"location": "Drifting through the nether",
+				"description": "Ex-conservative. I left that tribe when they couldn't condemn Nazis. Recovering ecologist, budding programmer. Whisper campaign president.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6243,
+				"friends_count": 666,
+				"listed_count": 133,
+				"created_at": "Sat Nov 28 22:08:27 +0000 2009",
+				"favourites_count": 12455,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 47988,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/825216979883601921/zRpbZoHm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/825216979883601921/zRpbZoHm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/93269181/1462078484",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3124,
+			"favorite_count": 5902,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Oct 09 11:13:01 +0000 2017",
+		"id": 917347163822272500,
+		"id_str": "917347163822272513",
+		"text": "RT @HistoryInPix: Disneyland Staff Cafeteria in 1961. https://t.co/Xp6HWxRnLG",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HistoryInPix",
+					"name": "History In Pictures",
+					"id": 1557315432,
+					"id_str": "1557315432",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 917346925153677300,
+					"id_str": "917346925153677313",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/DLsSKwmU8AETzir.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DLsSKwmU8AETzir.jpg",
+					"url": "https://t.co/Xp6HWxRnLG",
+					"display_url": "pic.twitter.com/Xp6HWxRnLG",
+					"expanded_url": "https://twitter.com/HistoryInPix/status/917346927091601413/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 598,
+							"h": 441,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 598,
+							"h": 441,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 598,
+							"h": 441,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 917346927091601400,
+					"source_status_id_str": "917346927091601413",
+					"source_user_id": 1557315432,
+					"source_user_id_str": "1557315432"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 917346925153677300,
+					"id_str": "917346925153677313",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/DLsSKwmU8AETzir.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DLsSKwmU8AETzir.jpg",
+					"url": "https://t.co/Xp6HWxRnLG",
+					"display_url": "pic.twitter.com/Xp6HWxRnLG",
+					"expanded_url": "https://twitter.com/HistoryInPix/status/917346927091601413/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 598,
+							"h": 441,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 598,
+							"h": 441,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 598,
+							"h": 441,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 917346927091601400,
+					"source_status_id_str": "917346927091601413",
+					"source_user_id": 1557315432,
+					"source_user_id_str": "1557315432"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9208,
+			"friends_count": 1905,
+			"listed_count": 612,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3455,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61259,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Oct 09 11:12:05 +0000 2017",
+			"id": 917346927091601400,
+			"id_str": "917346927091601413",
+			"text": "Disneyland Staff Cafeteria in 1961. https://t.co/Xp6HWxRnLG",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 917346925153677300,
+						"id_str": "917346925153677313",
+						"indices": [
+							36,
+							59
+						],
+						"media_url": "http://pbs.twimg.com/media/DLsSKwmU8AETzir.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DLsSKwmU8AETzir.jpg",
+						"url": "https://t.co/Xp6HWxRnLG",
+						"display_url": "pic.twitter.com/Xp6HWxRnLG",
+						"expanded_url": "https://twitter.com/HistoryInPix/status/917346927091601413/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 598,
+								"h": 441,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 598,
+								"h": 441,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 598,
+								"h": 441,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 917346925153677300,
+						"id_str": "917346925153677313",
+						"indices": [
+							36,
+							59
+						],
+						"media_url": "http://pbs.twimg.com/media/DLsSKwmU8AETzir.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DLsSKwmU8AETzir.jpg",
+						"url": "https://t.co/Xp6HWxRnLG",
+						"display_url": "pic.twitter.com/Xp6HWxRnLG",
+						"expanded_url": "https://twitter.com/HistoryInPix/status/917346927091601413/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 598,
+								"h": 441,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 598,
+								"h": 441,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 598,
+								"h": 441,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1557315432,
+				"id_str": "1557315432",
+				"name": "History In Pictures",
+				"screen_name": "HistoryInPix",
+				"location": "",
+				"description": "Sharing the most powerful and entertaining historical photographs ever taken.",
+				"url": "https://t.co/7RtPTGsJbi",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7RtPTGsJbi",
+								"expanded_url": "https://www.instagram.com/historyinpix",
+								"display_url": "instagram.com/historyinpix",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1659558,
+				"friends_count": 270,
+				"listed_count": 5317,
+				"created_at": "Sun Jun 30 06:08:27 +0000 2013",
+				"favourites_count": 3396,
+				"utc_offset": -10800,
+				"time_zone": "Atlantic Time (Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 33071,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "D9D5D9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000407423854/7951b89f3498ea65d37a450c07eab756_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000407423854/7951b89f3498ea65d37a450c07eab756_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1557315432/1373490508",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 43,
+			"favorite_count": 100,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 43,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Oct 08 19:37:38 +0000 2017",
 		"id": 917111763728035800,
 		"id_str": "917111763728035840",
