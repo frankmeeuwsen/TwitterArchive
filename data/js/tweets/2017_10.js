@@ -1,6 +1,228 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Mon Oct 09 16:00:29 +0000 2017",
+		"id": 917419506192011300,
+		"id_str": "917419506192011264",
+		"text": "RT @HarkemaseBoys: @KNVB Blunderende KNVB niet de wereld over.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HarkemaseBoys",
+					"name": "Harkemase Boys",
+					"id": 84367995,
+					"id_str": "84367995",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "KNVB",
+					"name": "KNVB",
+					"id": 177618803,
+					"id_str": "177618803",
+					"indices": [
+						19,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9208,
+			"friends_count": 1936,
+			"listed_count": 612,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3458,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61262,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Oct 09 14:51:45 +0000 2017",
+			"id": 917402208945176600,
+			"id_str": "917402208945176577",
+			"text": "@KNVB Blunderende KNVB niet de wereld over.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "KNVB",
+						"name": "KNVB",
+						"id": 177618803,
+						"id_str": "177618803",
+						"indices": [
+							0,
+							5
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 917399562951843800,
+			"in_reply_to_status_id_str": "917399562951843840",
+			"in_reply_to_user_id": 177618803,
+			"in_reply_to_user_id_str": "177618803",
+			"in_reply_to_screen_name": "KNVB",
+			"user": {
+				"id": 84367995,
+				"id_str": "84367995",
+				"name": "Harkemase Boys",
+				"screen_name": "HarkemaseBoys",
+				"location": "De Bosk 20, 9281NR Harkema",
+				"description": "Officieel account Harkemase Boys. Derde Divisie zaterdag. Ook op Facebook (/harkemaseboys), Instagram (/harkemaseboys) en Snapchat (👻 harkemaseboys)!",
+				"url": "https://t.co/v6AGCpAEYZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/v6AGCpAEYZ",
+								"expanded_url": "http://www.harkemaseboys.nl",
+								"display_url": "harkemaseboys.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6437,
+				"friends_count": 374,
+				"listed_count": 66,
+				"created_at": "Thu Oct 22 16:48:12 +0000 2009",
+				"favourites_count": 1465,
+				"utc_offset": 7200,
+				"time_zone": "Amsterdam",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 24786,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C40118",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/70784444/hbf4.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/70784444/hbf4.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/884435932430118912/QgasaXoU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/884435932430118912/QgasaXoU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/84367995/1463944425",
+				"profile_link_color": "00ABFA",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "FF0000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 545,
+			"favorite_count": 1487,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "nl"
+		},
+		"is_quote_status": false,
+		"retweet_count": 545,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Mon Oct 09 12:08:47 +0000 2017",
 		"id": 917361197321728000,
 		"id_str": "917361197321728000",
