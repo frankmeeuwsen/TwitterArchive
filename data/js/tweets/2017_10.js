@@ -1,6 +1,278 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Thu Oct 12 05:46:28 +0000 2017",
+		"id": 918352144557920300,
+		"id_str": "918352144557920256",
+		"text": "RT @Flanderijn: @liekelamb @frankmeeuwsen @ZilverenKruis Helaas erg goed. Er wordt een rekeningnummer uit Malta gebruikt. Al een melding bi…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Flanderijn",
+					"name": "Flanderijn",
+					"id": 270535725,
+					"id_str": "270535725",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "liekelamb",
+					"name": "Lieke Lamb 💙",
+					"id": 12790082,
+					"id_str": "12790082",
+					"indices": [
+						16,
+						26
+					]
+				},
+				{
+					"screen_name": "frankmeeuwsen",
+					"name": "Frank Meeuwsen",
+					"id": 816203,
+					"id_str": "816203",
+					"indices": [
+						27,
+						41
+					]
+				},
+				{
+					"screen_name": "ZilverenKruis",
+					"name": "Zilveren Kruis",
+					"id": 29947796,
+					"id_str": "29947796",
+					"indices": [
+						42,
+						56
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9204,
+			"friends_count": 1936,
+			"listed_count": 612,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3464,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61276,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Oct 11 21:15:18 +0000 2017",
+			"id": 918223505036075000,
+			"id_str": "918223505036075009",
+			"text": "@liekelamb @frankmeeuwsen @ZilverenKruis Helaas erg goed. Er wordt een rekeningnummer uit Malta gebruikt. Al een me… https://t.co/9s9chmEAlD",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "liekelamb",
+						"name": "Lieke Lamb 💙",
+						"id": 12790082,
+						"id_str": "12790082",
+						"indices": [
+							0,
+							10
+						]
+					},
+					{
+						"screen_name": "frankmeeuwsen",
+						"name": "Frank Meeuwsen",
+						"id": 816203,
+						"id_str": "816203",
+						"indices": [
+							11,
+							25
+						]
+					},
+					{
+						"screen_name": "ZilverenKruis",
+						"name": "Zilveren Kruis",
+						"id": 29947796,
+						"id_str": "29947796",
+						"indices": [
+							26,
+							40
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/9s9chmEAlD",
+						"expanded_url": "https://twitter.com/i/web/status/918223505036075009",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 918219006947053600,
+			"in_reply_to_status_id_str": "918219006947053568",
+			"in_reply_to_user_id": 12790082,
+			"in_reply_to_user_id_str": "12790082",
+			"in_reply_to_screen_name": "liekelamb",
+			"user": {
+				"id": 270535725,
+				"id_str": "270535725",
+				"name": "Flanderijn",
+				"screen_name": "Flanderijn",
+				"location": "Nederland",
+				"description": "Flanderijn is een incasso-en gerechtsdeurwaardersorganisatie met 13 vestigingen in Nederland. Wij incasseren vorderingen met respect voor uw relatie.",
+				"url": "https://t.co/csEbUk6itV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/csEbUk6itV",
+								"expanded_url": "http://www.flanderijn.nl",
+								"display_url": "flanderijn.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3629,
+				"friends_count": 299,
+				"listed_count": 9,
+				"created_at": "Tue Mar 22 20:07:19 +0000 2011",
+				"favourites_count": 39,
+				"utc_offset": -7200,
+				"time_zone": "Greenland",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 399,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1581423202/flanderijn_logo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1581423202/flanderijn_logo_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/270535725/1415694556",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "nl"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Wed Oct 11 20:36:57 +0000 2017",
 		"id": 918213855326728200,
 		"id_str": "918213855326728194",
