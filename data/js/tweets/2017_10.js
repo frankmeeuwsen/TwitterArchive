@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Fri Oct 13 12:59:08 +0000 2017",
+		"id": 918823418249826300,
+		"id_str": "918823418249826304",
+		"text": "/cc @DeBesteSocial (check the thread) https://t.co/yVYEkeKatN",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DeBesteSocial",
+					"name": "De Beste SocialMedia",
+					"id": 1843622779,
+					"id_str": "1843622779",
+					"indices": [
+						4,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/yVYEkeKatN",
+					"expanded_url": "https://twitter.com/netflix/status/918674772283744256",
+					"display_url": "twitter.com/netflix/status…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9206,
+			"friends_count": 1936,
+			"listed_count": 613,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3470,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61271,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 918674772283744300,
+		"quoted_status_id_str": "918674772283744256",
+		"quoted_status": {
+			"created_at": "Fri Oct 13 03:08:28 +0000 2017",
+			"id": 918674772283744300,
+			"id_str": "918674772283744256",
+			"text": "@mattwhitlockPM Young Content Licensing Fees",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mattwhitlockPM",
+						"name": "Matt",
+						"id": 23885430,
+						"id_str": "23885430",
+						"indices": [
+							0,
+							15
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 918634280309411800,
+			"in_reply_to_status_id_str": "918634280309411841",
+			"in_reply_to_user_id": 23885430,
+			"in_reply_to_user_id_str": "23885430",
+			"in_reply_to_screen_name": "mattwhitlockPM",
+			"user": {
+				"id": 16573941,
+				"id_str": "16573941",
+				"name": "Netflix US",
+				"screen_name": "netflix",
+				"location": "Los Gatos, CA",
+				"description": "Not liable for any emotional trauma you may suffer as a result of watching Gerald's Game  //  Customer Service: @NetflixHelps",
+				"url": "https://t.co/i4spcePMBR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/i4spcePMBR",
+								"expanded_url": "http://netflix.com",
+								"display_url": "netflix.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3721220,
+				"friends_count": 833,
+				"listed_count": 13485,
+				"created_at": "Fri Oct 03 04:16:17 +0000 2008",
+				"favourites_count": 10297,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 20654,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/682982712886476800/tXck5049.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/682982712886476800/tXck5049.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/744949842720391168/wuzyVTTX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/744949842720391168/wuzyVTTX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16573941/1506924627",
+				"profile_link_color": "E50914",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 120,
+			"favorite_count": 761,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Oct 13 08:29:58 +0000 2017",
 		"id": 918755679480971300,
 		"id_str": "918755679480971264",
