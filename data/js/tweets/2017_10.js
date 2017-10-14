@@ -1,6 +1,245 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Sat Oct 14 06:11:40 +0000 2017",
+		"id": 919083265537073200,
+		"id_str": "919083265537073153",
+		"text": "RT @mkeulemans: Zo, even geblogd over wat er nou gisteren bij #NOSjournaal gebeurde. RT Help, we worden gevirald! https://t.co/kfz1W0QGuJ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NOSjournaal",
+					"indices": [
+						62,
+						74
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mkeulemans",
+					"name": "Maarten Keulemans",
+					"id": 15200788,
+					"id_str": "15200788",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kfz1W0QGuJ",
+					"expanded_url": "https://keulemans.wordpress.com/2017/10/13/alliander/",
+					"display_url": "keulemans.wordpress.com/2017/10/13/all…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9205,
+			"friends_count": 1936,
+			"listed_count": 613,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3470,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61274,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Oct 13 12:10:07 +0000 2017",
+			"id": 918811083435102200,
+			"id_str": "918811083435102209",
+			"text": "Zo, even geblogd over wat er nou gisteren bij #NOSjournaal gebeurde. RT Help, we worden gevirald! https://t.co/kfz1W0QGuJ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "NOSjournaal",
+						"indices": [
+							46,
+							58
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/kfz1W0QGuJ",
+						"expanded_url": "https://keulemans.wordpress.com/2017/10/13/alliander/",
+						"display_url": "keulemans.wordpress.com/2017/10/13/all…",
+						"indices": [
+							98,
+							121
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15200788,
+				"id_str": "15200788",
+				"name": "Maarten Keulemans",
+				"screen_name": "mkeulemans",
+				"location": "The Netherlands",
+				"description": "Wetenschapsredacteur de Volkskrant, blogger, columnist. 'Wherever and whenever you can, count' (Francis Galton). Tweets op persoonlijke titel.",
+				"url": "https://t.co/t2G3budsC5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/t2G3budsC5",
+								"expanded_url": "http://www.volkskrant.nl/redactie/maarten-keulemans~r35/",
+								"display_url": "volkskrant.nl/redactie/maart…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6051,
+				"friends_count": 616,
+				"listed_count": 191,
+				"created_at": "Sun Jun 22 21:03:59 +0000 2008",
+				"favourites_count": 897,
+				"utc_offset": 7200,
+				"time_zone": "Amsterdam",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 30782,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/780712220565053440/_T5Fs6ca_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/780712220565053440/_T5Fs6ca_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15200788/1408656705",
+				"profile_link_color": "D02B55",
+				"profile_sidebar_border_color": "829D5E",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 166,
+			"favorite_count": 157,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"is_quote_status": false,
+		"retweet_count": 166,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Fri Oct 13 19:35:52 +0000 2017",
 		"id": 918923257927143400,
 		"id_str": "918923257927143424",
