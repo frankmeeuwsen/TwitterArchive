@@ -1,6 +1,288 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Sun Oct 15 14:46:28 +0000 2017",
+		"id": 919575203574927400,
+		"id_str": "919575203574927360",
+		"text": "Twitter. Altijd de beste plek voor een stukje personal branding naar demense toe. https://t.co/BhY5CLT2SM",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BhY5CLT2SM",
+					"expanded_url": "https://twitter.com/TurkseTulp/status/919273029460512768",
+					"display_url": "twitter.com/TurkseTulp/sta…",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9207,
+			"friends_count": 1936,
+			"listed_count": 613,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3474,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61283,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 919273029460512800,
+		"quoted_status_id_str": "919273029460512768",
+		"quoted_status": {
+			"created_at": "Sat Oct 14 18:45:44 +0000 2017",
+			"id": 919273029460512800,
+			"id_str": "919273029460512768",
+			"text": "Iemand nog op zoek naar een administratie kantoor? https://t.co/UByZ3PcvtC",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 919273017993293800,
+						"id_str": "919273017993293824",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/media/DMHp8HkXcAA-JmD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DMHp8HkXcAA-JmD.jpg",
+						"url": "https://t.co/UByZ3PcvtC",
+						"display_url": "pic.twitter.com/UByZ3PcvtC",
+						"expanded_url": "https://twitter.com/TurkseTulp/status/919273029460512768/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1075,
+								"h": 960,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 607,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1075,
+								"h": 960,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 919273017993293800,
+						"id_str": "919273017993293824",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/media/DMHp8HkXcAA-JmD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DMHp8HkXcAA-JmD.jpg",
+						"url": "https://t.co/UByZ3PcvtC",
+						"display_url": "pic.twitter.com/UByZ3PcvtC",
+						"expanded_url": "https://twitter.com/TurkseTulp/status/919273029460512768/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1075,
+								"h": 960,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 607,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1075,
+								"h": 960,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 707988361567412200,
+				"id_str": "707988361567412228",
+				"name": "Narin Fa⚘ma",
+				"screen_name": "TurkseTulp",
+				"location": "RotterdammerT",
+				"description": "Human Rorschach test.",
+				"url": "https://t.co/pojuk3YrXs",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pojuk3YrXs",
+								"expanded_url": "http://dutchturks.nl/author/turksetulp/",
+								"display_url": "dutchturks.nl/author/turkset…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1598,
+				"friends_count": 1441,
+				"listed_count": 59,
+				"created_at": "Thu Mar 10 17:55:54 +0000 2016",
+				"favourites_count": 32600,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 53005,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/913474944759148546/7XMjXW_M_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/913474944759148546/7XMjXW_M_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/707988361567412228/1507285571",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 64,
+			"favorite_count": 96,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Sun Oct 15 14:17:39 +0000 2017",
 		"id": 919567952017489900,
 		"id_str": "919567952017489920",
