@@ -1,6 +1,394 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Sun Oct 15 14:17:39 +0000 2017",
+		"id": 919567952017489900,
+		"id_str": "919567952017489920",
+		"text": "RT @carlquintanilla: The best —&gt;\n\n@HamillHimself https://t.co/zwWkcVCtZK",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "carlquintanilla",
+					"name": "Carl Quintanilla",
+					"id": 114782468,
+					"id_str": "114782468",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "HamillHimself",
+					"name": "@HamillHimself",
+					"id": 304679484,
+					"id_str": "304679484",
+					"indices": [
+						37,
+						51
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 919234021225140200,
+					"id_str": "919234021225140224",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/DMHGeNSUEAA7_6K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DMHGeNSUEAA7_6K.jpg",
+					"url": "https://t.co/zwWkcVCtZK",
+					"display_url": "pic.twitter.com/zwWkcVCtZK",
+					"expanded_url": "https://twitter.com/carlquintanilla/status/919234026950545408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 621,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 919234026950545400,
+					"source_status_id_str": "919234026950545408",
+					"source_user_id": 114782468,
+					"source_user_id_str": "114782468"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 919234021225140200,
+					"id_str": "919234021225140224",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/DMHGeNSUEAA7_6K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DMHGeNSUEAA7_6K.jpg",
+					"url": "https://t.co/zwWkcVCtZK",
+					"display_url": "pic.twitter.com/zwWkcVCtZK",
+					"expanded_url": "https://twitter.com/carlquintanilla/status/919234026950545408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 621,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 919234026950545400,
+					"source_status_id_str": "919234026950545408",
+					"source_user_id": 114782468,
+					"source_user_id_str": "114782468"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9207,
+			"friends_count": 1936,
+			"listed_count": 613,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3474,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61282,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Oct 14 16:10:45 +0000 2017",
+			"id": 919234026950545400,
+			"id_str": "919234026950545408",
+			"text": "The best —&gt;\n\n@HamillHimself https://t.co/zwWkcVCtZK",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "HamillHimself",
+						"name": "@HamillHimself",
+						"id": 304679484,
+						"id_str": "304679484",
+						"indices": [
+							16,
+							30
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 919234021225140200,
+						"id_str": "919234021225140224",
+						"indices": [
+							31,
+							54
+						],
+						"media_url": "http://pbs.twimg.com/media/DMHGeNSUEAA7_6K.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DMHGeNSUEAA7_6K.jpg",
+						"url": "https://t.co/zwWkcVCtZK",
+						"display_url": "pic.twitter.com/zwWkcVCtZK",
+						"expanded_url": "https://twitter.com/carlquintanilla/status/919234026950545408/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 600,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1242,
+								"h": 621,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 919234021225140200,
+						"id_str": "919234021225140224",
+						"indices": [
+							31,
+							54
+						],
+						"media_url": "http://pbs.twimg.com/media/DMHGeNSUEAA7_6K.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DMHGeNSUEAA7_6K.jpg",
+						"url": "https://t.co/zwWkcVCtZK",
+						"display_url": "pic.twitter.com/zwWkcVCtZK",
+						"expanded_url": "https://twitter.com/carlquintanilla/status/919234026950545408/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 600,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1242,
+								"h": 621,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 114782468,
+				"id_str": "114782468",
+				"name": "Carl Quintanilla",
+				"screen_name": "carlquintanilla",
+				"location": "nyc",
+				"description": "Anchor @NBCUniversal and former @WSJ. Board member @NYCityCenter.",
+				"url": "https://t.co/CxJs7swfHk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/CxJs7swfHk",
+								"expanded_url": "http://cnbc.com/binge",
+								"display_url": "cnbc.com/binge",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 148256,
+				"friends_count": 4310,
+				"listed_count": 2745,
+				"created_at": "Tue Feb 16 15:59:04 +0000 2010",
+				"favourites_count": 456,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 10042,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/305554024/carl_quintanilla_twitter_background.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/305554024/carl_quintanilla_twitter_background.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/888168875199803394/Ry7S4urS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/888168875199803394/Ry7S4urS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/114782468/1506617537",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2514,
+			"favorite_count": 9905,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2514,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Oct 15 13:01:48 +0000 2017",
 		"id": 919548866185388000,
 		"id_str": "919548866185388035",
