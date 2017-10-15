@@ -1,6 +1,1027 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Sun Oct 15 13:01:48 +0000 2017",
+		"id": 919548866185388000,
+		"id_str": "919548866185388035",
+		"text": "@TristanLavender Sinds 2012 tevreden betalend gebruiker van 1password. Ook met gezinsabo en zakelijk.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TristanLavender",
+					"name": "Tristan Lavender",
+					"id": 27412577,
+					"id_str": "27412577",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 919548484159705100,
+		"in_reply_to_status_id_str": "919548484159705088",
+		"in_reply_to_user_id": 27412577,
+		"in_reply_to_user_id_str": "27412577",
+		"in_reply_to_screen_name": "TristanLavender",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9207,
+			"friends_count": 1936,
+			"listed_count": 613,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3474,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61281,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "871685aa82f8a489",
+			"url": "https://api.twitter.com/1.1/geo/id/871685aa82f8a489.json",
+			"place_type": "city",
+			"name": "Utrecht",
+			"full_name": "Utrecht, The Netherlands",
+			"country_code": "NL",
+			"country": "The Netherlands",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							4.9702867,
+							52.0262429
+						],
+						[
+							5.1952468,
+							52.0262429
+						],
+						[
+							5.1952468,
+							52.142137
+						],
+						[
+							4.9702867,
+							52.142137
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl"
+	},
+	{
+		"created_at": "Sun Oct 15 12:57:34 +0000 2017",
+		"id": 919547797950607400,
+		"id_str": "919547797950607360",
+		"text": "RT @HopeStillFlies: The Four Horsemen of The Bubble of Silicon Valley Venture Capitalists. https://t.co/qt4S3sDehK",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HopeStillFlies",
+					"name": "Hopebara Ai",
+					"id": 904587308,
+					"id_str": "904587308",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 919279996870496300,
+					"id_str": "919279996870496256",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/DMHwSV6WkAAPztK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DMHwSV6WkAAPztK.jpg",
+					"url": "https://t.co/qt4S3sDehK",
+					"display_url": "pic.twitter.com/qt4S3sDehK",
+					"expanded_url": "https://twitter.com/HopeStillFlies/status/919280120921247746/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 400,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1094,
+							"h": 643,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1094,
+							"h": 643,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 919280120921247700,
+					"source_status_id_str": "919280120921247746",
+					"source_user_id": 904587308,
+					"source_user_id_str": "904587308"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 919279996870496300,
+					"id_str": "919279996870496256",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/DMHwSV6WkAAPztK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DMHwSV6WkAAPztK.jpg",
+					"url": "https://t.co/qt4S3sDehK",
+					"display_url": "pic.twitter.com/qt4S3sDehK",
+					"expanded_url": "https://twitter.com/HopeStillFlies/status/919280120921247746/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 400,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1094,
+							"h": 643,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1094,
+							"h": 643,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 919280120921247700,
+					"source_status_id_str": "919280120921247746",
+					"source_user_id": 904587308,
+					"source_user_id_str": "904587308"
+				},
+				{
+					"id": 919280016759906300,
+					"id_str": "919280016759906304",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/DMHwTgAW4AAhHlK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DMHwTgAW4AAhHlK.jpg",
+					"url": "https://t.co/qt4S3sDehK",
+					"display_url": "pic.twitter.com/qt4S3sDehK",
+					"expanded_url": "https://twitter.com/HopeStillFlies/status/919280120921247746/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1095,
+							"h": 761,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 473,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1095,
+							"h": 761,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 919280120921247700,
+					"source_status_id_str": "919280120921247746",
+					"source_user_id": 904587308,
+					"source_user_id_str": "904587308"
+				},
+				{
+					"id": 919280036200493000,
+					"id_str": "919280036200493056",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/DMHwUobWsAA-ujA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DMHwUobWsAA-ujA.jpg",
+					"url": "https://t.co/qt4S3sDehK",
+					"display_url": "pic.twitter.com/qt4S3sDehK",
+					"expanded_url": "https://twitter.com/HopeStillFlies/status/919280120921247746/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 548,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1003,
+							"h": 808,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1003,
+							"h": 808,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 919280120921247700,
+					"source_status_id_str": "919280120921247746",
+					"source_user_id": 904587308,
+					"source_user_id_str": "904587308"
+				},
+				{
+					"id": 919280056878469100,
+					"id_str": "919280056878469120",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/DMHwV1dXkAA1PgT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DMHwV1dXkAA1PgT.jpg",
+					"url": "https://t.co/qt4S3sDehK",
+					"display_url": "pic.twitter.com/qt4S3sDehK",
+					"expanded_url": "https://twitter.com/HopeStillFlies/status/919280120921247746/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1009,
+							"h": 460,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 310,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1009,
+							"h": 460,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 919280120921247700,
+					"source_status_id_str": "919280120921247746",
+					"source_user_id": 904587308,
+					"source_user_id_str": "904587308"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9207,
+			"friends_count": 1936,
+			"listed_count": 613,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3474,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61281,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Oct 14 19:13:54 +0000 2017",
+			"id": 919280120921247700,
+			"id_str": "919280120921247746",
+			"text": "The Four Horsemen of The Bubble of Silicon Valley Venture Capitalists. https://t.co/qt4S3sDehK",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 919279996870496300,
+						"id_str": "919279996870496256",
+						"indices": [
+							71,
+							94
+						],
+						"media_url": "http://pbs.twimg.com/media/DMHwSV6WkAAPztK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DMHwSV6WkAAPztK.jpg",
+						"url": "https://t.co/qt4S3sDehK",
+						"display_url": "pic.twitter.com/qt4S3sDehK",
+						"expanded_url": "https://twitter.com/HopeStillFlies/status/919280120921247746/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 400,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1094,
+								"h": 643,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1094,
+								"h": 643,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 919279996870496300,
+						"id_str": "919279996870496256",
+						"indices": [
+							71,
+							94
+						],
+						"media_url": "http://pbs.twimg.com/media/DMHwSV6WkAAPztK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DMHwSV6WkAAPztK.jpg",
+						"url": "https://t.co/qt4S3sDehK",
+						"display_url": "pic.twitter.com/qt4S3sDehK",
+						"expanded_url": "https://twitter.com/HopeStillFlies/status/919280120921247746/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 400,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1094,
+								"h": 643,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1094,
+								"h": 643,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 919280016759906300,
+						"id_str": "919280016759906304",
+						"indices": [
+							71,
+							94
+						],
+						"media_url": "http://pbs.twimg.com/media/DMHwTgAW4AAhHlK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DMHwTgAW4AAhHlK.jpg",
+						"url": "https://t.co/qt4S3sDehK",
+						"display_url": "pic.twitter.com/qt4S3sDehK",
+						"expanded_url": "https://twitter.com/HopeStillFlies/status/919280120921247746/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1095,
+								"h": 761,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 473,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1095,
+								"h": 761,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 919280036200493000,
+						"id_str": "919280036200493056",
+						"indices": [
+							71,
+							94
+						],
+						"media_url": "http://pbs.twimg.com/media/DMHwUobWsAA-ujA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DMHwUobWsAA-ujA.jpg",
+						"url": "https://t.co/qt4S3sDehK",
+						"display_url": "pic.twitter.com/qt4S3sDehK",
+						"expanded_url": "https://twitter.com/HopeStillFlies/status/919280120921247746/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 548,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1003,
+								"h": 808,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1003,
+								"h": 808,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 919280056878469100,
+						"id_str": "919280056878469120",
+						"indices": [
+							71,
+							94
+						],
+						"media_url": "http://pbs.twimg.com/media/DMHwV1dXkAA1PgT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DMHwV1dXkAA1PgT.jpg",
+						"url": "https://t.co/qt4S3sDehK",
+						"display_url": "pic.twitter.com/qt4S3sDehK",
+						"expanded_url": "https://twitter.com/HopeStillFlies/status/919280120921247746/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1009,
+								"h": 460,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 310,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1009,
+								"h": 460,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 904587308,
+				"id_str": "904587308",
+				"name": "Hopebara Ai",
+				"screen_name": "HopeStillFlies",
+				"location": "Neutopia, TN",
+				"description": "Duhuhuhu~~\nI build things and break people. Lover of Giant Isopods. Admin of https://t.co/LRlQpFag8v & https://t.co/FNVzDcHsx8",
+				"url": "https://t.co/6kyzNlU0CA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6kyzNlU0CA",
+								"expanded_url": "http://hopestillflies.com",
+								"display_url": "hopestillflies.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/LRlQpFag8v",
+								"expanded_url": "http://sealion.club",
+								"display_url": "sealion.club",
+								"indices": [
+									77,
+									100
+								]
+							},
+							{
+								"url": "https://t.co/FNVzDcHsx8",
+								"expanded_url": "http://chan.today",
+								"display_url": "chan.today",
+								"indices": [
+									103,
+									126
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 5752,
+				"friends_count": 4070,
+				"listed_count": 109,
+				"created_at": "Thu Oct 25 20:10:07 +0000 2012",
+				"favourites_count": 105690,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 61875,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/690447524746780672/av2ItB6B.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/690447524746780672/av2ItB6B.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/916770512361181184/f7PIx6wF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/916770512361181184/f7PIx6wF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/904587308/1507418982",
+				"profile_link_color": "89C9FA",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9581,
+			"favorite_count": 14376,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 9581,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Oct 15 12:56:45 +0000 2017",
+		"id": 919547593306312700,
+		"id_str": "919547593306312705",
+		"text": "@TristanLavender *kuch*passwordmanager*kuch*",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TristanLavender",
+					"name": "Tristan Lavender",
+					"id": 27412577,
+					"id_str": "27412577",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 919544539425189900,
+		"in_reply_to_status_id_str": "919544539425189888",
+		"in_reply_to_user_id": 27412577,
+		"in_reply_to_user_id_str": "27412577",
+		"in_reply_to_screen_name": "TristanLavender",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9207,
+			"friends_count": 1936,
+			"listed_count": 613,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3474,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61281,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "871685aa82f8a489",
+			"url": "https://api.twitter.com/1.1/geo/id/871685aa82f8a489.json",
+			"place_type": "city",
+			"name": "Utrecht",
+			"full_name": "Utrecht, The Netherlands",
+			"country_code": "NL",
+			"country": "The Netherlands",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							4.9702867,
+							52.0262429
+						],
+						[
+							5.1952468,
+							52.0262429
+						],
+						[
+							5.1952468,
+							52.142137
+						],
+						[
+							4.9702867,
+							52.142137
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "de"
+	},
+	{
+		"created_at": "Sun Oct 15 12:56:43 +0000 2017",
+		"id": 919547585647579100,
+		"id_str": "919547585647579136",
+		"text": "Wat een feest vandaag met de #culturelezondag in Utrecht, speciaal voor kids. Midgetgolf, knikkerbanen en potten&amp;pa… https://t.co/CcNE6UbKkX",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "culturelezondag",
+					"indices": [
+						29,
+						45
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CcNE6UbKkX",
+					"expanded_url": "https://twitter.com/i/web/status/919547585647579136",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						121,
+						144
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9207,
+			"friends_count": 1936,
+			"listed_count": 613,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3474,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61281,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Sat Oct 14 19:02:23 +0000 2017",
 		"id": 919277219960250400,
 		"id_str": "919277219960250368",
