@@ -1,6 +1,569 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Wed Oct 18 07:16:58 +0000 2017",
+		"id": 920549247178723300,
+		"id_str": "920549247178723328",
+		"text": "@Marjolijn @johanvoets @erwblo @Markies @johanschaap Doe ik wel mijn biercape aan!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Marjolijn",
+					"name": "Marjolijn",
+					"id": 1610571,
+					"id_str": "1610571",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "johanvoets",
+					"name": "Johan Voets",
+					"id": 7422272,
+					"id_str": "7422272",
+					"indices": [
+						11,
+						22
+					]
+				},
+				{
+					"screen_name": "erwblo",
+					"name": "erwin blom",
+					"id": 713333,
+					"id_str": "713333",
+					"indices": [
+						23,
+						30
+					]
+				},
+				{
+					"screen_name": "Markies",
+					"name": "Mark de Kock",
+					"id": 1858541,
+					"id_str": "1858541",
+					"indices": [
+						31,
+						39
+					]
+				},
+				{
+					"screen_name": "johanschaap",
+					"name": "Johan Schaap",
+					"id": 2268351,
+					"id_str": "2268351",
+					"indices": [
+						40,
+						52
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 920413125769334800,
+		"in_reply_to_status_id_str": "920413125769334784",
+		"in_reply_to_user_id": 1610571,
+		"in_reply_to_user_id_str": "1610571",
+		"in_reply_to_screen_name": "Marjolijn",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9211,
+			"friends_count": 1938,
+			"listed_count": 613,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3479,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61262,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl"
+	},
+	{
+		"created_at": "Wed Oct 18 07:09:52 +0000 2017",
+		"id": 920547462896644100,
+		"id_str": "920547462896644096",
+		"text": "Ik moet nu echt aan het werk dus deze lijst met video's is voor later. Anders is mijn dag al weer voorbij... https://t.co/jbGpQ9Xeow",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jbGpQ9Xeow",
+					"expanded_url": "http://www.openculture.com/2016/11/20-mesmerizing-videos-of-japanese-artisans-creating-traditional-handicrafts.html",
+					"display_url": "openculture.com/2016/11/20-mes…",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9211,
+			"friends_count": 1938,
+			"listed_count": 613,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3479,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61262,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
+		"created_at": "Wed Oct 18 07:07:17 +0000 2017",
+		"id": 920546812708245500,
+		"id_str": "920546812708245504",
+		"text": "RT @openculture: Kraftwerk’s “The Robots” Performed by German 1st Graders in Cute Cardboard Robot Outfits https://t.co/HfMNfDS1IQ https://t…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "openculture",
+					"name": "Open Culture",
+					"id": 19826509,
+					"id_str": "19826509",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HfMNfDS1IQ",
+					"expanded_url": "http://goo.gl/URJzX1",
+					"display_url": "goo.gl/URJzX1",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9211,
+			"friends_count": 1938,
+			"listed_count": 613,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3479,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61262,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Oct 18 04:58:58 +0000 2017",
+			"id": 920514521445339100,
+			"id_str": "920514521445339136",
+			"text": "Kraftwerk’s “The Robots” Performed by German 1st Graders in Cute Cardboard Robot Outfits https://t.co/HfMNfDS1IQ https://t.co/G8IxOkvBZd",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/HfMNfDS1IQ",
+						"expanded_url": "http://goo.gl/URJzX1",
+						"display_url": "goo.gl/URJzX1",
+						"indices": [
+							89,
+							112
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 920514513123926000,
+						"id_str": "920514513123926016",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/media/DMZTEpVX4AATZlz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DMZTEpVX4AATZlz.jpg",
+						"url": "https://t.co/G8IxOkvBZd",
+						"display_url": "pic.twitter.com/G8IxOkvBZd",
+						"expanded_url": "https://twitter.com/openculture/status/920514521445339136/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 599,
+								"h": 339,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 599,
+								"h": 339,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 599,
+								"h": 339,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 920514513123926000,
+						"id_str": "920514513123926016",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/media/DMZTEpVX4AATZlz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DMZTEpVX4AATZlz.jpg",
+						"url": "https://t.co/G8IxOkvBZd",
+						"display_url": "pic.twitter.com/G8IxOkvBZd",
+						"expanded_url": "https://twitter.com/openculture/status/920514521445339136/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 599,
+								"h": 339,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 599,
+								"h": 339,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 599,
+								"h": 339,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19826509,
+				"id_str": "19826509",
+				"name": "Open Culture",
+				"screen_name": "openculture",
+				"location": "Mountain View, CA",
+				"description": "We make the web a more intelligent place. A Thought-Provoking Blog. Free Courses. Free Audio Books & eBooks. And more.",
+				"url": "http://t.co/HVA1Vpy2Ba",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/HVA1Vpy2Ba",
+								"expanded_url": "http://www.openculture.com",
+								"display_url": "openculture.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 373379,
+				"friends_count": 882,
+				"listed_count": 12932,
+				"created_at": "Sat Jan 31 19:01:34 +0000 2009",
+				"favourites_count": 106,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 54955,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "86ACB7",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/4564878/oc_twitter.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/4564878/oc_twitter.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/851645340830715904/jrs1gcNM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/851645340830715904/jrs1gcNM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19826509/1491930107",
+				"profile_link_color": "306885",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "F6F2E3",
+				"profile_text_color": "62625D",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 46,
+			"favorite_count": 129,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 46,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Oct 18 05:30:12 +0000 2017",
 		"id": 920522381059350500,
 		"id_str": "920522381059350528",
