@@ -1,10 +1,294 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Thu Oct 19 17:08:24 +0000 2017",
+		"id": 921060474476814300,
+		"id_str": "921060474476814336",
+		"text": "@sabinedewitte @Philips @tweethue Waar heb je zorgen over wat betreft privacy? Je kunt onze privacypolicy lezen op… https://t.co/xg2AnKeSon",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sabinedewitte",
+					"name": "Sabine de Witte🦉",
+					"id": 17645718,
+					"id_str": "17645718",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "Philips",
+					"name": "Philips",
+					"id": 819791,
+					"id_str": "819791",
+					"indices": [
+						15,
+						23
+					]
+				},
+				{
+					"screen_name": "tweethue",
+					"name": "Meet hue",
+					"id": 901963182,
+					"id_str": "901963182",
+					"indices": [
+						24,
+						33
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xg2AnKeSon",
+					"expanded_url": "https://twitter.com/i/web/status/921060474476814336",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 921059880945020900,
+		"in_reply_to_status_id_str": "921059880945020928",
+		"in_reply_to_user_id": 17645718,
+		"in_reply_to_user_id_str": "17645718",
+		"in_reply_to_screen_name": "sabinedewitte",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9210,
+			"friends_count": 1940,
+			"listed_count": 613,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3482,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61218,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
+		"created_at": "Thu Oct 19 17:03:56 +0000 2017",
+		"id": 921059352190079000,
+		"id_str": "921059352190078978",
+		"text": "@sabinedewitte @Philips @tweethue Joe Sabine! Doe nou via Triggi. Veulhandiger! En ik gooi er extragratis support e… https://t.co/eacG6gfKh6",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sabinedewitte",
+					"name": "Sabine de Witte🦉",
+					"id": 17645718,
+					"id_str": "17645718",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "Philips",
+					"name": "Philips",
+					"id": 819791,
+					"id_str": "819791",
+					"indices": [
+						15,
+						23
+					]
+				},
+				{
+					"screen_name": "tweethue",
+					"name": "Meet hue",
+					"id": 901963182,
+					"id_str": "901963182",
+					"indices": [
+						24,
+						33
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/eacG6gfKh6",
+					"expanded_url": "https://twitter.com/i/web/status/921059352190078978",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 921057226139283500,
+		"in_reply_to_status_id_str": "921057226139283456",
+		"in_reply_to_user_id": 17645718,
+		"in_reply_to_user_id_str": "17645718",
+		"in_reply_to_screen_name": "sabinedewitte",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9210,
+			"friends_count": 1940,
+			"listed_count": 613,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3482,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61218,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Thu Oct 19 12:08:44 +0000 2017",
 		"id": 920985061184491500,
 		"id_str": "920985061184491520",
-		"text": "RT @iamTriggi: We are proud to say that we grew from 10.000 to 15.000 Triggi​ users in less then 4 months! 🎉🎉🎉🎉\nThank you all for your supp…",
+		"text": "RT @iamTriggi: We are proud to say that we grew from 10.000 to 15.000 Triggi users in less then 4 months! 🎉🎉🎉🎉\nThank you all for your supp…",
 		"truncated": false,
 		"entities": {
 			"hashtags": [],
@@ -108,7 +392,7 @@ Grailbird.data.tweets_2017_10 =
 			"created_at": "Thu Oct 19 12:02:38 +0000 2017",
 			"id": 920983524957663200,
 			"id_str": "920983524957663238",
-			"text": "We are proud to say that we grew from 10.000 to 15.000 Triggi​ users in less then 4 months! 🎉🎉🎉🎉\nThank you all for… https://t.co/CfDf2kUB5o",
+			"text": "We are proud to say that we grew from 10.000 to 15.000 Triggi users in less then 4 months! 🎉🎉🎉🎉\nThank you all for… https://t.co/CfDf2kUB5o",
 			"truncated": true,
 			"entities": {
 				"hashtags": [],
