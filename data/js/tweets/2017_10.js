@@ -1,6 +1,671 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Fri Oct 20 17:57:37 +0000 2017",
+		"id": 921435248046542800,
+		"id_str": "921435248046542848",
+		"text": "RT @NoiseyMusic: We met Nadya from Russian punk band @pussyrrriot to chat Putin, prisons and sexual preferences. https://t.co/9Gu3HrS1vP",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NoiseyMusic",
+					"name": "DrakeBeOnThePodcast",
+					"id": 251433567,
+					"id_str": "251433567",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "pussyrrriot",
+					"name": "Pussy Riot",
+					"id": 2479224200,
+					"id_str": "2479224200",
+					"indices": [
+						53,
+						65
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 920315337421226000,
+					"id_str": "920315337421225984",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/DMWhnpfWAAA06r_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DMWhnpfWAAA06r_.jpg",
+					"url": "https://t.co/9Gu3HrS1vP",
+					"display_url": "pic.twitter.com/9Gu3HrS1vP",
+					"expanded_url": "https://twitter.com/NoiseyMusic/status/921428320746487808/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 921428320746487800,
+					"source_status_id_str": "921428320746487808",
+					"source_user_id": 251433567,
+					"source_user_id_str": "251433567"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 920315337421226000,
+					"id_str": "920315337421225984",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/DMWhnpfWAAA06r_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DMWhnpfWAAA06r_.jpg",
+					"url": "https://t.co/9Gu3HrS1vP",
+					"display_url": "pic.twitter.com/9Gu3HrS1vP",
+					"expanded_url": "https://twitter.com/NoiseyMusic/status/921428320746487808/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 921428320746487800,
+					"source_status_id_str": "921428320746487808",
+					"source_user_id": 251433567,
+					"source_user_id_str": "251433567",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 372480,
+						"variants": [
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/920315337421225984/vid/240x240/jJpHNpINSIcPtI8t.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/920315337421225984/pl/GLpohnfnOU9syn54.m3u8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/920315337421225984/vid/480x480/mkALGrYwed8PEIXB.mp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/920315337421225984/vid/720x720/nvcF2ChVoE8fyfXS.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": true,
+						"source_user": {
+							"id": 251433567,
+							"id_str": "251433567",
+							"name": "DrakeBeOnThePodcast",
+							"screen_name": "NoiseyMusic",
+							"location": "",
+							"description": "Music news that doesn't suck, by VICE",
+							"url": "https://t.co/jHop6ioX8l",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/jHop6ioX8l",
+											"expanded_url": "http://noisey.vice.com",
+											"display_url": "noisey.vice.com",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 446294,
+							"friends_count": 1608,
+							"listed_count": 4189,
+							"created_at": "Sun Feb 13 03:50:28 +0000 2011",
+							"favourites_count": 2253,
+							"utc_offset": -14400,
+							"time_zone": "Eastern Time (US & Canada)",
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 81506,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": true,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/511991598/NOISEY_TWITTER_BG.jpg",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/511991598/NOISEY_TWITTER_BG.jpg",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/919957035759882246/Dq4ZSNoV_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/919957035759882246/Dq4ZSNoV_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/251433567/1508169817",
+							"profile_link_color": "0084B4",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9206,
+			"friends_count": 1944,
+			"listed_count": 613,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3484,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61223,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Oct 20 17:30:05 +0000 2017",
+			"id": 921428320746487800,
+			"id_str": "921428320746487808",
+			"text": "We met Nadya from Russian punk band @pussyrrriot to chat Putin, prisons and sexual preferences. https://t.co/9Gu3HrS1vP",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "pussyrrriot",
+						"name": "Pussy Riot",
+						"id": 2479224200,
+						"id_str": "2479224200",
+						"indices": [
+							36,
+							48
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 920315337421226000,
+						"id_str": "920315337421225984",
+						"indices": [
+							96,
+							119
+						],
+						"media_url": "http://pbs.twimg.com/media/DMWhnpfWAAA06r_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DMWhnpfWAAA06r_.jpg",
+						"url": "https://t.co/9Gu3HrS1vP",
+						"display_url": "pic.twitter.com/9Gu3HrS1vP",
+						"expanded_url": "https://twitter.com/NoiseyMusic/status/921428320746487808/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 920315337421226000,
+						"id_str": "920315337421225984",
+						"indices": [
+							96,
+							119
+						],
+						"media_url": "http://pbs.twimg.com/media/DMWhnpfWAAA06r_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DMWhnpfWAAA06r_.jpg",
+						"url": "https://t.co/9Gu3HrS1vP",
+						"display_url": "pic.twitter.com/9Gu3HrS1vP",
+						"expanded_url": "https://twitter.com/NoiseyMusic/status/921428320746487808/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 372480,
+							"variants": [
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/920315337421225984/vid/240x240/jJpHNpINSIcPtI8t.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/920315337421225984/pl/GLpohnfnOU9syn54.m3u8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/920315337421225984/vid/480x480/mkALGrYwed8PEIXB.mp4"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/920315337421225984/vid/720x720/nvcF2ChVoE8fyfXS.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": true
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 251433567,
+				"id_str": "251433567",
+				"name": "DrakeBeOnThePodcast",
+				"screen_name": "NoiseyMusic",
+				"location": "",
+				"description": "Music news that doesn't suck, by VICE",
+				"url": "https://t.co/jHop6ioX8l",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jHop6ioX8l",
+								"expanded_url": "http://noisey.vice.com",
+								"display_url": "noisey.vice.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 446294,
+				"friends_count": 1608,
+				"listed_count": 4189,
+				"created_at": "Sun Feb 13 03:50:28 +0000 2011",
+				"favourites_count": 2253,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 81506,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/511991598/NOISEY_TWITTER_BG.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/511991598/NOISEY_TWITTER_BG.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/919957035759882246/Dq4ZSNoV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/919957035759882246/Dq4ZSNoV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/251433567/1508169817",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 22,
+			"favorite_count": 72,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Oct 20 17:42:35 +0000 2017",
+		"id": 921431465497423900,
+		"id_str": "921431465497423872",
+		"text": "@EstervBD van @lobidabasi moest ik bij jou zijn: stoofpot. Maak je die met Russian Imperial Stout of een Porter? Wat denk jij?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EstervBD",
+					"name": "De Blonde Dokter",
+					"id": 27931826,
+					"id_str": "27931826",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "lobidabasi",
+					"name": "Kees",
+					"id": 753110077029118000,
+					"id_str": "753110077029117953",
+					"indices": [
+						14,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 27931826,
+		"in_reply_to_user_id_str": "27931826",
+		"in_reply_to_screen_name": "EstervBD",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9206,
+			"friends_count": 1944,
+			"listed_count": 613,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3484,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61223,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "871685aa82f8a489",
+			"url": "https://api.twitter.com/1.1/geo/id/871685aa82f8a489.json",
+			"place_type": "city",
+			"name": "Utrecht",
+			"full_name": "Utrecht, The Netherlands",
+			"country_code": "NL",
+			"country": "The Netherlands",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							4.9702867,
+							52.0262429
+						],
+						[
+							5.1952468,
+							52.0262429
+						],
+						[
+							5.1952468,
+							52.142137
+						],
+						[
+							4.9702867,
+							52.142137
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Fri Oct 20 15:07:21 +0000 2017",
 		"id": 921392401020850200,
 		"id_str": "921392401020850177",
