@@ -1,6 +1,296 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Wed Oct 25 19:38:22 +0000 2017",
+		"id": 923272541954822100,
+		"id_str": "923272541954822144",
+		"text": "Omekot! Emoji krijgen een compleet nieuwe dimensie door onderstaande thread! Als dit allemaal mogelijk is, dan kan… https://t.co/5NdSDqcggg",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5NdSDqcggg",
+					"expanded_url": "https://twitter.com/i/web/status/923272541954822144",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | Autonomous Biological Machine | https://t.co/bys0LKyw9p",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKyw9p",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9214,
+			"friends_count": 1947,
+			"listed_count": 614,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3499,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61219,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 922742648196255700,
+		"quoted_status_id_str": "922742648196255744",
+		"quoted_status": {
+			"created_at": "Tue Oct 24 08:32:45 +0000 2017",
+			"id": 922742648196255700,
+			"id_str": "922742648196255744",
+			"text": "Woah. Who knew? The 👨‍👩‍👦‍👦 emoji is a ligature. So you can do this in your Chrome console. #mindblown https://t.co/zz2JeMYwfk",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "mindblown",
+						"indices": [
+							92,
+							102
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 922742521993756700,
+						"id_str": "922742521993756673",
+						"indices": [
+							103,
+							126
+						],
+						"media_url": "http://pbs.twimg.com/media/DM49b1KWAAEVh6Q.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DM49b1KWAAEVh6Q.jpg",
+						"url": "https://t.co/zz2JeMYwfk",
+						"display_url": "pic.twitter.com/zz2JeMYwfk",
+						"expanded_url": "https://twitter.com/nieldlr/status/922742648196255744/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 546,
+								"h": 150,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 546,
+								"h": 150,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 546,
+								"h": 150,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 922742521993756700,
+						"id_str": "922742521993756673",
+						"indices": [
+							103,
+							126
+						],
+						"media_url": "http://pbs.twimg.com/media/DM49b1KWAAEVh6Q.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DM49b1KWAAEVh6Q.jpg",
+						"url": "https://t.co/zz2JeMYwfk",
+						"display_url": "pic.twitter.com/zz2JeMYwfk",
+						"expanded_url": "https://twitter.com/nieldlr/status/922742648196255744/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 546,
+								"h": 150,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 546,
+								"h": 150,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 546,
+								"h": 150,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15933180,
+				"id_str": "15933180",
+				"name": "Niel de la Rouviere",
+				"screen_name": "nieldlr",
+				"location": "Cape Town, South Africa",
+				"description": "Building @StakeTree. Entrepreneur & coder. Linguist & language nut. Prev @buffer.",
+				"url": "http://t.co/AASQmyNDJx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/AASQmyNDJx",
+								"expanded_url": "http://nieldlr.com",
+								"display_url": "nieldlr.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2792,
+				"friends_count": 1341,
+				"listed_count": 170,
+				"created_at": "Thu Aug 21 16:24:49 +0000 2008",
+				"favourites_count": 3250,
+				"utc_offset": 7200,
+				"time_zone": "Pretoria",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9604,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/895748632850378752/Ljy1WfsD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/895748632850378752/Ljy1WfsD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15933180/1505143923",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1183,
+			"favorite_count": 1796,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Wed Oct 25 16:04:19 +0000 2017",
 		"id": 923218677339770900,
 		"id_str": "923218677339770880",
