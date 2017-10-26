@@ -1,6 +1,278 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Thu Oct 26 17:51:48 +0000 2017",
+		"id": 923608113470754800,
+		"id_str": "923608113470754816",
+		"text": "RT @buzzbros2002: @rstevens @andvaranaut @Inoreader Can we get a RSS awareness week, because not enough people know how convenient it is an…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "buzzbros2002",
+					"name": "Shawn Buzzini",
+					"id": 15709445,
+					"id_str": "15709445",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "rstevens",
+					"name": "rstevens of porg",
+					"id": 643653,
+					"id_str": "643653",
+					"indices": [
+						18,
+						27
+					]
+				},
+				{
+					"screen_name": "andvaranaut",
+					"name": "JM López-Cepero (CP)",
+					"id": 15941126,
+					"id_str": "15941126",
+					"indices": [
+						28,
+						40
+					]
+				},
+				{
+					"screen_name": "Inoreader",
+					"name": "Inoreader",
+					"id": 1536852836,
+					"id_str": "1536852836",
+					"indices": [
+						41,
+						51
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | Autonomous Biological Machine | https://t.co/bys0LKyw9p",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKyw9p",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9218,
+			"friends_count": 1948,
+			"listed_count": 613,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3502,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61210,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Oct 23 18:27:12 +0000 2017",
+			"id": 922529857958846500,
+			"id_str": "922529857958846464",
+			"text": "@rstevens @andvaranaut @Inoreader Can we get a RSS awareness week, because not enough people know how convenient it… https://t.co/LvxwepkY2L",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "rstevens",
+						"name": "rstevens of porg",
+						"id": 643653,
+						"id_str": "643653",
+						"indices": [
+							0,
+							9
+						]
+					},
+					{
+						"screen_name": "andvaranaut",
+						"name": "JM López-Cepero (CP)",
+						"id": 15941126,
+						"id_str": "15941126",
+						"indices": [
+							10,
+							22
+						]
+					},
+					{
+						"screen_name": "Inoreader",
+						"name": "Inoreader",
+						"id": 1536852836,
+						"id_str": "1536852836",
+						"indices": [
+							23,
+							33
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/LvxwepkY2L",
+						"expanded_url": "https://twitter.com/i/web/status/922529857958846464",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 922520382694969300,
+			"in_reply_to_status_id_str": "922520382694969344",
+			"in_reply_to_user_id": 643653,
+			"in_reply_to_user_id_str": "643653",
+			"in_reply_to_screen_name": "rstevens",
+			"user": {
+				"id": 15709445,
+				"id_str": "15709445",
+				"name": "Shawn Buzzini",
+				"screen_name": "buzzbros2002",
+				"location": "Beaumont, California",
+				"description": "Yeah, I'm no good at autobiographical stuff. Just ask if you want to know.",
+				"url": "https://t.co/8yBAmVXQjF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8yBAmVXQjF",
+								"expanded_url": "http://www.shawnbuzzini.com",
+								"display_url": "shawnbuzzini.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 168,
+				"friends_count": 307,
+				"listed_count": 5,
+				"created_at": "Sun Aug 03 10:19:10 +0000 2008",
+				"favourites_count": 1316,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4997,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/814367666479579137/xPaE1e1G_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/814367666479579137/xPaE1e1G_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15709445/1480581149",
+				"profile_link_color": "E24C02",
+				"profile_sidebar_border_color": "829D5E",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 20,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Oct 26 14:47:15 +0000 2017",
 		"id": 923561668575146000,
 		"id_str": "923561668575145985",
