@@ -1,6 +1,334 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Thu Oct 26 11:49:43 +0000 2017",
+		"id": 923516989573869600,
+		"id_str": "923516989573869569",
+		"text": "RT @johanvoets: Eigenlijk te sneu voor woorden dit. Echt. https://t.co/ebxLF4o3Xa",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "johanvoets",
+					"name": "Johan Voets",
+					"id": 7422272,
+					"id_str": "7422272",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ebxLF4o3Xa",
+					"expanded_url": "https://twitter.com/Vance_nl/status/923481216912728064",
+					"display_url": "twitter.com/Vance_nl/statu…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | Autonomous Biological Machine | https://t.co/bys0LKyw9p",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKyw9p",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9216,
+			"friends_count": 1948,
+			"listed_count": 613,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3500,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61207,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Oct 26 11:41:27 +0000 2017",
+			"id": 923514911925424100,
+			"id_str": "923514911925424128",
+			"text": "Eigenlijk te sneu voor woorden dit. Echt. https://t.co/ebxLF4o3Xa",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ebxLF4o3Xa",
+						"expanded_url": "https://twitter.com/Vance_nl/status/923481216912728064",
+						"display_url": "twitter.com/Vance_nl/statu…",
+						"indices": [
+							42,
+							65
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 7422272,
+				"id_str": "7422272",
+				"name": "Johan Voets",
+				"screen_name": "johanvoets",
+				"location": "Amsterdam, the Netherlands",
+				"description": "Creatieve fratsen  @OKGOnl, mooie verhalen  @Numrush & @Vance_nl. Rondjes rennen/fietsen of op plank van een berg. Komt wel eens ergens. 🚵🏂🕹🛫🤙 | IG: johanvoets",
+				"url": "https://t.co/PY7pd7iRHA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PY7pd7iRHA",
+								"expanded_url": "http://okgo.nl",
+								"display_url": "okgo.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4960,
+				"friends_count": 2040,
+				"listed_count": 302,
+				"created_at": "Thu Jul 12 06:41:46 +0000 2007",
+				"favourites_count": 1172,
+				"utc_offset": 7200,
+				"time_zone": "Amsterdam",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 55517,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/435294933894057984/knC63ifI.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/435294933894057984/knC63ifI.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/904308823002927104/WoNJ1HtL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/904308823002927104/WoNJ1HtL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/7422272/1504438597",
+				"profile_link_color": "FAB81E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "2C2C2C",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 923481216912728000,
+			"quoted_status_id_str": "923481216912728064",
+			"quoted_status": {
+				"created_at": "Thu Oct 26 09:27:34 +0000 2017",
+				"id": 923481216912728000,
+				"id_str": "923481216912728064",
+				"text": "VVD-Ministers maken lolletje om eigen achterhaalde gedachtegoed voor ze het bordes op stappen… https://t.co/4BJ7igvTQZ",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/4BJ7igvTQZ",
+							"expanded_url": "https://twitter.com/i/web/status/923481216912728064",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								95,
+								118
+							]
+						}
+					]
+				},
+				"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 14312882,
+					"id_str": "14312882",
+					"name": "Vance",
+					"screen_name": "Vance_nl",
+					"location": "Amsterdam",
+					"description": "Pop of cult op een bedje van wat echt belangrijk is // Tweets by @marjolijn @ninabogo @lisaprins92 // TIPS redactie[at]vance.nl",
+					"url": "https://t.co/VVLki4SlwY",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/VVLki4SlwY",
+									"expanded_url": "http://www.vance.nl",
+									"display_url": "vance.nl",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 2932,
+					"friends_count": 3716,
+					"listed_count": 68,
+					"created_at": "Sat Apr 05 22:43:37 +0000 2008",
+					"favourites_count": 315,
+					"utc_offset": 7200,
+					"time_zone": "Amsterdam",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 3453,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "FFFFFF",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/6253941/twitter_bg.jpg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/6253941/twitter_bg.jpg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/699388272817082368/p07EC-fN_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/699388272817082368/p07EC-fN_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/14312882/1505981798",
+					"profile_link_color": "ABB8C2",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "FFFFFF",
+					"profile_text_color": "000000",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 0,
+				"favorite_count": 0,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "nl"
+			},
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 923481216912728000,
+		"quoted_status_id_str": "923481216912728064",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Thu Oct 26 10:07:11 +0000 2017",
 		"id": 923491189810180100,
 		"id_str": "923491189810180096",
@@ -22,7 +350,7 @@ Grailbird.data.tweets_2017_10 =
 				},
 				{
 					"screen_name": "nielsvr",
-					"name": "Niels 👨🏼‍🔬",
+					"name": "Niels 👨🏼🔬",
 					"id": 14324688,
 					"id_str": "14324688",
 					"indices": [
@@ -143,7 +471,7 @@ Grailbird.data.tweets_2017_10 =
 				},
 				{
 					"screen_name": "nielsvr",
-					"name": "Niels 👨🏼‍🔬",
+					"name": "Niels 👨🏼🔬",
 					"id": 14324688,
 					"id_str": "14324688",
 					"indices": [
@@ -264,7 +592,7 @@ Grailbird.data.tweets_2017_10 =
 				},
 				{
 					"screen_name": "nielsvr",
-					"name": "Niels 👨🏼‍🔬",
+					"name": "Niels 👨🏼🔬",
 					"id": 14324688,
 					"id_str": "14324688",
 					"indices": [
@@ -395,7 +723,7 @@ Grailbird.data.tweets_2017_10 =
 				},
 				{
 					"screen_name": "nielsvr",
-					"name": "Niels 👨🏼‍🔬",
+					"name": "Niels 👨🏼🔬",
 					"id": 14324688,
 					"id_str": "14324688",
 					"indices": [
@@ -516,7 +844,7 @@ Grailbird.data.tweets_2017_10 =
 				},
 				{
 					"screen_name": "nielsvr",
-					"name": "Niels 👨🏼‍🔬",
+					"name": "Niels 👨🏼🔬",
 					"id": 14324688,
 					"id_str": "14324688",
 					"indices": [
