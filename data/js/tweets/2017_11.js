@@ -1,6 +1,415 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Wed Nov 01 12:46:12 +0000 2017",
+		"id": 925705532249395200,
+		"id_str": "925705532249395200",
+		"text": "RT @RGjournalist: Keep on rocking in the free world... #politiekeGIF https://t.co/UhuNzo65A0",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "politiekeGIF",
+					"indices": [
+						55,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RGjournalist",
+					"name": "@RGjournalist",
+					"id": 84888010,
+					"id_str": "84888010",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 925685797889683500,
+					"id_str": "925685797889683456",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DNiyVCTWsAAaYRi.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DNiyVCTWsAAaYRi.jpg",
+					"url": "https://t.co/UhuNzo65A0",
+					"display_url": "pic.twitter.com/UhuNzo65A0",
+					"expanded_url": "https://twitter.com/RGjournalist/status/925685992958373888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 925685992958373900,
+					"source_status_id_str": "925685992958373888",
+					"source_user_id": 84888010,
+					"source_user_id_str": "84888010"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 925685797889683500,
+					"id_str": "925685797889683456",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DNiyVCTWsAAaYRi.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DNiyVCTWsAAaYRi.jpg",
+					"url": "https://t.co/UhuNzo65A0",
+					"display_url": "pic.twitter.com/UhuNzo65A0",
+					"expanded_url": "https://twitter.com/RGjournalist/status/925685992958373888/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 925685992958373900,
+					"source_status_id_str": "925685992958373888",
+					"source_user_id": 84888010,
+					"source_user_id_str": "84888010",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DNiyVCTWsAAaYRi.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | Autonomous Biological Machine | https://t.co/bys0LKyw9p",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKyw9p",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9214,
+			"friends_count": 1953,
+			"listed_count": 613,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3530,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61247,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 01 11:28:33 +0000 2017",
+			"id": 925685992958373900,
+			"id_str": "925685992958373888",
+			"text": "Keep on rocking in the free world... #politiekeGIF https://t.co/UhuNzo65A0",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "politiekeGIF",
+						"indices": [
+							37,
+							50
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 925685797889683500,
+						"id_str": "925685797889683456",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DNiyVCTWsAAaYRi.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DNiyVCTWsAAaYRi.jpg",
+						"url": "https://t.co/UhuNzo65A0",
+						"display_url": "pic.twitter.com/UhuNzo65A0",
+						"expanded_url": "https://twitter.com/RGjournalist/status/925685992958373888/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 480,
+								"h": 270,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 270,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 270,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 925685797889683500,
+						"id_str": "925685797889683456",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DNiyVCTWsAAaYRi.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DNiyVCTWsAAaYRi.jpg",
+						"url": "https://t.co/UhuNzo65A0",
+						"display_url": "pic.twitter.com/UhuNzo65A0",
+						"expanded_url": "https://twitter.com/RGjournalist/status/925685992958373888/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 480,
+								"h": 270,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 270,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 270,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/DNiyVCTWsAAaYRi.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 84888010,
+				"id_str": "84888010",
+				"name": "@RGjournalist",
+				"screen_name": "RGjournalist",
+				"location": "Binnenhof",
+				"description": "Onbeëdigd Staatssecretaris voor Woonbootzaken",
+				"url": "https://t.co/CdGxqifZLe",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/CdGxqifZLe",
+								"expanded_url": "http://www.rtlnieuws.nl",
+								"display_url": "rtlnieuws.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 23077,
+				"friends_count": 1595,
+				"listed_count": 691,
+				"created_at": "Sat Oct 24 16:41:09 +0000 2009",
+				"favourites_count": 3620,
+				"utc_offset": 3600,
+				"time_zone": "Amsterdam",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 40579,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/262230861/P1060510__Medium_.JPG",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/262230861/P1060510__Medium_.JPG",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/868061022585851906/LAUtLZHd_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/868061022585851906/LAUtLZHd_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/84888010/1499330292",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 58,
+			"favorite_count": 169,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 58,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Nov 01 11:06:14 +0000 2017",
 		"id": 925680375917146100,
 		"id_str": "925680375917146112",
