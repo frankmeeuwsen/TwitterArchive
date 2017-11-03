@@ -1,6 +1,352 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Fri Nov 03 11:10:54 +0000 2017",
+		"id": 926406327550775300,
+		"id_str": "926406327550775306",
+		"text": "@erwblo @brewbart digitale archieven case... https://t.co/k9l9SlbVKE",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "erwblo",
+					"name": "erwin blom",
+					"id": 713333,
+					"id_str": "713333",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "brewbart",
+					"name": "bart brouwers",
+					"id": 16344012,
+					"id_str": "16344012",
+					"indices": [
+						8,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/k9l9SlbVKE",
+					"expanded_url": "https://twitter.com/aaroncynic/status/926199670715580418",
+					"display_url": "twitter.com/aaroncynic/sta…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 713333,
+		"in_reply_to_user_id_str": "713333",
+		"in_reply_to_screen_name": "erwblo",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | Autonomous Biological Machine | https://t.co/bys0LKyw9p",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKyw9p",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9211,
+			"friends_count": 1953,
+			"listed_count": 613,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3533,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61252,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "c2ad56798c5f9cad",
+			"url": "https://api.twitter.com/1.1/geo/id/c2ad56798c5f9cad.json",
+			"place_type": "city",
+			"name": "De Ronde Venen",
+			"full_name": "De Ronde Venen, Nederland",
+			"country_code": "NL",
+			"country": "The Netherlands",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							4.7946271,
+							52.1615468
+						],
+						[
+							5.0217418,
+							52.1615468
+						],
+						[
+							5.0217418,
+							52.3041119
+						],
+						[
+							4.7946271,
+							52.3041119
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 926199670715580400,
+		"quoted_status_id_str": "926199670715580418",
+		"quoted_status": {
+			"created_at": "Thu Nov 02 21:29:44 +0000 2017",
+			"id": 926199670715580400,
+			"id_str": "926199670715580418",
+			"text": "I'm stunned. Absolutely stunned. Literally everything I wrote for the past 7+ years for Chicagoist is just gone https://t.co/CXZ68YfuIm",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 926199452586700800,
+						"id_str": "926199452586700800",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/media/DNqFfrKXcAAPAgh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DNqFfrKXcAAPAgh.jpg",
+						"url": "https://t.co/CXZ68YfuIm",
+						"display_url": "pic.twitter.com/CXZ68YfuIm",
+						"expanded_url": "https://twitter.com/aaroncynic/status/926199670715580418/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 482,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 612,
+								"h": 863,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 612,
+								"h": 863,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 926199452586700800,
+						"id_str": "926199452586700800",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/media/DNqFfrKXcAAPAgh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DNqFfrKXcAAPAgh.jpg",
+						"url": "https://t.co/CXZ68YfuIm",
+						"display_url": "pic.twitter.com/CXZ68YfuIm",
+						"expanded_url": "https://twitter.com/aaroncynic/status/926199670715580418/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 482,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 612,
+								"h": 863,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 612,
+								"h": 863,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14667187,
+				"id_str": "14667187",
+				"name": "Aaron Cynic",
+				"screen_name": "aaroncynic",
+				"location": "ÜT: 41.848955,-87.684423",
+				"description": "Aspiring coot, mithrandir, political afficianado. Wandering indie journalist. Politics writer for https://t.co/iFIOeSTNxp and others.",
+				"url": "https://t.co/9XimAMLbA0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9XimAMLbA0",
+								"expanded_url": "http://aaroncynic.net",
+								"display_url": "aaroncynic.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/iFIOeSTNxp",
+								"expanded_url": "http://Chicagoist.com",
+								"display_url": "Chicagoist.com",
+								"indices": [
+									98,
+									121
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 4050,
+				"friends_count": 2501,
+				"listed_count": 254,
+				"created_at": "Tue May 06 00:39:39 +0000 2008",
+				"favourites_count": 21212,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 52013,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/756950559995863040/Zs7-AI2i_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/756950559995863040/Zs7-AI2i_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14667187/1365880761",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 502,
+			"favorite_count": 759,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Nov 03 10:14:24 +0000 2017",
 		"id": 926392107429978100,
 		"id_str": "926392107429978113",
