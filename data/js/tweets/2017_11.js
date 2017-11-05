@@ -1,6 +1,332 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Sun Nov 05 06:11:12 +0000 2017",
+		"id": 927055681211060200,
+		"id_str": "927055681211060225",
+		"text": "RT @thisjenlewis: Uh, Facebook just served me a bra ad where a woman is wearing the outfit that I’m currently wearing. https://t.co/1mSc3NE…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thisjenlewis",
+					"name": "Jen Lewis",
+					"id": 264465201,
+					"id_str": "264465201",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | Autonomous Biological Machine | https://t.co/bys0LKyw9p",
+			"url": "https://t.co/Hm80gCQ0VF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hm80gCQ0VF",
+							"expanded_url": "http://frankmeeuwsen.com",
+							"display_url": "frankmeeuwsen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKyw9p",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9211,
+			"friends_count": 1945,
+			"listed_count": 613,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3535,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61263,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Nov 04 19:30:47 +0000 2017",
+			"id": 926894515163713500,
+			"id_str": "926894515163713547",
+			"text": "Uh, Facebook just served me a bra ad where a woman is wearing the outfit that I’m currently wearing. https://t.co/1mSc3NE6hU",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 926894493785235500,
+						"id_str": "926894493785235456",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/DNz9oZZVoAA3xJO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DNz9oZZVoAA3xJO.jpg",
+						"url": "https://t.co/1mSc3NE6hU",
+						"display_url": "pic.twitter.com/1mSc3NE6hU",
+						"expanded_url": "https://twitter.com/thisjenlewis/status/926894515163713547/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 750,
+								"h": 1334,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 926894493785235500,
+						"id_str": "926894493785235456",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/DNz9oZZVoAA3xJO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DNz9oZZVoAA3xJO.jpg",
+						"url": "https://t.co/1mSc3NE6hU",
+						"display_url": "pic.twitter.com/1mSc3NE6hU",
+						"expanded_url": "https://twitter.com/thisjenlewis/status/926894515163713547/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 750,
+								"h": 1334,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 926894493764223000,
+						"id_str": "926894493764222976",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/DNz9oZUVAAAWo8z.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DNz9oZUVAAAWo8z.jpg",
+						"url": "https://t.co/1mSc3NE6hU",
+						"display_url": "pic.twitter.com/1mSc3NE6hU",
+						"expanded_url": "https://twitter.com/thisjenlewis/status/926894515163713547/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 507,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1528,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 895,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 264465201,
+				"id_str": "264465201",
+				"name": "Jen Lewis",
+				"screen_name": "thisjenlewis",
+				"location": "Brooklyn via Charleston",
+				"description": "Writer-designer-jokester, creator of the *chef's kiss* emoji → https://t.co/2caTACwr8U",
+				"url": "https://t.co/bmibxZHV7m",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/bmibxZHV7m",
+								"expanded_url": "http://www.jenlewis.website/",
+								"display_url": "jenlewis.website",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/2caTACwr8U",
+								"expanded_url": "http://appsto.re/us/usRMlb.i",
+								"display_url": "appsto.re/us/usRMlb.i",
+								"indices": [
+									63,
+									86
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 97460,
+				"friends_count": 463,
+				"listed_count": 375,
+				"created_at": "Fri Mar 11 23:32:41 +0000 2011",
+				"favourites_count": 9247,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 2586,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/435881532285136896/ACr1Uy1I.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/435881532285136896/ACr1Uy1I.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/918490219460136960/FxMY5GAB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/918490219460136960/FxMY5GAB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/264465201/1502922755",
+				"profile_link_color": "337C96",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 667,
+			"favorite_count": 4403,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 667,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Nov 04 22:15:55 +0000 2017",
 		"id": 926936069261680600,
 		"id_str": "926936069261680640",
