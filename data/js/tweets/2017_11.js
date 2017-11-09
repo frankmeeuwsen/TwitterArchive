@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Thu Nov 09 13:29:47 +0000 2017",
+		"id": 928615605548277800,
+		"id_str": "928615605548277760",
+		"text": "RT @Politie_Adam: Meisje (2) vanmiddag aangetroffen op Huigenbos #Amsterdam ZO. De politie zoekt de ouder(s). Staartjes, grijs T-shirt, zw.…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Amsterdam",
+					"indices": [
+						65,
+						75
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Politie_Adam",
+					"name": "Politie Amsterdam eo",
+					"id": 22182504,
+					"id_str": "22182504",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | Autonomous Biological Machine | https://t.co/bys0LKyw9p",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKyw9p",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9214,
+			"friends_count": 1951,
+			"listed_count": 613,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3544,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61260,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Nov 09 13:02:45 +0000 2017",
+			"id": 928608800000692200,
+			"id_str": "928608800000692225",
+			"text": "Meisje (2) vanmiddag aangetroffen op Huigenbos #Amsterdam ZO. De politie zoekt de ouder(s). Staartjes, grijs T-shir… https://t.co/yyCVaBVlYn",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Amsterdam",
+						"indices": [
+							47,
+							57
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/yyCVaBVlYn",
+						"expanded_url": "https://twitter.com/i/web/status/928608800000692225",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22182504,
+				"id_str": "22182504",
+				"name": "Politie Amsterdam eo",
+				"screen_name": "Politie_Adam",
+				"location": "Amsterdam",
+				"description": "Politie-eenheid Amsterdam: Aalsmeer, Amstelveen, Amsterdam, Diemen, Ouder-Amstel, Uithoorn. Meldingen kunt u doen via 0900-8844. Bij spoed via 112.",
+				"url": "http://t.co/kgSt4TEi",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/kgSt4TEi",
+								"expanded_url": "http://www.politie.nl",
+								"display_url": "politie.nl",
+								"indices": [
+									0,
+									20
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 357296,
+				"friends_count": 245,
+				"listed_count": 656,
+				"created_at": "Fri Feb 27 20:01:30 +0000 2009",
+				"favourites_count": 117,
+				"utc_offset": 3600,
+				"time_zone": "Amsterdam",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 8364,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/778204898/8e5516ffe3da44102664dd2d03e7c741.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/778204898/8e5516ffe3da44102664dd2d03e7c741.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/713361426920960000/HN4wRcbN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/713361426920960000/HN4wRcbN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22182504/1483710446",
+				"profile_link_color": "BE9E55",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "BE9E55",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 42,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"is_quote_status": false,
+		"retweet_count": 42,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Thu Nov 09 12:59:07 +0000 2017",
 		"id": 928607886795788300,
 		"id_str": "928607886795788289",
