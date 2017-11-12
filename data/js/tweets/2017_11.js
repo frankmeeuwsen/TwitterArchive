@@ -1,6 +1,450 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Sun Nov 12 07:07:03 +0000 2017",
+		"id": 929606448723714000,
+		"id_str": "929606448723714048",
+		"text": "RT @michaelryap: What I hope everyday AR/VR will feel like. https://t.co/VRYnqEJ3zF",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "michaelryap",
+					"name": "Michael Yap",
+					"id": 241930111,
+					"id_str": "241930111",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 929476969493917700,
+					"id_str": "929476969493917696",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/929476969493917696/pu/img/kV7JmAVhkJh_hwys.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/929476969493917696/pu/img/kV7JmAVhkJh_hwys.jpg",
+					"url": "https://t.co/VRYnqEJ3zF",
+					"display_url": "pic.twitter.com/VRYnqEJ3zF",
+					"expanded_url": "https://twitter.com/michaelryap/status/929477089509761024/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 530,
+							"h": 292,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 187,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 530,
+							"h": 292,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 929477089509761000,
+					"source_status_id_str": "929477089509761024",
+					"source_user_id": 241930111,
+					"source_user_id_str": "241930111"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 929476969493917700,
+					"id_str": "929476969493917696",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/929476969493917696/pu/img/kV7JmAVhkJh_hwys.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/929476969493917696/pu/img/kV7JmAVhkJh_hwys.jpg",
+					"url": "https://t.co/VRYnqEJ3zF",
+					"display_url": "pic.twitter.com/VRYnqEJ3zF",
+					"expanded_url": "https://twitter.com/michaelryap/status/929477089509761024/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 530,
+							"h": 292,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 187,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 530,
+							"h": 292,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 929477089509761000,
+					"source_status_id_str": "929477089509761024",
+					"source_user_id": 241930111,
+					"source_user_id_str": "241930111",
+					"video_info": {
+						"aspect_ratio": [
+							265,
+							146
+						],
+						"duration_millis": 29160,
+						"variants": [
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/929476969493917696/pu/vid/326x180/mNVw2eWqbN_Inw5h.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/929476969493917696/pu/pl/hO7_r00wchLSptbH.m3u8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 241930111,
+							"id_str": "241930111",
+							"name": "Michael Yap",
+							"screen_name": "michaelryap",
+							"location": "New York City",
+							"description": "Director of Design @gotenna · Previously @etsy @ideo · Former faculty @svaixd @CACollegeofArts",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 1663,
+							"friends_count": 2255,
+							"listed_count": 169,
+							"created_at": "Sun Jan 23 14:11:46 +0000 2011",
+							"favourites_count": 3145,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 4295,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F8F4E9",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/717403299457015808/1CGt1fGs_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/717403299457015808/1CGt1fGs_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/241930111/1471519155",
+							"profile_link_color": "25291E",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | Autonomous Biological Machine | https://t.co/bys0LKyw9p",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKyw9p",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9214,
+			"friends_count": 1952,
+			"listed_count": 613,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3551,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61298,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Nov 11 22:33:01 +0000 2017",
+			"id": 929477089509761000,
+			"id_str": "929477089509761024",
+			"text": "What I hope everyday AR/VR will feel like. https://t.co/VRYnqEJ3zF",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 929476969493917700,
+						"id_str": "929476969493917696",
+						"indices": [
+							43,
+							66
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/929476969493917696/pu/img/kV7JmAVhkJh_hwys.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/929476969493917696/pu/img/kV7JmAVhkJh_hwys.jpg",
+						"url": "https://t.co/VRYnqEJ3zF",
+						"display_url": "pic.twitter.com/VRYnqEJ3zF",
+						"expanded_url": "https://twitter.com/michaelryap/status/929477089509761024/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 530,
+								"h": 292,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 187,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 530,
+								"h": 292,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 929476969493917700,
+						"id_str": "929476969493917696",
+						"indices": [
+							43,
+							66
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/929476969493917696/pu/img/kV7JmAVhkJh_hwys.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/929476969493917696/pu/img/kV7JmAVhkJh_hwys.jpg",
+						"url": "https://t.co/VRYnqEJ3zF",
+						"display_url": "pic.twitter.com/VRYnqEJ3zF",
+						"expanded_url": "https://twitter.com/michaelryap/status/929477089509761024/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 530,
+								"h": 292,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 187,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 530,
+								"h": 292,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								265,
+								146
+							],
+							"duration_millis": 29160,
+							"variants": [
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/929476969493917696/pu/vid/326x180/mNVw2eWqbN_Inw5h.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/929476969493917696/pu/pl/hO7_r00wchLSptbH.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 241930111,
+				"id_str": "241930111",
+				"name": "Michael Yap",
+				"screen_name": "michaelryap",
+				"location": "New York City",
+				"description": "Director of Design @gotenna · Previously @etsy @ideo · Former faculty @svaixd @CACollegeofArts",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1663,
+				"friends_count": 2255,
+				"listed_count": 169,
+				"created_at": "Sun Jan 23 14:11:46 +0000 2011",
+				"favourites_count": 3145,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4295,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F8F4E9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/717403299457015808/1CGt1fGs_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/717403299457015808/1CGt1fGs_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/241930111/1471519155",
+				"profile_link_color": "25291E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 997,
+			"favorite_count": 1851,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 997,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Nov 11 22:47:51 +0000 2017",
 		"id": 929480820053684200,
 		"id_str": "929480820053684225",
