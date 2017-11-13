@@ -1,6 +1,722 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Mon Nov 13 09:16:31 +0000 2017",
+		"id": 930001418777395200,
+		"id_str": "930001418777395200",
+		"text": "@Elja1op1 @lbroekman Je hebt de hele week de tijd. Volgende week zondag is (hopelijk) de volgende!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Elja1op1",
+					"name": "Elja Daae",
+					"id": 111704957,
+					"id_str": "111704957",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "lbroekman",
+					"name": "Lode Broekman",
+					"id": 5524592,
+					"id_str": "5524592",
+					"indices": [
+						10,
+						20
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 930000245911642100,
+		"in_reply_to_status_id_str": "930000245911642112",
+		"in_reply_to_user_id": 111704957,
+		"in_reply_to_user_id_str": "111704957",
+		"in_reply_to_screen_name": "Elja1op1",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | Autonomous Biological Machine | https://t.co/bys0LKyw9p",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKyw9p",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9214,
+			"friends_count": 1951,
+			"listed_count": 613,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3556,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61275,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl"
+	},
+	{
+		"created_at": "Mon Nov 13 08:49:48 +0000 2017",
+		"id": 929994697300422700,
+		"id_str": "929994697300422656",
+		"text": "@annikavisser @slindenhof Ja!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "annikavisser",
+					"name": "annika visser",
+					"id": 182800113,
+					"id_str": "182800113",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "slindenhof",
+					"name": "Seb",
+					"id": 26234822,
+					"id_str": "26234822",
+					"indices": [
+						14,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 929993269156626400,
+		"in_reply_to_status_id_str": "929993269156626432",
+		"in_reply_to_user_id": 182800113,
+		"in_reply_to_user_id_str": "182800113",
+		"in_reply_to_screen_name": "annikavisser",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | Autonomous Biological Machine | https://t.co/bys0LKyw9p",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKyw9p",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9214,
+			"friends_count": 1951,
+			"listed_count": 613,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3556,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61275,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Mon Nov 13 08:35:38 +0000 2017",
+		"id": 929991128828522500,
+		"id_str": "929991128828522496",
+		"text": "RT @BethRigby: .@AlexCrawfordSky has managed to travel into Myanmar. What she finds when she gets there is desperate. https://t.co/QdO8zeya…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BethRigby",
+					"name": "Beth Rigby",
+					"id": 19902709,
+					"id_str": "19902709",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "AlexCrawfordSky",
+					"name": "Alex Crawford",
+					"id": 86271665,
+					"id_str": "86271665",
+					"indices": [
+						16,
+						32
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | Autonomous Biological Machine | https://t.co/bys0LKyw9p",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKyw9p",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9214,
+			"friends_count": 1951,
+			"listed_count": 613,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3556,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61275,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Nov 13 08:07:38 +0000 2017",
+			"id": 929984084444680200,
+			"id_str": "929984084444680193",
+			"text": ".@AlexCrawfordSky has managed to travel into Myanmar. What she finds when she gets there is desperate. https://t.co/QdO8zeyaWK",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "AlexCrawfordSky",
+						"name": "Alex Crawford",
+						"id": 86271665,
+						"id_str": "86271665",
+						"indices": [
+							1,
+							17
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/QdO8zeyaWK",
+						"expanded_url": "https://twitter.com/skynews/status/929952312910430208",
+						"display_url": "twitter.com/skynews/status…",
+						"indices": [
+							103,
+							126
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19902709,
+				"id_str": "19902709",
+				"name": "Beth Rigby",
+				"screen_name": "BethRigby",
+				"location": "LONDON",
+				"description": "Senior political correspondent, Sky News. Formerly of the Times and FT. Facebook www.facebook/bethrigbysky https://t.co/3WF3P13pwa",
+				"url": "https://t.co/AUmjzhru3z",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/AUmjzhru3z",
+								"expanded_url": "http://news.sky.com",
+								"display_url": "news.sky.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/3WF3P13pwa",
+								"expanded_url": "http://Instagram.com/bethrigbysky",
+								"display_url": "Instagram.com/bethrigbysky",
+								"indices": [
+									107,
+									130
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 39759,
+				"friends_count": 2009,
+				"listed_count": 823,
+				"created_at": "Mon Feb 02 11:39:52 +0000 2009",
+				"favourites_count": 3458,
+				"utc_offset": -36000,
+				"time_zone": "Hawaii",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 27133,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/799286891451416576/fCdd-QIg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/799286891451416576/fCdd-QIg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19902709/1477296778",
+				"profile_link_color": "007AB3",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 929952312910430200,
+			"quoted_status_id_str": "929952312910430208",
+			"quoted_status": {
+				"created_at": "Mon Nov 13 06:01:23 +0000 2017",
+				"id": 929952312910430200,
+				"id_str": "929952312910430208",
+				"text": ".@AlexCrawfordSky travels to Myanmar to join a mission to rescue stranded Rohingya Muslims #RohingyaCrisis https://t.co/cbKppUurqm",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "RohingyaCrisis",
+							"indices": [
+								91,
+								106
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "AlexCrawfordSky",
+							"name": "Alex Crawford",
+							"id": 86271665,
+							"id_str": "86271665",
+							"indices": [
+								1,
+								17
+							]
+						}
+					],
+					"urls": [],
+					"media": [
+						{
+							"id": 929951999130443800,
+							"id_str": "929951999130443776",
+							"indices": [
+								107,
+								130
+							],
+							"media_url": "http://pbs.twimg.com/media/DOfasZ8VwAIlhfd.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DOfasZ8VwAIlhfd.jpg",
+							"url": "https://t.co/cbKppUurqm",
+							"display_url": "pic.twitter.com/cbKppUurqm",
+							"expanded_url": "https://twitter.com/SkyNews/status/929952312910430208/video/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 680,
+									"h": 680,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 720,
+									"h": 720,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 720,
+									"h": 720,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 929951999130443800,
+							"id_str": "929951999130443776",
+							"indices": [
+								107,
+								130
+							],
+							"media_url": "http://pbs.twimg.com/media/DOfasZ8VwAIlhfd.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DOfasZ8VwAIlhfd.jpg",
+							"url": "https://t.co/cbKppUurqm",
+							"display_url": "pic.twitter.com/cbKppUurqm",
+							"expanded_url": "https://twitter.com/SkyNews/status/929952312910430208/video/1",
+							"type": "video",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 680,
+									"h": 680,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 720,
+									"h": 720,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 720,
+									"h": 720,
+									"resize": "fit"
+								}
+							},
+							"video_info": {
+								"aspect_ratio": [
+									1,
+									1
+								],
+								"duration_millis": 92520,
+								"variants": [
+									{
+										"content_type": "application/x-mpegURL",
+										"url": "https://video.twimg.com/amplify_video/929951999130443776/pl/Btnl5FO_os3tRLWZ.m3u8"
+									},
+									{
+										"bitrate": 1280000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/amplify_video/929951999130443776/vid/720x720/GY9AkwBxYvwfnuG9.mp4"
+									},
+									{
+										"bitrate": 320000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/amplify_video/929951999130443776/vid/240x240/_eidyG1jJI-JrndH.mp4"
+									},
+									{
+										"bitrate": 832000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/amplify_video/929951999130443776/vid/480x480/K4_e5FSliVYsfNTn.mp4"
+									}
+								]
+							},
+							"additional_media_info": {
+								"title": "Rohingya Crisis: Sky News joins rescue mission ",
+								"description": ".@AlexCrawfordSky ‏travels to Myanmar to join a mission to rescue stranded Rohingya Muslims #RohingyaCrisis",
+								"call_to_actions": {
+									"visit_site": {
+										"url": "http://news.sky.com/"
+									}
+								},
+								"embeddable": true,
+								"monetizable": false
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://snappytv.com\" rel=\"nofollow\">SnappyTV.com</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 7587032,
+					"id_str": "7587032",
+					"name": "Sky News",
+					"screen_name": "SkyNews",
+					"location": "London, UK",
+					"description": "Stories direct from the @SkyNews newsroom. Tweet us your queries and questions. For breaking news, follow @SkyNewsBreak.",
+					"url": "https://t.co/SnOv0usOtw",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/SnOv0usOtw",
+									"expanded_url": "http://news.sky.com/",
+									"display_url": "news.sky.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 4385943,
+					"friends_count": 11,
+					"listed_count": 21914,
+					"created_at": "Thu Jul 19 14:42:53 +0000 2007",
+					"favourites_count": 11,
+					"utc_offset": 0,
+					"time_zone": "London",
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 272686,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": true,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/619182382462181376/z0b5PgE5.png",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/619182382462181376/z0b5PgE5.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/880366112751456257/GKkxouK6_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/880366112751456257/GKkxouK6_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/7587032/1431029103",
+					"profile_link_color": "385FAC",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "EDEDED",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 155,
+				"favorite_count": 103,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 18,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 929952312910430200,
+		"quoted_status_id_str": "929952312910430208",
+		"retweet_count": 18,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Nov 13 08:20:05 +0000 2017",
 		"id": 929987218487283700,
 		"id_str": "929987218487283712",
