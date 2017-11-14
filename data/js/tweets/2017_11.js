@@ -1,6 +1,916 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Tue Nov 14 20:02:21 +0000 2017",
+		"id": 930526336338354200,
+		"id_str": "930526336338354180",
+		"text": "When you geen 280 karakters nodig hebt. https://t.co/ybFaINXfao",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 930526327890989000,
+					"id_str": "930526327890989059",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/DOnkw9wXUAMVrnW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DOnkw9wXUAMVrnW.jpg",
+					"url": "https://t.co/ybFaINXfao",
+					"display_url": "pic.twitter.com/ybFaINXfao",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/930526336338354180/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 173,
+							"h": 173,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 173,
+							"h": 173,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 173,
+							"h": 173,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 930526327890989000,
+					"id_str": "930526327890989059",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/DOnkw9wXUAMVrnW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DOnkw9wXUAMVrnW.jpg",
+					"url": "https://t.co/ybFaINXfao",
+					"display_url": "pic.twitter.com/ybFaINXfao",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/930526336338354180/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 173,
+							"h": 173,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 173,
+							"h": 173,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 173,
+							"h": 173,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 930526327840673800,
+					"id_str": "930526327840673792",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/DOnkw9kXkAAjyQX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DOnkw9kXkAAjyQX.jpg",
+					"url": "https://t.co/ybFaINXfao",
+					"display_url": "pic.twitter.com/ybFaINXfao",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/930526336338354180/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 686,
+							"h": 515,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 686,
+							"h": 515,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 930526327819599900,
+					"id_str": "930526327819599873",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/DOnkw9fWAAEDdfK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DOnkw9fWAAEDdfK.jpg",
+					"url": "https://t.co/ybFaINXfao",
+					"display_url": "pic.twitter.com/ybFaINXfao",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/930526336338354180/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 400,
+							"h": 226,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 226,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 400,
+							"h": 226,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | Autonomous Biological Machine | https://t.co/bys0LKyw9p",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKyw9p",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9213,
+			"friends_count": 1952,
+			"listed_count": 613,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3564,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61288,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "871685aa82f8a489",
+			"url": "https://api.twitter.com/1.1/geo/id/871685aa82f8a489.json",
+			"place_type": "city",
+			"name": "Utrecht",
+			"full_name": "Utrecht, The Netherlands",
+			"country_code": "NL",
+			"country": "The Netherlands",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							4.9702867,
+							52.0262429
+						],
+						[
+							5.1952468,
+							52.0262429
+						],
+						[
+							5.1952468,
+							52.142137
+						],
+						[
+							4.9702867,
+							52.142137
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
+		"created_at": "Tue Nov 14 19:55:01 +0000 2017",
+		"id": 930524488533454800,
+		"id_str": "930524488533454849",
+		"text": "RT @ow: holy shit @vodafonenz back home in NZ has gone full on \"fuck net neutrality\" https://t.co/HqUM8nrFzH",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ow",
+					"name": "⚡️ Owen",
+					"id": 14767730,
+					"id_str": "14767730",
+					"indices": [
+						3,
+						6
+					]
+				},
+				{
+					"screen_name": "vodafoneNZ",
+					"name": "Vodafone New Zealand",
+					"id": 15734473,
+					"id_str": "15734473",
+					"indices": [
+						18,
+						29
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 930143425214677000,
+					"id_str": "930143425214676993",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/DOiIhGIWAAEuIg6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DOiIhGIWAAEuIg6.jpg",
+					"url": "https://t.co/HqUM8nrFzH",
+					"display_url": "pic.twitter.com/HqUM8nrFzH",
+					"expanded_url": "https://twitter.com/ow/status/930143719260610560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 268,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1903,
+							"h": 750,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 473,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 930143719260610600,
+					"source_status_id_str": "930143719260610560",
+					"source_user_id": 14767730,
+					"source_user_id_str": "14767730"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 930143425214677000,
+					"id_str": "930143425214676993",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/DOiIhGIWAAEuIg6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DOiIhGIWAAEuIg6.jpg",
+					"url": "https://t.co/HqUM8nrFzH",
+					"display_url": "pic.twitter.com/HqUM8nrFzH",
+					"expanded_url": "https://twitter.com/ow/status/930143719260610560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 268,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1903,
+							"h": 750,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 473,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 930143719260610600,
+					"source_status_id_str": "930143719260610560",
+					"source_user_id": 14767730,
+					"source_user_id_str": "14767730"
+				},
+				{
+					"id": 930143456919507000,
+					"id_str": "930143456919506945",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/DOiIi8PXUAENeVl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DOiIi8PXUAENeVl.jpg",
+					"url": "https://t.co/HqUM8nrFzH",
+					"display_url": "pic.twitter.com/HqUM8nrFzH",
+					"expanded_url": "https://twitter.com/ow/status/930143719260610560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 443,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 251,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1959,
+							"h": 723,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 930143719260610600,
+					"source_status_id_str": "930143719260610560",
+					"source_user_id": 14767730,
+					"source_user_id_str": "14767730"
+				},
+				{
+					"id": 930143646929875000,
+					"id_str": "930143646929874944",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/DOiIuAFXcAAio6S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DOiIuAFXcAAio6S.jpg",
+					"url": "https://t.co/HqUM8nrFzH",
+					"display_url": "pic.twitter.com/HqUM8nrFzH",
+					"expanded_url": "https://twitter.com/ow/status/930143719260610560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1947,
+							"h": 700,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 431,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 244,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 930143719260610600,
+					"source_status_id_str": "930143719260610560",
+					"source_user_id": 14767730,
+					"source_user_id_str": "14767730"
+				},
+				{
+					"id": 930143684976406500,
+					"id_str": "930143684976406528",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/DOiIwN0XcAAVWbi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DOiIwN0XcAAVWbi.jpg",
+					"url": "https://t.co/HqUM8nrFzH",
+					"display_url": "pic.twitter.com/HqUM8nrFzH",
+					"expanded_url": "https://twitter.com/ow/status/930143719260610560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 301,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 531,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1888,
+							"h": 835,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 930143719260610600,
+					"source_status_id_str": "930143719260610560",
+					"source_user_id": 14767730,
+					"source_user_id_str": "14767730"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | Autonomous Biological Machine | https://t.co/bys0LKyw9p",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKyw9p",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9213,
+			"friends_count": 1952,
+			"listed_count": 613,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3564,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61288,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Nov 13 18:41:58 +0000 2017",
+			"id": 930143719260610600,
+			"id_str": "930143719260610560",
+			"text": "holy shit @vodafonenz back home in NZ has gone full on \"fuck net neutrality\" https://t.co/HqUM8nrFzH",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "vodafoneNZ",
+						"name": "Vodafone New Zealand",
+						"id": 15734473,
+						"id_str": "15734473",
+						"indices": [
+							10,
+							21
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 930143425214677000,
+						"id_str": "930143425214676993",
+						"indices": [
+							77,
+							100
+						],
+						"media_url": "http://pbs.twimg.com/media/DOiIhGIWAAEuIg6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DOiIhGIWAAEuIg6.jpg",
+						"url": "https://t.co/HqUM8nrFzH",
+						"display_url": "pic.twitter.com/HqUM8nrFzH",
+						"expanded_url": "https://twitter.com/ow/status/930143719260610560/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 268,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1903,
+								"h": 750,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 473,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 930143425214677000,
+						"id_str": "930143425214676993",
+						"indices": [
+							77,
+							100
+						],
+						"media_url": "http://pbs.twimg.com/media/DOiIhGIWAAEuIg6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DOiIhGIWAAEuIg6.jpg",
+						"url": "https://t.co/HqUM8nrFzH",
+						"display_url": "pic.twitter.com/HqUM8nrFzH",
+						"expanded_url": "https://twitter.com/ow/status/930143719260610560/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 268,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1903,
+								"h": 750,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 473,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 930143456919507000,
+						"id_str": "930143456919506945",
+						"indices": [
+							77,
+							100
+						],
+						"media_url": "http://pbs.twimg.com/media/DOiIi8PXUAENeVl.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DOiIi8PXUAENeVl.jpg",
+						"url": "https://t.co/HqUM8nrFzH",
+						"display_url": "pic.twitter.com/HqUM8nrFzH",
+						"expanded_url": "https://twitter.com/ow/status/930143719260610560/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 443,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 251,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1959,
+								"h": 723,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 930143646929875000,
+						"id_str": "930143646929874944",
+						"indices": [
+							77,
+							100
+						],
+						"media_url": "http://pbs.twimg.com/media/DOiIuAFXcAAio6S.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DOiIuAFXcAAio6S.jpg",
+						"url": "https://t.co/HqUM8nrFzH",
+						"display_url": "pic.twitter.com/HqUM8nrFzH",
+						"expanded_url": "https://twitter.com/ow/status/930143719260610560/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1947,
+								"h": 700,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 431,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 244,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 930143684976406500,
+						"id_str": "930143684976406528",
+						"indices": [
+							77,
+							100
+						],
+						"media_url": "http://pbs.twimg.com/media/DOiIwN0XcAAVWbi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DOiIwN0XcAAVWbi.jpg",
+						"url": "https://t.co/HqUM8nrFzH",
+						"display_url": "pic.twitter.com/HqUM8nrFzH",
+						"expanded_url": "https://twitter.com/ow/status/930143719260610560/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 301,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 531,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1888,
+								"h": 835,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14767730,
+				"id_str": "14767730",
+				"name": "⚡️ Owen",
+				"screen_name": "ow",
+				"location": "Amsterdam, The Netherlands",
+				"description": "Kiwi in 🇳🇱. Freelance writer, developer and marketing strategist. Weekly podcast/newsletter @chargedtech. about: https://t.co/kvDXilK0dt",
+				"url": "https://t.co/ules69t1Ws",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ules69t1Ws",
+								"expanded_url": "http://char.gd",
+								"display_url": "char.gd",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/kvDXilK0dt",
+								"expanded_url": "http://owenwillia.ms",
+								"display_url": "owenwillia.ms",
+								"indices": [
+									113,
+									136
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 25801,
+				"friends_count": 1550,
+				"listed_count": 1103,
+				"created_at": "Wed May 14 01:48:28 +0000 2008",
+				"favourites_count": 77616,
+				"utc_offset": 3600,
+				"time_zone": "Amsterdam",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 107361,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "49717A",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440628003609903104/MUKcjKGB.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440628003609903104/MUKcjKGB.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/845700745668280322/UbXH15XF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/845700745668280322/UbXH15XF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14767730/1486038293",
+				"profile_link_color": "4C96A2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E1C9AC",
+				"profile_text_color": "A3BFAE",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 73,
+			"favorite_count": 93,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 73,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Nov 14 18:56:58 +0000 2017",
 		"id": 930509882771550200,
 		"id_str": "930509882771550209",
