@@ -1,6 +1,449 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Thu Nov 16 15:20:54 +0000 2017",
+		"id": 931180282773983200,
+		"id_str": "931180282773983233",
+		"text": "RT @allend0rk: a photographer took photos of this man before &amp; after she told him this was not his beautiful house https://t.co/IhFB3YBT5o",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "allend0rk",
+					"name": "mrs. doctor cube",
+					"id": 58477646,
+					"id_str": "58477646",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 930490871732146200,
+					"id_str": "930490871732146176",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/DOnEhJRWkAASWzr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DOnEhJRWkAASWzr.jpg",
+					"url": "https://t.co/IhFB3YBT5o",
+					"display_url": "pic.twitter.com/IhFB3YBT5o",
+					"expanded_url": "https://twitter.com/allend0rk/status/930490877407121409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 584,
+							"h": 366,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 584,
+							"h": 366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 584,
+							"h": 366,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 930490877407121400,
+					"source_status_id_str": "930490877407121409",
+					"source_user_id": 58477646,
+					"source_user_id_str": "58477646"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 930490871732146200,
+					"id_str": "930490871732146176",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/DOnEhJRWkAASWzr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DOnEhJRWkAASWzr.jpg",
+					"url": "https://t.co/IhFB3YBT5o",
+					"display_url": "pic.twitter.com/IhFB3YBT5o",
+					"expanded_url": "https://twitter.com/allend0rk/status/930490877407121409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 584,
+							"h": 366,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 584,
+							"h": 366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 584,
+							"h": 366,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 930490877407121400,
+					"source_status_id_str": "930490877407121409",
+					"source_user_id": 58477646,
+					"source_user_id_str": "58477646"
+				},
+				{
+					"id": 930490871736340500,
+					"id_str": "930490871736340480",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/DOnEhJSWkAAU2OW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DOnEhJSWkAAU2OW.jpg",
+					"url": "https://t.co/IhFB3YBT5o",
+					"display_url": "pic.twitter.com/IhFB3YBT5o",
+					"expanded_url": "https://twitter.com/allend0rk/status/930490877407121409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 532,
+							"h": 386,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 532,
+							"h": 386,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 532,
+							"h": 386,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 930490877407121400,
+					"source_status_id_str": "930490877407121409",
+					"source_user_id": 58477646,
+					"source_user_id_str": "58477646"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | Autonomous Biological Machine | https://t.co/bys0LKyw9p",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKyw9p",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9213,
+			"friends_count": 1952,
+			"listed_count": 613,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3570,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61280,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Nov 14 17:41:27 +0000 2017",
+			"id": 930490877407121400,
+			"id_str": "930490877407121409",
+			"text": "a photographer took photos of this man before &amp; after she told him this was not his beautiful house https://t.co/IhFB3YBT5o",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 930490871732146200,
+						"id_str": "930490871732146176",
+						"indices": [
+							104,
+							127
+						],
+						"media_url": "http://pbs.twimg.com/media/DOnEhJRWkAASWzr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DOnEhJRWkAASWzr.jpg",
+						"url": "https://t.co/IhFB3YBT5o",
+						"display_url": "pic.twitter.com/IhFB3YBT5o",
+						"expanded_url": "https://twitter.com/allend0rk/status/930490877407121409/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 584,
+								"h": 366,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 584,
+								"h": 366,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 584,
+								"h": 366,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 930490871732146200,
+						"id_str": "930490871732146176",
+						"indices": [
+							104,
+							127
+						],
+						"media_url": "http://pbs.twimg.com/media/DOnEhJRWkAASWzr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DOnEhJRWkAASWzr.jpg",
+						"url": "https://t.co/IhFB3YBT5o",
+						"display_url": "pic.twitter.com/IhFB3YBT5o",
+						"expanded_url": "https://twitter.com/allend0rk/status/930490877407121409/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 584,
+								"h": 366,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 584,
+								"h": 366,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 584,
+								"h": 366,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 930490871736340500,
+						"id_str": "930490871736340480",
+						"indices": [
+							104,
+							127
+						],
+						"media_url": "http://pbs.twimg.com/media/DOnEhJSWkAAU2OW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DOnEhJSWkAAU2OW.jpg",
+						"url": "https://t.co/IhFB3YBT5o",
+						"display_url": "pic.twitter.com/IhFB3YBT5o",
+						"expanded_url": "https://twitter.com/allend0rk/status/930490877407121409/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 532,
+								"h": 386,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 532,
+								"h": 386,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 532,
+								"h": 386,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 58477646,
+				"id_str": "58477646",
+				"name": "mrs. doctor cube",
+				"screen_name": "allend0rk",
+				"location": "massachusetts, usa",
+				"description": "letting the days go by ⚰️",
+				"url": "https://t.co/RgarzIsSRL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/RgarzIsSRL",
+								"expanded_url": "http://Instagram.com/allendork",
+								"display_url": "Instagram.com/allendork",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 254,
+				"friends_count": 211,
+				"listed_count": 1,
+				"created_at": "Mon Jul 20 13:50:39 +0000 2009",
+				"favourites_count": 7537,
+				"utc_offset": -18000,
+				"time_zone": "Quito",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7616,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/477144339227758592/uqSUa_iD.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/477144339227758592/uqSUa_iD.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/930834715820556292/AmbSPTPX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/930834715820556292/AmbSPTPX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/58477646/1510637605",
+				"profile_link_color": "F58EA8",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "2FC2EF",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5980,
+			"favorite_count": 15169,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5980,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Nov 16 14:12:52 +0000 2017",
 		"id": 931163163390865400,
 		"id_str": "931163163390865408",
