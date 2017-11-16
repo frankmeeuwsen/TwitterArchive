@@ -1,6 +1,425 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Thu Nov 16 05:59:46 +0000 2017",
+		"id": 931039068732973000,
+		"id_str": "931039068732973057",
+		"text": "RT @soundgarden: ‘Fell On Black Days’ was released as a single on this day in 1994. #superunknown https://t.co/74KICOFsaE",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "superunknown",
+					"indices": [
+						84,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "soundgarden",
+					"name": "Soundgarden",
+					"id": 101894425,
+					"id_str": "101894425",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 930742879584161800,
+					"id_str": "930742879584161792",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DOqpt7rWkAAWj24.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DOqpt7rWkAAWj24.jpg",
+					"url": "https://t.co/74KICOFsaE",
+					"display_url": "pic.twitter.com/74KICOFsaE",
+					"expanded_url": "https://twitter.com/soundgarden/status/930895698463039488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 930895698463039500,
+					"source_status_id_str": "930895698463039488",
+					"source_user_id": 101894425,
+					"source_user_id_str": "101894425"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 930742879584161800,
+					"id_str": "930742879584161792",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DOqpt7rWkAAWj24.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DOqpt7rWkAAWj24.jpg",
+					"url": "https://t.co/74KICOFsaE",
+					"display_url": "pic.twitter.com/74KICOFsaE",
+					"expanded_url": "https://twitter.com/soundgarden/status/930895698463039488/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 930895698463039500,
+					"source_status_id_str": "930895698463039488",
+					"source_user_id": 101894425,
+					"source_user_id_str": "101894425",
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DOqpt7rWkAAWj24.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | Autonomous Biological Machine | https://t.co/bys0LKyw9p",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKyw9p",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9211,
+			"friends_count": 1951,
+			"listed_count": 613,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3567,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61297,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 15 20:30:04 +0000 2017",
+			"id": 930895698463039500,
+			"id_str": "930895698463039488",
+			"text": "‘Fell On Black Days’ was released as a single on this day in 1994. #superunknown https://t.co/74KICOFsaE",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "superunknown",
+						"indices": [
+							67,
+							80
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 930742879584161800,
+						"id_str": "930742879584161792",
+						"indices": [
+							81,
+							104
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DOqpt7rWkAAWj24.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DOqpt7rWkAAWj24.jpg",
+						"url": "https://t.co/74KICOFsaE",
+						"display_url": "pic.twitter.com/74KICOFsaE",
+						"expanded_url": "https://twitter.com/soundgarden/status/930895698463039488/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 930742879584161800,
+						"id_str": "930742879584161792",
+						"indices": [
+							81,
+							104
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DOqpt7rWkAAWj24.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DOqpt7rWkAAWj24.jpg",
+						"url": "https://t.co/74KICOFsaE",
+						"display_url": "pic.twitter.com/74KICOFsaE",
+						"expanded_url": "https://twitter.com/soundgarden/status/930895698463039488/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"medium": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								4,
+								3
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/DOqpt7rWkAAWj24.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 101894425,
+				"id_str": "101894425",
+				"name": "Soundgarden",
+				"screen_name": "soundgarden",
+				"location": "Seattle",
+				"description": "Watch the video for Chris Cornell's 'The Promise': https://t.co/XL9VTeZgAK",
+				"url": "http://t.co/iOYprQ5zmz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/iOYprQ5zmz",
+								"expanded_url": "http://www.soundgardenworld.com",
+								"display_url": "soundgardenworld.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/XL9VTeZgAK",
+								"expanded_url": "http://bit.ly/wrdpromise",
+								"display_url": "bit.ly/wrdpromise",
+								"indices": [
+									51,
+									74
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 414581,
+				"friends_count": 88,
+				"listed_count": 3871,
+				"created_at": "Mon Jan 04 23:37:20 +0000 2010",
+				"favourites_count": 22,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 1479,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DBD2CD",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/437976855912525824/mrL6hGP5.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/437976855912525824/mrL6hGP5.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/867842730998845440/Y-uOKS9g_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/867842730998845440/Y-uOKS9g_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/101894425/1500493984",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 574,
+			"favorite_count": 1916,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 574,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Nov 15 21:59:11 +0000 2017",
 		"id": 930918125817745400,
 		"id_str": "930918125817745409",
