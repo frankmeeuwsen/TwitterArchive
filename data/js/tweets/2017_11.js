@@ -1,6 +1,284 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Thu Nov 23 06:42:08 +0000 2017",
+		"id": 933586446581207000,
+		"id_str": "933586446581207040",
+		"text": "@michielrovers weet jij wie de studenten zijn die smartphone onderzoek op de Uithof doen? Zie vraag van… https://t.co/ZGHAYXBwYo",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "michielrovers",
+					"name": "michiel rovers",
+					"id": 59483019,
+					"id_str": "59483019",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZGHAYXBwYo",
+					"expanded_url": "https://twitter.com/i/web/status/933586446581207040",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 59483019,
+		"in_reply_to_user_id_str": "59483019",
+		"in_reply_to_screen_name": "michielrovers",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | Autonomous Biological Machine | https://t.co/bys0LKyw9p",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKyw9p",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9208,
+			"friends_count": 1955,
+			"listed_count": 613,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3595,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61336,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "871685aa82f8a489",
+			"url": "https://api.twitter.com/1.1/geo/id/871685aa82f8a489.json",
+			"place_type": "city",
+			"name": "Utrecht",
+			"full_name": "Utrecht, The Netherlands",
+			"country_code": "NL",
+			"country": "The Netherlands",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							4.9702867,
+							52.0262429
+						],
+						[
+							5.1952468,
+							52.0262429
+						],
+						[
+							5.1952468,
+							52.142137
+						],
+						[
+							4.9702867,
+							52.142137
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 933555178841755600,
+		"quoted_status_id_str": "933555178841755648",
+		"quoted_status": {
+			"created_at": "Thu Nov 23 04:37:53 +0000 2017",
+			"id": 933555178841755600,
+			"id_str": "933555178841755648",
+			"text": "@ritzotencate @frankmeeuwsen @aljo weten jullie toevallig welke studenten dit zijn of wie Ritzo kan benaderen om deze studenten te bereiken?",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ritzotencate",
+						"name": "Ritzo ten Cate",
+						"id": 7584542,
+						"id_str": "7584542",
+						"indices": [
+							0,
+							13
+						]
+					},
+					{
+						"screen_name": "frankmeeuwsen",
+						"name": "Frank Meeuwsen",
+						"id": 816203,
+						"id_str": "816203",
+						"indices": [
+							14,
+							28
+						]
+					},
+					{
+						"screen_name": "aljo",
+						"name": "Aljo Hartgers",
+						"id": 9993492,
+						"id_str": "9993492",
+						"indices": [
+							29,
+							34
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": 933463240822132700,
+			"in_reply_to_status_id_str": "933463240822132739",
+			"in_reply_to_user_id": 7584542,
+			"in_reply_to_user_id_str": "7584542",
+			"in_reply_to_screen_name": "ritzotencate",
+			"user": {
+				"id": 1252681,
+				"id_str": "1252681",
+				"name": "Marco Derksen",
+				"screen_name": "marcoderksen",
+				"location": "Arnhem, Netherlands ",
+				"description": "Oprichter/partner Upstream, Marketingfacts, Arnhem Direct, SportNext, TravelNext, AOG, VPRO, Luxor Live, digitaal leiderschap, onderwijs, fotografie en vader!",
+				"url": "http://t.co/TxAyoHVzHU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/TxAyoHVzHU",
+								"expanded_url": "http://koneksa-mondo.nl/",
+								"display_url": "koneksa-mondo.nl",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 28066,
+				"friends_count": 4932,
+				"listed_count": 1551,
+				"created_at": "Thu Mar 15 22:44:18 +0000 2007",
+				"favourites_count": 8187,
+				"utc_offset": 3600,
+				"time_zone": "Amsterdam",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 139706,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DBE9ED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/672150151/bfd5c7fda8f51bd1082f8b593286cd16.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/672150151/bfd5c7fda8f51bd1082f8b593286cd16.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2481600063/csc8fi7o9h1uwyoxtlb4_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2481600063/csc8fi7o9h1uwyoxtlb4_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1252681/1348906748",
+				"profile_link_color": "EB8415",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Wed Nov 22 16:40:33 +0000 2017",
 		"id": 933374652432429000,
 		"id_str": "933374652432429058",
