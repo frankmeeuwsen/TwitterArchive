@@ -1,6 +1,331 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Fri Nov 24 18:23:15 +0000 2017",
+		"id": 934125273712414700,
+		"id_str": "934125273712414721",
+		"text": "Keep calm and covfefe. https://t.co/Uq08XEi0Pr",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Uq08XEi0Pr",
+					"expanded_url": "https://twitter.com/mcdonaldscorp/status/934071220412264449",
+					"display_url": "twitter.com/mcdonaldscorp/…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | Autonomous Biological Machine | https://t.co/bys0LKyw9p",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKyw9p",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9208,
+			"friends_count": 1955,
+			"listed_count": 614,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3604,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61333,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "871685aa82f8a489",
+			"url": "https://api.twitter.com/1.1/geo/id/871685aa82f8a489.json",
+			"place_type": "city",
+			"name": "Utrecht",
+			"full_name": "Utrecht, The Netherlands",
+			"country_code": "NL",
+			"country": "The Netherlands",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							4.9702867,
+							52.0262429
+						],
+						[
+							5.1952468,
+							52.0262429
+						],
+						[
+							5.1952468,
+							52.142137
+						],
+						[
+							4.9702867,
+							52.142137
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 934071220412264400,
+		"quoted_status_id_str": "934071220412264449",
+		"quoted_status": {
+			"created_at": "Fri Nov 24 14:48:27 +0000 2017",
+			"id": 934071220412264400,
+			"id_str": "934071220412264449",
+			"text": "When you tweet before your first cup of McCafé… Nothing comes before coffee. https://t.co/aPJ2ZupS9b",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 934071217803399200,
+						"id_str": "934071217803399168",
+						"indices": [
+							77,
+							100
+						],
+						"media_url": "http://pbs.twimg.com/media/DPZ80twWkAAaoi-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DPZ80twWkAAaoi-.jpg",
+						"url": "https://t.co/aPJ2ZupS9b",
+						"display_url": "pic.twitter.com/aPJ2ZupS9b",
+						"expanded_url": "https://twitter.com/McDonaldsCorp/status/934071220412264449/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 578,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 384,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 578,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 934071217803399200,
+						"id_str": "934071217803399168",
+						"indices": [
+							77,
+							100
+						],
+						"media_url": "http://pbs.twimg.com/media/DPZ80twWkAAaoi-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DPZ80twWkAAaoi-.jpg",
+						"url": "https://t.co/aPJ2ZupS9b",
+						"display_url": "pic.twitter.com/aPJ2ZupS9b",
+						"expanded_url": "https://twitter.com/McDonaldsCorp/status/934071220412264449/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 578,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 384,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 578,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+			"in_reply_to_status_id": 933938231472771100,
+			"in_reply_to_status_id_str": "933938231472771072",
+			"in_reply_to_user_id": 111679943,
+			"in_reply_to_user_id_str": "111679943",
+			"in_reply_to_screen_name": "McDonaldsCorp",
+			"user": {
+				"id": 111679943,
+				"id_str": "111679943",
+				"name": "McDonald's",
+				"screen_name": "McDonaldsCorp",
+				"location": "Oak Brook, IL",
+				"description": "Learn about McDonald’s history, people, food, restaurants around the world and #McDelivery! https://t.co/cyLJmTuc4b",
+				"url": "https://t.co/cyLJmTuc4b",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/cyLJmTuc4b",
+								"expanded_url": "http://aboutmcdonalds.com",
+								"display_url": "aboutmcdonalds.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/cyLJmTuc4b",
+								"expanded_url": "http://aboutmcdonalds.com",
+								"display_url": "aboutmcdonalds.com",
+								"indices": [
+									92,
+									115
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 164551,
+				"friends_count": 11538,
+				"listed_count": 1082,
+				"created_at": "Fri Feb 05 19:57:44 +0000 2010",
+				"favourites_count": 4737,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 249854,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/656210809413062656/HY4H2JG0.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/656210809413062656/HY4H2JG0.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/900361513470496771/SY5tU8Lm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/900361513470496771/SY5tU8Lm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/111679943/1503497826",
+				"profile_link_color": "FA0303",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FAFAFA",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 687,
+			"favorite_count": 9357,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Nov 24 16:57:20 +0000 2017",
 		"id": 934103651618119700,
 		"id_str": "934103651618119680",
