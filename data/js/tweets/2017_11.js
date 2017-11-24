@@ -1,6 +1,654 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Fri Nov 24 16:57:20 +0000 2017",
+		"id": 934103651618119700,
+		"id_str": "934103651618119680",
+		"text": "#showerthoughts https://t.co/XHffXiMmqZ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "showerthoughts",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XHffXiMmqZ",
+					"expanded_url": "https://twitter.com/acreature/status/933419415063887872",
+					"display_url": "twitter.com/acreature/stat…",
+					"indices": [
+						16,
+						39
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | Autonomous Biological Machine | https://t.co/bys0LKyw9p",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKyw9p",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9208,
+			"friends_count": 1955,
+			"listed_count": 613,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3602,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61332,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "871685aa82f8a489",
+			"url": "https://api.twitter.com/1.1/geo/id/871685aa82f8a489.json",
+			"place_type": "city",
+			"name": "Utrecht",
+			"full_name": "Utrecht, The Netherlands",
+			"country_code": "NL",
+			"country": "The Netherlands",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							4.9702867,
+							52.0262429
+						],
+						[
+							5.1952468,
+							52.0262429
+						],
+						[
+							5.1952468,
+							52.142137
+						],
+						[
+							4.9702867,
+							52.142137
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 933419415063887900,
+		"quoted_status_id_str": "933419415063887872",
+		"quoted_status": {
+			"created_at": "Wed Nov 22 19:38:25 +0000 2017",
+			"id": 933419415063887900,
+			"id_str": "933419415063887872",
+			"text": "Something that occurred to me in the shower this morning. https://t.co/08SkK0TR7K",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 933419403185569800,
+						"id_str": "933419403185569792",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/media/DPQsAHFVQAAMFz7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DPQsAHFVQAAMFz7.jpg",
+						"url": "https://t.co/08SkK0TR7K",
+						"display_url": "pic.twitter.com/08SkK0TR7K",
+						"expanded_url": "https://twitter.com/acreature/status/933419415063887872/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1048,
+								"h": 811,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 526,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1048,
+								"h": 811,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 933419403185569800,
+						"id_str": "933419403185569792",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/media/DPQsAHFVQAAMFz7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DPQsAHFVQAAMFz7.jpg",
+						"url": "https://t.co/08SkK0TR7K",
+						"display_url": "pic.twitter.com/08SkK0TR7K",
+						"expanded_url": "https://twitter.com/acreature/status/933419415063887872/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1048,
+								"h": 811,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 526,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1048,
+								"h": 811,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20013067,
+				"id_str": "20013067",
+				"name": "Alex Pounds",
+				"screen_name": "acreature",
+				"location": "Toronto, CA",
+				"description": "Senior web developer at 500px. Ex-Last.fm. Loves product design, photography, music, birds, & the web. Makes puns & programming jokes.",
+				"url": "https://t.co/OdS4zW9iCC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OdS4zW9iCC",
+								"expanded_url": "http://alexpounds.com/",
+								"display_url": "alexpounds.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1177,
+				"friends_count": 496,
+				"listed_count": 72,
+				"created_at": "Tue Feb 03 23:22:04 +0000 2009",
+				"favourites_count": 3869,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6445,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "666289",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/4950642/girl.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/4950642/girl.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/735475023889108992/t0Diz504_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/735475023889108992/t0Diz504_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20013067/1413241462",
+				"profile_link_color": "666289",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1584,
+			"favorite_count": 3397,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Fri Nov 24 16:22:37 +0000 2017",
+		"id": 934094915524616200,
+		"id_str": "934094915524616193",
+		"text": "Blijf godverdomme weg bij basisscholen met je persoonlijke huiliehuilie pietprobleempjes. Stelletje mafklappers.… https://t.co/ZDLnfWVbyC",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZDLnfWVbyC",
+					"expanded_url": "https://twitter.com/i/web/status/934094915524616193",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | Autonomous Biological Machine | https://t.co/bys0LKyw9p",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKyw9p",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9208,
+			"friends_count": 1955,
+			"listed_count": 613,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3602,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61332,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "c2ad56798c5f9cad",
+			"url": "https://api.twitter.com/1.1/geo/id/c2ad56798c5f9cad.json",
+			"place_type": "city",
+			"name": "De Ronde Venen",
+			"full_name": "De Ronde Venen, Nederland",
+			"country_code": "NL",
+			"country": "The Netherlands",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							4.7946271,
+							52.1615468
+						],
+						[
+							5.0217418,
+							52.1615468
+						],
+						[
+							5.0217418,
+							52.3041119
+						],
+						[
+							4.7946271,
+							52.3041119
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 934050992764661800,
+		"quoted_status_id_str": "934050992764661760",
+		"quoted_status": {
+			"created_at": "Fri Nov 24 13:28:05 +0000 2017",
+			"id": 934050992764661800,
+			"id_str": "934050992764661760",
+			"text": "Zwarte Piet-actiegroep valt school binnen: 'Ze riepen: ga terug naar je eigen land' https://t.co/EhOGozC5YQ https://t.co/mfjTvhOQQn",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/EhOGozC5YQ",
+						"expanded_url": "https://www.rtlnieuws.nl/nederland/zwarte-piet-actiegroep-valt-school-binnen-ze-riepen-ga-terug-naar-je-eigen-land",
+						"display_url": "rtlnieuws.nl/nederland/zwar…",
+						"indices": [
+							84,
+							107
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 934050990579421200,
+						"id_str": "934050990579421184",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/media/DPZqbVeWkAAoIeP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DPZqbVeWkAAoIeP.jpg",
+						"url": "https://t.co/mfjTvhOQQn",
+						"display_url": "pic.twitter.com/mfjTvhOQQn",
+						"expanded_url": "https://twitter.com/RTLnieuws/status/934050992764661760/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 620,
+								"h": 349,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 620,
+								"h": 349,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 620,
+								"h": 349,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 934050990579421200,
+						"id_str": "934050990579421184",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/media/DPZqbVeWkAAoIeP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DPZqbVeWkAAoIeP.jpg",
+						"url": "https://t.co/mfjTvhOQQn",
+						"display_url": "pic.twitter.com/mfjTvhOQQn",
+						"expanded_url": "https://twitter.com/RTLnieuws/status/934050992764661760/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 620,
+								"h": 349,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 620,
+								"h": 349,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 620,
+								"h": 349,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.rtlnieuws.nl\" rel=\"nofollow\">RTLNieuws</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20968385,
+				"id_str": "20968385",
+				"name": "RTL Nieuws",
+				"screen_name": "RTLnieuws",
+				"location": "Nederland",
+				"description": "Volg het nieuws terwijl het gebeurt. De laatste berichten uit binnen- en buitenland. Politiek, sport, economie, opmerkelijk nieuws. Video.",
+				"url": "http://t.co/CdGxqigxAM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/CdGxqigxAM",
+								"expanded_url": "http://www.rtlnieuws.nl",
+								"display_url": "rtlnieuws.nl",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 372574,
+				"friends_count": 527,
+				"listed_count": 3017,
+				"created_at": "Mon Feb 16 07:17:30 +0000 2009",
+				"favourites_count": 32,
+				"utc_offset": 3600,
+				"time_zone": "Amsterdam",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 204484,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/463221491396407297/0dg9Pu5E.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/463221491396407297/0dg9Pu5E.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/573877197691183104/vFG4SOh6_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/573877197691183104/vFG4SOh6_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20968385/1399285805",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E1E1E1",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 42,
+			"favorite_count": 20,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Fri Nov 24 15:25:01 +0000 2017",
 		"id": 934080420332953600,
 		"id_str": "934080420332953603",
