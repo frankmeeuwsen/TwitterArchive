@@ -1,6 +1,791 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Thu Nov 30 22:09:11 +0000 2017",
+		"id": 936356458572197900,
+		"id_str": "936356458572197888",
+		"text": "RT @bkbkbk: @AGoldmund Reddit found this kid with 22 YT subscribers who made dinosaur videos. Blew up his channel with thousands of subs. K…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bkbkbk",
+					"name": "Brian King",
+					"id": 15381530,
+					"id_str": "15381530",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"screen_name": "AGoldmund",
+					"name": "Alex Goldman what makes radio and is always sad",
+					"id": 836283571,
+					"id_str": "836283571",
+					"indices": [
+						12,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | Autonomous Biological Machine | https://t.co/bys0LKyw9p",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKyw9p",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9209,
+			"friends_count": 1960,
+			"listed_count": 613,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3627,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61333,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Nov 30 21:52:47 +0000 2017",
+			"id": 936352333620961300,
+			"id_str": "936352333620961280",
+			"text": "@AGoldmund Reddit found this kid with 22 YT subscribers who made dinosaur videos. Blew up his channel with thousand… https://t.co/yMCVWYjOvn",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "AGoldmund",
+						"name": "Alex Goldman what makes radio and is always sad",
+						"id": 836283571,
+						"id_str": "836283571",
+						"indices": [
+							0,
+							10
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/yMCVWYjOvn",
+						"expanded_url": "https://twitter.com/i/web/status/936352333620961280",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+			"in_reply_to_status_id": 936350871142707200,
+			"in_reply_to_status_id_str": "936350871142707201",
+			"in_reply_to_user_id": 836283571,
+			"in_reply_to_user_id_str": "836283571",
+			"in_reply_to_screen_name": "AGoldmund",
+			"user": {
+				"id": 15381530,
+				"id_str": "15381530",
+				"name": "Brian King",
+				"screen_name": "bkbkbk",
+				"location": "Los Angeles",
+				"description": "I make moving pictures for fun and profit, I can't eat lemons. Instagram: @bkbkbk",
+				"url": "https://t.co/N5bg21y64q",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/N5bg21y64q",
+								"expanded_url": "http://lucidpotato.com",
+								"display_url": "lucidpotato.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1734,
+				"friends_count": 475,
+				"listed_count": 94,
+				"created_at": "Thu Jul 10 18:55:52 +0000 2008",
+				"favourites_count": 7918,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 20830,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "2C2C2C",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/513717997660168193/wHyRRkhh_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/513717997660168193/wHyRRkhh_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15381530/1505410222",
+				"profile_link_color": "3521A6",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "563dd564285e7363",
+				"url": "https://api.twitter.com/1.1/geo/id/563dd564285e7363.json",
+				"place_type": "neighborhood",
+				"name": "Studio City",
+				"full_name": "Studio City, Los Angeles",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-118.429061,
+								34.119011
+							],
+							[
+								-118.360884,
+								34.119011
+							],
+							[
+								-118.360884,
+								34.157715
+							],
+							[
+								-118.429061,
+								34.157715
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Nov 30 21:32:26 +0000 2017",
+		"id": 936347210190671900,
+		"id_str": "936347210190671875",
+		"text": "RT @TheGingerarchy: How is Twitter free https://t.co/2oHmuJMbYp",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheGingerarchy",
+					"name": "Liz Finnegan",
+					"id": 1712939281,
+					"id_str": "1712939281",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 935974223859810300,
+					"id_str": "935974223859810306",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/DP0_mPwWAAIn8fs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DP0_mPwWAAIn8fs.jpg",
+					"url": "https://t.co/2oHmuJMbYp",
+					"display_url": "pic.twitter.com/2oHmuJMbYp",
+					"expanded_url": "https://twitter.com/TheGingerarchy/status/935974253106728960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 472,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1064,
+							"h": 1533,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 833,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 935974253106729000,
+					"source_status_id_str": "935974253106728960",
+					"source_user_id": 1712939281,
+					"source_user_id_str": "1712939281"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 935974223859810300,
+					"id_str": "935974223859810306",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/DP0_mPwWAAIn8fs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DP0_mPwWAAIn8fs.jpg",
+					"url": "https://t.co/2oHmuJMbYp",
+					"display_url": "pic.twitter.com/2oHmuJMbYp",
+					"expanded_url": "https://twitter.com/TheGingerarchy/status/935974253106728960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 472,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1064,
+							"h": 1533,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 833,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 935974253106729000,
+					"source_status_id_str": "935974253106728960",
+					"source_user_id": 1712939281,
+					"source_user_id_str": "1712939281"
+				},
+				{
+					"id": 935974234609864700,
+					"id_str": "935974234609864710",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/DP0_m3zW0AYpgDc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DP0_m3zW0AYpgDc.jpg",
+					"url": "https://t.co/2oHmuJMbYp",
+					"display_url": "pic.twitter.com/2oHmuJMbYp",
+					"expanded_url": "https://twitter.com/TheGingerarchy/status/935974253106728960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1074,
+							"h": 1461,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 882,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 935974253106729000,
+					"source_status_id_str": "935974253106728960",
+					"source_user_id": 1712939281,
+					"source_user_id_str": "1712939281"
+				},
+				{
+					"id": 935974244827238400,
+					"id_str": "935974244827238400",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/DP0_nd3XkAAQKWL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DP0_nd3XkAAQKWL.jpg",
+					"url": "https://t.co/2oHmuJMbYp",
+					"display_url": "pic.twitter.com/2oHmuJMbYp",
+					"expanded_url": "https://twitter.com/TheGingerarchy/status/935974253106728960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 846,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 479,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1070,
+							"h": 1518,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 935974253106729000,
+					"source_status_id_str": "935974253106728960",
+					"source_user_id": 1712939281,
+					"source_user_id_str": "1712939281"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | Autonomous Biological Machine | https://t.co/bys0LKyw9p",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKyw9p",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9209,
+			"friends_count": 1960,
+			"listed_count": 613,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3627,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61333,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 29 20:50:26 +0000 2017",
+			"id": 935974253106729000,
+			"id_str": "935974253106728960",
+			"text": "How is Twitter free https://t.co/2oHmuJMbYp",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 935974223859810300,
+						"id_str": "935974223859810306",
+						"indices": [
+							20,
+							43
+						],
+						"media_url": "http://pbs.twimg.com/media/DP0_mPwWAAIn8fs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DP0_mPwWAAIn8fs.jpg",
+						"url": "https://t.co/2oHmuJMbYp",
+						"display_url": "pic.twitter.com/2oHmuJMbYp",
+						"expanded_url": "https://twitter.com/TheGingerarchy/status/935974253106728960/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 472,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1064,
+								"h": 1533,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 833,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 935974223859810300,
+						"id_str": "935974223859810306",
+						"indices": [
+							20,
+							43
+						],
+						"media_url": "http://pbs.twimg.com/media/DP0_mPwWAAIn8fs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DP0_mPwWAAIn8fs.jpg",
+						"url": "https://t.co/2oHmuJMbYp",
+						"display_url": "pic.twitter.com/2oHmuJMbYp",
+						"expanded_url": "https://twitter.com/TheGingerarchy/status/935974253106728960/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 472,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1064,
+								"h": 1533,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 833,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 935974234609864700,
+						"id_str": "935974234609864710",
+						"indices": [
+							20,
+							43
+						],
+						"media_url": "http://pbs.twimg.com/media/DP0_m3zW0AYpgDc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DP0_m3zW0AYpgDc.jpg",
+						"url": "https://t.co/2oHmuJMbYp",
+						"display_url": "pic.twitter.com/2oHmuJMbYp",
+						"expanded_url": "https://twitter.com/TheGingerarchy/status/935974253106728960/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1074,
+								"h": 1461,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 500,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 882,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 935974244827238400,
+						"id_str": "935974244827238400",
+						"indices": [
+							20,
+							43
+						],
+						"media_url": "http://pbs.twimg.com/media/DP0_nd3XkAAQKWL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DP0_nd3XkAAQKWL.jpg",
+						"url": "https://t.co/2oHmuJMbYp",
+						"display_url": "pic.twitter.com/2oHmuJMbYp",
+						"expanded_url": "https://twitter.com/TheGingerarchy/status/935974253106728960/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 846,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 479,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1070,
+								"h": 1518,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1712939281,
+				"id_str": "1712939281",
+				"name": "Liz Finnegan",
+				"screen_name": "TheGingerarchy",
+				"location": "Philly",
+				"description": "Bacon enthusiast. Gamer. Tolerable human being. I'm the cool mom. Probably not the droid you're looking for. Views are mine. Marketing Director @MuseGames",
+				"url": "https://t.co/BtdjZpWswH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/BtdjZpWswH",
+								"expanded_url": "http://musegames.com",
+								"display_url": "musegames.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 38588,
+				"friends_count": 1839,
+				"listed_count": 433,
+				"created_at": "Fri Aug 30 14:34:34 +0000 2013",
+				"favourites_count": 53327,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 52132,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/924683576016297984/hDdEhfK2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/924683576016297984/hDdEhfK2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1712939281/1437593343",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5177,
+			"favorite_count": 11306,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5177,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Nov 30 18:57:22 +0000 2017",
 		"id": 936308190031106000,
 		"id_str": "936308190031106050",
