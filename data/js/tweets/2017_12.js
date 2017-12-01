@@ -1,6 +1,449 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Fri Dec 01 11:22:16 +0000 2017",
+		"id": 936556045593440300,
+		"id_str": "936556045593440256",
+		"text": "RT @seb_ly: Well this is very pleasing https://t.co/Ptx78kG0sL",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "seb_ly",
+					"name": "Seb Lee-Delisle",
+					"id": 2334221,
+					"id_str": "2334221",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ptx78kG0sL",
+					"expanded_url": "https://twitter.com/hirotakaster/status/936169902435590144",
+					"display_url": "twitter.com/hirotakaster/s…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | Autonomous Biological Machine | https://t.co/bys0LKyw9p",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKyw9p",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9211,
+			"friends_count": 1960,
+			"listed_count": 613,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3628,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61342,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Dec 01 08:49:13 +0000 2017",
+			"id": 936517528758693900,
+			"id_str": "936517528758693888",
+			"text": "Well this is very pleasing https://t.co/Ptx78kG0sL",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Ptx78kG0sL",
+						"expanded_url": "https://twitter.com/hirotakaster/status/936169902435590144",
+						"display_url": "twitter.com/hirotakaster/s…",
+						"indices": [
+							27,
+							50
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2334221,
+				"id_str": "2334221",
+				"name": "Seb Lee-Delisle",
+				"screen_name": "seb_ly",
+				"location": "Brighton",
+				"description": "Award winning digital artist, speaker and co-host of the Creative Coding Podcast. Winner of Lumen Prize Interactive for https://t.co/9Pz25NrDNf",
+				"url": "https://t.co/MOArZmDqY5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MOArZmDqY5",
+								"expanded_url": "http://seb.ly",
+								"display_url": "seb.ly",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/9Pz25NrDNf",
+								"expanded_url": "http://laserlightsynths.com",
+								"display_url": "laserlightsynths.com",
+								"indices": [
+									120,
+									143
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 15014,
+				"friends_count": 1810,
+				"listed_count": 991,
+				"created_at": "Mon Mar 26 18:26:28 +0000 2007",
+				"favourites_count": 6026,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 54752,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/757490213040091136/BSR-Kim3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/757490213040091136/BSR-Kim3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2334221/1486686092",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 936169902435590100,
+			"quoted_status_id_str": "936169902435590144",
+			"quoted_status": {
+				"created_at": "Thu Nov 30 09:47:52 +0000 2017",
+				"id": 936169902435590100,
+				"id_str": "936169902435590144",
+				"text": "国際ロボット展、これマジ凄かった。 https://t.co/3zrDBqtX95",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 936169468899729400,
+							"id_str": "936169468899729408",
+							"indices": [
+								18,
+								41
+							],
+							"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/936169468899729408/pu/img/9DG67WJWD4h6uDAj.jpg",
+							"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/936169468899729408/pu/img/9DG67WJWD4h6uDAj.jpg",
+							"url": "https://t.co/3zrDBqtX95",
+							"display_url": "pic.twitter.com/3zrDBqtX95",
+							"expanded_url": "https://twitter.com/hirotakaster/status/936169902435590144/video/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 680,
+									"h": 383,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 1200,
+									"h": 675,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1280,
+									"h": 720,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 936169468899729400,
+							"id_str": "936169468899729408",
+							"indices": [
+								18,
+								41
+							],
+							"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/936169468899729408/pu/img/9DG67WJWD4h6uDAj.jpg",
+							"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/936169468899729408/pu/img/9DG67WJWD4h6uDAj.jpg",
+							"url": "https://t.co/3zrDBqtX95",
+							"display_url": "pic.twitter.com/3zrDBqtX95",
+							"expanded_url": "https://twitter.com/hirotakaster/status/936169902435590144/video/1",
+							"type": "video",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 680,
+									"h": 383,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 1200,
+									"h": 675,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1280,
+									"h": 720,
+									"resize": "fit"
+								}
+							},
+							"video_info": {
+								"aspect_ratio": [
+									16,
+									9
+								],
+								"duration_millis": 94200,
+								"variants": [
+									{
+										"bitrate": 320000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/ext_tw_video/936169468899729408/pu/vid/320x180/uoOiK53YdvdeiE0n.mp4"
+									},
+									{
+										"content_type": "application/x-mpegURL",
+										"url": "https://video.twimg.com/ext_tw_video/936169468899729408/pu/pl/0NoymXvsAtnLN-FV.m3u8"
+									},
+									{
+										"bitrate": 832000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/ext_tw_video/936169468899729408/pu/vid/640x360/vevQRhTXvxwWdDu7.mp4"
+									},
+									{
+										"bitrate": 2176000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/ext_tw_video/936169468899729408/pu/vid/1280x720/J3PP247xY5nDh-UV.mp4"
+									}
+								]
+							},
+							"additional_media_info": {
+								"monetizable": false
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 6160482,
+					"id_str": "6160482",
+					"name": "Hirotaka Niisato",
+					"screen_name": "hirotakaster",
+					"location": "Tokyo/Japan",
+					"description": "http://t.co/PD1RleeTyV http://t.co/MxAB1CYL1Q",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": [
+								{
+									"url": "http://t.co/PD1RleeTyV",
+									"expanded_url": "http://siprop.org/en/2.0/",
+									"display_url": "siprop.org/en/2.0/",
+									"indices": [
+										0,
+										22
+									]
+								},
+								{
+									"url": "http://t.co/MxAB1CYL1Q",
+									"expanded_url": "http://www.hirotakaster.com/",
+									"display_url": "hirotakaster.com",
+									"indices": [
+										23,
+										45
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 733,
+					"friends_count": 204,
+					"listed_count": 53,
+					"created_at": "Sat May 19 13:50:20 +0000 2007",
+					"favourites_count": 0,
+					"utc_offset": 32400,
+					"time_zone": "Tokyo",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 29063,
+					"lang": "ja",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "9AE4E8",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/1868932028/none_normal.png",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/1868932028/none_normal.png",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/6160482/1398216663",
+					"profile_link_color": "0000FF",
+					"profile_sidebar_border_color": "87BC44",
+					"profile_sidebar_fill_color": "E0FF92",
+					"profile_text_color": "000000",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 30276,
+				"favorite_count": 55895,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "ja"
+			},
+			"retweet_count": 13,
+			"favorite_count": 17,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 936169902435590100,
+		"quoted_status_id_str": "936169902435590144",
+		"retweet_count": 13,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Dec 01 09:56:17 +0000 2017",
 		"id": 936534407560777700,
 		"id_str": "936534407560777729",
