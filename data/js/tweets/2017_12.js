@@ -1,6 +1,334 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Mon Dec 04 22:59:27 +0000 2017",
+		"id": 937818663817744400,
+		"id_str": "937818663817744384",
+		"text": "En niet te vergeten https://t.co/Tl4Ztk3KIJ van @glenefriedman en de Club van Relaxte Moeders van @ElsbethT https://t.co/0MrNQ0GX7K",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "glenefriedman",
+					"name": "glen E. friedman  Ⓥ",
+					"id": 63893235,
+					"id_str": "63893235",
+					"indices": [
+						48,
+						62
+					]
+				},
+				{
+					"screen_name": "ElsbethT",
+					"name": "Elsbeth Teeling",
+					"id": 18973787,
+					"id_str": "18973787",
+					"indices": [
+						98,
+						107
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Tl4Ztk3KIJ",
+					"expanded_url": "http://idealistpropaganda.blogspot.com/",
+					"display_url": "idealistpropaganda.blogspot.com",
+					"indices": [
+						20,
+						43
+					]
+				},
+				{
+					"url": "https://t.co/0MrNQ0GX7K",
+					"expanded_url": "https://twitter.com/puur/status/937817940182872064",
+					"display_url": "twitter.com/puur/status/93…",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | Autonomous Biological Machine | https://t.co/bys0LKyw9p",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKyw9p",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9201,
+			"friends_count": 1959,
+			"listed_count": 612,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3643,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61325,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "871685aa82f8a489",
+			"url": "https://api.twitter.com/1.1/geo/id/871685aa82f8a489.json",
+			"place_type": "city",
+			"name": "Utrecht",
+			"full_name": "Utrecht, The Netherlands",
+			"country_code": "NL",
+			"country": "The Netherlands",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							4.9702867,
+							52.0262429
+						],
+						[
+							5.1952468,
+							52.0262429
+						],
+						[
+							5.1952468,
+							52.142137
+						],
+						[
+							4.9702867,
+							52.142137
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 937817940182872000,
+		"quoted_status_id_str": "937817940182872064",
+		"quoted_status": {
+			"created_at": "Mon Dec 04 22:56:35 +0000 2017",
+			"id": 937817940182872000,
+			"id_str": "937817940182872064",
+			"text": "Wintertips van @FrankMeeuwsen Bij Uur van Puur: TIP blogs volgens  oa @CorNoltee  @Elja1op1  @radioaalsmeer https://t.co/iWN0BQ03Eh",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "frankmeeuwsen",
+						"name": "Frank Meeuwsen",
+						"id": 816203,
+						"id_str": "816203",
+						"indices": [
+							15,
+							29
+						]
+					},
+					{
+						"screen_name": "cornoltee",
+						"name": "cor noltee",
+						"id": 6822172,
+						"id_str": "6822172",
+						"indices": [
+							70,
+							80
+						]
+					},
+					{
+						"screen_name": "Elja1op1",
+						"name": "Elja Daae",
+						"id": 111704957,
+						"id_str": "111704957",
+						"indices": [
+							82,
+							91
+						]
+					},
+					{
+						"screen_name": "RadioAalsmeer",
+						"name": "Radio Aalsmeer",
+						"id": 512919879,
+						"id_str": "512919879",
+						"indices": [
+							93,
+							107
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/iWN0BQ03Eh",
+						"expanded_url": "https://radioaalsmeer.nl/programma/uur-van-puur/uitzending/2017-12-04/?uur=1&start=965",
+						"display_url": "radioaalsmeer.nl/programma/uur-…",
+						"indices": [
+							108,
+							131
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5776422,
+				"id_str": "5776422",
+				"name": "puur",
+				"screen_name": "puur",
+				"location": "Amsterdam en ook soms Aalsmeer",
+				"description": "I Italiaans Amsterdamse I Eventgigant https://t.co/au4bc2INKQ I Radio DJ I #Uurvanpuur I escaperoom I SNAPCHAT :PuurEvents I blogger",
+				"url": "https://t.co/dZgsZRT92N",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/dZgsZRT92N",
+								"expanded_url": "http://www.annamariaheeftgelijk.nl/",
+								"display_url": "annamariaheeftgelijk.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/au4bc2INKQ",
+								"expanded_url": "http://www.puur.nl",
+								"display_url": "puur.nl",
+								"indices": [
+									38,
+									61
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 14948,
+				"friends_count": 4486,
+				"listed_count": 768,
+				"created_at": "Fri May 04 22:06:39 +0000 2007",
+				"favourites_count": 27437,
+				"utc_offset": 3600,
+				"time_zone": "Amsterdam",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 108627,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/2577608/twit-nick_amsterdam_014.JPG",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/2577608/twit-nick_amsterdam_014.JPG",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/744862755950301185/24dSD5NI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/744862755950301185/24dSD5NI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5776422/1398283171",
+				"profile_link_color": "592E36",
+				"profile_sidebar_border_color": "82CE22",
+				"profile_sidebar_fill_color": "715B75",
+				"profile_text_color": "130C0E",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Mon Dec 04 17:41:17 +0000 2017",
 		"id": 937738594332094500,
 		"id_str": "937738594332094467",
