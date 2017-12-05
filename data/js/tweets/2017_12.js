@@ -1,6 +1,372 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Tue Dec 05 14:29:13 +0000 2017",
+		"id": 938052647172608000,
+		"id_str": "938052647172608000",
+		"text": "RT @DavidAdMolen: Tof stuk over Klap van de Molen in de nieuwe OOR https://t.co/GqcJVFZSbd",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DavidAdMolen",
+					"name": "David Achter de Mole",
+					"id": 118557866,
+					"id_str": "118557866",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 938038332008869900,
+					"id_str": "938038332008869889",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/DQSU5J0WsAEXOwl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DQSU5J0WsAEXOwl.jpg",
+					"url": "https://t.co/GqcJVFZSbd",
+					"display_url": "pic.twitter.com/GqcJVFZSbd",
+					"expanded_url": "https://twitter.com/DavidAdMolen/status/938038344457564160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 938038344457564200,
+					"source_status_id_str": "938038344457564160",
+					"source_user_id": 118557866,
+					"source_user_id_str": "118557866"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 938038332008869900,
+					"id_str": "938038332008869889",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/DQSU5J0WsAEXOwl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DQSU5J0WsAEXOwl.jpg",
+					"url": "https://t.co/GqcJVFZSbd",
+					"display_url": "pic.twitter.com/GqcJVFZSbd",
+					"expanded_url": "https://twitter.com/DavidAdMolen/status/938038344457564160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 938038344457564200,
+					"source_status_id_str": "938038344457564160",
+					"source_user_id": 118557866,
+					"source_user_id_str": "118557866"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | Autonomous Biological Machine | https://t.co/bys0LKyw9p",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKyw9p",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9199,
+			"friends_count": 1958,
+			"listed_count": 612,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3647,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61327,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Dec 05 13:32:23 +0000 2017",
+			"id": 938038344457564200,
+			"id_str": "938038344457564160",
+			"text": "Tof stuk over Klap van de Molen in de nieuwe OOR https://t.co/GqcJVFZSbd",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 938038332008869900,
+						"id_str": "938038332008869889",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/media/DQSU5J0WsAEXOwl.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DQSU5J0WsAEXOwl.jpg",
+						"url": "https://t.co/GqcJVFZSbd",
+						"display_url": "pic.twitter.com/GqcJVFZSbd",
+						"expanded_url": "https://twitter.com/DavidAdMolen/status/938038344457564160/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 938038332008869900,
+						"id_str": "938038332008869889",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/media/DQSU5J0WsAEXOwl.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DQSU5J0WsAEXOwl.jpg",
+						"url": "https://t.co/GqcJVFZSbd",
+						"display_url": "pic.twitter.com/GqcJVFZSbd",
+						"expanded_url": "https://twitter.com/DavidAdMolen/status/938038344457564160/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 118557866,
+				"id_str": "118557866",
+				"name": "David Achter de Mole",
+				"screen_name": "DavidAdMolen",
+				"location": "Utrecht, Nederland",
+				"description": "Podcasts Klap van de Molen & AD.nl, stagemanager Tivoli en zanger John Coffey",
+				"url": "https://t.co/XqLTWxax7Q",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/XqLTWxax7Q",
+								"expanded_url": "http://www.klapvandemolen.org",
+								"display_url": "klapvandemolen.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 833,
+				"friends_count": 265,
+				"listed_count": 8,
+				"created_at": "Mon Mar 01 02:11:52 +0000 2010",
+				"favourites_count": 297,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1445,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/856772335206117378/qNFBQE1N_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/856772335206117378/qNFBQE1N_normal.jpg",
+				"profile_link_color": "FA2A65",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 13,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Tue Dec 05 08:16:25 +0000 2017",
 		"id": 937958829131739100,
 		"id_str": "937958829131739136",
