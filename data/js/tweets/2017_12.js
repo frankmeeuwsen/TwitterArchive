@@ -1,6 +1,241 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Wed Dec 06 11:00:42 +0000 2017",
+		"id": 938362557110325200,
+		"id_str": "938362557110325250",
+		"text": "Inderdaad heel sterk, maar ik ben halverwege gestopt met lezen (tóen dus al een sterk verhaal!) omdat grammaticale… https://t.co/6d1q437IRZ",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6d1q437IRZ",
+					"expanded_url": "https://twitter.com/i/web/status/938362557110325250",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | Autonomous Biological Machine | https://t.co/bys0LKyw9p",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKyw9p",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9203,
+			"friends_count": 1960,
+			"listed_count": 612,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3649,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61334,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 938344655212642300,
+		"quoted_status_id_str": "938344655212642304",
+		"quoted_status": {
+			"created_at": "Wed Dec 06 09:49:34 +0000 2017",
+			"id": 938344655212642300,
+			"id_str": "938344655212642304",
+			"text": "Opnieuw een sterke blog van @TadekSolarz over de ontwikkelingen van (online) retail en hoe goeroes als @cormolenaar… https://t.co/1C3u3oddSS",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "TadekSolarz",
+						"name": "Tadek Solarz",
+						"id": 26734588,
+						"id_str": "26734588",
+						"indices": [
+							28,
+							40
+						]
+					},
+					{
+						"screen_name": "cormolenaar",
+						"name": "Cor Molenaar",
+						"id": 7151532,
+						"id_str": "7151532",
+						"indices": [
+							103,
+							115
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/1C3u3oddSS",
+						"expanded_url": "https://twitter.com/i/web/status/938344655212642304",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1252681,
+				"id_str": "1252681",
+				"name": "Marco Derksen",
+				"screen_name": "marcoderksen",
+				"location": "Arnhem, Netherlands ",
+				"description": "Oprichter/partner Upstream, Marketingfacts, Arnhem Direct, SportNext, TravelNext, AOG, VPRO, Luxor Live, digitaal leiderschap, onderwijs, fotografie en vader!",
+				"url": "http://t.co/TxAyoHVzHU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/TxAyoHVzHU",
+								"expanded_url": "http://koneksa-mondo.nl/",
+								"display_url": "koneksa-mondo.nl",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 28078,
+				"friends_count": 4957,
+				"listed_count": 1551,
+				"created_at": "Thu Mar 15 22:44:18 +0000 2007",
+				"favourites_count": 8241,
+				"utc_offset": 3600,
+				"time_zone": "Amsterdam",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 139958,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DBE9ED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/672150151/bfd5c7fda8f51bd1082f8b593286cd16.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/672150151/bfd5c7fda8f51bd1082f8b593286cd16.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2481600063/csc8fi7o9h1uwyoxtlb4_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2481600063/csc8fi7o9h1uwyoxtlb4_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1252681/1348906748",
+				"profile_link_color": "EB8415",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Tue Dec 05 21:49:51 +0000 2017",
 		"id": 938163533438693400,
 		"id_str": "938163533438693376",
