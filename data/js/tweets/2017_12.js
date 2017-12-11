@@ -1,6 +1,552 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Mon Dec 11 13:48:06 +0000 2017",
+		"id": 940216625713877000,
+		"id_str": "940216625713876992",
+		"text": "@MENEERDEGREEF Op dit soort momenten ben ik blij met mijn geloof in @SpagFlying",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MENEERDEGREEF",
+					"name": "GREEFBEEST DE KLAUWHAMER",
+					"id": 260245776,
+					"id_str": "260245776",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "SpagFlying",
+					"name": "ChriFSMas Monster",
+					"id": 1600664095,
+					"id_str": "1600664095",
+					"indices": [
+						68,
+						79
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 940208453926219800,
+		"in_reply_to_status_id_str": "940208453926219776",
+		"in_reply_to_user_id": 260245776,
+		"in_reply_to_user_id_str": "260245776",
+		"in_reply_to_screen_name": "MENEERDEGREEF",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | Autonomous Biological Machine | https://t.co/bys0LKyw9p",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKyw9p",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9197,
+			"friends_count": 1963,
+			"listed_count": 612,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3666,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61316,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl"
+	},
+	{
+		"created_at": "Mon Dec 11 13:39:27 +0000 2017",
+		"id": 940214447838294000,
+		"id_str": "940214447838294016",
+		"text": "RT @Suuz_: Dit is alvast een Gerri Eickhof appreciation tweetje. GO GERRI! #JesuisGerri #CODEORANJE #SOS #SENDHELP https://t.co/Br7416tHZz",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JesuisGerri",
+					"indices": [
+						75,
+						87
+					]
+				},
+				{
+					"text": "CODEORANJE",
+					"indices": [
+						88,
+						99
+					]
+				},
+				{
+					"text": "SOS",
+					"indices": [
+						100,
+						104
+					]
+				},
+				{
+					"text": "SENDHELP",
+					"indices": [
+						105,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Suuz_",
+					"name": "Suzanne Mensen",
+					"id": 21597548,
+					"id_str": "21597548",
+					"indices": [
+						3,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 940176392045473800,
+					"id_str": "940176392045473792",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/DQwtcoIUMAAsHUA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DQwtcoIUMAAsHUA.jpg",
+					"url": "https://t.co/Br7416tHZz",
+					"display_url": "pic.twitter.com/Br7416tHZz",
+					"expanded_url": "https://twitter.com/Suuz_/status/940176703296557058/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 538,
+							"h": 540,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 538,
+							"h": 540,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 538,
+							"h": 540,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 940176703296557000,
+					"source_status_id_str": "940176703296557058",
+					"source_user_id": 21597548,
+					"source_user_id_str": "21597548"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 940176392045473800,
+					"id_str": "940176392045473792",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/DQwtcoIUMAAsHUA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DQwtcoIUMAAsHUA.jpg",
+					"url": "https://t.co/Br7416tHZz",
+					"display_url": "pic.twitter.com/Br7416tHZz",
+					"expanded_url": "https://twitter.com/Suuz_/status/940176703296557058/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 538,
+							"h": 540,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 538,
+							"h": 540,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 538,
+							"h": 540,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 940176703296557000,
+					"source_status_id_str": "940176703296557058",
+					"source_user_id": 21597548,
+					"source_user_id_str": "21597548"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | Autonomous Biological Machine | https://t.co/bys0LKyw9p",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKyw9p",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9197,
+			"friends_count": 1963,
+			"listed_count": 612,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3666,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61316,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Dec 11 11:09:28 +0000 2017",
+			"id": 940176703296557000,
+			"id_str": "940176703296557058",
+			"text": "Dit is alvast een Gerri Eickhof appreciation tweetje. GO GERRI! #JesuisGerri #CODEORANJE #SOS #SENDHELP https://t.co/Br7416tHZz",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "JesuisGerri",
+						"indices": [
+							64,
+							76
+						]
+					},
+					{
+						"text": "CODEORANJE",
+						"indices": [
+							77,
+							88
+						]
+					},
+					{
+						"text": "SOS",
+						"indices": [
+							89,
+							93
+						]
+					},
+					{
+						"text": "SENDHELP",
+						"indices": [
+							94,
+							103
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 940176392045473800,
+						"id_str": "940176392045473792",
+						"indices": [
+							104,
+							127
+						],
+						"media_url": "http://pbs.twimg.com/media/DQwtcoIUMAAsHUA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DQwtcoIUMAAsHUA.jpg",
+						"url": "https://t.co/Br7416tHZz",
+						"display_url": "pic.twitter.com/Br7416tHZz",
+						"expanded_url": "https://twitter.com/Suuz_/status/940176703296557058/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 538,
+								"h": 540,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 538,
+								"h": 540,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 538,
+								"h": 540,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 940176392045473800,
+						"id_str": "940176392045473792",
+						"indices": [
+							104,
+							127
+						],
+						"media_url": "http://pbs.twimg.com/media/DQwtcoIUMAAsHUA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DQwtcoIUMAAsHUA.jpg",
+						"url": "https://t.co/Br7416tHZz",
+						"display_url": "pic.twitter.com/Br7416tHZz",
+						"expanded_url": "https://twitter.com/Suuz_/status/940176703296557058/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 538,
+								"h": 540,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 538,
+								"h": 540,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 538,
+								"h": 540,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21597548,
+				"id_str": "21597548",
+				"name": "Suzanne Mensen",
+				"screen_name": "Suuz_",
+				"location": "Amsterdam",
+				"description": "Freelance journalist. Social media redacteur. Redacteur @DIWMOTZ. Influenceert mensen graag de moeder met goedkope mascara. IG: @Suuz_",
+				"url": "https://t.co/1rHLAGeaKf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1rHLAGeaKf",
+								"expanded_url": "http://www.sowiesosuus.com",
+								"display_url": "sowiesosuus.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8534,
+				"friends_count": 602,
+				"listed_count": 104,
+				"created_at": "Sun Feb 22 20:57:51 +0000 2009",
+				"favourites_count": 27638,
+				"utc_offset": 3600,
+				"time_zone": "Amsterdam",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 96091,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9BAB64",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/454306551/xaa993252b0ca82ebd0d16aa94806fda.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/454306551/xaa993252b0ca82ebd0d16aa94806fda.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/935512883764645888/lvPJfafO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/935512883764645888/lvPJfafO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21597548/1473018065",
+				"profile_link_color": "FBCF66",
+				"profile_sidebar_border_color": "EB7035",
+				"profile_sidebar_fill_color": "F8943F",
+				"profile_text_color": "FBB351",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 23,
+			"favorite_count": 104,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Mon Dec 11 13:07:48 +0000 2017",
 		"id": 940206485203714000,
 		"id_str": "940206485203714048",
