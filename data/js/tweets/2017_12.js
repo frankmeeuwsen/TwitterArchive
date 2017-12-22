@@ -1,6 +1,323 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Thu Dec 21 23:45:56 +0000 2017",
+		"id": 943990954910015500,
+		"id_str": "943990954910015488",
+		"text": "RT @mattsteinglass: It suddenly makes sense that MC Escher was Dutch https://t.co/LJmh5IX72O",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mattsteinglass",
+					"name": "🌍MattSteinglass🌎",
+					"id": 20652930,
+					"id_str": "20652930",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LJmh5IX72O",
+					"expanded_url": "https://twitter.com/lbsterling/status/943520961248284672",
+					"display_url": "twitter.com/lbsterling/sta…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | Autonomous Biological Machine | https://t.co/bys0LKyw9p",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKyw9p",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9192,
+			"friends_count": 1960,
+			"listed_count": 611,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3685,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61279,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Dec 20 20:04:02 +0000 2017",
+			"id": 943572721639804900,
+			"id_str": "943572721639804928",
+			"text": "It suddenly makes sense that MC Escher was Dutch https://t.co/LJmh5IX72O",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/LJmh5IX72O",
+						"expanded_url": "https://twitter.com/lbsterling/status/943520961248284672",
+						"display_url": "twitter.com/lbsterling/sta…",
+						"indices": [
+							49,
+							72
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20652930,
+				"id_str": "20652930",
+				"name": "🌍MattSteinglass🌎",
+				"screen_name": "mattsteinglass",
+				"location": "Netherlands",
+				"description": "Deputy Europe Editor at The Economist. Centrist dad, person from somewheres (DC, NY, MA, IL, VN, NL). Employer disavows everything I tweet.",
+				"url": "https://t.co/j9hgQrhNFg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/j9hgQrhNFg",
+								"expanded_url": "http://www.economist.com/sections/europe",
+								"display_url": "economist.com/sections/europe",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6335,
+				"friends_count": 1083,
+				"listed_count": 327,
+				"created_at": "Thu Feb 12 04:00:47 +0000 2009",
+				"favourites_count": 3533,
+				"utc_offset": 25200,
+				"time_zone": "Hanoi",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 22047,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/758697146606641152/VD1abdoi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/758697146606641152/VD1abdoi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20652930/1368448710",
+				"profile_link_color": "7FDBB6",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 943520961248284700,
+			"quoted_status_id_str": "943520961248284672",
+			"quoted_status": {
+				"created_at": "Wed Dec 20 16:38:21 +0000 2017",
+				"id": 943520961248284700,
+				"id_str": "943520961248284672",
+				"text": "Dutch Supreme Court: No referendum allowed on law retracting recently-introduced law allowing referendums on new laws.",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": []
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 2181141,
+					"id_str": "2181141",
+					"name": "Toby Sterling",
+					"screen_name": "lbsterling",
+					"location": "",
+					"description": "Reuters reporter in Amsterdam. Hardly ever serious.",
+					"url": "https://t.co/0hsxF1hiBm",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/0hsxF1hiBm",
+									"expanded_url": "https://www.facebook.com/lbsterling",
+									"display_url": "facebook.com/lbsterling",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 1306,
+					"friends_count": 1040,
+					"listed_count": 69,
+					"created_at": "Sun Mar 25 15:23:49 +0000 2007",
+					"favourites_count": 332,
+					"utc_offset": 3600,
+					"time_zone": "Amsterdam",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 3164,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "9AE4E8",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/2528996/limes.jpg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/2528996/limes.jpg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/796307397820219392/p1EYNfJn_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/796307397820219392/p1EYNfJn_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/2181141/1356187008",
+					"profile_link_color": "0000FF",
+					"profile_sidebar_border_color": "87BC44",
+					"profile_sidebar_fill_color": "E0FF92",
+					"profile_text_color": "000000",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 5,
+				"favorite_count": 10,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"retweet_count": 166,
+			"favorite_count": 272,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 943520961248284700,
+		"quoted_status_id_str": "943520961248284672",
+		"retweet_count": 166,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Dec 21 10:49:44 +0000 2017",
 		"id": 943795616320311300,
 		"id_str": "943795616320311296",
