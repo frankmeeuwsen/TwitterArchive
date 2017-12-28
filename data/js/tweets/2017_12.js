@@ -1,6 +1,247 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Thu Dec 28 20:36:32 +0000 2017",
+		"id": 946480003977568300,
+		"id_str": "946480003977568256",
+		"text": "RT @BNRzaken: Een concept om slimme apparaten nog slimmer maken is een investering van ruim 1 miljoen euro waard @Triggi https://t.co/wFAHS…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BNRzaken",
+					"name": "BNR Zakendoen",
+					"id": 26702172,
+					"id_str": "26702172",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "Triggi",
+					"name": "Triggi",
+					"id": 3879014177,
+					"id_str": "3879014177",
+					"indices": [
+						113,
+						120
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | Autonomous Biological Machine | https://t.co/bys0LKyw9p",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKyw9p",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9195,
+			"friends_count": 1963,
+			"listed_count": 611,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3694,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61252,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Dec 27 09:32:12 +0000 2017",
+			"id": 945950430030454800,
+			"id_str": "945950430030454784",
+			"text": "Een concept om slimme apparaten nog slimmer maken is een investering van ruim 1 miljoen euro waard @Triggi https://t.co/wFAHSYyOFe #BNR",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BNR",
+						"indices": [
+							131,
+							135
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Triggi",
+						"name": "Triggi",
+						"id": 3879014177,
+						"id_str": "3879014177",
+						"indices": [
+							99,
+							106
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/wFAHSYyOFe",
+						"expanded_url": "https://www.bnr.nl/programmas/zakendoen",
+						"display_url": "bnr.nl/programmas/zak…",
+						"indices": [
+							107,
+							130
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 26702172,
+				"id_str": "26702172",
+				"name": "BNR Zakendoen",
+				"screen_name": "BNRzaken",
+				"location": "Amsterdam",
+				"description": "Nieuws over ondernemen, economie en zaken, plus updates van BNR Zakendoen, elke werkdag live van 10:00 - 12:00u met @thomasvanzijl en @annettevansoest op @BNR",
+				"url": "https://t.co/pEY0SgER5v",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pEY0SgER5v",
+								"expanded_url": "http://www.bnr.nl/dossier/ondernemen",
+								"display_url": "bnr.nl/dossier/ondern…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14355,
+				"friends_count": 4963,
+				"listed_count": 338,
+				"created_at": "Thu Mar 26 06:30:23 +0000 2009",
+				"favourites_count": 831,
+				"utc_offset": 3600,
+				"time_zone": "Amsterdam",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 13249,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/10015700/BNR-Logo-Microfoon_op-wit.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/10015700/BNR-Logo-Microfoon_op-wit.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/855378127253647360/6QjL65Ch_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/855378127253647360/6QjL65Ch_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/26702172/1492773023",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "F7D515",
+				"profile_sidebar_fill_color": "F7D515",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Wed Dec 27 23:05:34 +0000 2017",
 		"id": 946155122811338800,
 		"id_str": "946155122811338753",
