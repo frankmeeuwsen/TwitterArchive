@@ -1,6 +1,322 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Fri Dec 29 10:29:33 +0000 2017",
+		"id": 946689638042865700,
+		"id_str": "946689638042865664",
+		"text": "\"That's one of those bands I always hear about but I don't actually sought out their music\"... https://t.co/e7Ap0rTAXD",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/e7Ap0rTAXD",
+					"expanded_url": "https://twitter.com/FBE/status/940355520245854209",
+					"display_url": "twitter.com/FBE/status/940…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | Autonomous Biological Machine | https://t.co/bys0LKyw9p",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKyw9p",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9194,
+			"friends_count": 1963,
+			"listed_count": 610,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3699,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61225,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 940355520245854200,
+		"quoted_status_id_str": "940355520245854209",
+		"quoted_status": {
+			"created_at": "Mon Dec 11 23:00:01 +0000 2017",
+			"id": 940355520245854200,
+			"id_str": "940355520245854209",
+			"text": "Teens don't know Pearl Jam!? 😱 https://t.co/UEFCpSHTTG",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 940316528842440700,
+						"id_str": "940316528842440704",
+						"indices": [
+							31,
+							54
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/940316528842440704/img/eybLo8Tw84dgkBeK.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/940316528842440704/img/eybLo8Tw84dgkBeK.jpg",
+						"url": "https://t.co/UEFCpSHTTG",
+						"display_url": "pic.twitter.com/UEFCpSHTTG",
+						"expanded_url": "https://twitter.com/FBE/status/940355520245854209/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1000,
+								"h": 1000,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 940316528842440700,
+						"id_str": "940316528842440704",
+						"indices": [
+							31,
+							54
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/940316528842440704/img/eybLo8Tw84dgkBeK.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/940316528842440704/img/eybLo8Tw84dgkBeK.jpg",
+						"url": "https://t.co/UEFCpSHTTG",
+						"display_url": "pic.twitter.com/UEFCpSHTTG",
+						"expanded_url": "https://twitter.com/FBE/status/940355520245854209/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1000,
+								"h": 1000,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 69487,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/940316528842440704/pl/UqSKzk9jGvRhEccM.m3u8"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/940316528842440704/vid/240x240/cKmTCsG2d7pryOWg.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/940316528842440704/vid/480x480/cX3JO-OVsCzOz97S.mp4"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/940316528842440704/vid/720x720/xE0_396kD9iYwOHR.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16547369,
+				"id_str": "16547369",
+				"name": "FBE",
+				"screen_name": "FBE",
+				"location": "Los Angeles, CA",
+				"description": "FBE makes originals for TV, the web, and everything in between.  As a team, we strive to create thought-provoking and entertaining shows for you every week.",
+				"url": "https://t.co/Xew3oQlqcd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Xew3oQlqcd",
+								"expanded_url": "http://youtube.com/FBE",
+								"display_url": "youtube.com/FBE",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1002025,
+				"friends_count": 1588,
+				"listed_count": 1728,
+				"created_at": "Wed Oct 01 18:04:28 +0000 2008",
+				"favourites_count": 4456,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 39562,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/942860338583683072/WO3rzWiX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/942860338583683072/WO3rzWiX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16547369/1499038058",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 35,
+			"favorite_count": 172,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Dec 29 09:33:29 +0000 2017",
 		"id": 946675532443332600,
 		"id_str": "946675532443332608",
