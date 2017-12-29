@@ -1,6 +1,657 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Fri Dec 29 09:33:29 +0000 2017",
+		"id": 946675532443332600,
+		"id_str": "946675532443332608",
+		"text": "RT @SongExploder: Next week on Song Exploder: @theroots. https://t.co/70HJhZDsQm",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SongExploder",
+					"name": "Song Exploder",
+					"id": 2249590315,
+					"id_str": "2249590315",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "theroots",
+					"name": "The Roots",
+					"id": 158777509,
+					"id_str": "158777509",
+					"indices": [
+						46,
+						55
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 946455165292363800,
+					"id_str": "946455165292363778",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/DSJ79VMVwAIk9OJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DSJ79VMVwAIk9OJ.jpg",
+					"url": "https://t.co/70HJhZDsQm",
+					"display_url": "pic.twitter.com/70HJhZDsQm",
+					"expanded_url": "https://twitter.com/SongExploder/status/946455173815140352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2040,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1195,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 677,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 946455173815140400,
+					"source_status_id_str": "946455173815140352",
+					"source_user_id": 2249590315,
+					"source_user_id_str": "2249590315"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 946455165292363800,
+					"id_str": "946455165292363778",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/DSJ79VMVwAIk9OJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DSJ79VMVwAIk9OJ.jpg",
+					"url": "https://t.co/70HJhZDsQm",
+					"display_url": "pic.twitter.com/70HJhZDsQm",
+					"expanded_url": "https://twitter.com/SongExploder/status/946455173815140352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2040,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1195,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 677,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 946455173815140400,
+					"source_status_id_str": "946455173815140352",
+					"source_user_id": 2249590315,
+					"source_user_id_str": "2249590315"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | Autonomous Biological Machine | https://t.co/bys0LKyw9p",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKyw9p",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9194,
+			"friends_count": 1963,
+			"listed_count": 611,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3699,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61257,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Dec 28 18:57:52 +0000 2017",
+			"id": 946455173815140400,
+			"id_str": "946455173815140352",
+			"text": "Next week on Song Exploder: @theroots. https://t.co/70HJhZDsQm",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "theroots",
+						"name": "The Roots",
+						"id": 158777509,
+						"id_str": "158777509",
+						"indices": [
+							28,
+							37
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 946455165292363800,
+						"id_str": "946455165292363778",
+						"indices": [
+							39,
+							62
+						],
+						"media_url": "http://pbs.twimg.com/media/DSJ79VMVwAIk9OJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DSJ79VMVwAIk9OJ.jpg",
+						"url": "https://t.co/70HJhZDsQm",
+						"display_url": "pic.twitter.com/70HJhZDsQm",
+						"expanded_url": "https://twitter.com/SongExploder/status/946455173815140352/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2040,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1195,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 677,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 946455165292363800,
+						"id_str": "946455165292363778",
+						"indices": [
+							39,
+							62
+						],
+						"media_url": "http://pbs.twimg.com/media/DSJ79VMVwAIk9OJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DSJ79VMVwAIk9OJ.jpg",
+						"url": "https://t.co/70HJhZDsQm",
+						"display_url": "pic.twitter.com/70HJhZDsQm",
+						"expanded_url": "https://twitter.com/SongExploder/status/946455173815140352/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2040,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1195,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 677,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2249590315,
+				"id_str": "2249590315",
+				"name": "Song Exploder",
+				"screen_name": "SongExploder",
+				"location": "",
+				"description": "A podcast where musicians take apart their songs, and piece by piece, tell the story of how they were made. By @HrishiHirway. Subscribe: https://t.co/lf0vA0eRiN",
+				"url": "https://t.co/WuuZiNsySx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WuuZiNsySx",
+								"expanded_url": "http://songexploder.net",
+								"display_url": "songexploder.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/lf0vA0eRiN",
+								"expanded_url": "http://itunes.com/songexploder",
+								"display_url": "itunes.com/songexploder",
+								"indices": [
+									137,
+									160
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 29324,
+				"friends_count": 77,
+				"listed_count": 615,
+				"created_at": "Tue Dec 17 01:17:34 +0000 2013",
+				"favourites_count": 18166,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 3304,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/649352808190218240/8E2Zm3qL.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/649352808190218240/8E2Zm3qL.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/790660910599725057/-Y2RIa7g_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/790660910599725057/-Y2RIa7g_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2249590315/1445036231",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 17,
+			"favorite_count": 500,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Dec 29 09:33:02 +0000 2017",
+		"id": 946675419239108600,
+		"id_str": "946675419239108608",
+		"text": "@MartijnKonings @PearlJam Heb je deze ooit gezien&gt; https://t.co/w7I3roY06b",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MartijnKonings",
+					"name": "Martijn Konings",
+					"id": 19445747,
+					"id_str": "19445747",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "PearlJam",
+					"name": "Pearl Jam",
+					"id": 15155074,
+					"id_str": "15155074",
+					"indices": [
+						16,
+						25
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/w7I3roY06b",
+					"expanded_url": "https://www.youtube.com/watch?v=q-fdovSJPsw",
+					"display_url": "youtube.com/watch?v=q-fdov…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 946500563390386200,
+		"in_reply_to_status_id_str": "946500563390386177",
+		"in_reply_to_user_id": 19445747,
+		"in_reply_to_user_id_str": "19445747",
+		"in_reply_to_screen_name": "MartijnKonings",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | Autonomous Biological Machine | https://t.co/bys0LKyw9p",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKyw9p",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9194,
+			"friends_count": 1963,
+			"listed_count": 611,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3699,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61257,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
+		"created_at": "Fri Dec 29 09:32:36 +0000 2017",
+		"id": 946675306517155800,
+		"id_str": "946675306517155840",
+		"text": "@MartijnKonings @PearlJam Zo lekker dit!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MartijnKonings",
+					"name": "Martijn Konings",
+					"id": 19445747,
+					"id_str": "19445747",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "PearlJam",
+					"name": "Pearl Jam",
+					"id": 15155074,
+					"id_str": "15155074",
+					"indices": [
+						16,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 946500563390386200,
+		"in_reply_to_status_id_str": "946500563390386177",
+		"in_reply_to_user_id": 19445747,
+		"in_reply_to_user_id_str": "19445747",
+		"in_reply_to_screen_name": "MartijnKonings",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | Autonomous Biological Machine | https://t.co/bys0LKyw9p",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKyw9p",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9194,
+			"friends_count": 1963,
+			"listed_count": 611,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3699,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61257,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Fri Dec 29 08:57:27 +0000 2017",
 		"id": 946666462189641700,
 		"id_str": "946666462189641728",
