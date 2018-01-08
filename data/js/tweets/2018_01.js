@@ -1,6 +1,670 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Mon Jan 08 14:11:00 +0000 2018",
+		"id": 950369247070511100,
+		"id_str": "950369247070511106",
+		"text": "RT @TheGrungeScene: Happy Birthday Andrew Wood! https://t.co/qBc8tJiE5K",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheGrungeScene",
+					"name": "The Grunge Scene",
+					"id": 89158522,
+					"id_str": "89158522",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 950293777578684400,
+					"id_str": "950293777578684416",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/DTAfJ-TXcAAbkVM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DTAfJ-TXcAAbkVM.jpg",
+					"url": "https://t.co/qBc8tJiE5K",
+					"display_url": "pic.twitter.com/qBc8tJiE5K",
+					"expanded_url": "https://twitter.com/TheGrungeScene/status/950293791004602368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 854,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 950293791004602400,
+					"source_status_id_str": "950293791004602368",
+					"source_user_id": 89158522,
+					"source_user_id_str": "89158522"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 950293777578684400,
+					"id_str": "950293777578684416",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/DTAfJ-TXcAAbkVM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DTAfJ-TXcAAbkVM.jpg",
+					"url": "https://t.co/qBc8tJiE5K",
+					"display_url": "pic.twitter.com/qBc8tJiE5K",
+					"expanded_url": "https://twitter.com/TheGrungeScene/status/950293791004602368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 854,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 950293791004602400,
+					"source_status_id_str": "950293791004602368",
+					"source_user_id": 89158522,
+					"source_user_id_str": "89158522"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | Autonomous Biological Machine | https://t.co/bys0LKyw9p",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKyw9p",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9196,
+			"friends_count": 1961,
+			"listed_count": 610,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3717,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61225,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jan 08 09:11:10 +0000 2018",
+			"id": 950293791004602400,
+			"id_str": "950293791004602368",
+			"text": "Happy Birthday Andrew Wood! https://t.co/qBc8tJiE5K",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 950293777578684400,
+						"id_str": "950293777578684416",
+						"indices": [
+							28,
+							51
+						],
+						"media_url": "http://pbs.twimg.com/media/DTAfJ-TXcAAbkVM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DTAfJ-TXcAAbkVM.jpg",
+						"url": "https://t.co/qBc8tJiE5K",
+						"display_url": "pic.twitter.com/qBc8tJiE5K",
+						"expanded_url": "https://twitter.com/TheGrungeScene/status/950293791004602368/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 854,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 454,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 801,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 950293777578684400,
+						"id_str": "950293777578684416",
+						"indices": [
+							28,
+							51
+						],
+						"media_url": "http://pbs.twimg.com/media/DTAfJ-TXcAAbkVM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DTAfJ-TXcAAbkVM.jpg",
+						"url": "https://t.co/qBc8tJiE5K",
+						"display_url": "pic.twitter.com/qBc8tJiE5K",
+						"expanded_url": "https://twitter.com/TheGrungeScene/status/950293791004602368/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 854,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 454,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 801,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 89158522,
+				"id_str": "89158522",
+				"name": "The Grunge Scene",
+				"screen_name": "TheGrungeScene",
+				"location": "Seattle and Olympia",
+				"description": "We Have Not Forgotten What Happened In This Town",
+				"url": "https://t.co/gIsDXf586D",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gIsDXf586D",
+								"expanded_url": "https://www.youtube.com/c/TheGrungeScene",
+								"display_url": "youtube.com/c/TheGrungeSce…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 79489,
+				"friends_count": 505,
+				"listed_count": 523,
+				"created_at": "Wed Nov 11 10:53:58 +0000 2009",
+				"favourites_count": 694,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 13979,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "00070A",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/494388507/267292770-001.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/494388507/267292770-001.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/865909971959123968/m_w-l9o8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/865909971959123968/m_w-l9o8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/89158522/1515017724",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 76,
+			"favorite_count": 206,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 76,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jan 08 14:10:53 +0000 2018",
+		"id": 950369219627102200,
+		"id_str": "950369219627102208",
+		"text": "RT @jangles: The '90s are back! This #clamshell #PDA is pure Android https://t.co/33SegajbKC via @CNET &lt; like a #Psion5 in colour! On stero…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "clamshell",
+					"indices": [
+						37,
+						47
+					]
+				},
+				{
+					"text": "PDA",
+					"indices": [
+						48,
+						52
+					]
+				},
+				{
+					"text": "Psion5",
+					"indices": [
+						115,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jangles",
+					"name": "Neville Hobson",
+					"id": 47973,
+					"id_str": "47973",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "CNET",
+					"name": "CNET",
+					"id": 30261067,
+					"id_str": "30261067",
+					"indices": [
+						97,
+						102
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/33SegajbKC",
+					"expanded_url": "http://cnet.co/2CQAaKh",
+					"display_url": "cnet.co/2CQAaKh",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | Autonomous Biological Machine | https://t.co/bys0LKyw9p",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKyw9p",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9196,
+			"friends_count": 1961,
+			"listed_count": 610,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3717,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61225,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jan 08 14:07:27 +0000 2018",
+			"id": 950368357173383200,
+			"id_str": "950368357173383169",
+			"text": "The '90s are back! This #clamshell #PDA is pure Android https://t.co/33SegajbKC via @CNET &lt; like a #Psion5 in colou… https://t.co/l3CR3Q5R7J",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "clamshell",
+						"indices": [
+							24,
+							34
+						]
+					},
+					{
+						"text": "PDA",
+						"indices": [
+							35,
+							39
+						]
+					},
+					{
+						"text": "Psion5",
+						"indices": [
+							102,
+							109
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "CNET",
+						"name": "CNET",
+						"id": 30261067,
+						"id_str": "30261067",
+						"indices": [
+							84,
+							89
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/33SegajbKC",
+						"expanded_url": "http://cnet.co/2CQAaKh",
+						"display_url": "cnet.co/2CQAaKh",
+						"indices": [
+							56,
+							79
+						]
+					},
+					{
+						"url": "https://t.co/l3CR3Q5R7J",
+						"expanded_url": "https://twitter.com/i/web/status/950368357173383169",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							120,
+							143
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 47973,
+				"id_str": "47973",
+				"name": "Neville Hobson",
+				"screen_name": "jangles",
+				"location": "Thames Valley",
+				"description": "Digital natural. Communicator. Blogger. Podcaster. Occasional test pilot of shiny new objects. Social Media Strategist @internetsociety. Opinions my own.",
+				"url": "https://t.co/MNjkpRqvrI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MNjkpRqvrI",
+								"expanded_url": "https://www.nevillehobson.com",
+								"display_url": "nevillehobson.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14421,
+				"friends_count": 2989,
+				"listed_count": 1844,
+				"created_at": "Thu Dec 07 12:46:55 +0000 2006",
+				"favourites_count": 1848,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 91415,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/641142977457315840/DIY2KSg0_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/641142977457315840/DIY2KSg0_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/47973/1398249034",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jan 08 13:12:23 +0000 2018",
 		"id": 950354498719027200,
 		"id_str": "950354498719027201",
