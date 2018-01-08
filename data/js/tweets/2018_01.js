@@ -1,6 +1,661 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Mon Jan 08 22:12:22 +0000 2018",
+		"id": 950490390079078400,
+		"id_str": "950490390079078401",
+		"text": "RT @erikstronks: Hoi twitteraars uit Utrecht.\n\nJullie hebben NUL excuus om niet te gaan stemmen.\nGa gewoon, en kies desnoods willekeurig. A…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "erikstronks",
+					"name": "Erik Stronks",
+					"id": 2333991,
+					"id_str": "2333991",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | Autonomous Biological Machine | https://t.co/bys0LKyw9p",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKyw9p",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9193,
+			"friends_count": 1961,
+			"listed_count": 610,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3720,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61228,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jan 08 21:14:41 +0000 2018",
+			"id": 950475870136827900,
+			"id_str": "950475870136827904",
+			"text": "Hoi twitteraars uit Utrecht.\n\nJullie hebben NUL excuus om niet te gaan stemmen.\nGa gewoon, en kies desnoods willeke… https://t.co/kMTcTn7R3g",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/kMTcTn7R3g",
+						"expanded_url": "https://twitter.com/i/web/status/950475870136827904",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2333991,
+				"id_str": "2333991",
+				"name": "Erik Stronks",
+				"screen_name": "erikstronks",
+				"location": "Nederland",
+				"description": "meningenjongleur, spiegelkijker, nuanceradicaal, uitbundig introvert, heel veel boeken bijna uit, neurodivergent",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1205,
+				"friends_count": 695,
+				"listed_count": 39,
+				"created_at": "Mon Mar 26 18:24:45 +0000 2007",
+				"favourites_count": 9532,
+				"utc_offset": 3600,
+				"time_zone": "Amsterdam",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 29523,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/45781172/patt_4ad814ee3497c.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/45781172/patt_4ad814ee3497c.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/846282494861365248/NHhJNWAL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/846282494861365248/NHhJNWAL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2333991/1465552554",
+				"profile_link_color": "FAB81E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "3D3D3D",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 950465169817264100,
+			"quoted_status_id_str": "950465169817264128",
+			"quoted_status": {
+				"created_at": "Mon Jan 08 20:32:09 +0000 2018",
+				"id": 950465169817264100,
+				"id_str": "950465169817264128",
+				"text": "PVV-lijsttrekker doet bizarre uitspraak: ‘Wij hebben liever dat de ULU-moskee afbrandt’ https://t.co/OEcB0OVJ2R",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/OEcB0OVJ2R",
+							"expanded_url": "https://ad.nl/article/~ad572ef8",
+							"display_url": "ad.nl/article/~ad572…",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				},
+				"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 23441620,
+					"id_str": "23441620",
+					"name": "Utrechts Nieuwsblad",
+					"screen_name": "redactieadun",
+					"location": "Vredenburg 24, Utrecht",
+					"description": "Officieel Twitteraccount van het AD Utrechts Nieuwsblad. Tips? Mail un.stad@ad.nl of bel 030-2360300.",
+					"url": "https://t.co/wmyddkGgOm",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/wmyddkGgOm",
+									"expanded_url": "http://www.ad.nl/utrecht",
+									"display_url": "ad.nl/utrecht",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 13055,
+					"friends_count": 423,
+					"listed_count": 206,
+					"created_at": "Mon Mar 09 14:36:20 +0000 2009",
+					"favourites_count": 83,
+					"utc_offset": 3600,
+					"time_zone": "Amsterdam",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 23688,
+					"lang": "nl",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "D1E1E5",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000023612692/c108ead540aaa37b99fe1ff90c438829.png",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000023612692/c108ead540aaa37b99fe1ff90c438829.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/892682577718513664/lJBuoiwS_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/892682577718513664/lJBuoiwS_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/23441620/1497364784",
+					"profile_link_color": "0084B4",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 12,
+				"favorite_count": 3,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "nl"
+			},
+			"retweet_count": 7,
+			"favorite_count": 7,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 950465169817264100,
+		"quoted_status_id_str": "950465169817264128",
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "nl"
+	},
+	{
+		"created_at": "Mon Jan 08 22:08:43 +0000 2018",
+		"id": 950489468661829600,
+		"id_str": "950489468661829632",
+		"text": "RT @meijeraan: Preparing the @iamOlisto @iamtriggi booth for tomorrow at #CES2018 #HollandCES. New name needs some adjustments... https://t…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CES2018",
+					"indices": [
+						73,
+						81
+					]
+				},
+				{
+					"text": "HollandCES",
+					"indices": [
+						82,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "meijeraan",
+					"name": "Tom Meijeraan",
+					"id": 9372532,
+					"id_str": "9372532",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "iamOlisto",
+					"name": "Olisto",
+					"id": 3879014177,
+					"id_str": "3879014177",
+					"indices": [
+						29,
+						39
+					]
+				},
+				{
+					"screen_name": "iamtriggi",
+					"name": "Triggi",
+					"id": 710019570791272400,
+					"id_str": "710019570791272448",
+					"indices": [
+						40,
+						50
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamtriggi | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | Autonomous Biological Machine | https://t.co/bys0LKyw9p",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKyw9p",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9193,
+			"friends_count": 1961,
+			"listed_count": 610,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3720,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61228,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jan 08 20:51:19 +0000 2018",
+			"id": 950469992721604600,
+			"id_str": "950469992721604612",
+			"text": "Preparing the @iamOlisto @iamtriggi booth for tomorrow at #CES2018 #HollandCES. New name needs some adjustments... https://t.co/PWfBq8OwVb",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "CES2018",
+						"indices": [
+							58,
+							66
+						]
+					},
+					{
+						"text": "HollandCES",
+						"indices": [
+							67,
+							78
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "iamOlisto",
+						"name": "Olisto",
+						"id": 3879014177,
+						"id_str": "3879014177",
+						"indices": [
+							14,
+							24
+						]
+					},
+					{
+						"screen_name": "iamtriggi",
+						"name": "Triggi",
+						"id": 710019570791272400,
+						"id_str": "710019570791272448",
+						"indices": [
+							25,
+							35
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 950469906667012100,
+						"id_str": "950469906667012096",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/media/DTC_WCSWAAAXy1B.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DTC_WCSWAAAXy1B.jpg",
+						"url": "https://t.co/PWfBq8OwVb",
+						"display_url": "pic.twitter.com/PWfBq8OwVb",
+						"expanded_url": "https://twitter.com/meijeraan/status/950469992721604612/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 950469906667012100,
+						"id_str": "950469906667012096",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/media/DTC_WCSWAAAXy1B.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DTC_WCSWAAAXy1B.jpg",
+						"url": "https://t.co/PWfBq8OwVb",
+						"display_url": "pic.twitter.com/PWfBq8OwVb",
+						"expanded_url": "https://twitter.com/meijeraan/status/950469992721604612/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 9372532,
+				"id_str": "9372532",
+				"name": "Tom Meijeraan",
+				"screen_name": "meijeraan",
+				"location": "The Netherlands",
+				"description": "Co-founder Triggi | Innovation | Internet of Things | Marieke, Siebe & Janna",
+				"url": "https://t.co/pBhJkA5cPz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pBhJkA5cPz",
+								"expanded_url": "http://www.triggi.com",
+								"display_url": "triggi.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 155,
+				"friends_count": 125,
+				"listed_count": 12,
+				"created_at": "Thu Oct 11 09:06:10 +0000 2007",
+				"favourites_count": 43,
+				"utc_offset": 3600,
+				"time_zone": "Amsterdam",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 128,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/669912914476834816/gQA5yLxW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/669912914476834816/gQA5yLxW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/9372532/1448387374",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jan 08 16:03:51 +0000 2018",
 		"id": 950397649198420000,
 		"id_str": "950397649198419969",
