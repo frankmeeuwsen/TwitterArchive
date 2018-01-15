@@ -1,6 +1,307 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Mon Jan 15 20:58:01 +0000 2018",
+		"id": 953008390778867700,
+		"id_str": "953008390778867713",
+		"text": "RT @BrouwHommeles: Durf jij het te drinken: Graachwaoter, bier gebrouwen met water uit de Oudegracht? Zie: https://t.co/qLEk8rUZud https://…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BrouwHommeles",
+					"name": "Brouwerij Hommeles",
+					"id": 1146245455,
+					"id_str": "1146245455",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qLEk8rUZud",
+					"expanded_url": "http://utrechtsebierbrouwersfestival.nl/nieuws/item/100-bier-uit-de-oudegracht.html",
+					"display_url": "utrechtsebierbrouwersfestival.nl/nieuws/item/10…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | Autonomous Biological Machine | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9190,
+			"friends_count": 1965,
+			"listed_count": 610,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3719,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61140,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jan 15 19:29:02 +0000 2018",
+			"id": 952986000929771500,
+			"id_str": "952986000929771521",
+			"text": "Durf jij het te drinken: Graachwaoter, bier gebrouwen met water uit de Oudegracht? Zie: https://t.co/qLEk8rUZud https://t.co/wJCDM4KG0X",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/qLEk8rUZud",
+						"expanded_url": "http://utrechtsebierbrouwersfestival.nl/nieuws/item/100-bier-uit-de-oudegracht.html",
+						"display_url": "utrechtsebierbrouwersfestival.nl/nieuws/item/10…",
+						"indices": [
+							88,
+							111
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 952985836886396900,
+						"id_str": "952985836886396929",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/media/DTmvkcuXkAEoGbu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DTmvkcuXkAEoGbu.jpg",
+						"url": "https://t.co/wJCDM4KG0X",
+						"display_url": "pic.twitter.com/wJCDM4KG0X",
+						"expanded_url": "https://twitter.com/BrouwHommeles/status/952986000929771521/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 727,
+								"h": 458,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 727,
+								"h": 458,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 428,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 952985836886396900,
+						"id_str": "952985836886396929",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/media/DTmvkcuXkAEoGbu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DTmvkcuXkAEoGbu.jpg",
+						"url": "https://t.co/wJCDM4KG0X",
+						"display_url": "pic.twitter.com/wJCDM4KG0X",
+						"expanded_url": "https://twitter.com/BrouwHommeles/status/952986000929771521/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 727,
+								"h": 458,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 727,
+								"h": 458,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 428,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1146245455,
+				"id_str": "1146245455",
+				"name": "Brouwerij Hommeles",
+				"screen_name": "BrouwHommeles",
+				"location": "Houten",
+				"description": "Brouwer van streekbieren",
+				"url": "http://t.co/XNVvWXx3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/XNVvWXx3",
+								"expanded_url": "http://www.brouwerijhommeles.nl",
+								"display_url": "brouwerijhommeles.nl",
+								"indices": [
+									0,
+									20
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 831,
+				"friends_count": 174,
+				"listed_count": 13,
+				"created_at": "Sun Feb 03 21:08:15 +0000 2013",
+				"favourites_count": 20,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 227,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/794397399/a551b75b4d7e0667215c1b73073a3490.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/794397399/a551b75b4d7e0667215c1b73073a3490.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3233010602/984f0e1c6e8f9694a1733c82571293a6_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3233010602/984f0e1c6e8f9694a1733c82571293a6_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1146245455/1360749909",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Sat Jan 13 04:02:24 +0000 2018",
 		"id": 952028029999398900,
 		"id_str": "952028029999398912",
