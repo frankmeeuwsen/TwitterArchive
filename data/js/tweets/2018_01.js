@@ -1,6 +1,314 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Thu Jan 18 10:37:43 +0000 2018",
+		"id": 953939453667676200,
+		"id_str": "953939453667676160",
+		"text": "RTL Boulevard, RTL Late Night, journaal, jeugdjournaal, DWDD materiaal. Oh en 1001 hoaxes de komende winderige dage… https://t.co/SgeW715kRW",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SgeW715kRW",
+					"expanded_url": "https://twitter.com/i/web/status/953939453667676160",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | Autonomous Biological Machine | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9191,
+			"friends_count": 1967,
+			"listed_count": 609,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3726,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61146,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 953935545528406000,
+		"quoted_status_id_str": "953935545528406021",
+		"quoted_status": {
+			"created_at": "Thu Jan 18 10:22:11 +0000 2018",
+			"id": 953935545528406000,
+			"id_str": "953935545528406021",
+			"text": "Okeeeeee dit is dan weer minder gezellig https://t.co/U198CMy0gq",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 953935211745685500,
+						"id_str": "953935211745685504",
+						"indices": [
+							41,
+							64
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/953935211745685504/pu/img/y-tj798wXJkv2ErA.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/953935211745685504/pu/img/y-tj798wXJkv2ErA.jpg",
+						"url": "https://t.co/U198CMy0gq",
+						"display_url": "pic.twitter.com/U198CMy0gq",
+						"expanded_url": "https://twitter.com/LiesbethRasker/status/953935545528406021/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 848,
+								"h": 480,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 848,
+								"h": 480,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 385,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 953935211745685500,
+						"id_str": "953935211745685504",
+						"indices": [
+							41,
+							64
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/953935211745685504/pu/img/y-tj798wXJkv2ErA.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/953935211745685504/pu/img/y-tj798wXJkv2ErA.jpg",
+						"url": "https://t.co/U198CMy0gq",
+						"display_url": "pic.twitter.com/U198CMy0gq",
+						"expanded_url": "https://twitter.com/LiesbethRasker/status/953935545528406021/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 848,
+								"h": 480,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 848,
+								"h": 480,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 385,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								53,
+								30
+							],
+							"duration_millis": 16378,
+							"variants": [
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/953935211745685504/pu/vid/318x180/_HLYFYkeEG_eG4f_.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/953935211745685504/pu/pl/U_rt7vqfNXuW5zPh.m3u8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/953935211745685504/pu/vid/636x360/5ox_b6UQHdt0qtQX.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 953930104299835400,
+			"in_reply_to_status_id_str": "953930104299835393",
+			"in_reply_to_user_id": 49290973,
+			"in_reply_to_user_id_str": "49290973",
+			"in_reply_to_screen_name": "LiesbethRasker",
+			"user": {
+				"id": 49290973,
+				"id_str": "49290973",
+				"name": "Liesbeth",
+				"screen_name": "LiesbethRasker",
+				"location": "Amsterdam",
+				"description": "ik schrijf dingen over dingen voor dingen. Mail via miranda@bureaubruinzeel.nl",
+				"url": "https://t.co/0VYXPL0Slz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0VYXPL0Slz",
+								"expanded_url": "http://www.bagtoreality.com",
+								"display_url": "bagtoreality.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2260,
+				"friends_count": 201,
+				"listed_count": 13,
+				"created_at": "Sun Jun 21 11:02:15 +0000 2009",
+				"favourites_count": 2816,
+				"utc_offset": 3600,
+				"time_zone": "Amsterdam",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5058,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/524543007/nyb-15-580x580.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/524543007/nyb-15-580x580.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/882250458185814016/xW0Z_NrP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/882250458185814016/xW0Z_NrP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/49290973/1357511435",
+				"profile_link_color": "755E42",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "F7F4F2",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 58,
+			"favorite_count": 33,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Wed Jan 17 21:19:10 +0000 2018",
 		"id": 953738490377883600,
 		"id_str": "953738490377883651",
