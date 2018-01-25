@@ -1,6 +1,407 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Thu Jan 25 19:11:17 +0000 2018",
+		"id": 956605411540553700,
+		"id_str": "956605411540553728",
+		"text": "Paarse Broeken alert! \n\n(Bestaat dat nog @ThE_ED?)\n(Ik moet altijd aan jou denken bij deze term)\n\nTijd om de Powerp… https://t.co/r39n2nAswM",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ThE_ED",
+					"name": "Nationaal Gyurka Jansen",
+					"id": 14445960,
+					"id_str": "14445960",
+					"indices": [
+						41,
+						48
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/r39n2nAswM",
+					"expanded_url": "https://twitter.com/i/web/status/956605411540553728",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | Autonomous Biological Machine | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9188,
+			"friends_count": 1970,
+			"listed_count": 609,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3741,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61133,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 956354133501534200,
+		"quoted_status_id_str": "956354133501534208",
+		"quoted_status": {
+			"created_at": "Thu Jan 25 02:32:48 +0000 2018",
+			"id": 956354133501534200,
+			"id_str": "956354133501534208",
+			"text": "hmm. https://t.co/esz2No7Dph",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 956354005642264600,
+						"id_str": "956354005642264576",
+						"indices": [
+							5,
+							28
+						],
+						"media_url": "http://pbs.twimg.com/media/DUWm5rHUQAAAIR0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DUWm5rHUQAAAIR0.jpg",
+						"url": "https://t.co/esz2No7Dph",
+						"display_url": "pic.twitter.com/esz2No7Dph",
+						"expanded_url": "https://twitter.com/justinmduke/status/956354133501534208/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 610,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1250,
+								"h": 1122,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1077,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 956354005642264600,
+						"id_str": "956354005642264576",
+						"indices": [
+							5,
+							28
+						],
+						"media_url": "http://pbs.twimg.com/media/DUWm5rHUQAAAIR0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DUWm5rHUQAAAIR0.jpg",
+						"url": "https://t.co/esz2No7Dph",
+						"display_url": "pic.twitter.com/esz2No7Dph",
+						"expanded_url": "https://twitter.com/justinmduke/status/956354133501534208/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 610,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1250,
+								"h": 1122,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1077,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 956354010029551600,
+						"id_str": "956354010029551616",
+						"indices": [
+							5,
+							28
+						],
+						"media_url": "http://pbs.twimg.com/media/DUWm57dU8AACzZV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DUWm57dU8AACzZV.jpg",
+						"url": "https://t.co/esz2No7Dph",
+						"display_url": "pic.twitter.com/esz2No7Dph",
+						"expanded_url": "https://twitter.com/justinmduke/status/956354133501534208/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 174,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 523,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 307,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 956354017780629500,
+						"id_str": "956354017780629504",
+						"indices": [
+							5,
+							28
+						],
+						"media_url": "http://pbs.twimg.com/media/DUWm6YVVAAAV3Gy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DUWm6YVVAAAV3Gy.jpg",
+						"url": "https://t.co/esz2No7Dph",
+						"display_url": "pic.twitter.com/esz2No7Dph",
+						"expanded_url": "https://twitter.com/justinmduke/status/956354133501534208/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 314,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2002,
+								"h": 524,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 178,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 956354025674309600,
+						"id_str": "956354025674309632",
+						"indices": [
+							5,
+							28
+						],
+						"media_url": "http://pbs.twimg.com/media/DUWm61vVAAApQiF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DUWm61vVAAApQiF.jpg",
+						"url": "https://t.co/esz2No7Dph",
+						"display_url": "pic.twitter.com/esz2No7Dph",
+						"expanded_url": "https://twitter.com/justinmduke/status/956354133501534208/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1968,
+								"h": 494,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 301,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 171,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20491193,
+				"id_str": "20491193",
+				"name": "Justin Duke",
+				"screen_name": "justinmduke",
+				"location": "Seattle, WA",
+				"description": "engineer @tenantbase; creator & proprietor @buttondownemail. prose in english, prose in code.",
+				"url": "http://t.co/pfelT2VHi0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/pfelT2VHi0",
+								"expanded_url": "http://jmduke.com",
+								"display_url": "jmduke.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1374,
+				"friends_count": 250,
+				"listed_count": 78,
+				"created_at": "Tue Feb 10 04:12:32 +0000 2009",
+				"favourites_count": 11069,
+				"utc_offset": -14400,
+				"time_zone": "Atlantic Time (Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 17723,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "333333",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000167927092/zRNn4mlD.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000167927092/zRNn4mlD.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/835228603763720192/iZ1Wbuz1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/835228603763720192/iZ1Wbuz1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20491193/1487969593",
+				"profile_link_color": "222222",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFF7CC",
+				"profile_text_color": "0C3E53",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1397,
+			"favorite_count": 4576,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Wed Jan 24 21:28:58 +0000 2018",
 		"id": 956277673566851100,
 		"id_str": "956277673566851073",
