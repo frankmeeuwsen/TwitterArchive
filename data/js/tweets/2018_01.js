@@ -1,6 +1,259 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Fri Jan 26 14:24:35 +0000 2018",
+		"id": 956895648460214300,
+		"id_str": "956895648460214273",
+		"text": "RT @iotguide: New Rapidly-Spreading Hide and Seek IoT Botnet Identified by Bitdefender  https://t.co/Y1uZDo9yBG #IoTBotnets #IoTSecurity",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IoTBotnets",
+					"indices": [
+						112,
+						123
+					]
+				},
+				{
+					"text": "IoTSecurity",
+					"indices": [
+						124,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "iotguide",
+					"name": "IoT Guide",
+					"id": 2437792460,
+					"id_str": "2437792460",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Y1uZDo9yBG",
+					"expanded_url": "https://securityledger.com/2018/01/new-rapidly-spreading-hide-seek-iot-botnet-identified-bitdefender/",
+					"display_url": "securityledger.com/2018/01/new-ra…",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | Autonomous Biological Machine | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9188,
+			"friends_count": 1970,
+			"listed_count": 607,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3743,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61134,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jan 26 14:16:54 +0000 2018",
+			"id": 956893714215030800,
+			"id_str": "956893714215030787",
+			"text": "New Rapidly-Spreading Hide and Seek IoT Botnet Identified by Bitdefender  https://t.co/Y1uZDo9yBG #IoTBotnets #IoTSecurity",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "IoTBotnets",
+						"indices": [
+							98,
+							109
+						]
+					},
+					{
+						"text": "IoTSecurity",
+						"indices": [
+							110,
+							122
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Y1uZDo9yBG",
+						"expanded_url": "https://securityledger.com/2018/01/new-rapidly-spreading-hide-seek-iot-botnet-identified-bitdefender/",
+						"display_url": "securityledger.com/2018/01/new-ra…",
+						"indices": [
+							74,
+							97
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2437792460,
+				"id_str": "2437792460",
+				"name": "IoT Guide",
+				"screen_name": "iotguide",
+				"location": "Ft. Lauderdale, FL",
+				"description": "Follow us to stay on top of #InternetOfThings news, products and events.",
+				"url": "http://t.co/rWVe9GZaBg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/rWVe9GZaBg",
+								"expanded_url": "http://internetofthingsguide.com",
+								"display_url": "internetofthingsguide.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 26761,
+				"friends_count": 9128,
+				"listed_count": 1512,
+				"created_at": "Fri Apr 11 02:07:07 +0000 2014",
+				"favourites_count": 4556,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 18032,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/471105949675945985/foCcjeyM_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/471105949675945985/foCcjeyM_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2437792460/1399571029",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Jan 25 19:11:17 +0000 2018",
 		"id": 956605411540553700,
 		"id_str": "956605411540553728",
