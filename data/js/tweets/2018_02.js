@@ -1,6 +1,243 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Thu Feb 08 11:21:09 +0000 2018",
+		"id": 961560529801228300,
+		"id_str": "961560529801228289",
+		"text": "Woei. In 1 zin genoemd worden met Jim Carrey... :-) https://t.co/XogscywWTL",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XogscywWTL",
+					"expanded_url": "https://twitter.com/KeesRomkes/status/961560189139849216",
+					"display_url": "twitter.com/KeesRomkes/sta…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | Autonomous Biological Machine | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9183,
+			"friends_count": 1969,
+			"listed_count": 607,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3762,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61091,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 961560189139849200,
+		"quoted_status_id_str": "961560189139849216",
+		"quoted_status": {
+			"created_at": "Thu Feb 08 11:19:48 +0000 2018",
+			"id": 961560189139849200,
+			"id_str": "961560189139849216",
+			"text": "Na @jimcarrey en @frankmeeuwsen (trendsetters) heb ik net ook mn FB aan de wilgen gehangen. Redenen genoeg, maar vo… https://t.co/QbHgo2XmTg",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "JimCarrey",
+						"name": "Jim Carrey",
+						"id": 52551600,
+						"id_str": "52551600",
+						"indices": [
+							3,
+							13
+						]
+					},
+					{
+						"screen_name": "frankmeeuwsen",
+						"name": "Frank Meeuwsen",
+						"id": 816203,
+						"id_str": "816203",
+						"indices": [
+							17,
+							31
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/QbHgo2XmTg",
+						"expanded_url": "https://twitter.com/i/web/status/961560189139849216",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 7842092,
+				"id_str": "7842092",
+				"name": "Kees (pronounced “case”) 🇩🇪",
+				"screen_name": "KeesRomkes",
+				"location": "Berlin, Deutschland",
+				"description": "Works tech product/project @GID_service. Amateur dev, average runner, #keto #lchf. Loves mindless movies, fails often. Tweets #German #English #Dutch #Frysk",
+				"url": "https://t.co/FbGQOSGkmt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FbGQOSGkmt",
+								"expanded_url": "http://www.linkedin.com/in/keesromkes",
+								"display_url": "linkedin.com/in/keesromkes",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3732,
+				"friends_count": 1049,
+				"listed_count": 378,
+				"created_at": "Tue Jul 31 07:49:38 +0000 2007",
+				"favourites_count": 24188,
+				"utc_offset": 3600,
+				"time_zone": "Berlin",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 52382,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EFEFEF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/777343302/5cf824677aa8bbf388d0bdce46c559f1.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/777343302/5cf824677aa8bbf388d0bdce46c559f1.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/886675755731750913/HecLX0Cf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/886675755731750913/HecLX0Cf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/7842092/1403451831",
+				"profile_link_color": "0285A3",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EDEDED",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 960953156262744000,
+			"quoted_status_id_str": "960953156262744065",
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Thu Feb 08 11:12:49 +0000 2018",
 		"id": 961558429440659500,
 		"id_str": "961558429440659456",
