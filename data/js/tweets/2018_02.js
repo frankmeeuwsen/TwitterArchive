@@ -1,6 +1,249 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Sat Feb 17 07:38:19 +0000 2018",
+		"id": 964765941119807500,
+		"id_str": "964765941119807488",
+		"text": "RT @FacebookJailed: Remember @facebook owns Instagram &amp; they rather monitor posts like Cate’s than go after actual hate that shoots up a sc…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FacebookJailed",
+					"name": "Facebook Jailed",
+					"id": 933149440701009900,
+					"id_str": "933149440701009921",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "facebook",
+					"name": "Facebook",
+					"id": 2425151,
+					"id_str": "2425151",
+					"indices": [
+						29,
+						38
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | Autonomous Biological Machine | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9187,
+			"friends_count": 1969,
+			"listed_count": 607,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3768,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61059,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Feb 17 03:13:28 +0000 2018",
+			"id": 964699290865107000,
+			"id_str": "964699290865106944",
+			"text": "Remember @facebook owns Instagram &amp; they rather monitor posts like Cate’s than go after actual hate that shoots up… https://t.co/YI6IWQ5Dio",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "facebook",
+						"name": "Facebook",
+						"id": 2425151,
+						"id_str": "2425151",
+						"indices": [
+							9,
+							18
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/YI6IWQ5Dio",
+						"expanded_url": "https://twitter.com/i/web/status/964699290865106944",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							120,
+							143
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 933149440701009900,
+				"id_str": "933149440701009921",
+				"name": "Facebook Jailed",
+				"screen_name": "FacebookJailed",
+				"location": "United States",
+				"description": "Facebook is scum and bans women & people of color to protect white men. https://t.co/wQqyn9weT1 & facebookjailedme@gmail.com",
+				"url": "https://t.co/IUEF9IJeOl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IUEF9IJeOl",
+								"expanded_url": "http://www.facebookjailed.com",
+								"display_url": "facebookjailed.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/wQqyn9weT1",
+								"expanded_url": "http://Facebookjailed.com",
+								"display_url": "Facebookjailed.com",
+								"indices": [
+									72,
+									95
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 201,
+				"friends_count": 263,
+				"listed_count": 2,
+				"created_at": "Wed Nov 22 01:45:38 +0000 2017",
+				"favourites_count": 410,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 390,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/933150445115146240/bYN3ERdY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/933150445115146240/bYN3ERdY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/933149440701009921/1511315429",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Feb 16 11:13:40 +0000 2018",
 		"id": 964457748388868100,
 		"id_str": "964457748388868097",
