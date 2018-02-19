@@ -1,6 +1,147 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Mon Feb 19 14:15:52 +0000 2018",
+		"id": 965590762829295600,
+		"id_str": "965590762829295616",
+		"text": "@itsnaud @IKEAHelpt @iamOlisto Mocht je een Philips Hue bridge hebben, daar werken je IKEA lampen ook in. Ze zijn d… https://t.co/NbOZdLhpsI",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "itsnaud",
+					"name": "Naud",
+					"id": 2827461761,
+					"id_str": "2827461761",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "IKEAHelpt",
+					"name": "IKEA Helpt",
+					"id": 1116676806,
+					"id_str": "1116676806",
+					"indices": [
+						9,
+						19
+					]
+				},
+				{
+					"screen_name": "iamOlisto",
+					"name": "Olisto",
+					"id": 3879014177,
+					"id_str": "3879014177",
+					"indices": [
+						20,
+						30
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NbOZdLhpsI",
+					"expanded_url": "https://twitter.com/i/web/status/965590762829295616",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 965583554309746700,
+		"in_reply_to_status_id_str": "965583554309746690",
+		"in_reply_to_user_id": 2827461761,
+		"in_reply_to_user_id_str": "2827461761",
+		"in_reply_to_screen_name": "itsnaud",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | Autonomous Biological Machine | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9187,
+			"friends_count": 1969,
+			"listed_count": 607,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3775,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61051,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Mon Feb 19 12:58:45 +0000 2018",
 		"id": 965571357579804700,
 		"id_str": "965571357579804673",
