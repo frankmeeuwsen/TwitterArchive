@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Fri Feb 23 14:12:39 +0000 2018",
+		"id": 967039505948729300,
+		"id_str": "967039505948729345",
+		"text": "RT @MichaelSkolnik: The issue of gun violence in America isn’t just school shootings.\n\nA teacher with a gun wouldn’t have saved:\n\nVegas: a…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MichaelSkolnik",
+					"name": "Michael Skolnik",
+					"id": 24165761,
+					"id_str": "24165761",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | Autonomous Biological Machine | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9185,
+			"friends_count": 1971,
+			"listed_count": 607,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3786,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61058,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Feb 22 13:06:53 +0000 2018",
+			"id": 966660564876480500,
+			"id_str": "966660564876480512",
+			"text": "The issue of gun violence in America isn’t just school shootings.\n\nA teacher with a gun wouldn’t have saved:\n\nVegas… https://t.co/seRNX2rG32",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/seRNX2rG32",
+						"expanded_url": "https://twitter.com/i/web/status/966660564876480512",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 24165761,
+				"id_str": "24165761",
+				"name": "Michael Skolnik",
+				"screen_name": "MichaelSkolnik",
+				"location": "",
+				"description": "Entrepreneur • Civil Rights Activist. Co-Founder and CEO of @WeAreSoze. Proud father of Mateo Ali. Board Member of Trayvon Martin Fdn. ✉️:info@mskolnik.com",
+				"url": "https://t.co/lm1fJWL9gC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/lm1fJWL9gC",
+								"expanded_url": "https://goo.gl/forms/td7KEVr8KuPdj8u03",
+								"display_url": "goo.gl/forms/td7KEVr8…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 248794,
+				"friends_count": 719,
+				"listed_count": 3385,
+				"created_at": "Fri Mar 13 12:55:21 +0000 2009",
+				"favourites_count": 114253,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 65093,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/883497172146302976/3Pxn4ofS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/883497172146302976/3Pxn4ofS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/24165761/1443648797",
+				"profile_link_color": "0099B9",
+				"profile_sidebar_border_color": "5ED4DC",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 28178,
+			"favorite_count": 71050,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 28178,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Feb 23 13:05:25 +0000 2018",
 		"id": 967022584167575600,
 		"id_str": "967022584167575552",
