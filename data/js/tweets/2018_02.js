@@ -1,6 +1,240 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Tue Feb 27 05:42:40 +0000 2018",
+		"id": 968360715886178300,
+		"id_str": "968360715886178306",
+		"text": "Wat een feest van herkenning, deze thread. Ik wiebel tussen allerlei keuzes... /cc @erwblo @ehpo @DeFries https://t.co/TBb2SN29GF",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "erwblo",
+					"name": "erwin blom",
+					"id": 713333,
+					"id_str": "713333",
+					"indices": [
+						83,
+						90
+					]
+				},
+				{
+					"screen_name": "ehpo",
+					"name": "Niels Aalberts",
+					"id": 20199054,
+					"id_str": "20199054",
+					"indices": [
+						91,
+						96
+					]
+				},
+				{
+					"screen_name": "DeFries",
+					"name": "Remkus de Vries",
+					"id": 14264386,
+					"id_str": "14264386",
+					"indices": [
+						97,
+						105
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TBb2SN29GF",
+					"expanded_url": "https://twitter.com/BBC6Music/status/968227373106827264",
+					"display_url": "twitter.com/BBC6Music/stat…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | Autonomous Biological Machine | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9187,
+			"friends_count": 1974,
+			"listed_count": 607,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3799,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61044,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 968227373106827300,
+		"quoted_status_id_str": "968227373106827264",
+		"quoted_status": {
+			"created_at": "Mon Feb 26 20:52:49 +0000 2018",
+			"id": 968227373106827300,
+			"id_str": "968227373106827264",
+			"text": "💪 What’s the strongest run of three songs in a row on an album?",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 89168924,
+				"id_str": "89168924",
+				"name": "BBC Radio 6 Music",
+				"screen_name": "BBC6Music",
+				"location": "United Kingdom",
+				"description": "Celebrating the alternative spirit of music & culture. Listen worldwide. Hear shows & clips on the @BBC iPlayer Radio app. What just played? @BBC6MusicBot",
+				"url": "http://t.co/wM5EwxsjnE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/wM5EwxsjnE",
+								"expanded_url": "http://www.bbc.co.uk/6music",
+								"display_url": "bbc.co.uk/6music",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 674797,
+				"friends_count": 1664,
+				"listed_count": 4170,
+				"created_at": "Wed Nov 11 12:02:06 +0000 2009",
+				"favourites_count": 64612,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 118936,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "010206",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000027073766/db4a93f3e11bcf7906093f09ae4d7258.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000027073766/db4a93f3e11bcf7906093f09ae4d7258.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/897077247097659392/v244Vx8a_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/897077247097659392/v244Vx8a_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/89168924/1518097550",
+				"profile_link_color": "7FDBB6",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "7CB0B5",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 119,
+			"favorite_count": 543,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Mon Feb 26 15:57:10 +0000 2018",
 		"id": 968152970721480700,
 		"id_str": "968152970721480704",
