@@ -1,6 +1,360 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Sun Mar 04 14:42:00 +0000 2018",
+		"id": 970308384569417700,
+		"id_str": "970308384569417729",
+		"text": "RT @YouHadOneJ0B: How to delete text? https://t.co/eAFQkykHIN",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouHadOneJ0B",
+					"name": "You Had One Job",
+					"id": 2449601442,
+					"id_str": "2449601442",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 970179687400947700,
+					"id_str": "970179687400947713",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/DXbFSRPVQAEpjJs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DXbFSRPVQAEpjJs.jpg",
+					"url": "https://t.co/eAFQkykHIN",
+					"display_url": "pic.twitter.com/eAFQkykHIN",
+					"expanded_url": "https://twitter.com/YouHadOneJ0B/status/970275163064492032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 604,
+							"h": 336,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 604,
+							"h": 336,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 604,
+							"h": 336,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 970275163064492000,
+					"source_status_id_str": "970275163064492032",
+					"source_user_id": 2449601442,
+					"source_user_id_str": "2449601442"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 970179687400947700,
+					"id_str": "970179687400947713",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/DXbFSRPVQAEpjJs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DXbFSRPVQAEpjJs.jpg",
+					"url": "https://t.co/eAFQkykHIN",
+					"display_url": "pic.twitter.com/eAFQkykHIN",
+					"expanded_url": "https://twitter.com/YouHadOneJ0B/status/970275163064492032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 604,
+							"h": 336,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 604,
+							"h": 336,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 604,
+							"h": 336,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 970275163064492000,
+					"source_status_id_str": "970275163064492032",
+					"source_user_id": 2449601442,
+					"source_user_id_str": "2449601442"
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | Autonomous Biological Machine | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9185,
+			"friends_count": 1975,
+			"listed_count": 607,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3815,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61048,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1493186756",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Mar 04 12:30:00 +0000 2018",
+			"id": 970275163064492000,
+			"id_str": "970275163064492032",
+			"text": "How to delete text? https://t.co/eAFQkykHIN",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 970179687400947700,
+						"id_str": "970179687400947713",
+						"indices": [
+							20,
+							43
+						],
+						"media_url": "http://pbs.twimg.com/media/DXbFSRPVQAEpjJs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DXbFSRPVQAEpjJs.jpg",
+						"url": "https://t.co/eAFQkykHIN",
+						"display_url": "pic.twitter.com/eAFQkykHIN",
+						"expanded_url": "https://twitter.com/YouHadOneJ0B/status/970275163064492032/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 604,
+								"h": 336,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 604,
+								"h": 336,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 604,
+								"h": 336,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 970179687400947700,
+						"id_str": "970179687400947713",
+						"indices": [
+							20,
+							43
+						],
+						"media_url": "http://pbs.twimg.com/media/DXbFSRPVQAEpjJs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DXbFSRPVQAEpjJs.jpg",
+						"url": "https://t.co/eAFQkykHIN",
+						"display_url": "pic.twitter.com/eAFQkykHIN",
+						"expanded_url": "https://twitter.com/YouHadOneJ0B/status/970275163064492032/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 604,
+								"h": 336,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 604,
+								"h": 336,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 604,
+								"h": 336,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2449601442,
+				"id_str": "2449601442",
+				"name": "You Had One Job",
+				"screen_name": "YouHadOneJ0B",
+				"location": "",
+				"description": "Seriously? You Had One Job *Parody* I do not own anything.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 240168,
+				"friends_count": 296,
+				"listed_count": 865,
+				"created_at": "Thu Apr 17 11:59:32 +0000 2014",
+				"favourites_count": 647,
+				"utc_offset": 19800,
+				"time_zone": "New Delhi",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 20492,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/622797362172313601/30AeEajX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/622797362172313601/30AeEajX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2449601442/1437321481",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 93,
+			"favorite_count": 267,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 93,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Mar 02 11:08:22 +0000 2018",
 		"id": 969529842277462000,
 		"id_str": "969529842277462021",
