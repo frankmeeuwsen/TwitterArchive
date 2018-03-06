@@ -1,6 +1,699 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Tue Mar 06 08:03:45 +0000 2018",
+		"id": 970932934747263000,
+		"id_str": "970932934747262976",
+		"text": "RT @Dream_Reamer: RT to die instantly https://t.co/vBhm3lm2qx",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Dream_Reamer",
+					"name": "Dream Reamer",
+					"id": 968160304478801900,
+					"id_str": "968160304478801920",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 970795960623235100,
+					"id_str": "970795960623235072",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/DXj1yF5VAAA4PzB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DXj1yF5VAAA4PzB.jpg",
+					"url": "https://t.co/vBhm3lm2qx",
+					"display_url": "pic.twitter.com/vBhm3lm2qx",
+					"expanded_url": "https://twitter.com/Dream_Reamer/status/970795966524780544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 478,
+							"h": 269,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 478,
+							"h": 269,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 478,
+							"h": 269,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 970795966524780500,
+					"source_status_id_str": "970795966524780544",
+					"source_user_id": 968160304478801900,
+					"source_user_id_str": "968160304478801920"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 970795960623235100,
+					"id_str": "970795960623235072",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/DXj1yF5VAAA4PzB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DXj1yF5VAAA4PzB.jpg",
+					"url": "https://t.co/vBhm3lm2qx",
+					"display_url": "pic.twitter.com/vBhm3lm2qx",
+					"expanded_url": "https://twitter.com/Dream_Reamer/status/970795966524780544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 478,
+							"h": 269,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 478,
+							"h": 269,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 478,
+							"h": 269,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 970795966524780500,
+					"source_status_id_str": "970795966524780544",
+					"source_user_id": 968160304478801900,
+					"source_user_id_str": "968160304478801920"
+				},
+				{
+					"id": 970795960631636000,
+					"id_str": "970795960631635968",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/DXj1yF7VMAANKEp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DXj1yF7VMAANKEp.jpg",
+					"url": "https://t.co/vBhm3lm2qx",
+					"display_url": "pic.twitter.com/vBhm3lm2qx",
+					"expanded_url": "https://twitter.com/Dream_Reamer/status/970795966524780544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 605,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 605,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 605,
+							"h": 454,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 970795966524780500,
+					"source_status_id_str": "970795966524780544",
+					"source_user_id": 968160304478801900,
+					"source_user_id_str": "968160304478801920"
+				},
+				{
+					"id": 970795960627486700,
+					"id_str": "970795960627486720",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/DXj1yF6V4AARDgM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DXj1yF6V4AARDgM.jpg",
+					"url": "https://t.co/vBhm3lm2qx",
+					"display_url": "pic.twitter.com/vBhm3lm2qx",
+					"expanded_url": "https://twitter.com/Dream_Reamer/status/970795966524780544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 408,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 740,
+							"h": 444,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 740,
+							"h": 444,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 970795966524780500,
+					"source_status_id_str": "970795966524780544",
+					"source_user_id": 968160304478801900,
+					"source_user_id_str": "968160304478801920"
+				},
+				{
+					"id": 970795960631681000,
+					"id_str": "970795960631681024",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/DXj1yF7V4AAH-x-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DXj1yF7V4AAH-x-.jpg",
+					"url": "https://t.co/vBhm3lm2qx",
+					"display_url": "pic.twitter.com/vBhm3lm2qx",
+					"expanded_url": "https://twitter.com/Dream_Reamer/status/970795966524780544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 667,
+							"h": 476,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 667,
+							"h": 476,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 667,
+							"h": 476,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 970795966524780500,
+					"source_status_id_str": "970795966524780544",
+					"source_user_id": 968160304478801900,
+					"source_user_id_str": "968160304478801920"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | Autonomous Biological Machine | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9183,
+			"friends_count": 1977,
+			"listed_count": 607,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3818,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61048,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1520280782",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Mar 05 22:59:29 +0000 2018",
+			"id": 970795966524780500,
+			"id_str": "970795966524780544",
+			"text": "RT to die instantly https://t.co/vBhm3lm2qx",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 970795960623235100,
+						"id_str": "970795960623235072",
+						"indices": [
+							20,
+							43
+						],
+						"media_url": "http://pbs.twimg.com/media/DXj1yF5VAAA4PzB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DXj1yF5VAAA4PzB.jpg",
+						"url": "https://t.co/vBhm3lm2qx",
+						"display_url": "pic.twitter.com/vBhm3lm2qx",
+						"expanded_url": "https://twitter.com/Dream_Reamer/status/970795966524780544/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 478,
+								"h": 269,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 478,
+								"h": 269,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 478,
+								"h": 269,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 970795960623235100,
+						"id_str": "970795960623235072",
+						"indices": [
+							20,
+							43
+						],
+						"media_url": "http://pbs.twimg.com/media/DXj1yF5VAAA4PzB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DXj1yF5VAAA4PzB.jpg",
+						"url": "https://t.co/vBhm3lm2qx",
+						"display_url": "pic.twitter.com/vBhm3lm2qx",
+						"expanded_url": "https://twitter.com/Dream_Reamer/status/970795966524780544/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 478,
+								"h": 269,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 478,
+								"h": 269,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 478,
+								"h": 269,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 970795960631636000,
+						"id_str": "970795960631635968",
+						"indices": [
+							20,
+							43
+						],
+						"media_url": "http://pbs.twimg.com/media/DXj1yF7VMAANKEp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DXj1yF7VMAANKEp.jpg",
+						"url": "https://t.co/vBhm3lm2qx",
+						"display_url": "pic.twitter.com/vBhm3lm2qx",
+						"expanded_url": "https://twitter.com/Dream_Reamer/status/970795966524780544/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 605,
+								"h": 454,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 605,
+								"h": 454,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 605,
+								"h": 454,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 970795960627486700,
+						"id_str": "970795960627486720",
+						"indices": [
+							20,
+							43
+						],
+						"media_url": "http://pbs.twimg.com/media/DXj1yF6V4AARDgM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DXj1yF6V4AARDgM.jpg",
+						"url": "https://t.co/vBhm3lm2qx",
+						"display_url": "pic.twitter.com/vBhm3lm2qx",
+						"expanded_url": "https://twitter.com/Dream_Reamer/status/970795966524780544/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 408,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 740,
+								"h": 444,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 740,
+								"h": 444,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 970795960631681000,
+						"id_str": "970795960631681024",
+						"indices": [
+							20,
+							43
+						],
+						"media_url": "http://pbs.twimg.com/media/DXj1yF7V4AAH-x-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DXj1yF7V4AAH-x-.jpg",
+						"url": "https://t.co/vBhm3lm2qx",
+						"display_url": "pic.twitter.com/vBhm3lm2qx",
+						"expanded_url": "https://twitter.com/Dream_Reamer/status/970795966524780544/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 667,
+								"h": 476,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 667,
+								"h": 476,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 667,
+								"h": 476,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 968160304478801900,
+				"id_str": "968160304478801920",
+				"name": "Dream Reamer",
+				"screen_name": "Dream_Reamer",
+				"location": "Your Dreams",
+				"description": "Strict adherent of the Warrior’s Code.  Nightmare Harraser.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 167,
+				"friends_count": 59,
+				"listed_count": 1,
+				"created_at": "Mon Feb 26 16:26:18 +0000 2018",
+				"favourites_count": 840,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 362,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/969569030431559680/Q6WBmbGH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/969569030431559680/Q6WBmbGH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/968160304478801920/1519998246",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8325,
+			"favorite_count": 16073,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 8325,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Mar 06 08:01:01 +0000 2018",
+		"id": 970932247690870800,
+		"id_str": "970932247690870784",
+		"text": "11 jaar op Twitter in een aantal tweets.  https://t.co/4X1y194rNb",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4X1y194rNb",
+					"expanded_url": "https://buff.ly/2Fi3Pdi",
+					"display_url": "buff.ly/2Fi3Pdi",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | Autonomous Biological Machine | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9183,
+			"friends_count": 1977,
+			"listed_count": 607,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3818,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61048,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1520280782",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Mon Mar 05 21:56:59 +0000 2018",
 		"id": 970780235422687200,
 		"id_str": "970780235422687232",
