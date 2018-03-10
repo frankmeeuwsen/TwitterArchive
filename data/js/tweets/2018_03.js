@@ -1,6 +1,722 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Sat Mar 10 19:12:04 +0000 2018",
+		"id": 972550672674705400,
+		"id_str": "972550672674705408",
+		"text": "RT @PearlJam: #CantDenyMe. #PearlJam https://t.co/BeEtn8Flr2",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CantDenyMe",
+					"indices": [
+						14,
+						25
+					]
+				},
+				{
+					"text": "PearlJam",
+					"indices": [
+						27,
+						36
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PearlJam",
+					"name": "Pearl Jam",
+					"id": 15155074,
+					"id_str": "15155074",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 972261880558387200,
+					"id_str": "972261880558387200",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/DX4sVZHXUAAyvam.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DX4sVZHXUAAyvam.jpg",
+					"url": "https://t.co/BeEtn8Flr2",
+					"display_url": "pic.twitter.com/BeEtn8Flr2",
+					"expanded_url": "https://twitter.com/PearlJam/status/972547647650390018/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 972547647650390000,
+					"source_status_id_str": "972547647650390018",
+					"source_user_id": 15155074,
+					"source_user_id_str": "15155074"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 972261880558387200,
+					"id_str": "972261880558387200",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/DX4sVZHXUAAyvam.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DX4sVZHXUAAyvam.jpg",
+					"url": "https://t.co/BeEtn8Flr2",
+					"display_url": "pic.twitter.com/BeEtn8Flr2",
+					"expanded_url": "https://twitter.com/PearlJam/status/972547647650390018/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 972547647650390000,
+					"source_status_id_str": "972547647650390018",
+					"source_user_id": 15155074,
+					"source_user_id_str": "15155074",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 25058,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/972261880558387200/vid/480x480/SI9o4QEm1rfziLHg.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/972261880558387200/pl/W8MblTf8sjQfil-b.m3u8"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/972261880558387200/vid/240x240/mIwKsLxFisod_I1G.mp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/972261880558387200/vid/720x720/4LbBy190rMj8BBKa.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false,
+						"source_user": {
+							"id": 15155074,
+							"id_str": "15155074",
+							"name": "Pearl Jam",
+							"screen_name": "PearlJam",
+							"location": "Seattle, WA",
+							"description": "Pearl Jam is coming home - August 8 & 10 in Seattle. #TheHomeShows",
+							"url": "https://t.co/J95aoJ5FKF",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/J95aoJ5FKF",
+											"expanded_url": "http://www.PearlJam.com",
+											"display_url": "PearlJam.com",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 3722346,
+							"friends_count": 847,
+							"listed_count": 18312,
+							"created_at": "Wed Jun 18 06:59:14 +0000 2008",
+							"favourites_count": 2464,
+							"utc_offset": -28800,
+							"time_zone": "Pacific Time (US & Canada)",
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 6405,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/458709139665846272/xuqdWuDa.jpeg",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/458709139665846272/xuqdWuDa.jpeg",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/951952028594393088/87PmgkSF_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/951952028594393088/87PmgkSF_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/15155074/1515798065",
+							"profile_link_color": "A17F59",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "EFEFEF",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | Autonomous Biological Machine | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9165,
+			"friends_count": 1980,
+			"listed_count": 608,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3823,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61037,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1520280782",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Mar 10 19:00:02 +0000 2018",
+			"id": 972547647650390000,
+			"id_str": "972547647650390018",
+			"text": "#CantDenyMe. #PearlJam https://t.co/BeEtn8Flr2",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "CantDenyMe",
+						"indices": [
+							0,
+							11
+						]
+					},
+					{
+						"text": "PearlJam",
+						"indices": [
+							13,
+							22
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 972261880558387200,
+						"id_str": "972261880558387200",
+						"indices": [
+							23,
+							46
+						],
+						"media_url": "http://pbs.twimg.com/media/DX4sVZHXUAAyvam.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DX4sVZHXUAAyvam.jpg",
+						"url": "https://t.co/BeEtn8Flr2",
+						"display_url": "pic.twitter.com/BeEtn8Flr2",
+						"expanded_url": "https://twitter.com/PearlJam/status/972547647650390018/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 972261880558387200,
+						"id_str": "972261880558387200",
+						"indices": [
+							23,
+							46
+						],
+						"media_url": "http://pbs.twimg.com/media/DX4sVZHXUAAyvam.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DX4sVZHXUAAyvam.jpg",
+						"url": "https://t.co/BeEtn8Flr2",
+						"display_url": "pic.twitter.com/BeEtn8Flr2",
+						"expanded_url": "https://twitter.com/PearlJam/status/972547647650390018/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 25058,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/972261880558387200/vid/480x480/SI9o4QEm1rfziLHg.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/972261880558387200/pl/W8MblTf8sjQfil-b.m3u8"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/972261880558387200/vid/240x240/mIwKsLxFisod_I1G.mp4"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/972261880558387200/vid/720x720/4LbBy190rMj8BBKa.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15155074,
+				"id_str": "15155074",
+				"name": "Pearl Jam",
+				"screen_name": "PearlJam",
+				"location": "Seattle, WA",
+				"description": "Pearl Jam is coming home - August 8 & 10 in Seattle. #TheHomeShows",
+				"url": "https://t.co/J95aoJ5FKF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/J95aoJ5FKF",
+								"expanded_url": "http://www.PearlJam.com",
+								"display_url": "PearlJam.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3722346,
+				"friends_count": 847,
+				"listed_count": 18312,
+				"created_at": "Wed Jun 18 06:59:14 +0000 2008",
+				"favourites_count": 2464,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 6405,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/458709139665846272/xuqdWuDa.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/458709139665846272/xuqdWuDa.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/951952028594393088/87PmgkSF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/951952028594393088/87PmgkSF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15155074/1515798065",
+				"profile_link_color": "A17F59",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 196,
+			"favorite_count": 456,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 196,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Sat Mar 10 18:35:47 +0000 2018",
+		"id": 972541544371773400,
+		"id_str": "972541544371773446",
+		"text": "OK, gotta be honest @PearlJam ! Digging this! https://t.co/owTHthAFih",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PearlJam",
+					"name": "Pearl Jam",
+					"id": 15155074,
+					"id_str": "15155074",
+					"indices": [
+						20,
+						29
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 972541531595923500,
+					"id_str": "972541531595923456",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/DX8pXsgW4AABdBp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DX8pXsgW4AABdBp.jpg",
+					"url": "https://t.co/owTHthAFih",
+					"display_url": "pic.twitter.com/owTHthAFih",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/972541544371773446/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 593,
+							"h": 581,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 593,
+							"h": 581,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 593,
+							"h": 581,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 972541531595923500,
+					"id_str": "972541531595923456",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/DX8pXsgW4AABdBp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DX8pXsgW4AABdBp.jpg",
+					"url": "https://t.co/owTHthAFih",
+					"display_url": "pic.twitter.com/owTHthAFih",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/972541544371773446/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 593,
+							"h": 581,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 593,
+							"h": 581,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 593,
+							"h": 581,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 972138173617856500,
+		"in_reply_to_status_id_str": "972138173617856513",
+		"in_reply_to_user_id": 816203,
+		"in_reply_to_user_id_str": "816203",
+		"in_reply_to_screen_name": "frankmeeuwsen",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | Autonomous Biological Machine | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9165,
+			"friends_count": 1980,
+			"listed_count": 608,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3823,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61037,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1520280782",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Mar 10 18:03:14 +0000 2018",
 		"id": 972533349855187000,
 		"id_str": "972533349855186944",
