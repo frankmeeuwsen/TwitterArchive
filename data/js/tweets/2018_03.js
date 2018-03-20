@@ -1,6 +1,298 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Tue Mar 20 21:26:00 +0000 2018",
+		"id": 976208256564637700,
+		"id_str": "976208256564637696",
+		"text": "Natuurlijk is het zorgelijk dat Cambridge Analytica bij al die data kan. Wat wellicht nog zorgelijker is, is het ge… https://t.co/wkUdnjgJpe",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wkUdnjgJpe",
+					"expanded_url": "https://twitter.com/i/web/status/976208256564637696",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | Autonomous Biological Machine | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9180,
+			"friends_count": 1986,
+			"listed_count": 607,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3843,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61052,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1520723563",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 976200848454897700,
+		"quoted_status_id_str": "976200848454897664",
+		"quoted_status": {
+			"created_at": "Tue Mar 20 20:56:33 +0000 2018",
+			"id": 976200848454897700,
+			"id_str": "976200848454897664",
+			"text": "Facebook ligt onder vuur, het moest een keer goed fout gaan en dat is absoluut niet vreemd https://t.co/SBzJpm2Ynl https://t.co/Tqaaym4Nag",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/SBzJpm2Ynl",
+						"expanded_url": "https://www.dutchcowboys.nl/socialmedia/facebook-ligt-onder-vuur-het-moest-een-keer-goed-fout-gaan",
+						"display_url": "dutchcowboys.nl/socialmedia/fa…",
+						"indices": [
+							91,
+							114
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 976200781484429300,
+						"id_str": "976200781484429312",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/media/DYwpcEnWkAA_-eN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DYwpcEnWkAA_-eN.jpg",
+						"url": "https://t.co/Tqaaym4Nag",
+						"display_url": "pic.twitter.com/Tqaaym4Nag",
+						"expanded_url": "https://twitter.com/Henkey/status/976200848454897664/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1440,
+								"h": 600,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 283,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 500,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 976200781484429300,
+						"id_str": "976200781484429312",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/media/DYwpcEnWkAA_-eN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DYwpcEnWkAA_-eN.jpg",
+						"url": "https://t.co/Tqaaym4Nag",
+						"display_url": "pic.twitter.com/Tqaaym4Nag",
+						"expanded_url": "https://twitter.com/Henkey/status/976200848454897664/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1440,
+								"h": 600,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 283,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 500,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 8718462,
+				"id_str": "8718462",
+				"name": "Henk de Hooge",
+				"screen_name": "Henkey",
+				"location": "Brabant | the Netherlands",
+				"description": "Entrepreneur, Founder of Dutchcowboys & Red Banana, Digital Nomad. Blogger. Content Creator. Visual Storyteller. #dutchcowboys #travelvalley #carrepublic",
+				"url": "https://t.co/a19DYYDlCR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/a19DYYDlCR",
+								"expanded_url": "http://www.instagram.com/henkdehooge",
+								"display_url": "instagram.com/henkdehooge",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5979,
+				"friends_count": 812,
+				"listed_count": 301,
+				"created_at": "Fri Sep 07 07:43:07 +0000 2007",
+				"favourites_count": 539,
+				"utc_offset": 3600,
+				"time_zone": "Amsterdam",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 10057,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFE7C5",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/166460464/mlb_rangers_568_26690.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/166460464/mlb_rangers_568_26690.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/58391103/henk_avatar_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/58391103/henk_avatar_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/8718462/1495317895",
+				"profile_link_color": "D31145",
+				"profile_sidebar_border_color": "C6B193",
+				"profile_sidebar_fill_color": "E0D2B8",
+				"profile_text_color": "004B8D",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Tue Mar 20 21:19:07 +0000 2018",
 		"id": 976206527680966700,
 		"id_str": "976206527680966656",
