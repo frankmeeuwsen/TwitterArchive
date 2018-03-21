@@ -1,6 +1,587 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Wed Mar 21 22:45:43 +0000 2018",
+		"id": 976590708235792400,
+		"id_str": "976590708235792384",
+		"text": "Voor het weekend voorbij is zijn er 12 mashups, 900 animated gifs, 3 Lucky TV versies en een carnavalskraker van ge… https://t.co/BJTpEZMTbI",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BJTpEZMTbI",
+					"expanded_url": "https://twitter.com/i/web/status/976590708235792384",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | Autonomous Biological Machine | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9179,
+			"friends_count": 1984,
+			"listed_count": 607,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3852,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61074,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1520723563",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 976587981753585700,
+		"quoted_status_id_str": "976587981753585664",
+		"quoted_status": {
+			"created_at": "Wed Mar 21 22:34:53 +0000 2018",
+			"id": 976587981753585700,
+			"id_str": "976587981753585664",
+			"text": "Maar echt, dit is wel het filmpje van de avond hoor. Vooral de eerste 6 seconden. ;-D https://t.co/RsEs23hepA",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/RsEs23hepA",
+						"expanded_url": "https://www.youtube.com/watch?v=owbGl2ztzcE",
+						"display_url": "youtube.com/watch?v=owbGl2…",
+						"indices": [
+							86,
+							109
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2068851,
+				"id_str": "2068851",
+				"name": "Luuk Ikink",
+				"screen_name": "luuk",
+				"location": "Roosemeer",
+				"description": "Tu-tu-tu-tu-tuuuuuuuu-ta-da",
+				"url": "https://t.co/QjVqjVl9UO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/QjVqjVl9UO",
+								"expanded_url": "http://www.soundcloud.com/ikink",
+								"display_url": "soundcloud.com/ikink",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 54027,
+				"friends_count": 643,
+				"listed_count": 212,
+				"created_at": "Sat Mar 24 00:51:36 +0000 2007",
+				"favourites_count": 1716,
+				"utc_offset": 3600,
+				"time_zone": "Amsterdam",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 33079,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/787478680/billie_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/787478680/billie_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2068851/1438611807",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
+		"created_at": "Wed Mar 21 22:38:49 +0000 2018",
+		"id": 976588971705856000,
+		"id_str": "976588971705856000",
+		"text": "RT @ASOS: Ok, so we *may* have printed 17,000 bags with a typo. We’re calling it a limited edition. https://t.co/wTpKNid4V5",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ASOS",
+					"name": "ASOS",
+					"id": 15790423,
+					"id_str": "15790423",
+					"indices": [
+						3,
+						8
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 976400955989282800,
+					"id_str": "976400955989282816",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/DYzffwwX0AAvx2U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DYzffwwX0AAvx2U.jpg",
+					"url": "https://t.co/wTpKNid4V5",
+					"display_url": "pic.twitter.com/wTpKNid4V5",
+					"expanded_url": "https://twitter.com/ASOS/status/976401027468537856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 844,
+							"h": 726,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 844,
+							"h": 726,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 585,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 976401027468537900,
+					"source_status_id_str": "976401027468537856",
+					"source_user_id": 15790423,
+					"source_user_id_str": "15790423"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 976400955989282800,
+					"id_str": "976400955989282816",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/DYzffwwX0AAvx2U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DYzffwwX0AAvx2U.jpg",
+					"url": "https://t.co/wTpKNid4V5",
+					"display_url": "pic.twitter.com/wTpKNid4V5",
+					"expanded_url": "https://twitter.com/ASOS/status/976401027468537856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 844,
+							"h": 726,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 844,
+							"h": 726,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 585,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 976401027468537900,
+					"source_status_id_str": "976401027468537856",
+					"source_user_id": 15790423,
+					"source_user_id_str": "15790423"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | Autonomous Biological Machine | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9179,
+			"friends_count": 1984,
+			"listed_count": 607,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3852,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61074,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1520723563",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Mar 21 10:12:00 +0000 2018",
+			"id": 976401027468537900,
+			"id_str": "976401027468537856",
+			"text": "Ok, so we *may* have printed 17,000 bags with a typo. We’re calling it a limited edition. https://t.co/wTpKNid4V5",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 976400955989282800,
+						"id_str": "976400955989282816",
+						"indices": [
+							90,
+							113
+						],
+						"media_url": "http://pbs.twimg.com/media/DYzffwwX0AAvx2U.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DYzffwwX0AAvx2U.jpg",
+						"url": "https://t.co/wTpKNid4V5",
+						"display_url": "pic.twitter.com/wTpKNid4V5",
+						"expanded_url": "https://twitter.com/ASOS/status/976401027468537856/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 844,
+								"h": 726,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 844,
+								"h": 726,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 585,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 976400955989282800,
+						"id_str": "976400955989282816",
+						"indices": [
+							90,
+							113
+						],
+						"media_url": "http://pbs.twimg.com/media/DYzffwwX0AAvx2U.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DYzffwwX0AAvx2U.jpg",
+						"url": "https://t.co/wTpKNid4V5",
+						"display_url": "pic.twitter.com/wTpKNid4V5",
+						"expanded_url": "https://twitter.com/ASOS/status/976401027468537856/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 844,
+								"h": 726,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 844,
+								"h": 726,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 585,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15790423,
+				"id_str": "15790423",
+				"name": "ASOS",
+				"screen_name": "ASOS",
+				"location": "London",
+				"description": "Say hi to ASOS on Twitter and get the lowdown on everything you need to know RN. For customer care, please tweet @ASOS_Heretohelp, for menswear @ASOS_Menswear.",
+				"url": "https://t.co/IpnvkT81zZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IpnvkT81zZ",
+								"expanded_url": "http://www.asos.com",
+								"display_url": "asos.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1053437,
+				"friends_count": 4413,
+				"listed_count": 5277,
+				"created_at": "Sat Aug 09 16:59:30 +0000 2008",
+				"favourites_count": 11545,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 216746,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FCFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/456365691327627267/DeZ86w-P.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/456365691327627267/DeZ86w-P.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/794168141563777024/ccpIqz98_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/794168141563777024/ccpIqz98_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15790423/1516002671",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2605,
+			"favorite_count": 16340,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2605,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Mar 21 22:04:47 +0000 2018",
 		"id": 976580406010110000,
 		"id_str": "976580406010109959",
