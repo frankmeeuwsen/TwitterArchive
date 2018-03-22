@@ -1,6 +1,301 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Thu Mar 22 12:50:11 +0000 2018",
+		"id": 976803224245145600,
+		"id_str": "976803224245145601",
+		"text": "Ome Frank's Creatieve Ideetjes. Voor al uw feesten, partijen en congressen! https://t.co/TXbpQGfP1i",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TXbpQGfP1i",
+					"expanded_url": "https://twitter.com/gonniespijkstra/status/976793911527202823",
+					"display_url": "twitter.com/gonniespijkstr…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | Autonomous Biological Machine | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9179,
+			"friends_count": 1984,
+			"listed_count": 607,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3855,
+			"utc_offset": 3600,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61065,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1520723563",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 976793911527202800,
+		"quoted_status_id_str": "976793911527202823",
+		"quoted_status": {
+			"created_at": "Thu Mar 22 12:13:11 +0000 2018",
+			"id": 976793911527202800,
+			"id_str": "976793911527202823",
+			"text": "Voor straks tijdens onze sessie: de grote #jargonnie stokpaardjesbingo! Naar een idee van @frankmeeuwsen #TSC18 https://t.co/AjTFAVQuqM",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "jargonnie",
+						"indices": [
+							42,
+							52
+						]
+					},
+					{
+						"text": "TSC18",
+						"indices": [
+							105,
+							111
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "frankmeeuwsen",
+						"name": "Frank Meeuwsen",
+						"id": 816203,
+						"id_str": "816203",
+						"indices": [
+							90,
+							104
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 976793693872148500,
+						"id_str": "976793693872148480",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/media/DY5EsHYXUAAISpk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DY5EsHYXUAAISpk.jpg",
+						"url": "https://t.co/AjTFAVQuqM",
+						"display_url": "pic.twitter.com/AjTFAVQuqM",
+						"expanded_url": "https://twitter.com/gonniespijkstra/status/976793911527202823/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 460,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 812,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1978,
+								"h": 1338,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 976793693872148500,
+						"id_str": "976793693872148480",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/media/DY5EsHYXUAAISpk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DY5EsHYXUAAISpk.jpg",
+						"url": "https://t.co/AjTFAVQuqM",
+						"display_url": "pic.twitter.com/AjTFAVQuqM",
+						"expanded_url": "https://twitter.com/gonniespijkstra/status/976793911527202823/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 460,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 812,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1978,
+								"h": 1338,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 7677082,
+				"id_str": "7677082",
+				"name": "Gonnie Spijkstra",
+				"screen_name": "gonniespijkstra",
+				"location": "Amsterdam, Staatsliedenbuurt",
+				"description": "komt uit een krantenfamilie | distributiestrateeg | story first | social | impact maken met de belangrijke verhalen | nu: @volkskrant | dol op meta | #jargonnie",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7424,
+				"friends_count": 1846,
+				"listed_count": 249,
+				"created_at": "Tue Jul 24 07:16:23 +0000 2007",
+				"favourites_count": 5366,
+				"utc_offset": 3600,
+				"time_zone": "Amsterdam",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 22263,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/844977467731447809/LdWl2Q37_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/844977467731447809/LdWl2Q37_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/7677082/1490293337",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Thu Mar 22 11:26:21 +0000 2018",
 		"id": 976782127516864500,
 		"id_str": "976782127516864513",
