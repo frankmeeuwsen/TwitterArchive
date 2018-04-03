@@ -1,6 +1,309 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Tue Apr 03 09:29:40 +0000 2018",
+		"id": 981101415992053800,
+		"id_str": "981101415992053760",
+		"text": "RT @MichaelMinneboo: Vlogpret met Olav, Casey en Kevin https://t.co/lMDvyoQqiu @weeklydose @frankmeeuwsen #vloggen #caseyneistat #weeklydos…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "vloggen",
+					"indices": [
+						106,
+						114
+					]
+				},
+				{
+					"text": "caseyneistat",
+					"indices": [
+						115,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MichaelMinneboo",
+					"name": "Michael Minneboo",
+					"id": 16735358,
+					"id_str": "16735358",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "weeklydose",
+					"name": "Olav Beemer",
+					"id": 45893608,
+					"id_str": "45893608",
+					"indices": [
+						79,
+						90
+					]
+				},
+				{
+					"screen_name": "frankmeeuwsen",
+					"name": "Frank Meeuwsen",
+					"id": 816203,
+					"id_str": "816203",
+					"indices": [
+						91,
+						105
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lMDvyoQqiu",
+					"expanded_url": "https://www.michaelminneboo.nl/2018/04/vlogpret-met-olav-casey-en-kevin/",
+					"display_url": "michaelminneboo.nl/2018/04/vlogpr…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | Autonomous Biological Machine | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9171,
+			"friends_count": 1990,
+			"listed_count": 607,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3888,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60889,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1520723563",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Apr 02 14:09:14 +0000 2018",
+			"id": 980809385327956000,
+			"id_str": "980809385327955968",
+			"text": "Vlogpret met Olav, Casey en Kevin https://t.co/lMDvyoQqiu @weeklydose @frankmeeuwsen #vloggen #caseyneistat… https://t.co/iDwX3sldsP",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "vloggen",
+						"indices": [
+							85,
+							93
+						]
+					},
+					{
+						"text": "caseyneistat",
+						"indices": [
+							94,
+							107
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "weeklydose",
+						"name": "Olav Beemer",
+						"id": 45893608,
+						"id_str": "45893608",
+						"indices": [
+							58,
+							69
+						]
+					},
+					{
+						"screen_name": "frankmeeuwsen",
+						"name": "Frank Meeuwsen",
+						"id": 816203,
+						"id_str": "816203",
+						"indices": [
+							70,
+							84
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/lMDvyoQqiu",
+						"expanded_url": "https://www.michaelminneboo.nl/2018/04/vlogpret-met-olav-casey-en-kevin/",
+						"display_url": "michaelminneboo.nl/2018/04/vlogpr…",
+						"indices": [
+							34,
+							57
+						]
+					},
+					{
+						"url": "https://t.co/iDwX3sldsP",
+						"expanded_url": "https://twitter.com/i/web/status/980809385327955968",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							109,
+							132
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16735358,
+				"id_str": "16735358",
+				"name": "Michael Minneboo",
+				"screen_name": "MichaelMinneboo",
+				"location": "The Netherlands",
+				"description": "Journalist & videomaker. Gespecialiseerd in film, strips en beeldcultuur. \nAuteur Mijn vriend Spider-Man: Superhelden, geeks en fancultuur.",
+				"url": "http://t.co/atJDeN9Dzo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/atJDeN9Dzo",
+								"expanded_url": "http://michaelminneboo.nl/",
+								"display_url": "michaelminneboo.nl",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1233,
+				"friends_count": 708,
+				"listed_count": 127,
+				"created_at": "Tue Oct 14 08:16:56 +0000 2008",
+				"favourites_count": 1012,
+				"utc_offset": 7200,
+				"time_zone": "Amsterdam",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 35196,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/3464299/MIKES_WEBS_NU_HEADER2_web2.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/3464299/MIKES_WEBS_NU_HEADER2_web2.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/901062095894183938/Z6K6u5y7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/901062095894183938/Z6K6u5y7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16735358/1444923442",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Mon Apr 02 17:51:45 +0000 2018",
 		"id": 980865381760987100,
 		"id_str": "980865381760987136",
