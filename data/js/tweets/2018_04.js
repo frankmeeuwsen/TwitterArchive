@@ -1,10 +1,171 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Wed Apr 04 20:05:48 +0000 2018",
+		"id": 981623895240400900,
+		"id_str": "981623895240400896",
+		"text": "@youdid @TristanLavender @HumphryJoey @gonniespijkstra @roosvanvugt Waitwhat? En dan maak jij je druk over digitale… https://t.co/n1BGgSZS2w",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "youdid",
+					"name": "Judith",
+					"id": 12561762,
+					"id_str": "12561762",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "TristanLavender",
+					"name": "Tristan Lavender",
+					"id": 27412577,
+					"id_str": "27412577",
+					"indices": [
+						8,
+						24
+					]
+				},
+				{
+					"screen_name": "HumphryJoey",
+					"name": "Humphry",
+					"id": 54028848,
+					"id_str": "54028848",
+					"indices": [
+						25,
+						37
+					]
+				},
+				{
+					"screen_name": "gonniespijkstra",
+					"name": "Gonnie Spijkstra",
+					"id": 7677082,
+					"id_str": "7677082",
+					"indices": [
+						38,
+						54
+					]
+				},
+				{
+					"screen_name": "roosvanvugt",
+					"name": "Roos van Vugt",
+					"id": 21687228,
+					"id_str": "21687228",
+					"indices": [
+						55,
+						67
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/n1BGgSZS2w",
+					"expanded_url": "https://twitter.com/i/web/status/981623895240400896",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 981607233464291300,
+		"in_reply_to_status_id_str": "981607233464291331",
+		"in_reply_to_user_id": 12561762,
+		"in_reply_to_user_id_str": "12561762",
+		"in_reply_to_screen_name": "youdid",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | Autonomous Biological Machine | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9174,
+			"friends_count": 1993,
+			"listed_count": 607,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3894,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60879,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1520723563",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Wed Apr 04 17:04:06 +0000 2018",
 		"id": 981578165482029000,
 		"id_str": "981578165482029056",
-		"text": "RT @TwiterHavenCris: @transscribe @chiefqueef1017 This is actually the best one 🤷🏻‍♂️ don’t @ me https://t.co/qI7xhhoWpx",
+		"text": "RT @TwiterHavenCris: @transscribe @chiefqueef1017 This is actually the best one 🤷🏻♂️ don’t @ me https://t.co/qI7xhhoWpx",
 		"truncated": false,
 		"entities": {
 			"hashtags": [],
@@ -214,7 +375,7 @@ Grailbird.data.tweets_2018_04 =
 			"created_at": "Wed Apr 04 15:20:22 +0000 2018",
 			"id": 981552062419865600,
 			"id_str": "981552062419865600",
-			"text": "@transscribe @chiefqueef1017 This is actually the best one 🤷🏻‍♂️ don’t @ me https://t.co/qI7xhhoWpx",
+			"text": "@transscribe @chiefqueef1017 This is actually the best one 🤷🏻♂️ don’t @ me https://t.co/qI7xhhoWpx",
 			"truncated": false,
 			"entities": {
 				"hashtags": [],
