@@ -1,6 +1,1494 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Wed Apr 04 17:04:06 +0000 2018",
+		"id": 981578165482029000,
+		"id_str": "981578165482029056",
+		"text": "RT @TwiterHavenCris: @transscribe @chiefqueef1017 This is actually the best one 🤷🏻‍♂️ don’t @ me https://t.co/qI7xhhoWpx",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TwiterHavenCris",
+					"name": "Wumbo",
+					"id": 4223439280,
+					"id_str": "4223439280",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "transscribe",
+					"name": "Katelyn Burns",
+					"id": 4421977275,
+					"id_str": "4421977275",
+					"indices": [
+						21,
+						33
+					]
+				},
+				{
+					"screen_name": "chiefqueef1017",
+					"name": "chief queef",
+					"id": 4056073229,
+					"id_str": "4056073229",
+					"indices": [
+						34,
+						49
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 981552046900990000,
+					"id_str": "981552046900989952",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/DZ8sYtwXUAAruxO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DZ8sYtwXUAAruxO.jpg",
+					"url": "https://t.co/qI7xhhoWpx",
+					"display_url": "pic.twitter.com/qI7xhhoWpx",
+					"expanded_url": "https://twitter.com/TwiterHavenCris/status/981552062419865600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 981552062419865600,
+					"source_status_id_str": "981552062419865600",
+					"source_user_id": 4223439280,
+					"source_user_id_str": "4223439280"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 981552046900990000,
+					"id_str": "981552046900989952",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/DZ8sYtwXUAAruxO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DZ8sYtwXUAAruxO.jpg",
+					"url": "https://t.co/qI7xhhoWpx",
+					"display_url": "pic.twitter.com/qI7xhhoWpx",
+					"expanded_url": "https://twitter.com/TwiterHavenCris/status/981552062419865600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 981552062419865600,
+					"source_status_id_str": "981552062419865600",
+					"source_user_id": 4223439280,
+					"source_user_id_str": "4223439280"
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | Autonomous Biological Machine | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9173,
+			"friends_count": 1992,
+			"listed_count": 608,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3893,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60879,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1520723563",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Apr 04 15:20:22 +0000 2018",
+			"id": 981552062419865600,
+			"id_str": "981552062419865600",
+			"text": "@transscribe @chiefqueef1017 This is actually the best one 🤷🏻‍♂️ don’t @ me https://t.co/qI7xhhoWpx",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "transscribe",
+						"name": "Katelyn Burns",
+						"id": 4421977275,
+						"id_str": "4421977275",
+						"indices": [
+							0,
+							12
+						]
+					},
+					{
+						"screen_name": "chiefqueef1017",
+						"name": "chief queef",
+						"id": 4056073229,
+						"id_str": "4056073229",
+						"indices": [
+							13,
+							28
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 981552046900990000,
+						"id_str": "981552046900989952",
+						"indices": [
+							76,
+							99
+						],
+						"media_url": "http://pbs.twimg.com/media/DZ8sYtwXUAAruxO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DZ8sYtwXUAAruxO.jpg",
+						"url": "https://t.co/qI7xhhoWpx",
+						"display_url": "pic.twitter.com/qI7xhhoWpx",
+						"expanded_url": "https://twitter.com/TwiterHavenCris/status/981552062419865600/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 576,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 576,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 981552046900990000,
+						"id_str": "981552046900989952",
+						"indices": [
+							76,
+							99
+						],
+						"media_url": "http://pbs.twimg.com/media/DZ8sYtwXUAAruxO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DZ8sYtwXUAAruxO.jpg",
+						"url": "https://t.co/qI7xhhoWpx",
+						"display_url": "pic.twitter.com/qI7xhhoWpx",
+						"expanded_url": "https://twitter.com/TwiterHavenCris/status/981552062419865600/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 576,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 576,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 981344750526763000,
+			"in_reply_to_status_id_str": "981344750526763008",
+			"in_reply_to_user_id": 4421977275,
+			"in_reply_to_user_id_str": "4421977275",
+			"in_reply_to_screen_name": "transscribe",
+			"user": {
+				"id": 4223439280,
+				"id_str": "4223439280",
+				"name": "Wumbo",
+				"screen_name": "TwiterHavenCris",
+				"location": "Fort Pierce, FL",
+				"description": "You can catch a lot of flies with honey, but you catch more honeys being fly😎 Sc: muffhugger61",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 164,
+				"friends_count": 140,
+				"listed_count": 0,
+				"created_at": "Thu Nov 19 03:47:39 +0000 2015",
+				"favourites_count": 6886,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3885,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/935214600357900288/dI86tSSz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/935214600357900288/dI86tSSz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4223439280/1520896928",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 21,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Apr 04 17:03:33 +0000 2018",
+		"id": 981578028827496400,
+		"id_str": "981578028827496448",
+		"text": "RT @PaulMMCooper: live from my supervisor meeting https://t.co/qG3UADJWEo",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PaulMMCooper",
+					"name": "Paul 🌹📚 Cooper",
+					"id": 1953612884,
+					"id_str": "1953612884",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 981460601233911800,
+					"id_str": "981460601233911808",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/DZ7ZN4GWsAATBE9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DZ7ZN4GWsAATBE9.jpg",
+					"url": "https://t.co/qG3UADJWEo",
+					"display_url": "pic.twitter.com/qG3UADJWEo",
+					"expanded_url": "https://twitter.com/PaulMMCooper/status/981460668846104576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 981460668846104600,
+					"source_status_id_str": "981460668846104576",
+					"source_user_id": 1953612884,
+					"source_user_id_str": "1953612884"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 981460601233911800,
+					"id_str": "981460601233911808",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/DZ7ZN4GWsAATBE9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DZ7ZN4GWsAATBE9.jpg",
+					"url": "https://t.co/qG3UADJWEo",
+					"display_url": "pic.twitter.com/qG3UADJWEo",
+					"expanded_url": "https://twitter.com/PaulMMCooper/status/981460668846104576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 981460668846104600,
+					"source_status_id_str": "981460668846104576",
+					"source_user_id": 1953612884,
+					"source_user_id_str": "1953612884"
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | Autonomous Biological Machine | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9173,
+			"friends_count": 1992,
+			"listed_count": 608,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3893,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60879,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1520723563",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Apr 04 09:17:12 +0000 2018",
+			"id": 981460668846104600,
+			"id_str": "981460668846104576",
+			"text": "live from my supervisor meeting https://t.co/qG3UADJWEo",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 981460601233911800,
+						"id_str": "981460601233911808",
+						"indices": [
+							32,
+							55
+						],
+						"media_url": "http://pbs.twimg.com/media/DZ7ZN4GWsAATBE9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DZ7ZN4GWsAATBE9.jpg",
+						"url": "https://t.co/qG3UADJWEo",
+						"display_url": "pic.twitter.com/qG3UADJWEo",
+						"expanded_url": "https://twitter.com/PaulMMCooper/status/981460668846104576/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 1334,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 981460601233911800,
+						"id_str": "981460601233911808",
+						"indices": [
+							32,
+							55
+						],
+						"media_url": "http://pbs.twimg.com/media/DZ7ZN4GWsAATBE9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DZ7ZN4GWsAATBE9.jpg",
+						"url": "https://t.co/qG3UADJWEo",
+						"display_url": "pic.twitter.com/qG3UADJWEo",
+						"expanded_url": "https://twitter.com/PaulMMCooper/status/981460668846104576/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 1334,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1953612884,
+				"id_str": "1953612884",
+				"name": "Paul 🌹📚 Cooper",
+				"screen_name": "PaulMMCooper",
+				"location": "Norwich, UK",
+				"description": "novelist, PhD attempter, international troublemaker | River of Ink (Bloomsbury 2016) | lit, history & ruins | bylines in @ForeignPolicy, @TheAtlantic, @BBC etc",
+				"url": "https://t.co/LEQGzQAJ5I",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/LEQGzQAJ5I",
+								"expanded_url": "http://paulmmcooper.com",
+								"display_url": "paulmmcooper.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 27971,
+				"friends_count": 750,
+				"listed_count": 385,
+				"created_at": "Fri Oct 11 08:11:35 +0000 2013",
+				"favourites_count": 102828,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 27905,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "709397",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/438652904388325377/R77y8kSW.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/438652904388325377/R77y8kSW.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/885178301937004545/yddc3qT4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/885178301937004545/yddc3qT4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1953612884/1400256885",
+				"profile_link_color": "028515",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 310,
+			"favorite_count": 982,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 310,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Apr 04 17:03:00 +0000 2018",
+		"id": 981577889379487700,
+		"id_str": "981577889379487744",
+		"text": "RT @NMaconachie: @transscribe @aleeb88 Disagree. #Architecture https://t.co/oUmkkom4mC",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Architecture",
+					"indices": [
+						49,
+						62
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NMaconachie",
+					"name": "Nick Maconachie",
+					"id": 1635324764,
+					"id_str": "1635324764",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "transscribe",
+					"name": "Katelyn Burns",
+					"id": 4421977275,
+					"id_str": "4421977275",
+					"indices": [
+						17,
+						29
+					]
+				},
+				{
+					"screen_name": "aleeb88",
+					"name": "Lee B for Treaty",
+					"id": 261920457,
+					"id_str": "261920457",
+					"indices": [
+						30,
+						38
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 981500769286332400,
+					"id_str": "981500769286332416",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/DZ79v9wVoAAcRtZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DZ79v9wVoAAcRtZ.jpg",
+					"url": "https://t.co/oUmkkom4mC",
+					"display_url": "pic.twitter.com/oUmkkom4mC",
+					"expanded_url": "https://twitter.com/NMaconachie/status/981500777196806144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 378,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 378,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 238,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 981500777196806100,
+					"source_status_id_str": "981500777196806144",
+					"source_user_id": 1635324764,
+					"source_user_id_str": "1635324764"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 981500769286332400,
+					"id_str": "981500769286332416",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/DZ79v9wVoAAcRtZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DZ79v9wVoAAcRtZ.jpg",
+					"url": "https://t.co/oUmkkom4mC",
+					"display_url": "pic.twitter.com/oUmkkom4mC",
+					"expanded_url": "https://twitter.com/NMaconachie/status/981500777196806144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 378,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 378,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 238,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 981500777196806100,
+					"source_status_id_str": "981500777196806144",
+					"source_user_id": 1635324764,
+					"source_user_id_str": "1635324764"
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | Autonomous Biological Machine | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9173,
+			"friends_count": 1992,
+			"listed_count": 608,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3893,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60879,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1520723563",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Apr 04 11:56:35 +0000 2018",
+			"id": 981500777196806100,
+			"id_str": "981500777196806144",
+			"text": "@transscribe @aleeb88 Disagree. #Architecture https://t.co/oUmkkom4mC",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Architecture",
+						"indices": [
+							32,
+							45
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "transscribe",
+						"name": "Katelyn Burns",
+						"id": 4421977275,
+						"id_str": "4421977275",
+						"indices": [
+							0,
+							12
+						]
+					},
+					{
+						"screen_name": "aleeb88",
+						"name": "Lee B for Treaty",
+						"id": 261920457,
+						"id_str": "261920457",
+						"indices": [
+							13,
+							21
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 981500769286332400,
+						"id_str": "981500769286332416",
+						"indices": [
+							46,
+							69
+						],
+						"media_url": "http://pbs.twimg.com/media/DZ79v9wVoAAcRtZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DZ79v9wVoAAcRtZ.jpg",
+						"url": "https://t.co/oUmkkom4mC",
+						"display_url": "pic.twitter.com/oUmkkom4mC",
+						"expanded_url": "https://twitter.com/NMaconachie/status/981500777196806144/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 378,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 378,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 238,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 981500769286332400,
+						"id_str": "981500769286332416",
+						"indices": [
+							46,
+							69
+						],
+						"media_url": "http://pbs.twimg.com/media/DZ79v9wVoAAcRtZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DZ79v9wVoAAcRtZ.jpg",
+						"url": "https://t.co/oUmkkom4mC",
+						"display_url": "pic.twitter.com/oUmkkom4mC",
+						"expanded_url": "https://twitter.com/NMaconachie/status/981500777196806144/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 378,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 378,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 238,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 981344750526763000,
+			"in_reply_to_status_id_str": "981344750526763008",
+			"in_reply_to_user_id": 4421977275,
+			"in_reply_to_user_id_str": "4421977275",
+			"in_reply_to_screen_name": "transscribe",
+			"user": {
+				"id": 1635324764,
+				"id_str": "1635324764",
+				"name": "Nick Maconachie",
+				"screen_name": "NMaconachie",
+				"location": "Sydney",
+				"description": "Politics, economy, society, and random books. Contract lead in a billion dollar intelligence💡business servicing the finance sector. Views my own.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 750,
+				"friends_count": 855,
+				"listed_count": 38,
+				"created_at": "Wed Jul 31 11:59:48 +0000 2013",
+				"favourites_count": 6324,
+				"utc_offset": 36000,
+				"time_zone": "Brisbane",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 10387,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/941149145376505856/ralRBC05_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/941149145376505856/ralRBC05_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1635324764/1513249677",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "0073b76548e5984f",
+				"url": "https://api.twitter.com/1.1/geo/id/0073b76548e5984f.json",
+				"place_type": "city",
+				"name": "Sydney",
+				"full_name": "Sydney, New South Wales",
+				"country_code": "AU",
+				"country": "Australia",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								150.520928608,
+								-34.1183470085
+							],
+							[
+								151.343020992,
+								-34.1183470085
+							],
+							[
+								151.343020992,
+								-33.578140996
+							],
+							[
+								150.520928608,
+								-33.578140996
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 30,
+			"favorite_count": 170,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 30,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Apr 04 17:02:48 +0000 2018",
+		"id": 981577838175379500,
+		"id_str": "981577838175379456",
+		"text": "Deze memes zijn zo briljant. https://t.co/aoMhtXThUl",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aoMhtXThUl",
+					"expanded_url": "https://twitter.com/transscribe/status/981344750526763008",
+					"display_url": "twitter.com/transscribe/st…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | =W= | .gif 4 life yo! | Autonomous Biological Machine | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9173,
+			"friends_count": 1992,
+			"listed_count": 608,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3893,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60879,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1520723563",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 981344750526763000,
+		"quoted_status_id_str": "981344750526763008",
+		"quoted_status": {
+			"created_at": "Wed Apr 04 01:36:35 +0000 2018",
+			"id": 981344750526763000,
+			"id_str": "981344750526763008",
+			"text": "This is the best version of this meme https://t.co/QbAzw9ymEk",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 981344743950049300,
+						"id_str": "981344743950049280",
+						"indices": [
+							38,
+							61
+						],
+						"media_url": "http://pbs.twimg.com/media/DZ5v2GFW4AAqlbf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DZ5v2GFW4AAqlbf.jpg",
+						"url": "https://t.co/QbAzw9ymEk",
+						"display_url": "pic.twitter.com/QbAzw9ymEk",
+						"expanded_url": "https://twitter.com/transscribe/status/981344750526763008/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 1334,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 981344743950049300,
+						"id_str": "981344743950049280",
+						"indices": [
+							38,
+							61
+						],
+						"media_url": "http://pbs.twimg.com/media/DZ5v2GFW4AAqlbf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DZ5v2GFW4AAqlbf.jpg",
+						"url": "https://t.co/QbAzw9ymEk",
+						"display_url": "pic.twitter.com/QbAzw9ymEk",
+						"expanded_url": "https://twitter.com/transscribe/status/981344750526763008/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 1334,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4421977275,
+				"id_str": "4421977275",
+				"name": "Katelyn Burns",
+				"screen_name": "transscribe",
+				"location": "Maine",
+				"description": "Freelance Journalist, feminist, parent. Breaking Trans News: @them. Bylines: WaPo, VICE, Rewire, Everyday Feminism. Millennier Than Thou. Soccer lady. She/her",
+				"url": "https://t.co/PSKpf2WsUo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PSKpf2WsUo",
+								"expanded_url": "http://patreon.com/katelynburns",
+								"display_url": "patreon.com/katelynburns",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 15554,
+				"friends_count": 1028,
+				"listed_count": 229,
+				"created_at": "Wed Dec 09 02:32:13 +0000 2015",
+				"favourites_count": 66136,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 91551,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/980205968788246528/HSeAPUwM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/980205968788246528/HSeAPUwM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4421977275/1516904568",
+				"profile_link_color": "F58EA8",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 19654,
+			"favorite_count": 56670,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Wed Apr 04 13:58:01 +0000 2018",
 		"id": 981531336669302800,
 		"id_str": "981531336669302785",
