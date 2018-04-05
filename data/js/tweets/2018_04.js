@@ -1,6 +1,367 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Thu Apr 05 09:51:16 +0000 2018",
+		"id": 981831629114142700,
+		"id_str": "981831629114142720",
+		"text": "RT @PearlJamHolland: RIP, today 24 years ago #kurtcobain died.. 16 years ago #laynestaley died.. #nirvana #aliceinchains https://t.co/xGCit…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "kurtcobain",
+					"indices": [
+						45,
+						56
+					]
+				},
+				{
+					"text": "laynestaley",
+					"indices": [
+						77,
+						89
+					]
+				},
+				{
+					"text": "nirvana",
+					"indices": [
+						97,
+						105
+					]
+				},
+				{
+					"text": "aliceinchains",
+					"indices": [
+						106,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PearlJamHolland",
+					"name": "Pearl Jam Holland",
+					"id": 2933941318,
+					"id_str": "2933941318",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9175,
+			"friends_count": 1993,
+			"listed_count": 607,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3894,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60881,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1520723563",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Apr 05 05:07:18 +0000 2018",
+			"id": 981760166881366000,
+			"id_str": "981760166881366019",
+			"text": "RIP, today 24 years ago #kurtcobain died.. 16 years ago #laynestaley died.. #nirvana #aliceinchains https://t.co/xGCitfUxYG",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "kurtcobain",
+						"indices": [
+							24,
+							35
+						]
+					},
+					{
+						"text": "laynestaley",
+						"indices": [
+							56,
+							68
+						]
+					},
+					{
+						"text": "nirvana",
+						"indices": [
+							76,
+							84
+						]
+					},
+					{
+						"text": "aliceinchains",
+						"indices": [
+							85,
+							99
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 981760146610245600,
+						"id_str": "981760146610245632",
+						"indices": [
+							100,
+							123
+						],
+						"media_url": "http://pbs.twimg.com/media/DZ_pptlW0AAqp-K.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DZ_pptlW0AAqp-K.jpg",
+						"url": "https://t.co/xGCitfUxYG",
+						"display_url": "pic.twitter.com/xGCitfUxYG",
+						"expanded_url": "https://twitter.com/PearlJamHolland/status/981760166881366019/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1008,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 571,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1008,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 981760146610245600,
+						"id_str": "981760146610245632",
+						"indices": [
+							100,
+							123
+						],
+						"media_url": "http://pbs.twimg.com/media/DZ_pptlW0AAqp-K.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DZ_pptlW0AAqp-K.jpg",
+						"url": "https://t.co/xGCitfUxYG",
+						"display_url": "pic.twitter.com/xGCitfUxYG",
+						"expanded_url": "https://twitter.com/PearlJamHolland/status/981760166881366019/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1008,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 571,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1008,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 981760146627027000,
+						"id_str": "981760146627026950",
+						"indices": [
+							100,
+							123
+						],
+						"media_url": "http://pbs.twimg.com/media/DZ_pptpW4AYk8wN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DZ_pptpW4AYk8wN.jpg",
+						"url": "https://t.co/xGCitfUxYG",
+						"display_url": "pic.twitter.com/xGCitfUxYG",
+						"expanded_url": "https://twitter.com/PearlJamHolland/status/981760166881366019/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 419,
+								"h": 419,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 419,
+								"h": 419,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 419,
+								"h": 419,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2933941318,
+				"id_str": "2933941318",
+				"name": "Pearl Jam Holland",
+				"screen_name": "PearlJamHolland",
+				"location": "",
+				"description": "Troubled souls unite! Dutch PJ-fanaccount. Follow for Pearl Jam news, videos, lyrics, facts & photos. Instagram: pearljamholland.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1217,
+				"friends_count": 228,
+				"listed_count": 17,
+				"created_at": "Sat Dec 20 17:16:58 +0000 2014",
+				"favourites_count": 5491,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2385,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/968918956860985346/u_FxXkMa_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/968918956860985346/u_FxXkMa_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2933941318/1419097641",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 22,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Apr 05 05:01:56 +0000 2018",
 		"id": 981758816697094100,
 		"id_str": "981758816697094144",
