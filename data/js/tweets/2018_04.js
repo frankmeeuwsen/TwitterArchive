@@ -1,6 +1,239 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Tue Apr 10 19:50:44 +0000 2018",
+		"id": 983794428585406500,
+		"id_str": "983794428585406464",
+		"text": "RT @___pi: Kijk! Jeroen (VWO 6, @RegentScarab)  heeft een hobby die uit de hand loopt. Robotjes maken uit oude computeronderdelen. Zo cool…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "___pi",
+					"name": "Per-Ivar Kloen",
+					"id": 111145564,
+					"id_str": "111145564",
+					"indices": [
+						3,
+						9
+					]
+				},
+				{
+					"screen_name": "RegentScarab",
+					"name": "Jeroen Heijmans",
+					"id": 926585212515037200,
+					"id_str": "926585212515037184",
+					"indices": [
+						32,
+						45
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9177,
+			"friends_count": 1997,
+			"listed_count": 605,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3910,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60937,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1520723563",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Apr 10 19:23:43 +0000 2018",
+			"id": 983787629782159400,
+			"id_str": "983787629782159360",
+			"text": "Kijk! Jeroen (VWO 6, @RegentScarab)  heeft een hobby die uit de hand loopt. Robotjes maken uit oude computeronderde… https://t.co/CGECtkO8Jo",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "RegentScarab",
+						"name": "Jeroen Heijmans",
+						"id": 926585212515037200,
+						"id_str": "926585212515037184",
+						"indices": [
+							21,
+							34
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/CGECtkO8Jo",
+						"expanded_url": "https://twitter.com/i/web/status/983787629782159360",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 111145564,
+				"id_str": "111145564",
+				"name": "Per-Ivar Kloen",
+				"screen_name": "___pi",
+				"location": "Holland, Den Hoorn",
+				"description": "Hoi!",
+				"url": "https://t.co/sUDebH60gF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sUDebH60gF",
+								"expanded_url": "http://plakkenenknippen.nl/",
+								"display_url": "plakkenenknippen.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1715,
+				"friends_count": 1252,
+				"listed_count": 212,
+				"created_at": "Wed Feb 03 23:26:53 +0000 2010",
+				"favourites_count": 456,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 48062,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "12C8FF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/77486926/pinhole2.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/77486926/pinhole2.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3700193146/ae22a65bc50e606aba7459c13b88582f_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3700193146/ae22a65bc50e606aba7459c13b88582f_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/111145564/1518423318",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Tue Apr 10 19:00:15 +0000 2018",
 		"id": 983781725787557900,
 		"id_str": "983781725787557889",
