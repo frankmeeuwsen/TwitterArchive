@@ -1,6 +1,330 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Thu Apr 12 06:38:34 +0000 2018",
+		"id": 984319847524917200,
+		"id_str": "984319847524917248",
+		"text": "Yep, @EffinBirds is een van de beste breaks in je tijdlijn! https://t.co/uZ4gqTOhpQ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EffinBirds",
+					"name": "Effin' Birds",
+					"id": 866426699193491500,
+					"id_str": "866426699193491459",
+					"indices": [
+						5,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/uZ4gqTOhpQ",
+					"expanded_url": "https://twitter.com/CainCZ/status/984201415533920257",
+					"display_url": "twitter.com/CainCZ/status/…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9175,
+			"friends_count": 1998,
+			"listed_count": 605,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3915,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60965,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1520723563",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 984201415533920300,
+		"quoted_status_id_str": "984201415533920257",
+		"quoted_status": {
+			"created_at": "Wed Apr 11 22:47:57 +0000 2018",
+			"id": 984201415533920300,
+			"id_str": "984201415533920257",
+			"text": "The best thing that happened to me today @VGFGamers @EffinBirds @corybarlog https://t.co/Gu1F21vs7n",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "VGFGamers",
+						"name": "Gaming Humor & News",
+						"id": 784892570,
+						"id_str": "784892570",
+						"indices": [
+							41,
+							51
+						]
+					},
+					{
+						"screen_name": "EffinBirds",
+						"name": "Effin' Birds",
+						"id": 866426699193491500,
+						"id_str": "866426699193491459",
+						"indices": [
+							52,
+							63
+						]
+					},
+					{
+						"screen_name": "corybarlog",
+						"name": "Cory Barlog 🕹️",
+						"id": 161199620,
+						"id_str": "161199620",
+						"indices": [
+							64,
+							75
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 984201368268353500,
+						"id_str": "984201368268353536",
+						"indices": [
+							76,
+							99
+						],
+						"media_url": "http://pbs.twimg.com/media/DaiV7g8WsAAFzFI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DaiV7g8WsAAFzFI.jpg",
+						"url": "https://t.co/Gu1F21vs7n",
+						"display_url": "pic.twitter.com/Gu1F21vs7n",
+						"expanded_url": "https://twitter.com/CainCZ/status/984201415533920257/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 602,
+								"h": 616,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 602,
+								"h": 616,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 602,
+								"h": 616,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 984201368268353500,
+						"id_str": "984201368268353536",
+						"indices": [
+							76,
+							99
+						],
+						"media_url": "http://pbs.twimg.com/media/DaiV7g8WsAAFzFI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DaiV7g8WsAAFzFI.jpg",
+						"url": "https://t.co/Gu1F21vs7n",
+						"display_url": "pic.twitter.com/Gu1F21vs7n",
+						"expanded_url": "https://twitter.com/CainCZ/status/984201415533920257/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 602,
+								"h": 616,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 602,
+								"h": 616,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 602,
+								"h": 616,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 121342337,
+				"id_str": "121342337",
+				"name": "Pavel Makal",
+				"screen_name": "CainCZ",
+				"location": "Praha, Česká republika",
+				"description": "Rádobyvtipný herní kat v redakci Hrej.cz, zlý člověk s názorem na všechno, milovník populární kultury a cigaret.",
+				"url": "https://t.co/JohUS0iewA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JohUS0iewA",
+								"expanded_url": "http://www.hrej.cz",
+								"display_url": "hrej.cz",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 835,
+				"friends_count": 187,
+				"listed_count": 9,
+				"created_at": "Tue Mar 09 05:59:38 +0000 2010",
+				"favourites_count": 518,
+				"utc_offset": 7200,
+				"time_zone": "Prague",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1555,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/768512523398152192/POMiHCSX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/768512523398152192/POMiHCSX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/121342337/1483519761",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 96,
+			"favorite_count": 496,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Wed Apr 11 18:44:02 +0000 2018",
 		"id": 984140030452092900,
 		"id_str": "984140030452092929",
