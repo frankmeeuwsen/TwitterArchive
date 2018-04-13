@@ -1,6 +1,611 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Fri Apr 13 16:07:14 +0000 2018",
+		"id": 984825345772851200,
+		"id_str": "984825345772851200",
+		"text": "@gonniespijkstra @youdid @roosvanvugt @annikavisser @WouterBlok @ronvrn @EwoutWolff @bramkoster @SuzannevTriest… https://t.co/9LAsN30hr3",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gonniespijkstra",
+					"name": "Gonnie Spijkstra",
+					"id": 7677082,
+					"id_str": "7677082",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "youdid",
+					"name": "Judith",
+					"id": 12561762,
+					"id_str": "12561762",
+					"indices": [
+						17,
+						24
+					]
+				},
+				{
+					"screen_name": "roosvanvugt",
+					"name": "Roos van Vugt",
+					"id": 21687228,
+					"id_str": "21687228",
+					"indices": [
+						25,
+						37
+					]
+				},
+				{
+					"screen_name": "annikavisser",
+					"name": "annika visser",
+					"id": 182800113,
+					"id_str": "182800113",
+					"indices": [
+						38,
+						51
+					]
+				},
+				{
+					"screen_name": "WouterBlok",
+					"name": "Wouter Blok",
+					"id": 9800112,
+					"id_str": "9800112",
+					"indices": [
+						52,
+						63
+					]
+				},
+				{
+					"screen_name": "ronvrn",
+					"name": "Ronald Voorn",
+					"id": 246830361,
+					"id_str": "246830361",
+					"indices": [
+						64,
+						71
+					]
+				},
+				{
+					"screen_name": "EwoutWolff",
+					"name": "Ewout Wolff",
+					"id": 7263402,
+					"id_str": "7263402",
+					"indices": [
+						72,
+						83
+					]
+				},
+				{
+					"screen_name": "bramkoster",
+					"name": "Bram Koster",
+					"id": 6893682,
+					"id_str": "6893682",
+					"indices": [
+						84,
+						95
+					]
+				},
+				{
+					"screen_name": "SuzannevTriest",
+					"name": "Suzanne van Triest",
+					"id": 23950846,
+					"id_str": "23950846",
+					"indices": [
+						96,
+						111
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9LAsN30hr3",
+					"expanded_url": "https://twitter.com/i/web/status/984825345772851200",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 984821968921915400,
+		"in_reply_to_status_id_str": "984821968921915392",
+		"in_reply_to_user_id": 7677082,
+		"in_reply_to_user_id_str": "7677082",
+		"in_reply_to_screen_name": "gonniespijkstra",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9178,
+			"friends_count": 1998,
+			"listed_count": 605,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3919,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60763,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1520723563",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl"
+	},
+	{
+		"created_at": "Fri Apr 13 15:49:49 +0000 2018",
+		"id": 984820963689852900,
+		"id_str": "984820963689852928",
+		"text": "RT @timothyanne: Wakandan Airlines Flight 420 to Stankonia. Arriving Soon from @jperiodBK.\n\n#WakandaForeverEver https://t.co/FlygAAufV7",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WakandaForeverEver",
+					"indices": [
+						92,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "timothyanne",
+					"name": "timothy anne burnside",
+					"id": 24040301,
+					"id_str": "24040301",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "jperiodBK",
+					"name": "J.PERIOD",
+					"id": 20576088,
+					"id_str": "20576088",
+					"indices": [
+						79,
+						89
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 984815097607405600,
+					"id_str": "984815097607405568",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/DarEHQ5UwAA5wHF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DarEHQ5UwAA5wHF.jpg",
+					"url": "https://t.co/FlygAAufV7",
+					"display_url": "pic.twitter.com/FlygAAufV7",
+					"expanded_url": "https://twitter.com/timothyanne/status/984815101940125696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 585,
+							"h": 586,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 585,
+							"h": 586,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 585,
+							"h": 586,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 984815101940125700,
+					"source_status_id_str": "984815101940125696",
+					"source_user_id": 24040301,
+					"source_user_id_str": "24040301"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 984815097607405600,
+					"id_str": "984815097607405568",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/DarEHQ5UwAA5wHF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DarEHQ5UwAA5wHF.jpg",
+					"url": "https://t.co/FlygAAufV7",
+					"display_url": "pic.twitter.com/FlygAAufV7",
+					"expanded_url": "https://twitter.com/timothyanne/status/984815101940125696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 585,
+							"h": 586,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 585,
+							"h": 586,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 585,
+							"h": 586,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 984815101940125700,
+					"source_status_id_str": "984815101940125696",
+					"source_user_id": 24040301,
+					"source_user_id_str": "24040301"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9178,
+			"friends_count": 1998,
+			"listed_count": 605,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3919,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60763,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1520723563",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Apr 13 15:26:31 +0000 2018",
+			"id": 984815101940125700,
+			"id_str": "984815101940125696",
+			"text": "Wakandan Airlines Flight 420 to Stankonia. Arriving Soon from @jperiodBK.\n\n#WakandaForeverEver https://t.co/FlygAAufV7",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "WakandaForeverEver",
+						"indices": [
+							75,
+							94
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "jperiodBK",
+						"name": "J.PERIOD",
+						"id": 20576088,
+						"id_str": "20576088",
+						"indices": [
+							62,
+							72
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 984815097607405600,
+						"id_str": "984815097607405568",
+						"indices": [
+							95,
+							118
+						],
+						"media_url": "http://pbs.twimg.com/media/DarEHQ5UwAA5wHF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DarEHQ5UwAA5wHF.jpg",
+						"url": "https://t.co/FlygAAufV7",
+						"display_url": "pic.twitter.com/FlygAAufV7",
+						"expanded_url": "https://twitter.com/timothyanne/status/984815101940125696/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 585,
+								"h": 586,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 585,
+								"h": 586,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 585,
+								"h": 586,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 984815097607405600,
+						"id_str": "984815097607405568",
+						"indices": [
+							95,
+							118
+						],
+						"media_url": "http://pbs.twimg.com/media/DarEHQ5UwAA5wHF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DarEHQ5UwAA5wHF.jpg",
+						"url": "https://t.co/FlygAAufV7",
+						"display_url": "pic.twitter.com/FlygAAufV7",
+						"expanded_url": "https://twitter.com/timothyanne/status/984815101940125696/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 585,
+								"h": 586,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 585,
+								"h": 586,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 585,
+								"h": 586,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 24040301,
+				"id_str": "24040301",
+				"name": "timothy anne burnside",
+				"screen_name": "timothyanne",
+				"location": "DC",
+				"description": "@smithsonian @nmaahc | museum adventures | music | contemporary cultural history | resistance | tweets are my own | opinions are my own",
+				"url": "https://t.co/Lu3k3aozmn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Lu3k3aozmn",
+								"expanded_url": "http://timothyanne.com",
+								"display_url": "timothyanne.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3564,
+				"friends_count": 2921,
+				"listed_count": 79,
+				"created_at": "Thu Mar 12 21:18:48 +0000 2009",
+				"favourites_count": 27504,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12134,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ABB8C2",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/603968039793524736/SdVXwRyg.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/603968039793524736/SdVXwRyg.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/940429520091435008/kpDnGd8h_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/940429520091435008/kpDnGd8h_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/24040301/1520540897",
+				"profile_link_color": "0C090A",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 49,
+			"favorite_count": 134,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 49,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Apr 13 14:20:26 +0000 2018",
 		"id": 984798470405058600,
 		"id_str": "984798470405058560",
