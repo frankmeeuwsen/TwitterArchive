@@ -1,6 +1,1026 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Sat Apr 14 13:48:48 +0000 2018",
+		"id": 985152896013660200,
+		"id_str": "985152896013660165",
+		"text": "RT @brodnig: Tipp: Hier wird extrem gut erklärt, wie Facebook-Werbung funktioniert (via @AngelaELL) https://t.co/A59vvcbGml",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "brodnig",
+					"name": "Ingrid Brodnig",
+					"id": 16130553,
+					"id_str": "16130553",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "AngelaELL",
+					"name": "Angela Phillips",
+					"id": 85796188,
+					"id_str": "85796188",
+					"indices": [
+						88,
+						98
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/A59vvcbGml",
+					"expanded_url": "https://twitter.com/vicenews/status/984803338779856896",
+					"display_url": "twitter.com/vicenews/statu…",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9176,
+			"friends_count": 1997,
+			"listed_count": 605,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3926,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60771,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1520723563",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Apr 14 06:08:13 +0000 2018",
+			"id": 985036988406534100,
+			"id_str": "985036988406534144",
+			"text": "Tipp: Hier wird extrem gut erklärt, wie Facebook-Werbung funktioniert (via @AngelaELL) https://t.co/A59vvcbGml",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "AngelaELL",
+						"name": "Angela Phillips",
+						"id": 85796188,
+						"id_str": "85796188",
+						"indices": [
+							75,
+							85
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/A59vvcbGml",
+						"expanded_url": "https://twitter.com/vicenews/status/984803338779856896",
+						"display_url": "twitter.com/vicenews/statu…",
+						"indices": [
+							87,
+							110
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16130553,
+				"id_str": "16130553",
+				"name": "Ingrid Brodnig",
+				"screen_name": "brodnig",
+				"location": "Vienna, Austria",
+				"description": "Journalistin & Autorin | Austria's Digital Champion for the European Commission | Buch: https://t.co/Gz9b14Fzos",
+				"url": "https://t.co/ReJ93SMurx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ReJ93SMurx",
+								"expanded_url": "http://brodnig.org/",
+								"display_url": "brodnig.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Gz9b14Fzos",
+								"expanded_url": "https://www.brandstaetterverlag.com/buch/hass-im-netz",
+								"display_url": "brandstaetterverlag.com/buch/hass-im-n…",
+								"indices": [
+									88,
+									111
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 35505,
+				"friends_count": 1164,
+				"listed_count": 617,
+				"created_at": "Thu Sep 04 15:51:46 +0000 2008",
+				"favourites_count": 13287,
+				"utc_offset": 7200,
+				"time_zone": "Vienna",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 14278,
+				"lang": "de",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "242113",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/33151118/checking_mail_1280.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/33151118/checking_mail_1280.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/453827273917861888/ZXrhR7ow_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/453827273917861888/ZXrhR7ow_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16130553/1403172631",
+				"profile_link_color": "218A8C",
+				"profile_sidebar_border_color": "A37D6D",
+				"profile_sidebar_fill_color": "C7BEA5",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 984803338779856900,
+			"quoted_status_id_str": "984803338779856896",
+			"quoted_status": {
+				"created_at": "Fri Apr 13 14:39:47 +0000 2018",
+				"id": 984803338779856900,
+				"id_str": "984803338779856896",
+				"text": "This is why your Facebook ads are creepy as hell https://t.co/JfuzVKODea",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 984801120454357000,
+							"id_str": "984801120454356993",
+							"indices": [
+								49,
+								72
+							],
+							"media_url": "http://pbs.twimg.com/media/Daq5YN2WsAAYR3i.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/Daq5YN2WsAAYR3i.jpg",
+							"url": "https://t.co/JfuzVKODea",
+							"display_url": "pic.twitter.com/JfuzVKODea",
+							"expanded_url": "https://twitter.com/vicenews/status/984803338779856896/video/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 680,
+									"h": 680,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 720,
+									"h": 720,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 720,
+									"h": 720,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 984801120454357000,
+							"id_str": "984801120454356993",
+							"indices": [
+								49,
+								72
+							],
+							"media_url": "http://pbs.twimg.com/media/Daq5YN2WsAAYR3i.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/Daq5YN2WsAAYR3i.jpg",
+							"url": "https://t.co/JfuzVKODea",
+							"display_url": "pic.twitter.com/JfuzVKODea",
+							"expanded_url": "https://twitter.com/vicenews/status/984803338779856896/video/1",
+							"type": "video",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 680,
+									"h": 680,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 720,
+									"h": 720,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 720,
+									"h": 720,
+									"resize": "fit"
+								}
+							},
+							"video_info": {
+								"aspect_ratio": [
+									1,
+									1
+								],
+								"duration_millis": 433333,
+								"variants": [
+									{
+										"bitrate": 320000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/amplify_video/984801120454356993/vid/240x240/r1KGWLVskRk-cwhJ.mp4"
+									},
+									{
+										"bitrate": 1280000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/amplify_video/984801120454356993/vid/720x720/FNrojO17zV7pyAea.mp4"
+									},
+									{
+										"bitrate": 832000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/amplify_video/984801120454356993/vid/480x480/vUFtkY1me01XMgCg.mp4"
+									},
+									{
+										"content_type": "application/x-mpegURL",
+										"url": "https://video.twimg.com/amplify_video/984801120454356993/pl/OBohTqQPpNYFDuET.m3u8"
+									}
+								]
+							},
+							"additional_media_info": {
+								"title": "What You Need To Know About The Hidden Ways Facebook Ads Target You",
+								"description": "",
+								"embeddable": true,
+								"monetizable": false
+							}
+						}
+					]
+				},
+				"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 1630896181,
+					"id_str": "1630896181",
+					"name": "VICE News",
+					"screen_name": "vicenews",
+					"location": "",
+					"description": "VICE News Tonight airs Mon-Friday 7:30PM on @HBO /  #VICEonHBO airs Fridays 7:30PM and 11PM /  SecureDrop: https://t.co/LvQqtezbzu",
+					"url": "https://t.co/gQt6G8Mm5K",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/gQt6G8Mm5K",
+									"expanded_url": "http://www.vicenews.com",
+									"display_url": "vicenews.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": [
+								{
+									"url": "https://t.co/LvQqtezbzu",
+									"expanded_url": "https://news.vice.com/securedrop/",
+									"display_url": "news.vice.com/securedrop/",
+									"indices": [
+										107,
+										130
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 890816,
+					"friends_count": 642,
+					"listed_count": 10835,
+					"created_at": "Mon Jul 29 17:40:09 +0000 2013",
+					"favourites_count": 2825,
+					"utc_offset": -14400,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 77891,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000153810759/unteXmks.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000153810759/unteXmks.jpeg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/785208513177985024/Guc3ohmz_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/785208513177985024/Guc3ohmz_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/1630896181/1478800860",
+					"profile_link_color": "000000",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "regular"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 742,
+				"favorite_count": 1130,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 92,
+			"favorite_count": 130,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 984803338779856900,
+		"quoted_status_id_str": "984803338779856896",
+		"retweet_count": 92,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de"
+	},
+	{
+		"created_at": "Sat Apr 14 13:46:50 +0000 2018",
+		"id": 985152400234369000,
+		"id_str": "985152400234369025",
+		"text": "RT @GerBaron: Hoezo een link naar Facebook en niet naar minaz? https://t.co/96v4lbY6Fa",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GerBaron",
+					"name": "Ger",
+					"id": 17898705,
+					"id_str": "17898705",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/96v4lbY6Fa",
+					"expanded_url": "https://twitter.com/MinPres/status/985020995147845632",
+					"display_url": "twitter.com/MinPres/status…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9176,
+			"friends_count": 1997,
+			"listed_count": 605,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3926,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60771,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1520723563",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Apr 14 05:19:43 +0000 2018",
+			"id": 985024781853569000,
+			"id_str": "985024781853569024",
+			"text": "Hoezo een link naar Facebook en niet naar minaz? https://t.co/96v4lbY6Fa",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/96v4lbY6Fa",
+						"expanded_url": "https://twitter.com/MinPres/status/985020995147845632",
+						"display_url": "twitter.com/MinPres/status…",
+						"indices": [
+							49,
+							72
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17898705,
+				"id_str": "17898705",
+				"name": "Ger",
+				"screen_name": "GerBaron",
+				"location": "Amsterdam",
+				"description": "Part of the Internet of Things, City CTO, Frysk in Amsterdam.nl.",
+				"url": "https://t.co/5QT0bXscbL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5QT0bXscbL",
+								"expanded_url": "http://www.Iamsterdam.com",
+								"display_url": "Iamsterdam.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6060,
+				"friends_count": 4507,
+				"listed_count": 676,
+				"created_at": "Fri Dec 05 15:02:52 +0000 2008",
+				"favourites_count": 27368,
+				"utc_offset": -7200,
+				"time_zone": "Greenland",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 107543,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/556901489923211264/FqDa-8me.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/556901489923211264/FqDa-8me.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/910247365247893505/dRrMPVa9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/910247365247893505/dRrMPVa9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17898705/1457471956",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 985020995147845600,
+			"quoted_status_id_str": "985020995147845632",
+			"quoted_status": {
+				"created_at": "Sat Apr 14 05:04:40 +0000 2018",
+				"id": 985020995147845600,
+				"id_str": "985020995147845632",
+				"text": "Het kabinet heeft begrip voor de reactie van VS en anderen vanwege aanval in Douma die waarschijnlijk duidt op gifg… https://t.co/a4x1GDZL4e",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/a4x1GDZL4e",
+							"expanded_url": "https://twitter.com/i/web/status/985020995147845632",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 155507136,
+					"id_str": "155507136",
+					"name": "Mark Rutte",
+					"screen_name": "MinPres",
+					"location": "Nederland",
+					"description": "Minister-president van Nederland – Redactie door de Rijksvoorlichtingsdienst.",
+					"url": "https://t.co/0FOfzD7KCb",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/0FOfzD7KCb",
+									"expanded_url": "http://www.rijksoverheid.nl/regering",
+									"display_url": "rijksoverheid.nl/regering",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 971468,
+					"friends_count": 0,
+					"listed_count": 2982,
+					"created_at": "Mon Jun 14 09:40:54 +0000 2010",
+					"favourites_count": 7,
+					"utc_offset": 7200,
+					"time_zone": "Amsterdam",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 2722,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "79A9CD",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/165662497/RYK-twitter_bg.png",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/165662497/RYK-twitter_bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/923445918388678656/szo3bqHs_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/923445918388678656/szo3bqHs_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/155507136/1509013398",
+					"profile_link_color": "154373",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "F3F5F6",
+					"profile_text_color": "000000",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 71,
+				"favorite_count": 178,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "nl"
+			},
+			"retweet_count": 67,
+			"favorite_count": 142,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 985020995147845600,
+		"quoted_status_id_str": "985020995147845632",
+		"retweet_count": 67,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
+		"created_at": "Sat Apr 14 13:46:11 +0000 2018",
+		"id": 985152239231819800,
+		"id_str": "985152239231819781",
+		"text": "Ik heb een txtfile met ISBN nummers van boeken. Heeft iemand ervaring hoe ik die snel online te koop kan aanbieden… https://t.co/9QMcWViAAV",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9QMcWViAAV",
+					"expanded_url": "https://twitter.com/i/web/status/985152239231819781",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9176,
+			"friends_count": 1997,
+			"listed_count": 605,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3926,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60771,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1520723563",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl"
+	},
+	{
+		"created_at": "Sat Apr 14 13:34:44 +0000 2018",
+		"id": 985149355790348300,
+		"id_str": "985149355790348288",
+		"text": "Internethistorie terugvinden is altijd 💯💯💯\nJaargangen Wave magazine uit de jaren '90. De Wired van de Lage Landen.… https://t.co/33ksD04Fb4",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/33ksD04Fb4",
+					"expanded_url": "https://twitter.com/i/web/status/985149355790348288",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9176,
+			"friends_count": 1997,
+			"listed_count": 605,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3926,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60771,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1520723563",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Fri Apr 13 21:06:19 +0000 2018",
 		"id": 984900615405961200,
 		"id_str": "984900615405961216",
