@@ -1,6 +1,373 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Sun Apr 15 15:20:59 +0000 2018",
+		"id": 985538484055281700,
+		"id_str": "985538484055281664",
+		"text": "RT @MatthewACherry: Twitter is amazing sometimes https://t.co/F7Zyumr4fi",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MatthewACherry",
+					"name": "Matthew A. Cherry",
+					"id": 27384718,
+					"id_str": "27384718",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 984963079279542300,
+					"id_str": "984963079279542272",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/DatKs7lVAAAHaVw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DatKs7lVAAAHaVw.jpg",
+					"url": "https://t.co/F7Zyumr4fi",
+					"display_url": "pic.twitter.com/F7Zyumr4fi",
+					"expanded_url": "https://twitter.com/MatthewACherry/status/984963087257260032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 680,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 680,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 452,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 984963087257260000,
+					"source_status_id_str": "984963087257260032",
+					"source_user_id": 27384718,
+					"source_user_id_str": "27384718"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 984963079279542300,
+					"id_str": "984963079279542272",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/DatKs7lVAAAHaVw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DatKs7lVAAAHaVw.jpg",
+					"url": "https://t.co/F7Zyumr4fi",
+					"display_url": "pic.twitter.com/F7Zyumr4fi",
+					"expanded_url": "https://twitter.com/MatthewACherry/status/984963087257260032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 680,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 680,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 452,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 984963087257260000,
+					"source_status_id_str": "984963087257260032",
+					"source_user_id": 27384718,
+					"source_user_id_str": "27384718"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9178,
+			"friends_count": 2001,
+			"listed_count": 605,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3931,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60780,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1520723563",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Apr 14 01:14:34 +0000 2018",
+			"id": 984963087257260000,
+			"id_str": "984963087257260032",
+			"text": "Twitter is amazing sometimes https://t.co/F7Zyumr4fi",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 984963079279542300,
+						"id_str": "984963079279542272",
+						"indices": [
+							29,
+							52
+						],
+						"media_url": "http://pbs.twimg.com/media/DatKs7lVAAAHaVw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DatKs7lVAAAHaVw.jpg",
+						"url": "https://t.co/F7Zyumr4fi",
+						"display_url": "pic.twitter.com/F7Zyumr4fi",
+						"expanded_url": "https://twitter.com/MatthewACherry/status/984963087257260032/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 680,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 680,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 452,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 984963079279542300,
+						"id_str": "984963079279542272",
+						"indices": [
+							29,
+							52
+						],
+						"media_url": "http://pbs.twimg.com/media/DatKs7lVAAAHaVw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DatKs7lVAAAHaVw.jpg",
+						"url": "https://t.co/F7Zyumr4fi",
+						"display_url": "pic.twitter.com/F7Zyumr4fi",
+						"expanded_url": "https://twitter.com/MatthewACherry/status/984963087257260032/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 680,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 680,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 452,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 27384718,
+				"id_str": "27384718",
+				"name": "Matthew A. Cherry",
+				"screen_name": "MatthewACherry",
+				"location": "Wakanda Junipero",
+				"description": "Filmmaker | NFL Alum | Gif Connoisseur | Credits: The Last Fall, 9Rides, Hair Love | @MonkeyPaw Productions TV & Film Exec",
+				"url": "https://t.co/ZS1UnAGq5J",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ZS1UnAGq5J",
+								"expanded_url": "http://www.matthewacherry.com/",
+								"display_url": "matthewacherry.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 98838,
+				"friends_count": 9117,
+				"listed_count": 2085,
+				"created_at": "Sun Mar 29 05:09:42 +0000 2009",
+				"favourites_count": 72794,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 150560,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000115460666/ca30487130a9660a237c0860e50e48ef.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000115460666/ca30487130a9660a237c0860e50e48ef.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/859464069912424448/xJA69oH6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/859464069912424448/xJA69oH6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/27384718/1523374839",
+				"profile_link_color": "57A8FF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F0F0F0",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2198,
+			"favorite_count": 9624,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2198,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Apr 15 13:13:39 +0000 2018",
 		"id": 985506439123931100,
 		"id_str": "985506439123931136",
