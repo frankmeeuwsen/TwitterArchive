@@ -1,6 +1,654 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Sun Apr 15 06:33:27 +0000 2018",
+		"id": 985405727249453000,
+		"id_str": "985405727249453056",
+		"text": "RT @MattNavarra: Anti-social neon signs \n\nCredit: https://t.co/UhBG09cGyw https://t.co/uprRTAznt6",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MattNavarra",
+					"name": "Matt Navarra",
+					"id": 16211566,
+					"id_str": "16211566",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UhBG09cGyw",
+					"expanded_url": "https://www.behance.net/gallery/61878925/ANTISOCIAL",
+					"display_url": "behance.net/gallery/618789…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 985194348869554200,
+					"id_str": "985194348869554178",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/DawdCl8XkAIFA91.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DawdCl8XkAIFA91.jpg",
+					"url": "https://t.co/uprRTAznt6",
+					"display_url": "pic.twitter.com/uprRTAznt6",
+					"expanded_url": "https://twitter.com/MattNavarra/status/985194354716356609/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 580,
+							"h": 580,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 580,
+							"h": 580,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 580,
+							"h": 580,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 985194354716356600,
+					"source_status_id_str": "985194354716356609",
+					"source_user_id": 16211566,
+					"source_user_id_str": "16211566"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 985194348869554200,
+					"id_str": "985194348869554178",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/DawdCl8XkAIFA91.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DawdCl8XkAIFA91.jpg",
+					"url": "https://t.co/uprRTAznt6",
+					"display_url": "pic.twitter.com/uprRTAznt6",
+					"expanded_url": "https://twitter.com/MattNavarra/status/985194354716356609/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 580,
+							"h": 580,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 580,
+							"h": 580,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 580,
+							"h": 580,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 985194354716356600,
+					"source_status_id_str": "985194354716356609",
+					"source_user_id": 16211566,
+					"source_user_id_str": "16211566"
+				},
+				{
+					"id": 985194348903129100,
+					"id_str": "985194348903129088",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/DawdCmEX4AAOcXe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DawdCmEX4AAOcXe.jpg",
+					"url": "https://t.co/uprRTAznt6",
+					"display_url": "pic.twitter.com/uprRTAznt6",
+					"expanded_url": "https://twitter.com/MattNavarra/status/985194354716356609/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 422,
+							"h": 422,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 422,
+							"h": 422,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 422,
+							"h": 422,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 985194354716356600,
+					"source_status_id_str": "985194354716356609",
+					"source_user_id": 16211566,
+					"source_user_id_str": "16211566"
+				},
+				{
+					"id": 985194348873748500,
+					"id_str": "985194348873748486",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/DawdCl9XkAYdQhB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DawdCl9XkAYdQhB.jpg",
+					"url": "https://t.co/uprRTAznt6",
+					"display_url": "pic.twitter.com/uprRTAznt6",
+					"expanded_url": "https://twitter.com/MattNavarra/status/985194354716356609/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 536,
+							"h": 536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 536,
+							"h": 536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 536,
+							"h": 536,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 985194354716356600,
+					"source_status_id_str": "985194354716356609",
+					"source_user_id": 16211566,
+					"source_user_id_str": "16211566"
+				},
+				{
+					"id": 985194348986949600,
+					"id_str": "985194348986949633",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/DawdCmYW4AEhjox.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DawdCmYW4AEhjox.jpg",
+					"url": "https://t.co/uprRTAznt6",
+					"display_url": "pic.twitter.com/uprRTAznt6",
+					"expanded_url": "https://twitter.com/MattNavarra/status/985194354716356609/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 559,
+							"h": 559,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 559,
+							"h": 559,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 559,
+							"h": 559,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 985194354716356600,
+					"source_status_id_str": "985194354716356609",
+					"source_user_id": 16211566,
+					"source_user_id_str": "16211566"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9177,
+			"friends_count": 2000,
+			"listed_count": 605,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3928,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60776,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1520723563",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Apr 14 16:33:32 +0000 2018",
+			"id": 985194354716356600,
+			"id_str": "985194354716356609",
+			"text": "Anti-social neon signs \n\nCredit: https://t.co/UhBG09cGyw https://t.co/uprRTAznt6",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/UhBG09cGyw",
+						"expanded_url": "https://www.behance.net/gallery/61878925/ANTISOCIAL",
+						"display_url": "behance.net/gallery/618789…",
+						"indices": [
+							33,
+							56
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 985194348869554200,
+						"id_str": "985194348869554178",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/media/DawdCl8XkAIFA91.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DawdCl8XkAIFA91.jpg",
+						"url": "https://t.co/uprRTAznt6",
+						"display_url": "pic.twitter.com/uprRTAznt6",
+						"expanded_url": "https://twitter.com/MattNavarra/status/985194354716356609/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 580,
+								"h": 580,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 580,
+								"h": 580,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 580,
+								"h": 580,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 985194348869554200,
+						"id_str": "985194348869554178",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/media/DawdCl8XkAIFA91.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DawdCl8XkAIFA91.jpg",
+						"url": "https://t.co/uprRTAznt6",
+						"display_url": "pic.twitter.com/uprRTAznt6",
+						"expanded_url": "https://twitter.com/MattNavarra/status/985194354716356609/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 580,
+								"h": 580,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 580,
+								"h": 580,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 580,
+								"h": 580,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 985194348903129100,
+						"id_str": "985194348903129088",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/media/DawdCmEX4AAOcXe.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DawdCmEX4AAOcXe.jpg",
+						"url": "https://t.co/uprRTAznt6",
+						"display_url": "pic.twitter.com/uprRTAznt6",
+						"expanded_url": "https://twitter.com/MattNavarra/status/985194354716356609/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 422,
+								"h": 422,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 422,
+								"h": 422,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 422,
+								"h": 422,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 985194348873748500,
+						"id_str": "985194348873748486",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/media/DawdCl9XkAYdQhB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DawdCl9XkAYdQhB.jpg",
+						"url": "https://t.co/uprRTAznt6",
+						"display_url": "pic.twitter.com/uprRTAznt6",
+						"expanded_url": "https://twitter.com/MattNavarra/status/985194354716356609/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 536,
+								"h": 536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 536,
+								"h": 536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 536,
+								"h": 536,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 985194348986949600,
+						"id_str": "985194348986949633",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/media/DawdCmYW4AEhjox.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DawdCmYW4AEhjox.jpg",
+						"url": "https://t.co/uprRTAznt6",
+						"display_url": "pic.twitter.com/uprRTAznt6",
+						"expanded_url": "https://twitter.com/MattNavarra/status/985194354716356609/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 559,
+								"h": 559,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 559,
+								"h": 559,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 559,
+								"h": 559,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16211566,
+				"id_str": "16211566",
+				"name": "Matt Navarra",
+				"screen_name": "MattNavarra",
+				"location": "Cardiff, UK",
+				"description": "Director of Social Media for @TheNextWeb | Ex-UK government digital comms | Facebook pest | *Available for freelance social media consulting work from MAY 7th*",
+				"url": "https://t.co/tgWtq0I7qP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/tgWtq0I7qP",
+								"expanded_url": "https://www.linkedin.com/in/mattnavarra",
+								"display_url": "linkedin.com/in/mattnavarra",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 28228,
+				"friends_count": 3460,
+				"listed_count": 1724,
+				"created_at": "Tue Sep 09 21:25:05 +0000 2008",
+				"favourites_count": 81566,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 85667,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/461445103488212993/OJmbFfgR.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/461445103488212993/OJmbFfgR.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/967424559594000387/5ol7mjCu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/967424559594000387/5ol7mjCu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16211566/1523724104",
+				"profile_link_color": "2200CC",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "171106",
+				"profile_text_color": "473623",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "1981dc44d58103b8",
+				"url": "https://api.twitter.com/1.1/geo/id/1981dc44d58103b8.json",
+				"place_type": "city",
+				"name": "Penarth",
+				"full_name": "Penarth, Wales",
+				"country_code": "GB",
+				"country": "United Kingdom",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-3.207316,
+								51.41538
+							],
+							[
+								-3.164369,
+								51.41538
+							],
+							[
+								-3.164369,
+								51.456395
+							],
+							[
+								-3.207316,
+								51.456395
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 41,
+			"favorite_count": 70,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 41,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Apr 14 20:40:42 +0000 2018",
 		"id": 985256552700444700,
 		"id_str": "985256552700444672",
