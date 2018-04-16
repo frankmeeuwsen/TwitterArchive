@@ -1,6 +1,602 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Mon Apr 16 11:15:50 +0000 2018",
+		"id": 985839178884829200,
+		"id_str": "985839178884829184",
+		"text": "RT @matthewhughes: .@TheNextWeb is looking for a freelance reporter (preferably within Syria) to write a piece about the Syrian tech startu…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "matthewhughes",
+					"name": "Matthew Hughes",
+					"id": 1735258999,
+					"id_str": "1735258999",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "TheNextWeb",
+					"name": "TNW",
+					"id": 10876852,
+					"id_str": "10876852",
+					"indices": [
+						20,
+						31
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9177,
+			"friends_count": 2004,
+			"listed_count": 605,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3933,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60782,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1520723563",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Apr 16 10:05:13 +0000 2018",
+			"id": 985821406318551000,
+			"id_str": "985821406318551040",
+			"text": ".@TheNextWeb is looking for a freelance reporter (preferably within Syria) to write a piece about the Syrian tech s… https://t.co/S9OKYBTASz",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "TheNextWeb",
+						"name": "TNW",
+						"id": 10876852,
+						"id_str": "10876852",
+						"indices": [
+							1,
+							12
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/S9OKYBTASz",
+						"expanded_url": "https://twitter.com/i/web/status/985821406318551040",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1735258999,
+				"id_str": "1735258999",
+				"name": "Matthew Hughes",
+				"screen_name": "matthewhughes",
+				"location": "Liverpool",
+				"description": "Technology reporter @thenextweb. Lovable bearded northerner. Software developer. Burger enthusiast. Lib Dem. Email me at matthughes@thenextweb.com",
+				"url": "http://t.co/3ZjtsMJ18g",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/3ZjtsMJ18g",
+								"expanded_url": "http://matthewhughes.co.uk",
+								"display_url": "matthewhughes.co.uk",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4537,
+				"friends_count": 1425,
+				"listed_count": 181,
+				"created_at": "Fri Sep 06 14:06:10 +0000 2013",
+				"favourites_count": 6343,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 19774,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/983465979438075904/u0K7shi9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/983465979438075904/u0K7shi9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1735258999/1440942289",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 27,
+			"favorite_count": 18,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Apr 16 11:15:32 +0000 2018",
+		"id": 985839103492141000,
+		"id_str": "985839103492141061",
+		"text": "The return of Dutch Twitter-folklore... #harderbetterfasterstronker /cc @jaapstronks @Marjolijn @erwblo @Markies e.… https://t.co/RPPcDP22Pl",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "harderbetterfasterstronker",
+					"indices": [
+						40,
+						67
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jaapstronks",
+					"name": "Jaap Stronks",
+					"id": 1605791,
+					"id_str": "1605791",
+					"indices": [
+						72,
+						84
+					]
+				},
+				{
+					"screen_name": "Marjolijn",
+					"name": "Marjolijn",
+					"id": 1610571,
+					"id_str": "1610571",
+					"indices": [
+						85,
+						95
+					]
+				},
+				{
+					"screen_name": "erwblo",
+					"name": "erwin blom",
+					"id": 713333,
+					"id_str": "713333",
+					"indices": [
+						96,
+						103
+					]
+				},
+				{
+					"screen_name": "Markies",
+					"name": "Mark de Kock",
+					"id": 1858541,
+					"id_str": "1858541",
+					"indices": [
+						104,
+						112
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RPPcDP22Pl",
+					"expanded_url": "https://twitter.com/i/web/status/985839103492141061",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9177,
+			"friends_count": 2004,
+			"listed_count": 605,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3933,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60782,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1520723563",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 985833836025139200,
+		"quoted_status_id_str": "985833836025139200",
+		"quoted_status": {
+			"created_at": "Mon Apr 16 10:54:37 +0000 2018",
+			"id": 985833836025139200,
+			"id_str": "985833836025139200",
+			"text": "Which of these business names do you think is best? https://t.co/txGLe6KEEU",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 985833790672130000,
+						"id_str": "985833790672130049",
+						"indices": [
+							52,
+							75
+						],
+						"media_url": "http://pbs.twimg.com/media/Da5inASW0AEEagf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Da5inASW0AEEagf.jpg",
+						"url": "https://t.co/txGLe6KEEU",
+						"display_url": "pic.twitter.com/txGLe6KEEU",
+						"expanded_url": "https://twitter.com/MattNavarra/status/985833836025139200/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 444,
+								"h": 254,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 444,
+								"h": 254,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 444,
+								"h": 254,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 985833790672130000,
+						"id_str": "985833790672130049",
+						"indices": [
+							52,
+							75
+						],
+						"media_url": "http://pbs.twimg.com/media/Da5inASW0AEEagf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Da5inASW0AEEagf.jpg",
+						"url": "https://t.co/txGLe6KEEU",
+						"display_url": "pic.twitter.com/txGLe6KEEU",
+						"expanded_url": "https://twitter.com/MattNavarra/status/985833836025139200/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 444,
+								"h": 254,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 444,
+								"h": 254,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 444,
+								"h": 254,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16211566,
+				"id_str": "16211566",
+				"name": "Matt Navarra",
+				"screen_name": "MattNavarra",
+				"location": "Cardiff, UK",
+				"description": "Director of Social Media for @TheNextWeb | Ex-UK government digital comms | Facebook pest | *Available for freelance social media consulting work from MAY 7th*",
+				"url": "https://t.co/tgWtq0I7qP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/tgWtq0I7qP",
+								"expanded_url": "https://www.linkedin.com/in/mattnavarra",
+								"display_url": "linkedin.com/in/mattnavarra",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 28236,
+				"friends_count": 3468,
+				"listed_count": 1716,
+				"created_at": "Tue Sep 09 21:25:05 +0000 2008",
+				"favourites_count": 81580,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 85682,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/461445103488212993/OJmbFfgR.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/461445103488212993/OJmbFfgR.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/967424559594000387/5ol7mjCu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/967424559594000387/5ol7mjCu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16211566/1523806112",
+				"profile_link_color": "2200CC",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "171106",
+				"profile_text_color": "473623",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "208d28e57bdc12e9",
+				"url": "https://api.twitter.com/1.1/geo/id/208d28e57bdc12e9.json",
+				"place_type": "admin",
+				"name": "Wales",
+				"full_name": "Wales, United Kingdom",
+				"country_code": "GB",
+				"country": "United Kingdom",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-5.35340678071236,
+								51.3787780012005
+							],
+							[
+								-2.64982707940341,
+								51.3787780012005
+							],
+							[
+								-2.64982707940341,
+								53.4300939018827
+							],
+							[
+								-5.35340678071236,
+								53.4300939018827
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Apr 15 15:20:59 +0000 2018",
 		"id": 985538484055281700,
 		"id_str": "985538484055281664",
