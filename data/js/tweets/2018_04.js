@@ -1,6 +1,309 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Tue Apr 17 08:58:39 +0000 2018",
+		"id": 986167042070982700,
+		"id_str": "986167042070982656",
+		"text": "Start of an era. https://t.co/Ht3ZRhMVUl",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ht3ZRhMVUl",
+					"expanded_url": "https://twitter.com/TheGrungeScene/status/854087524452577280",
+					"display_url": "twitter.com/TheGrungeScene…",
+					"indices": [
+						17,
+						40
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9178,
+			"friends_count": 2006,
+			"listed_count": 605,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3938,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60764,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1520723563",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 854087524452577300,
+		"quoted_status_id_str": "854087524452577280",
+		"quoted_status": {
+			"created_at": "Mon Apr 17 21:41:48 +0000 2017",
+			"id": 854087524452577300,
+			"id_str": "854087524452577280",
+			"text": "April 17, 1991 –  In Seattle, Nirvana performed SMELLS LIKE TEEN SPIRIT for the first time! The rest is history. https://t.co/TtDidESqLI",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 854086879607697400,
+						"id_str": "854086879607697413",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/854086879607697413/pu/img/LUlKAEMMnCYqWujB.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/854086879607697413/pu/img/LUlKAEMMnCYqWujB.jpg",
+						"url": "https://t.co/TtDidESqLI",
+						"display_url": "pic.twitter.com/TtDidESqLI",
+						"expanded_url": "https://twitter.com/TheGrungeScene/status/854087524452577280/video/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 362,
+								"h": 272,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 362,
+								"h": 272,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 362,
+								"h": 272,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 854086879607697400,
+						"id_str": "854086879607697413",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/854086879607697413/pu/img/LUlKAEMMnCYqWujB.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/854086879607697413/pu/img/LUlKAEMMnCYqWujB.jpg",
+						"url": "https://t.co/TtDidESqLI",
+						"display_url": "pic.twitter.com/TtDidESqLI",
+						"expanded_url": "https://twitter.com/TheGrungeScene/status/854087524452577280/video/1",
+						"type": "video",
+						"sizes": {
+							"medium": {
+								"w": 362,
+								"h": 272,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 362,
+								"h": 272,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 362,
+								"h": 272,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								181,
+								136
+							],
+							"duration_millis": 138038,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/854086879607697413/pu/vid/238x180/3E-7vvHRcORFUC1e.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/854086879607697413/pu/pl/cpN8fNrvnuqV870M.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 89158522,
+				"id_str": "89158522",
+				"name": "The Grunge Scene",
+				"screen_name": "TheGrungeScene",
+				"location": "Seattle and Olympia",
+				"description": "We Have Not Forgotten What Happened In This Town",
+				"url": "https://t.co/gIsDXf586D",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gIsDXf586D",
+								"expanded_url": "https://www.youtube.com/c/TheGrungeScene",
+								"display_url": "youtube.com/c/TheGrungeSce…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 80049,
+				"friends_count": 502,
+				"listed_count": 522,
+				"created_at": "Wed Nov 11 10:53:58 +0000 2009",
+				"favourites_count": 718,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 14122,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "00070A",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/494388507/267292770-001.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/494388507/267292770-001.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/865909971959123968/m_w-l9o8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/865909971959123968/m_w-l9o8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/89158522/1515017724",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 223,
+			"favorite_count": 343,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Apr 17 05:29:38 +0000 2018",
 		"id": 986114440063004700,
 		"id_str": "986114440063004672",
