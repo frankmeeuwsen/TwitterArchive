@@ -1,6 +1,963 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Tue Apr 17 05:29:38 +0000 2018",
+		"id": 986114440063004700,
+		"id_str": "986114440063004672",
+		"text": "RT @RogerBloem: Beste inhaker in tijden!\nHulde aan @bol_com. Fijn dat inhaken nog bestaat.\nhttps://t.co/4ng4vhht1K https://t.co/NXULE1lVhW",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RogerBloem",
+					"name": "Roger Bloem 🍔🍟",
+					"id": 253752128,
+					"id_str": "253752128",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "bol_com",
+					"name": "bol.com",
+					"id": 18894593,
+					"id_str": "18894593",
+					"indices": [
+						51,
+						59
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4ng4vhht1K",
+					"expanded_url": "https://www.facebook.com/bolpuntcom/",
+					"display_url": "facebook.com/bolpuntcom/",
+					"indices": [
+						91,
+						114
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 985991319318401000,
+					"id_str": "985991319318401024",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/Da7x4YOXkAA1mQU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Da7x4YOXkAA1mQU.jpg",
+					"url": "https://t.co/NXULE1lVhW",
+					"display_url": "pic.twitter.com/NXULE1lVhW",
+					"expanded_url": "https://twitter.com/RogerBloem/status/985991685271425025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 985991685271425000,
+					"source_status_id_str": "985991685271425025",
+					"source_user_id": 253752128,
+					"source_user_id_str": "253752128"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 985991319318401000,
+					"id_str": "985991319318401024",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/Da7x4YOXkAA1mQU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Da7x4YOXkAA1mQU.jpg",
+					"url": "https://t.co/NXULE1lVhW",
+					"display_url": "pic.twitter.com/NXULE1lVhW",
+					"expanded_url": "https://twitter.com/RogerBloem/status/985991685271425025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 985991685271425000,
+					"source_status_id_str": "985991685271425025",
+					"source_user_id": 253752128,
+					"source_user_id_str": "253752128"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9179,
+			"friends_count": 2006,
+			"listed_count": 605,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3938,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60763,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1520723563",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Apr 16 21:21:51 +0000 2018",
+			"id": 985991685271425000,
+			"id_str": "985991685271425025",
+			"text": "Beste inhaker in tijden!\nHulde aan @bol_com. Fijn dat inhaken nog bestaat.\nhttps://t.co/4ng4vhht1K https://t.co/NXULE1lVhW",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "bol_com",
+						"name": "bol.com",
+						"id": 18894593,
+						"id_str": "18894593",
+						"indices": [
+							35,
+							43
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/4ng4vhht1K",
+						"expanded_url": "https://www.facebook.com/bolpuntcom/",
+						"display_url": "facebook.com/bolpuntcom/",
+						"indices": [
+							75,
+							98
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 985991319318401000,
+						"id_str": "985991319318401024",
+						"indices": [
+							99,
+							122
+						],
+						"media_url": "http://pbs.twimg.com/media/Da7x4YOXkAA1mQU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Da7x4YOXkAA1mQU.jpg",
+						"url": "https://t.co/NXULE1lVhW",
+						"display_url": "pic.twitter.com/NXULE1lVhW",
+						"expanded_url": "https://twitter.com/RogerBloem/status/985991685271425025/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 1500,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 985991319318401000,
+						"id_str": "985991319318401024",
+						"indices": [
+							99,
+							122
+						],
+						"media_url": "http://pbs.twimg.com/media/Da7x4YOXkAA1mQU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Da7x4YOXkAA1mQU.jpg",
+						"url": "https://t.co/NXULE1lVhW",
+						"display_url": "pic.twitter.com/NXULE1lVhW",
+						"expanded_url": "https://twitter.com/RogerBloem/status/985991685271425025/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 1500,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 985059661341749200,
+			"in_reply_to_status_id_str": "985059661341749248",
+			"in_reply_to_user_id": 253752128,
+			"in_reply_to_user_id_str": "253752128",
+			"in_reply_to_screen_name": "RogerBloem",
+			"user": {
+				"id": 253752128,
+				"id_str": "253752128",
+				"name": "Roger Bloem 🍔🍟",
+				"screen_name": "RogerBloem",
+				"location": "Instagram: rogerbloem",
+				"description": "Co-founder @CityguysNL | Marketeer @Smullers | Organisator Foodbloggers Awards | Geeft feestjes | Bloedgroep: Ketchup.",
+				"url": "https://t.co/x6UFfThYXN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/x6UFfThYXN",
+								"expanded_url": "http://www.cityguys.nl",
+								"display_url": "cityguys.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2049,
+				"friends_count": 1104,
+				"listed_count": 63,
+				"created_at": "Thu Feb 17 22:12:44 +0000 2011",
+				"favourites_count": 8875,
+				"utc_offset": 7200,
+				"time_zone": "Paris",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 26457,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "8D2629",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/598140263/2ewbgacx55jc9a8h1rd8.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/598140263/2ewbgacx55jc9a8h1rd8.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/783645026693812224/Q4wNCbVb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/783645026693812224/Q4wNCbVb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/253752128/1435651786",
+				"profile_link_color": "8D2629",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 8,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
+		"created_at": "Tue Apr 17 05:26:44 +0000 2018",
+		"id": 986113709746475000,
+		"id_str": "986113709746475008",
+		"text": "RT @darrenrovell: Show this video to every pro athlete today https://t.co/bU6Iuls9jA",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "darrenrovell",
+					"name": "Darren Rovell",
+					"id": 24277551,
+					"id_str": "24277551",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 985671860540067800,
+					"id_str": "985671860540067842",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/985671860540067842/pu/img/R8Oa2pgxFh5GEKxY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/985671860540067842/pu/img/R8Oa2pgxFh5GEKxY.jpg",
+					"url": "https://t.co/bU6Iuls9jA",
+					"display_url": "pic.twitter.com/bU6Iuls9jA",
+					"expanded_url": "https://twitter.com/NHL/status/985671920111833089/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 896,
+							"h": 504,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 896,
+							"h": 504,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 985671920111833100,
+					"source_status_id_str": "985671920111833089",
+					"source_user_id": 50004938,
+					"source_user_id_str": "50004938"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 985671860540067800,
+					"id_str": "985671860540067842",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/985671860540067842/pu/img/R8Oa2pgxFh5GEKxY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/985671860540067842/pu/img/R8Oa2pgxFh5GEKxY.jpg",
+					"url": "https://t.co/bU6Iuls9jA",
+					"display_url": "pic.twitter.com/bU6Iuls9jA",
+					"expanded_url": "https://twitter.com/NHL/status/985671920111833089/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 896,
+							"h": 504,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 896,
+							"h": 504,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 985671920111833100,
+					"source_status_id_str": "985671920111833089",
+					"source_user_id": 50004938,
+					"source_user_id_str": "50004938",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 54555,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/985671860540067842/pu/vid/640x360/_RVK4VYYW3TgvI2l.mp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/985671860540067842/pu/vid/320x180/V42bx67g2H8fa-aN.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/985671860540067842/pu/pl/coFxTdw3NA-f_z9a.m3u8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 50004938,
+							"id_str": "50004938",
+							"name": "NHL",
+							"screen_name": "NHL",
+							"location": "31 cities across U.S. & Canada",
+							"description": "This is where you experience the excitement that is the National Hockey League. #StanleyCup",
+							"url": "https://t.co/M25V8odOGZ",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/M25V8odOGZ",
+											"expanded_url": "http://nhl.com",
+											"display_url": "nhl.com",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 6250939,
+							"friends_count": 1708,
+							"listed_count": 20839,
+							"created_at": "Tue Jun 23 15:24:18 +0000 2009",
+							"favourites_count": 2933,
+							"utc_offset": -14400,
+							"time_zone": "Eastern Time (US & Canada)",
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 136819,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": true,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000139631457/fd-xWa9G.jpeg",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000139631457/fd-xWa9G.jpeg",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/942258211037556736/27P0GN-O_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/942258211037556736/27P0GN-O_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/50004938/1523496036",
+							"profile_link_color": "3B94D9",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "2E2E2E",
+							"profile_text_color": "0F5A80",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "regular"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9179,
+			"friends_count": 2006,
+			"listed_count": 605,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3938,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60763,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1520723563",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Apr 16 13:43:04 +0000 2018",
+			"id": 985876228325376000,
+			"id_str": "985876228325376000",
+			"text": "Show this video to every pro athlete today https://t.co/bU6Iuls9jA",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 985671860540067800,
+						"id_str": "985671860540067842",
+						"indices": [
+							43,
+							66
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/985671860540067842/pu/img/R8Oa2pgxFh5GEKxY.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/985671860540067842/pu/img/R8Oa2pgxFh5GEKxY.jpg",
+						"url": "https://t.co/bU6Iuls9jA",
+						"display_url": "pic.twitter.com/bU6Iuls9jA",
+						"expanded_url": "https://twitter.com/NHL/status/985671920111833089/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 896,
+								"h": 504,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 896,
+								"h": 504,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 985671920111833100,
+						"source_status_id_str": "985671920111833089",
+						"source_user_id": 50004938,
+						"source_user_id_str": "50004938"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 985671860540067800,
+						"id_str": "985671860540067842",
+						"indices": [
+							43,
+							66
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/985671860540067842/pu/img/R8Oa2pgxFh5GEKxY.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/985671860540067842/pu/img/R8Oa2pgxFh5GEKxY.jpg",
+						"url": "https://t.co/bU6Iuls9jA",
+						"display_url": "pic.twitter.com/bU6Iuls9jA",
+						"expanded_url": "https://twitter.com/NHL/status/985671920111833089/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 896,
+								"h": 504,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 896,
+								"h": 504,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 985671920111833100,
+						"source_status_id_str": "985671920111833089",
+						"source_user_id": 50004938,
+						"source_user_id_str": "50004938",
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 54555,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/985671860540067842/pu/vid/640x360/_RVK4VYYW3TgvI2l.mp4"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/985671860540067842/pu/vid/320x180/V42bx67g2H8fa-aN.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/985671860540067842/pu/pl/coFxTdw3NA-f_z9a.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 50004938,
+								"id_str": "50004938",
+								"name": "NHL",
+								"screen_name": "NHL",
+								"location": "31 cities across U.S. & Canada",
+								"description": "This is where you experience the excitement that is the National Hockey League. #StanleyCup",
+								"url": "https://t.co/M25V8odOGZ",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/M25V8odOGZ",
+												"expanded_url": "http://nhl.com",
+												"display_url": "nhl.com",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 6250939,
+								"friends_count": 1708,
+								"listed_count": 20839,
+								"created_at": "Tue Jun 23 15:24:18 +0000 2009",
+								"favourites_count": 2933,
+								"utc_offset": -14400,
+								"time_zone": "Eastern Time (US & Canada)",
+								"geo_enabled": true,
+								"verified": true,
+								"statuses_count": 136819,
+								"lang": "en",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": true,
+								"profile_background_color": "000000",
+								"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000139631457/fd-xWa9G.jpeg",
+								"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000139631457/fd-xWa9G.jpeg",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/942258211037556736/27P0GN-O_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/942258211037556736/27P0GN-O_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/50004938/1523496036",
+								"profile_link_color": "3B94D9",
+								"profile_sidebar_border_color": "FFFFFF",
+								"profile_sidebar_fill_color": "2E2E2E",
+								"profile_text_color": "0F5A80",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "regular"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 24277551,
+				"id_str": "24277551",
+				"name": "Darren Rovell",
+				"screen_name": "darrenrovell",
+				"location": "NYC & Bristol, CT",
+				"description": "ESPN Sports Business Reporter, ABC News Business Contributor. Instagram: @darrenrovell.",
+				"url": "https://t.co/qSrAlTNjPU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/qSrAlTNjPU",
+								"expanded_url": "http://www.darrenrovell.com",
+								"display_url": "darrenrovell.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2035404,
+				"friends_count": 2521,
+				"listed_count": 12175,
+				"created_at": "Fri Mar 13 23:11:21 +0000 2009",
+				"favourites_count": 2029,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 137338,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "FF0000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/735955002/3f56ed474f1a65fe20a4df97c9c656e6.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/735955002/3f56ed474f1a65fe20a4df97c9c656e6.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/973147885436104704/ZaFfY-vW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/973147885436104704/ZaFfY-vW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/24277551/1459256465",
+				"profile_link_color": "161A18",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E6EAEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 67394,
+			"favorite_count": 225143,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 67394,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Apr 16 16:20:14 +0000 2018",
 		"id": 985915780284997600,
 		"id_str": "985915780284997633",
@@ -370,7 +1327,7 @@ Grailbird.data.tweets_2018_04 =
 			"user": {
 				"id": 15907183,
 				"id_str": "15907183",
-				"name": "Charlotte Clymer🏳️‍🌈",
+				"name": "Charlotte Clymer🏳️🌈",
 				"screen_name": "cmclymer",
 				"location": "Washington, D.C.",
 				"description": "@HRC Comms Team. Writer. Proudly Queer. Army Vet. Texan. @Georgetown Alum. Pronouns: She/Her. Inquiries: cmclymer@gmail.com | https://t.co/Pz7zrJrydo",
