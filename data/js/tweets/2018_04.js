@@ -1,6 +1,516 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Wed Apr 18 18:37:13 +0000 2018",
+		"id": 986675030074544100,
+		"id_str": "986675030074544128",
+		"text": "RT @kenkeiter: we're building self-driving cars https://t.co/ZDi9qKmn9O",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kenkeiter",
+					"name": "Ken Keiter",
+					"id": 14478837,
+					"id_str": "14478837",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 986413117566365700,
+					"id_str": "986413117566365696",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/986413117566365696/pu/img/z19Wd9PcZNHjoimR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/986413117566365696/pu/img/z19Wd9PcZNHjoimR.jpg",
+					"url": "https://t.co/ZDi9qKmn9O",
+					"display_url": "pic.twitter.com/ZDi9qKmn9O",
+					"expanded_url": "https://twitter.com/kenkeiter/status/986413228493189122/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 986413228493189100,
+					"source_status_id_str": "986413228493189122",
+					"source_user_id": 14478837,
+					"source_user_id_str": "14478837"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 986413117566365700,
+					"id_str": "986413117566365696",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/986413117566365696/pu/img/z19Wd9PcZNHjoimR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/986413117566365696/pu/img/z19Wd9PcZNHjoimR.jpg",
+					"url": "https://t.co/ZDi9qKmn9O",
+					"display_url": "pic.twitter.com/ZDi9qKmn9O",
+					"expanded_url": "https://twitter.com/kenkeiter/status/986413228493189122/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 986413228493189100,
+					"source_status_id_str": "986413228493189122",
+					"source_user_id": 14478837,
+					"source_user_id_str": "14478837",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 11400,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/986413117566365696/pu/vid/480x480/U2Mf_SRvtMIP0sqt.mp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/986413117566365696/pu/vid/720x720/YtLzPEIp1Ab0DF0p.mp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/986413117566365696/pu/vid/240x240/0tHy6-K8k0-OPBgl.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/986413117566365696/pu/pl/rJAyhNHPuCMwBPYA.m3u8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 14478837,
+							"id_str": "14478837",
+							"name": "Ken Keiter",
+							"screen_name": "kenkeiter",
+							"location": "Portland, OR",
+							"description": "Engineering (EE, software) + product + design (iD ⨉ UI ⨉ product). I collect sensors and void warranties. Laser yak hair removal. https://t.co/h4IxIZ3z4S.",
+							"url": "https://t.co/2N1OsJfOvz",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/2N1OsJfOvz",
+											"expanded_url": "http://kenkeiter.com/",
+											"display_url": "kenkeiter.com",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": [
+										{
+											"url": "https://t.co/h4IxIZ3z4S",
+											"expanded_url": "http://pronoun.is/he",
+											"display_url": "pronoun.is/he",
+											"indices": [
+												130,
+												153
+											]
+										}
+									]
+								}
+							},
+							"protected": false,
+							"followers_count": 1319,
+							"friends_count": 422,
+							"listed_count": 100,
+							"created_at": "Tue Apr 22 19:09:25 +0000 2008",
+							"favourites_count": 29734,
+							"utc_offset": -25200,
+							"time_zone": "Pacific Time (US & Canada)",
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 18566,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "222222",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/938597051134119936/iOKvaCVq_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/938597051134119936/iOKvaCVq_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/14478837/1516513233",
+							"profile_link_color": "ABB8C2",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "99CC33",
+							"profile_text_color": "3E4415",
+							"profile_use_background_image": false,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9181,
+			"friends_count": 2009,
+			"listed_count": 605,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3947,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60784,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1520723563",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Apr 18 01:16:55 +0000 2018",
+			"id": 986413228493189100,
+			"id_str": "986413228493189122",
+			"text": "we're building self-driving cars https://t.co/ZDi9qKmn9O",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 986413117566365700,
+						"id_str": "986413117566365696",
+						"indices": [
+							33,
+							56
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/986413117566365696/pu/img/z19Wd9PcZNHjoimR.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/986413117566365696/pu/img/z19Wd9PcZNHjoimR.jpg",
+						"url": "https://t.co/ZDi9qKmn9O",
+						"display_url": "pic.twitter.com/ZDi9qKmn9O",
+						"expanded_url": "https://twitter.com/kenkeiter/status/986413228493189122/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 986413117566365700,
+						"id_str": "986413117566365696",
+						"indices": [
+							33,
+							56
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/986413117566365696/pu/img/z19Wd9PcZNHjoimR.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/986413117566365696/pu/img/z19Wd9PcZNHjoimR.jpg",
+						"url": "https://t.co/ZDi9qKmn9O",
+						"display_url": "pic.twitter.com/ZDi9qKmn9O",
+						"expanded_url": "https://twitter.com/kenkeiter/status/986413228493189122/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 11400,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/986413117566365696/pu/vid/480x480/U2Mf_SRvtMIP0sqt.mp4"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/986413117566365696/pu/vid/720x720/YtLzPEIp1Ab0DF0p.mp4"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/986413117566365696/pu/vid/240x240/0tHy6-K8k0-OPBgl.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/986413117566365696/pu/pl/rJAyhNHPuCMwBPYA.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14478837,
+				"id_str": "14478837",
+				"name": "Ken Keiter",
+				"screen_name": "kenkeiter",
+				"location": "Portland, OR",
+				"description": "Engineering (EE, software) + product + design (iD ⨉ UI ⨉ product). I collect sensors and void warranties. Laser yak hair removal. https://t.co/h4IxIZ3z4S.",
+				"url": "https://t.co/2N1OsJfOvz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2N1OsJfOvz",
+								"expanded_url": "http://kenkeiter.com/",
+								"display_url": "kenkeiter.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/h4IxIZ3z4S",
+								"expanded_url": "http://pronoun.is/he",
+								"display_url": "pronoun.is/he",
+								"indices": [
+									130,
+									153
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1319,
+				"friends_count": 422,
+				"listed_count": 100,
+				"created_at": "Tue Apr 22 19:09:25 +0000 2008",
+				"favourites_count": 29734,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 18566,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "222222",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/938597051134119936/iOKvaCVq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/938597051134119936/iOKvaCVq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14478837/1516513233",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 250,
+			"favorite_count": 539,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 250,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Apr 18 17:09:00 +0000 2018",
 		"id": 986652831779315700,
 		"id_str": "986652831779315712",
