@@ -1,6 +1,410 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Wed Apr 18 20:03:24 +0000 2018",
+		"id": 986696719705559000,
+		"id_str": "986696719705559042",
+		"text": "Ah. Ik herinner me dat @roh hier groot fan van was. En is. Denk ik. Mechanic keyboards... Retrospul!  https://t.co/tfISUe0yEq",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Roh",
+					"name": "Ronald van Schaik",
+					"id": 1447551,
+					"id_str": "1447551",
+					"indices": [
+						23,
+						27
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tfISUe0yEq",
+					"expanded_url": "https://sixcolors.com/link/2018/04/clicky-keyboards-are-back/",
+					"display_url": "sixcolors.com/link/2018/04/c…",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9181,
+			"friends_count": 2009,
+			"listed_count": 606,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3947,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60786,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1520723563",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
+		"created_at": "Wed Apr 18 19:44:23 +0000 2018",
+		"id": 986691932574355500,
+		"id_str": "986691932574355456",
+		"text": "Behoorlijk awesome artwork voor het nieuwe album van PJ bassist Jeff Ament. https://t.co/R5maKBgNVq",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/R5maKBgNVq",
+					"expanded_url": "https://twitter.com/pearljam/status/986680766699659265",
+					"display_url": "twitter.com/pearljam/statu…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9181,
+			"friends_count": 2009,
+			"listed_count": 606,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3947,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60786,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1520723563",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 986680766699659300,
+		"quoted_status_id_str": "986680766699659265",
+		"quoted_status": {
+			"created_at": "Wed Apr 18 19:00:01 +0000 2018",
+			"id": 986680766699659300,
+			"id_str": "986680766699659265",
+			"text": "Heaven/Hell by Ament. https://t.co/F8zgAbIQ4V",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 986640417608421400,
+						"id_str": "986640417608421376",
+						"indices": [
+							22,
+							45
+						],
+						"media_url": "http://pbs.twimg.com/media/DbFAO3yX0AAwG-W.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DbFAO3yX0AAwG-W.jpg",
+						"url": "https://t.co/F8zgAbIQ4V",
+						"display_url": "pic.twitter.com/F8zgAbIQ4V",
+						"expanded_url": "https://twitter.com/PearlJam/status/986680766699659265/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 678,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 933,
+								"h": 936,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 933,
+								"h": 936,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 986640417608421400,
+						"id_str": "986640417608421376",
+						"indices": [
+							22,
+							45
+						],
+						"media_url": "http://pbs.twimg.com/media/DbFAO3yX0AAwG-W.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DbFAO3yX0AAwG-W.jpg",
+						"url": "https://t.co/F8zgAbIQ4V",
+						"display_url": "pic.twitter.com/F8zgAbIQ4V",
+						"expanded_url": "https://twitter.com/PearlJam/status/986680766699659265/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 678,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 933,
+								"h": 936,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 933,
+								"h": 936,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15155074,
+				"id_str": "15155074",
+				"name": "Pearl Jam",
+				"screen_name": "PearlJam",
+				"location": "Seattle, WA",
+				"description": "Pearl Jam is coming home - August 8 & 10 in Seattle. #TheHomeShows",
+				"url": "https://t.co/J95aoJ5FKF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/J95aoJ5FKF",
+								"expanded_url": "http://www.PearlJam.com",
+								"display_url": "PearlJam.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3753984,
+				"friends_count": 856,
+				"listed_count": 18321,
+				"created_at": "Wed Jun 18 06:59:14 +0000 2008",
+				"favourites_count": 2758,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 6528,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/458709139665846272/xuqdWuDa.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/458709139665846272/xuqdWuDa.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/973604653475692544/c9IX6SI__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/973604653475692544/c9IX6SI__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15155074/1520960500",
+				"profile_link_color": "A17F59",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 44,
+			"favorite_count": 295,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Wed Apr 18 18:37:13 +0000 2018",
 		"id": 986675030074544100,
 		"id_str": "986675030074544128",
