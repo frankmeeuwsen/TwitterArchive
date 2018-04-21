@@ -1,6 +1,137 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Sat Apr 21 17:52:18 +0000 2018",
+		"id": 987750891829776400,
+		"id_str": "987750891829776384",
+		"text": "@djzwartveld @PinguinRadio Dank! @PinguinRadio stelt zelden teleur qua lekkere muziekjes!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "djzwartveld",
+					"name": "Dirk Jan Zwartveld",
+					"id": 2220361328,
+					"id_str": "2220361328",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "PinguinRadio",
+					"name": "Pinguin Radio",
+					"id": 376453986,
+					"id_str": "376453986",
+					"indices": [
+						13,
+						26
+					]
+				},
+				{
+					"screen_name": "PinguinRadio",
+					"name": "Pinguin Radio",
+					"id": 376453986,
+					"id_str": "376453986",
+					"indices": [
+						33,
+						46
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 987608397037097000,
+		"in_reply_to_status_id_str": "987608397037096962",
+		"in_reply_to_user_id": 2220361328,
+		"in_reply_to_user_id_str": "2220361328",
+		"in_reply_to_screen_name": "djzwartveld",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9181,
+			"friends_count": 2009,
+			"listed_count": 605,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3959,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60775,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1520723563",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Sat Apr 21 15:11:37 +0000 2018",
 		"id": 987710451843784700,
 		"id_str": "987710451843784704",
