@@ -1,6 +1,333 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Tue Apr 24 21:48:21 +0000 2018",
+		"id": 988897458947346400,
+		"id_str": "988897458947346432",
+		"text": "RT @jennschiffer: world never says “hello” back https://t.co/0xAYM1qpCs",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jennschiffer",
+					"name": "jenn schiffer",
+					"id": 12524622,
+					"id_str": "12524622",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0xAYM1qpCs",
+					"expanded_url": "https://twitter.com/abstractionscon/status/988568678961696769",
+					"display_url": "twitter.com/abstractionsco…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9174,
+			"friends_count": 2008,
+			"listed_count": 605,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3965,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60761,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1520723563",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Apr 24 18:36:52 +0000 2018",
+			"id": 988849269552578600,
+			"id_str": "988849269552578560",
+			"text": "world never says “hello” back https://t.co/0xAYM1qpCs",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/0xAYM1qpCs",
+						"expanded_url": "https://twitter.com/abstractionscon/status/988568678961696769",
+						"display_url": "twitter.com/abstractionsco…",
+						"indices": [
+							30,
+							53
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 12524622,
+				"id_str": "12524622",
+				"name": "jenn schiffer",
+				"screen_name": "jennschiffer",
+				"location": "jersey city • jenn@dotbiz.info",
+				"description": "hello fellow cool babes i am the community engineer on the @glitch team at @fogcreek 🎏👸 also i made https://t.co/zaBLoHykZE & @jerseyscriptusa 👾🎨 she/her",
+				"url": "https://t.co/bxZjaPVmBS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/bxZjaPVmBS",
+								"expanded_url": "http://jennmoney.biz",
+								"display_url": "jennmoney.biz",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/zaBLoHykZE",
+								"expanded_url": "http://make8bitart.com",
+								"display_url": "make8bitart.com",
+								"indices": [
+									100,
+									123
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 27040,
+				"friends_count": 2413,
+				"listed_count": 1067,
+				"created_at": "Tue Jan 22 05:42:15 +0000 2008",
+				"favourites_count": 114613,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 86451,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/454274435055230978/1Ww8jwZg.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/454274435055230978/1Ww8jwZg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/987831937103515648/lTZ107TE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/987831937103515648/lTZ107TE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/12524622/1486308754",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "99CCCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 988568678961696800,
+			"quoted_status_id_str": "988568678961696769",
+			"quoted_status": {
+				"created_at": "Tue Apr 24 00:01:54 +0000 2018",
+				"id": 988568678961696800,
+				"id_str": "988568678961696769",
+				"text": "What five words best describe programming?",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": []
+				},
+				"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 3959977216,
+					"id_str": "3959977216",
+					"name": "Abstractions conf returns 2019",
+					"screen_name": "abstractionscon",
+					"location": "Pittsburgh, PA",
+					"description": "A cross functional software conference by @codeandsupply. Abstractions will be back August 2019.",
+					"url": "https://t.co/LUoXffcAwF",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/LUoXffcAwF",
+									"expanded_url": "http://abstractions.io",
+									"display_url": "abstractions.io",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 3347,
+					"friends_count": 222,
+					"listed_count": 131,
+					"created_at": "Wed Oct 14 23:00:54 +0000 2015",
+					"favourites_count": 1060,
+					"utc_offset": -14400,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 2963,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/675717693291421696/cs5ofuJr_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/675717693291421696/cs5ofuJr_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/3959977216/1449939154",
+					"profile_link_color": "051E29",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 184,
+				"favorite_count": 476,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"retweet_count": 150,
+			"favorite_count": 715,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 988568678961696800,
+		"quoted_status_id_str": "988568678961696769",
+		"retweet_count": 150,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Apr 24 17:19:11 +0000 2018",
 		"id": 988829718282686500,
 		"id_str": "988829718282686464",
