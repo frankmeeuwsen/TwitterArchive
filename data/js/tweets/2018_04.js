@@ -1,6 +1,598 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Wed Apr 25 19:03:37 +0000 2018",
+		"id": 989218387581694000,
+		"id_str": "989218387581693953",
+		"text": "De zijpaden in onze discussie zijn vakkundig er uit geknipt dus zeker luisterwaardig. Al zeg ik dat zelf. Elger en… https://t.co/4gmIGkuH7f",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4gmIGkuH7f",
+					"expanded_url": "https://twitter.com/i/web/status/989218387581693953",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9173,
+			"friends_count": 2010,
+			"listed_count": 605,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3966,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60765,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1520723563",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 989162418239688700,
+		"quoted_status_id_str": "989162418239688704",
+		"quoted_status": {
+			"created_at": "Wed Apr 25 15:21:12 +0000 2018",
+			"id": 989162418239688700,
+			"id_str": "989162418239688704",
+			"text": "Deze week in Rush Talk praat ik weer een keer met @frankmeeuwsen. We hebben het over de bewustwording rondom onze p… https://t.co/rc2WEVcukF",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "frankmeeuwsen",
+						"name": "Frank Meeuwsen",
+						"id": 816203,
+						"id_str": "816203",
+						"indices": [
+							50,
+							64
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/rc2WEVcukF",
+						"expanded_url": "https://twitter.com/i/web/status/989162418239688704",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14142375,
+				"id_str": "14142375",
+				"name": "Elger van der Wel",
+				"screen_name": "elger",
+				"location": "Utrecht, Netherlands",
+				"description": "Denkt iets te weten van media-innovatie. Doet dingen voor oa @NOS @WatermelonHQ @Adformatie @iCulture @Numrush. Is zendermanager van @Glowfmradio.",
+				"url": "https://t.co/6ebBT2ANzN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6ebBT2ANzN",
+								"expanded_url": "http://nieuwsbrief.elger.fm",
+								"display_url": "nieuwsbrief.elger.fm",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7547,
+				"friends_count": 862,
+				"listed_count": 286,
+				"created_at": "Thu Mar 13 20:51:19 +0000 2008",
+				"favourites_count": 4097,
+				"utc_offset": 7200,
+				"time_zone": "Amsterdam",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 84109,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ECFFFD",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/2392141/twitterbg.gif",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/2392141/twitterbg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/824573079372369921/yG88n8WH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/824573079372369921/yG88n8WH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14142375/1491306952",
+				"profile_link_color": "33CCFF",
+				"profile_sidebar_border_color": "33CCFF",
+				"profile_sidebar_fill_color": "D6FFFB",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
+		"created_at": "Wed Apr 25 18:35:51 +0000 2018",
+		"id": 989211402698154000,
+		"id_str": "989211402698153984",
+		"text": "RT @cam_joseph: Just a reminder, folks: https://t.co/3dYV7hwm6Q",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cam_joseph",
+					"name": "Cameron Joseph",
+					"id": 142490217,
+					"id_str": "142490217",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 988532576242483200,
+					"id_str": "988532576242483201",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/Dbf5I__VwAEHyiV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dbf5I__VwAEHyiV.jpg",
+					"url": "https://t.co/3dYV7hwm6Q",
+					"display_url": "pic.twitter.com/3dYV7hwm6Q",
+					"expanded_url": "https://twitter.com/cam_joseph/status/988532587986550785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 540,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 540,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 540,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 988532587986550800,
+					"source_status_id_str": "988532587986550785",
+					"source_user_id": 142490217,
+					"source_user_id_str": "142490217"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 988532576242483200,
+					"id_str": "988532576242483201",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/Dbf5I__VwAEHyiV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dbf5I__VwAEHyiV.jpg",
+					"url": "https://t.co/3dYV7hwm6Q",
+					"display_url": "pic.twitter.com/3dYV7hwm6Q",
+					"expanded_url": "https://twitter.com/cam_joseph/status/988532587986550785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 540,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 540,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 540,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 988532587986550800,
+					"source_status_id_str": "988532587986550785",
+					"source_user_id": 142490217,
+					"source_user_id_str": "142490217"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9173,
+			"friends_count": 2010,
+			"listed_count": 605,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3966,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60765,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1520723563",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Apr 23 21:38:29 +0000 2018",
+			"id": 988532587986550800,
+			"id_str": "988532587986550785",
+			"text": "Just a reminder, folks: https://t.co/3dYV7hwm6Q",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 988532576242483200,
+						"id_str": "988532576242483201",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/media/Dbf5I__VwAEHyiV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dbf5I__VwAEHyiV.jpg",
+						"url": "https://t.co/3dYV7hwm6Q",
+						"display_url": "pic.twitter.com/3dYV7hwm6Q",
+						"expanded_url": "https://twitter.com/cam_joseph/status/988532587986550785/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 500,
+								"h": 540,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 540,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 540,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 988532576242483200,
+						"id_str": "988532576242483201",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/media/Dbf5I__VwAEHyiV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dbf5I__VwAEHyiV.jpg",
+						"url": "https://t.co/3dYV7hwm6Q",
+						"display_url": "pic.twitter.com/3dYV7hwm6Q",
+						"expanded_url": "https://twitter.com/cam_joseph/status/988532587986550785/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 500,
+								"h": 540,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 540,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 540,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 142490217,
+				"id_str": "142490217",
+				"name": "Cameron Joseph",
+				"screen_name": "cam_joseph",
+				"location": "Washington, DC",
+				"description": "Senior political correspondent @tpm. Almanac of American Politics contributor, @BPshow guest host. Bylined & large.",
+				"url": "https://t.co/PwdfPkQfTw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PwdfPkQfTw",
+								"expanded_url": "http://talkingpointsmemo.com",
+								"display_url": "talkingpointsmemo.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13445,
+				"friends_count": 4850,
+				"listed_count": 604,
+				"created_at": "Tue May 11 01:10:17 +0000 2010",
+				"favourites_count": 1430,
+				"utc_offset": -14400,
+				"time_zone": "America/New_York",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 17147,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/890370828793241604/p-02Znos_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/890370828793241604/p-02Znos_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/142490217/1468514301",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7280,
+			"favorite_count": 26063,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7280,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Apr 25 17:03:47 +0000 2018",
 		"id": 989188230523301900,
 		"id_str": "989188230523301889",
