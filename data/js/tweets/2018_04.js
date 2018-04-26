@@ -1,6 +1,402 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Thu Apr 26 22:03:10 +0000 2018",
+		"id": 989625964278829000,
+		"id_str": "989625964278829062",
+		"text": "RT @PigsAndPlans: Thank you Kanye, very cool! https://t.co/WxAGxa9daR",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PigsAndPlans",
+					"name": "Pigeons & Planes",
+					"id": 18033816,
+					"id_str": "18033816",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WxAGxa9daR",
+					"expanded_url": "https://twitter.com/kanyewest/status/989560102024695808",
+					"display_url": "twitter.com/kanyewest/stat…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9176,
+			"friends_count": 2010,
+			"listed_count": 605,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3970,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60780,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1520723563",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Apr 26 18:05:06 +0000 2018",
+			"id": 989566051720532000,
+			"id_str": "989566051720531968",
+			"text": "Thank you Kanye, very cool! https://t.co/WxAGxa9daR",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/WxAGxa9daR",
+						"expanded_url": "https://twitter.com/kanyewest/status/989560102024695808",
+						"display_url": "twitter.com/kanyewest/stat…",
+						"indices": [
+							28,
+							51
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18033816,
+				"id_str": "18033816",
+				"name": "Pigeons & Planes",
+				"screen_name": "PigsAndPlans",
+				"location": "New York, NY",
+				"description": "Keeping up with good music. Discovering new music. No ceilings.",
+				"url": "https://t.co/JwPYRIlJ6k",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JwPYRIlJ6k",
+								"expanded_url": "http://www.pigeonsandplanes.com",
+								"display_url": "pigeonsandplanes.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 255991,
+				"friends_count": 2926,
+				"listed_count": 2847,
+				"created_at": "Wed Dec 10 23:07:53 +0000 2008",
+				"favourites_count": 42092,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 103187,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "161616",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378468619/PigeonsAndPlanes_TwitterBackground2.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378468619/PigeonsAndPlanes_TwitterBackground2.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/755417835191623680/PEEosNS5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/755417835191623680/PEEosNS5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18033816/1516644976",
+				"profile_link_color": "F2346D",
+				"profile_sidebar_border_color": "8A8886",
+				"profile_sidebar_fill_color": "CCCCCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 989560102024695800,
+			"quoted_status_id_str": "989560102024695808",
+			"quoted_status": {
+				"created_at": "Thu Apr 26 17:41:28 +0000 2018",
+				"id": 989560102024695800,
+				"id_str": "989560102024695808",
+				"text": "https://t.co/hxavRIJ3oX",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 989560097692008400,
+							"id_str": "989560097692008448",
+							"indices": [
+								0,
+								23
+							],
+							"media_url": "http://pbs.twimg.com/media/DbufqnrVQAALU87.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DbufqnrVQAALU87.jpg",
+							"url": "https://t.co/hxavRIJ3oX",
+							"display_url": "pic.twitter.com/hxavRIJ3oX",
+							"expanded_url": "https://twitter.com/kanyewest/status/989560102024695808/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 314,
+									"h": 680,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 554,
+									"h": 1200,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 946,
+									"h": 2048,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 989560097692008400,
+							"id_str": "989560097692008448",
+							"indices": [
+								0,
+								23
+							],
+							"media_url": "http://pbs.twimg.com/media/DbufqnrVQAALU87.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DbufqnrVQAALU87.jpg",
+							"url": "https://t.co/hxavRIJ3oX",
+							"display_url": "pic.twitter.com/hxavRIJ3oX",
+							"expanded_url": "https://twitter.com/kanyewest/status/989560102024695808/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 314,
+									"h": 680,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 554,
+									"h": 1200,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 946,
+									"h": 2048,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 169686021,
+					"id_str": "169686021",
+					"name": "KANYE WEST",
+					"screen_name": "kanyewest",
+					"location": "",
+					"description": "",
+					"url": "http://t.co/ZdywsugSWD",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/ZdywsugSWD",
+									"expanded_url": "http://KANYEWEST.COM",
+									"display_url": "KANYEWEST.COM",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 27868708,
+					"friends_count": 1,
+					"listed_count": 49670,
+					"created_at": "Thu Jul 22 23:00:05 +0000 2010",
+					"favourites_count": 1,
+					"utc_offset": -36000,
+					"time_zone": "Hawaii",
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 250,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/390200267/Screen_Shot_2011-12-27_at_11.53.35_PM.png",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/390200267/Screen_Shot_2011-12-27_at_11.53.35_PM.png",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/585565077207678977/N_eNSBXi_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/585565077207678977/N_eNSBXi_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/169686021/1428444619",
+					"profile_link_color": "0084B4",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 2413,
+				"favorite_count": 15860,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "und"
+			},
+			"retweet_count": 464,
+			"favorite_count": 3945,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 989560102024695800,
+		"quoted_status_id_str": "989560102024695808",
+		"retweet_count": 464,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Apr 26 21:02:23 +0000 2018",
 		"id": 989610667173965800,
 		"id_str": "989610667173965829",
