@@ -1,6 +1,639 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Wed May 02 20:41:01 +0000 2018",
+		"id": 991779617001410600,
+		"id_str": "991779617001410560",
+		"text": "RT @becskr: GDPR is FUN (thanks to my boss @adii for this!) https://t.co/knJwrjfq8m",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "becskr",
+					"name": "Becs Rivett-Kemm",
+					"id": 20761071,
+					"id_str": "20761071",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"screen_name": "adii",
+					"name": "adii",
+					"id": 9495672,
+					"id_str": "9495672",
+					"indices": [
+						43,
+						48
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 991757837721272300,
+					"id_str": "991757837721272320",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/DcNuf7SWAAAoP4r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DcNuf7SWAAAoP4r.jpg",
+					"url": "https://t.co/knJwrjfq8m",
+					"display_url": "pic.twitter.com/knJwrjfq8m",
+					"expanded_url": "https://twitter.com/becskr/status/991758016545509376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 360,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 239,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 360,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 991758016545509400,
+					"source_status_id_str": "991758016545509376",
+					"source_user_id": 20761071,
+					"source_user_id_str": "20761071"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 991757837721272300,
+					"id_str": "991757837721272320",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/DcNuf7SWAAAoP4r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DcNuf7SWAAAoP4r.jpg",
+					"url": "https://t.co/knJwrjfq8m",
+					"display_url": "pic.twitter.com/knJwrjfq8m",
+					"expanded_url": "https://twitter.com/becskr/status/991758016545509376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 360,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 239,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 360,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 991758016545509400,
+					"source_status_id_str": "991758016545509376",
+					"source_user_id": 20761071,
+					"source_user_id_str": "20761071"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9167,
+			"friends_count": 2013,
+			"listed_count": 605,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3991,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60768,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1520723563",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed May 02 19:15:11 +0000 2018",
+			"id": 991758016545509400,
+			"id_str": "991758016545509376",
+			"text": "GDPR is FUN (thanks to my boss @adii for this!) https://t.co/knJwrjfq8m",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "adii",
+						"name": "adii",
+						"id": 9495672,
+						"id_str": "9495672",
+						"indices": [
+							31,
+							36
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 991757837721272300,
+						"id_str": "991757837721272320",
+						"indices": [
+							48,
+							71
+						],
+						"media_url": "http://pbs.twimg.com/media/DcNuf7SWAAAoP4r.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DcNuf7SWAAAoP4r.jpg",
+						"url": "https://t.co/knJwrjfq8m",
+						"display_url": "pic.twitter.com/knJwrjfq8m",
+						"expanded_url": "https://twitter.com/becskr/status/991758016545509376/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 360,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 239,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 360,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 991757837721272300,
+						"id_str": "991757837721272320",
+						"indices": [
+							48,
+							71
+						],
+						"media_url": "http://pbs.twimg.com/media/DcNuf7SWAAAoP4r.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DcNuf7SWAAAoP4r.jpg",
+						"url": "https://t.co/knJwrjfq8m",
+						"display_url": "pic.twitter.com/knJwrjfq8m",
+						"expanded_url": "https://twitter.com/becskr/status/991758016545509376/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 360,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 239,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 360,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20761071,
+				"id_str": "20761071",
+				"name": "Becs Rivett-Kemm",
+				"screen_name": "becskr",
+				"location": "Leeds",
+				"description": "Independent Email Marketing Consultant & @GetConversio Staff specialising in eCommerce emails. Indie Foodie. Self facilitating media node.",
+				"url": "https://t.co/CjwYYxICAF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/CjwYYxICAF",
+								"expanded_url": "http://becsrivett.com",
+								"display_url": "becsrivett.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3261,
+				"friends_count": 1227,
+				"listed_count": 263,
+				"created_at": "Fri Feb 13 10:22:38 +0000 2009",
+				"favourites_count": 1347,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 25680,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "2B0A6E",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/556799871483514882/JXSNaZBE.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/556799871483514882/JXSNaZBE.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/949235613290594304/tZ8VZs34_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/949235613290594304/tZ8VZs34_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20761071/1408640565",
+				"profile_link_color": "F7B417",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "99D8FF",
+				"profile_text_color": "5D5375",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed May 02 20:21:55 +0000 2018",
+		"id": 991774809141981200,
+		"id_str": "991774809141981185",
+		"text": "Damn dit is cool! https://t.co/5N3lgPqppw",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5N3lgPqppw",
+					"expanded_url": "https://twitter.com/patrickweave_r/status/991655290037817344",
+					"display_url": "twitter.com/patrickweave_r…",
+					"indices": [
+						18,
+						41
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9167,
+			"friends_count": 2013,
+			"listed_count": 605,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3991,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60768,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1520723563",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 991655290037817300,
+		"quoted_status_id_str": "991655290037817344",
+		"quoted_status": {
+			"created_at": "Wed May 02 12:26:59 +0000 2018",
+			"id": 991655290037817300,
+			"id_str": "991655290037817344",
+			"text": "Newest experiment made with @glitch, @Spotify and @googlecloud, a record player with computer vision:… https://t.co/zTW498TkQp",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "glitch",
+						"name": "🎏Glitch",
+						"id": 795717775989833700,
+						"id_str": "795717775989833729",
+						"indices": [
+							28,
+							35
+						]
+					},
+					{
+						"screen_name": "Spotify",
+						"name": "Spotify",
+						"id": 17230018,
+						"id_str": "17230018",
+						"indices": [
+							37,
+							45
+						]
+					},
+					{
+						"screen_name": "googlecloud",
+						"name": "Google Cloud",
+						"id": 19367815,
+						"id_str": "19367815",
+						"indices": [
+							50,
+							62
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/zTW498TkQp",
+						"expanded_url": "https://twitter.com/i/web/status/991655290037817344",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							103,
+							126
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3031278626,
+				"id_str": "3031278626",
+				"name": "Patrick Weaver",
+				"screen_name": "patrickweave_r",
+				"location": "NYC, Earth, Milky Way",
+				"description": "Learning Design Manager for @Mouse_org, friend of @mousefridge and @patweaver",
+				"url": "https://t.co/n9D6zyLlVB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/n9D6zyLlVB",
+								"expanded_url": "http://patrickweaver.net",
+								"display_url": "patrickweaver.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 190,
+				"friends_count": 612,
+				"listed_count": 12,
+				"created_at": "Thu Feb 19 19:34:50 +0000 2015",
+				"favourites_count": 262,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 258,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/902226123550998528/lKQEbagD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/902226123550998528/lKQEbagD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3031278626/1496283472",
+				"profile_link_color": "53EDAF",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 29,
+			"favorite_count": 74,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed May 02 20:18:56 +0000 2018",
 		"id": 991774058688720900,
 		"id_str": "991774058688720896",
