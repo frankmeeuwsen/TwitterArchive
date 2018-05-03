@@ -1,6 +1,426 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Thu May 03 05:33:53 +0000 2018",
+		"id": 991913714692522000,
+		"id_str": "991913714692521984",
+		"text": "RT @evgenymorozov: Amazon unleashes innovations on all fronts: its founder invents new ways of conquering space while its employees invent…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "evgenymorozov",
+					"name": "Evgeny Morozov",
+					"id": 30331417,
+					"id_str": "30331417",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9166,
+			"friends_count": 2013,
+			"listed_count": 605,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 3991,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60769,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1520723563",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed May 02 08:48:00 +0000 2018",
+			"id": 991600181207556100,
+			"id_str": "991600181207556096",
+			"text": "Amazon unleashes innovations on all fronts: its founder invents new ways of conquering space while its employees in… https://t.co/OuCOH3iMMk",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/OuCOH3iMMk",
+						"expanded_url": "https://twitter.com/i/web/status/991600181207556096",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 30331417,
+				"id_str": "30331417",
+				"name": "Evgeny Morozov",
+				"screen_name": "evgenymorozov",
+				"location": "Cynicism As A Service",
+				"description": "There are useful idiots. Look around.",
+				"url": "http://t.co/5Xn4bUPcHO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/5Xn4bUPcHO",
+								"expanded_url": "http://www.amazon.com/Save-Everything-Click-Here-Technological/dp/1610391381/",
+								"display_url": "amazon.com/Save-Everythin…",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 74908,
+				"friends_count": 4530,
+				"listed_count": 3860,
+				"created_at": "Fri Apr 10 22:39:27 +0000 2009",
+				"favourites_count": 111,
+				"utc_offset": -7200,
+				"time_zone": "Greenland",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 23964,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/640536915477794816/u9TxNsKI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/640536915477794816/u9TxNsKI_normal.jpg",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 991368369151594500,
+			"quoted_status_id_str": "991368369151594497",
+			"quoted_status": {
+				"created_at": "Tue May 01 17:26:52 +0000 2018",
+				"id": 991368369151594500,
+				"id_str": "991368369151594497",
+				"text": "https://t.co/iJ3i9aT3uZ",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 991368365150277600,
+							"id_str": "991368365150277632",
+							"indices": [
+								0,
+								23
+							],
+							"media_url": "http://pbs.twimg.com/media/DcIMRo5XkAA6xwR.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DcIMRo5XkAA6xwR.jpg",
+							"url": "https://t.co/iJ3i9aT3uZ",
+							"display_url": "pic.twitter.com/iJ3i9aT3uZ",
+							"expanded_url": "https://twitter.com/ndrew_lawrence/status/991368369151594497/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 750,
+									"h": 877,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 582,
+									"h": 680,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 750,
+									"h": 877,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 991368365150277600,
+							"id_str": "991368365150277632",
+							"indices": [
+								0,
+								23
+							],
+							"media_url": "http://pbs.twimg.com/media/DcIMRo5XkAA6xwR.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DcIMRo5XkAA6xwR.jpg",
+							"url": "https://t.co/iJ3i9aT3uZ",
+							"display_url": "pic.twitter.com/iJ3i9aT3uZ",
+							"expanded_url": "https://twitter.com/ndrew_lawrence/status/991368369151594497/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 750,
+									"h": 877,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 582,
+									"h": 680,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 750,
+									"h": 877,
+									"resize": "fit"
+								}
+							}
+						},
+						{
+							"id": 991368365141844000,
+							"id_str": "991368365141843968",
+							"indices": [
+								0,
+								23
+							],
+							"media_url": "http://pbs.twimg.com/media/DcIMRo3W4AADhi3.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DcIMRo3W4AADhi3.jpg",
+							"url": "https://t.co/iJ3i9aT3uZ",
+							"display_url": "pic.twitter.com/iJ3i9aT3uZ",
+							"expanded_url": "https://twitter.com/ndrew_lawrence/status/991368369151594497/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 521,
+									"h": 680,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 750,
+									"h": 978,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 750,
+									"h": 978,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 1228462620,
+					"id_str": "1228462620",
+					"name": "Andrew Lawrence",
+					"screen_name": "ndrew_lawrence",
+					"location": "",
+					"description": "Sr. Researcher @mmfa 99% of RTs are endorsements",
+					"url": "https://t.co/6OTBCbLJW2",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/6OTBCbLJW2",
+									"expanded_url": "https://www.mediamatters.org/authors/andrew-lawrence/218",
+									"display_url": "mediamatters.org/authors/andrew…",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 6996,
+					"friends_count": 2542,
+					"listed_count": 196,
+					"created_at": "Thu Feb 28 22:06:12 +0000 2013",
+					"favourites_count": 28406,
+					"utc_offset": -14400,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 26134,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "131516",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/3335776061/7afd2b729a781c7f76dc122cab3ba5f7_normal.jpeg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/3335776061/7afd2b729a781c7f76dc122cab3ba5f7_normal.jpeg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/1228462620/1493957830",
+					"profile_link_color": "009999",
+					"profile_sidebar_border_color": "EEEEEE",
+					"profile_sidebar_fill_color": "EFEFEF",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 9783,
+				"favorite_count": 18376,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "und"
+			},
+			"retweet_count": 213,
+			"favorite_count": 256,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 991368369151594500,
+		"quoted_status_id_str": "991368369151594497",
+		"retweet_count": 213,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed May 02 20:41:01 +0000 2018",
 		"id": 991779617001410600,
 		"id_str": "991779617001410560",
