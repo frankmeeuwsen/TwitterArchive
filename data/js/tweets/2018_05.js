@@ -1,6 +1,471 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Fri May 04 14:19:50 +0000 2018",
+		"id": 992408465942499300,
+		"id_str": "992408465942499331",
+		"text": "RT @deadsara: Our new singles “Unamerican” and “Heaven’s Got a Back Door” from our upcoming @atlanticrecords EP Temporary Things Taking Up…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "deadsara",
+					"name": "dead sara",
+					"id": 35649837,
+					"id_str": "35649837",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "AtlanticRecords",
+					"name": "Atlantic Records",
+					"id": 24429991,
+					"id_str": "24429991",
+					"indices": [
+						92,
+						108
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9160,
+			"friends_count": 2012,
+			"listed_count": 605,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4004,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60758,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1520723563",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri May 04 14:13:07 +0000 2018",
+			"id": 992406774018969600,
+			"id_str": "992406774018969601",
+			"text": "Our new singles “Unamerican” and “Heaven’s Got a Back Door” from our upcoming @atlanticrecords EP Temporary Things… https://t.co/3pely79ohg",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "AtlanticRecords",
+						"name": "Atlantic Records",
+						"id": 24429991,
+						"id_str": "24429991",
+						"indices": [
+							78,
+							94
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/3pely79ohg",
+						"expanded_url": "https://twitter.com/i/web/status/992406774018969601",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 35649837,
+				"id_str": "35649837",
+				"name": "dead sara",
+				"screen_name": "deadsara",
+				"location": "Los Angeles",
+				"description": "Born n bred in Los Angeles // Signed to Elektra/Atlantic records // Management: deadsara@castmgmt.com // https://t.co/hm9TwyvNwc",
+				"url": "https://t.co/q3gDwkDQB5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/q3gDwkDQB5",
+								"expanded_url": "https://www.billboard.com/articles/columns/rock/8454345/dead-sara-new-ep-interview",
+								"display_url": "billboard.com/articles/colum…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/hm9TwyvNwc",
+								"expanded_url": "http://www.deadsara.com",
+								"display_url": "deadsara.com",
+								"indices": [
+									105,
+									128
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 22782,
+				"friends_count": 269,
+				"listed_count": 278,
+				"created_at": "Mon Apr 27 02:58:15 +0000 2009",
+				"favourites_count": 461,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 7269,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/430942186/twitter.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/430942186/twitter.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/874374440141824000/HTxl1xN2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/874374440141824000/HTxl1xN2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/35649837/1487276043",
+				"profile_link_color": "C44B4B",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "7D7D7D",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri May 04 13:22:44 +0000 2018",
+		"id": 992394093765496800,
+		"id_str": "992394093765496832",
+		"text": "Eigenlijk zoiets als dit... https://t.co/QxT6Jh1RwM https://t.co/NoYxCDnmcx",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QxT6Jh1RwM",
+					"expanded_url": "http://diggingthedigital.com/Indieweb/",
+					"display_url": "diggingthedigital.com/Indieweb/",
+					"indices": [
+						28,
+						51
+					]
+				},
+				{
+					"url": "https://t.co/NoYxCDnmcx",
+					"expanded_url": "https://twitter.com/Schellevis/status/992387139022225409",
+					"display_url": "twitter.com/Schellevis/sta…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9160,
+			"friends_count": 2012,
+			"listed_count": 605,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4004,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60758,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1520723563",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 992387139022225400,
+		"quoted_status_id_str": "992387139022225409",
+		"quoted_status": {
+			"created_at": "Fri May 04 12:55:06 +0000 2018",
+			"id": 992387139022225400,
+			"id_str": "992387139022225409",
+			"text": "Zoals het web ooit is bedacht, eigenlijk: een decentrale verzameling websites die naar elkaar linken, ipv 1 website waar we *alles* doen",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 992386452112773100,
+			"in_reply_to_status_id_str": "992386452112773120",
+			"in_reply_to_user_id": 6043092,
+			"in_reply_to_user_id_str": "6043092",
+			"in_reply_to_screen_name": "Schellevis",
+			"user": {
+				"id": 6043092,
+				"id_str": "6043092",
+				"name": "Joost Schellevis",
+				"screen_name": "Schellevis",
+				"location": "",
+				"description": "Techjournalist @NOS: privacy, hacken, ict-wetgeving. joost@schellevis.net. Veilig tippen: https://t.co/x5xH9o9GCA. Ook @metnerdsomtafel",
+				"url": "https://t.co/DIfMxNb297",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/DIfMxNb297",
+								"expanded_url": "http://schellevis.net",
+								"display_url": "schellevis.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/x5xH9o9GCA",
+								"expanded_url": "http://schellevis.net/contact",
+								"display_url": "schellevis.net/contact",
+								"indices": [
+									90,
+									113
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 12630,
+				"friends_count": 958,
+				"listed_count": 417,
+				"created_at": "Mon May 14 20:54:53 +0000 2007",
+				"favourites_count": 7811,
+				"utc_offset": 7200,
+				"time_zone": "Amsterdam",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 16408,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "005A84",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/114932027/twilk_background_4c1fdda667e08.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/114932027/twilk_background_4c1fdda667e08.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/918466328016642048/3kQ97sTt_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/918466328016642048/3kQ97sTt_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/6043092/1468098577",
+				"profile_link_color": "005A84",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Fri May 04 12:53:09 +0000 2018",
 		"id": 992386649425313800,
 		"id_str": "992386649425313792",
