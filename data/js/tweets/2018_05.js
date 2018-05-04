@@ -1,6 +1,413 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Fri May 04 19:44:17 +0000 2018",
+		"id": 992490114923270100,
+		"id_str": "992490114923270144",
+		"text": "RT @zannah: My heart!!! 🖤🖤🖤 https://t.co/OgXwFGFvrO",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "zannah",
+					"name": "[title] ♥.(.Zannah.). [surname]",
+					"id": 11724,
+					"id_str": "11724",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/OgXwFGFvrO",
+					"expanded_url": "https://twitter.com/riotquickshot/status/992357461557481472",
+					"display_url": "twitter.com/riotquickshot/…",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9157,
+			"friends_count": 2011,
+			"listed_count": 605,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4006,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60760,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1520723563",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri May 04 19:27:51 +0000 2018",
+			"id": 992485978337042400,
+			"id_str": "992485978337042432",
+			"text": "My heart!!! 🖤🖤🖤 https://t.co/OgXwFGFvrO",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/OgXwFGFvrO",
+						"expanded_url": "https://twitter.com/riotquickshot/status/992357461557481472",
+						"display_url": "twitter.com/riotquickshot/…",
+						"indices": [
+							16,
+							39
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 11724,
+				"id_str": "11724",
+				"name": "[title] ♥.(.Zannah.). [surname]",
+				"screen_name": "zannah",
+				"location": "Seattle",
+				"description": "the #!/usr/bin/girl. loves technology, wearables, iphoneography, bb8 (not in that order). creative. over-punctuating since 1995. [insta: helloZannah]",
+				"url": "https://t.co/2Xc6azqYHX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2Xc6azqYHX",
+								"expanded_url": "http://www.instsagram.com/hellozannah",
+								"display_url": "instsagram.com/hellozannah",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1220,
+				"friends_count": 776,
+				"listed_count": 84,
+				"created_at": "Tue Nov 07 20:36:02 +0000 2006",
+				"favourites_count": 6121,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 12235,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/859653043498893312/2lwLuqY2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/859653043498893312/2lwLuqY2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/11724/1481829533",
+				"profile_link_color": "00BBFF",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 992357461557481500,
+			"quoted_status_id_str": "992357461557481472",
+			"quoted_status": {
+				"created_at": "Fri May 04 10:57:10 +0000 2018",
+				"id": 992357461557481500,
+				"id_str": "992357461557481472",
+				"text": "OMG the departures board at @HeathrowAirport is AMAZING. \n\nI think the Alderaan flight, cancelled is SUPER BM lol. https://t.co/ebFP51Xf5p",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "HeathrowAirport",
+							"name": "Heathrow Airport",
+							"id": 20823928,
+							"id_str": "20823928",
+							"indices": [
+								28,
+								44
+							]
+						}
+					],
+					"urls": [],
+					"media": [
+						{
+							"id": 992357328543518700,
+							"id_str": "992357328543518720",
+							"indices": [
+								115,
+								138
+							],
+							"media_url": "http://pbs.twimg.com/media/DcWPu4oXkAAAvk2.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DcWPu4oXkAAAvk2.jpg",
+							"url": "https://t.co/ebFP51Xf5p",
+							"display_url": "pic.twitter.com/ebFP51Xf5p",
+							"expanded_url": "https://twitter.com/RiotQuickshot/status/992357461557481472/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 720,
+									"h": 960,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 720,
+									"h": 960,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 510,
+									"h": 680,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 992357328543518700,
+							"id_str": "992357328543518720",
+							"indices": [
+								115,
+								138
+							],
+							"media_url": "http://pbs.twimg.com/media/DcWPu4oXkAAAvk2.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DcWPu4oXkAAAvk2.jpg",
+							"url": "https://t.co/ebFP51Xf5p",
+							"display_url": "pic.twitter.com/ebFP51Xf5p",
+							"expanded_url": "https://twitter.com/RiotQuickshot/status/992357461557481472/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 720,
+									"h": 960,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 720,
+									"h": 960,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 510,
+									"h": 680,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 143006466,
+					"id_str": "143006466",
+					"name": "Trevor Henry",
+					"screen_name": "RiotQuickshot",
+					"location": "Berlin Germany",
+					"description": "Shoutcaster🎙️ for League of Legends at Riot Games👊. I get excited and yell for a living. South African🇿🇦, that's why I talk funny.\nEUW: Riot Quickshot",
+					"url": "https://t.co/K21LF3EcPw",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/K21LF3EcPw",
+									"expanded_url": "http://www.instagram.com/quickshotofficial",
+									"display_url": "instagram.com/quickshotoffic…",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 223480,
+					"friends_count": 579,
+					"listed_count": 932,
+					"created_at": "Wed May 12 09:45:59 +0000 2010",
+					"favourites_count": 2946,
+					"utc_offset": 7200,
+					"time_zone": "Berlin",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 28890,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "131516",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/992011001091514368/uJqX60jd_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/992011001091514368/uJqX60jd_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/143006466/1524776068",
+					"profile_link_color": "2121B8",
+					"profile_sidebar_border_color": "EEEEEE",
+					"profile_sidebar_fill_color": "EFEFEF",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 725,
+				"favorite_count": 2203,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 992357461557481500,
+		"quoted_status_id_str": "992357461557481472",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri May 04 15:53:04 +0000 2018",
 		"id": 992431926836432900,
 		"id_str": "992431926836432897",
