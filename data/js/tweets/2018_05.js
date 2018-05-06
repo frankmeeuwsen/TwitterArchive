@@ -1,6 +1,542 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Sun May 06 08:09:39 +0000 2018",
+		"id": 993040080565661700,
+		"id_str": "993040080565661696",
+		"text": "RT @Learn_Things: Clockception!\nThis clock made of clocks is awesome https://t.co/8p0KAfu9OB",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Learn_Things",
+					"name": "Science GIFs⚛️",
+					"id": 593370001,
+					"id_str": "593370001",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 824987939469942800,
+					"id_str": "824987939469942789",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/824987939469942789/pu/img/ufhqx-ASSouc3Y5X.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/824987939469942789/pu/img/ufhqx-ASSouc3Y5X.jpg",
+					"url": "https://t.co/8p0KAfu9OB",
+					"display_url": "pic.twitter.com/8p0KAfu9OB",
+					"expanded_url": "https://twitter.com/TheMindBlowing/status/824987995124142082/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 824987995124142100,
+					"source_status_id_str": "824987995124142082",
+					"source_user_id": 488751763,
+					"source_user_id_str": "488751763"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 824987939469942800,
+					"id_str": "824987939469942789",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/824987939469942789/pu/img/ufhqx-ASSouc3Y5X.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/824987939469942789/pu/img/ufhqx-ASSouc3Y5X.jpg",
+					"url": "https://t.co/8p0KAfu9OB",
+					"display_url": "pic.twitter.com/8p0KAfu9OB",
+					"expanded_url": "https://twitter.com/TheMindBlowing/status/824987995124142082/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 824987995124142100,
+					"source_status_id_str": "824987995124142082",
+					"source_user_id": 488751763,
+					"source_user_id_str": "488751763",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 15000,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/824987939469942789/pu/pl/FuWvGJ9eB31MIBdT.m3u8"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/824987939469942789/pu/vid/240x240/la_fb-Whx4N7_Tt1.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/824987939469942789/pu/vid/480x480/op2PX_9jojz0A63-.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 488751763,
+							"id_str": "488751763",
+							"name": "Mind Blowing",
+							"screen_name": "TheMindBlowing",
+							"location": "United States",
+							"description": "We post Mind Blowing facts and stuff. When you doubt our facts, just Google them. Thank you. For Advertisement, Contact: HiMindBlowing@gmail.com",
+							"url": "https://t.co/t0wy8yhnDi",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/t0wy8yhnDi",
+											"expanded_url": "http://Facebook.com/TheMindBlown",
+											"display_url": "Facebook.com/TheMindBlown",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 1246508,
+							"friends_count": 74,
+							"listed_count": 3860,
+							"created_at": "Fri Feb 10 20:11:24 +0000 2012",
+							"favourites_count": 1325,
+							"utc_offset": 19800,
+							"time_zone": "Chennai",
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 9034,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/691632901398462465/W0y1HdRX_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/691632901398462465/W0y1HdRX_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/488751763/1492855045",
+							"profile_link_color": "0084B4",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9155,
+			"friends_count": 2011,
+			"listed_count": 605,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4014,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60769,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1520723563",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun May 06 02:02:01 +0000 2018",
+			"id": 992947563321004000,
+			"id_str": "992947563321004033",
+			"text": "Clockception!\nThis clock made of clocks is awesome https://t.co/8p0KAfu9OB",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 824987939469942800,
+						"id_str": "824987939469942789",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/824987939469942789/pu/img/ufhqx-ASSouc3Y5X.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/824987939469942789/pu/img/ufhqx-ASSouc3Y5X.jpg",
+						"url": "https://t.co/8p0KAfu9OB",
+						"display_url": "pic.twitter.com/8p0KAfu9OB",
+						"expanded_url": "https://twitter.com/TheMindBlowing/status/824987995124142082/video/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 824987995124142100,
+						"source_status_id_str": "824987995124142082",
+						"source_user_id": 488751763,
+						"source_user_id_str": "488751763"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 824987939469942800,
+						"id_str": "824987939469942789",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/824987939469942789/pu/img/ufhqx-ASSouc3Y5X.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/824987939469942789/pu/img/ufhqx-ASSouc3Y5X.jpg",
+						"url": "https://t.co/8p0KAfu9OB",
+						"display_url": "pic.twitter.com/8p0KAfu9OB",
+						"expanded_url": "https://twitter.com/TheMindBlowing/status/824987995124142082/video/1",
+						"type": "video",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 824987995124142100,
+						"source_status_id_str": "824987995124142082",
+						"source_user_id": 488751763,
+						"source_user_id_str": "488751763",
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 15000,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/824987939469942789/pu/pl/FuWvGJ9eB31MIBdT.m3u8"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/824987939469942789/pu/vid/240x240/la_fb-Whx4N7_Tt1.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/824987939469942789/pu/vid/480x480/op2PX_9jojz0A63-.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 488751763,
+								"id_str": "488751763",
+								"name": "Mind Blowing",
+								"screen_name": "TheMindBlowing",
+								"location": "United States",
+								"description": "We post Mind Blowing facts and stuff. When you doubt our facts, just Google them. Thank you. For Advertisement, Contact: HiMindBlowing@gmail.com",
+								"url": "https://t.co/t0wy8yhnDi",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/t0wy8yhnDi",
+												"expanded_url": "http://Facebook.com/TheMindBlown",
+												"display_url": "Facebook.com/TheMindBlown",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 1246508,
+								"friends_count": 74,
+								"listed_count": 3860,
+								"created_at": "Fri Feb 10 20:11:24 +0000 2012",
+								"favourites_count": 1325,
+								"utc_offset": 19800,
+								"time_zone": "Chennai",
+								"geo_enabled": true,
+								"verified": false,
+								"statuses_count": 9034,
+								"lang": "en",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "C0DEED",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/691632901398462465/W0y1HdRX_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/691632901398462465/W0y1HdRX_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/488751763/1492855045",
+								"profile_link_color": "0084B4",
+								"profile_sidebar_border_color": "FFFFFF",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": false,
+								"has_extended_profile": false,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 593370001,
+				"id_str": "593370001",
+				"name": "Science GIFs⚛️",
+				"screen_name": "Learn_Things",
+				"location": "hello@social-proof.com📬",
+				"description": "The best Science GIFs, Videos and more!",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1134192,
+				"friends_count": 22,
+				"listed_count": 3954,
+				"created_at": "Tue May 29 04:49:10 +0000 2012",
+				"favourites_count": 3,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2336,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/541249547385982976/5IYaH6zA_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/541249547385982976/5IYaH6zA_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/593370001/1417880383",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1342,
+			"favorite_count": 3157,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1342,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat May 05 15:52:22 +0000 2018",
 		"id": 992794136834080800,
 		"id_str": "992794136834080770",
