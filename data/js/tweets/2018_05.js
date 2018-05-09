@@ -1,6 +1,430 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Wed May 09 14:17:35 +0000 2018",
+		"id": 994219836505931800,
+		"id_str": "994219836505931777",
+		"text": "RT @ecosummit: Arjen Noorbergen pitches @iamOlisto at Ecosummit Berlin 2018 #ECO18 @Eneco https://t.co/FE1pWCk6LB",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ECO18",
+					"indices": [
+						76,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ecosummit",
+					"name": "Ecosummit",
+					"id": 214067697,
+					"id_str": "214067697",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "iamOlisto",
+					"name": "Olisto",
+					"id": 3879014177,
+					"id_str": "3879014177",
+					"indices": [
+						40,
+						50
+					]
+				},
+				{
+					"screen_name": "Eneco",
+					"name": "Eneco",
+					"id": 177189845,
+					"id_str": "177189845",
+					"indices": [
+						83,
+						89
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 993883374195535900,
+					"id_str": "993883374195535872",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/Dcr7qbsXcAAFBYl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dcr7qbsXcAAFBYl.jpg",
+					"url": "https://t.co/FE1pWCk6LB",
+					"display_url": "pic.twitter.com/FE1pWCk6LB",
+					"expanded_url": "https://twitter.com/ecosummit/status/993883390200905730/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 993883390200905700,
+					"source_status_id_str": "993883390200905730",
+					"source_user_id": 214067697,
+					"source_user_id_str": "214067697"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 993883374195535900,
+					"id_str": "993883374195535872",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/Dcr7qbsXcAAFBYl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dcr7qbsXcAAFBYl.jpg",
+					"url": "https://t.co/FE1pWCk6LB",
+					"display_url": "pic.twitter.com/FE1pWCk6LB",
+					"expanded_url": "https://twitter.com/ecosummit/status/993883390200905730/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 993883390200905700,
+					"source_status_id_str": "993883390200905730",
+					"source_user_id": 214067697,
+					"source_user_id_str": "214067697"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9154,
+			"friends_count": 2015,
+			"listed_count": 605,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4023,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60756,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1520723563",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue May 08 16:00:40 +0000 2018",
+			"id": 993883390200905700,
+			"id_str": "993883390200905730",
+			"text": "Arjen Noorbergen pitches @iamOlisto at Ecosummit Berlin 2018 #ECO18 @Eneco https://t.co/FE1pWCk6LB",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ECO18",
+						"indices": [
+							61,
+							67
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "iamOlisto",
+						"name": "Olisto",
+						"id": 3879014177,
+						"id_str": "3879014177",
+						"indices": [
+							25,
+							35
+						]
+					},
+					{
+						"screen_name": "Eneco",
+						"name": "Eneco",
+						"id": 177189845,
+						"id_str": "177189845",
+						"indices": [
+							68,
+							74
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 993883374195535900,
+						"id_str": "993883374195535872",
+						"indices": [
+							75,
+							98
+						],
+						"media_url": "http://pbs.twimg.com/media/Dcr7qbsXcAAFBYl.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dcr7qbsXcAAFBYl.jpg",
+						"url": "https://t.co/FE1pWCk6LB",
+						"display_url": "pic.twitter.com/FE1pWCk6LB",
+						"expanded_url": "https://twitter.com/ecosummit/status/993883390200905730/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 993883374195535900,
+						"id_str": "993883374195535872",
+						"indices": [
+							75,
+							98
+						],
+						"media_url": "http://pbs.twimg.com/media/Dcr7qbsXcAAFBYl.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dcr7qbsXcAAFBYl.jpg",
+						"url": "https://t.co/FE1pWCk6LB",
+						"display_url": "pic.twitter.com/FE1pWCk6LB",
+						"expanded_url": "https://twitter.com/ecosummit/status/993883390200905730/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 214067697,
+				"id_str": "214067697",
+				"name": "Ecosummit",
+				"screen_name": "ecosummit",
+				"location": "Berlin, Germany",
+				"description": "Ecosummit accelerates smart green startups, investors and corporates in energy, mobility and cities. Ecosummit Berlin 8-9 May 2018.",
+				"url": "https://t.co/guub3tZkNJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/guub3tZkNJ",
+								"expanded_url": "http://ecosummit.net",
+								"display_url": "ecosummit.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4815,
+				"friends_count": 4713,
+				"listed_count": 239,
+				"created_at": "Wed Nov 10 13:51:09 +0000 2010",
+				"favourites_count": 1451,
+				"utc_offset": 7200,
+				"time_zone": "Berlin",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5435,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B2DBF0",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/504278227095797761/hmDaYPSp.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/504278227095797761/hmDaYPSp.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1731663936/ecosummit_twitter_icon_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1731663936/ecosummit_twitter_icon_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/214067697/1498228786",
+				"profile_link_color": "7AB21F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "fi"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fi"
+	},
+	{
 		"created_at": "Wed May 09 12:54:36 +0000 2018",
 		"id": 994198952152006700,
 		"id_str": "994198952152006656",
