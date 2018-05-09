@@ -1,6 +1,241 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Wed May 09 17:55:57 +0000 2018",
+		"id": 994274791950618600,
+		"id_str": "994274791950618624",
+		"text": "Een verhaal over onafhankelijke lokale journalistiek en hoe Medium met de abonnees omgaat... (spoileralert: niet zo… https://t.co/VT1KolRwIR",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VT1KolRwIR",
+					"expanded_url": "https://twitter.com/i/web/status/994274791950618624",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9155,
+			"friends_count": 2017,
+			"listed_count": 605,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4023,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60761,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1520723563",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 993844676774985700,
+		"quoted_status_id_str": "993844676774985728",
+		"quoted_status": {
+			"created_at": "Tue May 08 13:26:50 +0000 2018",
+			"id": 993844676774985700,
+			"id_str": "993844676774985728",
+			"text": "I was too busy to deal with this yesterday, but am sad and pretty much perplexed to report that @Medium curiously a… https://t.co/DyLh5Bs9W5",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Medium",
+						"name": "Medium",
+						"id": 571202103,
+						"id_str": "571202103",
+						"indices": [
+							96,
+							103
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/DyLh5Bs9W5",
+						"expanded_url": "https://twitter.com/i/web/status/993844676774985728",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21406740,
+				"id_str": "21406740",
+				"name": "Chris Faraone",
+				"screen_name": "Fara1",
+				"location": "Boston, MA",
+				"description": "Editor: @DigBoston + https://t.co/kQgHEVrJfy | Author of books incl. '99 Nights with the 99%' | Founder: Boston Institute for Nonprofit Journalism (@BINJreports)",
+				"url": "https://t.co/wsDVOZYV2z",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wsDVOZYV2z",
+								"expanded_url": "http://binjonline.org",
+								"display_url": "binjonline.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/kQgHEVrJfy",
+								"expanded_url": "http://talkingjointsmemo.com",
+								"display_url": "talkingjointsmemo.com",
+								"indices": [
+									21,
+									44
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 14093,
+				"friends_count": 8960,
+				"listed_count": 634,
+				"created_at": "Fri Feb 20 15:48:17 +0000 2009",
+				"favourites_count": 2787,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 27417,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/607157391851954176/VjwH_0vB.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/607157391851954176/VjwH_0vB.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/605160851012583424/NsGAtlV__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/605160851012583424/NsGAtlV__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21406740/1523145415",
+				"profile_link_color": "FA743E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EEEC2F",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 30,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Wed May 09 17:06:35 +0000 2018",
 		"id": 994262366941564900,
 		"id_str": "994262366941564929",
@@ -12,7 +247,7 @@ Grailbird.data.tweets_2018_05 =
 			"user_mentions": [
 				{
 					"screen_name": "blindsiren",
-					"name": "‏ً",
+					"name": "ً",
 					"id": 755199669588734000,
 					"id_str": "755199669588733952",
 					"indices": [
@@ -365,7 +600,7 @@ Grailbird.data.tweets_2018_05 =
 			"user": {
 				"id": 755199669588734000,
 				"id_str": "755199669588733952",
-				"name": "‏ً",
+				"name": "ً",
 				"screen_name": "blindsiren",
 				"location": "",
 				"description": "what’s a bio? i don’t know her 💅",
