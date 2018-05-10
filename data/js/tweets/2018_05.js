@@ -1,6 +1,326 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Thu May 10 19:40:02 +0000 2018",
+		"id": 994663370954543100,
+		"id_str": "994663370954543104",
+		"text": "RT @bbceurovision: Johnny Cash was the Man in Black. Waylon is the man in gold leopard print lame. Snazzy. #Netherlands #Eurovision https:/…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Netherlands",
+					"indices": [
+						107,
+						119
+					]
+				},
+				{
+					"text": "Eurovision",
+					"indices": [
+						120,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bbceurovision",
+					"name": "BBC Eurovision🇬🇧",
+					"id": 24679473,
+					"id_str": "24679473",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9156,
+			"friends_count": 2018,
+			"listed_count": 605,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4026,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60771,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1520723563",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu May 10 19:39:41 +0000 2018",
+			"id": 994663281871728600,
+			"id_str": "994663281871728641",
+			"text": "Johnny Cash was the Man in Black. Waylon is the man in gold leopard print lame. Snazzy. #Netherlands #Eurovision https://t.co/xkYWI4z5vm",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Netherlands",
+						"indices": [
+							88,
+							100
+						]
+					},
+					{
+						"text": "Eurovision",
+						"indices": [
+							101,
+							112
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 994633000959840300,
+						"id_str": "994633000959840256",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/media/Dc2lcdAXkAABGoG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dc2lcdAXkAABGoG.jpg",
+						"url": "https://t.co/xkYWI4z5vm",
+						"display_url": "pic.twitter.com/xkYWI4z5vm",
+						"expanded_url": "https://twitter.com/bbceurovision/status/994663281871728641/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 853,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 994633000959840300,
+						"id_str": "994633000959840256",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/media/Dc2lcdAXkAABGoG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dc2lcdAXkAABGoG.jpg",
+						"url": "https://t.co/xkYWI4z5vm",
+						"display_url": "pic.twitter.com/xkYWI4z5vm",
+						"expanded_url": "https://twitter.com/bbceurovision/status/994663281871728641/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 853,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 24679473,
+				"id_str": "24679473",
+				"name": "BBC Eurovision🇬🇧",
+				"screen_name": "bbceurovision",
+				"location": "London",
+				"description": "Official UK #Eurovision delegation. Replies may be used during live BBC shows. https://t.co/XvLeHG9NS0. #ESC2018.",
+				"url": "https://t.co/XvLeHG9NS0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/XvLeHG9NS0",
+								"expanded_url": "http://www.bbc.co.uk/eurovision",
+								"display_url": "bbc.co.uk/eurovision",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/XvLeHG9NS0",
+								"expanded_url": "http://www.bbc.co.uk/eurovision",
+								"display_url": "bbc.co.uk/eurovision",
+								"indices": [
+									79,
+									102
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 185223,
+				"friends_count": 9715,
+				"listed_count": 986,
+				"created_at": "Mon Mar 16 11:48:06 +0000 2009",
+				"favourites_count": 2274,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 6397,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "192B2D",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/439048993423638529/VuBeLGUL.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/439048993423638529/VuBeLGUL.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/719089304056766464/bxmo1D13_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/719089304056766464/bxmo1D13_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/24679473/1522401767",
+				"profile_link_color": "2D7088",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F58989",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 256,
+			"favorite_count": 596,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 256,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu May 10 16:23:24 +0000 2018",
 		"id": 994613888472764400,
 		"id_str": "994613888472764416",
