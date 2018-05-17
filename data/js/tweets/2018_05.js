@@ -1,6 +1,601 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Thu May 17 16:58:07 +0000 2018",
+		"id": 997159338459492400,
+		"id_str": "997159338459492352",
+		"text": "RT @BlakeNorthcott: We're all living in 2018. Deadpool 2's marketing team is living in 3018. https://t.co/jL4cEIduZN",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BlakeNorthcott",
+					"name": "Blake Northcott™⭐",
+					"id": 182238594,
+					"id_str": "182238594",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 996842286305591300,
+					"id_str": "996842286305591296",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/DdV-xyRVQAAQc87.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DdV-xyRVQAAQc87.jpg",
+					"url": "https://t.co/jL4cEIduZN",
+					"display_url": "pic.twitter.com/jL4cEIduZN",
+					"expanded_url": "https://twitter.com/BlakeNorthcott/status/996842512114479104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 996842512114479100,
+					"source_status_id_str": "996842512114479104",
+					"source_user_id": 182238594,
+					"source_user_id_str": "182238594"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 996842286305591300,
+					"id_str": "996842286305591296",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/DdV-xyRVQAAQc87.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DdV-xyRVQAAQc87.jpg",
+					"url": "https://t.co/jL4cEIduZN",
+					"display_url": "pic.twitter.com/jL4cEIduZN",
+					"expanded_url": "https://twitter.com/BlakeNorthcott/status/996842512114479104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 996842512114479100,
+					"source_status_id_str": "996842512114479104",
+					"source_user_id": 182238594,
+					"source_user_id_str": "182238594"
+				},
+				{
+					"id": 996842347529846800,
+					"id_str": "996842347529846785",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/DdV-1WWVQAE1Hoi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DdV-1WWVQAE1Hoi.jpg",
+					"url": "https://t.co/jL4cEIduZN",
+					"display_url": "pic.twitter.com/jL4cEIduZN",
+					"expanded_url": "https://twitter.com/BlakeNorthcott/status/996842512114479104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 996842512114479100,
+					"source_status_id_str": "996842512114479104",
+					"source_user_id": 182238594,
+					"source_user_id_str": "182238594"
+				},
+				{
+					"id": 996842381352685600,
+					"id_str": "996842381352685568",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/DdV-3UWU0AARF6I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DdV-3UWU0AARF6I.jpg",
+					"url": "https://t.co/jL4cEIduZN",
+					"display_url": "pic.twitter.com/jL4cEIduZN",
+					"expanded_url": "https://twitter.com/BlakeNorthcott/status/996842512114479104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 996842512114479100,
+					"source_status_id_str": "996842512114479104",
+					"source_user_id": 182238594,
+					"source_user_id_str": "182238594"
+				},
+				{
+					"id": 996842403062472700,
+					"id_str": "996842403062472704",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/DdV-4lOV4AAbR35.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DdV-4lOV4AAbR35.jpg",
+					"url": "https://t.co/jL4cEIduZN",
+					"display_url": "pic.twitter.com/jL4cEIduZN",
+					"expanded_url": "https://twitter.com/BlakeNorthcott/status/996842512114479104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 996842512114479100,
+					"source_status_id_str": "996842512114479104",
+					"source_user_id": 182238594,
+					"source_user_id_str": "182238594"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9172,
+			"friends_count": 2023,
+			"listed_count": 607,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4051,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60792,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1520723563",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed May 16 19:59:09 +0000 2018",
+			"id": 996842512114479100,
+			"id_str": "996842512114479104",
+			"text": "We're all living in 2018. Deadpool 2's marketing team is living in 3018. https://t.co/jL4cEIduZN",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 996842286305591300,
+						"id_str": "996842286305591296",
+						"indices": [
+							73,
+							96
+						],
+						"media_url": "http://pbs.twimg.com/media/DdV-xyRVQAAQc87.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DdV-xyRVQAAQc87.jpg",
+						"url": "https://t.co/jL4cEIduZN",
+						"display_url": "pic.twitter.com/jL4cEIduZN",
+						"expanded_url": "https://twitter.com/BlakeNorthcott/status/996842512114479104/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 960,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 960,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 996842286305591300,
+						"id_str": "996842286305591296",
+						"indices": [
+							73,
+							96
+						],
+						"media_url": "http://pbs.twimg.com/media/DdV-xyRVQAAQc87.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DdV-xyRVQAAQc87.jpg",
+						"url": "https://t.co/jL4cEIduZN",
+						"display_url": "pic.twitter.com/jL4cEIduZN",
+						"expanded_url": "https://twitter.com/BlakeNorthcott/status/996842512114479104/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 960,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 960,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 996842347529846800,
+						"id_str": "996842347529846785",
+						"indices": [
+							73,
+							96
+						],
+						"media_url": "http://pbs.twimg.com/media/DdV-1WWVQAE1Hoi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DdV-1WWVQAE1Hoi.jpg",
+						"url": "https://t.co/jL4cEIduZN",
+						"display_url": "pic.twitter.com/jL4cEIduZN",
+						"expanded_url": "https://twitter.com/BlakeNorthcott/status/996842512114479104/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 720,
+								"h": 960,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 960,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 996842381352685600,
+						"id_str": "996842381352685568",
+						"indices": [
+							73,
+							96
+						],
+						"media_url": "http://pbs.twimg.com/media/DdV-3UWU0AARF6I.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DdV-3UWU0AARF6I.jpg",
+						"url": "https://t.co/jL4cEIduZN",
+						"display_url": "pic.twitter.com/jL4cEIduZN",
+						"expanded_url": "https://twitter.com/BlakeNorthcott/status/996842512114479104/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 720,
+								"h": 960,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 960,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 996842403062472700,
+						"id_str": "996842403062472704",
+						"indices": [
+							73,
+							96
+						],
+						"media_url": "http://pbs.twimg.com/media/DdV-4lOV4AAbR35.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DdV-4lOV4AAbR35.jpg",
+						"url": "https://t.co/jL4cEIduZN",
+						"display_url": "pic.twitter.com/jL4cEIduZN",
+						"expanded_url": "https://twitter.com/BlakeNorthcott/status/996842512114479104/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 720,
+								"h": 960,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 960,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 182238594,
+				"id_str": "182238594",
+				"name": "Blake Northcott™⭐",
+				"screen_name": "BlakeNorthcott",
+				"location": "Toronto, Ontario 🇨🇦",
+				"description": "Writer of novels, comic books & tweets. International best-selling author of ARENA MODE. Writer of FATHOM and EXECUTIVE ASSISTANT: IRIS @AspenComics. #AmWriting",
+				"url": "https://t.co/d2sAE04BW4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/d2sAE04BW4",
+								"expanded_url": "http://www.blakenorthcott.com/",
+								"display_url": "blakenorthcott.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 40906,
+				"friends_count": 30181,
+				"listed_count": 1085,
+				"created_at": "Tue Aug 24 04:18:51 +0000 2010",
+				"favourites_count": 17769,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 19775,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/507388964857073664/rf_2Ru9D.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/507388964857073664/rf_2Ru9D.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/979755164033830914/npS6_OKu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/979755164033830914/npS6_OKu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/182238594/1526434151",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "F0F0F0",
+				"profile_text_color": "1D1D1E",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 38941,
+			"favorite_count": 74056,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 38941,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu May 17 14:55:28 +0000 2018",
 		"id": 997128474627276800,
 		"id_str": "997128474627276800",
