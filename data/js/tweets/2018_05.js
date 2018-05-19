@@ -1,6 +1,822 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Sat May 19 12:53:56 +0000 2018",
+		"id": 997822664008978400,
+		"id_str": "997822664008978433",
+		"text": "RT @recordstoreday: Exactly what kind of wedding was it, Billy? https://t.co/743Q8Lad0O",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "recordstoreday",
+					"name": "Record Store Day",
+					"id": 20197768,
+					"id_str": "20197768",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/743Q8Lad0O",
+					"expanded_url": "https://twitter.com/billyidol/status/997779491790376961",
+					"display_url": "twitter.com/billyidol/stat…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9163,
+			"friends_count": 2027,
+			"listed_count": 605,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4062,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60764,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1520723563",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat May 19 12:50:16 +0000 2018",
+			"id": 997821743355088900,
+			"id_str": "997821743355088898",
+			"text": "Exactly what kind of wedding was it, Billy? https://t.co/743Q8Lad0O",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/743Q8Lad0O",
+						"expanded_url": "https://twitter.com/billyidol/status/997779491790376961",
+						"display_url": "twitter.com/billyidol/stat…",
+						"indices": [
+							44,
+							67
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20197768,
+				"id_str": "20197768",
+				"name": "Record Store Day",
+				"screen_name": "recordstoreday",
+				"location": "Global.",
+				"description": "This is the US Twitter account for RSD. We celebrate real, live record stores all year long.",
+				"url": "https://t.co/TWuJ85mWRr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/TWuJ85mWRr",
+								"expanded_url": "http://www.recordstoreday.com",
+								"display_url": "recordstoreday.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 174149,
+				"friends_count": 1128,
+				"listed_count": 2519,
+				"created_at": "Thu Feb 05 22:43:58 +0000 2009",
+				"favourites_count": 3080,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 6407,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/113314728/rsdnodatenewlo.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/113314728/rsdnodatenewlo.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/635498862665449473/JNf9SQO6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/635498862665449473/JNf9SQO6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20197768/1461453912",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "910D16",
+				"profile_sidebar_fill_color": "F34035",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 997779491790377000,
+			"quoted_status_id_str": "997779491790376961",
+			"quoted_status": {
+				"created_at": "Sat May 19 10:02:23 +0000 2018",
+				"id": 997779491790377000,
+				"id_str": "997779491790376961",
+				"text": "Looks like a lovely day in UK for Harry and Meghan’s wedding #royalwedding",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "royalwedding",
+							"indices": [
+								61,
+								74
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": []
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 124631720,
+					"id_str": "124631720",
+					"name": "Billy Idol",
+					"screen_name": "BillyIdol",
+					"location": "Worldwide",
+					"description": "",
+					"url": "http://t.co/ymGDbZOg53",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/ymGDbZOg53",
+									"expanded_url": "http://billyidol.net",
+									"display_url": "billyidol.net",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 239836,
+					"friends_count": 213,
+					"listed_count": 1836,
+					"created_at": "Sat Mar 20 02:00:46 +0000 2010",
+					"favourites_count": 1462,
+					"utc_offset": -25200,
+					"time_zone": "Pacific Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 6231,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/483687156825604096/_-wd2gmD.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/483687156825604096/_-wd2gmD.jpeg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/511946867593080832/tJMWVDYn_normal.jpeg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/511946867593080832/tJMWVDYn_normal.jpeg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/124631720/1410976336",
+					"profile_link_color": "000000",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 717,
+				"favorite_count": 2715,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"retweet_count": 30,
+			"favorite_count": 111,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 997779491790377000,
+		"quoted_status_id_str": "997779491790376961",
+		"retweet_count": 30,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat May 19 12:49:10 +0000 2018",
+		"id": 997821466124177400,
+		"id_str": "997821466124177408",
+		"text": "RT @trendmatcher: Grappig:\nGoogle Maps geeft de route weer van de #royalwedding !!! https://t.co/B2v0RXnMXb",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "royalwedding",
+					"indices": [
+						66,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "trendmatcher",
+					"name": "Willem Karssenberg",
+					"id": 10781,
+					"id_str": "10781",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 997815568110706700,
+					"id_str": "997815568110706688",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/Ddjz-PiX4AAPGvf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ddjz-PiX4AAPGvf.jpg",
+					"url": "https://t.co/B2v0RXnMXb",
+					"display_url": "pic.twitter.com/B2v0RXnMXb",
+					"expanded_url": "https://twitter.com/trendmatcher/status/997815583306600448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 750,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 997815583306600400,
+					"source_status_id_str": "997815583306600448",
+					"source_user_id": 10781,
+					"source_user_id_str": "10781"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 997815568110706700,
+					"id_str": "997815568110706688",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/Ddjz-PiX4AAPGvf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ddjz-PiX4AAPGvf.jpg",
+					"url": "https://t.co/B2v0RXnMXb",
+					"display_url": "pic.twitter.com/B2v0RXnMXb",
+					"expanded_url": "https://twitter.com/trendmatcher/status/997815583306600448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 750,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 997815583306600400,
+					"source_status_id_str": "997815583306600448",
+					"source_user_id": 10781,
+					"source_user_id_str": "10781"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9163,
+			"friends_count": 2027,
+			"listed_count": 605,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4062,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60764,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1520723563",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat May 19 12:25:48 +0000 2018",
+			"id": 997815583306600400,
+			"id_str": "997815583306600448",
+			"text": "Grappig:\nGoogle Maps geeft de route weer van de #royalwedding !!! https://t.co/B2v0RXnMXb",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "royalwedding",
+						"indices": [
+							48,
+							61
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 997815568110706700,
+						"id_str": "997815568110706688",
+						"indices": [
+							66,
+							89
+						],
+						"media_url": "http://pbs.twimg.com/media/Ddjz-PiX4AAPGvf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ddjz-PiX4AAPGvf.jpg",
+						"url": "https://t.co/B2v0RXnMXb",
+						"display_url": "pic.twitter.com/B2v0RXnMXb",
+						"expanded_url": "https://twitter.com/trendmatcher/status/997815583306600448/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 750,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 425,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 997815568110706700,
+						"id_str": "997815568110706688",
+						"indices": [
+							66,
+							89
+						],
+						"media_url": "http://pbs.twimg.com/media/Ddjz-PiX4AAPGvf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ddjz-PiX4AAPGvf.jpg",
+						"url": "https://t.co/B2v0RXnMXb",
+						"display_url": "pic.twitter.com/B2v0RXnMXb",
+						"expanded_url": "https://twitter.com/trendmatcher/status/997815583306600448/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 750,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 425,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 10781,
+				"id_str": "10781",
+				"name": "Willem Karssenberg",
+				"screen_name": "trendmatcher",
+				"location": "Emmen NL",
+				"description": "Trendmatcher tussen ICT en Onderwijs ™ MBO | EDUblogger | Google Certified Innovator | Bruggenbouwer | Influencer",
+				"url": "https://t.co/P4Q6xu989H",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/P4Q6xu989H",
+								"expanded_url": "http://www.trendmatcher.nl",
+								"display_url": "trendmatcher.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8310,
+				"friends_count": 3730,
+				"listed_count": 422,
+				"created_at": "Fri Oct 27 12:10:08 +0000 2006",
+				"favourites_count": 2837,
+				"utc_offset": 7200,
+				"time_zone": "Europe/Amsterdam",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 63095,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "16499A",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/879321997/635ee3282ba3181015a5eb3aaf844a99.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/879321997/635ee3282ba3181015a5eb3aaf844a99.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/987419604397019136/NboqwmAh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/987419604397019136/NboqwmAh_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/10781/1524255400",
+				"profile_link_color": "084FDD",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "080808",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
+		"created_at": "Sat May 19 12:48:13 +0000 2018",
+		"id": 997821227115917300,
+		"id_str": "997821227115917318",
+		"text": "Wel een lange trailer voor Game of Thrones Redux 2018 hoor. #royalwedding",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "royalwedding",
+					"indices": [
+						60,
+						73
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9163,
+			"friends_count": 2027,
+			"listed_count": 605,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4062,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60764,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1520723563",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Sat May 19 11:55:20 +0000 2018",
 		"id": 997807916089528300,
 		"id_str": "997807916089528321",
@@ -138,7 +954,7 @@ Grailbird.data.tweets_2018_05 =
 				"name": "Edwin Smit",
 				"screen_name": "edwinsmit20",
 				"location": "Utrecht, Nederland",
-				"description": "Fabulously gay 🦄 and\nunapologetically Christian ⛪️ ---\n\nLobbyist for equal rights for all people in Holland | in for new connections with fellow activists  🏳️‍🌈",
+				"description": "Fabulously gay 🦄 and\nunapologetically Christian ⛪️ ---\n\nLobbyist for equal rights for all people in Holland | in for new connections with fellow activists  🏳️🌈",
 				"url": null,
 				"entities": {
 					"description": {
