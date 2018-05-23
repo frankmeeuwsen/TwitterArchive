@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Wed May 23 19:15:07 +0000 2018",
+		"id": 999368143419199500,
+		"id_str": "999368143419199489",
+		"text": "@SanneW @mathys @johanschaap @johanvoets @laram @Dutchcowboy @nouwen @Bladendokter @Marjolijn @erwblo… https://t.co/YYRckMcQwS",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SanneW",
+					"name": "Sanne Walvisch",
+					"id": 2547771,
+					"id_str": "2547771",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "mathys",
+					"name": "⭐ ⓂⒶⓉⒽⓎⓈ ⓋⒶⓃ ⒶⒷⒷⒺ ⭐️",
+					"id": 6493412,
+					"id_str": "6493412",
+					"indices": [
+						8,
+						15
+					]
+				},
+				{
+					"screen_name": "johanschaap",
+					"name": "Johan Schaap",
+					"id": 2268351,
+					"id_str": "2268351",
+					"indices": [
+						16,
+						28
+					]
+				},
+				{
+					"screen_name": "johanvoets",
+					"name": "Johan Voets",
+					"id": 7422272,
+					"id_str": "7422272",
+					"indices": [
+						29,
+						40
+					]
+				},
+				{
+					"screen_name": "laram",
+					"name": "Lara Ankersmit",
+					"id": 9605232,
+					"id_str": "9605232",
+					"indices": [
+						41,
+						47
+					]
+				},
+				{
+					"screen_name": "Dutchcowboy",
+					"name": "M. Lens-FitzGerald",
+					"id": 794801,
+					"id_str": "794801",
+					"indices": [
+						48,
+						60
+					]
+				},
+				{
+					"screen_name": "nouwen",
+					"name": "Jonas Nouwen",
+					"id": 7430052,
+					"id_str": "7430052",
+					"indices": [
+						61,
+						68
+					]
+				},
+				{
+					"screen_name": "Bladendokter",
+					"name": "Carolien Vader",
+					"id": 21235240,
+					"id_str": "21235240",
+					"indices": [
+						69,
+						82
+					]
+				},
+				{
+					"screen_name": "Marjolijn",
+					"name": "Marjolijn",
+					"id": 1610571,
+					"id_str": "1610571",
+					"indices": [
+						83,
+						93
+					]
+				},
+				{
+					"screen_name": "erwblo",
+					"name": "erwin blom",
+					"id": 713333,
+					"id_str": "713333",
+					"indices": [
+						94,
+						101
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YYRckMcQwS",
+					"expanded_url": "https://twitter.com/i/web/status/999368143419199489",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 999364033617817600,
+		"in_reply_to_status_id_str": "999364033617817602",
+		"in_reply_to_user_id": 2547771,
+		"in_reply_to_user_id_str": "2547771",
+		"in_reply_to_screen_name": "SanneW",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9167,
+			"friends_count": 2027,
+			"listed_count": 605,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4080,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60781,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1520723563",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Wed May 23 15:04:34 +0000 2018",
 		"id": 999305089989955600,
 		"id_str": "999305089989955584",
