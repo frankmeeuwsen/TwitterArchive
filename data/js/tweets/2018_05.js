@@ -1,6 +1,292 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Fri May 25 19:14:50 +0000 2018",
+		"id": 1000092847519957000,
+		"id_str": "1000092847519956992",
+		"text": "RT @destraynor: There's something beautiful about 'old Twitter' as shown by @waxpancake (link: https://t.co/Bee24JeEKZ )\n\nNo one trying to…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "destraynor",
+					"name": "Des Traynor",
+					"id": 6484432,
+					"id_str": "6484432",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "waxpancake",
+					"name": "Andy Baio",
+					"id": 13461,
+					"id_str": "13461",
+					"indices": [
+						76,
+						87
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Bee24JeEKZ",
+					"expanded_url": "https://twitter.com/search?f=tweets&vertical=default&q=filter%3Afollows%20until%3A2008-05-25%20-filter%3Areplies&src=typd",
+					"display_url": "twitter.com/search?f=tweet…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9165,
+			"friends_count": 2027,
+			"listed_count": 605,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4106,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60825,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1520723563",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri May 25 18:51:16 +0000 2018",
+			"id": 1000086915469795300,
+			"id_str": "1000086915469795328",
+			"text": "There's something beautiful about 'old Twitter' as shown by @waxpancake (link: https://t.co/Bee24JeEKZ )\n\nNo one tr… https://t.co/r70OgEKRmN",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "waxpancake",
+						"name": "Andy Baio",
+						"id": 13461,
+						"id_str": "13461",
+						"indices": [
+							60,
+							71
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Bee24JeEKZ",
+						"expanded_url": "https://twitter.com/search?f=tweets&vertical=default&q=filter%3Afollows%20until%3A2008-05-25%20-filter%3Areplies&src=typd",
+						"display_url": "twitter.com/search?f=tweet…",
+						"indices": [
+							79,
+							102
+						]
+					},
+					{
+						"url": "https://t.co/r70OgEKRmN",
+						"expanded_url": "https://twitter.com/i/web/status/1000086915469795328",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 6484432,
+				"id_str": "6484432",
+				"name": "Des Traynor",
+				"screen_name": "destraynor",
+				"location": "Ireland",
+				"description": "Co-founder of @intercom.",
+				"url": "https://t.co/lv1TzcfVvt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/lv1TzcfVvt",
+								"expanded_url": "http://intercom.com",
+								"display_url": "intercom.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 24837,
+				"friends_count": 907,
+				"listed_count": 1208,
+				"created_at": "Thu May 31 21:55:43 +0000 2007",
+				"favourites_count": 2940,
+				"utc_offset": 3600,
+				"time_zone": "Dublin",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 23154,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000269303502/d1b8a5c870720f3a43c034bbba45a501_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000269303502/d1b8a5c870720f3a43c034bbba45a501_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/6484432/1398247628",
+				"profile_link_color": "7E2C8A",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "7dde0febc9ef245b",
+				"url": "https://api.twitter.com/1.1/geo/id/7dde0febc9ef245b.json",
+				"place_type": "city",
+				"name": "Dublin City",
+				"full_name": "Dublin City, Ireland",
+				"country_code": "IE",
+				"country": "Ireland",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-6.387438,
+								53.2987449
+							],
+							[
+								-6.1078047,
+								53.2987449
+							],
+							[
+								-6.1078047,
+								53.4110598
+							],
+							[
+								-6.387438,
+								53.4110598
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 23,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri May 25 18:19:36 +0000 2018",
 		"id": 1000078949769150500,
 		"id_str": "1000078949769150464",
