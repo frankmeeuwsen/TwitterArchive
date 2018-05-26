@@ -1,6 +1,299 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Sat May 26 16:57:01 +0000 2018",
+		"id": 1000420551402324000,
+		"id_str": "1000420551402323968",
+		"text": "Yep. Same here. Tweemaal. Wat een epic fuckup van juist zo’n bedrijf. https://t.co/GGVSrigB6H",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GGVSrigB6H",
+					"expanded_url": "https://twitter.com/andrewrstine/status/1000079766123245568",
+					"display_url": "twitter.com/andrewrstine/s…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9167,
+			"friends_count": 2027,
+			"listed_count": 606,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4108,
+			"utc_offset": 7200,
+			"time_zone": "Amsterdam",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60758,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/132273940/3dlife.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1520723563",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1000079766123245600,
+		"quoted_status_id_str": "1000079766123245568",
+		"quoted_status": {
+			"created_at": "Fri May 25 18:22:51 +0000 2018",
+			"id": 1000079766123245600,
+			"id_str": "1000079766123245568",
+			"text": "HELL YES @Ghostery JUST SENT ME A GDPR EMAIL WITH FIVE HUNDRED EMAIL ADDRESSES CC'ED ON IT!! THANKS GHOSTERY!!!! https://t.co/y0Xas28wd1",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Ghostery",
+						"name": "Ghostery",
+						"id": 17425055,
+						"id_str": "17425055",
+						"indices": [
+							9,
+							18
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1000079753896869900,
+						"id_str": "1000079753896869888",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/media/DeD_PM4VQAA04OS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DeD_PM4VQAA04OS.jpg",
+						"url": "https://t.co/y0Xas28wd1",
+						"display_url": "pic.twitter.com/y0Xas28wd1",
+						"expanded_url": "https://twitter.com/andrewrstine/status/1000079766123245568/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 595,
+								"h": 462,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 595,
+								"h": 462,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 595,
+								"h": 462,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1000079753896869900,
+						"id_str": "1000079753896869888",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/media/DeD_PM4VQAA04OS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DeD_PM4VQAA04OS.jpg",
+						"url": "https://t.co/y0Xas28wd1",
+						"display_url": "pic.twitter.com/y0Xas28wd1",
+						"expanded_url": "https://twitter.com/andrewrstine/status/1000079766123245568/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 595,
+								"h": 462,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 595,
+								"h": 462,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 595,
+								"h": 462,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 50790536,
+				"id_str": "50790536",
+				"name": "Linguica",
+				"screen_name": "andrewrstine",
+				"location": "San Diego, CA",
+				"description": "hot chocolate high velocity",
+				"url": "https://t.co/oeERFRawwY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/oeERFRawwY",
+								"expanded_url": "https://www.doomworld.com",
+								"display_url": "doomworld.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 315,
+				"friends_count": 250,
+				"listed_count": 4,
+				"created_at": "Thu Jun 25 22:21:51 +0000 2009",
+				"favourites_count": 1302,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6303,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/526130782956310528/EuhqFQYj_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/526130782956310528/EuhqFQYj_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/50790536/1520722647",
+				"profile_link_color": "189BD8",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 835,
+			"favorite_count": 2003,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Sat May 26 16:18:20 +0000 2018",
 		"id": 1000410818347982800,
 		"id_str": "1000410818347982848",
