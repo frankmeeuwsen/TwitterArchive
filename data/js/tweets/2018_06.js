@@ -1,6 +1,1256 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Sat Jun 02 19:14:45 +0000 2018",
+		"id": 1002991928286335000,
+		"id_str": "1002991928286334977",
+		"text": "RT @DomtorenNL: Onze stad is vandaag 896 jaar oud!!!  Happy birthday Utrecht! https://t.co/27RnslWeI4",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DomtorenNL",
+					"name": "Domtoren Utrecht",
+					"id": 240721347,
+					"id_str": "240721347",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1002914277643182100,
+					"id_str": "1002914277643182080",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1002914277643182080/pu/img/PresceywIOHgEM7s.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1002914277643182080/pu/img/PresceywIOHgEM7s.jpg",
+					"url": "https://t.co/27RnslWeI4",
+					"display_url": "pic.twitter.com/27RnslWeI4",
+					"expanded_url": "https://twitter.com/DomtorenNL/status/1002914381448073218/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1002914381448073200,
+					"source_status_id_str": "1002914381448073218",
+					"source_user_id": 240721347,
+					"source_user_id_str": "240721347"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1002914277643182100,
+					"id_str": "1002914277643182080",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1002914277643182080/pu/img/PresceywIOHgEM7s.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1002914277643182080/pu/img/PresceywIOHgEM7s.jpg",
+					"url": "https://t.co/27RnslWeI4",
+					"display_url": "pic.twitter.com/27RnslWeI4",
+					"expanded_url": "https://twitter.com/DomtorenNL/status/1002914381448073218/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1002914381448073200,
+					"source_status_id_str": "1002914381448073218",
+					"source_user_id": 240721347,
+					"source_user_id_str": "240721347",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 24396,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1002914277643182080/pu/vid/240x240/BAZPrSKuentPM8cA.mp4?tag=3"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1002914277643182080/pu/pl/QwkWJIPI01zwlCMp.m3u8?tag=3"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1002914277643182080/pu/vid/720x720/wJ0Q5mby-edj8dbX.mp4?tag=3"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1002914277643182080/pu/vid/480x480/1LXD_B-2kmVHGbid.mp4?tag=3"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 240721347,
+							"id_str": "240721347",
+							"name": "Domtoren Utrecht",
+							"screen_name": "DomtorenNL",
+							"location": "Utrecht",
+							"description": "Officiële Twitteraccount van de Utrechtse Domtoren. \r\nRondleidingen ~ Evenementen ~ Trouwlocatie ~ Vergaderlocatie ~ Feestlocatie",
+							"url": "http://t.co/KnPhumRLxz",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "http://t.co/KnPhumRLxz",
+											"expanded_url": "http://www.domtoren.nl",
+											"display_url": "domtoren.nl",
+											"indices": [
+												0,
+												22
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 3973,
+							"friends_count": 1616,
+							"listed_count": 85,
+							"created_at": "Thu Jan 20 15:53:29 +0000 2011",
+							"favourites_count": 213,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 2098,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/674165016489103360/272eFwx9_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/674165016489103360/272eFwx9_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/240721347/1449568488",
+							"profile_link_color": "FF691F",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9157,
+			"friends_count": 2032,
+			"listed_count": 604,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4150,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60590,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1520723563",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jun 02 14:06:36 +0000 2018",
+			"id": 1002914381448073200,
+			"id_str": "1002914381448073218",
+			"text": "Onze stad is vandaag 896 jaar oud!!!  Happy birthday Utrecht! https://t.co/27RnslWeI4",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1002914277643182100,
+						"id_str": "1002914277643182080",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1002914277643182080/pu/img/PresceywIOHgEM7s.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1002914277643182080/pu/img/PresceywIOHgEM7s.jpg",
+						"url": "https://t.co/27RnslWeI4",
+						"display_url": "pic.twitter.com/27RnslWeI4",
+						"expanded_url": "https://twitter.com/DomtorenNL/status/1002914381448073218/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1002914277643182100,
+						"id_str": "1002914277643182080",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1002914277643182080/pu/img/PresceywIOHgEM7s.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1002914277643182080/pu/img/PresceywIOHgEM7s.jpg",
+						"url": "https://t.co/27RnslWeI4",
+						"display_url": "pic.twitter.com/27RnslWeI4",
+						"expanded_url": "https://twitter.com/DomtorenNL/status/1002914381448073218/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 24396,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1002914277643182080/pu/vid/240x240/BAZPrSKuentPM8cA.mp4?tag=3"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1002914277643182080/pu/pl/QwkWJIPI01zwlCMp.m3u8?tag=3"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1002914277643182080/pu/vid/720x720/wJ0Q5mby-edj8dbX.mp4?tag=3"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1002914277643182080/pu/vid/480x480/1LXD_B-2kmVHGbid.mp4?tag=3"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 240721347,
+				"id_str": "240721347",
+				"name": "Domtoren Utrecht",
+				"screen_name": "DomtorenNL",
+				"location": "Utrecht",
+				"description": "Officiële Twitteraccount van de Utrechtse Domtoren. \r\nRondleidingen ~ Evenementen ~ Trouwlocatie ~ Vergaderlocatie ~ Feestlocatie",
+				"url": "http://t.co/KnPhumRLxz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/KnPhumRLxz",
+								"expanded_url": "http://www.domtoren.nl",
+								"display_url": "domtoren.nl",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3973,
+				"friends_count": 1616,
+				"listed_count": 85,
+				"created_at": "Thu Jan 20 15:53:29 +0000 2011",
+				"favourites_count": 213,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2098,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/674165016489103360/272eFwx9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/674165016489103360/272eFwx9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/240721347/1449568488",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
+		"created_at": "Sat Jun 02 19:12:59 +0000 2018",
+		"id": 1002991485598519300,
+		"id_str": "1002991485598519296",
+		"text": "RT @dorsetdom1905: So we roll into June - also known as Pearl Jam month this year #PearlJam #PJTour2018 🎸🍺 https://t.co/oEqAiTRbuQ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PearlJam",
+					"indices": [
+						82,
+						91
+					]
+				},
+				{
+					"text": "PJTour2018",
+					"indices": [
+						92,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dorsetdom1905",
+					"name": "dorsetdomcfc",
+					"id": 785219790,
+					"id_str": "785219790",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1002625158463582200,
+					"id_str": "1002625158463582213",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DeoKRP0XcAUpgVN.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DeoKRP0XcAUpgVN.jpg",
+					"url": "https://t.co/oEqAiTRbuQ",
+					"display_url": "pic.twitter.com/oEqAiTRbuQ",
+					"expanded_url": "https://twitter.com/dorsetdom1905/status/1002625170903896065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1002625170903896000,
+					"source_status_id_str": "1002625170903896065",
+					"source_user_id": 785219790,
+					"source_user_id_str": "785219790"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1002625158463582200,
+					"id_str": "1002625158463582213",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DeoKRP0XcAUpgVN.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DeoKRP0XcAUpgVN.jpg",
+					"url": "https://t.co/oEqAiTRbuQ",
+					"display_url": "pic.twitter.com/oEqAiTRbuQ",
+					"expanded_url": "https://twitter.com/dorsetdom1905/status/1002625170903896065/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1002625170903896000,
+					"source_status_id_str": "1002625170903896065",
+					"source_user_id": 785219790,
+					"source_user_id_str": "785219790",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DeoKRP0XcAUpgVN.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9157,
+			"friends_count": 2032,
+			"listed_count": 604,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4150,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60590,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1520723563",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jun 01 18:57:23 +0000 2018",
+			"id": 1002625170903896000,
+			"id_str": "1002625170903896065",
+			"text": "So we roll into June - also known as Pearl Jam month this year #PearlJam #PJTour2018 🎸🍺 https://t.co/oEqAiTRbuQ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "PearlJam",
+						"indices": [
+							63,
+							72
+						]
+					},
+					{
+						"text": "PJTour2018",
+						"indices": [
+							73,
+							84
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1002625158463582200,
+						"id_str": "1002625158463582213",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DeoKRP0XcAUpgVN.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DeoKRP0XcAUpgVN.jpg",
+						"url": "https://t.co/oEqAiTRbuQ",
+						"display_url": "pic.twitter.com/oEqAiTRbuQ",
+						"expanded_url": "https://twitter.com/dorsetdom1905/status/1002625170903896065/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 480,
+								"h": 270,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 480,
+								"h": 270,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 270,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1002625158463582200,
+						"id_str": "1002625158463582213",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DeoKRP0XcAUpgVN.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DeoKRP0XcAUpgVN.jpg",
+						"url": "https://t.co/oEqAiTRbuQ",
+						"display_url": "pic.twitter.com/oEqAiTRbuQ",
+						"expanded_url": "https://twitter.com/dorsetdom1905/status/1002625170903896065/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"medium": {
+								"w": 480,
+								"h": 270,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 480,
+								"h": 270,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 270,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/DeoKRP0XcAUpgVN.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 785219790,
+				"id_str": "785219790",
+				"name": "dorsetdomcfc",
+				"screen_name": "dorsetdom1905",
+				"location": "",
+				"description": "Chelsea FC - Bridport FC - Getafe - My two girls - Oasis - Pearl Jam - Red Wine - West Dorset /=\\",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 378,
+				"friends_count": 798,
+				"listed_count": 11,
+				"created_at": "Mon Aug 27 18:29:46 +0000 2012",
+				"favourites_count": 16067,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6451,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/919134434665861120/ei7YpVOf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/919134434665861120/ei7YpVOf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/785219790/1527493324",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 126,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Jun 02 19:12:36 +0000 2018",
+		"id": 1002991387225321500,
+		"id_str": "1002991387225321472",
+		"text": "@silvertje .csv?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "silvertje",
+					"name": "Anne Helmond",
+					"id": 8273852,
+					"id_str": "8273852",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1002985507603787800,
+		"in_reply_to_status_id_str": "1002985507603787777",
+		"in_reply_to_user_id": 8273852,
+		"in_reply_to_user_id_str": "8273852",
+		"in_reply_to_screen_name": "silvertje",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9157,
+			"friends_count": 2032,
+			"listed_count": 604,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4150,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60590,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1520723563",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Sat Jun 02 19:11:18 +0000 2018",
+		"id": 1002991061910814700,
+		"id_str": "1002991061910814721",
+		"text": "De #ROI van #contentstrategy... https://t.co/u6oYdDbEDk",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ROI",
+					"indices": [
+						3,
+						7
+					]
+				},
+				{
+					"text": "contentstrategy",
+					"indices": [
+						12,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/u6oYdDbEDk",
+					"expanded_url": "https://twitter.com/andrebisschop/status/1002990254687768576",
+					"display_url": "twitter.com/andrebisschop/…",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9157,
+			"friends_count": 2032,
+			"listed_count": 604,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4150,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60590,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1520723563",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1002990254687768600,
+		"quoted_status_id_str": "1002990254687768576",
+		"quoted_status": {
+			"created_at": "Sat Jun 02 19:08:06 +0000 2018",
+			"id": 1002990254687768600,
+			"id_str": "1002990254687768576",
+			"text": "@roosvanvugt Ow, heb d'r geen eens erg in Roos. Het is de wondre wereld van marketing automation... je klikt op 'bu… https://t.co/4LuOzzXFtl",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "roosvanvugt",
+						"name": "Roos van Vugt",
+						"id": 21687228,
+						"id_str": "21687228",
+						"indices": [
+							0,
+							12
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/4LuOzzXFtl",
+						"expanded_url": "https://twitter.com/i/web/status/1002990254687768576",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 1002989430733529100,
+			"in_reply_to_status_id_str": "1002989430733529088",
+			"in_reply_to_user_id": 21687228,
+			"in_reply_to_user_id_str": "21687228",
+			"in_reply_to_screen_name": "roosvanvugt",
+			"user": {
+				"id": 219324647,
+				"id_str": "219324647",
+				"name": "André Bisschop",
+				"screen_name": "AndreBisschop",
+				"location": "Amsterdam Area",
+				"description": "Passionate content strategist & workshop leader. Happy fan of art, sports, words & big ideas.",
+				"url": "http://t.co/2r3LekNesv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/2r3LekNesv",
+								"expanded_url": "http://www.elcontento.nl",
+								"display_url": "elcontento.nl",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 923,
+				"friends_count": 1068,
+				"listed_count": 147,
+				"created_at": "Wed Nov 24 15:09:36 +0000 2010",
+				"favourites_count": 1194,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8896,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "11308C",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/843897353119698944/8TP0tjvN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/843897353119698944/8TP0tjvN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/219324647/1505244146",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Sat Jun 02 14:31:44 +0000 2018",
 		"id": 1002920704877191200,
 		"id_str": "1002920704877191169",
