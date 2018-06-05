@@ -1,6 +1,309 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Tue Jun 05 09:40:01 +0000 2018",
+		"id": 1003934458360320000,
+		"id_str": "1003934458360320000",
+		"text": "@_eefj Weet jij welke 60 bedrijven dat zijn? Ik zie in de meeste berichtgeving alleen de gebruikelijke namen staan… https://t.co/1tkhf2TmFD",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_eefj",
+					"name": "Eveline Meijer",
+					"id": 92585733,
+					"id_str": "92585733",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1tkhf2TmFD",
+					"expanded_url": "https://twitter.com/i/web/status/1003934458360320000",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 92585733,
+		"in_reply_to_user_id_str": "92585733",
+		"in_reply_to_screen_name": "_eefj",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9159,
+			"friends_count": 2032,
+			"listed_count": 604,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4171,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60605,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1520723563",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1003925118026825700,
+		"quoted_status_id_str": "1003925118026825729",
+		"quoted_status": {
+			"created_at": "Tue Jun 05 09:02:54 +0000 2018",
+			"id": 1003925118026825700,
+			"id_str": "1003925118026825729",
+			"text": "‘Facebook gaf 60 tech-bedrijven zonder toestemming toegang tot gebruikersdata’ https://t.co/OjI5YdeVn6 https://t.co/6zmFVMbULo",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/OjI5YdeVn6",
+						"expanded_url": "http://dlvr.it/QWDdDP",
+						"display_url": "dlvr.it/QWDdDP",
+						"indices": [
+							79,
+							102
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1003925115577385000,
+						"id_str": "1003925115577384960",
+						"indices": [
+							103,
+							126
+						],
+						"media_url": "http://pbs.twimg.com/media/De6oktcVQAAqidu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/De6oktcVQAAqidu.jpg",
+						"url": "https://t.co/6zmFVMbULo",
+						"display_url": "pic.twitter.com/6zmFVMbULo",
+						"expanded_url": "https://twitter.com/Numrush/status/1003925118026825729/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 639,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 362,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1023,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1003925115577385000,
+						"id_str": "1003925115577384960",
+						"indices": [
+							103,
+							126
+						],
+						"media_url": "http://pbs.twimg.com/media/De6oktcVQAAqidu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/De6oktcVQAAqidu.jpg",
+						"url": "https://t.co/6zmFVMbULo",
+						"display_url": "pic.twitter.com/6zmFVMbULo",
+						"expanded_url": "https://twitter.com/Numrush/status/1003925118026825729/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 639,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 362,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1023,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 529372023,
+				"id_str": "529372023",
+				"name": "Numrush",
+				"screen_name": "Numrush",
+				"location": "Amsterdam",
+				"description": "Techsite over de impact van innovatie. Nieuws en achtergrond over de wijze waarop technologie ons dagelijks leven, werk en cultuur verandert. tips@numrush.nl",
+				"url": "https://t.co/CnpgAbAJwV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/CnpgAbAJwV",
+								"expanded_url": "http://www.numrush.nl",
+								"display_url": "numrush.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7101,
+				"friends_count": 7214,
+				"listed_count": 202,
+				"created_at": "Mon Mar 19 13:13:29 +0000 2012",
+				"favourites_count": 125,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 20986,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/684356637344317440/LMx7kO5f_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/684356637344317440/LMx7kO5f_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/529372023/1513271028",
+				"profile_link_color": "FFB400",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Tue Jun 05 07:53:06 +0000 2018",
 		"id": 1003907553007427600,
 		"id_str": "1003907553007427584",
