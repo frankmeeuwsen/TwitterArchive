@@ -1,6 +1,308 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Tue Jun 05 04:52:31 +0000 2018",
+		"id": 1003862104980512800,
+		"id_str": "1003862104980512768",
+		"text": "Gotta love neural networks! https://t.co/IZnPOaPd3z",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IZnPOaPd3z",
+					"expanded_url": "https://twitter.com/janellecshane/status/1003758824841465857",
+					"display_url": "twitter.com/janellecshane/…",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9158,
+			"friends_count": 2031,
+			"listed_count": 604,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4169,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60594,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1520723563",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1003758824841465900,
+		"quoted_status_id_str": "1003758824841465857",
+		"quoted_status": {
+			"created_at": "Mon Jun 04 22:02:07 +0000 2018",
+			"id": 1003758824841465900,
+			"id_str": "1003758824841465857",
+			"text": "The Pony or Metal Band? classifier started working again! Ask me to classify anything. https://t.co/ww1Ua1vTRb https://t.co/Y4N7RR9e5I",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ww1Ua1vTRb",
+						"expanded_url": "http://aiweirdness.com/post/174211306032/metal-band-or-my-little-pony",
+						"display_url": "aiweirdness.com/post/174211306…",
+						"indices": [
+							87,
+							110
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1003758525137350700,
+						"id_str": "1003758525137350658",
+						"indices": [
+							111,
+							134
+						],
+						"media_url": "http://pbs.twimg.com/media/De4RD3sU8AIseAh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/De4RD3sU8AIseAh.jpg",
+						"url": "https://t.co/Y4N7RR9e5I",
+						"display_url": "pic.twitter.com/Y4N7RR9e5I",
+						"expanded_url": "https://twitter.com/JanelleCShane/status/1003758824841465857/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 791,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 464,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 263,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1003758525137350700,
+						"id_str": "1003758525137350658",
+						"indices": [
+							111,
+							134
+						],
+						"media_url": "http://pbs.twimg.com/media/De4RD3sU8AIseAh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/De4RD3sU8AIseAh.jpg",
+						"url": "https://t.co/Y4N7RR9e5I",
+						"display_url": "pic.twitter.com/Y4N7RR9e5I",
+						"expanded_url": "https://twitter.com/JanelleCShane/status/1003758824841465857/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 791,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 464,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 263,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2460047754,
+				"id_str": "2460047754",
+				"name": "Janelle Shane",
+				"screen_name": "JanelleCShane",
+				"location": "Boulder, CO",
+				"description": "Research Scientist in optics. Plays with neural networks. Avid reader, writer, and player of Irish flute. she/her.\nhttps://t.co/B6PFEkiCam",
+				"url": "https://t.co/81ptWccmSP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/81ptWccmSP",
+								"expanded_url": "http://aiweirdness.com",
+								"display_url": "aiweirdness.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/B6PFEkiCam",
+								"expanded_url": "http://wandering.shop/@janellecshane",
+								"display_url": "wandering.shop/@janellecshane",
+								"indices": [
+									115,
+									138
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 13203,
+				"friends_count": 367,
+				"listed_count": 261,
+				"created_at": "Wed Apr 23 17:53:28 +0000 2014",
+				"favourites_count": 4234,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5028,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/760660597427941376/XdM-kqUr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/760660597427941376/XdM-kqUr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2460047754/1514084738",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 17,
+			"favorite_count": 73,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jun 04 20:26:50 +0000 2018",
 		"id": 1003734847645474800,
 		"id_str": "1003734847645474819",
