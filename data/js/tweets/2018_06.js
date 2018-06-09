@@ -1,6 +1,247 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Sat Jun 09 20:04:45 +0000 2018",
+		"id": 1005541229692678100,
+		"id_str": "1005541229692678145",
+		"text": "Wil je weten wat ik lees? Download mijn blogleeslijst en drop hem in je eigen feed-reader. https://t.co/bzKYn0TIou #blogpraat",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "blogpraat",
+					"indices": [
+						115,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bzKYn0TIou",
+					"expanded_url": "http://diggingthedigital.com/blogs-die-ik-volg/",
+					"display_url": "diggingthedigital.com/blogs-die-ik-v…",
+					"indices": [
+						91,
+						114
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9159,
+			"friends_count": 2034,
+			"listed_count": 604,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4204,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60424,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1528570148",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
+		"created_at": "Sat Jun 09 19:24:50 +0000 2018",
+		"id": 1005531182715588600,
+		"id_str": "1005531182715588610",
+		"text": "The Web That Was klinkt interessant @silvertje. Any chance dat er een \"historie van de blogosphere\"-track gaat kome… https://t.co/r3VOm85uxc",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "silvertje",
+					"name": "Anne Helmond",
+					"id": 8273852,
+					"id_str": "8273852",
+					"indices": [
+						36,
+						46
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/r3VOm85uxc",
+					"expanded_url": "https://twitter.com/i/web/status/1005531182715588610",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9159,
+			"friends_count": 2034,
+			"listed_count": 604,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4204,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60424,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1528570148",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Sat Jun 09 13:43:28 +0000 2018",
 		"id": 1005445273370361900,
 		"id_str": "1005445273370361857",
