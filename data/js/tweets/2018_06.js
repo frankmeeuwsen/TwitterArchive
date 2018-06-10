@@ -1,6 +1,343 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Sun Jun 10 11:24:58 +0000 2018",
+		"id": 1005772806603362300,
+		"id_str": "1005772806603362304",
+		"text": "Way to go! https://t.co/fKZYQriDji",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fKZYQriDji",
+					"expanded_url": "https://twitter.com/josk/status/1005768188544471040",
+					"display_url": "twitter.com/josk/status/10…",
+					"indices": [
+						11,
+						34
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9158,
+			"friends_count": 2034,
+			"listed_count": 604,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4208,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60432,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1528570148",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1005768188544471000,
+		"quoted_status_id_str": "1005768188544471040",
+		"quoted_status": {
+			"created_at": "Sun Jun 10 11:06:37 +0000 2018",
+			"id": 1005768188544471000,
+			"id_str": "1005768188544471040",
+			"text": "There’s a first for everything... thanks to @frankmeeuwsen https://t.co/ksnTu8eu7K",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "frankmeeuwsen",
+						"name": "Frank Meeuwsen",
+						"id": 816203,
+						"id_str": "816203",
+						"indices": [
+							44,
+							58
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1005768183909765100,
+						"id_str": "1005768183909765127",
+						"indices": [
+							59,
+							82
+						],
+						"media_url": "http://pbs.twimg.com/media/DfU01aBU0AcsLJa.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DfU01aBU0AcsLJa.jpg",
+						"url": "https://t.co/ksnTu8eu7K",
+						"display_url": "pic.twitter.com/ksnTu8eu7K",
+						"expanded_url": "https://twitter.com/JosK/status/1005768188544471040/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1005768183909765100,
+						"id_str": "1005768183909765127",
+						"indices": [
+							59,
+							82
+						],
+						"media_url": "http://pbs.twimg.com/media/DfU01aBU0AcsLJa.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DfU01aBU0AcsLJa.jpg",
+						"url": "https://t.co/ksnTu8eu7K",
+						"display_url": "pic.twitter.com/ksnTu8eu7K",
+						"expanded_url": "https://twitter.com/JosK/status/1005768188544471040/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5096741,
+				"id_str": "5096741",
+				"name": "Jos Kok",
+				"screen_name": "JosK",
+				"location": "Nederland, Amsterdam",
+				"description": "Lecturer HVA/CMD: Content Delivery, Adaptive Content, New Product Development and projects.  @dochtervanjosk, @vriendinvanjosk,",
+				"url": "http://t.co/FI5Rq0yWV1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/FI5Rq0yWV1",
+								"expanded_url": "http://nl.linkedin.com/in/joskok",
+								"display_url": "nl.linkedin.com/in/joskok",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1882,
+				"friends_count": 975,
+				"listed_count": 113,
+				"created_at": "Wed Apr 18 09:12:27 +0000 2007",
+				"favourites_count": 1078,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 36806,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/831421437890220033/UZsc1Pfm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/831421437890220033/UZsc1Pfm_normal.jpg",
+				"profile_link_color": "0099B9",
+				"profile_sidebar_border_color": "5ED4DC",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": {
+				"type": "Point",
+				"coordinates": [
+					52.31022916,
+					4.96496469
+				]
+			},
+			"coordinates": {
+				"type": "Point",
+				"coordinates": [
+					4.96496469,
+					52.31022916
+				]
+			},
+			"place": {
+				"id": "99cdab25eddd6bce",
+				"url": "https://api.twitter.com/1.1/geo/id/99cdab25eddd6bce.json",
+				"place_type": "city",
+				"name": "Amsterdam",
+				"full_name": "Amsterdam, The Netherlands",
+				"country_code": "NL",
+				"country": "The Netherlands",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								4.7288999,
+								52.2782266
+							],
+							[
+								5.0792072,
+								52.2782266
+							],
+							[
+								5.0792072,
+								52.4312289
+							],
+							[
+								4.7288999,
+								52.4312289
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Jun 10 09:00:01 +0000 2018",
 		"id": 1005736329068638200,
 		"id_str": "1005736329068638208",
