@@ -1,6 +1,579 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Mon Jun 11 16:03:29 +0000 2018",
+		"id": 1006205285134995500,
+		"id_str": "1006205285134995456",
+		"text": "The first fans for #PJTOUR2018 have already arrived at @ZiggoDome. We still have 24 hrs to go but the infamous numb… https://t.co/1T2un9ZDcp",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PJTOUR2018",
+					"indices": [
+						19,
+						30
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ZiggoDome",
+					"name": "Ziggo Dome",
+					"id": 111555112,
+					"id_str": "111555112",
+					"indices": [
+						55,
+						65
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1T2un9ZDcp",
+					"expanded_url": "https://twitter.com/i/web/status/1006205285134995456",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9157,
+			"friends_count": 2033,
+			"listed_count": 604,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4212,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60440,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1528570148",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jun 11 15:26:00 +0000 2018",
+		"id": 1006195855836278800,
+		"id_str": "1006195855836278784",
+		"text": "RT @BrukDiana: Omg. https://t.co/oeRO4FBVmt",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BrukDiana",
+					"name": "Diana",
+					"id": 992374664,
+					"id_str": "992374664",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1006174150761820200,
+					"id_str": "1006174150761820160",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/DfamDyZWsAAKbOs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DfamDyZWsAAKbOs.jpg",
+					"url": "https://t.co/oeRO4FBVmt",
+					"display_url": "pic.twitter.com/oeRO4FBVmt",
+					"expanded_url": "https://twitter.com/BrukDiana/status/1006174168889643009/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 705,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 468,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 705,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1006174168889643000,
+					"source_status_id_str": "1006174168889643009",
+					"source_user_id": 992374664,
+					"source_user_id_str": "992374664"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1006174150761820200,
+					"id_str": "1006174150761820160",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/DfamDyZWsAAKbOs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DfamDyZWsAAKbOs.jpg",
+					"url": "https://t.co/oeRO4FBVmt",
+					"display_url": "pic.twitter.com/oeRO4FBVmt",
+					"expanded_url": "https://twitter.com/BrukDiana/status/1006174168889643009/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 705,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 468,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 705,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1006174168889643000,
+					"source_status_id_str": "1006174168889643009",
+					"source_user_id": 992374664,
+					"source_user_id_str": "992374664"
+				},
+				{
+					"id": 1006174158051532800,
+					"id_str": "1006174158051532803",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/DfamENjW4AMQ3eJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DfamENjW4AMQ3eJ.jpg",
+					"url": "https://t.co/oeRO4FBVmt",
+					"display_url": "pic.twitter.com/oeRO4FBVmt",
+					"expanded_url": "https://twitter.com/BrukDiana/status/1006174168889643009/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 710,
+							"h": 473,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 710,
+							"h": 473,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1006174168889643000,
+					"source_status_id_str": "1006174168889643009",
+					"source_user_id": 992374664,
+					"source_user_id_str": "992374664"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9157,
+			"friends_count": 2033,
+			"listed_count": 604,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4212,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60440,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1528570148",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 11 13:59:50 +0000 2018",
+			"id": 1006174168889643000,
+			"id_str": "1006174168889643009",
+			"text": "Omg. https://t.co/oeRO4FBVmt",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1006174150761820200,
+						"id_str": "1006174150761820160",
+						"indices": [
+							5,
+							28
+						],
+						"media_url": "http://pbs.twimg.com/media/DfamDyZWsAAKbOs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DfamDyZWsAAKbOs.jpg",
+						"url": "https://t.co/oeRO4FBVmt",
+						"display_url": "pic.twitter.com/oeRO4FBVmt",
+						"expanded_url": "https://twitter.com/BrukDiana/status/1006174168889643009/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 705,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 468,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 705,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1006174150761820200,
+						"id_str": "1006174150761820160",
+						"indices": [
+							5,
+							28
+						],
+						"media_url": "http://pbs.twimg.com/media/DfamDyZWsAAKbOs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DfamDyZWsAAKbOs.jpg",
+						"url": "https://t.co/oeRO4FBVmt",
+						"display_url": "pic.twitter.com/oeRO4FBVmt",
+						"expanded_url": "https://twitter.com/BrukDiana/status/1006174168889643009/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 705,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 468,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 705,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1006174158051532800,
+						"id_str": "1006174158051532803",
+						"indices": [
+							5,
+							28
+						],
+						"media_url": "http://pbs.twimg.com/media/DfamENjW4AMQ3eJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DfamENjW4AMQ3eJ.jpg",
+						"url": "https://t.co/oeRO4FBVmt",
+						"display_url": "pic.twitter.com/oeRO4FBVmt",
+						"expanded_url": "https://twitter.com/BrukDiana/status/1006174168889643009/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 710,
+								"h": 473,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 710,
+								"h": 473,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 992374664,
+				"id_str": "992374664",
+				"name": "Diana",
+				"screen_name": "BrukDiana",
+				"location": "St. Petersburg, Oxford, NYC",
+				"description": "Russian-American writer @Cosmo, @MarieClaire, @Elle, @ParisReview, @Salon. I tweet about Russia, modern dating, and dogs.",
+				"url": "https://t.co/6EsVllaLOz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6EsVllaLOz",
+								"expanded_url": "http://dianabruk.com",
+								"display_url": "dianabruk.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5231,
+				"friends_count": 604,
+				"listed_count": 56,
+				"created_at": "Thu Dec 06 04:33:11 +0000 2012",
+				"favourites_count": 1440,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 3022,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "709397",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/930891088671444993/zyWBvnAJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/930891088671444993/zyWBvnAJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/992374664/1404571823",
+				"profile_link_color": "FF3300",
+				"profile_sidebar_border_color": "86A4A6",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5436,
+			"favorite_count": 16438,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5436,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Mon Jun 11 14:23:42 +0000 2018",
 		"id": 1006180176047288300,
 		"id_str": "1006180176047288320",
