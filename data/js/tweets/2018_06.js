@@ -1,6 +1,415 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Mon Jun 11 21:50:39 +0000 2018",
+		"id": 1006292656056565800,
+		"id_str": "1006292656056565765",
+		"text": "RT @OldSchool80s: June 11, 1986: Ferris Bueller's Day Off was released in theaters. #80s https://t.co/3neUBsavjj",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "80s",
+					"indices": [
+						84,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OldSchool80s",
+					"name": "Old School 80s",
+					"id": 31015297,
+					"id_str": "31015297",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1006167959004438500,
+					"id_str": "1006167959004438528",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DfagbYTW4AAJq5a.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DfagbYTW4AAJq5a.jpg",
+					"url": "https://t.co/3neUBsavjj",
+					"display_url": "pic.twitter.com/3neUBsavjj",
+					"expanded_url": "https://twitter.com/OldSchool80s/status/1006167962796068864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 426,
+							"h": 174,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 426,
+							"h": 174,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 426,
+							"h": 174,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1006167962796068900,
+					"source_status_id_str": "1006167962796068864",
+					"source_user_id": 31015297,
+					"source_user_id_str": "31015297"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1006167959004438500,
+					"id_str": "1006167959004438528",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DfagbYTW4AAJq5a.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DfagbYTW4AAJq5a.jpg",
+					"url": "https://t.co/3neUBsavjj",
+					"display_url": "pic.twitter.com/3neUBsavjj",
+					"expanded_url": "https://twitter.com/OldSchool80s/status/1006167962796068864/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 426,
+							"h": 174,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 426,
+							"h": 174,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 426,
+							"h": 174,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1006167962796068900,
+					"source_status_id_str": "1006167962796068864",
+					"source_user_id": 31015297,
+					"source_user_id_str": "31015297",
+					"video_info": {
+						"aspect_ratio": [
+							71,
+							29
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DfagbYTW4AAJq5a.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9158,
+			"friends_count": 2034,
+			"listed_count": 604,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60444,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1528570148",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 11 13:35:10 +0000 2018",
+			"id": 1006167962796068900,
+			"id_str": "1006167962796068864",
+			"text": "June 11, 1986: Ferris Bueller's Day Off was released in theaters. #80s https://t.co/3neUBsavjj",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "80s",
+						"indices": [
+							66,
+							70
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1006167959004438500,
+						"id_str": "1006167959004438528",
+						"indices": [
+							71,
+							94
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DfagbYTW4AAJq5a.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DfagbYTW4AAJq5a.jpg",
+						"url": "https://t.co/3neUBsavjj",
+						"display_url": "pic.twitter.com/3neUBsavjj",
+						"expanded_url": "https://twitter.com/OldSchool80s/status/1006167962796068864/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 426,
+								"h": 174,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 426,
+								"h": 174,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 426,
+								"h": 174,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1006167959004438500,
+						"id_str": "1006167959004438528",
+						"indices": [
+							71,
+							94
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DfagbYTW4AAJq5a.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DfagbYTW4AAJq5a.jpg",
+						"url": "https://t.co/3neUBsavjj",
+						"display_url": "pic.twitter.com/3neUBsavjj",
+						"expanded_url": "https://twitter.com/OldSchool80s/status/1006167962796068864/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 426,
+								"h": 174,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 426,
+								"h": 174,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 426,
+								"h": 174,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								71,
+								29
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/DfagbYTW4AAJq5a.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 31015297,
+				"id_str": "31015297",
+				"name": "Old School 80s",
+				"screen_name": "OldSchool80s",
+				"location": "Shermer, Illinois circa '80s",
+				"description": "Daily doses of 80s pop culture reminders. Not meant to make you feel old, just awesome nostalgia. Also exclusive interviews w/ some who made the 80s so special.",
+				"url": "https://t.co/bAzV4JJ7ML",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/bAzV4JJ7ML",
+								"expanded_url": "http://www.Facebook.com/KickinItOldSchool80s",
+								"display_url": "Facebook.com/KickinItOldSch…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 91573,
+				"friends_count": 380,
+				"listed_count": 694,
+				"created_at": "Tue Apr 14 01:13:52 +0000 2009",
+				"favourites_count": 924,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 17596,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/499733959148711936/KFV83fHA_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/499733959148711936/KFV83fHA_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/31015297/1415467401",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 515,
+			"favorite_count": 1010,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 515,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jun 11 20:05:33 +0000 2018",
 		"id": 1006266205316042800,
 		"id_str": "1006266205316042752",
