@@ -1,6 +1,373 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Wed Jun 13 06:26:36 +0000 2018",
+		"id": 1006784886953398300,
+		"id_str": "1006784886953398275",
+		"text": "RT @rsms: https://t.co/bfyHkIa75W",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rsms",
+					"name": "Rasmus Andersson",
+					"id": 2475171,
+					"id_str": "2475171",
+					"indices": [
+						3,
+						8
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1006245675749666800,
+					"id_str": "1006245675749666816",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/media/DfbnHFvU8AAja5w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DfbnHFvU8AAja5w.jpg",
+					"url": "https://t.co/bfyHkIa75W",
+					"display_url": "pic.twitter.com/bfyHkIa75W",
+					"expanded_url": "https://twitter.com/rsms/status/1006245711304749056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 542,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 989,
+							"h": 789,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 989,
+							"h": 789,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1006245711304749000,
+					"source_status_id_str": "1006245711304749056",
+					"source_user_id": 2475171,
+					"source_user_id_str": "2475171"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1006245675749666800,
+					"id_str": "1006245675749666816",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/media/DfbnHFvU8AAja5w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DfbnHFvU8AAja5w.jpg",
+					"url": "https://t.co/bfyHkIa75W",
+					"display_url": "pic.twitter.com/bfyHkIa75W",
+					"expanded_url": "https://twitter.com/rsms/status/1006245711304749056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 542,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 989,
+							"h": 789,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 989,
+							"h": 789,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1006245711304749000,
+					"source_status_id_str": "1006245711304749056",
+					"source_user_id": 2475171,
+					"source_user_id_str": "2475171"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9157,
+			"friends_count": 2036,
+			"listed_count": 604,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4249,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60472,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1528570148",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 11 18:44:07 +0000 2018",
+			"id": 1006245711304749000,
+			"id_str": "1006245711304749056",
+			"text": "https://t.co/bfyHkIa75W",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1006245675749666800,
+						"id_str": "1006245675749666816",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/DfbnHFvU8AAja5w.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DfbnHFvU8AAja5w.jpg",
+						"url": "https://t.co/bfyHkIa75W",
+						"display_url": "pic.twitter.com/bfyHkIa75W",
+						"expanded_url": "https://twitter.com/rsms/status/1006245711304749056/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 542,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 989,
+								"h": 789,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 989,
+								"h": 789,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1006245675749666800,
+						"id_str": "1006245675749666816",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/DfbnHFvU8AAja5w.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DfbnHFvU8AAja5w.jpg",
+						"url": "https://t.co/bfyHkIa75W",
+						"display_url": "pic.twitter.com/bfyHkIa75W",
+						"expanded_url": "https://twitter.com/rsms/status/1006245711304749056/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 542,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 989,
+								"h": 789,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 989,
+								"h": 789,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2475171,
+				"id_str": "2475171",
+				"name": "Rasmus Andersson",
+				"screen_name": "rsms",
+				"location": "San Francisco",
+				"description": "Design @Figmadesign. Previously @Dropbox, @Facebook, founding member @Spotify",
+				"url": "https://t.co/ohAZBgZqEg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ohAZBgZqEg",
+								"expanded_url": "http://rsms.me",
+								"display_url": "rsms.me",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11625,
+				"friends_count": 983,
+				"listed_count": 474,
+				"created_at": "Tue Mar 27 11:55:39 +0000 2007",
+				"favourites_count": 5211,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12632,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E6E1DF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/954167845696323585/j0mO-zII_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/954167845696323585/j0mO-zII_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2475171/1512587679",
+				"profile_link_color": "222222",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "666666",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 306,
+			"favorite_count": 1001,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 306,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Wed Jun 13 05:01:50 +0000 2018",
 		"id": 1006763552357658600,
 		"id_str": "1006763552357658626",
