@@ -1,6 +1,1198 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Fri Jun 15 05:07:50 +0000 2018",
+		"id": 1007489837941784600,
+		"id_str": "1007489837941784576",
+		"text": "RT @AltNationNet: Pearl Jam Emotionally Honor Chris Cornell Onstage For First Time https://t.co/HFhCpx5oUd https://t.co/9XCSE176IK",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AltNationNet",
+					"name": "Alternative Nation",
+					"id": 80117675,
+					"id_str": "80117675",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HFhCpx5oUd",
+					"expanded_url": "https://www.alternativenation.net/pearl-jam-emotionally-honor-chris-cornell-onstage-for-first-time/",
+					"display_url": "alternativenation.net/pearl-jam-emot…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1007374352638099500,
+					"id_str": "1007374352638099457",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/DfrpouzVQAEeglb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DfrpouzVQAEeglb.jpg",
+					"url": "https://t.co/9XCSE176IK",
+					"display_url": "pic.twitter.com/9XCSE176IK",
+					"expanded_url": "https://twitter.com/AltNationNet/status/1007374357172084736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 378,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 696,
+							"h": 387,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 696,
+							"h": 387,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1007374357172084700,
+					"source_status_id_str": "1007374357172084736",
+					"source_user_id": 80117675,
+					"source_user_id_str": "80117675"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1007374352638099500,
+					"id_str": "1007374352638099457",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/DfrpouzVQAEeglb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DfrpouzVQAEeglb.jpg",
+					"url": "https://t.co/9XCSE176IK",
+					"display_url": "pic.twitter.com/9XCSE176IK",
+					"expanded_url": "https://twitter.com/AltNationNet/status/1007374357172084736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 378,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 696,
+							"h": 387,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 696,
+							"h": 387,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1007374357172084700,
+					"source_status_id_str": "1007374357172084736",
+					"source_user_id": 80117675,
+					"source_user_id_str": "80117675"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9154,
+			"friends_count": 2035,
+			"listed_count": 604,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4281,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60477,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1528570148",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jun 14 21:28:57 +0000 2018",
+			"id": 1007374357172084700,
+			"id_str": "1007374357172084736",
+			"text": "Pearl Jam Emotionally Honor Chris Cornell Onstage For First Time https://t.co/HFhCpx5oUd https://t.co/9XCSE176IK",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/HFhCpx5oUd",
+						"expanded_url": "https://www.alternativenation.net/pearl-jam-emotionally-honor-chris-cornell-onstage-for-first-time/",
+						"display_url": "alternativenation.net/pearl-jam-emot…",
+						"indices": [
+							65,
+							88
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1007374352638099500,
+						"id_str": "1007374352638099457",
+						"indices": [
+							89,
+							112
+						],
+						"media_url": "http://pbs.twimg.com/media/DfrpouzVQAEeglb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DfrpouzVQAEeglb.jpg",
+						"url": "https://t.co/9XCSE176IK",
+						"display_url": "pic.twitter.com/9XCSE176IK",
+						"expanded_url": "https://twitter.com/AltNationNet/status/1007374357172084736/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 378,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 696,
+								"h": 387,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 696,
+								"h": 387,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1007374352638099500,
+						"id_str": "1007374352638099457",
+						"indices": [
+							89,
+							112
+						],
+						"media_url": "http://pbs.twimg.com/media/DfrpouzVQAEeglb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DfrpouzVQAEeglb.jpg",
+						"url": "https://t.co/9XCSE176IK",
+						"display_url": "pic.twitter.com/9XCSE176IK",
+						"expanded_url": "https://twitter.com/AltNationNet/status/1007374357172084736/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 378,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 696,
+								"h": 387,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 696,
+								"h": 387,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 80117675,
+				"id_str": "80117675",
+				"name": "Alternative Nation",
+				"screen_name": "AltNationNet",
+				"location": "Orange County, CA",
+				"description": "https://t.co/ZJhvHCSTOn covers alternative rock's biggest bands and has featured interviews with members of bands like @PearlJam and @SmashingPumpkin.",
+				"url": "http://t.co/SsPrE1urKG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/SsPrE1urKG",
+								"expanded_url": "http://www.alternativenation.net",
+								"display_url": "alternativenation.net",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/ZJhvHCSTOn",
+								"expanded_url": "http://AlternativeNation.net",
+								"display_url": "AlternativeNation.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 23491,
+				"friends_count": 177,
+				"listed_count": 452,
+				"created_at": "Mon Oct 05 20:26:25 +0000 2009",
+				"favourites_count": 1570,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 24791,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1006709700304330754/Z6qrcKq-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1006709700304330754/Z6qrcKq-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/80117675/1449227835",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 45,
+			"favorite_count": 161,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 45,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Jun 15 04:50:16 +0000 2018",
+		"id": 1007485419259420700,
+		"id_str": "1007485419259420672",
+		"text": "RT @JamesMartinSJ: It is not biblical to treat migrants and refugees like animals.\nIt is not biblical to take children away from their pare…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JamesMartinSJ",
+					"name": "James Martin, SJ",
+					"id": 226320142,
+					"id_str": "226320142",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9154,
+			"friends_count": 2035,
+			"listed_count": 604,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4281,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60477,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1528570148",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jun 14 19:45:53 +0000 2018",
+			"id": 1007348421269782500,
+			"id_str": "1007348421269782528",
+			"text": "It is not biblical to treat migrants and refugees like animals.\nIt is not biblical to take children away from their… https://t.co/nCd7B3G8nH",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/nCd7B3G8nH",
+						"expanded_url": "https://twitter.com/i/web/status/1007348421269782528",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 226320142,
+				"id_str": "226320142",
+				"name": "James Martin, SJ",
+				"screen_name": "JamesMartinSJ",
+				"location": "New York City",
+				"description": "Jesuit priest, editor at large @Americamag, author of 'Jesus: A Pilgrimage' and 'Building a Bridge,' consultor to the Secretariat for Communication @VaticanNews",
+				"url": "https://t.co/FfaI6niv6t",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FfaI6niv6t",
+								"expanded_url": "http://www.facebook.com/FrJamesMartin?fref=ts",
+								"display_url": "facebook.com/FrJamesMartin?…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 212821,
+				"friends_count": 274,
+				"listed_count": 2408,
+				"created_at": "Mon Dec 13 21:56:22 +0000 2010",
+				"favourites_count": 17717,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 31224,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "61E0AD",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/573235627325591552/BvUyZbwk_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/573235627325591552/BvUyZbwk_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/226320142/1520689423",
+				"profile_link_color": "1C1CAD",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F4F5ED",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1007345519570706400,
+			"quoted_status_id_str": "1007345519570706432",
+			"quoted_status": {
+				"created_at": "Thu Jun 14 19:34:22 +0000 2018",
+				"id": 1007345519570706400,
+				"id_str": "1007345519570706432",
+				"text": "Sanders comments on family separations at the border: “It is very biblical to enforce the law” https://t.co/5DiL1C4FHt",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/5DiL1C4FHt",
+							"expanded_url": "http://www.snappytv.com/tc/8217722",
+							"display_url": "snappytv.com/tc/8217722",
+							"indices": [
+								95,
+								118
+							]
+						}
+					]
+				},
+				"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+				"in_reply_to_status_id": 1007344478129217500,
+				"in_reply_to_status_id_str": "1007344478129217536",
+				"in_reply_to_user_id": 13850422,
+				"in_reply_to_user_id_str": "13850422",
+				"in_reply_to_screen_name": "CNNPolitics",
+				"user": {
+					"id": 13850422,
+					"id_str": "13850422",
+					"name": "CNN Politics",
+					"screen_name": "CNNPolitics",
+					"location": "Washington, D.C.",
+					"description": "Political news, campaign stories and Washington coverage from CNN's political team.",
+					"url": "https://t.co/KWFMkrEjdY",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/KWFMkrEjdY",
+									"expanded_url": "http://cnn.com/politics",
+									"display_url": "cnn.com/politics",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 2676927,
+					"friends_count": 337,
+					"listed_count": 14530,
+					"created_at": "Sat Feb 23 03:12:49 +0000 2008",
+					"favourites_count": 6,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 122225,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "100F14",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/918899077168934912/NrRRE0_b_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/918899077168934912/NrRRE0_b_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/13850422/1503504077",
+					"profile_link_color": "0000FF",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "F1F5E7",
+					"profile_text_color": "000000",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 401,
+				"favorite_count": 610,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 27650,
+			"favorite_count": 60424,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1007345519570706400,
+		"quoted_status_id_str": "1007345519570706432",
+		"retweet_count": 27650,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Jun 15 04:47:22 +0000 2018",
+		"id": 1007484688863133700,
+		"id_str": "1007484688863133696",
+		"text": "RT @MiriamWesselink: Jesus is cool with it. 😜 https://t.co/xnTPM8jNT2",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MiriamWesselink",
+					"name": "Miriam Wesselink",
+					"id": 163400706,
+					"id_str": "163400706",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1007261460844593200,
+					"id_str": "1007261460844593152",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/DfqC9kGVQAAMPc2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DfqC9kGVQAAMPc2.jpg",
+					"url": "https://t.co/xnTPM8jNT2",
+					"display_url": "pic.twitter.com/xnTPM8jNT2",
+					"expanded_url": "https://twitter.com/MiriamWesselink/status/1007261462484672519/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 700,
+							"h": 564,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 548,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 564,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1007261462484672500,
+					"source_status_id_str": "1007261462484672519",
+					"source_user_id": 163400706,
+					"source_user_id_str": "163400706"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1007261460844593200,
+					"id_str": "1007261460844593152",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/DfqC9kGVQAAMPc2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DfqC9kGVQAAMPc2.jpg",
+					"url": "https://t.co/xnTPM8jNT2",
+					"display_url": "pic.twitter.com/xnTPM8jNT2",
+					"expanded_url": "https://twitter.com/MiriamWesselink/status/1007261462484672519/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 700,
+							"h": 564,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 548,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 564,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1007261462484672500,
+					"source_status_id_str": "1007261462484672519",
+					"source_user_id": 163400706,
+					"source_user_id_str": "163400706"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9154,
+			"friends_count": 2035,
+			"listed_count": 604,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4281,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60477,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1528570148",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jun 14 14:00:21 +0000 2018",
+			"id": 1007261462484672500,
+			"id_str": "1007261462484672519",
+			"text": "Jesus is cool with it. 😜 https://t.co/xnTPM8jNT2",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1007261460844593200,
+						"id_str": "1007261460844593152",
+						"indices": [
+							25,
+							48
+						],
+						"media_url": "http://pbs.twimg.com/media/DfqC9kGVQAAMPc2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DfqC9kGVQAAMPc2.jpg",
+						"url": "https://t.co/xnTPM8jNT2",
+						"display_url": "pic.twitter.com/xnTPM8jNT2",
+						"expanded_url": "https://twitter.com/MiriamWesselink/status/1007261462484672519/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 700,
+								"h": 564,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 548,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 700,
+								"h": 564,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1007261460844593200,
+						"id_str": "1007261460844593152",
+						"indices": [
+							25,
+							48
+						],
+						"media_url": "http://pbs.twimg.com/media/DfqC9kGVQAAMPc2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DfqC9kGVQAAMPc2.jpg",
+						"url": "https://t.co/xnTPM8jNT2",
+						"display_url": "pic.twitter.com/xnTPM8jNT2",
+						"expanded_url": "https://twitter.com/MiriamWesselink/status/1007261462484672519/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 700,
+								"h": 564,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 548,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 700,
+								"h": 564,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 163400706,
+				"id_str": "163400706",
+				"name": "Miriam Wesselink",
+				"screen_name": "MiriamWesselink",
+				"location": "070",
+				"description": "Schrijft SF-drama Verstrengelde Deeltjes. Kijkt soms met verbijstering naar de wereld maar is dankbaar voor de verhaalideeën. Bidt niet maar vloekt wel.",
+				"url": "https://t.co/kKJvyn3VFg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kKJvyn3VFg",
+								"expanded_url": "http://singularity.nl/",
+								"display_url": "singularity.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3590,
+				"friends_count": 3108,
+				"listed_count": 80,
+				"created_at": "Tue Jul 06 09:30:12 +0000 2010",
+				"favourites_count": 15351,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 64305,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EEC900",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/423431075004575745/Nixq7VCL_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/423431075004575745/Nixq7VCL_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/163400706/1400918037",
+				"profile_link_color": "FF2F00",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 30,
+			"favorite_count": 102,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 30,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Jun 15 04:33:21 +0000 2018",
+		"id": 1007481162040832000,
+		"id_str": "1007481162040832001",
+		"text": "@Cleverfiles I have no idea who you should contact. Check their website for contact info...",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Cleverfiles",
+					"name": "Disk Drill",
+					"id": 197522201,
+					"id_str": "197522201",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1007345174417150000,
+		"in_reply_to_status_id_str": "1007345174417149952",
+		"in_reply_to_user_id": 197522201,
+		"in_reply_to_user_id_str": "197522201",
+		"in_reply_to_screen_name": "Cleverfiles",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9154,
+			"friends_count": 2035,
+			"listed_count": 604,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4281,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60477,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1528570148",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Jun 14 19:10:28 +0000 2018",
 		"id": 1007339505072922600,
 		"id_str": "1007339505072922625",
