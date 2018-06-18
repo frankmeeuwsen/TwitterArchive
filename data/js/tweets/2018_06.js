@@ -1,6 +1,266 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Mon Jun 18 15:24:52 +0000 2018",
+		"id": 1008732283312967700,
+		"id_str": "1008732283312967681",
+		"text": "Altijd weer een mooie docu! #pjtour2018 #PJLIVE2018 https://t.co/BUoCQRTqTx",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "pjtour2018",
+					"indices": [
+						28,
+						39
+					]
+				},
+				{
+					"text": "PJLIVE2018",
+					"indices": [
+						40,
+						51
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BUoCQRTqTx",
+					"expanded_url": "https://twitter.com/npo2extra/status/1008658792555384838",
+					"display_url": "twitter.com/npo2extra/stat…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9156,
+			"friends_count": 2038,
+			"listed_count": 604,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4311,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60518,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1528570148",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1008658792555384800,
+		"quoted_status_id_str": "1008658792555384838",
+		"quoted_status": {
+			"created_at": "Mon Jun 18 10:32:50 +0000 2018",
+			"id": 1008658792555384800,
+			"id_str": "1008658792555384838",
+			"text": "Zo net na @pinkpopfest 2018 hebben wij wel zin in een documentaire over @PearlJam, ook al omdat we niets van hun… https://t.co/WlquOXHFio",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "pinkpopfest",
+						"name": "Pinkpop festival",
+						"id": 82294405,
+						"id_str": "82294405",
+						"indices": [
+							10,
+							22
+						]
+					},
+					{
+						"screen_name": "PearlJam",
+						"name": "Pearl Jam",
+						"id": 15155074,
+						"id_str": "15155074",
+						"indices": [
+							72,
+							81
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/WlquOXHFio",
+						"expanded_url": "https://twitter.com/i/web/status/1008658792555384838",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							114,
+							137
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19716506,
+				"id_str": "19716506",
+				"name": "NPO 2 extra",
+				"screen_name": "NPO2extra",
+				"location": "Hilversum",
+				"description": "Hét kanaal voor Kunst | Cultuur | Documentaires | Film | Klassiek | Literatuur | Pop/Jazz | Theater/Dans | non-stop op digitale tv en https://t.co/qYlj92g5ws",
+				"url": "https://t.co/rw41IuOC7M",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rw41IuOC7M",
+								"expanded_url": "https://www.npostart.nl/live/npo-2-extra",
+								"display_url": "npostart.nl/live/npo-2-ext…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/qYlj92g5ws",
+								"expanded_url": "http://NPO.nl",
+								"display_url": "NPO.nl",
+								"indices": [
+									134,
+									157
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 72241,
+				"friends_count": 5846,
+				"listed_count": 526,
+				"created_at": "Thu Jan 29 15:50:48 +0000 2009",
+				"favourites_count": 736,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12164,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FCF9F9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/976846921435435008/UZ6mHOGx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/976846921435435008/UZ6mHOGx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19716506/1521825576",
+				"profile_link_color": "029CDE",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDDDDD",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 16,
+			"favorite_count": 19,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Mon Jun 18 11:00:04 +0000 2018",
 		"id": 1008665644684980200,
 		"id_str": "1008665644684980230",
