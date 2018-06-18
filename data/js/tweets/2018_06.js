@@ -1,6 +1,440 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Mon Jun 18 10:18:34 +0000 2018",
+		"id": 1008655200662499300,
+		"id_str": "1008655200662499328",
+		"text": "Beste van de dag! Van het jaar! We gaan van de weeromstuit aan de slag met ons fax-kanaal! https://t.co/jZY9iWVP4G",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jZY9iWVP4G",
+					"expanded_url": "https://twitter.com/Roh/status/1008650046466920448",
+					"display_url": "twitter.com/Roh/status/100…",
+					"indices": [
+						91,
+						114
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9156,
+			"friends_count": 2038,
+			"listed_count": 604,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4311,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60514,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1528570148",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1008650046466920400,
+		"quoted_status_id_str": "1008650046466920448",
+		"quoted_status": {
+			"created_at": "Mon Jun 18 09:58:05 +0000 2018",
+			"id": 1008650046466920400,
+			"id_str": "1008650046466920448",
+			"text": "@frankmeeuwsen https://t.co/j6G1um1zgC",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "frankmeeuwsen",
+						"name": "Frank Meeuwsen",
+						"id": 816203,
+						"id_str": "816203",
+						"indices": [
+							0,
+							14
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1008650000484720600,
+						"id_str": "1008650000484720640",
+						"indices": [
+							15,
+							38
+						],
+						"media_url": "http://pbs.twimg.com/media/Df9x1NWW4AAe2oK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Df9x1NWW4AAe2oK.jpg",
+						"url": "https://t.co/j6G1um1zgC",
+						"display_url": "pic.twitter.com/j6G1um1zgC",
+						"expanded_url": "https://twitter.com/Roh/status/1008650046466920448/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 654,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 371,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1000,
+								"h": 1834,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1008650000484720600,
+						"id_str": "1008650000484720640",
+						"indices": [
+							15,
+							38
+						],
+						"media_url": "http://pbs.twimg.com/media/Df9x1NWW4AAe2oK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Df9x1NWW4AAe2oK.jpg",
+						"url": "https://t.co/j6G1um1zgC",
+						"display_url": "pic.twitter.com/j6G1um1zgC",
+						"expanded_url": "https://twitter.com/Roh/status/1008650046466920448/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 654,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 371,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1000,
+								"h": 1834,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 816203,
+			"in_reply_to_user_id_str": "816203",
+			"in_reply_to_screen_name": "frankmeeuwsen",
+			"user": {
+				"id": 1447551,
+				"id_str": "1447551",
+				"name": "Ronald van Schaik",
+				"screen_name": "Roh",
+				"location": "Utrecht, The Netherlands",
+				"description": "Eigenaar van Kaliber - creatief bureau voor interactieve merkbeleving",
+				"url": "http://t.co/0uBteIkGBt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/0uBteIkGBt",
+								"expanded_url": "http://www.kaliber.net",
+								"display_url": "kaliber.net",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1333,
+				"friends_count": 964,
+				"listed_count": 49,
+				"created_at": "Sun Mar 18 22:18:27 +0000 2007",
+				"favourites_count": 3056,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 10991,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/564880683802583042/9CIHMJ20_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/564880683802583042/9CIHMJ20_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1447551/1432890126",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
+		"created_at": "Mon Jun 18 10:15:56 +0000 2018",
+		"id": 1008654538243498000,
+		"id_str": "1008654538243497986",
+		"text": "@peetsneekes @patrickloonstra @_Mirabeau 👋  Zullen we via email/Slack/DM de conversatie voortzetten en eens iets pl… https://t.co/yXu3mYaoTI",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "peetsneekes",
+					"name": "Peet Sneekes",
+					"id": 787094,
+					"id_str": "787094",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "patrickloonstra",
+					"name": "Patrick 🕶",
+					"id": 9647022,
+					"id_str": "9647022",
+					"indices": [
+						13,
+						29
+					]
+				},
+				{
+					"screen_name": "_Mirabeau",
+					"name": "Mirabeau",
+					"id": 30262954,
+					"id_str": "30262954",
+					"indices": [
+						30,
+						40
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/yXu3mYaoTI",
+					"expanded_url": "https://twitter.com/i/web/status/1008654538243497986",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1008653162025226200,
+		"in_reply_to_status_id_str": "1008653162025226241",
+		"in_reply_to_user_id": 787094,
+		"in_reply_to_user_id_str": "787094",
+		"in_reply_to_screen_name": "peetsneekes",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9156,
+			"friends_count": 2038,
+			"listed_count": 604,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4311,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60514,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1528570148",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Mon Jun 18 08:15:08 +0000 2018",
 		"id": 1008624136732672000,
 		"id_str": "1008624136732672001",
