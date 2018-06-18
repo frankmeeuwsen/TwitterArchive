@@ -1,6 +1,898 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Mon Jun 18 11:00:04 +0000 2018",
+		"id": 1008665644684980200,
+		"id_str": "1008665644684980230",
+		"text": "RT @De_Goede_Zaak: @aafkeromeijn @LodewijkA @MinPres @realDonaldTrump We zijn een actie gestart om de @MinPres te vragen de Amerikaanse amb…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "De_Goede_Zaak",
+					"name": "De Goede Zaak",
+					"id": 869836308931334100,
+					"id_str": "869836308931334144",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "aafkeromeijn",
+					"name": "Aafke Romeijn",
+					"id": 234295296,
+					"id_str": "234295296",
+					"indices": [
+						19,
+						32
+					]
+				},
+				{
+					"screen_name": "LodewijkA",
+					"name": "Lodewijk Asscher",
+					"id": 49442623,
+					"id_str": "49442623",
+					"indices": [
+						33,
+						43
+					]
+				},
+				{
+					"screen_name": "MinPres",
+					"name": "Mark Rutte",
+					"id": 155507136,
+					"id_str": "155507136",
+					"indices": [
+						44,
+						52
+					]
+				},
+				{
+					"screen_name": "realDonaldTrump",
+					"name": "Donald J. Trump",
+					"id": 25073877,
+					"id_str": "25073877",
+					"indices": [
+						53,
+						69
+					]
+				},
+				{
+					"screen_name": "MinPres",
+					"name": "Mark Rutte",
+					"id": 155507136,
+					"id_str": "155507136",
+					"indices": [
+						102,
+						110
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9156,
+			"friends_count": 2038,
+			"listed_count": 604,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4311,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60517,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1528570148",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 18 10:51:18 +0000 2018",
+			"id": 1008663437642207200,
+			"id_str": "1008663437642207233",
+			"text": "@aafkeromeijn @LodewijkA @MinPres @realDonaldTrump We zijn een actie gestart om de @MinPres te vragen de Amerikaans… https://t.co/7Mfthck3Er",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "aafkeromeijn",
+						"name": "Aafke Romeijn",
+						"id": 234295296,
+						"id_str": "234295296",
+						"indices": [
+							0,
+							13
+						]
+					},
+					{
+						"screen_name": "LodewijkA",
+						"name": "Lodewijk Asscher",
+						"id": 49442623,
+						"id_str": "49442623",
+						"indices": [
+							14,
+							24
+						]
+					},
+					{
+						"screen_name": "MinPres",
+						"name": "Mark Rutte",
+						"id": 155507136,
+						"id_str": "155507136",
+						"indices": [
+							25,
+							33
+						]
+					},
+					{
+						"screen_name": "realDonaldTrump",
+						"name": "Donald J. Trump",
+						"id": 25073877,
+						"id_str": "25073877",
+						"indices": [
+							34,
+							50
+						]
+					},
+					{
+						"screen_name": "MinPres",
+						"name": "Mark Rutte",
+						"id": 155507136,
+						"id_str": "155507136",
+						"indices": [
+							83,
+							91
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/7Mfthck3Er",
+						"expanded_url": "https://twitter.com/i/web/status/1008663437642207233",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 1008613439999283200,
+			"in_reply_to_status_id_str": "1008613439999283200",
+			"in_reply_to_user_id": 234295296,
+			"in_reply_to_user_id_str": "234295296",
+			"in_reply_to_screen_name": "aafkeromeijn",
+			"user": {
+				"id": 869836308931334100,
+				"id_str": "869836308931334144",
+				"name": "De Goede Zaak",
+				"screen_name": "De_Goede_Zaak",
+				"location": "Nederland",
+				"description": "Beweging van Progressief Nederland. Acties en campagnes voor een duurzame toekomst, eerlijke economie, open democratie en inclusieve samenleving.",
+				"url": "https://t.co/T7cLaLRyL9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/T7cLaLRyL9",
+								"expanded_url": "https://degoedezaak.org",
+								"display_url": "degoedezaak.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1212,
+				"friends_count": 465,
+				"listed_count": 0,
+				"created_at": "Wed May 31 08:41:51 +0000 2017",
+				"favourites_count": 321,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 500,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/930031203771707392/nYwJnqaQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/930031203771707392/nYwJnqaQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/869836308931334144/1510571901",
+				"profile_link_color": "5DA8FB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "nl"
+	},
+	{
+		"created_at": "Mon Jun 18 10:45:52 +0000 2018",
+		"id": 1008662070374686700,
+		"id_str": "1008662070374686721",
+		"text": "De Pearl Jam Family reist lekker mee door Europa! https://t.co/OZUVUuROPs",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OZUVUuROPs",
+					"expanded_url": "https://twitter.com/Charlotte_Mai/status/1008650711201144832",
+					"display_url": "twitter.com/Charlotte_Mai/…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9156,
+			"friends_count": 2038,
+			"listed_count": 604,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4311,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60517,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1528570148",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1008650711201144800,
+		"quoted_status_id_str": "1008650711201144832",
+		"quoted_status": {
+			"created_at": "Mon Jun 18 10:00:44 +0000 2018",
+			"id": 1008650711201144800,
+			"id_str": "1008650711201144832",
+			"text": "My guess is there are 50 people in front of me in the GA queue for @PearlJam, been here since 9, some came at 6. Th… https://t.co/uZTNy9ZMF7",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "PearlJam",
+						"name": "Pearl Jam",
+						"id": 15155074,
+						"id_str": "15155074",
+						"indices": [
+							67,
+							76
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/uZTNy9ZMF7",
+						"expanded_url": "https://twitter.com/i/web/status/1008650711201144832",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2688816431,
+				"id_str": "2688816431",
+				"name": "Charlotte Mai",
+				"screen_name": "Charlotte_Mai",
+				"location": "London, England",
+				"description": "Rebellious 🇩🇰 in 🇬🇧 Artist/Event Management & Music Photography 🤘🏻   ✉️Charlottemai@outlook.com",
+				"url": "https://t.co/ghNMn0djki",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ghNMn0djki",
+								"expanded_url": "https://500px.com/charlottemaiphoto",
+								"display_url": "500px.com/charlottemaiph…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 129,
+				"friends_count": 331,
+				"listed_count": 2,
+				"created_at": "Tue Jul 08 23:03:38 +0000 2014",
+				"favourites_count": 3737,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1139,
+				"lang": "da",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/993937241050402816/i9i2UZO-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/993937241050402816/i9i2UZO-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2688816431/1492338821",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "038247c1b5bb34c9",
+				"url": "https://api.twitter.com/1.1/geo/id/038247c1b5bb34c9.json",
+				"place_type": "city",
+				"name": "Greenwich",
+				"full_name": "Greenwich, London",
+				"country_code": "GB",
+				"country": "United Kingdom",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-0.0335507,
+								51.436221
+							],
+							[
+								0.06353,
+								51.436221
+							],
+							[
+								0.06353,
+								51.506788
+							],
+							[
+								-0.0335507,
+								51.506788
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
+		"created_at": "Mon Jun 18 10:43:39 +0000 2018",
+		"id": 1008661514637766700,
+		"id_str": "1008661514637766656",
+		"text": "RT @allontheboard: For @PearlJam and their fans poem by @allontheboard Tonight and tomorrow they will be rocking @TheO2 in #London. Poem wi…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "London",
+					"indices": [
+						123,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "allontheboard",
+					"name": "All on the board",
+					"id": 854241227503530000,
+					"id_str": "854241227503529985",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "PearlJam",
+					"name": "Pearl Jam",
+					"id": 15155074,
+					"id_str": "15155074",
+					"indices": [
+						23,
+						32
+					]
+				},
+				{
+					"screen_name": "allontheboard",
+					"name": "All on the board",
+					"id": 854241227503530000,
+					"id_str": "854241227503529985",
+					"indices": [
+						56,
+						70
+					]
+				},
+				{
+					"screen_name": "TheO2",
+					"name": "The O2",
+					"id": 18722606,
+					"id_str": "18722606",
+					"indices": [
+						113,
+						119
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9156,
+			"friends_count": 2038,
+			"listed_count": 604,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4311,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60517,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1528570148",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 18 08:53:19 +0000 2018",
+			"id": 1008633748152299500,
+			"id_str": "1008633748152299520",
+			"text": "For @PearlJam and their fans poem by @allontheboard Tonight and tomorrow they will be rocking @TheO2 in #London. Po… https://t.co/xJBc5AgdJp",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "London",
+						"indices": [
+							104,
+							111
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "PearlJam",
+						"name": "Pearl Jam",
+						"id": 15155074,
+						"id_str": "15155074",
+						"indices": [
+							4,
+							13
+						]
+					},
+					{
+						"screen_name": "allontheboard",
+						"name": "All on the board",
+						"id": 854241227503530000,
+						"id_str": "854241227503529985",
+						"indices": [
+							37,
+							51
+						]
+					},
+					{
+						"screen_name": "TheO2",
+						"name": "The O2",
+						"id": 18722606,
+						"id_str": "18722606",
+						"indices": [
+							94,
+							100
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/xJBc5AgdJp",
+						"expanded_url": "https://twitter.com/i/web/status/1008633748152299520",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 854241227503530000,
+				"id_str": "854241227503529985",
+				"name": "All on the board",
+				"screen_name": "allontheboard",
+				"location": "London, England",
+				"description": "Just a board with things to say and 2 humans to write them each day. Board belongs to TFL but content is our original work. © Copyright @allontheboard",
+				"url": "https://t.co/zAtqgS87jo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zAtqgS87jo",
+								"expanded_url": "https://www.facebook.com/AllontheBoard/",
+								"display_url": "facebook.com/AllontheBoard/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12052,
+				"friends_count": 20,
+				"listed_count": 42,
+				"created_at": "Tue Apr 18 07:52:34 +0000 2017",
+				"favourites_count": 6071,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1288,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/899236436985118724/cULDazqW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/899236436985118724/cULDazqW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/854241227503529985/1499961558",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "0952b4436a96c002",
+				"url": "https://api.twitter.com/1.1/geo/id/0952b4436a96c002.json",
+				"place_type": "poi",
+				"name": "North Greenwich Station",
+				"full_name": "North Greenwich Station",
+				"country_code": "GB",
+				"country": "United Kingdom",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								0.0040470934275054,
+								51.500487668707
+							],
+							[
+								0.0040470934275054,
+								51.500487668707
+							],
+							[
+								0.0040470934275054,
+								51.500487668707
+							],
+							[
+								0.0040470934275054,
+								51.500487668707
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 112,
+			"favorite_count": 438,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 112,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jun 18 10:18:34 +0000 2018",
 		"id": 1008655200662499300,
 		"id_str": "1008655200662499328",
