@@ -1,6 +1,322 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Wed Jun 20 17:30:16 +0000 2018",
+		"id": 1009488617188839400,
+		"id_str": "1009488617188839436",
+		"text": "RT @ThomasHogeling: Lastig, lastig. Ik denk dat ik me toch op het standpunt stel dat de partij die 6 miljoen onschuldige mensen heeft verga…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ThomasHogeling",
+					"name": "Thomas Hogeling",
+					"id": 116886044,
+					"id_str": "116886044",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9156,
+			"friends_count": 2043,
+			"listed_count": 604,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4327,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60562,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875434894905810944/EzchHrtM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1528570148",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jun 20 15:44:40 +0000 2018",
+			"id": 1009462043542523900,
+			"id_str": "1009462043542523911",
+			"text": "Lastig, lastig. Ik denk dat ik me toch op het standpunt stel dat de partij die 6 miljoen onschuldige mensen heeft v… https://t.co/sY1SVXl3u5",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/sY1SVXl3u5",
+						"expanded_url": "https://twitter.com/i/web/status/1009462043542523911",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 116886044,
+				"id_str": "116886044",
+				"name": "Thomas Hogeling",
+				"screen_name": "ThomasHogeling",
+				"location": "",
+				"description": "Suave as hell",
+				"url": "https://t.co/b2NfrrmsZo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/b2NfrrmsZo",
+								"expanded_url": "https://tinyurl.com/lt8qbr5",
+								"display_url": "tinyurl.com/lt8qbr5",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4198,
+				"friends_count": 343,
+				"listed_count": 46,
+				"created_at": "Tue Feb 23 21:58:51 +0000 2010",
+				"favourites_count": 10615,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 17845,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "383638",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1001839555706851328/BwK_L0qu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1001839555706851328/BwK_L0qu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/116886044/1511878859",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "0F0F0F",
+				"profile_text_color": "434454",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1009173608311283700,
+			"quoted_status_id_str": "1009173608311283714",
+			"quoted_status": {
+				"created_at": "Tue Jun 19 20:38:32 +0000 2018",
+				"id": 1009173608311283700,
+				"id_str": "1009173608311283714",
+				"text": "Zojuist interessant artikel gelezen. \"Hebben de 'goeden' WO2 gewonnen of niet?\". Of waren de nazi's de beschermers… https://t.co/T6DEskm8YA",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/T6DEskm8YA",
+							"expanded_url": "https://twitter.com/i/web/status/1009173608311283714",
+							"display_url": "twitter.com/i/web/status/1…",
+							"indices": [
+								116,
+								139
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 414987022,
+					"id_str": "414987022",
+					"name": "Arnoud van Doorn",
+					"screen_name": "ArnoudvDoorn",
+					"location": "",
+					"description": "Member of The Hague City Council for Party of the Unity. President European Dawah Foundation. Salsabeel Foundation.",
+					"url": "https://t.co/13QL4RiSyg",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/13QL4RiSyg",
+									"expanded_url": "http://www.partijvandeeenheid.nl",
+									"display_url": "partijvandeeenheid.nl",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 31930,
+					"friends_count": 2866,
+					"listed_count": 242,
+					"created_at": "Thu Nov 17 19:11:10 +0000 2011",
+					"favourites_count": 5576,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 29798,
+					"lang": "nl",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "ACDED6",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/1005798777834426368/NGDlYzdp_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/1005798777834426368/NGDlYzdp_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/414987022/1526403093",
+					"profile_link_color": "038543",
+					"profile_sidebar_border_color": "EEEEEE",
+					"profile_sidebar_fill_color": "F6F6F6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 11,
+				"favorite_count": 29,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "nl"
+			},
+			"retweet_count": 11,
+			"favorite_count": 33,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1009173608311283700,
+		"quoted_status_id_str": "1009173608311283714",
+		"retweet_count": 11,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Wed Jun 20 15:50:41 +0000 2018",
 		"id": 1009463558634115100,
 		"id_str": "1009463558634115073",
