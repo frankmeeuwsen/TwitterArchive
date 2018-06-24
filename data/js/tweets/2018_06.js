@@ -1,10 +1,228 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Sun Jun 24 19:14:59 +0000 2018",
+		"id": 1010964523413573600,
+		"id_str": "1010964523413573632",
+		"text": "Een nieuw avondje Pearl Jam. Deze keer in Padova.... En nee, ik ben er weer niet bij ;-) https://t.co/W36NgXcgzA",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/W36NgXcgzA",
+					"expanded_url": "https://twitter.com/igorbigga/status/1010963417065312256",
+					"display_url": "twitter.com/igorbigga/stat…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9153,
+			"friends_count": 2054,
+			"listed_count": 604,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4357,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60580,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1528570148",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1010963417065312300,
+		"quoted_status_id_str": "1010963417065312256",
+		"quoted_status": {
+			"created_at": "Sun Jun 24 19:10:36 +0000 2018",
+			"id": 1010963417065312300,
+			"id_str": "1010963417065312256",
+			"text": "#PJLive2018 #PJPadova 2. Low Light",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "PJLive2018",
+						"indices": [
+							0,
+							11
+						]
+					},
+					{
+						"text": "PJPadova",
+						"indices": [
+							12,
+							21
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 36616069,
+				"id_str": "36616069",
+				"name": "Igor Biga",
+				"screen_name": "igorbigga",
+				"location": "Belgrade, Republic of Serbia",
+				"description": "Inženjer, veliki pobornik nauke, borac za ljudska prava, protivnik represije, Zvezdaš, Pearl Jamovac. RED BEAGLE d.o.o. Raška. Beograd. Srbija.",
+				"url": "https://t.co/LBmciF7Soh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/LBmciF7Soh",
+								"expanded_url": "http://www.redbeagle.rs",
+								"display_url": "redbeagle.rs",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 475,
+				"friends_count": 1007,
+				"listed_count": 3,
+				"created_at": "Thu Apr 30 07:08:45 +0000 2009",
+				"favourites_count": 8299,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3129,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "321933",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/971034486241681409/POKaJKpU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/971034486241681409/POKaJKpU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/36616069/1511032619",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "DBD1B6",
+				"profile_sidebar_fill_color": "99AC9B",
+				"profile_text_color": "676B88",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Sun Jun 24 17:06:45 +0000 2018",
 		"id": 1010932252077944800,
 		"id_str": "1010932252077944832",
-		"text": "RT @IncredibleCulk: 🤦‍♂️\n\nWe should have voted for John Candy... https://t.co/ntwB2UDmD8",
+		"text": "RT @IncredibleCulk: 🤦♂️\n\nWe should have voted for John Candy... https://t.co/ntwB2UDmD8",
 		"truncated": false,
 		"entities": {
 			"hashtags": [],
@@ -194,7 +412,7 @@ Grailbird.data.tweets_2018_06 =
 			"created_at": "Sat Jun 23 20:24:29 +0000 2018",
 			"id": 1010619625653002200,
 			"id_str": "1010619625653002240",
-			"text": "🤦‍♂️\n\nWe should have voted for John Candy... https://t.co/ntwB2UDmD8",
+			"text": "🤦♂️\n\nWe should have voted for John Candy... https://t.co/ntwB2UDmD8",
 			"truncated": false,
 			"entities": {
 				"hashtags": [],
