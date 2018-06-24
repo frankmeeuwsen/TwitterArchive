@@ -1,6 +1,260 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Sun Jun 24 20:07:17 +0000 2018",
+		"id": 1010977683663093800,
+		"id_str": "1010977683663093765",
+		"text": "RT @MENEERDEGREEF: De belastingdienst maakt even voor het gemak een geile deal met Shell waardoor er, gewoon omdat het kan en voor de fuck…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MENEERDEGREEF",
+					"name": "GREEFBEEST",
+					"id": 260245776,
+					"id_str": "260245776",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9153,
+			"friends_count": 2054,
+			"listed_count": 604,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4357,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60581,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1528570148",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jun 24 20:06:02 +0000 2018",
+			"id": 1010977370491310100,
+			"id_str": "1010977370491310082",
+			"text": "De belastingdienst maakt even voor het gemak een geile deal met Shell waardoor er, gewoon omdat het kan en voor de… https://t.co/eAGqOWX2I0",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/eAGqOWX2I0",
+						"expanded_url": "https://twitter.com/i/web/status/1010977370491310082",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1010972148469465100,
+			"in_reply_to_status_id_str": "1010972148469465090",
+			"in_reply_to_user_id": 260245776,
+			"in_reply_to_user_id_str": "260245776",
+			"in_reply_to_screen_name": "MENEERDEGREEF",
+			"user": {
+				"id": 260245776,
+				"id_str": "260245776",
+				"name": "GREEFBEEST",
+				"screen_name": "MENEERDEGREEF",
+				"location": "Cunter, Svizra",
+				"description": "HARD SCHREEUWENDE VERTICAAL UITGEDAAGDE. GOONIE. KINKSTER. NARE WOESTELING. SUPPORT VIOLENT DANCING. GEEN PIJN GEEN PRET. #JEUGDBENDE REDACTIE @ https://t.co/jAPR19PCWD",
+				"url": "https://t.co/fGvuR8CYuG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fGvuR8CYuG",
+								"expanded_url": "http://www.retecool.com/author/meneer-de-greef/",
+								"display_url": "retecool.com/author/meneer-…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/jAPR19PCWD",
+								"expanded_url": "http://RETECOOL.COM",
+								"display_url": "RETECOOL.COM",
+								"indices": [
+									145,
+									168
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 4810,
+				"friends_count": 2203,
+				"listed_count": 66,
+				"created_at": "Thu Mar 03 14:04:17 +0000 2011",
+				"favourites_count": 13015,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 78894,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/974299058956316672/Hlxp2X9u_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/974299058956316672/Hlxp2X9u_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/260245776/1519049066",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "99cdab25eddd6bce",
+				"url": "https://api.twitter.com/1.1/geo/id/99cdab25eddd6bce.json",
+				"place_type": "city",
+				"name": "Amsterdam",
+				"full_name": "Amsterdam, The Netherlands",
+				"country_code": "NL",
+				"country": "The Netherlands",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								4.7288999,
+								52.2782266
+							],
+							[
+								5.0792072,
+								52.2782266
+							],
+							[
+								5.0792072,
+								52.4312289
+							],
+							[
+								4.7288999,
+								52.4312289
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "nl"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Sun Jun 24 19:14:59 +0000 2018",
 		"id": 1010964523413573600,
 		"id_str": "1010964523413573632",
