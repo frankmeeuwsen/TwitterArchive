@@ -1,6 +1,466 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Sun Jun 24 08:55:29 +0000 2018",
+		"id": 1010808618030174200,
+		"id_str": "1010808618030174209",
+		"text": "RT @PearlJamHolland: Tonight’s poster: PADOVA!! #PJLIVE2018 #pearljam https://t.co/zTTYMPuzUt",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PJLIVE2018",
+					"indices": [
+						48,
+						59
+					]
+				},
+				{
+					"text": "pearljam",
+					"indices": [
+						60,
+						69
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PearlJamHolland",
+					"name": "Pearl Jam Holland",
+					"id": 2933941318,
+					"id_str": "2933941318",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1010784185882116100,
+					"id_str": "1010784185882116106",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/DgcG3JgWAAoK5lP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DgcG3JgWAAoK5lP.jpg",
+					"url": "https://t.co/zTTYMPuzUt",
+					"display_url": "pic.twitter.com/zTTYMPuzUt",
+					"expanded_url": "https://twitter.com/PearlJamHolland/status/1010784193289302016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 902,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 511,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1437,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1010784193289302000,
+					"source_status_id_str": "1010784193289302016",
+					"source_user_id": 2933941318,
+					"source_user_id_str": "2933941318"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1010784185882116100,
+					"id_str": "1010784185882116106",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/DgcG3JgWAAoK5lP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DgcG3JgWAAoK5lP.jpg",
+					"url": "https://t.co/zTTYMPuzUt",
+					"display_url": "pic.twitter.com/zTTYMPuzUt",
+					"expanded_url": "https://twitter.com/PearlJamHolland/status/1010784193289302016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 902,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 511,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1437,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1010784193289302000,
+					"source_status_id_str": "1010784193289302016",
+					"source_user_id": 2933941318,
+					"source_user_id_str": "2933941318"
+				},
+				{
+					"id": 1010784185852842000,
+					"id_str": "1010784185852841984",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/DgcG3JZXUAA961T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DgcG3JZXUAA961T.jpg",
+					"url": "https://t.co/zTTYMPuzUt",
+					"display_url": "pic.twitter.com/zTTYMPuzUt",
+					"expanded_url": "https://twitter.com/PearlJamHolland/status/1010784193289302016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 518,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1418,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 914,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1010784193289302000,
+					"source_status_id_str": "1010784193289302016",
+					"source_user_id": 2933941318,
+					"source_user_id_str": "2933941318"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9154,
+			"friends_count": 2054,
+			"listed_count": 604,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4351,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60574,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1528570148",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jun 24 07:18:25 +0000 2018",
+			"id": 1010784193289302000,
+			"id_str": "1010784193289302016",
+			"text": "Tonight’s poster: PADOVA!! #PJLIVE2018 #pearljam https://t.co/zTTYMPuzUt",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "PJLIVE2018",
+						"indices": [
+							27,
+							38
+						]
+					},
+					{
+						"text": "pearljam",
+						"indices": [
+							39,
+							48
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1010784185882116100,
+						"id_str": "1010784185882116106",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/media/DgcG3JgWAAoK5lP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DgcG3JgWAAoK5lP.jpg",
+						"url": "https://t.co/zTTYMPuzUt",
+						"display_url": "pic.twitter.com/zTTYMPuzUt",
+						"expanded_url": "https://twitter.com/PearlJamHolland/status/1010784193289302016/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 902,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 511,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1437,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1010784185882116100,
+						"id_str": "1010784185882116106",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/media/DgcG3JgWAAoK5lP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DgcG3JgWAAoK5lP.jpg",
+						"url": "https://t.co/zTTYMPuzUt",
+						"display_url": "pic.twitter.com/zTTYMPuzUt",
+						"expanded_url": "https://twitter.com/PearlJamHolland/status/1010784193289302016/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 902,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 511,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1437,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1010784185852842000,
+						"id_str": "1010784185852841984",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/media/DgcG3JZXUAA961T.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DgcG3JZXUAA961T.jpg",
+						"url": "https://t.co/zTTYMPuzUt",
+						"display_url": "pic.twitter.com/zTTYMPuzUt",
+						"expanded_url": "https://twitter.com/PearlJamHolland/status/1010784193289302016/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 518,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1418,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 914,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2933941318,
+				"id_str": "2933941318",
+				"name": "Pearl Jam Holland",
+				"screen_name": "PearlJamHolland",
+				"location": "",
+				"description": "Troubled souls unite! Dutch PJ-fanaccount. Follow for Pearl Jam news, videos, lyrics, facts & photos. Instagram: pearljamholland.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1445,
+				"friends_count": 252,
+				"listed_count": 20,
+				"created_at": "Sat Dec 20 17:16:58 +0000 2014",
+				"favourites_count": 6521,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2724,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/968918956860985346/u_FxXkMa_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/968918956860985346/u_FxXkMa_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2933941318/1419097641",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 10,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Jun 24 06:49:19 +0000 2018",
 		"id": 1010776870646943700,
 		"id_str": "1010776870646943750",
