@@ -1,6 +1,310 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Mon Jun 25 17:09:42 +0000 2018",
+		"id": 1011295381232156700,
+		"id_str": "1011295381232156672",
+		"text": "RT @HerstoryTeache: Als je dochter 19 is en op de middelbare school zit, dan doet ze havo of vwo. Daar zijn 4 mogelijke lesmethodes. \n1. Sp…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HerstoryTeache",
+					"name": "⬅️That's not really me",
+					"id": 2533301819,
+					"id_str": "2533301819",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9152,
+			"friends_count": 2054,
+			"listed_count": 604,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4371,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60590,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1528570148",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 25 12:51:21 +0000 2018",
+			"id": 1011230366609412100,
+			"id_str": "1011230366609412100",
+			"text": "Als je dochter 19 is en op de middelbare school zit, dan doet ze havo of vwo. Daar zijn 4 mogelijke lesmethodes. \n1… https://t.co/ECkCEcCEOm",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ECkCEcCEOm",
+						"expanded_url": "https://twitter.com/i/web/status/1011230366609412100",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2533301819,
+				"id_str": "2533301819",
+				"name": "⬅️That's not really me",
+				"screen_name": "HerstoryTeache",
+				"location": "Nederland",
+				"description": "Historicus. Opleider. Didacticus. Moeder. Gay. Denker. Doener. \nEverything will be fine in the end, if it's not fine, it's not yet the end.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 174,
+				"friends_count": 225,
+				"listed_count": 8,
+				"created_at": "Tue May 06 17:56:48 +0000 2014",
+				"favourites_count": 12946,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7044,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/983584153370288128/SJ2xTG81_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/983584153370288128/SJ2xTG81_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2533301819/1529816932",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1010996371745333200,
+			"quoted_status_id_str": "1010996371745333248",
+			"quoted_status": {
+				"created_at": "Sun Jun 24 21:21:33 +0000 2018",
+				"id": 1010996371745333200,
+				"id_str": "1010996371745333248",
+				"text": "Ongelofelijk hoeveel links gekkies ik in mijn timeline heb gehad over een twitter bericht van een geschiedenisboek… https://t.co/pX2yUOBHty",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/pX2yUOBHty",
+							"expanded_url": "https://twitter.com/i/web/status/1010996371745333248",
+							"display_url": "twitter.com/i/web/status/1…",
+							"indices": [
+								116,
+								139
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 149859697,
+					"id_str": "149859697",
+					"name": "Paul Meijer 🇳🇱",
+					"screen_name": "PCIMeijer",
+					"location": "Haarlemmermeer",
+					"description": "Fractievoorzitter en oprichter van Forza! NED Gekozen tot Politicus van het jaar in 2011, 2012, 2013 in Haarlemmermeer. Fortuynist, dagvoorzitter en spreker.",
+					"url": "https://t.co/TpP4rrK9HK",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/TpP4rrK9HK",
+									"expanded_url": "http://forzahaarlemmermeer.nl",
+									"display_url": "forzahaarlemmermeer.nl",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 3611,
+					"friends_count": 320,
+					"listed_count": 81,
+					"created_at": "Sun May 30 12:20:13 +0000 2010",
+					"favourites_count": 8138,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 61384,
+					"lang": "nl",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/946910416403357696/3iH3UA8G_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/946910416403357696/3iH3UA8G_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/149859697/1522157308",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 34,
+				"favorite_count": 55,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "nl"
+			},
+			"retweet_count": 78,
+			"favorite_count": 220,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1010996371745333200,
+		"quoted_status_id_str": "1010996371745333248",
+		"retweet_count": 78,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Mon Jun 25 16:20:02 +0000 2018",
 		"id": 1011282883783413800,
 		"id_str": "1011282883783413764",
