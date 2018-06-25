@@ -1,6 +1,373 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Mon Jun 25 16:20:02 +0000 2018",
+		"id": 1011282883783413800,
+		"id_str": "1011282883783413764",
+		"text": "RT @BeautifulLoser_: chair.exe has stopped working https://t.co/FO56VNvmH4",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BeautifulLoser_",
+					"name": "Chocolat Pine™",
+					"id": 95436599,
+					"id_str": "95436599",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1010601323316830200,
+					"id_str": "1010601323316830208",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/DgZgjJXW4AAwyzD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DgZgjJXW4AAwyzD.jpg",
+					"url": "https://t.co/FO56VNvmH4",
+					"display_url": "pic.twitter.com/FO56VNvmH4",
+					"expanded_url": "https://twitter.com/BeautifulLoser_/status/1010601385497423873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 700,
+							"h": 933,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 933,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1010601385497423900,
+					"source_status_id_str": "1010601385497423873",
+					"source_user_id": 95436599,
+					"source_user_id_str": "95436599"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1010601323316830200,
+					"id_str": "1010601323316830208",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/DgZgjJXW4AAwyzD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DgZgjJXW4AAwyzD.jpg",
+					"url": "https://t.co/FO56VNvmH4",
+					"display_url": "pic.twitter.com/FO56VNvmH4",
+					"expanded_url": "https://twitter.com/BeautifulLoser_/status/1010601385497423873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 700,
+							"h": 933,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 933,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1010601385497423900,
+					"source_status_id_str": "1010601385497423873",
+					"source_user_id": 95436599,
+					"source_user_id_str": "95436599"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9152,
+			"friends_count": 2054,
+			"listed_count": 604,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4370,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60589,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1528570148",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jun 23 19:12:01 +0000 2018",
+			"id": 1010601385497423900,
+			"id_str": "1010601385497423873",
+			"text": "chair.exe has stopped working https://t.co/FO56VNvmH4",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1010601323316830200,
+						"id_str": "1010601323316830208",
+						"indices": [
+							30,
+							53
+						],
+						"media_url": "http://pbs.twimg.com/media/DgZgjJXW4AAwyzD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DgZgjJXW4AAwyzD.jpg",
+						"url": "https://t.co/FO56VNvmH4",
+						"display_url": "pic.twitter.com/FO56VNvmH4",
+						"expanded_url": "https://twitter.com/BeautifulLoser_/status/1010601385497423873/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 700,
+								"h": 933,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 700,
+								"h": 933,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1010601323316830200,
+						"id_str": "1010601323316830208",
+						"indices": [
+							30,
+							53
+						],
+						"media_url": "http://pbs.twimg.com/media/DgZgjJXW4AAwyzD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DgZgjJXW4AAwyzD.jpg",
+						"url": "https://t.co/FO56VNvmH4",
+						"display_url": "pic.twitter.com/FO56VNvmH4",
+						"expanded_url": "https://twitter.com/BeautifulLoser_/status/1010601385497423873/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 700,
+								"h": 933,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 700,
+								"h": 933,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 95436599,
+				"id_str": "95436599",
+				"name": "Chocolat Pine™",
+				"screen_name": "BeautifulLoser_",
+				"location": "Castres, France",
+				"description": "Geek, handicap, horrible droit de l'hommiste et méchant défenseur du vivre ensemble. Troll (parfois), RT (souvent), tweets engagés (tout le temps). \nINTP-T",
+				"url": "https://t.co/y3vOU5BfCI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/y3vOU5BfCI",
+								"expanded_url": "https://curiouscat.me/Beautiful_Loser",
+								"display_url": "curiouscat.me/Beautiful_Loser",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1479,
+				"friends_count": 452,
+				"listed_count": 116,
+				"created_at": "Tue Dec 08 15:02:27 +0000 2009",
+				"favourites_count": 5194,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 65256,
+				"lang": "fr",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/935110679303983111/kxEXfAZE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/935110679303983111/kxEXfAZE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/95436599/1517510866",
+				"profile_link_color": "0000D1",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 91261,
+			"favorite_count": 279660,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 91261,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jun 25 11:27:11 +0000 2018",
 		"id": 1011209182832361500,
 		"id_str": "1011209182832361472",
