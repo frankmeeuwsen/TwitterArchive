@@ -1,6 +1,711 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Tue Jun 26 17:21:02 +0000 2018",
+		"id": 1011660621711073300,
+		"id_str": "1011660621711073281",
+		"text": "RT @davewiner: To @kottke @dsearls @om @annamasera  @photomatt @anildash @ev @nakedjen @brentsimmons @gruber @sethgodin @joi -- \n\nI finally…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "davewiner",
+					"name": "scripting.com",
+					"id": 3839,
+					"id_str": "3839",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "kottke",
+					"name": "kottke.org",
+					"id": 14120215,
+					"id_str": "14120215",
+					"indices": [
+						18,
+						25
+					]
+				},
+				{
+					"screen_name": "dsearls",
+					"name": "Doc Searls",
+					"id": 3339171,
+					"id_str": "3339171",
+					"indices": [
+						26,
+						34
+					]
+				},
+				{
+					"screen_name": "om",
+					"name": "OM",
+					"id": 989,
+					"id_str": "989",
+					"indices": [
+						35,
+						38
+					]
+				},
+				{
+					"screen_name": "annamasera",
+					"name": "Anna Masera",
+					"id": 28098604,
+					"id_str": "28098604",
+					"indices": [
+						39,
+						50
+					]
+				},
+				{
+					"screen_name": "photomatt",
+					"name": "Matt Mullenweg",
+					"id": 13479,
+					"id_str": "13479",
+					"indices": [
+						52,
+						62
+					]
+				},
+				{
+					"screen_name": "anildash",
+					"name": "Anil Dash",
+					"id": 36823,
+					"id_str": "36823",
+					"indices": [
+						63,
+						72
+					]
+				},
+				{
+					"screen_name": "ev",
+					"name": "Ev Williams",
+					"id": 20,
+					"id_str": "20",
+					"indices": [
+						73,
+						76
+					]
+				},
+				{
+					"screen_name": "nakedjen",
+					"name": "nakedjen ❦",
+					"id": 6210,
+					"id_str": "6210",
+					"indices": [
+						77,
+						86
+					]
+				},
+				{
+					"screen_name": "brentsimmons",
+					"name": "Brent Simmons",
+					"id": 652293,
+					"id_str": "652293",
+					"indices": [
+						87,
+						100
+					]
+				},
+				{
+					"screen_name": "gruber",
+					"name": "John Gruber",
+					"id": 33423,
+					"id_str": "33423",
+					"indices": [
+						101,
+						108
+					]
+				},
+				{
+					"screen_name": "sethgodin",
+					"name": "sethgodin",
+					"id": 17525143,
+					"id_str": "17525143",
+					"indices": [
+						109,
+						119
+					]
+				},
+				{
+					"screen_name": "Joi",
+					"name": "Joi Ito",
+					"id": 691353,
+					"id_str": "691353",
+					"indices": [
+						120,
+						124
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9152,
+			"friends_count": 2057,
+			"listed_count": 604,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4377,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60605,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1528570148",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jun 26 12:19:25 +0000 2018",
+			"id": 1011584714896035800,
+			"id_str": "1011584714896035841",
+			"text": "To @kottke @dsearls @om @annamasera  @photomatt @anildash @ev @nakedjen @brentsimmons @gruber @sethgodin @joi --… https://t.co/6YTNVhKSkI",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "kottke",
+						"name": "kottke.org",
+						"id": 14120215,
+						"id_str": "14120215",
+						"indices": [
+							3,
+							10
+						]
+					},
+					{
+						"screen_name": "dsearls",
+						"name": "Doc Searls",
+						"id": 3339171,
+						"id_str": "3339171",
+						"indices": [
+							11,
+							19
+						]
+					},
+					{
+						"screen_name": "om",
+						"name": "OM",
+						"id": 989,
+						"id_str": "989",
+						"indices": [
+							20,
+							23
+						]
+					},
+					{
+						"screen_name": "annamasera",
+						"name": "Anna Masera",
+						"id": 28098604,
+						"id_str": "28098604",
+						"indices": [
+							24,
+							35
+						]
+					},
+					{
+						"screen_name": "photomatt",
+						"name": "Matt Mullenweg",
+						"id": 13479,
+						"id_str": "13479",
+						"indices": [
+							37,
+							47
+						]
+					},
+					{
+						"screen_name": "anildash",
+						"name": "Anil Dash",
+						"id": 36823,
+						"id_str": "36823",
+						"indices": [
+							48,
+							57
+						]
+					},
+					{
+						"screen_name": "ev",
+						"name": "Ev Williams",
+						"id": 20,
+						"id_str": "20",
+						"indices": [
+							58,
+							61
+						]
+					},
+					{
+						"screen_name": "nakedjen",
+						"name": "nakedjen ❦",
+						"id": 6210,
+						"id_str": "6210",
+						"indices": [
+							62,
+							71
+						]
+					},
+					{
+						"screen_name": "brentsimmons",
+						"name": "Brent Simmons",
+						"id": 652293,
+						"id_str": "652293",
+						"indices": [
+							72,
+							85
+						]
+					},
+					{
+						"screen_name": "gruber",
+						"name": "John Gruber",
+						"id": 33423,
+						"id_str": "33423",
+						"indices": [
+							86,
+							93
+						]
+					},
+					{
+						"screen_name": "sethgodin",
+						"name": "sethgodin",
+						"id": 17525143,
+						"id_str": "17525143",
+						"indices": [
+							94,
+							104
+						]
+					},
+					{
+						"screen_name": "Joi",
+						"name": "Joi Ito",
+						"id": 691353,
+						"id_str": "691353",
+						"indices": [
+							105,
+							109
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/6YTNVhKSkI",
+						"expanded_url": "https://twitter.com/i/web/status/1011584714896035841",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							114,
+							137
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3839,
+				"id_str": "3839",
+				"name": "scripting.com",
+				"screen_name": "davewiner",
+				"location": "New York",
+				"description": "Trump says the press is the enemy of the people — only a true enemy of the people would say that.",
+				"url": "https://t.co/ztgzDGiyOj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ztgzDGiyOj",
+								"expanded_url": "http://scripting.com/",
+								"display_url": "scripting.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 69822,
+				"friends_count": 3943,
+				"listed_count": 5606,
+				"created_at": "Sat Aug 05 23:04:08 +0000 2006",
+				"favourites_count": 9311,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 147044,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/923372777670938625/Wjzo_hWE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/923372777670938625/Wjzo_hWE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3839/1485462576",
+				"profile_link_color": "7F7F90",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E1E1DF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jun 26 17:14:41 +0000 2018",
+		"id": 1011659023924547600,
+		"id_str": "1011659023924547584",
+		"text": "RT @martijnvdven: The #IndieWebSummit is live! You can follow along from home at https://t.co/yDBWdCTpsK! #IndieWeb",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IndieWebSummit",
+					"indices": [
+						22,
+						37
+					]
+				},
+				{
+					"text": "IndieWeb",
+					"indices": [
+						106,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "martijnvdven",
+					"name": "Martĳn van der Ven",
+					"id": 7090852,
+					"id_str": "7090852",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/yDBWdCTpsK",
+					"expanded_url": "https://www.youtube.com/watch?v=k4a3rm_dagw",
+					"display_url": "youtube.com/watch?v=k4a3rm…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9152,
+			"friends_count": 2057,
+			"listed_count": 604,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4377,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60605,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1528570148",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jun 26 17:02:50 +0000 2018",
+			"id": 1011656041631764500,
+			"id_str": "1011656041631764482",
+			"text": "The #IndieWebSummit is live! You can follow along from home at https://t.co/yDBWdCTpsK! #IndieWeb",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "IndieWebSummit",
+						"indices": [
+							4,
+							19
+						]
+					},
+					{
+						"text": "IndieWeb",
+						"indices": [
+							88,
+							97
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/yDBWdCTpsK",
+						"expanded_url": "https://www.youtube.com/watch?v=k4a3rm_dagw",
+						"display_url": "youtube.com/watch?v=k4a3rm…",
+						"indices": [
+							63,
+							86
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 7090852,
+				"id_str": "7090852",
+				"name": "Martĳn van der Ven",
+				"screen_name": "martijnvdven",
+				"location": "Sweden",
+				"description": "#indieweb IRC fleet commander. Public outreach for everything #indieweb and #microformats. Mastered the art of the h-card.",
+				"url": "https://t.co/UT1OXws8A5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UT1OXws8A5",
+								"expanded_url": "https://vanderven.se/martijn/",
+								"display_url": "vanderven.se/martijn/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 73,
+				"friends_count": 51,
+				"listed_count": 8,
+				"created_at": "Tue Jun 26 15:16:39 +0000 2007",
+				"favourites_count": 103,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 249,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "DBE9ED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/878984191001677824/VNSc35AY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/878984191001677824/VNSc35AY_normal.jpg",
+				"profile_link_color": "CC3366",
+				"profile_sidebar_border_color": "DBE9ED",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Jun 26 09:20:14 +0000 2018",
 		"id": 1011539623288492000,
 		"id_str": "1011539623288492032",
