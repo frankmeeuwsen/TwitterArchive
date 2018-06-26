@@ -1,6 +1,1051 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Tue Jun 26 08:01:42 +0000 2018",
+		"id": 1011519859132452900,
+		"id_str": "1011519859132452864",
+		"text": "RT @pjcm: Dear jammily, we ask your help to make #PlayOceansForIsrael viral. Israel was a beloved friend, a great human and a huge @PearlJa…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PlayOceansForIsrael",
+					"indices": [
+						49,
+						69
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pjcm",
+					"name": "Pearl Jam México",
+					"id": 17284838,
+					"id_str": "17284838",
+					"indices": [
+						3,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9152,
+			"friends_count": 2057,
+			"listed_count": 604,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4375,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60601,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1528570148",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 25 22:52:19 +0000 2018",
+			"id": 1011381601895374800,
+			"id_str": "1011381601895374848",
+			"text": "Dear jammily, we ask your help to make #PlayOceansForIsrael viral. Israel was a beloved friend, a great human and a… https://t.co/f3i5y7rLd6",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "PlayOceansForIsrael",
+						"indices": [
+							39,
+							59
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/f3i5y7rLd6",
+						"expanded_url": "https://twitter.com/i/web/status/1011381601895374848",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17284838,
+				"id_str": "17284838",
+				"name": "Pearl Jam México",
+				"screen_name": "pjcm",
+				"location": "México",
+				"description": "Comunidad de fans de @PearlJam en México y América Latina Facebook: https://t.co/Vso9ITEVxJ",
+				"url": "https://t.co/5Vw3po8L89",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5Vw3po8L89",
+								"expanded_url": "http://www.facebook.com/pearljamexico/",
+								"display_url": "facebook.com/pearljamexico/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Vso9ITEVxJ",
+								"expanded_url": "https://www.facebook.com/pearljamexico",
+								"display_url": "facebook.com/pearljamexico",
+								"indices": [
+									68,
+									91
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 4234,
+				"friends_count": 177,
+				"listed_count": 62,
+				"created_at": "Mon Nov 10 10:51:00 +0000 2008",
+				"favourites_count": 1134,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 10274,
+				"lang": "es",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1011378325346893824/rkQca0GQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1011378325346893824/rkQca0GQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17284838/1528701169",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 83,
+			"favorite_count": 67,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 83,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jun 26 07:29:31 +0000 2018",
+		"id": 1011511763093872600,
+		"id_str": "1011511763093872640",
+		"text": "@martijnvdven Will try! As always, timezones are an issue...",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "martijnvdven",
+					"name": "Martĳn van der Ven",
+					"id": 7090852,
+					"id_str": "7090852",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1011511039375167500,
+		"in_reply_to_status_id_str": "1011511039375167489",
+		"in_reply_to_user_id": 7090852,
+		"in_reply_to_user_id_str": "7090852",
+		"in_reply_to_screen_name": "martijnvdven",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9152,
+			"friends_count": 2057,
+			"listed_count": 604,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4375,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60601,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1528570148",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jun 26 07:29:10 +0000 2018",
+		"id": 1011511671792263200,
+		"id_str": "1011511671792263168",
+		"text": "RT @martijnvdven: @frankmeeuwsen Re: livestream. #IndieWebSummit is always very welcoming to remote participation. This year’s plan is to b…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IndieWebSummit",
+					"indices": [
+						49,
+						64
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "martijnvdven",
+					"name": "Martĳn van der Ven",
+					"id": 7090852,
+					"id_str": "7090852",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "frankmeeuwsen",
+					"name": "Frank Meeuwsen",
+					"id": 816203,
+					"id_str": "816203",
+					"indices": [
+						18,
+						32
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9152,
+			"friends_count": 2057,
+			"listed_count": 604,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4375,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60601,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1528570148",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jun 26 07:26:39 +0000 2018",
+			"id": 1011511039375167500,
+			"id_str": "1011511039375167489",
+			"text": "@frankmeeuwsen Re: livestream. #IndieWebSummit is always very welcoming to remote participation. This year’s plan i… https://t.co/J0XTAtKboe",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "IndieWebSummit",
+						"indices": [
+							31,
+							46
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "frankmeeuwsen",
+						"name": "Frank Meeuwsen",
+						"id": 816203,
+						"id_str": "816203",
+						"indices": [
+							0,
+							14
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/J0XTAtKboe",
+						"expanded_url": "https://twitter.com/i/web/status/1011511039375167489",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 1011508251714904000,
+			"in_reply_to_status_id_str": "1011508251714904064",
+			"in_reply_to_user_id": 816203,
+			"in_reply_to_user_id_str": "816203",
+			"in_reply_to_screen_name": "frankmeeuwsen",
+			"user": {
+				"id": 7090852,
+				"id_str": "7090852",
+				"name": "Martĳn van der Ven",
+				"screen_name": "martijnvdven",
+				"location": "Sweden",
+				"description": "#indieweb IRC fleet commander. Public outreach for everything #indieweb and #microformats. Mastered the art of the h-card.",
+				"url": "https://t.co/UT1OXws8A5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UT1OXws8A5",
+								"expanded_url": "https://vanderven.se/martijn/",
+								"display_url": "vanderven.se/martijn/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 73,
+				"friends_count": 51,
+				"listed_count": 8,
+				"created_at": "Tue Jun 26 15:16:39 +0000 2007",
+				"favourites_count": 103,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 247,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "DBE9ED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/878984191001677824/VNSc35AY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/878984191001677824/VNSc35AY_normal.jpg",
+				"profile_link_color": "CC3366",
+				"profile_sidebar_border_color": "DBE9ED",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jun 26 07:24:43 +0000 2018",
+		"id": 1011510554656215000,
+		"id_str": "1011510554656215040",
+		"text": "@KAFygi Dat kan. Je bent niet de enige :-)",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KAFygi",
+					"name": "Kari-Anne Fygi",
+					"id": 8242152,
+					"id_str": "8242152",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1011510415824773100,
+		"in_reply_to_status_id_str": "1011510415824773120",
+		"in_reply_to_user_id": 8242152,
+		"in_reply_to_user_id_str": "8242152",
+		"in_reply_to_screen_name": "KAFygi",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9152,
+			"friends_count": 2057,
+			"listed_count": 604,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4375,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60601,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1528570148",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl"
+	},
+	{
+		"created_at": "Tue Jun 26 07:22:16 +0000 2018",
+		"id": 1011509935992180700,
+		"id_str": "1011509935992180736",
+		"text": "What an amazing poster! https://t.co/N7mp5dMh82",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/N7mp5dMh82",
+					"expanded_url": "https://twitter.com/PearlJam/status/1011504332145999872",
+					"display_url": "twitter.com/PearlJam/statu…",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9152,
+			"friends_count": 2057,
+			"listed_count": 604,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4375,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60601,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1528570148",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1011504332145999900,
+		"quoted_status_id_str": "1011504332145999872",
+		"quoted_status": {
+			"created_at": "Tue Jun 26 07:00:00 +0000 2018",
+			"id": 1011504332145999900,
+			"id_str": "1011504332145999872",
+			"text": "Pearl Jam rocks the #StadioOlimpico in Rome tonight.\n\nArtwork: @EMEKStudios https://t.co/MjAR4ftUQT",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "StadioOlimpico",
+						"indices": [
+							20,
+							35
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "EMEKstudios",
+						"name": "EMEK",
+						"id": 28871655,
+						"id_str": "28871655",
+						"indices": [
+							63,
+							75
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1011282281854591000,
+						"id_str": "1011282281854590982",
+						"indices": [
+							76,
+							99
+						],
+						"media_url": "http://pbs.twimg.com/media/DgjL4JmW4AYlM5X.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DgjL4JmW4AYlM5X.jpg",
+						"url": "https://t.co/MjAR4ftUQT",
+						"display_url": "pic.twitter.com/MjAR4ftUQT",
+						"expanded_url": "https://twitter.com/PearlJam/status/1011504332145999872/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 800,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 600,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1011282281854591000,
+						"id_str": "1011282281854590982",
+						"indices": [
+							76,
+							99
+						],
+						"media_url": "http://pbs.twimg.com/media/DgjL4JmW4AYlM5X.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DgjL4JmW4AYlM5X.jpg",
+						"url": "https://t.co/MjAR4ftUQT",
+						"display_url": "pic.twitter.com/MjAR4ftUQT",
+						"expanded_url": "https://twitter.com/PearlJam/status/1011504332145999872/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 800,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 600,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1011282318890360800,
+						"id_str": "1011282318890360832",
+						"indices": [
+							76,
+							99
+						],
+						"media_url": "http://pbs.twimg.com/media/DgjL6TkX4AAMUqz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DgjL6TkX4AAMUqz.jpg",
+						"url": "https://t.co/MjAR4ftUQT",
+						"display_url": "pic.twitter.com/MjAR4ftUQT",
+						"expanded_url": "https://twitter.com/PearlJam/status/1011504332145999872/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 600,
+								"h": 800,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15155074,
+				"id_str": "15155074",
+				"name": "Pearl Jam",
+				"screen_name": "PearlJam",
+				"location": "Seattle, WA",
+				"description": "Pearl Jam is coming home - August 8 & 10 in Seattle. #TheHomeShows",
+				"url": "https://t.co/J95aoJ5FKF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/J95aoJ5FKF",
+								"expanded_url": "http://www.PearlJam.com",
+								"display_url": "PearlJam.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3753522,
+				"friends_count": 874,
+				"listed_count": 18284,
+				"created_at": "Wed Jun 18 06:59:14 +0000 2008",
+				"favourites_count": 3185,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 6740,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/973604653475692544/c9IX6SI__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/973604653475692544/c9IX6SI__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15155074/1520960500",
+				"profile_link_color": "A17F59",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 67,
+			"favorite_count": 327,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Jun 26 07:15:34 +0000 2018",
 		"id": 1011508251714904000,
 		"id_str": "1011508251714904064",
