@@ -1,6 +1,484 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Sat Jun 30 13:32:57 +0000 2018",
+		"id": 1013052773527584800,
+		"id_str": "1013052773527584769",
+		"text": "RT @JeffAmentsArmy: Lost nine friends we'll never know.\nRemembering Roskilde. https://t.co/kYIZ7ZGgZl",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JeffAmentsArmy",
+					"name": "Jeff Ament's Army",
+					"id": 545436446,
+					"id_str": "545436446",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1013034816726392800,
+					"id_str": "1013034816726392832",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/Dg8FzGwUYAAQmUU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dg8FzGwUYAAQmUU.jpg",
+					"url": "https://t.co/kYIZ7ZGgZl",
+					"display_url": "pic.twitter.com/kYIZ7ZGgZl",
+					"expanded_url": "https://twitter.com/JeffAmentsArmy/status/1013034825069056002/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 668,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 668,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1013034825069056000,
+					"source_status_id_str": "1013034825069056002",
+					"source_user_id": 545436446,
+					"source_user_id_str": "545436446"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1013034816726392800,
+					"id_str": "1013034816726392832",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/Dg8FzGwUYAAQmUU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dg8FzGwUYAAQmUU.jpg",
+					"url": "https://t.co/kYIZ7ZGgZl",
+					"display_url": "pic.twitter.com/kYIZ7ZGgZl",
+					"expanded_url": "https://twitter.com/JeffAmentsArmy/status/1013034825069056002/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 668,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 668,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1013034825069056000,
+					"source_status_id_str": "1013034825069056002",
+					"source_user_id": 545436446,
+					"source_user_id_str": "545436446"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9154,
+			"friends_count": 2062,
+			"listed_count": 604,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4408,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60453,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1528570148",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jun 30 12:21:38 +0000 2018",
+			"id": 1013034825069056000,
+			"id_str": "1013034825069056002",
+			"text": "Lost nine friends we'll never know.\nRemembering Roskilde. https://t.co/kYIZ7ZGgZl",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1013034816726392800,
+						"id_str": "1013034816726392832",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/media/Dg8FzGwUYAAQmUU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dg8FzGwUYAAQmUU.jpg",
+						"url": "https://t.co/kYIZ7ZGgZl",
+						"display_url": "pic.twitter.com/kYIZ7ZGgZl",
+						"expanded_url": "https://twitter.com/JeffAmentsArmy/status/1013034825069056002/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 668,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1000,
+								"h": 668,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 454,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1013034816726392800,
+						"id_str": "1013034816726392832",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/media/Dg8FzGwUYAAQmUU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dg8FzGwUYAAQmUU.jpg",
+						"url": "https://t.co/kYIZ7ZGgZl",
+						"display_url": "pic.twitter.com/kYIZ7ZGgZl",
+						"expanded_url": "https://twitter.com/JeffAmentsArmy/status/1013034825069056002/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 668,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1000,
+								"h": 668,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 454,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 545436446,
+				"id_str": "545436446",
+				"name": "Jeff Ament's Army",
+				"screen_name": "JeffAmentsArmy",
+				"location": "the whole world, world over",
+				"description": "JAA is a fan-based, grassroots organization (& division of the Montana Skatepark Assoc.) dedicated to supporting Jeff Ament's charitable & artistic activities.",
+				"url": "https://t.co/PQvNUvY8ra",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PQvNUvY8ra",
+								"expanded_url": "https://www.montanaskatepark.org",
+								"display_url": "montanaskatepark.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13946,
+				"friends_count": 222,
+				"listed_count": 123,
+				"created_at": "Wed Apr 04 20:59:31 +0000 2012",
+				"favourites_count": 11355,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 21017,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2037558711/419865_3475000636501_1315764115_3464489_196590763_n_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2037558711/419865_3475000636501_1315764115_3464489_196590763_n_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/545436446/1494211333",
+				"profile_link_color": "ED6B2F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 18,
+			"favorite_count": 61,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Jun 30 13:29:59 +0000 2018",
+		"id": 1013052028002750500,
+		"id_str": "1013052028002750465",
+		"text": "Aangezien Finn een nieuwe fiets heeft, nu te koop: S’cool xx-lite 16inch kinderfiets blauw/zwart https://t.co/YUqAi9DErO",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YUqAi9DErO",
+					"expanded_url": "http://link.marktplaats.nl/m1299868542?utm_source=ios_social&utm_medium=social&utm_campaign=socialbuttons&utm_content=app_ios",
+					"display_url": "link.marktplaats.nl/m1299868542?ut…",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9154,
+			"friends_count": 2062,
+			"listed_count": 604,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4408,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60453,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1528570148",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Sat Jun 30 08:01:29 +0000 2018",
 		"id": 1012969356698050600,
 		"id_str": "1012969356698050560",
