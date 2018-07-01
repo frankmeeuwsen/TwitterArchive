@@ -1,6 +1,503 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Sun Jul 01 18:53:57 +0000 2018",
+		"id": 1013495945055621100,
+		"id_str": "1013495945055621120",
+		"text": "RT @om: The best thing @google and @facebook can do with news is to stop interfering with the ecosystem and just get out of the way. The mo…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "om",
+					"name": "OM",
+					"id": 989,
+					"id_str": "989",
+					"indices": [
+						3,
+						6
+					]
+				},
+				{
+					"screen_name": "Google",
+					"name": "Google",
+					"id": 20536157,
+					"id_str": "20536157",
+					"indices": [
+						23,
+						30
+					]
+				},
+				{
+					"screen_name": "facebook",
+					"name": "Facebook",
+					"id": 2425151,
+					"id_str": "2425151",
+					"indices": [
+						35,
+						44
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9151,
+			"friends_count": 2053,
+			"listed_count": 604,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4413,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60459,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1528570148",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jul 01 18:45:46 +0000 2018",
+			"id": 1013493884742033400,
+			"id_str": "1013493884742033408",
+			"text": "The best thing @google and @facebook can do with news is to stop interfering with the ecosystem and just get out of… https://t.co/Tfv55P19ok",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Google",
+						"name": "Google",
+						"id": 20536157,
+						"id_str": "20536157",
+						"indices": [
+							15,
+							22
+						]
+					},
+					{
+						"screen_name": "facebook",
+						"name": "Facebook",
+						"id": 2425151,
+						"id_str": "2425151",
+						"indices": [
+							27,
+							36
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Tfv55P19ok",
+						"expanded_url": "https://twitter.com/i/web/status/1013493884742033408",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 989,
+				"id_str": "989",
+				"name": "OM",
+				"screen_name": "om",
+				"location": "ÜT: 37.795917,-122.39966",
+				"description": "I was a reporter once. Now I have opinions about tech. I write. I make photos. I invest @TrueVentures & blog at https://t.co/AvBTBiv8hn.",
+				"url": "https://t.co/WVmV8OHDXu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WVmV8OHDXu",
+								"expanded_url": "http://pi.co",
+								"display_url": "pi.co",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/AvBTBiv8hn",
+								"expanded_url": "http://om.co",
+								"display_url": "om.co",
+								"indices": [
+									112,
+									135
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1524090,
+				"friends_count": 1365,
+				"listed_count": 14294,
+				"created_at": "Sat Jul 15 05:53:13 +0000 2006",
+				"favourites_count": 41396,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 49970,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F8F7F5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/895351217487921152/UTMFqZPD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/895351217487921152/UTMFqZPD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/989/1523472437",
+				"profile_link_color": "D37F0D",
+				"profile_sidebar_border_color": "D5CFC3",
+				"profile_sidebar_fill_color": "D5CFC3",
+				"profile_text_color": "706A54",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 27,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jul 01 18:53:16 +0000 2018",
+		"id": 1013495771918929900,
+		"id_str": "1013495771918929921",
+		"text": "Wow... Pearl Jam speelt zojuist Tremor Christ. Zeldzaam. https://t.co/aWiYu3kpKU",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aWiYu3kpKU",
+					"expanded_url": "https://twitter.com/PJStatTracker/status/1013494021816242176",
+					"display_url": "twitter.com/PJStatTracker/…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9151,
+			"friends_count": 2053,
+			"listed_count": 604,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4413,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60459,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1528570148",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1013494021816242200,
+		"quoted_status_id_str": "1013494021816242176",
+		"quoted_status": {
+			"created_at": "Sun Jul 01 18:46:19 +0000 2018",
+			"id": 1013494021816242200,
+			"id_str": "1013494021816242176",
+			"text": "06. TREMOR FUCKING CHRISTMAS #ChristmasTime #PJPrague #PearlJam Jeff’s shirt “Unfuck the world”, vino time",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ChristmasTime",
+						"indices": [
+							29,
+							43
+						]
+					},
+					{
+						"text": "PJPrague",
+						"indices": [
+							44,
+							53
+						]
+					},
+					{
+						"text": "PearlJam",
+						"indices": [
+							54,
+							63
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 356430036,
+				"id_str": "356430036",
+				"name": "PJ StatTracker",
+				"screen_name": "PJStatTracker",
+				"location": "",
+				"description": "The Pearl Jam Stat Tracker iPhone app - check setlists, compile stats, watch shows, listen to PJ Radio - always FREE.\r\nhttp://t.co/0klX72e0s1",
+				"url": "http://t.co/5yCJvoCO9X",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/5yCJvoCO9X",
+								"expanded_url": "http://bit.ly/PJStatTracker",
+								"display_url": "bit.ly/PJStatTracker",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/0klX72e0s1",
+								"expanded_url": "http://www.facebook.com/PJStatTracker",
+								"display_url": "facebook.com/PJStatTracker",
+								"indices": [
+									119,
+									141
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 8189,
+				"friends_count": 1239,
+				"listed_count": 98,
+				"created_at": "Tue Aug 16 21:01:03 +0000 2011",
+				"favourites_count": 2314,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5872,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/955957380210044929/KKaYEiIQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/955957380210044929/KKaYEiIQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/356430036/1516753435",
+				"profile_link_color": "184587",
+				"profile_sidebar_border_color": "060A52",
+				"profile_sidebar_fill_color": "DCDCE0",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 20,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Sun Jul 01 16:16:57 +0000 2018",
 		"id": 1013456435106152400,
 		"id_str": "1013456435106152449",
