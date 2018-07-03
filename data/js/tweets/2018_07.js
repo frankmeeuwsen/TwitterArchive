@@ -1,6 +1,1464 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Tue Jul 03 15:19:55 +0000 2018",
+		"id": 1014166855429316600,
+		"id_str": "1014166855429316609",
+		"text": "Dit ga ik nodig hebben tijdens de @SingelloopUtr in oktober! https://t.co/21mppigXWx",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SingelloopUtr",
+					"name": "Singelloop Utrecht",
+					"id": 27648535,
+					"id_str": "27648535",
+					"indices": [
+						34,
+						48
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/21mppigXWx",
+					"expanded_url": "https://twitter.com/manevigas/status/1013619526343282688",
+					"display_url": "twitter.com/manevigas/stat…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9148,
+			"friends_count": 2054,
+			"listed_count": 604,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4426,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60472,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1528570148",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1013619526343282700,
+		"quoted_status_id_str": "1013619526343282688",
+		"quoted_status": {
+			"created_at": "Mon Jul 02 03:05:01 +0000 2018",
+			"id": 1013619526343282700,
+			"id_str": "1013619526343282688",
+			"text": "Motivaciones vergas :3 https://t.co/3J40uMkhxe",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1013618370371993600,
+						"id_str": "1013618370371993600",
+						"indices": [
+							23,
+							46
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1013618370371993600/pu/img/lumajR4oDBBVvRkl.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1013618370371993600/pu/img/lumajR4oDBBVvRkl.jpg",
+						"url": "https://t.co/3J40uMkhxe",
+						"display_url": "pic.twitter.com/3J40uMkhxe",
+						"expanded_url": "https://twitter.com/manevigas/status/1013619526343282688/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1013618370371993600,
+						"id_str": "1013618370371993600",
+						"indices": [
+							23,
+							46
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1013618370371993600/pu/img/lumajR4oDBBVvRkl.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1013618370371993600/pu/img/lumajR4oDBBVvRkl.jpg",
+						"url": "https://t.co/3J40uMkhxe",
+						"display_url": "pic.twitter.com/3J40uMkhxe",
+						"expanded_url": "https://twitter.com/manevigas/status/1013619526343282688/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 28161,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1013618370371993600/pu/pl/35gmhR2Cs3tAIrNB.m3u8?tag=3"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1013618370371993600/pu/vid/240x240/oOWkSpr48rbGiRVq.mp4?tag=3"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 461591385,
+				"id_str": "461591385",
+				"name": "Maduel",
+				"screen_name": "manevigas",
+				"location": "México",
+				"description": "EN ALGÚN LADO TENÍA QUE SER VULGAR.",
+				"url": "https://t.co/faJ5x5UfY9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/faJ5x5UfY9",
+								"expanded_url": "https://www.instagram.com/p/Bh47CEoFNBXMq5qSykKLhXfac7-Ner31HAd88U0/",
+								"display_url": "instagram.com/p/Bh47CEoFNBXM…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6189,
+				"friends_count": 1490,
+				"listed_count": 26,
+				"created_at": "Wed Jan 11 23:49:46 +0000 2012",
+				"favourites_count": 7260,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 17673,
+				"lang": "es",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1013915927212109824/9L1Brqh2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1013915927212109824/9L1Brqh2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/461591385/1461031567",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 181630,
+			"favorite_count": 416978,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "es"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
+		"created_at": "Tue Jul 03 15:14:50 +0000 2018",
+		"id": 1014165578339307500,
+		"id_str": "1014165578339307521",
+		"text": "@PhotoJeanique Dat is inderdaad wel een aparte manier. Ik zou er eerder voor kiezen dat je alleen jouw route ziet e… https://t.co/rmIXGR75XQ",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PhotoJeanique",
+					"name": "Jeanique 🌱",
+					"id": 14224758,
+					"id_str": "14224758",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rmIXGR75XQ",
+					"expanded_url": "https://twitter.com/i/web/status/1014165578339307521",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1014165042047135700,
+		"in_reply_to_status_id_str": "1014165042047135746",
+		"in_reply_to_user_id": 14224758,
+		"in_reply_to_user_id_str": "14224758",
+		"in_reply_to_screen_name": "PhotoJeanique",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9148,
+			"friends_count": 2054,
+			"listed_count": 604,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4426,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60472,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1528570148",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl"
+	},
+	{
+		"created_at": "Tue Jul 03 15:13:05 +0000 2018",
+		"id": 1014165136255455200,
+		"id_str": "1014165136255455233",
+		"text": "@danielverlaan Wat vind je van dit verhaal? https://t.co/yIGLMKs5OP",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "danielverlaan",
+					"name": "Daniël Verlaan",
+					"id": 14224500,
+					"id_str": "14224500",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/yIGLMKs5OP",
+					"expanded_url": "http://this.how/googleAndHttp/",
+					"display_url": "this.how/googleAndHttp/",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1014121890963710000,
+		"in_reply_to_status_id_str": "1014121890963709952",
+		"in_reply_to_user_id": 14224500,
+		"in_reply_to_user_id_str": "14224500",
+		"in_reply_to_screen_name": "danielverlaan",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9148,
+			"friends_count": 2054,
+			"listed_count": 604,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4426,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60472,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1528570148",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
+		"created_at": "Tue Jul 03 15:11:41 +0000 2018",
+		"id": 1014164785800368100,
+		"id_str": "1014164785800368128",
+		"text": "@PhotoJeanique Deliveroo, Picnic, Thuisbezorgd, Foodora... allemaal hebben ze trackers in hun auto's. Al zouden ze… https://t.co/Ew1OgStqKF",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PhotoJeanique",
+					"name": "Jeanique 🌱",
+					"id": 14224758,
+					"id_str": "14224758",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ew1OgStqKF",
+					"expanded_url": "https://twitter.com/i/web/status/1014164785800368128",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1014129263715512300,
+		"in_reply_to_status_id_str": "1014129263715512321",
+		"in_reply_to_user_id": 14224758,
+		"in_reply_to_user_id_str": "14224758",
+		"in_reply_to_screen_name": "PhotoJeanique",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9148,
+			"friends_count": 2054,
+			"listed_count": 604,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4426,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60472,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1528570148",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl"
+	},
+	{
+		"created_at": "Tue Jul 03 15:09:20 +0000 2018",
+		"id": 1014164191039643600,
+		"id_str": "1014164191039643648",
+		"text": "RT @OldSchool80s: July 3, 1985: the original Back to the Future was released in theaters. #80s https://t.co/OxCyfrtycy",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "80s",
+					"indices": [
+						90,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OldSchool80s",
+					"name": "Old School 80s",
+					"id": 31015297,
+					"id_str": "31015297",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1014140469331267600,
+					"id_str": "1014140469331267584",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/DhLzYjrWkAAu3T_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DhLzYjrWkAAu3T_.jpg",
+					"url": "https://t.co/OxCyfrtycy",
+					"display_url": "pic.twitter.com/OxCyfrtycy",
+					"expanded_url": "https://twitter.com/OldSchool80s/status/1014140471386439680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 727,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 468,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 727,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1014140471386439700,
+					"source_status_id_str": "1014140471386439680",
+					"source_user_id": 31015297,
+					"source_user_id_str": "31015297"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1014140469331267600,
+					"id_str": "1014140469331267584",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/DhLzYjrWkAAu3T_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DhLzYjrWkAAu3T_.jpg",
+					"url": "https://t.co/OxCyfrtycy",
+					"display_url": "pic.twitter.com/OxCyfrtycy",
+					"expanded_url": "https://twitter.com/OldSchool80s/status/1014140471386439680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 727,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 468,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 727,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1014140471386439700,
+					"source_status_id_str": "1014140471386439680",
+					"source_user_id": 31015297,
+					"source_user_id_str": "31015297"
+				},
+				{
+					"id": 1014140469230612500,
+					"id_str": "1014140469230612481",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/DhLzYjTWsAE-w26.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DhLzYjTWsAE-w26.jpg",
+					"url": "https://t.co/OxCyfrtycy",
+					"display_url": "pic.twitter.com/OxCyfrtycy",
+					"expanded_url": "https://twitter.com/OldSchool80s/status/1014140471386439680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 373,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 909,
+							"h": 499,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 909,
+							"h": 499,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1014140471386439700,
+					"source_status_id_str": "1014140471386439680",
+					"source_user_id": 31015297,
+					"source_user_id_str": "31015297"
+				},
+				{
+					"id": 1014140469708775400,
+					"id_str": "1014140469708775425",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/DhLzYlFW4AEbDWO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DhLzYlFW4AEbDWO.jpg",
+					"url": "https://t.co/OxCyfrtycy",
+					"display_url": "pic.twitter.com/OxCyfrtycy",
+					"expanded_url": "https://twitter.com/OldSchool80s/status/1014140471386439680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1014140471386439700,
+					"source_status_id_str": "1014140471386439680",
+					"source_user_id": 31015297,
+					"source_user_id_str": "31015297"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9148,
+			"friends_count": 2054,
+			"listed_count": 604,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4426,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60472,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1528570148",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jul 03 13:35:04 +0000 2018",
+			"id": 1014140471386439700,
+			"id_str": "1014140471386439680",
+			"text": "July 3, 1985: the original Back to the Future was released in theaters. #80s https://t.co/OxCyfrtycy",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "80s",
+						"indices": [
+							72,
+							76
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1014140469331267600,
+						"id_str": "1014140469331267584",
+						"indices": [
+							77,
+							100
+						],
+						"media_url": "http://pbs.twimg.com/media/DhLzYjrWkAAu3T_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DhLzYjrWkAAu3T_.jpg",
+						"url": "https://t.co/OxCyfrtycy",
+						"display_url": "pic.twitter.com/OxCyfrtycy",
+						"expanded_url": "https://twitter.com/OldSchool80s/status/1014140471386439680/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 500,
+								"h": 727,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 468,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 727,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1014140469331267600,
+						"id_str": "1014140469331267584",
+						"indices": [
+							77,
+							100
+						],
+						"media_url": "http://pbs.twimg.com/media/DhLzYjrWkAAu3T_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DhLzYjrWkAAu3T_.jpg",
+						"url": "https://t.co/OxCyfrtycy",
+						"display_url": "pic.twitter.com/OxCyfrtycy",
+						"expanded_url": "https://twitter.com/OldSchool80s/status/1014140471386439680/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 500,
+								"h": 727,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 468,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 727,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1014140469230612500,
+						"id_str": "1014140469230612481",
+						"indices": [
+							77,
+							100
+						],
+						"media_url": "http://pbs.twimg.com/media/DhLzYjTWsAE-w26.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DhLzYjTWsAE-w26.jpg",
+						"url": "https://t.co/OxCyfrtycy",
+						"display_url": "pic.twitter.com/OxCyfrtycy",
+						"expanded_url": "https://twitter.com/OldSchool80s/status/1014140471386439680/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 373,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 909,
+								"h": 499,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 909,
+								"h": 499,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1014140469708775400,
+						"id_str": "1014140469708775425",
+						"indices": [
+							77,
+							100
+						],
+						"media_url": "http://pbs.twimg.com/media/DhLzYlFW4AEbDWO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DhLzYlFW4AEbDWO.jpg",
+						"url": "https://t.co/OxCyfrtycy",
+						"display_url": "pic.twitter.com/OxCyfrtycy",
+						"expanded_url": "https://twitter.com/OldSchool80s/status/1014140471386439680/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 450,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 450,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 31015297,
+				"id_str": "31015297",
+				"name": "Old School 80s",
+				"screen_name": "OldSchool80s",
+				"location": "Shermer, Illinois circa '80s",
+				"description": "Daily doses of 80s pop culture reminders. Not meant to make you feel old, just awesome nostalgia. Also exclusive interviews w/ some who made the 80s so special.",
+				"url": "https://t.co/bAzV4JJ7ML",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/bAzV4JJ7ML",
+								"expanded_url": "http://www.Facebook.com/KickinItOldSchool80s",
+								"display_url": "Facebook.com/KickinItOldSch…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 93405,
+				"friends_count": 382,
+				"listed_count": 701,
+				"created_at": "Tue Apr 14 01:13:52 +0000 2009",
+				"favourites_count": 954,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 17746,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/499733959148711936/KFV83fHA_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/499733959148711936/KFV83fHA_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/31015297/1415467401",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 388,
+			"favorite_count": 730,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 388,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jul 03 15:06:57 +0000 2018",
+		"id": 1014163594144034800,
+		"id_str": "1014163594144034816",
+		"text": "8 words and a URL that send me on a timewasters' afternoon.... https://t.co/ZERd6r4g3X",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZERd6r4g3X",
+					"expanded_url": "https://twitter.com/kevinmarks/status/1013757024964931585",
+					"display_url": "twitter.com/kevinmarks/sta…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9148,
+			"friends_count": 2054,
+			"listed_count": 604,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4426,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60472,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1528570148",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1013757024964931600,
+		"quoted_status_id_str": "1013757024964931585",
+		"quoted_status": {
+			"created_at": "Mon Jul 02 12:11:24 +0000 2018",
+			"id": 1013757024964931600,
+			"id_str": "1013757024964931585",
+			"text": "@lucaslmorgan @sarah_edo There's a search engine for geocities gifs: https://t.co/TdVUL17yS7",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "lucaslmorgan",
+						"name": "Morgan Lucas (A+, Sec+, CCNA)",
+						"id": 875342767743959000,
+						"id_str": "875342767743959040",
+						"indices": [
+							0,
+							13
+						]
+					},
+					{
+						"screen_name": "sarah_edo",
+						"name": "Sarah Drasner",
+						"id": 813333008,
+						"id_str": "813333008",
+						"indices": [
+							14,
+							24
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/TdVUL17yS7",
+						"expanded_url": "https://gifcities.org",
+						"display_url": "gifcities.org",
+						"indices": [
+							69,
+							92
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1013462438405132300,
+			"in_reply_to_status_id_str": "1013462438405132289",
+			"in_reply_to_user_id": 875342767743959000,
+			"in_reply_to_user_id_str": "875342767743959040",
+			"in_reply_to_screen_name": "lucaslmorgan",
+			"user": {
+				"id": 57203,
+				"id_str": "57203",
+				"name": "Kevin Marks",
+				"screen_name": "kevinmarks",
+				"location": "Nunthorpe, England",
+				"description": "📖Reading your thoughts. ✍️If you write them first. 🕸https://t.co/LD3HeubE2z Want to hire me to consult, write or speak? 📩dm me",
+				"url": "https://t.co/KzRfFUERTT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/KzRfFUERTT",
+								"expanded_url": "http://www.kevinmarks.com",
+								"display_url": "kevinmarks.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/LD3HeubE2z",
+								"expanded_url": "http://known.kevinmarks.com",
+								"display_url": "known.kevinmarks.com",
+								"indices": [
+									52,
+									75
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 27074,
+				"friends_count": 9970,
+				"listed_count": 2056,
+				"created_at": "Mon Dec 11 11:43:36 +0000 2006",
+				"favourites_count": 4008,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 113379,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/826300294136868864/bB22s4pc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/826300294136868864/bB22s4pc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/57203/1358547253",
+				"profile_link_color": "007494",
+				"profile_sidebar_border_color": "5ED4DC",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Jul 03 13:56:50 +0000 2018",
 		"id": 1014145945615859700,
 		"id_str": "1014145945615859713",
