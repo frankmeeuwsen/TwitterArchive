@@ -1,6 +1,344 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Wed Jul 04 11:03:40 +0000 2018",
+		"id": 1014464755870859300,
+		"id_str": "1014464755870859269",
+		"text": "RT @pepijnnagtzaam: Er is maar een naam die jullie eraan kunnen geven en dat is Hoogie McHoogface, @NS_online. Maak me trots. https://t.co/…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pepijnnagtzaam",
+					"name": "Pepijn Nagtzaam",
+					"id": 256649686,
+					"id_str": "256649686",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "NS_online",
+					"name": "NS online",
+					"id": 121372044,
+					"id_str": "121372044",
+					"indices": [
+						99,
+						109
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9145,
+			"friends_count": 2056,
+			"listed_count": 604,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4440,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60492,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1528570148",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jul 04 10:58:53 +0000 2018",
+			"id": 1014463553984712700,
+			"id_str": "1014463553984712705",
+			"text": "Er is maar een naam die jullie eraan kunnen geven en dat is Hoogie McHoogface, @NS_online. Maak me trots. https://t.co/eb115rpen7",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "NS_online",
+						"name": "NS online",
+						"id": 121372044,
+						"id_str": "121372044",
+						"indices": [
+							79,
+							89
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/eb115rpen7",
+						"expanded_url": "https://twitter.com/NS_online/status/1014447484700168192",
+						"display_url": "twitter.com/NS_online/stat…",
+						"indices": [
+							106,
+							129
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 256649686,
+				"id_str": "256649686",
+				"name": "Pepijn Nagtzaam",
+				"screen_name": "pepijnnagtzaam",
+				"location": "Utrecht, Nederland",
+				"description": "Freelance journalist | Co-founder startup @newschainNL | RTL Z, EenVandaag, Omroep Brabant | praat en denkt graag over nieuwe dingen in de journalistiek",
+				"url": "https://t.co/UMDAZaemCA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UMDAZaemCA",
+								"expanded_url": "http://www.newschain.nl",
+								"display_url": "newschain.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3018,
+				"friends_count": 1917,
+				"listed_count": 68,
+				"created_at": "Wed Feb 23 19:49:16 +0000 2011",
+				"favourites_count": 16991,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 84103,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/867284226344980480/9Yq8R5nM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/867284226344980480/9Yq8R5nM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/256649686/1509116369",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1014447484700168200,
+			"quoted_status_id_str": "1014447484700168192",
+			"quoted_status": {
+				"created_at": "Wed Jul 04 09:55:02 +0000 2018",
+				"id": 1014447484700168200,
+				"id_str": "1014447484700168192",
+				"text": "Ken jij het verhaal over de hoogwerker die ingesloten werd tijdens de verbouwing van Utrecht Centraal? We gebruiken… https://t.co/hxkHyquqFZ",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/hxkHyquqFZ",
+							"expanded_url": "https://twitter.com/i/web/status/1014447484700168192",
+							"display_url": "twitter.com/i/web/status/1…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://www.coosto.com\" rel=\"nofollow\">Coosto</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 121372044,
+					"id_str": "121372044",
+					"name": "NS online",
+					"screen_name": "NS_online",
+					"location": "Utrecht",
+					"description": "Het NS-account waar we je op de hoogte houden van de belangrijkste reisinfo & waar ons webcareteam dag en nacht voor je klaarstaat.",
+					"url": "http://t.co/Sb6nAPhTm2",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/Sb6nAPhTm2",
+									"expanded_url": "http://www.ns.nl",
+									"display_url": "ns.nl",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 218860,
+					"friends_count": 10719,
+					"listed_count": 1388,
+					"created_at": "Tue Mar 09 08:49:42 +0000 2010",
+					"favourites_count": 20789,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 1295838,
+					"lang": "nl",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "FFFFFF",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/960442034933944320/ffqMbN2u_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/960442034933944320/ffqMbN2u_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/121372044/1439554375",
+					"profile_link_color": "000066",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "FFCC33",
+					"profile_text_color": "000066",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 7,
+				"favorite_count": 20,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "nl"
+			},
+			"retweet_count": 8,
+			"favorite_count": 19,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1014447484700168200,
+		"quoted_status_id_str": "1014447484700168192",
+		"retweet_count": 8,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Wed Jul 04 10:06:46 +0000 2018",
 		"id": 1014450437695696900,
 		"id_str": "1014450437695696898",
