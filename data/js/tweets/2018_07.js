@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Thu Jul 05 10:52:24 +0000 2018",
+		"id": 1014824308743508000,
+		"id_str": "1014824308743507969",
+		"text": "All the memes are saved! https://t.co/eKgCZGaR0W",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eKgCZGaR0W",
+					"expanded_url": "https://twitter.com/eff/status/1014815462155153408",
+					"display_url": "twitter.com/eff/status/101…",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9145,
+			"friends_count": 2055,
+			"listed_count": 604,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4452,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60503,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1528570148",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1014815462155153400,
+		"quoted_status_id_str": "1014815462155153408",
+		"quoted_status": {
+			"created_at": "Thu Jul 05 10:17:15 +0000 2018",
+			"id": 1014815462155153400,
+			"id_str": "1014815462155153408",
+			"text": "BREAKING: In a huge victory, the European Parliament has voted 318-278 against #Article13 and #Article11—the disast… https://t.co/qGo7yUf3QF",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Article13",
+						"indices": [
+							79,
+							89
+						]
+					},
+					{
+						"text": "Article11",
+						"indices": [
+							94,
+							104
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/qGo7yUf3QF",
+						"expanded_url": "https://twitter.com/i/web/status/1014815462155153408",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.eff.org/\" rel=\"nofollow\">Thingie</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4816,
+				"id_str": "4816",
+				"name": "EFF",
+				"screen_name": "EFF",
+				"location": "San Francisco, CA",
+				"description": "We're the Electronic Frontier Foundation. We defend your civil liberties in a digital world.",
+				"url": "https://t.co/0UKsdjXnWw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0UKsdjXnWw",
+								"expanded_url": "https://www.eff.org",
+								"display_url": "eff.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 408828,
+				"friends_count": 944,
+				"listed_count": 14169,
+				"created_at": "Mon Aug 28 14:17:28 +0000 2006",
+				"favourites_count": 699,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 18194,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E17701",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/968595834446082048/X3dnCTV5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/968595834446082048/X3dnCTV5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4816/1519768525",
+				"profile_link_color": "6A3ACB",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E8D8DD",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1447,
+			"favorite_count": 2227,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Jul 05 09:49:06 +0000 2018",
 		"id": 1014808379628445700,
 		"id_str": "1014808379628445697",
