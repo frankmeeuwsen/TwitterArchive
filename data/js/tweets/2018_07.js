@@ -1,6 +1,728 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Fri Jul 06 18:56:37 +0000 2018",
+		"id": 1015308553706459100,
+		"id_str": "1015308553706459137",
+		"text": "Heerlijk interview met de enige echte Oxysept! https://t.co/jMSbIP5DSf",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jMSbIP5DSf",
+					"expanded_url": "https://www.duic.nl/algemeen/utrecht-volgens-schrijver-robert-van-eijden/",
+					"display_url": "duic.nl/algemeen/utrec…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9148,
+			"friends_count": 2055,
+			"listed_count": 604,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4468,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60516,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1528570148",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
+		"created_at": "Fri Jul 06 18:33:45 +0000 2018",
+		"id": 1015302801277235200,
+		"id_str": "1015302801277235201",
+		"text": "RT @vanevedder: @PearlJam @PearlJamHolland @wolfPris #PlayOceansForIsrael #PearlJamBarcelona #PearlJam https://t.co/WYWjbsPRqN",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PlayOceansForIsrael",
+					"indices": [
+						53,
+						73
+					]
+				},
+				{
+					"text": "PearlJamBarcelona",
+					"indices": [
+						74,
+						92
+					]
+				},
+				{
+					"text": "PearlJam",
+					"indices": [
+						93,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "vanevedder",
+					"name": "Vane Vedder",
+					"id": 349948855,
+					"id_str": "349948855",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "PearlJam",
+					"name": "Pearl Jam",
+					"id": 15155074,
+					"id_str": "15155074",
+					"indices": [
+						16,
+						25
+					]
+				},
+				{
+					"screen_name": "PearlJamHolland",
+					"name": "Pearl Jam Holland",
+					"id": 2933941318,
+					"id_str": "2933941318",
+					"indices": [
+						26,
+						42
+					]
+				},
+				{
+					"screen_name": "wolfPris",
+					"name": "wolfpris",
+					"id": 119786472,
+					"id_str": "119786472",
+					"indices": [
+						43,
+						52
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1015279751148200000,
+					"id_str": "1015279751148199936",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/Dhb_jfLV4AAx-y-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dhb_jfLV4AAx-y-.jpg",
+					"url": "https://t.co/WYWjbsPRqN",
+					"display_url": "pic.twitter.com/WYWjbsPRqN",
+					"expanded_url": "https://twitter.com/vanevedder/status/1015279777870237696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 577,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 955,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 955,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1015279777870237700,
+					"source_status_id_str": "1015279777870237696",
+					"source_user_id": 349948855,
+					"source_user_id_str": "349948855"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1015279751148200000,
+					"id_str": "1015279751148199936",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/Dhb_jfLV4AAx-y-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dhb_jfLV4AAx-y-.jpg",
+					"url": "https://t.co/WYWjbsPRqN",
+					"display_url": "pic.twitter.com/WYWjbsPRqN",
+					"expanded_url": "https://twitter.com/vanevedder/status/1015279777870237696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 577,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 955,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 955,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1015279777870237700,
+					"source_status_id_str": "1015279777870237696",
+					"source_user_id": 349948855,
+					"source_user_id_str": "349948855"
+				},
+				{
+					"id": 1015279751160737800,
+					"id_str": "1015279751160737792",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/Dhb_jfOVMAAaKcs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dhb_jfOVMAAaKcs.jpg",
+					"url": "https://t.co/WYWjbsPRqN",
+					"display_url": "pic.twitter.com/WYWjbsPRqN",
+					"expanded_url": "https://twitter.com/vanevedder/status/1015279777870237696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 1600,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1015279777870237700,
+					"source_status_id_str": "1015279777870237696",
+					"source_user_id": 349948855,
+					"source_user_id_str": "349948855"
+				},
+				{
+					"id": 1015279751156531200,
+					"id_str": "1015279751156531200",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/Dhb_jfNVAAAkhDe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dhb_jfNVAAAkhDe.jpg",
+					"url": "https://t.co/WYWjbsPRqN",
+					"display_url": "pic.twitter.com/WYWjbsPRqN",
+					"expanded_url": "https://twitter.com/vanevedder/status/1015279777870237696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 589,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 746,
+							"h": 646,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 746,
+							"h": 646,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1015279777870237700,
+					"source_status_id_str": "1015279777870237696",
+					"source_user_id": 349948855,
+					"source_user_id_str": "349948855"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9148,
+			"friends_count": 2055,
+			"listed_count": 604,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4468,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60516,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1528570148",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jul 06 17:02:16 +0000 2018",
+			"id": 1015279777870237700,
+			"id_str": "1015279777870237696",
+			"text": "@PearlJam @PearlJamHolland @wolfPris #PlayOceansForIsrael #PearlJamBarcelona #PearlJam https://t.co/WYWjbsPRqN",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "PlayOceansForIsrael",
+						"indices": [
+							37,
+							57
+						]
+					},
+					{
+						"text": "PearlJamBarcelona",
+						"indices": [
+							58,
+							76
+						]
+					},
+					{
+						"text": "PearlJam",
+						"indices": [
+							77,
+							86
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "PearlJam",
+						"name": "Pearl Jam",
+						"id": 15155074,
+						"id_str": "15155074",
+						"indices": [
+							0,
+							9
+						]
+					},
+					{
+						"screen_name": "PearlJamHolland",
+						"name": "Pearl Jam Holland",
+						"id": 2933941318,
+						"id_str": "2933941318",
+						"indices": [
+							10,
+							26
+						]
+					},
+					{
+						"screen_name": "wolfPris",
+						"name": "wolfpris",
+						"id": 119786472,
+						"id_str": "119786472",
+						"indices": [
+							27,
+							36
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1015279751148200000,
+						"id_str": "1015279751148199936",
+						"indices": [
+							87,
+							110
+						],
+						"media_url": "http://pbs.twimg.com/media/Dhb_jfLV4AAx-y-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dhb_jfLV4AAx-y-.jpg",
+						"url": "https://t.co/WYWjbsPRqN",
+						"display_url": "pic.twitter.com/WYWjbsPRqN",
+						"expanded_url": "https://twitter.com/vanevedder/status/1015279777870237696/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 577,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1125,
+								"h": 955,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1125,
+								"h": 955,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1015279751148200000,
+						"id_str": "1015279751148199936",
+						"indices": [
+							87,
+							110
+						],
+						"media_url": "http://pbs.twimg.com/media/Dhb_jfLV4AAx-y-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dhb_jfLV4AAx-y-.jpg",
+						"url": "https://t.co/WYWjbsPRqN",
+						"display_url": "pic.twitter.com/WYWjbsPRqN",
+						"expanded_url": "https://twitter.com/vanevedder/status/1015279777870237696/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 577,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1125,
+								"h": 955,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1125,
+								"h": 955,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1015279751160737800,
+						"id_str": "1015279751160737792",
+						"indices": [
+							87,
+							110
+						],
+						"media_url": "http://pbs.twimg.com/media/Dhb_jfOVMAAaKcs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dhb_jfOVMAAaKcs.jpg",
+						"url": "https://t.co/WYWjbsPRqN",
+						"display_url": "pic.twitter.com/WYWjbsPRqN",
+						"expanded_url": "https://twitter.com/vanevedder/status/1015279777870237696/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 900,
+								"h": 1600,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1015279751156531200,
+						"id_str": "1015279751156531200",
+						"indices": [
+							87,
+							110
+						],
+						"media_url": "http://pbs.twimg.com/media/Dhb_jfNVAAAkhDe.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dhb_jfNVAAAkhDe.jpg",
+						"url": "https://t.co/WYWjbsPRqN",
+						"display_url": "pic.twitter.com/WYWjbsPRqN",
+						"expanded_url": "https://twitter.com/vanevedder/status/1015279777870237696/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 589,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 746,
+								"h": 646,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 746,
+								"h": 646,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1015278441275494400,
+			"in_reply_to_status_id_str": "1015278441275494400",
+			"in_reply_to_user_id": 15155074,
+			"in_reply_to_user_id_str": "15155074",
+			"in_reply_to_screen_name": "PearlJam",
+			"user": {
+				"id": 349948855,
+				"id_str": "349948855",
+				"name": "Vane Vedder",
+				"screen_name": "vanevedder",
+				"location": "Ciudad de México",
+				"description": "hola soy Vane y soy alcohólica!Odio a los humanos,amo a los animales!Creo en 1 solo dios(Eddie Vedder)/crecí c/Pink Floyd/soy PUMAS y mercadóloga",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 661,
+				"friends_count": 1630,
+				"listed_count": 3,
+				"created_at": "Sat Aug 06 23:50:28 +0000 2011",
+				"favourites_count": 3922,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3804,
+				"lang": "es",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1011694147957293056/FnjpAhlz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1011694147957293056/FnjpAhlz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/349948855/1530896736",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 9,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Fri Jul 06 14:30:02 +0000 2018",
 		"id": 1015241467189694500,
 		"id_str": "1015241467189694464",
