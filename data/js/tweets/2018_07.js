@@ -1,6 +1,329 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Fri Jul 06 20:49:43 +0000 2018",
+		"id": 1015337016043634700,
+		"id_str": "1015337016043634688",
+		"text": "RT @oshratn: If you love language and are looking for new and improved insults try https://t.co/atTkma7izq and read the whole thread. It wi…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "oshratn",
+					"name": "Oshrat Nir",
+					"id": 95050134,
+					"id_str": "95050134",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/atTkma7izq",
+					"expanded_url": "http://insulter.glitch.me/",
+					"display_url": "insulter.glitch.me",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9148,
+			"friends_count": 2055,
+			"listed_count": 604,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4473,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60520,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1528570148",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jul 05 10:40:11 +0000 2018",
+			"id": 1014821235023282200,
+			"id_str": "1014821235023282177",
+			"text": "If you love language and are looking for new and improved insults try https://t.co/atTkma7izq and read the whole th… https://t.co/hUgm4XIxRK",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/atTkma7izq",
+						"expanded_url": "http://insulter.glitch.me/",
+						"display_url": "insulter.glitch.me",
+						"indices": [
+							70,
+							93
+						]
+					},
+					{
+						"url": "https://t.co/hUgm4XIxRK",
+						"expanded_url": "https://twitter.com/i/web/status/1014821235023282177",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 95050134,
+				"id_str": "95050134",
+				"name": "Oshrat Nir",
+				"screen_name": "oshratn",
+				"location": "Tel Aviv, Israel",
+				"description": "Juggler - Career, Mother, Partner, Friend, Me.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 466,
+				"friends_count": 509,
+				"listed_count": 0,
+				"created_at": "Sun Dec 06 18:48:03 +0000 2009",
+				"favourites_count": 67,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10615,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "59472F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/746925226961829888/taAMNxTV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/746925226961829888/taAMNxTV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/95050134/1431452279",
+				"profile_link_color": "390EE8",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "061127",
+				"profile_text_color": "827972",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1014218913515573200,
+			"quoted_status_id_str": "1014218913515573248",
+			"quoted_status": {
+				"created_at": "Tue Jul 03 18:46:46 +0000 2018",
+				"id": 1014218913515573200,
+				"id_str": "1014218913515573248",
+				"text": "You can make any noun into an insult by adding “utter,” “complete” or “absolute” in front of it. Doesn’t even have… https://t.co/BhNPbRGUaO",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/BhNPbRGUaO",
+							"expanded_url": "https://twitter.com/i/web/status/1014218913515573248",
+							"display_url": "twitter.com/i/web/status/1…",
+							"indices": [
+								116,
+								139
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 1957364101,
+					"id_str": "1957364101",
+					"name": "🔥The Bastards Don’t Get To Win🔥",
+					"screen_name": "RoAnnaSylver",
+					"location": "Portland, OR",
+					"description": "They/She. Creator of Really Queer Books/Art/Life, Co-Founder of @KrakenColl, writing Something Awesome for @ChoiceOfGames. Chronic Pain, Neuro-Weird Brain.",
+					"url": "https://t.co/mJhL6pz5IH",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/mJhL6pz5IH",
+									"expanded_url": "http://amazon.com/author/roannasylver",
+									"display_url": "amazon.com/author/roannas…",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 3077,
+					"friends_count": 756,
+					"listed_count": 121,
+					"created_at": "Sat Oct 12 19:24:23 +0000 2013",
+					"favourites_count": 51755,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 90247,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "0099B9",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/988686380392853504/Cp9MNMPb_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/988686380392853504/Cp9MNMPb_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/1957364101/1519367884",
+					"profile_link_color": "9266CC",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "7AC3EE",
+					"profile_text_color": "3D1957",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 1967,
+				"favorite_count": 5506,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"retweet_count": 26,
+			"favorite_count": 44,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1014218913515573200,
+		"quoted_status_id_str": "1014218913515573248",
+		"retweet_count": 26,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Jul 06 19:52:21 +0000 2018",
 		"id": 1015322580272734200,
 		"id_str": "1015322580272734208",
