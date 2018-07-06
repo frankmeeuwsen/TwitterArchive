@@ -1,6 +1,403 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Fri Jul 06 07:48:42 +0000 2018",
+		"id": 1015140467510513700,
+		"id_str": "1015140467510513664",
+		"text": "@Sebsel @ton_zylstra @martijnvdven @microformats Kunnen webmentions opnieuw worden verzonden als microformats eenma… https://t.co/ELDu4edzwK",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Sebsel",
+					"name": "Sebastiaan Andeweg",
+					"id": 32492723,
+					"id_str": "32492723",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "ton_zylstra",
+					"name": "Ton Zijlstra",
+					"id": 25049203,
+					"id_str": "25049203",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"screen_name": "martijnvdven",
+					"name": "Martĳn van der Ven",
+					"id": 7090852,
+					"id_str": "7090852",
+					"indices": [
+						21,
+						34
+					]
+				},
+				{
+					"screen_name": "microformats",
+					"name": "microformats",
+					"id": 633273,
+					"id_str": "633273",
+					"indices": [
+						35,
+						48
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ELDu4edzwK",
+					"expanded_url": "https://twitter.com/i/web/status/1015140467510513664",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1015138444941590500,
+		"in_reply_to_status_id_str": "1015138444941590528",
+		"in_reply_to_user_id": 32492723,
+		"in_reply_to_user_id_str": "32492723",
+		"in_reply_to_screen_name": "Sebsel",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9149,
+			"friends_count": 2055,
+			"listed_count": 604,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4457,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60510,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1528570148",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
+		"created_at": "Fri Jul 06 07:39:28 +0000 2018",
+		"id": 1015138142624641000,
+		"id_str": "1015138142624641024",
+		"text": "En nu wil ik alles van Kubrick (weer) zien. Bekentenis: ik heb “2001” nog nooit in zijn totaliteit gezien. https://t.co/wzz1TCX2ya",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wzz1TCX2ya",
+					"expanded_url": "https://twitter.com/geekydingen/status/1014555984642170881",
+					"display_url": "twitter.com/geekydingen/st…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9149,
+			"friends_count": 2055,
+			"listed_count": 604,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4457,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60510,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1528570148",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1014555984642170900,
+		"quoted_status_id_str": "1014555984642170881",
+		"quoted_status": {
+			"created_at": "Wed Jul 04 17:06:10 +0000 2018",
+			"id": 1014555984642170900,
+			"id_str": "1014555984642170881",
+			"text": "Er is een nieuwe afl! We praten over het werk van Stanley Kubrick, met @advocaatsmeets @lrs @lalalalinder https://t.co/y4lVvFmpra",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "advocaatsmeets",
+						"name": "Sidney Smeets",
+						"id": 94282012,
+						"id_str": "94282012",
+						"indices": [
+							71,
+							86
+						]
+					},
+					{
+						"screen_name": "lrs",
+						"name": "Lars",
+						"id": 6088022,
+						"id_str": "6088022",
+						"indices": [
+							87,
+							91
+						]
+					},
+					{
+						"screen_name": "lalalalinder",
+						"name": "Linda Duits",
+						"id": 20326729,
+						"id_str": "20326729",
+						"indices": [
+							92,
+							105
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/y4lVvFmpra",
+						"expanded_url": "https://soundcloud.com/geekydingen/12-het-toilet-van-de-meester-de-films-van-stanley-kubrick",
+						"display_url": "soundcloud.com/geekydingen/12…",
+						"indices": [
+							106,
+							129
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 955185741633605600,
+				"id_str": "955185741633605633",
+				"name": "Geeky Dingen",
+				"screen_name": "GeekyDingen",
+				"location": "Amsterdam, Nederland",
+				"description": "Podcast over popcultuur",
+				"url": "https://t.co/6R799CUHX1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6R799CUHX1",
+								"expanded_url": "https://www.facebook.com/geekydingen/",
+								"display_url": "facebook.com/geekydingen/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 150,
+				"friends_count": 110,
+				"listed_count": 2,
+				"created_at": "Sun Jan 21 21:10:02 +0000 2018",
+				"favourites_count": 2,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 48,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/957746855630303232/-QLVAZON_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/957746855630303232/-QLVAZON_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/955185741633605633/1519046638",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Fri Jul 06 04:59:23 +0000 2018",
 		"id": 1015097858612256800,
 		"id_str": "1015097858612256768",
