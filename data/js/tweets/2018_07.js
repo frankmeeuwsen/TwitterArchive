@@ -1,6 +1,391 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Sat Jul 07 05:52:02 +0000 2018",
+		"id": 1015473496523231200,
+		"id_str": "1015473496523231234",
+		"text": "/cc @patrickloonstra #404love https://t.co/Frn7zFwPEh",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "404love",
+					"indices": [
+						21,
+						29
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "patrickloonstra",
+					"name": "Patrick 🕶",
+					"id": 9647022,
+					"id_str": "9647022",
+					"indices": [
+						4,
+						20
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Frn7zFwPEh",
+					"expanded_url": "https://twitter.com/simonswiss/status/1014640895273009153",
+					"display_url": "twitter.com/simonswiss/sta…",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9148,
+			"friends_count": 2056,
+			"listed_count": 604,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4476,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60506,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1528570148",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1014640895273009200,
+		"quoted_status_id_str": "1014640895273009153",
+		"quoted_status": {
+			"created_at": "Wed Jul 04 22:43:35 +0000 2018",
+			"id": 1014640895273009200,
+			"id_str": "1014640895273009153",
+			"text": "First I was like \"oh cool, @figmadesign made an on-brand 404 page with an allusion to bezier handles..\".\n\nThen I th… https://t.co/dT6OtmMC29",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "figmadesign",
+						"name": "Figma",
+						"id": 3181020308,
+						"id_str": "3181020308",
+						"indices": [
+							27,
+							39
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/dT6OtmMC29",
+						"expanded_url": "https://twitter.com/i/web/status/1014640895273009153",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 70713547,
+				"id_str": "70713547",
+				"name": "Simon Vrachliotis",
+				"screen_name": "simonswiss",
+				"location": "Dee Why, Sydney",
+				"description": "Front-end lead at @mysocietyone. Life enthusiast, proud father of two. Surf, basketball, ukulele addict. Love learning, love teaching.",
+				"url": "https://t.co/fyrD2foCrE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fyrD2foCrE",
+								"expanded_url": "https://simonswiss.com",
+								"display_url": "simonswiss.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1527,
+				"friends_count": 1003,
+				"listed_count": 120,
+				"created_at": "Tue Sep 01 15:59:35 +0000 2009",
+				"favourites_count": 14441,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6909,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1160929863/n510426211_274341_6220_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1160929863/n510426211_274341_6220_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/70713547/1523746730",
+				"profile_link_color": "0BC8D4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 124,
+			"favorite_count": 743,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Sat Jul 07 05:49:56 +0000 2018",
+		"id": 1015472964949696500,
+		"id_str": "1015472964949696512",
+		"text": "@SenolTapirdamaz @dim @GoogleNL De gedachte dat je mogelijk bedrijfsgevoelige info gewoon lokaal op je computer ops… https://t.co/QwjvVCY6UO",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SenolTapirdamaz",
+					"name": "Senol Tapirdamaz ฿Sc",
+					"id": 219452127,
+					"id_str": "219452127",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "dim",
+					"name": "Dim!",
+					"id": 14168328,
+					"id_str": "14168328",
+					"indices": [
+						17,
+						21
+					]
+				},
+				{
+					"screen_name": "GoogleNL",
+					"name": "Google Nederland",
+					"id": 58303955,
+					"id_str": "58303955",
+					"indices": [
+						22,
+						31
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QwjvVCY6UO",
+					"expanded_url": "https://twitter.com/i/web/status/1015472964949696512",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1015162019920666600,
+		"in_reply_to_status_id_str": "1015162019920666625",
+		"in_reply_to_user_id": 219452127,
+		"in_reply_to_user_id_str": "219452127",
+		"in_reply_to_screen_name": "SenolTapirdamaz",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9148,
+			"friends_count": 2056,
+			"listed_count": 604,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4476,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60506,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1528570148",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Fri Jul 06 20:49:43 +0000 2018",
 		"id": 1015337016043634700,
 		"id_str": "1015337016043634688",
