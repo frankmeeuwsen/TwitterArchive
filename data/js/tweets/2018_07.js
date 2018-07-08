@@ -1,6 +1,428 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Sun Jul 08 09:20:11 +0000 2018",
+		"id": 1015888264912429000,
+		"id_str": "1015888264912429056",
+		"text": "RT @dsearls: Good sociology; but has the ad biz ever really been in touch with the public? Advertising is a b2b business; not b2c. It loves…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dsearls",
+					"name": "Doc Searls",
+					"id": 3339171,
+					"id_str": "3339171",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9145,
+			"friends_count": 2056,
+			"listed_count": 604,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4483,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60516,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1528570148",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jul 08 09:14:16 +0000 2018",
+			"id": 1015886778102841300,
+			"id_str": "1015886778102841344",
+			"text": "Good sociology; but has the ad biz ever really been in touch with the public? Advertising is a b2b business; not b2… https://t.co/WiXnUkg8mW",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/WiXnUkg8mW",
+						"expanded_url": "https://twitter.com/i/web/status/1015886778102841344",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3339171,
+				"id_str": "3339171",
+				"name": "Doc Searls",
+				"screen_name": "dsearls",
+				"location": "SBA, BOS, EWR, SFO, LHR",
+				"description": "Ed at @LinuxJournal; wrote https://t.co/e3wRYgG57X, co-wrote @Cluetrain; blogs at https://t.co/wxYeU4br7d, https://t.co/6ly0yrDXm1; runs @VRM; fellow, @ucsbcits",
+				"url": "http://t.co/wxYeU4br7d",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/wxYeU4br7d",
+								"expanded_url": "http://doc.searls.com",
+								"display_url": "doc.searls.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/e3wRYgG57X",
+								"expanded_url": "http://j.mp/ntnecn",
+								"display_url": "j.mp/ntnecn",
+								"indices": [
+									27,
+									50
+								]
+							},
+							{
+								"url": "https://t.co/wxYeU4br7d",
+								"expanded_url": "http://doc.searls.com",
+								"display_url": "doc.searls.com",
+								"indices": [
+									82,
+									105
+								]
+							},
+							{
+								"url": "https://t.co/6ly0yrDXm1",
+								"expanded_url": "http://doc.blog",
+								"display_url": "doc.blog",
+								"indices": [
+									107,
+									130
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 24753,
+				"friends_count": 4170,
+				"listed_count": 2136,
+				"created_at": "Tue Apr 03 16:47:00 +0000 2007",
+				"favourites_count": 135,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 15234,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1250175157/headshot_blackshirt_5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1250175157/headshot_blackshirt_5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3339171/1365217514",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "3f08724493b18d74",
+				"url": "https://api.twitter.com/1.1/geo/id/3f08724493b18d74.json",
+				"place_type": "city",
+				"name": "Jaipur",
+				"full_name": "Jaipur, India",
+				"country_code": "IN",
+				"country": "India",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								75.4979969,
+								26.800561
+							],
+							[
+								75.9970446,
+								26.800561
+							],
+							[
+								75.9970446,
+								27.0188054
+							],
+							[
+								75.4979969,
+								27.0188054
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1015880316681117700,
+			"quoted_status_id_str": "1015880316681117696",
+			"quoted_status": {
+				"created_at": "Sun Jul 08 08:48:36 +0000 2018",
+				"id": 1015880316681117700,
+				"id_str": "1015880316681117696",
+				"text": "How the UK advertising industry 'lost touch' with the public https://t.co/pFXswl1BDa via @thedrum",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "TheDrum",
+							"name": "The Drum",
+							"id": 20758087,
+							"id_str": "20758087",
+							"indices": [
+								89,
+								97
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/pFXswl1BDa",
+							"expanded_url": "http://www.thedrum.com/opinion/2018/07/05/how-the-uk-advertising-industry-lost-touch-with-the-public",
+							"display_url": "thedrum.com/opinion/2018/0…",
+							"indices": [
+								61,
+								84
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 15030133,
+					"id_str": "15030133",
+					"name": "Frank J. Radice",
+					"screen_name": "Fradice",
+					"location": "London, England",
+					"description": "Emmy winning journalist, producer, director, composer. Aggregating content about the dynamic media landscape. Writing and speaking about the “Next New Normal”",
+					"url": "https://t.co/4DGxD12J8z",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/4DGxD12J8z",
+									"expanded_url": "http://frankradice.com",
+									"display_url": "frankradice.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 2956,
+					"friends_count": 3151,
+					"listed_count": 173,
+					"created_at": "Fri Jun 06 15:02:24 +0000 2008",
+					"favourites_count": 1911,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 15163,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/946853103428567040/jTwp-Um6_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/946853103428567040/jTwp-Um6_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/15030133/1478528672",
+					"profile_link_color": "1B95E0",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "FFF8DF",
+					"profile_text_color": "000000",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": {
+					"id": "01c7ed8caf11e8b2",
+					"url": "https://api.twitter.com/1.1/geo/id/01c7ed8caf11e8b2.json",
+					"place_type": "city",
+					"name": "Kensington",
+					"full_name": "Kensington, London",
+					"country_code": "GB",
+					"country": "United Kingdom",
+					"contained_within": [],
+					"bounding_box": {
+						"type": "Polygon",
+						"coordinates": [
+							[
+								[
+									-0.2285894,
+									51.4772246
+								],
+								[
+									-0.1497908,
+									51.4772246
+								],
+								[
+									-0.1497908,
+									51.5303477
+								],
+								[
+									-0.2285894,
+									51.5303477
+								]
+							]
+						]
+					},
+					"attributes": {}
+				},
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 1,
+				"favorite_count": 0,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1015880316681117700,
+		"quoted_status_id_str": "1015880316681117696",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Jul 08 07:15:32 +0000 2018",
 		"id": 1015856896178303000,
 		"id_str": "1015856896178302977",
