@@ -1,6 +1,284 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Wed Jul 11 14:01:42 +0000 2018",
+		"id": 1017046274741342200,
+		"id_str": "1017046274741342208",
+		"text": "Christendomisering ten top. Kledingvoorschriften in het Vaticaan. https://t.co/9boWM4Likf https://t.co/0stjmV0e92",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9boWM4Likf",
+					"expanded_url": "https://romenieuws.wordpress.com/2010/08/11/strenge-kledingvoorschriften-nu-in-heel-vaticaanstad/",
+					"display_url": "romenieuws.wordpress.com/2010/08/11/str…",
+					"indices": [
+						66,
+						89
+					]
+				},
+				{
+					"url": "https://t.co/0stjmV0e92",
+					"expanded_url": "https://twitter.com/La_Moonnn/status/1016225829909655552",
+					"display_url": "twitter.com/La_Moonnn/stat…",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9148,
+			"friends_count": 2056,
+			"listed_count": 603,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4494,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60538,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1528570148",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1016225829909655600,
+		"quoted_status_id_str": "1016225829909655552",
+		"quoted_status": {
+			"created_at": "Mon Jul 09 07:41:33 +0000 2018",
+			"id": 1016225829909655600,
+			"id_str": "1016225829909655552",
+			"text": "Islamisering ten top.\nBrief aan ouders ivm moskeebezoek. Plus kledingvoorschrift.\n😡 https://t.co/kekH6Al3K5",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1016225453974093800,
+						"id_str": "1016225453974093824",
+						"indices": [
+							84,
+							107
+						],
+						"media_url": "http://pbs.twimg.com/media/DhpbqovWAAAS7Vo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DhpbqovWAAAS7Vo.jpg",
+						"url": "https://t.co/kekH6Al3K5",
+						"display_url": "pic.twitter.com/kekH6Al3K5",
+						"expanded_url": "https://twitter.com/La_Moonnn/status/1016225829909655552/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 540,
+								"h": 960,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 540,
+								"h": 960,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1016225453974093800,
+						"id_str": "1016225453974093824",
+						"indices": [
+							84,
+							107
+						],
+						"media_url": "http://pbs.twimg.com/media/DhpbqovWAAAS7Vo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DhpbqovWAAAS7Vo.jpg",
+						"url": "https://t.co/kekH6Al3K5",
+						"display_url": "pic.twitter.com/kekH6Al3K5",
+						"expanded_url": "https://twitter.com/La_Moonnn/status/1016225829909655552/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 540,
+								"h": 960,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 540,
+								"h": 960,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 484043565,
+				"id_str": "484043565",
+				"name": "LaMoon",
+				"screen_name": "La_Moonnn",
+				"location": "Amsterdam",
+				"description": "I'm lost so don't follow                Blanke Amsterdamse vla  met vleugje Italiaanse straciatella. Love for animals not the beasts. List = Block",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1534,
+				"friends_count": 1391,
+				"listed_count": 7,
+				"created_at": "Sun Feb 05 17:32:37 +0000 2012",
+				"favourites_count": 35498,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 16446,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1016816610957516805/Gojopcv2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1016816610957516805/Gojopcv2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/484043565/1525298439",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 341,
+			"favorite_count": 272,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Wed Jul 11 12:52:11 +0000 2018",
 		"id": 1017028778852278300,
 		"id_str": "1017028778852278272",
