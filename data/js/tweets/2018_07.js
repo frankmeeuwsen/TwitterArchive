@@ -1,6 +1,584 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Wed Jul 11 20:49:55 +0000 2018",
+		"id": 1017149005699211300,
+		"id_str": "1017149005699211270",
+		"text": "Je verwacht het niet he.... oh wacht. https://t.co/gdsengdcSf",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gdsengdcSf",
+					"expanded_url": "https://twitter.com/donie/status/1016812672556421120",
+					"display_url": "twitter.com/donie/status/1…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9148,
+			"friends_count": 2056,
+			"listed_count": 603,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4494,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60522,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1528570148",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1016812672556421100,
+		"quoted_status_id_str": "1016812672556421120",
+		"quoted_status": {
+			"created_at": "Tue Jul 10 22:33:27 +0000 2018",
+			"id": 1016812672556421100,
+			"id_str": "1016812672556421120",
+			"text": "NEW: A Russian internet company with links to the Kremlin was among the firms to which Facebook gave an extension w… https://t.co/y1fXqpapRg",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/y1fXqpapRg",
+						"expanded_url": "https://twitter.com/i/web/status/1016812672556421120",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 230787751,
+				"id_str": "230787751",
+				"name": "Donie O'Sullivan",
+				"screen_name": "donie",
+				"location": "New York, NY",
+				"description": "Reporter @CNN || PGP: https://t.co/gw23uGsOSJ || donieosullivan@protonmail.com",
+				"url": "https://t.co/WMwfh7Pzvh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WMwfh7Pzvh",
+								"expanded_url": "https://muckrack.com/donie",
+								"display_url": "muckrack.com/donie",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/gw23uGsOSJ",
+								"expanded_url": "http://keybase.io/donie",
+								"display_url": "keybase.io/donie",
+								"indices": [
+									22,
+									45
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 12261,
+				"friends_count": 6316,
+				"listed_count": 362,
+				"created_at": "Sun Dec 26 17:40:14 +0000 2010",
+				"favourites_count": 14128,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 40129,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FF5D00",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/982653823822041088/FMly3eIE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/982653823822041088/FMly3eIE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/230787751/1492564924",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1516,
+			"favorite_count": 1144,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
+		"created_at": "Wed Jul 11 20:34:58 +0000 2018",
+		"id": 1017145242385084400,
+		"id_str": "1017145242385084422",
+		"text": "RT @TBreassealeDHS: Ooof.\nPowerful stuff. https://t.co/rfooGvAMua",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TBreassealeDHS",
+					"name": "Todd Breasseale",
+					"id": 3430272736,
+					"id_str": "3430272736",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1016800924877054000,
+					"id_str": "1016800924877053953",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/DhxnDc6V4AEBlv8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DhxnDc6V4AEBlv8.jpg",
+					"url": "https://t.co/rfooGvAMua",
+					"display_url": "pic.twitter.com/rfooGvAMua",
+					"expanded_url": "https://twitter.com/TBreassealeDHS/status/1016800926248497152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 780,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 553,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 780,
+							"h": 960,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1016800926248497200,
+					"source_status_id_str": "1016800926248497152",
+					"source_user_id": 3430272736,
+					"source_user_id_str": "3430272736"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1016800924877054000,
+					"id_str": "1016800924877053953",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/DhxnDc6V4AEBlv8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DhxnDc6V4AEBlv8.jpg",
+					"url": "https://t.co/rfooGvAMua",
+					"display_url": "pic.twitter.com/rfooGvAMua",
+					"expanded_url": "https://twitter.com/TBreassealeDHS/status/1016800926248497152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 780,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 553,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 780,
+							"h": 960,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1016800926248497200,
+					"source_status_id_str": "1016800926248497152",
+					"source_user_id": 3430272736,
+					"source_user_id_str": "3430272736"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9148,
+			"friends_count": 2056,
+			"listed_count": 603,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4494,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60522,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1528570148",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jul 10 21:46:46 +0000 2018",
+			"id": 1016800926248497200,
+			"id_str": "1016800926248497152",
+			"text": "Ooof.\nPowerful stuff. https://t.co/rfooGvAMua",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1016800924877054000,
+						"id_str": "1016800924877053953",
+						"indices": [
+							22,
+							45
+						],
+						"media_url": "http://pbs.twimg.com/media/DhxnDc6V4AEBlv8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DhxnDc6V4AEBlv8.jpg",
+						"url": "https://t.co/rfooGvAMua",
+						"display_url": "pic.twitter.com/rfooGvAMua",
+						"expanded_url": "https://twitter.com/TBreassealeDHS/status/1016800926248497152/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 780,
+								"h": 960,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 553,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 780,
+								"h": 960,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1016800924877054000,
+						"id_str": "1016800924877053953",
+						"indices": [
+							22,
+							45
+						],
+						"media_url": "http://pbs.twimg.com/media/DhxnDc6V4AEBlv8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DhxnDc6V4AEBlv8.jpg",
+						"url": "https://t.co/rfooGvAMua",
+						"display_url": "pic.twitter.com/rfooGvAMua",
+						"expanded_url": "https://twitter.com/TBreassealeDHS/status/1016800926248497152/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 780,
+								"h": 960,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 553,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 780,
+								"h": 960,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3430272736,
+				"id_str": "3430272736",
+				"name": "Todd Breasseale",
+				"screen_name": "TBreassealeDHS",
+				"location": "Washington, DC",
+				"description": "Former Obama Admin @DHSgov Ass't Secretary. Former @DeptofDefense spokesman. @USArmy vet of Iraq & Afg wars. Personal acct. Retweets mean whatever I want.🏳️‍🌈",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3670,
+				"friends_count": 3429,
+				"listed_count": 45,
+				"created_at": "Tue Aug 18 17:41:21 +0000 2015",
+				"favourites_count": 9133,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 4302,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/930307166728200192/ligwS6Md_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/930307166728200192/ligwS6Md_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3430272736/1527589961",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 30703,
+			"favorite_count": 65180,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 30703,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Jul 11 17:37:04 +0000 2018",
 		"id": 1017100475714408400,
 		"id_str": "1017100475714408448",
