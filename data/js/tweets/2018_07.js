@@ -1,6 +1,324 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Sat Jul 14 18:13:31 +0000 2018",
+		"id": 1018196809355808800,
+		"id_str": "1018196809355808769",
+		"text": "Hahaha... ome Bonkie FTW! https://t.co/jJoaMJLX6w",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jJoaMJLX6w",
+					"expanded_url": "https://twitter.com/Heimerik/status/1018185767833751553",
+					"display_url": "twitter.com/Heimerik/statu…",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62Bjx8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62Bjx8G",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8961,
+			"friends_count": 2057,
+			"listed_count": 602,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4497,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60527,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1528570148",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1018185767833751600,
+		"quoted_status_id_str": "1018185767833751553",
+		"quoted_status": {
+			"created_at": "Sat Jul 14 17:29:38 +0000 2018",
+			"id": 1018185767833751600,
+			"id_str": "1018185767833751553",
+			"text": "Hoe regel je een kamer in Amsterdam voor je dochter in 2 'eenvoudige' stappen. https://t.co/lLeJEWDp9q",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1018185752679731200,
+						"id_str": "1018185752679731200",
+						"indices": [
+							79,
+							102
+						],
+						"media_url": "http://pbs.twimg.com/media/DiFSjCfW0AAzrcU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DiFSjCfW0AAzrcU.jpg",
+						"url": "https://t.co/lLeJEWDp9q",
+						"display_url": "pic.twitter.com/lLeJEWDp9q",
+						"expanded_url": "https://twitter.com/Heimerik/status/1018185767833751553/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1051,
+								"h": 1414,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 505,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 892,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1018185752679731200,
+						"id_str": "1018185752679731200",
+						"indices": [
+							79,
+							102
+						],
+						"media_url": "http://pbs.twimg.com/media/DiFSjCfW0AAzrcU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DiFSjCfW0AAzrcU.jpg",
+						"url": "https://t.co/lLeJEWDp9q",
+						"display_url": "pic.twitter.com/lLeJEWDp9q",
+						"expanded_url": "https://twitter.com/Heimerik/status/1018185767833751553/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1051,
+								"h": 1414,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 505,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 892,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1018185760116215800,
+						"id_str": "1018185760116215808",
+						"indices": [
+							79,
+							102
+						],
+						"media_url": "http://pbs.twimg.com/media/DiFSjeMWkAAhBVe.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DiFSjeMWkAAhBVe.jpg",
+						"url": "https://t.co/lLeJEWDp9q",
+						"display_url": "pic.twitter.com/lLeJEWDp9q",
+						"expanded_url": "https://twitter.com/Heimerik/status/1018185767833751553/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1005,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 570,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1289,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 27025735,
+				"id_str": "27025735",
+				"name": "Rik toe Water",
+				"screen_name": "Heimerik",
+				"location": "⚪️🔴⚪️",
+				"description": "zonder -c",
+				"url": "https://t.co/5etIEF2x5G",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5etIEF2x5G",
+								"expanded_url": "http://www.heimerik.nl",
+								"display_url": "heimerik.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2819,
+				"friends_count": 501,
+				"listed_count": 84,
+				"created_at": "Fri Mar 27 15:25:17 +0000 2009",
+				"favourites_count": 15724,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 64429,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1006306667057868812/b64SRdCL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1006306667057868812/b64SRdCL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/27025735/1421830307",
+				"profile_link_color": "909090",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "2C2C2C",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "pl"
+	},
+	{
 		"created_at": "Fri Jul 13 19:55:02 +0000 2018",
 		"id": 1017859969859969000,
 		"id_str": "1017859969859969031",
