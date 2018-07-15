@@ -1,6 +1,148 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Sun Jul 15 15:07:34 +0000 2018",
+		"id": 1018512401308831700,
+		"id_str": "1018512401308831744",
+		"text": "@Tourmakerlady @Helie @DeFries We combineren het met een bezoekje aan het dino-museum in Brussel. Prima verkoelend… https://t.co/4C8t0xgzu7",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Tourmakerlady",
+					"name": "Geraldine",
+					"id": 735130757711171600,
+					"id_str": "735130757711171584",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "Helie",
+					"name": "Helena",
+					"id": 1599741,
+					"id_str": "1599741",
+					"indices": [
+						15,
+						21
+					]
+				},
+				{
+					"screen_name": "DeFries",
+					"name": "Remkus de Vries",
+					"id": 14264386,
+					"id_str": "14264386",
+					"indices": [
+						22,
+						30
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4C8t0xgzu7",
+					"expanded_url": "https://twitter.com/i/web/status/1018512401308831744",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1018506535134224400,
+		"in_reply_to_status_id_str": "1018506535134224384",
+		"in_reply_to_user_id": 735130757711171600,
+		"in_reply_to_user_id_str": "735130757711171584",
+		"in_reply_to_screen_name": "Tourmakerlady",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/3f8rk1jn42",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3f8rk1jn42",
+							"expanded_url": "http://diggingthedigital.com/Ontvolg/",
+							"display_url": "diggingthedigital.com/Ontvolg/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8956,
+			"friends_count": 55,
+			"listed_count": 602,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4496,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60537,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1528570148",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Sun Jul 15 11:47:05 +0000 2018",
 		"id": 1018461950324478000,
 		"id_str": "1018461950324477954",
