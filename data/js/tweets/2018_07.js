@@ -1,6 +1,239 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Wed Jul 18 08:19:25 +0000 2018",
+		"id": 1019496850985050100,
+		"id_str": "1019496850985050113",
+		"text": "RT @ariodzernbc6: Never seen a band do this: after encores, after goodbyes, house lights on, half the crowd gone, @PearlJam sneaks back out…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ariodzernbc6",
+					"name": "Ari Odzer",
+					"id": 208077015,
+					"id_str": "208077015",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "PearlJam",
+					"name": "Pearl Jam",
+					"id": 15155074,
+					"id_str": "15155074",
+					"indices": [
+						114,
+						123
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/3f8rk1jn42",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3f8rk1jn42",
+							"expanded_url": "http://diggingthedigital.com/Ontvolg/",
+							"display_url": "diggingthedigital.com/Ontvolg/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8948,
+			"friends_count": 102,
+			"listed_count": 602,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4497,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60557,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1528570148",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jul 17 23:06:04 +0000 2018",
+			"id": 1019357596812103700,
+			"id_str": "1019357596812103680",
+			"text": "Never seen a band do this: after encores, after goodbyes, house lights on, half the crowd gone, @PearlJam sneaks ba… https://t.co/wP7kRHQEaK",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "PearlJam",
+						"name": "Pearl Jam",
+						"id": 15155074,
+						"id_str": "15155074",
+						"indices": [
+							96,
+							105
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/wP7kRHQEaK",
+						"expanded_url": "https://twitter.com/i/web/status/1019357596812103680",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 208077015,
+				"id_str": "208077015",
+				"name": "Ari Odzer",
+				"screen_name": "ariodzernbc6",
+				"location": "Miami, Florida",
+				"description": "I tell stories @ WTVJ- NBC6 Miami. Deerfield Beach HS, UF grad. Married to Shari-Lynn. 3 kids. Favor Gators, Heat, Panthers, Marlins & FulhamFC! #EducationOn6.",
+				"url": "https://t.co/uW7d0h4z57",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/uW7d0h4z57",
+								"expanded_url": "http://nbcmiami.com",
+								"display_url": "nbcmiami.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4628,
+				"friends_count": 982,
+				"listed_count": 158,
+				"created_at": "Tue Oct 26 15:51:07 +0000 2010",
+				"favourites_count": 23681,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 30111,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/786749359220101123/eqVavklY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/786749359220101123/eqVavklY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/208077015/1424835071",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 17,
+			"favorite_count": 63,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Jul 18 07:04:53 +0000 2018",
 		"id": 1019478095907213300,
 		"id_str": "1019478095907213313",
