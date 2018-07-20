@@ -1,6 +1,316 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Fri Jul 20 15:12:32 +0000 2018",
+		"id": 1020325590254194700,
+		"id_str": "1020325590254194688",
+		"text": "Zowel bij https://t.co/SZ0ds4tyBU als Zalando mijn ww aangepast via 1password. In plm 7 klikken gedaan en kost je n… https://t.co/LmStNrLMov",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SZ0ds4tyBU",
+					"expanded_url": "http://Bol.com",
+					"display_url": "Bol.com",
+					"indices": [
+						10,
+						33
+					]
+				},
+				{
+					"url": "https://t.co/LmStNrLMov",
+					"expanded_url": "https://twitter.com/i/web/status/1020325590254194688",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8944,
+			"friends_count": 105,
+			"listed_count": 603,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4502,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60595,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1528570148",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1020306104616652800,
+		"quoted_status_id_str": "1020306104616652800",
+		"quoted_status": {
+			"created_at": "Fri Jul 20 13:55:06 +0000 2018",
+			"id": 1020306104616652800,
+			"id_str": "1020306104616652800",
+			"text": "Van Zalando tot https://t.co/vXpZ3Y1bpC: duizenden gehackte webshopaccounts doorverkocht  https://t.co/Cml35FbAcz https://t.co/dAN5yKJCUP",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/vXpZ3Y1bpC",
+						"expanded_url": "http://Bol.com",
+						"display_url": "Bol.com",
+						"indices": [
+							16,
+							39
+						]
+					},
+					{
+						"url": "https://t.co/Cml35FbAcz",
+						"expanded_url": "https://www.rtlnieuws.nl/technieuws/van-zalando-tot-bolcom-duizenden-gehackte-webshopaccounts-doorverkocht",
+						"display_url": "rtlnieuws.nl/technieuws/van…",
+						"indices": [
+							90,
+							113
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1020306102506934300,
+						"id_str": "1020306102506934273",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/Dija_pIW0AE9Lhu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dija_pIW0AE9Lhu.jpg",
+						"url": "https://t.co/dAN5yKJCUP",
+						"display_url": "pic.twitter.com/dAN5yKJCUP",
+						"expanded_url": "https://twitter.com/RTLnieuws/status/1020306104616652800/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 620,
+								"h": 349,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 620,
+								"h": 349,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 620,
+								"h": 349,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1020306102506934300,
+						"id_str": "1020306102506934273",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/Dija_pIW0AE9Lhu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dija_pIW0AE9Lhu.jpg",
+						"url": "https://t.co/dAN5yKJCUP",
+						"display_url": "pic.twitter.com/dAN5yKJCUP",
+						"expanded_url": "https://twitter.com/RTLnieuws/status/1020306104616652800/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 620,
+								"h": 349,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 620,
+								"h": 349,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 620,
+								"h": 349,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.rtlnieuws.nl\" rel=\"nofollow\">RTLNieuws</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20968385,
+				"id_str": "20968385",
+				"name": "RTL Nieuws",
+				"screen_name": "RTLnieuws",
+				"location": "Nederland",
+				"description": "Volg het nieuws terwijl het gebeurt. De laatste berichten uit binnen- en buitenland. Politiek, sport, economie, opmerkelijk nieuws. Video.",
+				"url": "http://t.co/CdGxqigxAM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/CdGxqigxAM",
+								"expanded_url": "http://www.rtlnieuws.nl",
+								"display_url": "rtlnieuws.nl",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 381171,
+				"friends_count": 549,
+				"listed_count": 3053,
+				"created_at": "Mon Feb 16 07:17:30 +0000 2009",
+				"favourites_count": 62,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 220275,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/948470929163800576/8yYXeZbK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/948470929163800576/8yYXeZbK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20968385/1514968058",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E1E1E1",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 15,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Fri Jul 20 13:56:53 +0000 2018",
 		"id": 1020306553881100300,
 		"id_str": "1020306553881100289",
