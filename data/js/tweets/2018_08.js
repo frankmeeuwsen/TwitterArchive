@@ -1,6 +1,274 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Fri Aug 03 15:43:48 +0000 2018",
+		"id": 1025406890824687600,
+		"id_str": "1025406890824687617",
+		"text": "Waitwhat? Kan @danielverlaan even terug van vakantie komen? Er gaan dingen gruweijk mis hier. https://t.co/TcSTNIFKu9",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "danielverlaan",
+					"name": "Daniël Verlaan",
+					"id": 14224500,
+					"id_str": "14224500",
+					"indices": [
+						14,
+						28
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TcSTNIFKu9",
+					"expanded_url": "https://twitter.com/ingnl/status/1025049736024346627",
+					"display_url": "twitter.com/ingnl/status/1…",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8935,
+			"friends_count": 120,
+			"listed_count": 603,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4514,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60651,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1528570148",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "80587a4bcf045f7d",
+			"url": "https://api.twitter.com/1.1/geo/id/80587a4bcf045f7d.json",
+			"place_type": "city",
+			"name": "Lingewaal",
+			"full_name": "Lingewaal, Nederland",
+			"country_code": "NL",
+			"country": "The Netherlands",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							4.9937167,
+							51.814153
+						],
+						[
+							5.1592415,
+							51.814153
+						],
+						[
+							5.1592415,
+							51.8889808
+						],
+						[
+							4.9937167,
+							51.8889808
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1025049736024346600,
+		"quoted_status_id_str": "1025049736024346627",
+		"quoted_status": {
+			"created_at": "Thu Aug 02 16:04:36 +0000 2018",
+			"id": 1025049736024346600,
+			"id_str": "1025049736024346627",
+			"text": "@ShamblingSloth Hi, good to contact us! Due to the new technology, we no longer support the password manager. We al… https://t.co/oRKhOyzb8p",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ShamblingSloth",
+						"name": "Stry Chnine",
+						"id": 22981157,
+						"id_str": "22981157",
+						"indices": [
+							0,
+							15
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/oRKhOyzb8p",
+						"expanded_url": "https://twitter.com/i/web/status/1025049736024346627",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.coosto.com\" rel=\"nofollow\">Coosto</a>",
+			"in_reply_to_status_id": 1025042775631454200,
+			"in_reply_to_status_id_str": "1025042775631454210",
+			"in_reply_to_user_id": 22981157,
+			"in_reply_to_user_id_str": "22981157",
+			"in_reply_to_screen_name": "ShamblingSloth",
+			"user": {
+				"id": 71515969,
+				"id_str": "71515969",
+				"name": "ING Nederland",
+				"screen_name": "ingnl",
+				"location": "Amsterdam",
+				"description": "Het officiële serviceaccount van ING. We gaan in gesprek met je, helpen je en informeren je over onze dienstverlening op ma-vr 08.00-23.00 & za-zo 09.00-17.00",
+				"url": "http://t.co/jPXdwahoBU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/jPXdwahoBU",
+								"expanded_url": "http://www.ing.nl/social",
+								"display_url": "ing.nl/social",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 111052,
+				"friends_count": 20104,
+				"listed_count": 517,
+				"created_at": "Fri Sep 04 11:48:57 +0000 2009",
+				"favourites_count": 1524,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 172721,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FF6600",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1023827829077753857/3znJ4FQE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023827829077753857/3znJ4FQE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/71515969/1525071557",
+				"profile_link_color": "FF6600",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Fri Aug 03 11:47:10 +0000 2018",
 		"id": 1025347341098905600,
 		"id_str": "1025347341098905600",
