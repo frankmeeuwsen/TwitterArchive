@@ -1,6 +1,307 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Tue Aug 07 21:17:11 +0000 2018",
+		"id": 1026940342493487100,
+		"id_str": "1026940342493487105",
+		"text": "RT @Yahoo: This breastfeeding mom who was told to 'cover up' at a restaurant had a hilarious response https://t.co/S7Z0Yhn51A https://t.co/…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Yahoo",
+					"name": "Yahoo",
+					"id": 19380829,
+					"id_str": "19380829",
+					"indices": [
+						3,
+						9
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/S7Z0Yhn51A",
+					"expanded_url": "https://yhoo.it/2MexpY8",
+					"display_url": "yhoo.it/2MexpY8",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Autonomous Biological Machine | Power user of the internet | https://t.co/bys0LKgUKP",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKgUKP",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8932,
+			"friends_count": 122,
+			"listed_count": 601,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4527,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60658,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1528570148",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Aug 07 21:05:03 +0000 2018",
+			"id": 1026937287760904200,
+			"id_str": "1026937287760904193",
+			"text": "This breastfeeding mom who was told to 'cover up' at a restaurant had a hilarious response https://t.co/S7Z0Yhn51A https://t.co/ux8GAZFQIz",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/S7Z0Yhn51A",
+						"expanded_url": "https://yhoo.it/2MexpY8",
+						"display_url": "yhoo.it/2MexpY8",
+						"indices": [
+							91,
+							114
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1026937286049452000,
+						"id_str": "1026937286049452032",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/media/DkBqBU2U0AA1B83.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DkBqBU2U0AA1B83.jpg",
+						"url": "https://t.co/ux8GAZFQIz",
+						"display_url": "pic.twitter.com/ux8GAZFQIz",
+						"expanded_url": "https://twitter.com/Yahoo/status/1026937287760904193/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 720,
+								"h": 960,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 960,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1026937286049452000,
+						"id_str": "1026937286049452032",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/media/DkBqBU2U0AA1B83.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DkBqBU2U0AA1B83.jpg",
+						"url": "https://t.co/ux8GAZFQIz",
+						"display_url": "pic.twitter.com/ux8GAZFQIz",
+						"expanded_url": "https://twitter.com/Yahoo/status/1026937287760904193/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 720,
+								"h": 960,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 960,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19380829,
+				"id_str": "19380829",
+				"name": "Yahoo",
+				"screen_name": "Yahoo",
+				"location": "Sunnyvale CA",
+				"description": "Yahoo's official Twitter, sharing the best of our network. For email help: @YahooCare.",
+				"url": "http://t.co/PpRLXHyT0n",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/PpRLXHyT0n",
+								"expanded_url": "http://www.yahoo.com",
+								"display_url": "yahoo.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1448356,
+				"friends_count": 8046,
+				"listed_count": 9191,
+				"created_at": "Fri Jan 23 04:14:41 +0000 2009",
+				"favourites_count": 1290,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 94983,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "400090",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/747326716746444800/IRfRHRaE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/747326716746444800/IRfRHRaE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19380829/1501610237",
+				"profile_link_color": "400090",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDCBE6",
+				"profile_text_color": "3D1957",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 23,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Aug 07 20:17:01 +0000 2018",
 		"id": 1026925199369941000,
 		"id_str": "1026925199369940994",
