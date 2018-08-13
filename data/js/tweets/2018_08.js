@@ -1,6 +1,399 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Mon Aug 13 17:45:48 +0000 2018",
+		"id": 1029061469479022600,
+		"id_str": "1029061469479022595",
+		"text": "Deze wil ik als zeefdruk aan de muur hangen. \n\nDe comic dus hè. \n\nAls ik Nellekes tweets thuis aan de muur ga hange… https://t.co/estAeDXv2U",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/estAeDXv2U",
+					"expanded_url": "https://twitter.com/i/web/status/1029061469479022595",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | https://t.co/bys0LKyw9p and https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKyw9p",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								93,
+								116
+							]
+						},
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8928,
+			"friends_count": 125,
+			"listed_count": 600,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4547,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60687,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1528570148",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1029052956350533600,
+		"quoted_status_id_str": "1029052956350533632",
+		"quoted_status": {
+			"created_at": "Mon Aug 13 17:11:58 +0000 2018",
+			"id": 1029052956350533600,
+			"id_str": "1029052956350533632",
+			"text": "Hebbes! https://t.co/6YHcT4ZPwj @thijsvandertuin vond hem voor me. Ik moet steeds aan deze comic denken. Zo confron… https://t.co/72rQ6rPTBd",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "thijsvandertuin",
+						"name": "Thijs van der Tuin",
+						"id": 23738874,
+						"id_str": "23738874",
+						"indices": [
+							32,
+							48
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/6YHcT4ZPwj",
+						"expanded_url": "http://shencomix.com/post/91042216689/we-go-forward-image-twitter-facebook",
+						"display_url": "shencomix.com/post/910422166…",
+						"indices": [
+							8,
+							31
+						]
+					},
+					{
+						"url": "https://t.co/72rQ6rPTBd",
+						"expanded_url": "https://twitter.com/i/web/status/1029052956350533632",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+			"in_reply_to_status_id": 1029051350913560600,
+			"in_reply_to_status_id_str": "1029051350913560578",
+			"in_reply_to_user_id": 6850052,
+			"in_reply_to_user_id_str": "6850052",
+			"in_reply_to_screen_name": "Nelleke",
+			"user": {
+				"id": 6850052,
+				"id_str": "6850052",
+				"name": "Nelleke Poorthuis",
+				"screen_name": "Nelleke",
+				"location": "Utrecht, The Netherlands",
+				"description": "Blogt op @hartjeutrecht - werkt bij @Omdenken - maakt @TrustNobodyCast  - speelt bij @IntraMintra - loopt best hard - nieuwsgierig - fotograaf - geocacher",
+				"url": "https://t.co/vbH6jjg3ps",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vbH6jjg3ps",
+								"expanded_url": "http://hartjeutrecht.com",
+								"display_url": "hartjeutrecht.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1888,
+				"friends_count": 294,
+				"listed_count": 60,
+				"created_at": "Sat Jun 16 09:43:10 +0000 2007",
+				"favourites_count": 1883,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 55489,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B4FAD8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/956945171945533446/7yZ9nkGZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/956945171945533446/7yZ9nkGZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/6850052/1469042130",
+				"profile_link_color": "0BB884",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
+		"created_at": "Mon Aug 13 17:42:28 +0000 2018",
+		"id": 1029060630878318600,
+		"id_str": "1029060630878318599",
+		"text": "@pleitschrijver @teacher_rick Dank je. Als ik de recente tweets van @trouw zie, staan de meeste replies juist bij d… https://t.co/QQJBvCxLwe",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pleitschrijver",
+					"name": "Roxane van Iperen",
+					"id": 598491240,
+					"id_str": "598491240",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "teacher_rick",
+					"name": "Rick",
+					"id": 14418620,
+					"id_str": "14418620",
+					"indices": [
+						16,
+						29
+					]
+				},
+				{
+					"screen_name": "trouw",
+					"name": "Trouw",
+					"id": 3103511,
+					"id_str": "3103511",
+					"indices": [
+						68,
+						74
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QQJBvCxLwe",
+					"expanded_url": "https://twitter.com/i/web/status/1029060630878318599",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": 1029056780532363300,
+		"in_reply_to_status_id_str": "1029056780532363264",
+		"in_reply_to_user_id": 598491240,
+		"in_reply_to_user_id_str": "598491240",
+		"in_reply_to_screen_name": "pleitschrijver",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | https://t.co/bys0LKyw9p and https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKyw9p",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								93,
+								116
+							]
+						},
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8928,
+			"friends_count": 125,
+			"listed_count": 600,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4547,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60687,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1528570148",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Mon Aug 13 07:14:23 +0000 2018",
 		"id": 1028902569127694300,
 		"id_str": "1028902569127694336",
