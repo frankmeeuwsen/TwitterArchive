@@ -1,6 +1,400 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Tue Aug 28 18:03:55 +0000 2018",
+		"id": 1034501850400215000,
+		"id_str": "1034501850400215040",
+		"text": "@liekelamb Dat nieuwe netwerk is er al hoor. https://t.co/rT8cJGXL9Z",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "liekelamb",
+					"name": "Lieke Lamb 💙",
+					"id": 12790082,
+					"id_str": "12790082",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rT8cJGXL9Z",
+					"expanded_url": "http://joinmastodon.org/",
+					"display_url": "joinmastodon.org",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1034499617486987300,
+		"in_reply_to_status_id_str": "1034499617486987264",
+		"in_reply_to_user_id": 12790082,
+		"in_reply_to_user_id_str": "12790082",
+		"in_reply_to_screen_name": "liekelamb",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | https://t.co/bys0LKyw9p and https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKyw9p",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								93,
+								116
+							]
+						},
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8934,
+			"friends_count": 147,
+			"listed_count": 600,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4622,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60771,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
+		"created_at": "Tue Aug 28 17:29:17 +0000 2018",
+		"id": 1034493132442951700,
+		"id_str": "1034493132442951680",
+		"text": "RT @jsmooth995: The code for the bathroom at this Starbucks is 90210 which the young barista passed on matter-of-factly as \"nine zero two o…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jsmooth995",
+					"name": "jay smooth",
+					"id": 817113,
+					"id_str": "817113",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | https://t.co/bys0LKyw9p and https://t.co/7xQ0m9WQVH",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKyw9p",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								93,
+								116
+							]
+						},
+						{
+							"url": "https://t.co/7xQ0m9WQVH",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8934,
+			"friends_count": 147,
+			"listed_count": 600,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4622,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60771,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Aug 28 01:57:22 +0000 2018",
+			"id": 1034258609863970800,
+			"id_str": "1034258609863970816",
+			"text": "The code for the bathroom at this Starbucks is 90210 which the young barista passed on matter-of-factly as \"nine ze… https://t.co/IX51dDeohC",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/IX51dDeohC",
+						"expanded_url": "https://twitter.com/i/web/status/1034258609863970816",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 817113,
+				"id_str": "817113",
+				"name": "jay smooth",
+				"screen_name": "jsmooth995",
+				"location": "New York, NY",
+				"description": "I do hip-hop radio, and make videos for https://t.co/5VBu2IQSbM, Crash Course Media Literacy, etc.   jaysmoothbooking@gmail.com",
+				"url": "https://t.co/GJvKBjU84U",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/GJvKBjU84U",
+								"expanded_url": "http://www.patreon.com/illdoctrine",
+								"display_url": "patreon.com/illdoctrine",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/5VBu2IQSbM",
+								"expanded_url": "http://illdoctrine.com",
+								"display_url": "illdoctrine.com",
+								"indices": [
+									40,
+									63
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 63109,
+				"friends_count": 8669,
+				"listed_count": 2125,
+				"created_at": "Wed Mar 07 04:48:06 +0000 2007",
+				"favourites_count": 17751,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 17063,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/783012124490604545/RO_l3vA9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/783012124490604545/RO_l3vA9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/817113/1534449026",
+				"profile_link_color": "0A0100",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "01a9a39529b27f36",
+				"url": "https://api.twitter.com/1.1/geo/id/01a9a39529b27f36.json",
+				"place_type": "city",
+				"name": "Manhattan",
+				"full_name": "Manhattan, NY",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-74.026675,
+								40.683935
+							],
+							[
+								-73.910408,
+								40.683935
+							],
+							[
+								-73.910408,
+								40.877483
+							],
+							[
+								-74.026675,
+								40.877483
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3296,
+			"favorite_count": 30632,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3296,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Aug 28 13:56:41 +0000 2018",
 		"id": 1034439631213879300,
 		"id_str": "1034439631213879297",
