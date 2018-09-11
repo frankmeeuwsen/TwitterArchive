@@ -1,6 +1,589 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Tue Sep 11 05:59:10 +0000 2018",
+		"id": 1039392887908102100,
+		"id_str": "1039392887908102145",
+		"text": "RT @juliaferraioli: You know it's only a matter of time before your intelligent refrigerator communicates with your intelligent toilet. The…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "juliaferraioli",
+					"name": "julia ferraioli",
+					"id": 16597587,
+					"id_str": "16597587",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | https://t.co/bys0LKyw9p and https://t.co/4q8wDtyw6y",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKyw9p",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								93,
+								116
+							]
+						},
+						{
+							"url": "https://t.co/4q8wDtyw6y",
+							"expanded_url": "https://me.frankmeeuwsen.xyz/@frank",
+							"display_url": "me.frankmeeuwsen.xyz/@frank",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8942,
+			"friends_count": 151,
+			"listed_count": 599,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4649,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60767,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Sep 10 21:00:26 +0000 2018",
+			"id": 1039257312526041100,
+			"id_str": "1039257312526041088",
+			"text": "You know it's only a matter of time before your intelligent refrigerator communicates with your intelligent toilet.… https://t.co/atpCPdGENR",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/atpCPdGENR",
+						"expanded_url": "https://twitter.com/i/web/status/1039257312526041088",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16597587,
+				"id_str": "16597587",
+				"name": "julia ferraioli",
+				"screen_name": "juliaferraioli",
+				"location": "Washington, DC",
+				"description": "Doing #OpenSource-y stuff @Google. Account my own, sometimes managed by my dog. She/her. Contact: me@juliaferraioli.com",
+				"url": "https://t.co/e3H5JaELkl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/e3H5JaELkl",
+								"expanded_url": "https://juliaferraioli.com/blog",
+								"display_url": "juliaferraioli.com/blog",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10274,
+				"friends_count": 1730,
+				"listed_count": 431,
+				"created_at": "Sun Oct 05 01:43:10 +0000 2008",
+				"favourites_count": 32120,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 40226,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1023607536530989056/9Euw7-kF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023607536530989056/9Euw7-kF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16597587/1459719698",
+				"profile_link_color": "D02B55",
+				"profile_sidebar_border_color": "829D5E",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 122,
+			"favorite_count": 526,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 122,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Sep 11 05:58:06 +0000 2018",
+		"id": 1039392620521246700,
+		"id_str": "1039392620521246720",
+		"text": "RT @Msummerslowe: I laughed at this way too hard. https://t.co/Tejtz5EG83",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Msummerslowe",
+					"name": "Miranda Summers Lowe",
+					"id": 791771957964312600,
+					"id_str": "791771957964312576",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1039133945319903200,
+					"id_str": "1039133945319903233",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/Dmu-0VTX0AEc7G1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dmu-0VTX0AEc7G1.jpg",
+					"url": "https://t.co/Tejtz5EG83",
+					"display_url": "pic.twitter.com/Tejtz5EG83",
+					"expanded_url": "https://twitter.com/Msummerslowe/status/1039133949145034752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 600,
+							"h": 416,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 416,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 416,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1039133949145034800,
+					"source_status_id_str": "1039133949145034752",
+					"source_user_id": 791771957964312600,
+					"source_user_id_str": "791771957964312576"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1039133945319903200,
+					"id_str": "1039133945319903233",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/Dmu-0VTX0AEc7G1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dmu-0VTX0AEc7G1.jpg",
+					"url": "https://t.co/Tejtz5EG83",
+					"display_url": "pic.twitter.com/Tejtz5EG83",
+					"expanded_url": "https://twitter.com/Msummerslowe/status/1039133949145034752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 600,
+							"h": 416,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 416,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 416,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1039133949145034800,
+					"source_status_id_str": "1039133949145034752",
+					"source_user_id": 791771957964312600,
+					"source_user_id_str": "791771957964312576"
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | https://t.co/bys0LKyw9p and https://t.co/4q8wDtyw6y",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKyw9p",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								93,
+								116
+							]
+						},
+						{
+							"url": "https://t.co/4q8wDtyw6y",
+							"expanded_url": "https://me.frankmeeuwsen.xyz/@frank",
+							"display_url": "me.frankmeeuwsen.xyz/@frank",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8942,
+			"friends_count": 151,
+			"listed_count": 599,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4649,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60767,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Sep 10 12:50:14 +0000 2018",
+			"id": 1039133949145034800,
+			"id_str": "1039133949145034752",
+			"text": "I laughed at this way too hard. https://t.co/Tejtz5EG83",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1039133945319903200,
+						"id_str": "1039133945319903233",
+						"indices": [
+							32,
+							55
+						],
+						"media_url": "http://pbs.twimg.com/media/Dmu-0VTX0AEc7G1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dmu-0VTX0AEc7G1.jpg",
+						"url": "https://t.co/Tejtz5EG83",
+						"display_url": "pic.twitter.com/Tejtz5EG83",
+						"expanded_url": "https://twitter.com/Msummerslowe/status/1039133949145034752/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 600,
+								"h": 416,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 600,
+								"h": 416,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 416,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1039133945319903200,
+						"id_str": "1039133945319903233",
+						"indices": [
+							32,
+							55
+						],
+						"media_url": "http://pbs.twimg.com/media/Dmu-0VTX0AEc7G1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dmu-0VTX0AEc7G1.jpg",
+						"url": "https://t.co/Tejtz5EG83",
+						"display_url": "pic.twitter.com/Tejtz5EG83",
+						"expanded_url": "https://twitter.com/Msummerslowe/status/1039133949145034752/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 600,
+								"h": 416,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 600,
+								"h": 416,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 416,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 791771957964312600,
+				"id_str": "791771957964312576",
+				"name": "Miranda Summers Lowe",
+				"screen_name": "Msummerslowe",
+				"location": "Washington, DC",
+				"description": "Military curator @amhistorymuseum Smithsonian, Soldier @nationalguard, permanent tourist. @BrownUniversity @WilliamAndMary @IndianaAcademy. Opinions are my own.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3850,
+				"friends_count": 4975,
+				"listed_count": 69,
+				"created_at": "Thu Oct 27 22:42:00 +0000 2016",
+				"favourites_count": 12410,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6003,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/970751681792217090/M1cSSI_3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/970751681792217090/M1cSSI_3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/791771957964312576/1505571734",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10028,
+			"favorite_count": 45810,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 10028,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Sep 10 15:03:04 +0000 2018",
 		"id": 1039167376976224300,
 		"id_str": "1039167376976224256",
