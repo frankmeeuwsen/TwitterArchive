@@ -1,6 +1,318 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Wed Sep 12 06:19:27 +0000 2018",
+		"id": 1039760381747626000,
+		"id_str": "1039760381747625989",
+		"text": "Oh, dat zou je aan @TheNextWeb of @Boris moeten vragen. Ik ga niet over de verdeling van hashtags op Twitter en ik… https://t.co/dH7UUz9TBd",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheNextWeb",
+					"name": "TNW",
+					"id": 10876852,
+					"id_str": "10876852",
+					"indices": [
+						19,
+						30
+					]
+				},
+				{
+					"screen_name": "Boris",
+					"name": "Boris @ TNW",
+					"id": 17463,
+					"id_str": "17463",
+					"indices": [
+						34,
+						40
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/dH7UUz9TBd",
+					"expanded_url": "https://twitter.com/i/web/status/1039760381747625989",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | https://t.co/bys0LKyw9p and https://t.co/4q8wDtyw6y",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKyw9p",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								93,
+								116
+							]
+						},
+						{
+							"url": "https://t.co/4q8wDtyw6y",
+							"expanded_url": "https://me.frankmeeuwsen.xyz/@frank",
+							"display_url": "me.frankmeeuwsen.xyz/@frank",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8940,
+			"friends_count": 150,
+			"listed_count": 598,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4649,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60784,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1039752528689332200,
+		"quoted_status_id_str": "1039752528689332231",
+		"quoted_status": {
+			"created_at": "Wed Sep 12 05:48:15 +0000 2018",
+			"id": 1039752528689332200,
+			"id_str": "1039752528689332231",
+			"text": "@frankmeeuwsen @TheNextWeb @Boris Ha Frank, wij van @tekstnet hadden gisteren ons tweejaarlijkse congres Tekstnetwe… https://t.co/FjfwmTtVu4",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "frankmeeuwsen",
+						"name": "Frank Meeuwsen",
+						"id": 816203,
+						"id_str": "816203",
+						"indices": [
+							0,
+							14
+						]
+					},
+					{
+						"screen_name": "TheNextWeb",
+						"name": "TNW",
+						"id": 10876852,
+						"id_str": "10876852",
+						"indices": [
+							15,
+							26
+						]
+					},
+					{
+						"screen_name": "Boris",
+						"name": "Boris @ TNW",
+						"id": 17463,
+						"id_str": "17463",
+						"indices": [
+							27,
+							33
+						]
+					},
+					{
+						"screen_name": "tekstnet",
+						"name": "Tekstnet",
+						"id": 43105045,
+						"id_str": "43105045",
+						"indices": [
+							52,
+							61
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/FjfwmTtVu4",
+						"expanded_url": "https://twitter.com/i/web/status/1039752528689332231",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1039445527786676200,
+			"in_reply_to_status_id_str": "1039445527786676225",
+			"in_reply_to_user_id": 816203,
+			"in_reply_to_user_id_str": "816203",
+			"in_reply_to_screen_name": "frankmeeuwsen",
+			"user": {
+				"id": 66987494,
+				"id_str": "66987494",
+				"name": "Marèse Peters 🎈",
+				"screen_name": "maresep",
+				"location": "Oegstgeest",
+				"description": "overmatig uitroeptekengebruiker | tekstschrijver @ https://t.co/JDtNIazg6T | opperhoofd @ https://t.co/24LImm0z0p | eigenwijs @ https://t.co/zsgihxEEAd | groupie | flutmoeder",
+				"url": "https://t.co/3VzVMzvppd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/3VzVMzvppd",
+								"expanded_url": "http://www.tekstbureaustreep.nl",
+								"display_url": "tekstbureaustreep.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/JDtNIazg6T",
+								"expanded_url": "http://tekstbureaustreep.nl",
+								"display_url": "tekstbureaustreep.nl",
+								"indices": [
+									51,
+									74
+								]
+							},
+							{
+								"url": "https://t.co/24LImm0z0p",
+								"expanded_url": "http://tekstnet.nl",
+								"display_url": "tekstnet.nl",
+								"indices": [
+									90,
+									113
+								]
+							},
+							{
+								"url": "https://t.co/zsgihxEEAd",
+								"expanded_url": "http://firmastreep.nl",
+								"display_url": "firmastreep.nl",
+								"indices": [
+									128,
+									151
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 905,
+				"friends_count": 160,
+				"listed_count": 57,
+				"created_at": "Wed Aug 19 12:34:24 +0000 2009",
+				"favourites_count": 6110,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 43263,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "D1C9D1",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/717781255497101313/glzPelLz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/717781255497101313/glzPelLz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/66987494/1510130727",
+				"profile_link_color": "990000",
+				"profile_sidebar_border_color": "829D5E",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Tue Sep 11 22:21:18 +0000 2018",
 		"id": 1039640050777161700,
 		"id_str": "1039640050777161728",
