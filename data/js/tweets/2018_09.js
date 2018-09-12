@@ -1,6 +1,476 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Wed Sep 12 11:11:25 +0000 2018",
+		"id": 1039833858043199500,
+		"id_str": "1039833858043199493",
+		"text": "RT @bitsoffreedom: Er is gestemd op nieuwe wetgeving rond auteursrecht. Platforms worden met de wet verantwoordelijk voor wat jij online pl…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bitsoffreedom",
+					"name": "Bits of Freedom",
+					"id": 55914675,
+					"id_str": "55914675",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | https://t.co/bys0LKyw9p and https://t.co/4q8wDtyw6y",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKyw9p",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								93,
+								116
+							]
+						},
+						{
+							"url": "https://t.co/4q8wDtyw6y",
+							"expanded_url": "https://me.frankmeeuwsen.xyz/@frank",
+							"display_url": "me.frankmeeuwsen.xyz/@frank",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8941,
+			"friends_count": 150,
+			"listed_count": 598,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4651,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60791,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Sep 12 11:07:48 +0000 2018",
+			"id": 1039832947417931800,
+			"id_str": "1039832947417931776",
+			"text": "Er is gestemd op nieuwe wetgeving rond auteursrecht. Platforms worden met de wet verantwoordelijk voor wat jij onli… https://t.co/d9yu5avGIU",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/d9yu5avGIU",
+						"expanded_url": "https://twitter.com/i/web/status/1039832947417931776",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 55914675,
+				"id_str": "55914675",
+				"name": "Bits of Freedom",
+				"screen_name": "bitsoffreedom",
+				"location": "Amsterdam, Nederland",
+				"description": "Bits of Freedom komt op voor jouw internetvrijheid. https://t.co/UdSyxzU7fU Volg onze nieuwsbrief voor nieuws en tips https://t.co/6wO8zIwz2H",
+				"url": "https://t.co/cBTYaeqCX8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/cBTYaeqCX8",
+								"expanded_url": "http://www.bof.nl",
+								"display_url": "bof.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/UdSyxzU7fU",
+								"expanded_url": "https://www.bof.nl",
+								"display_url": "bof.nl",
+								"indices": [
+									52,
+									75
+								]
+							},
+							{
+								"url": "https://t.co/6wO8zIwz2H",
+								"expanded_url": "http://www.bof.nl/volg-ons/",
+								"display_url": "bof.nl/volg-ons/",
+								"indices": [
+									118,
+									141
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 29224,
+				"friends_count": 1050,
+				"listed_count": 1082,
+				"created_at": "Sat Jul 11 19:56:18 +0000 2009",
+				"favourites_count": 1727,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 25275,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/959024044191428609/d_l3GvoY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/959024044191428609/d_l3GvoY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/55914675/1533826384",
+				"profile_link_color": "028C9B",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 28,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "nl"
+	},
+	{
+		"created_at": "Wed Sep 12 11:10:26 +0000 2018",
+		"id": 1039833609153208300,
+		"id_str": "1039833609153208325",
+		"text": "Oef...dit klinkt niet goed. Ik ben heel benieuwd hoe dit in de praktijk gaat werken. Tevens benieuwd naar meningen… https://t.co/S38DBMbiYs",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/S38DBMbiYs",
+					"expanded_url": "https://twitter.com/i/web/status/1039833609153208325",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | https://t.co/bys0LKyw9p and https://t.co/4q8wDtyw6y",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKyw9p",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								93,
+								116
+							]
+						},
+						{
+							"url": "https://t.co/4q8wDtyw6y",
+							"expanded_url": "https://me.frankmeeuwsen.xyz/@frank",
+							"display_url": "me.frankmeeuwsen.xyz/@frank",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8941,
+			"friends_count": 150,
+			"listed_count": 598,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4651,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60791,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1039830405942263800,
+		"quoted_status_id_str": "1039830405942263808",
+		"quoted_status": {
+			"created_at": "Wed Sep 12 10:57:42 +0000 2018",
+			"id": 1039830405942263800,
+			"id_str": "1039830405942263808",
+			"text": "Article 13 vote: The European Parliament endorses #uploadfilters for all but the smallest sites and apps. Anything… https://t.co/KLitzMdl8d",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "uploadfilters",
+						"indices": [
+							50,
+							64
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/KLitzMdl8d",
+						"expanded_url": "https://twitter.com/i/web/status/1039830405942263808",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14861745,
+				"id_str": "14861745",
+				"name": "Julia Reda",
+				"screen_name": "Senficon",
+				"location": "Europe",
+				"description": "MEP for @Piratenpartei and the European Pirate Party (PPEU) | Vice-Chair of @GreensEP group",
+				"url": "https://t.co/MZuu3rxMEA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MZuu3rxMEA",
+								"expanded_url": "http://juliareda.eu",
+								"display_url": "juliareda.eu",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 33083,
+				"friends_count": 3687,
+				"listed_count": 1219,
+				"created_at": "Wed May 21 21:15:36 +0000 2008",
+				"favourites_count": 15965,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 44838,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "8B542B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/637016870638350336/QrtPmoul_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/637016870638350336/QrtPmoul_normal.jpg",
+				"profile_link_color": "9D582E",
+				"profile_sidebar_border_color": "D9B17E",
+				"profile_sidebar_fill_color": "EADEAA",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 415,
+			"favorite_count": 149,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Wed Sep 12 08:47:51 +0000 2018",
 		"id": 1039797728040169500,
 		"id_str": "1039797728040169472",
