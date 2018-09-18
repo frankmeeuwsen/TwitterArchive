@@ -1,6 +1,495 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Tue Sep 18 14:33:43 +0000 2018",
+		"id": 1042059094197198800,
+		"id_str": "1042059094197198849",
+		"text": "RT @PersianRose1: Jesus caught on camera: https://t.co/yyQ6Rhh4TX",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PersianRose1",
+					"name": "Persian Rose",
+					"id": 940832767,
+					"id_str": "940832767",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1042022813941391400,
+					"id_str": "1042022813941391360",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1042022813941391360/pu/img/OHe26euYdg0t0Qoq.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1042022813941391360/pu/img/OHe26euYdg0t0Qoq.jpg",
+					"url": "https://t.co/yyQ6Rhh4TX",
+					"display_url": "pic.twitter.com/yyQ6Rhh4TX",
+					"expanded_url": "https://twitter.com/PersianRose1/status/1042023497004806144/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1042023497004806100,
+					"source_status_id_str": "1042023497004806144",
+					"source_user_id": 940832767,
+					"source_user_id_str": "940832767"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1042022813941391400,
+					"id_str": "1042022813941391360",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1042022813941391360/pu/img/OHe26euYdg0t0Qoq.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1042022813941391360/pu/img/OHe26euYdg0t0Qoq.jpg",
+					"url": "https://t.co/yyQ6Rhh4TX",
+					"display_url": "pic.twitter.com/yyQ6Rhh4TX",
+					"expanded_url": "https://twitter.com/PersianRose1/status/1042023497004806144/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1042023497004806100,
+					"source_status_id_str": "1042023497004806144",
+					"source_user_id": 940832767,
+					"source_user_id_str": "940832767",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 30047,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1042022813941391360/pu/vid/480x480/PZErR0UcLOXsrEfL.mp4?tag=5"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1042022813941391360/pu/vid/240x240/qWSJuZVyLZU5ve7P.mp4?tag=5"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1042022813941391360/pu/pl/4nl6WUbd8oVNLEwt.m3u8?tag=5"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 940832767,
+							"id_str": "940832767",
+							"name": "Persian Rose",
+							"screen_name": "PersianRose1",
+							"location": "5 admins scattered in US & EU",
+							"description": "Mostly funny stuff that I like. Mom,Orthopedic surgeon,wife,#exmuslim #Iranian-#American #atheist .\nAccount managed by me & my secretary and others.",
+							"url": "https://t.co/EaUN6fxDN8",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/EaUN6fxDN8",
+											"expanded_url": "https://www.facebook.com/IAAMT?ref=hl",
+											"display_url": "facebook.com/IAAMT?ref=hl",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 29427,
+							"friends_count": 24,
+							"listed_count": 776,
+							"created_at": "Sun Nov 11 08:26:50 +0000 2012",
+							"favourites_count": 36217,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 83034,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "3B94D9",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/968578291878699008/Sfmc1Prs_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/968578291878699008/Sfmc1Prs_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/940832767/1405860604",
+							"profile_link_color": "19CF86",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | https://t.co/bys0LKyw9p and https://t.co/4q8wDtyw6y",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKyw9p",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								93,
+								116
+							]
+						},
+						{
+							"url": "https://t.co/4q8wDtyw6y",
+							"expanded_url": "https://me.frankmeeuwsen.xyz/@frank",
+							"display_url": "me.frankmeeuwsen.xyz/@frank",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8937,
+			"friends_count": 152,
+			"listed_count": 600,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4657,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60775,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Sep 18 12:12:16 +0000 2018",
+			"id": 1042023497004806100,
+			"id_str": "1042023497004806144",
+			"text": "Jesus caught on camera: https://t.co/yyQ6Rhh4TX",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1042022813941391400,
+						"id_str": "1042022813941391360",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1042022813941391360/pu/img/OHe26euYdg0t0Qoq.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1042022813941391360/pu/img/OHe26euYdg0t0Qoq.jpg",
+						"url": "https://t.co/yyQ6Rhh4TX",
+						"display_url": "pic.twitter.com/yyQ6Rhh4TX",
+						"expanded_url": "https://twitter.com/PersianRose1/status/1042023497004806144/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1042022813941391400,
+						"id_str": "1042022813941391360",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1042022813941391360/pu/img/OHe26euYdg0t0Qoq.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1042022813941391360/pu/img/OHe26euYdg0t0Qoq.jpg",
+						"url": "https://t.co/yyQ6Rhh4TX",
+						"display_url": "pic.twitter.com/yyQ6Rhh4TX",
+						"expanded_url": "https://twitter.com/PersianRose1/status/1042023497004806144/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 30047,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1042022813941391360/pu/vid/480x480/PZErR0UcLOXsrEfL.mp4?tag=5"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1042022813941391360/pu/vid/240x240/qWSJuZVyLZU5ve7P.mp4?tag=5"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1042022813941391360/pu/pl/4nl6WUbd8oVNLEwt.m3u8?tag=5"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 940832767,
+				"id_str": "940832767",
+				"name": "Persian Rose",
+				"screen_name": "PersianRose1",
+				"location": "5 admins scattered in US & EU",
+				"description": "Mostly funny stuff that I like. Mom,Orthopedic surgeon,wife,#exmuslim #Iranian-#American #atheist .\nAccount managed by me & my secretary and others.",
+				"url": "https://t.co/EaUN6fxDN8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/EaUN6fxDN8",
+								"expanded_url": "https://www.facebook.com/IAAMT?ref=hl",
+								"display_url": "facebook.com/IAAMT?ref=hl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 29427,
+				"friends_count": 24,
+				"listed_count": 776,
+				"created_at": "Sun Nov 11 08:26:50 +0000 2012",
+				"favourites_count": 36217,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 83034,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "3B94D9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/968578291878699008/Sfmc1Prs_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/968578291878699008/Sfmc1Prs_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/940832767/1405860604",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 292,
+			"favorite_count": 643,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 292,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Sep 18 11:27:59 +0000 2018",
 		"id": 1042012354689622000,
 		"id_str": "1042012354689622016",
