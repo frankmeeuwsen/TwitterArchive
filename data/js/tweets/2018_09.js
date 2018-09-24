@@ -1,6 +1,361 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Mon Sep 24 10:54:37 +0000 2018",
+		"id": 1044178283653410800,
+		"id_str": "1044178283653410816",
+		"text": "RT @gvenk: Misschien een idee om PeerTube gewoon te gaan supporten? https://t.co/eB7qw6DNze https://t.co/OjCDzTXBHQ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gvenk",
+					"name": "Gerard van Enk",
+					"id": 1789221,
+					"id_str": "1789221",
+					"indices": [
+						3,
+						9
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/eB7qw6DNze",
+					"expanded_url": "https://joinpeertube.org/en/",
+					"display_url": "joinpeertube.org/en/",
+					"indices": [
+						68,
+						91
+					]
+				},
+				{
+					"url": "https://t.co/OjCDzTXBHQ",
+					"expanded_url": "https://twitter.com/tweakers/status/1044119412465262592",
+					"display_url": "twitter.com/tweakers/statu…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | https://t.co/bys0LKyw9p and https://t.co/4q8wDtyw6y",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKyw9p",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								93,
+								116
+							]
+						},
+						{
+							"url": "https://t.co/4q8wDtyw6y",
+							"expanded_url": "https://me.frankmeeuwsen.xyz/@frank",
+							"display_url": "me.frankmeeuwsen.xyz/@frank",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8933,
+			"friends_count": 151,
+			"listed_count": 600,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4667,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60707,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Sep 24 09:21:01 +0000 2018",
+			"id": 1044154728886751200,
+			"id_str": "1044154728886751232",
+			"text": "Misschien een idee om PeerTube gewoon te gaan supporten? https://t.co/eB7qw6DNze https://t.co/OjCDzTXBHQ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/eB7qw6DNze",
+						"expanded_url": "https://joinpeertube.org/en/",
+						"display_url": "joinpeertube.org/en/",
+						"indices": [
+							57,
+							80
+						]
+					},
+					{
+						"url": "https://t.co/OjCDzTXBHQ",
+						"expanded_url": "https://twitter.com/tweakers/status/1044119412465262592",
+						"display_url": "twitter.com/tweakers/statu…",
+						"indices": [
+							81,
+							104
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1789221,
+				"id_str": "1789221",
+				"name": "Gerard van Enk",
+				"screen_name": "gvenk",
+				"location": "Amsterdam, The Netherlands",
+				"description": "Developer/Amsterdam/IJburg",
+				"url": "https://t.co/VXtMo9X3pm",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/VXtMo9X3pm",
+								"expanded_url": "http://millionpieces.nl",
+								"display_url": "millionpieces.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3337,
+				"friends_count": 2521,
+				"listed_count": 192,
+				"created_at": "Wed Mar 21 20:04:40 +0000 2007",
+				"favourites_count": 3932,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 87252,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "23A8E1",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/983088076611358720/a-rk3SKX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/983088076611358720/a-rk3SKX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1789221/1475247624",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1044119412465262600,
+			"quoted_status_id_str": "1044119412465262592",
+			"quoted_status": {
+				"created_at": "Mon Sep 24 07:00:41 +0000 2018",
+				"id": 1044119412465262600,
+				"id_str": "1044119412465262592",
+				"text": "'Frankrijk en Duitsland moeten Europese YouTube-concurrent in gang zetten' https://t.co/4eWDPCs6eM",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/4eWDPCs6eM",
+							"expanded_url": "http://dlvr.it/Ql9Yvv",
+							"display_url": "dlvr.it/Ql9Yvv",
+							"indices": [
+								75,
+								98
+							]
+						}
+					]
+				},
+				"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 31080694,
+					"id_str": "31080694",
+					"name": "Tweakers",
+					"screen_name": "tweakers",
+					"location": "Amsterdam, Nederland",
+					"description": "De grootste technologie- en elektronicasite van Nederland en België. Wij stellen technologie op de proef.",
+					"url": "http://t.co/nd3dxjNdgl",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/nd3dxjNdgl",
+									"expanded_url": "http://tweakers.net",
+									"display_url": "tweakers.net",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 76867,
+					"friends_count": 24,
+					"listed_count": 1169,
+					"created_at": "Tue Apr 14 07:43:05 +0000 2009",
+					"favourites_count": 66,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 14376,
+					"lang": "nl",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "B10D36",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/592979020041564160/RYTzdn9l_normal.png",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/592979020041564160/RYTzdn9l_normal.png",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/31080694/1430212230",
+					"profile_link_color": "B10D36",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "C0DFEC",
+					"profile_text_color": "333333",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 0,
+				"favorite_count": 1,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "nl"
+			},
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1044119412465262600,
+		"quoted_status_id_str": "1044119412465262592",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Mon Sep 24 08:09:10 +0000 2018",
 		"id": 1044136646248198100,
 		"id_str": "1044136646248198145",
