@@ -1,6 +1,267 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Thu Oct 04 14:20:45 +0000 2018",
+		"id": 1047854035901014000,
+		"id_str": "1047854035901014018",
+		"text": "RT @ton_zylstra: As of today I’m running a personal instance of Mastodon. Find me there: https:/m.tzyl.nl/@ton #mastodon #fediverse",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "mastodon",
+					"indices": [
+						111,
+						120
+					]
+				},
+				{
+					"text": "fediverse",
+					"indices": [
+						121,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ton_zylstra",
+					"name": "Ton Zijlstra",
+					"id": 25049203,
+					"id_str": "25049203",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "ton",
+					"name": "ton lammertink",
+					"id": 271969332,
+					"id_str": "271969332",
+					"indices": [
+						106,
+						110
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | https://t.co/bys0LKyw9p and https://t.co/4q8wDtyw6y",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKyw9p",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								93,
+								116
+							]
+						},
+						{
+							"url": "https://t.co/4q8wDtyw6y",
+							"expanded_url": "https://me.frankmeeuwsen.xyz/@frank",
+							"display_url": "me.frankmeeuwsen.xyz/@frank",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8940,
+			"friends_count": 154,
+			"listed_count": 600,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4671,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60697,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Oct 04 14:06:20 +0000 2018",
+			"id": 1047850409166086100,
+			"id_str": "1047850409166086144",
+			"text": "As of today I’m running a personal instance of Mastodon. Find me there: https:/m.tzyl.nl/@ton #mastodon #fediverse",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "mastodon",
+						"indices": [
+							94,
+							103
+						]
+					},
+					{
+						"text": "fediverse",
+						"indices": [
+							104,
+							114
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ton",
+						"name": "ton lammertink",
+						"id": 271969332,
+						"id_str": "271969332",
+						"indices": [
+							89,
+							93
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 25049203,
+				"id_str": "25049203",
+				"name": "Ton Zijlstra",
+				"screen_name": "ton_zylstra",
+				"location": "The Netherlands",
+				"description": "Change, complexity, #opendata, #opengov, FabLab, Making, #IoT, learning, communities of practice, philosophy of technology. .eu",
+				"url": "https://t.co/mxPIeEaDtM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/mxPIeEaDtM",
+								"expanded_url": "https://www.zylstra.org/blog",
+								"display_url": "zylstra.org/blog",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1520,
+				"friends_count": 399,
+				"listed_count": 190,
+				"created_at": "Wed Mar 18 09:24:58 +0000 2009",
+				"favourites_count": 147,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4387,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/659398307081379840/pyAVq5hk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/659398307081379840/pyAVq5hk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/25049203/1446047749",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Oct 04 12:52:09 +0000 2018",
 		"id": 1047831741887643600,
 		"id_str": "1047831741887643648",
