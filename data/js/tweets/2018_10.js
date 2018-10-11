@@ -1,6 +1,548 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Thu Oct 11 08:25:27 +0000 2018",
+		"id": 1050301337362157600,
+		"id_str": "1050301337362157569",
+		"text": "RT @bananabillll: BRO OMG  https://t.co/cbifMI2Qwg",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bananabillll",
+					"name": "ⓋBananaBill🍌🍌🍌🍌",
+					"id": 2494636442,
+					"id_str": "2494636442",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1049219224298819600,
+					"id_str": "1049219224298819586",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1049219224298819586/pu/img/NYTLdAlGN5zClDa7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1049219224298819586/pu/img/NYTLdAlGN5zClDa7.jpg",
+					"url": "https://t.co/cbifMI2Qwg",
+					"display_url": "pic.twitter.com/cbifMI2Qwg",
+					"expanded_url": "https://twitter.com/AlbiDeak/status/1049219918800064512/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1049219918800064500,
+					"source_status_id_str": "1049219918800064512",
+					"source_user_id": 2165241247,
+					"source_user_id_str": "2165241247"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1049219224298819600,
+					"id_str": "1049219224298819586",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1049219224298819586/pu/img/NYTLdAlGN5zClDa7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1049219224298819586/pu/img/NYTLdAlGN5zClDa7.jpg",
+					"url": "https://t.co/cbifMI2Qwg",
+					"display_url": "pic.twitter.com/cbifMI2Qwg",
+					"expanded_url": "https://twitter.com/AlbiDeak/status/1049219918800064512/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1049219918800064500,
+					"source_status_id_str": "1049219918800064512",
+					"source_user_id": 2165241247,
+					"source_user_id_str": "2165241247",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 91680,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1049219224298819586/pu/vid/240x240/RyTd9YBPws1LhJ0A.mp4?tag=5"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1049219224298819586/pu/vid/720x720/zRSVYYz1y8w-tTpH.mp4?tag=5"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1049219224298819586/pu/vid/480x480/1fpEHgmGhtkt1UjH.mp4?tag=5"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1049219224298819586/pu/pl/foNR_aFZUzDqGiR7.m3u8?tag=5"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 2165241247,
+							"id_str": "2165241247",
+							"name": "Amazing Poppy",
+							"screen_name": "AlbiDeak",
+							"location": "Switzerland",
+							"description": "The brutal mass slaughters and slave trade of dolphins and whales  is a terrorism act against the right of life !!  #OpKillingBay #OpWhales #OpSeaWorld",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 2974,
+							"friends_count": 1660,
+							"listed_count": 95,
+							"created_at": "Wed Oct 30 18:16:14 +0000 2013",
+							"favourites_count": 26350,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 60763,
+							"lang": "de",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/799169188183113728/dQ3FJ3zt_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/799169188183113728/dQ3FJ3zt_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/2165241247/1443556465",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | https://t.co/bys0LKyw9p and https://t.co/4q8wDtyw6y",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKyw9p",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								93,
+								116
+							]
+						},
+						{
+							"url": "https://t.co/4q8wDtyw6y",
+							"expanded_url": "https://me.frankmeeuwsen.xyz/@frank",
+							"display_url": "me.frankmeeuwsen.xyz/@frank",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8976,
+			"friends_count": 158,
+			"listed_count": 600,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4696,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60719,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Oct 10 17:20:27 +0000 2018",
+			"id": 1050073589255422000,
+			"id_str": "1050073589255421953",
+			"text": "BRO OMG  https://t.co/cbifMI2Qwg",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1049219224298819600,
+						"id_str": "1049219224298819586",
+						"indices": [
+							9,
+							32
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1049219224298819586/pu/img/NYTLdAlGN5zClDa7.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1049219224298819586/pu/img/NYTLdAlGN5zClDa7.jpg",
+						"url": "https://t.co/cbifMI2Qwg",
+						"display_url": "pic.twitter.com/cbifMI2Qwg",
+						"expanded_url": "https://twitter.com/AlbiDeak/status/1049219918800064512/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1049219918800064500,
+						"source_status_id_str": "1049219918800064512",
+						"source_user_id": 2165241247,
+						"source_user_id_str": "2165241247"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1049219224298819600,
+						"id_str": "1049219224298819586",
+						"indices": [
+							9,
+							32
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1049219224298819586/pu/img/NYTLdAlGN5zClDa7.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1049219224298819586/pu/img/NYTLdAlGN5zClDa7.jpg",
+						"url": "https://t.co/cbifMI2Qwg",
+						"display_url": "pic.twitter.com/cbifMI2Qwg",
+						"expanded_url": "https://twitter.com/AlbiDeak/status/1049219918800064512/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1049219918800064500,
+						"source_status_id_str": "1049219918800064512",
+						"source_user_id": 2165241247,
+						"source_user_id_str": "2165241247",
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 91680,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1049219224298819586/pu/vid/240x240/RyTd9YBPws1LhJ0A.mp4?tag=5"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1049219224298819586/pu/vid/720x720/zRSVYYz1y8w-tTpH.mp4?tag=5"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1049219224298819586/pu/vid/480x480/1fpEHgmGhtkt1UjH.mp4?tag=5"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1049219224298819586/pu/pl/foNR_aFZUzDqGiR7.m3u8?tag=5"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 2165241247,
+								"id_str": "2165241247",
+								"name": "Amazing Poppy",
+								"screen_name": "AlbiDeak",
+								"location": "Switzerland",
+								"description": "The brutal mass slaughters and slave trade of dolphins and whales  is a terrorism act against the right of life !!  #OpKillingBay #OpWhales #OpSeaWorld",
+								"url": null,
+								"entities": {
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 2974,
+								"friends_count": 1660,
+								"listed_count": 95,
+								"created_at": "Wed Oct 30 18:16:14 +0000 2013",
+								"favourites_count": 26350,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": false,
+								"verified": false,
+								"statuses_count": 60763,
+								"lang": "de",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "C0DEED",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/799169188183113728/dQ3FJ3zt_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/799169188183113728/dQ3FJ3zt_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/2165241247/1443556465",
+								"profile_link_color": "1DA1F2",
+								"profile_sidebar_border_color": "C0DEED",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": true,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2494636442,
+				"id_str": "2494636442",
+				"name": "ⓋBananaBill🍌🍌🍌🍌",
+				"screen_name": "bananabillll",
+				"location": "Florida, USA",
+				"description": "VEGAN AF || FAU || SOFLO",
+				"url": "https://t.co/AtW0S6U4Gf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/AtW0S6U4Gf",
+								"expanded_url": "https://youtu.be/Ppw2aiy85cU",
+								"display_url": "youtu.be/Ppw2aiy85cU",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8425,
+				"friends_count": 1420,
+				"listed_count": 131,
+				"created_at": "Wed May 14 19:03:39 +0000 2014",
+				"favourites_count": 20823,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 14873,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1037569198602510336/o_N-hXO-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1037569198602510336/o_N-hXO-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2494636442/1533678480",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 943,
+			"favorite_count": 1004,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"is_quote_status": false,
+		"retweet_count": 943,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Thu Oct 11 08:18:45 +0000 2018",
 		"id": 1050299653005160400,
 		"id_str": "1050299653005160448",
