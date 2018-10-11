@@ -1,6 +1,716 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Thu Oct 11 15:52:15 +0000 2018",
+		"id": 1050413778955833300,
+		"id_str": "1050413778955833344",
+		"full_text": "RT @d_broekhuizen: Wie wil er lekker veel met mij samenwerken? Ik waarschuw nu alvast: (te gekke) rollercoaster gegarandeerd. Doorsturen =…",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DnPnfVTrzM",
+					"expanded_url": "https://twitter.com/thebestsocialNL/status/1049656434894487554",
+					"display_url": "twitter.com/thebestsocialN…",
+					"indices": [
+						128,
+						151
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | https://t.co/bys0LKyw9p and https://t.co/4q8wDtyw6y",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKyw9p",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								93,
+								116
+							]
+						},
+						{
+							"url": "https://t.co/4q8wDtyw6y",
+							"expanded_url": "https://me.frankmeeuwsen.xyz/@frank",
+							"display_url": "me.frankmeeuwsen.xyz/@frank",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8982,
+			"friends_count": 159,
+			"listed_count": 600,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4701,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60732,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Oct 11 15:03:45 +0000 2018",
+			"id": 1050401576240783400,
+			"id_str": "1050401576240783360",
+			"full_text": "Wie wil er lekker veel met mij samenwerken? Ik waarschuw nu alvast: (te gekke) rollercoaster gegarandeerd. Doorsturen = welkom. https://t.co/DnPnfVTrzM",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				127
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/DnPnfVTrzM",
+						"expanded_url": "https://twitter.com/thebestsocialNL/status/1049656434894487554",
+						"display_url": "twitter.com/thebestsocialN…",
+						"indices": [
+							128,
+							151
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 197426953,
+				"id_str": "197426953",
+				"name": "Diederik Broekhuizen",
+				"screen_name": "d_broekhuizen",
+				"location": "Amsterdam",
+				"description": "Vriendelijke reus met 'n obsessie voor ranglijstjes. Deelnemer @deslimstemens '18. The Best Social / @thebestsocialNL Media, #thebestsocialawards en Studio.",
+				"url": "https://t.co/syTNeDnUe7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/syTNeDnUe7",
+								"expanded_url": "http://thebest.social",
+								"display_url": "thebest.social",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2829,
+				"friends_count": 750,
+				"listed_count": 66,
+				"created_at": "Fri Oct 01 13:39:24 +0000 2010",
+				"favourites_count": 6380,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9943,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1043834951391739904/uhq_7TOV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1043834951391739904/uhq_7TOV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/197426953/1516873106",
+				"profile_link_color": "0FB1D1",
+				"profile_sidebar_border_color": "0FB1D1",
+				"profile_sidebar_fill_color": "FCFCFC",
+				"profile_text_color": "009999",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1049656434894487600,
+			"quoted_status_id_str": "1049656434894487554",
+			"quoted_status_permalink": {
+				"url": "https://t.co/DnPnfVTrzM",
+				"expanded": "https://twitter.com/thebestsocialNL/status/1049656434894487554",
+				"display": "twitter.com/thebestsocialN…"
+			},
+			"quoted_status": {
+				"created_at": "Tue Oct 09 13:42:50 +0000 2018",
+				"id": 1049656434894487600,
+				"id_str": "1049656434894487554",
+				"full_text": "VACATURE: Wij hebben een gloednieuwe job voor een commerciële held of heldin, die zich gaat focussen op alle relaties, sales en brand partnerships van The Best Social! 👉  https://t.co/7VvaPCah9o https://t.co/MNveXiTP4V",
+				"truncated": false,
+				"display_text_range": [
+					0,
+					194
+				],
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/7VvaPCah9o",
+							"expanded_url": "https://www.thebestsocialjobs.com/vacature/sales-partnership-bij-the-best-social/",
+							"display_url": "thebestsocialjobs.com/vacature/sales…",
+							"indices": [
+								171,
+								194
+							]
+						}
+					],
+					"media": [
+						{
+							"id": 1049656289058533400,
+							"id_str": "1049656289058533377",
+							"indices": [
+								195,
+								218
+							],
+							"media_url": "http://pbs.twimg.com/media/DpEg1WWWsAEVwBw.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DpEg1WWWsAEVwBw.jpg",
+							"url": "https://t.co/MNveXiTP4V",
+							"display_url": "pic.twitter.com/MNveXiTP4V",
+							"expanded_url": "https://twitter.com/thebestsocialNL/status/1049656434894487554/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 680,
+									"h": 356,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1200,
+									"h": 628,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 1200,
+									"h": 628,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 1049656289058533400,
+							"id_str": "1049656289058533377",
+							"indices": [
+								195,
+								218
+							],
+							"media_url": "http://pbs.twimg.com/media/DpEg1WWWsAEVwBw.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DpEg1WWWsAEVwBw.jpg",
+							"url": "https://t.co/MNveXiTP4V",
+							"display_url": "pic.twitter.com/MNveXiTP4V",
+							"expanded_url": "https://twitter.com/thebestsocialNL/status/1049656434894487554/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 680,
+									"h": 356,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1200,
+									"h": 628,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 1200,
+									"h": 628,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 1843622779,
+					"id_str": "1843622779",
+					"name": "The Best Social Media - NL",
+					"screen_name": "thebestsocialNL",
+					"location": "Amsterdam",
+					"description": "Onderdeel van The Best Social. Zoeklicht in de digitale chaos voor de meest bijzondere social content van bedrijven, personen & overige internethelden. Tip ons!",
+					"url": "https://t.co/tOHGUnZE0k",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/tOHGUnZE0k",
+									"expanded_url": "https://www.thebestsocial.media/nl/",
+									"display_url": "thebestsocial.media/nl/",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 18717,
+					"friends_count": 1257,
+					"listed_count": 179,
+					"created_at": "Mon Sep 09 10:31:13 +0000 2013",
+					"favourites_count": 9680,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 8981,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "FCF7B8",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/956438357986500608/HdjbxMaW_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/956438357986500608/HdjbxMaW_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/1843622779/1516876317",
+					"profile_link_color": "F26D7D",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 3,
+				"favorite_count": 9,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "nl"
+			},
+			"retweet_count": 8,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1049656434894487600,
+		"quoted_status_id_str": "1049656434894487554",
+		"quoted_status_permalink": {
+			"url": "https://t.co/DnPnfVTrzM",
+			"expanded": "https://twitter.com/thebestsocialNL/status/1049656434894487554",
+			"display": "twitter.com/thebestsocialN…"
+		},
+		"retweet_count": 8,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "nl",
+		"text": "RT @d_broekhuizen: Wie wil er lekker veel met mij samenwerken? Ik waarschuw nu alvast: (te gekke) rollercoaster gegarandeerd. Doorsturen =…"
+	},
+	{
+		"created_at": "Thu Oct 11 15:31:48 +0000 2018",
+		"id": 1050408633606033400,
+		"id_str": "1050408633606033409",
+		"full_text": "@HumphryJoey @roosvanvugt @WouterBlok @brechtjedeleij @annikavisser @jpschadde @gonniespijkstra @laram @OedipusBrewing Dus... https://t.co/wdf4vMdb5T",
+		"truncated": false,
+		"display_text_range": [
+			119,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HumphryJoey",
+					"name": "Humphry",
+					"id": 54028848,
+					"id_str": "54028848",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "roosvanvugt",
+					"name": "Roos van Vugt",
+					"id": 21687228,
+					"id_str": "21687228",
+					"indices": [
+						13,
+						25
+					]
+				},
+				{
+					"screen_name": "WouterBlok",
+					"name": "Wouter Blok",
+					"id": 9800112,
+					"id_str": "9800112",
+					"indices": [
+						26,
+						37
+					]
+				},
+				{
+					"screen_name": "brechtjedeleij",
+					"name": "brechtjedeleij",
+					"id": 9880322,
+					"id_str": "9880322",
+					"indices": [
+						38,
+						53
+					]
+				},
+				{
+					"screen_name": "annikavisser",
+					"name": "queen of sheba",
+					"id": 182800113,
+					"id_str": "182800113",
+					"indices": [
+						54,
+						67
+					]
+				},
+				{
+					"screen_name": "jpschadde",
+					"name": "Jean-Paul Schaddé van Dooren",
+					"id": 12789402,
+					"id_str": "12789402",
+					"indices": [
+						68,
+						78
+					]
+				},
+				{
+					"screen_name": "gonniespijkstra",
+					"name": "Gonnie Spijkstra",
+					"id": 7677082,
+					"id_str": "7677082",
+					"indices": [
+						79,
+						95
+					]
+				},
+				{
+					"screen_name": "laram",
+					"name": "Lara Ankersmit",
+					"id": 9605232,
+					"id_str": "9605232",
+					"indices": [
+						96,
+						102
+					]
+				},
+				{
+					"screen_name": "OedipusBrewing",
+					"name": "Oedipus Brewing",
+					"id": 443555908,
+					"id_str": "443555908",
+					"indices": [
+						103,
+						118
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1050408624760266800,
+					"id_str": "1050408624760266752",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/DpPNFDPXoAAMZAd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpPNFDPXoAAMZAd.jpg",
+					"url": "https://t.co/wdf4vMdb5T",
+					"display_url": "pic.twitter.com/wdf4vMdb5T",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1050408633606033409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1050408624760266800,
+					"id_str": "1050408624760266752",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/DpPNFDPXoAAMZAd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpPNFDPXoAAMZAd.jpg",
+					"url": "https://t.co/wdf4vMdb5T",
+					"display_url": "pic.twitter.com/wdf4vMdb5T",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1050408633606033409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1050403304184922100,
+		"in_reply_to_status_id_str": "1050403304184922112",
+		"in_reply_to_user_id": 54028848,
+		"in_reply_to_user_id_str": "54028848",
+		"in_reply_to_screen_name": "HumphryJoey",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | https://t.co/bys0LKyw9p and https://t.co/4q8wDtyw6y",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bys0LKyw9p",
+							"expanded_url": "http://micro.blog/frank",
+							"display_url": "micro.blog/frank",
+							"indices": [
+								93,
+								116
+							]
+						},
+						{
+							"url": "https://t.co/4q8wDtyw6y",
+							"expanded_url": "https://me.frankmeeuwsen.xyz/@frank",
+							"display_url": "me.frankmeeuwsen.xyz/@frank",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8982,
+			"friends_count": 159,
+			"listed_count": 600,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4701,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60732,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@HumphryJoey @roosvanvugt @WouterBlok @brechtjedeleij @annikavisser @jpschadde @gonniespijkstra @laram @OedipusBrewing Dus... https://t.co/wdf4vMdb5T"
+	},
+	{
 		"created_at": "Thu Oct 11 15:05:20 +0000 2018",
 		"id": 1050401971696480300,
 		"id_str": "1050401971696480256",
