@@ -1,6 +1,301 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Fri Oct 12 16:13:44 +0000 2018",
+		"id": 1050781572406931500,
+		"id_str": "1050781572406931456",
+		"full_text": "https://t.co/SZ0ds4tyBU goes lekker by the hand in the thread. https://t.co/4f9PPaJstp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SZ0ds4tyBU",
+					"expanded_url": "http://Bol.com",
+					"display_url": "Bol.com",
+					"indices": [
+						0,
+						23
+					]
+				},
+				{
+					"url": "https://t.co/4f9PPaJstp",
+					"expanded_url": "https://twitter.com/bol_com/status/1050326223619014656",
+					"display_url": "twitter.com/bol_com/status…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8984,
+			"friends_count": 159,
+			"listed_count": 600,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4716,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60755,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1050326223619014700,
+		"quoted_status_id_str": "1050326223619014656",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4f9PPaJstp",
+			"expanded": "https://twitter.com/bol_com/status/1050326223619014656",
+			"display": "twitter.com/bol_com/status…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 11 10:04:20 +0000 2018",
+			"id": 1050326223619014700,
+			"id_str": "1050326223619014656",
+			"full_text": "When you geen Engels can. https://t.co/T9dmRTcopr",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				25
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1050325891035930600,
+						"id_str": "1050325891035930624",
+						"indices": [
+							26,
+							49
+						],
+						"media_url": "http://pbs.twimg.com/media/DpOB1UGXoAA9o21.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DpOB1UGXoAA9o21.jpg",
+						"url": "https://t.co/T9dmRTcopr",
+						"display_url": "pic.twitter.com/T9dmRTcopr",
+						"expanded_url": "https://twitter.com/bol_com/status/1050326223619014656/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 400,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 400,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 266,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1050325891035930600,
+						"id_str": "1050325891035930624",
+						"indices": [
+							26,
+							49
+						],
+						"media_url": "http://pbs.twimg.com/media/DpOB1UGXoAA9o21.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DpOB1UGXoAA9o21.jpg",
+						"url": "https://t.co/T9dmRTcopr",
+						"display_url": "pic.twitter.com/T9dmRTcopr",
+						"expanded_url": "https://twitter.com/bol_com/status/1050326223619014656/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 400,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 400,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 266,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18894593,
+				"id_str": "18894593",
+				"name": "bol.com",
+				"screen_name": "bol_com",
+				"location": "Utrecht",
+				"description": "Welkom op ons Twitter-kanaal. Boordevol inspiratie, winacties en antwoord op al je vragen. Tussen 08:00 en 23:00 reageren wij binnen één uur. #speciaalvoorjou",
+				"url": "https://t.co/fNLoBombr8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fNLoBombr8",
+								"expanded_url": "http://www.bol.com",
+								"display_url": "bol.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 60230,
+				"friends_count": 18386,
+				"listed_count": 390,
+				"created_at": "Mon Jan 12 07:23:41 +0000 2009",
+				"favourites_count": 115,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 196402,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2622406003/qhirc530zlnl7oog4wvb_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2622406003/qhirc530zlnl7oog4wvb_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18894593/1463149832",
+				"profile_link_color": "3366CC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 127,
+			"favorite_count": 771,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "https://t.co/SZ0ds4tyBU goes lekker by the hand in the thread. https://t.co/4f9PPaJstp"
+	},
+	{
 		"created_at": "Fri Oct 12 09:28:49 +0000 2018",
 		"id": 1050679675117170700,
 		"id_str": "1050679675117170688",
