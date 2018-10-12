@@ -1,6 +1,256 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Fri Oct 12 09:28:49 +0000 2018",
+		"id": 1050679675117170700,
+		"id_str": "1050679675117170688",
+		"full_text": "@patrickloonstra @NotionHQ Moet ik het dan toch weer eens een poging geven?",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "patrickloonstra",
+					"name": "Patrick 🕶",
+					"id": 9647022,
+					"id_str": "9647022",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "NotionHQ",
+					"name": "Notion",
+					"id": 708915428454576100,
+					"id_str": "708915428454576128",
+					"indices": [
+						17,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1050676681969565700,
+		"in_reply_to_status_id_str": "1050676681969565697",
+		"in_reply_to_user_id": 9647022,
+		"in_reply_to_user_id_str": "9647022",
+		"in_reply_to_screen_name": "patrickloonstra",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8984,
+			"friends_count": 159,
+			"listed_count": 600,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4713,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60754,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@patrickloonstra @NotionHQ Moet ik het dan toch weer eens een poging geven?"
+	},
+	{
+		"created_at": "Fri Oct 12 09:28:10 +0000 2018",
+		"id": 1050679510922944500,
+		"id_str": "1050679510922944512",
+		"full_text": "@brechtjedeleij @molislaegers @elger Of heb nog even geduld tot we met Olisto een oplossing hebben #workinprogress",
+		"truncated": false,
+		"display_text_range": [
+			37,
+			114
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "workinprogress",
+					"indices": [
+						99,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "brechtjedeleij",
+					"name": "brechtjedeleij",
+					"id": 9880322,
+					"id_str": "9880322",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "molislaegers",
+					"name": "Martijn Olislaegers",
+					"id": 15582365,
+					"id_str": "15582365",
+					"indices": [
+						16,
+						29
+					]
+				},
+				{
+					"screen_name": "elger",
+					"name": "Elger van der Wel",
+					"id": 14142375,
+					"id_str": "14142375",
+					"indices": [
+						30,
+						36
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1050676381032448000,
+		"in_reply_to_status_id_str": "1050676381032448001",
+		"in_reply_to_user_id": 9880322,
+		"in_reply_to_user_id_str": "9880322",
+		"in_reply_to_screen_name": "brechtjedeleij",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8984,
+			"friends_count": 159,
+			"listed_count": 600,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4713,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60754,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@brechtjedeleij @molislaegers @elger Of heb nog even geduld tot we met Olisto een oplossing hebben #workinprogress"
+	},
+	{
 		"created_at": "Fri Oct 12 09:00:17 +0000 2018",
 		"id": 1050672493323739100,
 		"id_str": "1050672493323739137",
@@ -144,7 +394,7 @@ Grailbird.data.tweets_2018_10 =
 				"name": "Pieter Levels ✨",
 				"screen_name": "levelsio",
 				"location": "🌎🌍🌏🚀🌔",
-				"description": "Serial maker🏝https://t.co/dr6IFbxwX1 + 👩‍💻https://t.co/w6AtUy7mcR + 🗺https://t.co/OkOJ0XagRA + 📕https://t.co/CTgH9KJLuV + 📊https://t.co/jhYdA5gX84 + 🌴https://t.co/0ZlhK6XlYF + 📣https://t.co/SVSZa2qfac + 🚧https://t.co/2sPrMbDB7j",
+				"description": "Serial maker🏝https://t.co/dr6IFbxwX1 + 👩💻https://t.co/w6AtUy7mcR + 🗺https://t.co/OkOJ0XagRA + 📕https://t.co/CTgH9KJLuV + 📊https://t.co/jhYdA5gX84 + 🌴https://t.co/0ZlhK6XlYF + 📣https://t.co/SVSZa2qfac + 🚧https://t.co/2sPrMbDB7j",
 				"url": "https://t.co/NY02ID1av7",
 				"entities": {
 					"url": {
