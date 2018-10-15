@@ -1,6 +1,649 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Mon Oct 15 14:52:54 +0000 2018",
+		"id": 1051848397324505100,
+		"id_str": "1051848397324505088",
+		"full_text": "Hey @roosvanvugt, dit is de marketing molotovcocktail die ik zocht! https://t.co/Fcony4N2Yq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "roosvanvugt",
+					"name": "Roos van Vugt",
+					"id": 21687228,
+					"id_str": "21687228",
+					"indices": [
+						4,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Fcony4N2Yq",
+					"expanded_url": "https://twitter.com/ronvrn/status/1051837649571520512",
+					"display_url": "twitter.com/ronvrn/status/…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8979,
+			"friends_count": 161,
+			"listed_count": 600,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4727,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60669,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1051837649571520500,
+		"quoted_status_id_str": "1051837649571520512",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Fcony4N2Yq",
+			"expanded": "https://twitter.com/ronvrn/status/1051837649571520512",
+			"display": "twitter.com/ronvrn/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 15 14:10:12 +0000 2018",
+			"id": 1051837649571520500,
+			"id_str": "1051837649571520512",
+			"full_text": "One word, brilliant #marcom #marketing https://t.co/Bw47EDXifc",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				38
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "marcom",
+						"indices": [
+							20,
+							27
+						]
+					},
+					{
+						"text": "marketing",
+						"indices": [
+							28,
+							38
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Bw47EDXifc",
+						"expanded_url": "https://twitter.com/mweigel/status/1051796095041449984",
+						"display_url": "twitter.com/mweigel/status…",
+						"indices": [
+							39,
+							62
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 246830361,
+				"id_str": "246830361",
+				"name": "Ronald Voorn",
+				"screen_name": "ronvrn",
+				"location": "+3120",
+				"description": "Consumer behaviour & Communication science, lecturer (HU & UTwente).Founder Science for Business Group.Former global CMO Heineken.RvC Univé Dichtbij. Effie jury",
+				"url": "https://t.co/tv3999Xz2a",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/tv3999Xz2a",
+								"expanded_url": "http://www.Science4Business.nl",
+								"display_url": "Science4Business.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3355,
+				"friends_count": 2688,
+				"listed_count": 221,
+				"created_at": "Thu Feb 03 15:18:03 +0000 2011",
+				"favourites_count": 1863,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 17232,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "006699",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/871747827894038528/DNAlAfL7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/871747827894038528/DNAlAfL7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/246830361/1482929096",
+				"profile_link_color": "006699",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1051796095041450000,
+			"quoted_status_id_str": "1051796095041449984",
+			"quoted_status_permalink": {
+				"url": "https://t.co/Bw47EDXifc",
+				"expanded": "https://twitter.com/mweigel/status/1051796095041449984",
+				"display": "twitter.com/mweigel/status…"
+			},
+			"retweet_count": 0,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Hey @roosvanvugt, dit is de marketing molotovcocktail die ik zocht! https://t.co/Fcony4N2Yq"
+	},
+	{
+		"created_at": "Mon Oct 15 14:47:01 +0000 2018",
+		"id": 1051846915338461200,
+		"id_str": "1051846915338461184",
+		"full_text": "@ronvrn Ik wil nu ook \"the absolute zenith of self-actualisation\" behalen....",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ronvrn",
+					"name": "Ronald Voorn",
+					"id": 246830361,
+					"id_str": "246830361",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1051837649571520500,
+		"in_reply_to_status_id_str": "1051837649571520512",
+		"in_reply_to_user_id": 246830361,
+		"in_reply_to_user_id_str": "246830361",
+		"in_reply_to_screen_name": "ronvrn",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8979,
+			"friends_count": 161,
+			"listed_count": 600,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4727,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60669,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ronvrn Ik wil nu ook \"the absolute zenith of self-actualisation\" behalen...."
+	},
+	{
+		"created_at": "Mon Oct 15 14:46:34 +0000 2018",
+		"id": 1051846800129368000,
+		"id_str": "1051846800129368065",
+		"full_text": "Awesome. Mijn zoontje wil ook al Baas van de Pinguins worden... Het is een ding geloof ik... https://t.co/7xpDoOYsyU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7xpDoOYsyU",
+					"expanded_url": "https://twitter.com/thefarmerjones/status/1051631830502440960",
+					"display_url": "twitter.com/thefarmerjones…",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8979,
+			"friends_count": 161,
+			"listed_count": 600,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4727,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60669,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1051631830502441000,
+		"quoted_status_id_str": "1051631830502440960",
+		"quoted_status_permalink": {
+			"url": "https://t.co/7xpDoOYsyU",
+			"expanded": "https://twitter.com/thefarmerjones/status/1051631830502440960",
+			"display": "twitter.com/thefarmerjones…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 15 00:32:21 +0000 2018",
+			"id": 1051631830502441000,
+			"id_str": "1051631830502440960",
+			"full_text": "She’s only 10 years old, and she has never owned a penguin, and yet I defy you to question my daughter’s expertise on this subject. https://t.co/A1LE8qiv57",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				131
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1051631824001269800,
+						"id_str": "1051631824001269760",
+						"indices": [
+							132,
+							155
+						],
+						"media_url": "http://pbs.twimg.com/media/DpglkngXgAA9VY4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DpglkngXgAA9VY4.jpg",
+						"url": "https://t.co/A1LE8qiv57",
+						"display_url": "pic.twitter.com/A1LE8qiv57",
+						"expanded_url": "https://twitter.com/thefarmerjones/status/1051631830502440960/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1051631824001269800,
+						"id_str": "1051631824001269760",
+						"indices": [
+							132,
+							155
+						],
+						"media_url": "http://pbs.twimg.com/media/DpglkngXgAA9VY4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DpglkngXgAA9VY4.jpg",
+						"url": "https://t.co/A1LE8qiv57",
+						"display_url": "pic.twitter.com/A1LE8qiv57",
+						"expanded_url": "https://twitter.com/thefarmerjones/status/1051631830502440960/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 39801402,
+				"id_str": "39801402",
+				"name": "Farmer Jones",
+				"screen_name": "thefarmerjones",
+				"location": "Tilling",
+				"description": "EIC Emeritus & Contributing Editor @SLAMOnline // Contributor @BleacherReport & @UPROXXSports // OG LeBron Biographer // Pretend Farmer #WeAre #SlamIsFam #COYB",
+				"url": "https://t.co/kPdO8gVCw5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kPdO8gVCw5",
+								"expanded_url": "https://www.goodreads.com/book/show/882588.King_James",
+								"display_url": "goodreads.com/book/show/8825…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9830,
+				"friends_count": 627,
+				"listed_count": 530,
+				"created_at": "Wed May 13 17:44:11 +0000 2009",
+				"favourites_count": 48494,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 147886,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/875743742770151424/LFhnettB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875743742770151424/LFhnettB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/39801402/1502663504",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 298,
+			"favorite_count": 1191,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Awesome. Mijn zoontje wil ook al Baas van de Pinguins worden... Het is een ding geloof ik... https://t.co/7xpDoOYsyU"
+	},
+	{
 		"created_at": "Mon Oct 15 08:01:20 +0000 2018",
 		"id": 1051744822300688400,
 		"id_str": "1051744822300688384",
