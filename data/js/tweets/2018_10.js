@@ -1,6 +1,719 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Mon Oct 15 08:01:20 +0000 2018",
+		"id": 1051744822300688400,
+		"id_str": "1051744822300688384",
+		"full_text": "En dan staat onze @ArjenNoorbergen ineens op het spreekgestoelte bij Connections Europe. Leuk! https://t.co/8SGChhqM3t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ArjenNoorbergen",
+					"name": "Arjen Noorbergen",
+					"id": 1058114029,
+					"id_str": "1058114029",
+					"indices": [
+						18,
+						34
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8SGChhqM3t",
+					"expanded_url": "https://twitter.com/CONNECTIONS_EU/status/1050712449949859840",
+					"display_url": "twitter.com/CONNECTIONS_EU…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8979,
+			"friends_count": 161,
+			"listed_count": 600,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4726,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60666,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1050712449949859800,
+		"quoted_status_id_str": "1050712449949859840",
+		"quoted_status_permalink": {
+			"url": "https://t.co/8SGChhqM3t",
+			"expanded": "https://twitter.com/CONNECTIONS_EU/status/1050712449949859840",
+			"display": "twitter.com/CONNECTIONS_EU…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 12 11:39:04 +0000 2018",
+			"id": 1050712449949859800,
+			"id_str": "1050712449949859840",
+			"full_text": "Excited to welcome @iamOlisto to the #CONNEU18 speaker line-up! Network with leading #IoT industry executives in Amsterdam from 13-14 November: https://t.co/L6RbucXf15 #smarthome https://t.co/P7J6QIZ079",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				178
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "CONNEU18",
+						"indices": [
+							37,
+							46
+						]
+					},
+					{
+						"text": "IoT",
+						"indices": [
+							85,
+							89
+						]
+					},
+					{
+						"text": "smarthome",
+						"indices": [
+							168,
+							178
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "iamOlisto",
+						"name": "Olisto",
+						"id": 3879014177,
+						"id_str": "3879014177",
+						"indices": [
+							19,
+							29
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/L6RbucXf15",
+						"expanded_url": "http://bit.ly/CONNEUAgenda",
+						"display_url": "bit.ly/CONNEUAgenda",
+						"indices": [
+							144,
+							167
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1050712447852732400,
+						"id_str": "1050712447852732416",
+						"indices": [
+							179,
+							202
+						],
+						"media_url": "http://pbs.twimg.com/media/DpThZ4dX4AAZfp6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DpThZ4dX4AAZfp6.jpg",
+						"url": "https://t.co/P7J6QIZ079",
+						"display_url": "pic.twitter.com/P7J6QIZ079",
+						"expanded_url": "https://twitter.com/CONNECTIONS_EU/status/1050712449949859840/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 792,
+								"h": 528,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 792,
+								"h": 528,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1050712447852732400,
+						"id_str": "1050712447852732416",
+						"indices": [
+							179,
+							202
+						],
+						"media_url": "http://pbs.twimg.com/media/DpThZ4dX4AAZfp6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DpThZ4dX4AAZfp6.jpg",
+						"url": "https://t.co/P7J6QIZ079",
+						"display_url": "pic.twitter.com/P7J6QIZ079",
+						"expanded_url": "https://twitter.com/CONNECTIONS_EU/status/1050712449949859840/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 792,
+								"h": 528,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 792,
+								"h": 528,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 335522763,
+				"id_str": "335522763",
+				"name": "CONNECTIONS_EU",
+				"screen_name": "CONNECTIONS_EU",
+				"location": "Amsterdam",
+				"description": "13-14 NOV 2018 #CONNEU18 CONNECTIONS Europe focuses on the #smarthome landscape in Europe, including for #IoT, #payTV + #techsupport. Hosted by @ParksAssociates",
+				"url": "https://t.co/EnFmtEK3xc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/EnFmtEK3xc",
+								"expanded_url": "http://bit.ly/CONNEU",
+								"display_url": "bit.ly/CONNEU",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 758,
+				"friends_count": 600,
+				"listed_count": 131,
+				"created_at": "Thu Jul 14 20:26:25 +0000 2011",
+				"favourites_count": 249,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1981,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1025074926561030144/s48LQyF1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1025074926561030144/s48LQyF1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/335522763/1533231895",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "En dan staat onze @ArjenNoorbergen ineens op het spreekgestoelte bij Connections Europe. Leuk! https://t.co/8SGChhqM3t"
+	},
+	{
+		"created_at": "Mon Oct 15 05:39:41 +0000 2018",
+		"id": 1051709173233315800,
+		"id_str": "1051709173233315840",
+		"full_text": "Goedemorgen Utrecht https://t.co/gqOgL6Y11m",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1051709171723329500,
+					"id_str": "1051709171723329536",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/Dphr62OW4AAdKUM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dphr62OW4AAdKUM.jpg",
+					"url": "https://t.co/gqOgL6Y11m",
+					"display_url": "pic.twitter.com/gqOgL6Y11m",
+					"expanded_url": "https://twitter.com/MDulst/status/1051709173233315840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1051709171723329500,
+					"id_str": "1051709171723329536",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/Dphr62OW4AAdKUM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dphr62OW4AAdKUM.jpg",
+					"url": "https://t.co/gqOgL6Y11m",
+					"display_url": "pic.twitter.com/gqOgL6Y11m",
+					"expanded_url": "https://twitter.com/MDulst/status/1051709173233315840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2394049101,
+			"id_str": "2394049101",
+			"name": "Marco Van Dulst🇳🇱",
+			"screen_name": "MDulst",
+			"location": "Utrecht, Nederland",
+			"description": "torenkraanmachinist bij Bam materieel.geboren en getogen in het hartsie van het land .",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2315,
+			"friends_count": 73,
+			"listed_count": 41,
+			"created_at": "Sat Mar 08 14:40:01 +0000 2014",
+			"favourites_count": 3041,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1121,
+			"lang": "nl",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/834351897695891457/pzXJHYGr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/834351897695891457/pzXJHYGr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2394049101/1488109958",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 64,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Goedemorgen Utrecht https://t.co/gqOgL6Y11m"
+	},
+	{
+		"created_at": "Mon Oct 15 06:01:07 +0000 2018",
+		"id": 1051714567410200600,
+		"id_str": "1051714567410200576",
+		"full_text": "@roosvanvugt Ik ga hem op een later moment nog eens goed lezen (want maandagochtend), het is een fraai overzicht van de democratisering en ontwikkeling van de fotografie-cultuur.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "roosvanvugt",
+					"name": "Roos van Vugt",
+					"id": 21687228,
+					"id_str": "21687228",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1051709498509971500,
+		"in_reply_to_status_id_str": "1051709498509971457",
+		"in_reply_to_user_id": 21687228,
+		"in_reply_to_user_id_str": "21687228",
+		"in_reply_to_screen_name": "roosvanvugt",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8979,
+			"friends_count": 161,
+			"listed_count": 600,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4726,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60666,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@roosvanvugt Ik ga hem op een later moment nog eens goed lezen (want maandagochtend), het is een fraai overzicht van de democratisering en ontwikkeling van de fotografie-cultuur."
+	},
+	{
+		"created_at": "Mon Oct 15 05:40:58 +0000 2018",
+		"id": 1051709498509971500,
+		"id_str": "1051709498509971457",
+		"full_text": "Mooi artikel -&gt; What next for photography in the age of Instagram? https://t.co/Pgzm46Sut0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Pgzm46Sut0",
+					"expanded_url": "https://www.theguardian.com/artanddesign/2018/oct/14/future-photography-in-the-age-of-instagram-essay-sean-o-hagan?CMP=share_btn_tw",
+					"display_url": "theguardian.com/artanddesign/2…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21687228,
+			"id_str": "21687228",
+			"name": "Roos van Vugt",
+			"screen_name": "roosvanvugt",
+			"location": "Amsterdam",
+			"description": "helpt merken social te laten werken (a.i. @NOS) founder @Merkwerker - leest nog steeds de krant - spreker/dagvoorzitter - 4kids (eitje..) hoogbeschaafd. Madrid.",
+			"url": "https://t.co/fkfnJFvt29",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fkfnJFvt29",
+							"expanded_url": "http://www.merkwerker.nl",
+							"display_url": "merkwerker.nl",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18292,
+			"friends_count": 3282,
+			"listed_count": 891,
+			"created_at": "Mon Feb 23 20:04:45 +0000 2009",
+			"favourites_count": 21674,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 182965,
+			"lang": "nl",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "787178",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/833799119118417920/m3Yohqvv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/833799119118417920/m3Yohqvv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21687228/1480871534",
+			"profile_link_color": "0F0F0F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F2F5F0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Mooi artikel -&gt; What next for photography in the age of Instagram? https://t.co/Pgzm46Sut0"
+	},
+	{
 		"created_at": "Mon Oct 15 05:39:41 +0000 2018",
 		"id": 1051709173233315800,
 		"id_str": "1051709173233315840",
