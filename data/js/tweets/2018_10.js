@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Mon Oct 15 05:39:41 +0000 2018",
+		"id": 1051709173233315800,
+		"id_str": "1051709173233315840",
+		"full_text": "Goedemorgen Utrecht https://t.co/gqOgL6Y11m",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1051709171723329500,
+					"id_str": "1051709171723329536",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/Dphr62OW4AAdKUM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dphr62OW4AAdKUM.jpg",
+					"url": "https://t.co/gqOgL6Y11m",
+					"display_url": "pic.twitter.com/gqOgL6Y11m",
+					"expanded_url": "https://twitter.com/MDulst/status/1051709173233315840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1051709171723329500,
+					"id_str": "1051709171723329536",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/Dphr62OW4AAdKUM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dphr62OW4AAdKUM.jpg",
+					"url": "https://t.co/gqOgL6Y11m",
+					"display_url": "pic.twitter.com/gqOgL6Y11m",
+					"expanded_url": "https://twitter.com/MDulst/status/1051709173233315840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2394049101,
+			"id_str": "2394049101",
+			"name": "Marco Van Dulst🇳🇱",
+			"screen_name": "MDulst",
+			"location": "Utrecht, Nederland",
+			"description": "torenkraanmachinist bij Bam materieel.geboren en getogen in het hartsie van het land .",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2315,
+			"friends_count": 73,
+			"listed_count": 41,
+			"created_at": "Sat Mar 08 14:40:01 +0000 2014",
+			"favourites_count": 3041,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1121,
+			"lang": "nl",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/834351897695891457/pzXJHYGr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/834351897695891457/pzXJHYGr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2394049101/1488109958",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 54,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Goedemorgen Utrecht https://t.co/gqOgL6Y11m"
+	},
+	{
 		"created_at": "Mon Oct 15 06:01:07 +0000 2018",
 		"id": 1051714567410200600,
 		"id_str": "1051714567410200576",
