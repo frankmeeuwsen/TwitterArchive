@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Mon Oct 15 17:18:56 +0000 2018",
+		"id": 1051885144691404800,
+		"id_str": "1051885144691404802",
+		"full_text": "We must preserve inclusive freedom of speech and expression. No corporate entity should be powerful enough to dictate who can be heard. It's time to decentralize the web. https://t.co/QzvIalItHx https://t.co/MjlqfUfavK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QzvIalItHx",
+					"expanded_url": "https://medium.com/unlock-protocol/to-save-freedom-of-speech-we-must-decentralize-the-web-19b2eb92f3b8#---0-326",
+					"display_url": "medium.com/unlock-protoco…",
+					"indices": [
+						171,
+						194
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1051885142556459000,
+					"id_str": "1051885142556459008",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/DpkL9sqWwAA9teB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpkL9sqWwAA9teB.jpg",
+					"url": "https://t.co/MjlqfUfavK",
+					"display_url": "pic.twitter.com/MjlqfUfavK",
+					"expanded_url": "https://twitter.com/benwerd/status/1051885144691404802/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 653,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 781,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 781,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1051885142556459000,
+					"id_str": "1051885142556459008",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/DpkL9sqWwAA9teB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpkL9sqWwAA9teB.jpg",
+					"url": "https://t.co/MjlqfUfavK",
+					"display_url": "pic.twitter.com/MjlqfUfavK",
+					"expanded_url": "https://twitter.com/benwerd/status/1051885144691404802/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 653,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 781,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 781,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://medium.com\" rel=\"nofollow\">Medium</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 783092,
+			"id_str": "783092",
+			"name": "Ben Werdmuller",
+			"screen_name": "benwerd",
+			"location": "San Francisco Bay Area",
+			"description": "Co-founded @elgg @withknown. Directed west coast investments at @mattervc. Worked at @latakoo @medium. Working on @unlockprotocol. Kindness first. He / him.",
+			"url": "https://t.co/sR4aiZTVfu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sR4aiZTVfu",
+							"expanded_url": "https://werd.io/",
+							"display_url": "werd.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6708,
+			"friends_count": 4656,
+			"listed_count": 447,
+			"created_at": "Tue Feb 20 13:34:20 +0000 2007",
+			"favourites_count": 21297,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 45818,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1040632277770788864/RTIe8ulD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1040632277770788864/RTIe8ulD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/783092/1440331990",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "D4E6F1",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We must preserve inclusive freedom of speech and expression. No corporate entity should be powerful enough to dictate who can be heard. It's time to decentralize the web. https://t.co/QzvIalItHx https://t.co/MjlqfUfavK"
+	},
+	{
 		"created_at": "Mon Oct 15 14:52:54 +0000 2018",
 		"id": 1051848397324505100,
 		"id_str": "1051848397324505088",
