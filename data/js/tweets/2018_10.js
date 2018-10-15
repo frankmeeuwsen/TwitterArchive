@@ -1,6 +1,218 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Mon Oct 15 06:01:07 +0000 2018",
+		"id": 1051714567410200600,
+		"id_str": "1051714567410200576",
+		"full_text": "@roosvanvugt Ik ga hem op een later moment nog eens goed lezen (want maandagochtend), het is een fraai overzicht van de democratisering en ontwikkeling van de fotografie-cultuur.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "roosvanvugt",
+					"name": "Roos van Vugt",
+					"id": 21687228,
+					"id_str": "21687228",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1051709498509971500,
+		"in_reply_to_status_id_str": "1051709498509971457",
+		"in_reply_to_user_id": 21687228,
+		"in_reply_to_user_id_str": "21687228",
+		"in_reply_to_screen_name": "roosvanvugt",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8979,
+			"friends_count": 160,
+			"listed_count": 600,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4725,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60664,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@roosvanvugt Ik ga hem op een later moment nog eens goed lezen (want maandagochtend), het is een fraai overzicht van de democratisering en ontwikkeling van de fotografie-cultuur."
+	},
+	{
+		"created_at": "Mon Oct 15 05:40:58 +0000 2018",
+		"id": 1051709498509971500,
+		"id_str": "1051709498509971457",
+		"full_text": "Mooi artikel -&gt; What next for photography in the age of Instagram? https://t.co/Pgzm46Sut0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Pgzm46Sut0",
+					"expanded_url": "https://www.theguardian.com/artanddesign/2018/oct/14/future-photography-in-the-age-of-instagram-essay-sean-o-hagan?CMP=share_btn_tw",
+					"display_url": "theguardian.com/artanddesign/2…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21687228,
+			"id_str": "21687228",
+			"name": "Roos van Vugt",
+			"screen_name": "roosvanvugt",
+			"location": "Amsterdam",
+			"description": "helpt merken social te laten werken (a.i. @NOS) founder @Merkwerker - leest nog steeds de krant - spreker/dagvoorzitter - 4kids (eitje..) hoogbeschaafd. Madrid.",
+			"url": "https://t.co/fkfnJFvt29",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fkfnJFvt29",
+							"expanded_url": "http://www.merkwerker.nl",
+							"display_url": "merkwerker.nl",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18292,
+			"friends_count": 3282,
+			"listed_count": 891,
+			"created_at": "Mon Feb 23 20:04:45 +0000 2009",
+			"favourites_count": 21674,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 182965,
+			"lang": "nl",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "787178",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/833799119118417920/m3Yohqvv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/833799119118417920/m3Yohqvv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21687228/1480871534",
+			"profile_link_color": "0F0F0F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F2F5F0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Mooi artikel -&gt; What next for photography in the age of Instagram? https://t.co/Pgzm46Sut0"
+	},
+	{
 		"created_at": "Sun Oct 14 18:51:26 +0000 2018",
 		"id": 1051546035183607800,
 		"id_str": "1051546035183607809",
