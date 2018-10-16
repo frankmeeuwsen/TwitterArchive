@@ -69,6 +69,122 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
+			"followers_count": 363133,
+			"friends_count": 197,
+			"listed_count": 10044,
+			"created_at": "Mon May 07 19:53:20 +0000 2012",
+			"favourites_count": 1068,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 135783,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/615280495958495232/nX0-Mypb_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/615280495958495232/nX0-Mypb_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/573918122/1535563801",
+			"profile_link_color": "168DD9",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Your favorite Twitter bots are about die, thanks to upcoming rule changes https://t.co/8KurdMw7OZ"
+	},
+	{
+		"created_at": "Tue Oct 16 13:13:54 +0000 2018",
+		"id": 1052185868776165400,
+		"id_str": "1052185868776165376",
+		"full_text": "Your favorite Twitter bots are about die, thanks to upcoming rule changes https://t.co/8KurdMw7OZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8KurdMw7OZ",
+					"expanded_url": "http://bit.ly/2yD1rM0",
+					"display_url": "bit.ly/2yD1rM0",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 573918122,
+			"id_str": "573918122",
+			"name": "Quartz",
+			"screen_name": "qz",
+			"location": "The World",
+			"description": "Quartz is a new kind of global business news outlet. Sign up for the Quartz Daily Brief: http://t.co/3cm80H1KMS",
+			"url": "http://t.co/dNTqipG8lu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/dNTqipG8lu",
+							"expanded_url": "http://qz.com",
+							"display_url": "qz.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/3cm80H1KMS",
+							"expanded_url": "http://qz.com/daily-brief/",
+							"display_url": "qz.com/daily-brief/",
+							"indices": [
+								89,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
 			"followers_count": 363125,
 			"friends_count": 197,
 			"listed_count": 10034,
