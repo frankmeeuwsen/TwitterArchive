@@ -1,6 +1,595 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Mon Oct 15 18:16:37 +0000 2018",
+		"id": 1051899663413104600,
+		"id_str": "1051899663413104640",
+		"full_text": "These Google people sure seem like murderous dicks https://t.co/pqAxfqouzB https://t.co/JpNsA42AdZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pqAxfqouzB",
+					"expanded_url": "http://nyer.cm/F6IGcTD",
+					"display_url": "nyer.cm/F6IGcTD",
+					"indices": [
+						51,
+						74
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1051899655838163000,
+					"id_str": "1051899655838162945",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/DpkZKe2W4AEuCjL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpkZKe2W4AEuCjL.jpg",
+					"url": "https://t.co/JpNsA42AdZ",
+					"display_url": "pic.twitter.com/JpNsA42AdZ",
+					"expanded_url": "https://twitter.com/adrianhon/status/1051899663413104640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1034,
+							"h": 336,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1034,
+							"h": 336,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 221,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1051899655838163000,
+					"id_str": "1051899655838162945",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/DpkZKe2W4AEuCjL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpkZKe2W4AEuCjL.jpg",
+					"url": "https://t.co/JpNsA42AdZ",
+					"display_url": "pic.twitter.com/JpNsA42AdZ",
+					"expanded_url": "https://twitter.com/adrianhon/status/1051899663413104640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1034,
+							"h": 336,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1034,
+							"h": 336,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 221,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1051899655787810800,
+					"id_str": "1051899655787810818",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/DpkZKeqWkAIyCyH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpkZKeqWkAIyCyH.jpg",
+					"url": "https://t.co/JpNsA42AdZ",
+					"display_url": "pic.twitter.com/JpNsA42AdZ",
+					"expanded_url": "https://twitter.com/adrianhon/status/1051899663413104640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 328,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1091,
+							"h": 527,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1091,
+							"h": 527,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1051899655813046300,
+					"id_str": "1051899655813046278",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/DpkZKewXoAYukzs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpkZKewXoAYukzs.jpg",
+					"url": "https://t.co/JpNsA42AdZ",
+					"display_url": "pic.twitter.com/JpNsA42AdZ",
+					"expanded_url": "https://twitter.com/adrianhon/status/1051899663413104640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 376,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1086,
+							"h": 601,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1086,
+							"h": 601,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 222723,
+			"id_str": "222723",
+			"name": "Adrian Hon",
+			"screen_name": "adrianhon",
+			"location": "London & Edinburgh",
+			"description": "CEO of Six to Start (Zombies, Run!, The Walk), author of A History of the Future in 100 Objects, former neuroscientist and tech writer for Telegraph",
+			"url": "https://t.co/t8ZIIZeZXV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t8ZIIZeZXV",
+							"expanded_url": "http://mssv.net",
+							"display_url": "mssv.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4745,
+			"friends_count": 118,
+			"listed_count": 326,
+			"created_at": "Sun Dec 24 16:52:31 +0000 2006",
+			"favourites_count": 2222,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13592,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "94702C",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/596094707689771008/IsfS1GmO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/596094707689771008/IsfS1GmO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/222723/1364294969",
+			"profile_link_color": "CC6300",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFED4",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7ae9e2f2ff7a87cd",
+			"url": "https://api.twitter.com/1.1/geo/id/7ae9e2f2ff7a87cd.json",
+			"place_type": "city",
+			"name": "Edinburgh",
+			"full_name": "Edinburgh, Scotland",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-3.3285119,
+							55.894729
+						],
+						[
+							-3.077505,
+							55.894729
+						],
+						[
+							-3.077505,
+							55.991662
+						],
+						[
+							-3.3285119,
+							55.991662
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1346,
+		"favorite_count": 2281,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "These Google people sure seem like murderous dicks https://t.co/pqAxfqouzB https://t.co/JpNsA42AdZ"
+	},
+	{
+		"created_at": "Tue Oct 16 15:40:21 +0000 2018",
+		"id": 1052222724884578300,
+		"id_str": "1052222724884578305",
+		"full_text": "Early beta preview access to Drafts for Mac is now open to Drafts Pro subscribers. Details: https://t.co/hbUhuuyaFY https://t.co/4mvyi7R0RW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hbUhuuyaFY",
+					"expanded_url": "https://getdrafts.com/mac/beta/",
+					"display_url": "getdrafts.com/mac/beta/",
+					"indices": [
+						92,
+						115
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1052222719977087000,
+					"id_str": "1052222719977086978",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/Dpo-_SjUYAIPi_C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dpo-_SjUYAIPi_C.jpg",
+					"url": "https://t.co/4mvyi7R0RW",
+					"display_url": "pic.twitter.com/4mvyi7R0RW",
+					"expanded_url": "https://twitter.com/draftsapp/status/1052222724884578305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 692,
+							"h": 488,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 692,
+							"h": 488,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1052222719977087000,
+					"id_str": "1052222719977086978",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/Dpo-_SjUYAIPi_C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dpo-_SjUYAIPi_C.jpg",
+					"url": "https://t.co/4mvyi7R0RW",
+					"display_url": "pic.twitter.com/4mvyi7R0RW",
+					"expanded_url": "https://twitter.com/draftsapp/status/1052222724884578305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 692,
+							"h": 488,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 692,
+							"h": 488,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 147271446,
+			"id_str": "147271446",
+			"name": "Drafts",
+			"screen_name": "draftsapp",
+			"location": "Texas, USA",
+			"description": "Drafts app, where text starts",
+			"url": "https://t.co/oPlNRaC1Du",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oPlNRaC1Du",
+							"expanded_url": "http://getdrafts.com/",
+							"display_url": "getdrafts.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12264,
+			"friends_count": 6,
+			"listed_count": 1069,
+			"created_at": "Sun May 23 17:37:17 +0000 2010",
+			"favourites_count": 1819,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6034,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "5C574C",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983849759898259456/mzgto_sq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983849759898259456/mzgto_sq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/147271446/1522251648",
+			"profile_link_color": "29508A",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 81,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Early beta preview access to Drafts for Mac is now open to Drafts Pro subscribers. Details: https://t.co/hbUhuuyaFY https://t.co/4mvyi7R0RW"
+	},
+	{
+		"created_at": "Tue Oct 16 13:13:54 +0000 2018",
+		"id": 1052185868776165400,
+		"id_str": "1052185868776165376",
+		"full_text": "Your favorite Twitter bots are about die, thanks to upcoming rule changes https://t.co/8KurdMw7OZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8KurdMw7OZ",
+					"expanded_url": "http://bit.ly/2yD1rM0",
+					"display_url": "bit.ly/2yD1rM0",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 573918122,
+			"id_str": "573918122",
+			"name": "Quartz",
+			"screen_name": "qz",
+			"location": "The World",
+			"description": "Quartz is a new kind of global business news outlet. Sign up for the Quartz Daily Brief: http://t.co/3cm80H1KMS",
+			"url": "http://t.co/dNTqipG8lu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/dNTqipG8lu",
+							"expanded_url": "http://qz.com",
+							"display_url": "qz.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/3cm80H1KMS",
+							"expanded_url": "http://qz.com/daily-brief/",
+							"display_url": "qz.com/daily-brief/",
+							"indices": [
+								89,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 363138,
+			"friends_count": 197,
+			"listed_count": 10043,
+			"created_at": "Mon May 07 19:53:20 +0000 2012",
+			"favourites_count": 1068,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 135792,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/615280495958495232/nX0-Mypb_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/615280495958495232/nX0-Mypb_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/573918122/1535563801",
+			"profile_link_color": "168DD9",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Your favorite Twitter bots are about die, thanks to upcoming rule changes https://t.co/8KurdMw7OZ"
+	},
+	{
 		"created_at": "Tue Oct 16 13:13:54 +0000 2018",
 		"id": 1052185868776165400,
 		"id_str": "1052185868776165376",
