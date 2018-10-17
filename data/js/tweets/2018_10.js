@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Wed Oct 17 05:44:14 +0000 2018",
+		"id": 1052435096383426600,
+		"id_str": "1052435096383426560",
+		"full_text": "En ik heb mijn eerste koffie nog niet eens in mijn handen om vertwijfeld de mok in de lucht te steken, \"je verwácht het niet he\".... https://t.co/ZDeCV46HDp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZDeCV46HDp",
+					"expanded_url": "https://twitter.com/boerdeboer/status/1052432809862852608",
+					"display_url": "twitter.com/boerdeboer/sta…",
+					"indices": [
+						133,
+						156
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8980,
+			"friends_count": 166,
+			"listed_count": 600,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4739,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60687,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1052432809862852600,
+		"quoted_status_id_str": "1052432809862852608",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ZDeCV46HDp",
+			"expanded": "https://twitter.com/boerdeboer/status/1052432809862852608",
+			"display": "twitter.com/boerdeboer/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 17 05:35:09 +0000 2018",
+			"id": 1052432809862852600,
+			"id_str": "1052432809862852608",
+			"full_text": "Facebook Finally Admits That Its New Spy Equipment Can Spy on You https://t.co/6OLPNMhYbP",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				89
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/6OLPNMhYbP",
+						"expanded_url": "https://gizmodo.com/facebook-finally-admits-that-its-new-spy-equipment-can-1829793554",
+						"display_url": "gizmodo.com/facebook-final…",
+						"indices": [
+							66,
+							89
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 11798112,
+				"id_str": "11798112",
+				"name": "Bert de Boer",
+				"screen_name": "boerdeboer",
+				"location": "",
+				"description": "....      ....",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1075,
+				"friends_count": 469,
+				"listed_count": 119,
+				"created_at": "Thu Jan 03 14:10:31 +0000 2008",
+				"favourites_count": 5252,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 37494,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1829208365/bert_social_media_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1829208365/bert_social_media_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/11798112/1459775705",
+				"profile_link_color": "4A6780",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFF1F2",
+				"profile_text_color": "6E6E6E",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "En ik heb mijn eerste koffie nog niet eens in mijn handen om vertwijfeld de mok in de lucht te steken, \"je verwácht het niet he\".... https://t.co/ZDeCV46HDp"
+	},
+	{
 		"created_at": "Wed Oct 17 05:00:11 +0000 2018",
 		"id": 1052424008401064000,
 		"id_str": "1052424008401063939",
