@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Wed Oct 17 17:53:26 +0000 2018",
+		"id": 1052618603701424100,
+		"id_str": "1052618603701424128",
+		"full_text": "Classic https://t.co/lm5VPHTHWL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			7
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lm5VPHTHWL",
+					"expanded_url": "https://twitter.com/cannes_lions/status/1052586197015568384",
+					"display_url": "twitter.com/cannes_lions/s…",
+					"indices": [
+						8,
+						31
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8978,
+			"friends_count": 166,
+			"listed_count": 600,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4744,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60696,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1052586197015568400,
+		"quoted_status_id_str": "1052586197015568384",
+		"quoted_status_permalink": {
+			"url": "https://t.co/lm5VPHTHWL",
+			"expanded": "https://twitter.com/cannes_lions/status/1052586197015568384",
+			"display": "twitter.com/cannes_lions/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 17 15:44:40 +0000 2018",
+			"id": 1052586197015568400,
+			"id_str": "1052586197015568384",
+			"full_text": "@Twitter |￣￣￣￣￣￣￣￣￣￣￣|\n        whasssaaaaa\n       aaaaaaaaaaaaa\n      aaaaaaaaaaaaap\n|＿＿＿＿＿＿＿＿＿＿＿| \n                \\ (•◡•) / \n                  \\      / \n                    ---\n                    |   |\n\n@budweiserusa",
+			"truncated": false,
+			"display_text_range": [
+				9,
+				219
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Twitter",
+						"name": "Twitter",
+						"id": 783214,
+						"id_str": "783214",
+						"indices": [
+							0,
+							8
+						]
+					},
+					{
+						"screen_name": "budweiserusa",
+						"name": "BudweiserUSA",
+						"id": 870680989,
+						"id_str": "870680989",
+						"indices": [
+							206,
+							219
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 1052582817228607500,
+			"in_reply_to_status_id_str": "1052582817228607491",
+			"in_reply_to_user_id": 783214,
+			"in_reply_to_user_id_str": "783214",
+			"in_reply_to_screen_name": "Twitter",
+			"user": {
+				"id": 20139902,
+				"id_str": "20139902",
+				"name": "Cannes Lions",
+				"screen_name": "Cannes_Lions",
+				"location": "Cannes, France",
+				"description": "The world's biggest get-together of people interested in creativity. #CannesLions.\n\n17-21 June 2019.",
+				"url": "https://t.co/ZGfZPWA4tS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ZGfZPWA4tS",
+								"expanded_url": "http://www.canneslions.com",
+								"display_url": "canneslions.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 208155,
+				"friends_count": 3039,
+				"listed_count": 4305,
+				"created_at": "Thu Feb 05 11:33:04 +0000 2009",
+				"favourites_count": 2548,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 11104,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1679C0",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/974592512315854848/PIsZ2vxa_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/974592512315854848/PIsZ2vxa_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20139902/1534236876",
+				"profile_link_color": "EBCA38",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "062781",
+				"profile_text_color": "169AF2",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 67,
+			"favorite_count": 360,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Classic https://t.co/lm5VPHTHWL"
+	},
+	{
 		"created_at": "Wed Oct 17 17:22:05 +0000 2018",
 		"id": 1052610714127482900,
 		"id_str": "1052610714127482880",
@@ -359,7 +587,7 @@ Grailbird.data.tweets_2018_10 =
 				"name": "Daniël Verlaan",
 				"screen_name": "danielverlaan",
 				"location": "🏠",
-				"description": "techjournalist @RTLnieuws: hackers & cybercrime. tips? ☎️ +316 2089 8142 📫 daniel.verlaan@rtl.nl 👨🏻‍💻 auteur cybersecuritygids https://t.co/PqsPCI7jbA",
+				"description": "techjournalist @RTLnieuws: hackers & cybercrime. tips? ☎️ +316 2089 8142 📫 daniel.verlaan@rtl.nl 👨🏻💻 auteur cybersecuritygids https://t.co/PqsPCI7jbA",
 				"url": "https://t.co/CmkHfPB2GP",
 				"entities": {
 					"url": {
