@@ -1,6 +1,119 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Wed Oct 17 01:59:52 +0000 2018",
+		"id": 1052378631039672300,
+		"id_str": "1052378631039672320",
+		"full_text": "#FUNFACT - Will Smith is now the same age as the Uncle Phil character on Fresh Prince of Bel Air.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FUNFACT",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 97994396,
+			"id_str": "97994396",
+			"name": "JΞSŦΞR ✪ ΔCŦUΔL³³º¹",
+			"screen_name": "th3j35t3r",
+			"location": "https://keybase.io/th3j35t3r",
+			"description": "Cyber Minuteman ● Listed in TIME Mag Most Influential Ppl Online ● My laptop's in Intl Spy Museum DC ● Cameo role in #MrRobot ● Creator https://t.co/SgNWIh1d5c",
+			"url": "https://t.co/SO7fH4LlQd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SO7fH4LlQd",
+							"expanded_url": "https://counter.social/blog",
+							"display_url": "counter.social/blog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/SgNWIh1d5c",
+							"expanded_url": "https://counter.social",
+							"display_url": "counter.social",
+							"indices": [
+								136,
+								159
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 187566,
+			"friends_count": 1337,
+			"listed_count": 3183,
+			"created_at": "Sat Dec 19 22:27:39 +0000 2009",
+			"favourites_count": 110958,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25247,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "050000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1028468155968970752/3DBwbBxa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1028468155968970752/3DBwbBxa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/97994396/1532453699",
+			"profile_link_color": "73220B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 116,
+		"favorite_count": 503,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "#FUNFACT - Will Smith is now the same age as the Uncle Phil character on Fresh Prince of Bel Air."
+	},
+	{
 		"created_at": "Wed Oct 17 12:40:00 +0000 2018",
 		"id": 1052539723774718000,
 		"id_str": "1052539723774717952",
