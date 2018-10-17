@@ -1,6 +1,880 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Wed Oct 17 13:55:15 +0000 2018",
+		"id": 1052558662886146000,
+		"id_str": "1052558662886146048",
+		"full_text": "@Xtien @brechtjedeleij Al zeg ik nee, ik geloof niet dat ik je dan tegen kan houden...",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Xtien",
+					"name": "Christine",
+					"id": 14261257,
+					"id_str": "14261257",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"screen_name": "brechtjedeleij",
+					"name": "brechtjedeleij",
+					"id": 9880322,
+					"id_str": "9880322",
+					"indices": [
+						7,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1052553545583456300,
+		"in_reply_to_status_id_str": "1052553545583456257",
+		"in_reply_to_user_id": 14261257,
+		"in_reply_to_user_id_str": "14261257",
+		"in_reply_to_screen_name": "Xtien",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8979,
+			"friends_count": 166,
+			"listed_count": 600,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4741,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60691,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@Xtien @brechtjedeleij Al zeg ik nee, ik geloof niet dat ik je dan tegen kan houden..."
+	},
+	{
+		"created_at": "Wed Oct 17 01:59:52 +0000 2018",
+		"id": 1052378631039672300,
+		"id_str": "1052378631039672320",
+		"full_text": "#FUNFACT - Will Smith is now the same age as the Uncle Phil character on Fresh Prince of Bel Air.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FUNFACT",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 97994396,
+			"id_str": "97994396",
+			"name": "JΞSŦΞR ✪ ΔCŦUΔL³³º¹",
+			"screen_name": "th3j35t3r",
+			"location": "https://keybase.io/th3j35t3r",
+			"description": "Cyber Minuteman ● Listed in TIME Mag Most Influential Ppl Online ● My laptop's in Intl Spy Museum DC ● Cameo role in #MrRobot ● Creator https://t.co/SgNWIh1d5c",
+			"url": "https://t.co/SO7fH4LlQd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SO7fH4LlQd",
+							"expanded_url": "https://counter.social/blog",
+							"display_url": "counter.social/blog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/SgNWIh1d5c",
+							"expanded_url": "https://counter.social",
+							"display_url": "counter.social",
+							"indices": [
+								136,
+								159
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 187564,
+			"friends_count": 1337,
+			"listed_count": 3183,
+			"created_at": "Sat Dec 19 22:27:39 +0000 2009",
+			"favourites_count": 110958,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25247,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "050000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1028468155968970752/3DBwbBxa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1028468155968970752/3DBwbBxa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/97994396/1532453699",
+			"profile_link_color": "73220B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 117,
+		"favorite_count": 508,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "#FUNFACT - Will Smith is now the same age as the Uncle Phil character on Fresh Prince of Bel Air."
+	},
+	{
+		"created_at": "Wed Oct 17 12:40:00 +0000 2018",
+		"id": 1052539723774718000,
+		"id_str": "1052539723774717952",
+		"full_text": "Ik vraag me nog altijd af waarom ik dat nu van @brechtjedeleij in mijn Twitter bio moest zetten...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "brechtjedeleij",
+					"name": "brechtjedeleij",
+					"id": 9880322,
+					"id_str": "9880322",
+					"indices": [
+						47,
+						62
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8979,
+			"friends_count": 166,
+			"listed_count": 600,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4741,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60691,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "Ik vraag me nog altijd af waarom ik dat nu van @brechtjedeleij in mijn Twitter bio moest zetten..."
+	},
+	{
+		"created_at": "Wed Oct 17 12:15:59 +0000 2018",
+		"id": 1052533681443758100,
+		"id_str": "1052533681443758080",
+		"full_text": "Nice to listen to two authors in a podcast-conversation whose books are on my to-read-stack: Fred Turner's book \"From Counterculture to Cyberculture\" and Douglas Rushkoff's \"Present Shock\". \n\nThanks for the membership-card Douglas! https://t.co/70Y3Y7Nqvt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			231
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/70Y3Y7Nqvt",
+					"expanded_url": "https://twitter.com/rushkoff/status/1052527576021946369",
+					"display_url": "twitter.com/rushkoff/statu…",
+					"indices": [
+						232,
+						255
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8979,
+			"friends_count": 166,
+			"listed_count": 600,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4741,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60691,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1052527576021946400,
+		"quoted_status_id_str": "1052527576021946369",
+		"quoted_status_permalink": {
+			"url": "https://t.co/70Y3Y7Nqvt",
+			"expanded": "https://twitter.com/rushkoff/status/1052527576021946369",
+			"display": "twitter.com/rushkoff/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 17 11:51:43 +0000 2018",
+			"id": 1052527576021946400,
+			"id_str": "1052527576021946369",
+			"full_text": "This is Team Human conversation at its very best: Stanford prof and counter/cyber-culture historian Fred Turner engages in an honest evaluation of utopian visions and mundane solutions.  https://t.co/zoNOcYhNcl",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				210
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/zoNOcYhNcl",
+						"expanded_url": "https://teamhuman.fm/episodes/ep-107-fred-turner/",
+						"display_url": "teamhuman.fm/episodes/ep-10…",
+						"indices": [
+							187,
+							210
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15085196,
+				"id_str": "15085196",
+				"name": "douglas rushkoff",
+				"screen_name": "rushkoff",
+				"location": "Hastings on Hudson, NY",
+				"description": "Media theorist, author.  Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity https://t.co/52oo0RCr8z",
+				"url": "http://t.co/UXbhuKCevL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/UXbhuKCevL",
+								"expanded_url": "http://rushkoff.com",
+								"display_url": "rushkoff.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/52oo0RCr8z",
+								"expanded_url": "http://www.amazon.com/Throwing-Rocks-Google-Bus-Prosperity/dp/1617230170/ref=asap_bc?ie=UTF8",
+								"display_url": "amazon.com/Throwing-Rocks…",
+								"indices": [
+									101,
+									124
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 40329,
+				"friends_count": 416,
+				"listed_count": 2490,
+				"created_at": "Wed Jun 11 14:38:01 +0000 2008",
+				"favourites_count": 83,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 3829,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/705407292670214144/kMSrukdu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/705407292670214144/kMSrukdu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15085196/1457016961",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Nice to listen to two authors in a podcast-conversation whose books are on my to-read-stack: Fred Turner's book \"From Counterculture to Cyberculture\" and Douglas Rushkoff's \"Present Shock\". \n\nThanks for the membership-card Douglas! https://t.co/70Y3Y7Nqvt"
+	},
+	{
+		"created_at": "Wed Oct 17 05:44:14 +0000 2018",
+		"id": 1052435096383426600,
+		"id_str": "1052435096383426560",
+		"full_text": "En ik heb mijn eerste koffie nog niet eens in mijn handen om vertwijfeld de mok in de lucht te steken, \"je verwácht het niet he\".... https://t.co/ZDeCV46HDp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZDeCV46HDp",
+					"expanded_url": "https://twitter.com/boerdeboer/status/1052432809862852608",
+					"display_url": "twitter.com/boerdeboer/sta…",
+					"indices": [
+						133,
+						156
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8979,
+			"friends_count": 166,
+			"listed_count": 600,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4741,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60691,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1052432809862852600,
+		"quoted_status_id_str": "1052432809862852608",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ZDeCV46HDp",
+			"expanded": "https://twitter.com/boerdeboer/status/1052432809862852608",
+			"display": "twitter.com/boerdeboer/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 17 05:35:09 +0000 2018",
+			"id": 1052432809862852600,
+			"id_str": "1052432809862852608",
+			"full_text": "Facebook Finally Admits That Its New Spy Equipment Can Spy on You https://t.co/6OLPNMhYbP",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				89
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/6OLPNMhYbP",
+						"expanded_url": "https://gizmodo.com/facebook-finally-admits-that-its-new-spy-equipment-can-1829793554",
+						"display_url": "gizmodo.com/facebook-final…",
+						"indices": [
+							66,
+							89
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 11798112,
+				"id_str": "11798112",
+				"name": "Bert de Boer",
+				"screen_name": "boerdeboer",
+				"location": "",
+				"description": "....      ....",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1074,
+				"friends_count": 469,
+				"listed_count": 119,
+				"created_at": "Thu Jan 03 14:10:31 +0000 2008",
+				"favourites_count": 5253,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 37495,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1829208365/bert_social_media_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1829208365/bert_social_media_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/11798112/1459775705",
+				"profile_link_color": "4A6780",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFF1F2",
+				"profile_text_color": "6E6E6E",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "En ik heb mijn eerste koffie nog niet eens in mijn handen om vertwijfeld de mok in de lucht te steken, \"je verwácht het niet he\".... https://t.co/ZDeCV46HDp"
+	},
+	{
+		"created_at": "Wed Oct 17 05:00:11 +0000 2018",
+		"id": 1052424008401064000,
+		"id_str": "1052424008401063939",
+		"full_text": "What We Learned from Studying the News Consumption Habits of College Students (Dan Cohen)\n\nhttps://t.co/Rfru03Y5vM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Rfru03Y5vM",
+					"expanded_url": "https://dancohen.org/2018/10/16/what-we-learned-from-studying-the-news-consumption-habits-of-college-students/",
+					"display_url": "dancohen.org/2018/10/16/wha…",
+					"indices": [
+						91,
+						114
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8979,
+			"friends_count": 166,
+			"listed_count": 600,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4741,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60691,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What We Learned from Studying the News Consumption Habits of College Students (Dan Cohen)\n\nhttps://t.co/Rfru03Y5vM"
+	},
+	{
 		"created_at": "Wed Oct 17 01:59:52 +0000 2018",
 		"id": 1052378631039672300,
 		"id_str": "1052378631039672320",
