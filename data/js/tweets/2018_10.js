@@ -1,6 +1,412 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Thu Oct 18 16:11:53 +0000 2018",
+		"id": 1052955435861446700,
+		"id_str": "1052955435861446656",
+		"full_text": "@Luukros Gewoon advies van school gevolgd en voor de koppelverkoop gegaan met aangesloten computershop. Het kostte me teveel tijd en energie om er diep in te duiken. Zo heb ik het gedaan. Maar your mileage may vary.",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			215
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Luukros",
+					"name": "Luuk Ros",
+					"id": 22533801,
+					"id_str": "22533801",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1052635509913206800,
+		"in_reply_to_status_id_str": "1052635509913206785",
+		"in_reply_to_user_id": 22533801,
+		"in_reply_to_user_id_str": "22533801",
+		"in_reply_to_screen_name": "Luukros",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8978,
+			"friends_count": 165,
+			"listed_count": 600,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4753,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60705,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@Luukros Gewoon advies van school gevolgd en voor de koppelverkoop gegaan met aangesloten computershop. Het kostte me teveel tijd en energie om er diep in te duiken. Zo heb ik het gedaan. Maar your mileage may vary."
+	},
+	{
+		"created_at": "Thu Oct 18 16:09:13 +0000 2018",
+		"id": 1052954765452292100,
+		"id_str": "1052954765452292096",
+		"full_text": "@tjarko @charis Documentatie door Tjarko geschreven lijkt me wel hilarisch. “Neejeee... ge moet daor klikke koekwaus! En diejen invullen. ” 😉",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tjarko",
+					"name": "Tjarko Rikkerink",
+					"id": 997804616455770100,
+					"id_str": "997804616455770113",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "charis",
+					"name": "Charis 🇭🇰🏡",
+					"id": 47614929,
+					"id_str": "47614929",
+					"indices": [
+						8,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1052954211145658400,
+		"in_reply_to_status_id_str": "1052954211145658375",
+		"in_reply_to_user_id": 997804616455770100,
+		"in_reply_to_user_id_str": "997804616455770113",
+		"in_reply_to_screen_name": "tjarko",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8978,
+			"friends_count": 165,
+			"listed_count": 600,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4753,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60705,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@tjarko @charis Documentatie door Tjarko geschreven lijkt me wel hilarisch. “Neejeee... ge moet daor klikke koekwaus! En diejen invullen. ” 😉"
+	},
+	{
+		"created_at": "Thu Oct 18 13:09:20 +0000 2018",
+		"id": 1052909496291512300,
+		"id_str": "1052909496291512320",
+		"full_text": "ͦͦ͢͢͡\n͢\nͦͦ͢T@ ͡↑ͦͦ͡…ͦͦ\nͦT͡\ntͦ🐘ͦͦͦͦͦͦ͢͢͡Tͦ͢͡a  ͦ͢͢͡͡　hͦ͡　͡͡@\n@͢Tͦs͢͢\nͦͦͦͦͦͦͦ͢͢͡͡͡ ͦͦ🎤͢͡s͡x͡ ͢͢͡͡͡\nͦͦͦ͢͢　ͦͦͦͦͦͦͦ͢͢͢͡͡͡͡:ͦͦ͢͢͢͢͡͡ht",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://crashtxt.net\" rel=\"nofollow\">bcktocrsh</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 837983710288953300,
+			"id_str": "837983710288953344",
+			"name": "~",
+			"screen_name": "exquisitecrash",
+			"location": "",
+			"description": "back to.../#crashtxt #glitch #scratch #twitterart #emoji #unicodes #keyboard ⠀⌨ ⠀by @llllll__lllllll",
+			"url": "https://t.co/ndXdBEYDFU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ndXdBEYDFU",
+							"expanded_url": "https://twitter.com/crashtxt",
+							"display_url": "twitter.com/crashtxt",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 308,
+			"friends_count": 6,
+			"listed_count": 18,
+			"created_at": "Sat Mar 04 11:11:00 +0000 2017",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 981,
+			"lang": "fr",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838052483255664640/osfBkssL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838052483255664640/osfBkssL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/837983710288953344/1488642258",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "ͦͦ͢͢͡\n͢\nͦͦ͢T@ ͡↑ͦͦ͡…ͦͦ\nͦT͡\ntͦ🐘ͦͦͦͦͦͦ͢͢͡Tͦ͢͡a  ͦ͢͢͡͡　hͦ͡　͡͡@\n@͢Tͦs͢͢\nͦͦͦͦͦͦͦ͢͢͡͡͡ ͦͦ🎤͢͡s͡x͡ ͢͢͡͡͡\nͦͦͦ͢͢　ͦͦͦͦͦͦͦ͢͢͢͡͡͡͡:ͦͦ͢͢͢͢͡͡ht"
+	},
+	{
+		"created_at": "Thu Oct 18 13:49:12 +0000 2018",
+		"id": 1052919529540673500,
+		"id_str": "1052919529540673541",
+		"full_text": "Linda Duits is een anagram voor 'luid in stad'. #hetisfokkingade",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "hetisfokkingade",
+					"indices": [
+						48,
+						64
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3021207963,
+			"id_str": "3021207963",
+			"name": "Waarom weet ik dit?",
+			"screen_name": "waaromweetikdit",
+			"location": "Rotterdam, Nederland",
+			"description": "Feitenkoning | Suggesties, ideeën en andere hersenspinsels welkom via DM",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 84623,
+			"friends_count": 92276,
+			"listed_count": 165,
+			"created_at": "Fri Feb 06 10:02:05 +0000 2015",
+			"favourites_count": 426,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13451,
+			"lang": "nl",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/563639176856231936/gOvxZKyo_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/563639176856231936/gOvxZKyo_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 93,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "nl",
+		"text": "Linda Duits is een anagram voor 'luid in stad'. #hetisfokkingade"
+	},
+	{
 		"created_at": "Thu Oct 18 13:49:12 +0000 2018",
 		"id": 1052919529540673500,
 		"id_str": "1052919529540673541",
