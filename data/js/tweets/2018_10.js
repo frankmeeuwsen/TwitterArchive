@@ -1,6 +1,510 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Thu Oct 18 07:40:14 +0000 2018",
+		"id": 1052826674860044300,
+		"id_str": "1052826674860044289",
+		"full_text": "Mijn dag is nu al goed. https://t.co/ee7GTi3s6H",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ee7GTi3s6H",
+					"expanded_url": "https://twitter.com/noah_charlick/status/1052010534860664833",
+					"display_url": "twitter.com/noah_charlick/…",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8978,
+			"friends_count": 165,
+			"listed_count": 600,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4749,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60700,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1052010534860664800,
+		"quoted_status_id_str": "1052010534860664833",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ee7GTi3s6H",
+			"expanded": "https://twitter.com/noah_charlick/status/1052010534860664833",
+			"display": "twitter.com/noah_charlick/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 16 01:37:11 +0000 2018",
+			"id": 1052010534860664800,
+			"id_str": "1052010534860664833",
+			"full_text": "i’ve either made a great discovery or a terrible mistake https://t.co/hhz1dnxjpW",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				56
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1052010187354062800,
+						"id_str": "1052010187354062848",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1052010187354062848/pu/img/cgt-hxrQKrp4-K9k.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1052010187354062848/pu/img/cgt-hxrQKrp4-K9k.jpg",
+						"url": "https://t.co/hhz1dnxjpW",
+						"display_url": "pic.twitter.com/hhz1dnxjpW",
+						"expanded_url": "https://twitter.com/noah_charlick/status/1052010534860664833/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1052010187354062800,
+						"id_str": "1052010187354062848",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1052010187354062848/pu/img/cgt-hxrQKrp4-K9k.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1052010187354062848/pu/img/cgt-hxrQKrp4-K9k.jpg",
+						"url": "https://t.co/hhz1dnxjpW",
+						"display_url": "pic.twitter.com/hhz1dnxjpW",
+						"expanded_url": "https://twitter.com/noah_charlick/status/1052010534860664833/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 118938,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1052010187354062848/pu/vid/360x640/pS8LRaefo3IPR1tT.mp4?tag=5"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1052010187354062848/pu/pl/v99oHV927-5t3rC2.m3u8?tag=5"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1052010187354062848/pu/vid/180x320/n7QfkFlXb18KUGRr.mp4?tag=5"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1052010187354062848/pu/vid/720x1280/91glTrpp4aymSNF4.mp4?tag=5"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2859518327,
+				"id_str": "2859518327",
+				"name": "Noah Charlick (N0̷4H)",
+				"screen_name": "noah_charlick",
+				"location": "",
+				"description": "Duke '22 // instagram: noah_charlick",
+				"url": "https://t.co/kUeD366WoP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kUeD366WoP",
+								"expanded_url": "https://soundcloud.com/n04hmusic/",
+								"display_url": "soundcloud.com/n04hmusic/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2199,
+				"friends_count": 490,
+				"listed_count": 16,
+				"created_at": "Mon Nov 03 20:53:57 +0000 2014",
+				"favourites_count": 5754,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 734,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1039258495722381321/JQBwpsFH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1039258495722381321/JQBwpsFH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2859518327/1537727715",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 209790,
+			"favorite_count": 573691,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Mijn dag is nu al goed. https://t.co/ee7GTi3s6H"
+	},
+	{
+		"created_at": "Thu Oct 18 03:39:46 +0000 2018",
+		"id": 1052766158049275900,
+		"id_str": "1052766158049275909",
+		"full_text": "Guy couldn't handle being told no by a women https://t.co/KtJJ4zbCTo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1052766113057071100,
+					"id_str": "1052766113057071104",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1052766113057071104/pu/img/OP0hPbsA8qetZdas.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1052766113057071104/pu/img/OP0hPbsA8qetZdas.jpg",
+					"url": "https://t.co/KtJJ4zbCTo",
+					"display_url": "pic.twitter.com/KtJJ4zbCTo",
+					"expanded_url": "https://twitter.com/OregonJOBS2/status/1052766158049275909/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 276,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 276,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 276,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1052766113057071100,
+					"id_str": "1052766113057071104",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1052766113057071104/pu/img/OP0hPbsA8qetZdas.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1052766113057071104/pu/img/OP0hPbsA8qetZdas.jpg",
+					"url": "https://t.co/KtJJ4zbCTo",
+					"display_url": "pic.twitter.com/KtJJ4zbCTo",
+					"expanded_url": "https://twitter.com/OregonJOBS2/status/1052766158049275909/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 276,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 276,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 276,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							23,
+							40
+						],
+						"duration_millis": 9767,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1052766113057071104/pu/vid/180x312/vD150RE1oax3tcXo.mp4?tag=5"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1052766113057071104/pu/vid/276x480/YfECB06rgtSXU1aS.mp4?tag=5"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1052766113057071104/pu/pl/p-IkVSJpQgDnN0ao.m3u8?tag=5"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 865365986119008300,
+			"id_str": "865365986119008257",
+			"name": "Oregon I.T. not IT ⚾",
+			"screen_name": "OregonJOBS2",
+			"location": "Oregon, USA",
+			"description": "TOPICS: Job Skills, College, Professional Behavior,  Politics, and Consumer Advocate. Left leaning Jew #resist  Reposts from reddit especially Animal gifs",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17079,
+			"friends_count": 12521,
+			"listed_count": 281,
+			"created_at": "Fri May 19 00:38:23 +0000 2017",
+			"favourites_count": 8502,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 39590,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958444082879127553/Oalt3x4R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958444082879127553/Oalt3x4R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/865365986119008257/1496981193",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 44,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Guy couldn't handle being told no by a women https://t.co/KtJJ4zbCTo"
+	},
+	{
 		"created_at": "Wed Oct 17 19:15:23 +0000 2018",
 		"id": 1052639225546506200,
 		"id_str": "1052639225546506241",
