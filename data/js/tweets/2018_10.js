@@ -1,6 +1,95 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Thu Oct 18 13:49:12 +0000 2018",
+		"id": 1052919529540673500,
+		"id_str": "1052919529540673541",
+		"full_text": "Linda Duits is een anagram voor 'luid in stad'. #hetisfokkingade",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "hetisfokkingade",
+					"indices": [
+						48,
+						64
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3021207963,
+			"id_str": "3021207963",
+			"name": "Waarom weet ik dit?",
+			"screen_name": "waaromweetikdit",
+			"location": "Rotterdam, Nederland",
+			"description": "Feitenkoning | Suggesties, ideeën en andere hersenspinsels welkom via DM",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 84585,
+			"friends_count": 92238,
+			"listed_count": 164,
+			"created_at": "Fri Feb 06 10:02:05 +0000 2015",
+			"favourites_count": 426,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13448,
+			"lang": "nl",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/563639176856231936/gOvxZKyo_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/563639176856231936/gOvxZKyo_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 67,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "nl",
+		"text": "Linda Duits is een anagram voor 'luid in stad'. #hetisfokkingade"
+	},
+	{
 		"created_at": "Thu Oct 18 10:34:51 +0000 2018",
 		"id": 1052870619707117600,
 		"id_str": "1052870619707117568",
