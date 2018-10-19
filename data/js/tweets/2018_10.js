@@ -1,6 +1,454 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Fri Oct 19 18:42:16 +0000 2018",
+		"id": 1053355669552803800,
+		"id_str": "1053355669552803840",
+		"full_text": "\"A rainbow of earth tones\"\n\nWauw. https://t.co/urNjhQHBJZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/urNjhQHBJZ",
+					"expanded_url": "https://twitter.com/pearljamholland/status/1053354571928612865",
+					"display_url": "twitter.com/pearljamhollan…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8980,
+			"friends_count": 166,
+			"listed_count": 598,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4757,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60668,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1053354571928612900,
+		"quoted_status_id_str": "1053354571928612865",
+		"quoted_status_permalink": {
+			"url": "https://t.co/urNjhQHBJZ",
+			"expanded": "https://twitter.com/pearljamholland/status/1053354571928612865",
+			"display": "twitter.com/pearljamhollan…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 19 18:37:54 +0000 2018",
+			"id": 1053354571928612900,
+			"id_str": "1053354571928612865",
+			"full_text": ".@JohnMayer on @PearlJam’s Vs.! #PearlJamVs https://t.co/aQ4EuO0pw2",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				43
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "PearlJamVs",
+						"indices": [
+							32,
+							43
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "JohnMayer",
+						"name": "John Mayer",
+						"id": 335534204,
+						"id_str": "335534204",
+						"indices": [
+							1,
+							11
+						]
+					},
+					{
+						"screen_name": "PearlJam",
+						"name": "Pearl Jam",
+						"id": 15155074,
+						"id_str": "15155074",
+						"indices": [
+							15,
+							24
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1053354566262157300,
+						"id_str": "1053354566262157312",
+						"indices": [
+							44,
+							67
+						],
+						"media_url": "http://pbs.twimg.com/media/Dp5EZaiXcAAwhk4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dp5EZaiXcAAwhk4.jpg",
+						"url": "https://t.co/aQ4EuO0pw2",
+						"display_url": "pic.twitter.com/aQ4EuO0pw2",
+						"expanded_url": "https://twitter.com/PearlJamHolland/status/1053354571928612865/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 750,
+								"h": 761,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 670,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 761,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1053354566262157300,
+						"id_str": "1053354566262157312",
+						"indices": [
+							44,
+							67
+						],
+						"media_url": "http://pbs.twimg.com/media/Dp5EZaiXcAAwhk4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dp5EZaiXcAAwhk4.jpg",
+						"url": "https://t.co/aQ4EuO0pw2",
+						"display_url": "pic.twitter.com/aQ4EuO0pw2",
+						"expanded_url": "https://twitter.com/PearlJamHolland/status/1053354571928612865/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 750,
+								"h": 761,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 670,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 761,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2933941318,
+				"id_str": "2933941318",
+				"name": "Pearl Jam Holland",
+				"screen_name": "PearlJamHolland",
+				"location": "",
+				"description": "Troubled souls unite! Dutch PJ-fanaccount. Follow for Pearl Jam news, videos, lyrics, facts & photos. Instagram: pearljamholland.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1759,
+				"friends_count": 254,
+				"listed_count": 22,
+				"created_at": "Sat Dec 20 17:16:58 +0000 2014",
+				"favourites_count": 7334,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2974,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/968918956860985346/u_FxXkMa_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/968918956860985346/u_FxXkMa_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2933941318/1419097641",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"A rainbow of earth tones\"\n\nWauw. https://t.co/urNjhQHBJZ"
+	},
+	{
+		"created_at": "Fri Oct 19 18:41:23 +0000 2018",
+		"id": 1053355448106209300,
+		"id_str": "1053355448106209280",
+		"full_text": "@Markies @DeFries @KAFygi @roosvanvugt @BroosB Geen Facebook dus geen idee. Maar het zal wel goed zijn jou kennende 😉",
+		"truncated": false,
+		"display_text_range": [
+			47,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Markies",
+					"name": "Mark de Kock",
+					"id": 1858541,
+					"id_str": "1858541",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "DeFries",
+					"name": "Remkus de Vries",
+					"id": 14264386,
+					"id_str": "14264386",
+					"indices": [
+						9,
+						17
+					]
+				},
+				{
+					"screen_name": "KAFygi",
+					"name": "Kari-Anne Fygi",
+					"id": 8242152,
+					"id_str": "8242152",
+					"indices": [
+						18,
+						25
+					]
+				},
+				{
+					"screen_name": "roosvanvugt",
+					"name": "Roos van Vugt",
+					"id": 21687228,
+					"id_str": "21687228",
+					"indices": [
+						26,
+						38
+					]
+				},
+				{
+					"screen_name": "BroosB",
+					"name": "Amber",
+					"id": 18234003,
+					"id_str": "18234003",
+					"indices": [
+						39,
+						46
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1053353884394111000,
+		"in_reply_to_status_id_str": "1053353884394110976",
+		"in_reply_to_user_id": 1858541,
+		"in_reply_to_user_id_str": "1858541",
+		"in_reply_to_screen_name": "Markies",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8980,
+			"friends_count": 166,
+			"listed_count": 598,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4757,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60668,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@Markies @DeFries @KAFygi @roosvanvugt @BroosB Geen Facebook dus geen idee. Maar het zal wel goed zijn jou kennende 😉"
+	},
+	{
 		"created_at": "Fri Oct 19 06:01:19 +0000 2018",
 		"id": 1053164167811735600,
 		"id_str": "1053164167811735554",
