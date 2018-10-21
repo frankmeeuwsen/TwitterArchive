@@ -84,6 +84,321 @@ Grailbird.data.tweets_2018_10 =
 			"friends_count": 246,
 			"listed_count": 82,
 			"created_at": "Thu Jun 16 20:19:24 +0000 2011",
+			"favourites_count": 21226,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4606,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F2F2F2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1032134741368037377/E2EUFZmO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1032134741368037377/E2EUFZmO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/318641738/1535851741",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1053688450602467300,
+		"quoted_status_id_str": "1053688450602467330",
+		"quoted_status_permalink": {
+			"url": "https://t.co/vNGEPWFtYt",
+			"expanded": "https://twitter.com/oliverdarcy/status/1053688450602467330",
+			"display": "twitter.com/oliverdarcy/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Oct 20 16:44:37 +0000 2018",
+			"id": 1053688450602467300,
+			"id_str": "1053688450602467330",
+			"full_text": "Wow, @nytimes reports that the Saudis groomed a Twitter employee with access to users’ personal info and activity to spy on dissidents https://t.co/06ZTlBWgtU https://t.co/NLoBiSDMuy",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				158
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "nytimes",
+						"name": "The New York Times",
+						"id": 807095,
+						"id_str": "807095",
+						"indices": [
+							5,
+							13
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/06ZTlBWgtU",
+						"expanded_url": "https://www.nytimes.com/2018/10/20/us/politics/saudi-image-campaign-twitter.html",
+						"display_url": "nytimes.com/2018/10/20/us/…",
+						"indices": [
+							135,
+							158
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1053688429798670300,
+						"id_str": "1053688429798670337",
+						"indices": [
+							159,
+							182
+						],
+						"media_url": "http://pbs.twimg.com/media/Dp90C1IWwAEZY51.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dp90C1IWwAEZY51.jpg",
+						"url": "https://t.co/NLoBiSDMuy",
+						"display_url": "pic.twitter.com/NLoBiSDMuy",
+						"expanded_url": "https://twitter.com/oliverdarcy/status/1053688450602467330/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 547,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 965,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1125,
+								"h": 1399,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1053688429798670300,
+						"id_str": "1053688429798670337",
+						"indices": [
+							159,
+							182
+						],
+						"media_url": "http://pbs.twimg.com/media/Dp90C1IWwAEZY51.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dp90C1IWwAEZY51.jpg",
+						"url": "https://t.co/NLoBiSDMuy",
+						"display_url": "pic.twitter.com/NLoBiSDMuy",
+						"expanded_url": "https://twitter.com/oliverdarcy/status/1053688450602467330/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 547,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 965,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1125,
+								"h": 1399,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 27075032,
+				"id_str": "27075032",
+				"name": "Oliver Darcy",
+				"screen_name": "oliverdarcy",
+				"location": "New York City",
+				"description": "senior media reporter, @CNN. writing at the intersection of media & politics. inbox: oliver.darcy@turner.com",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 82726,
+				"friends_count": 1250,
+				"listed_count": 2254,
+				"created_at": "Fri Mar 27 19:20:52 +0000 2009",
+				"favourites_count": 19179,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 52003,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/875399969640992768/u2KhP4CN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875399969640992768/u2KhP4CN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/27075032/1497547810",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2746,
+			"favorite_count": 2716,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is another reason why decentralized social platforms like @MastodonProject are so important. On those platforms, there isn't a singular authority that has access to everyone's accounts and data. https://t.co/vNGEPWFtYt"
+	},
+	{
+		"created_at": "Sat Oct 20 21:24:25 +0000 2018",
+		"id": 1053758863273611300,
+		"id_str": "1053758863273611265",
+		"full_text": "This is another reason why decentralized social platforms like @MastodonProject are so important. On those platforms, there isn't a singular authority that has access to everyone's accounts and data. https://t.co/vNGEPWFtYt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MastodonProject",
+					"name": "Mastodon",
+					"id": 875882643614814200,
+					"id_str": "875882643614814208",
+					"indices": [
+						63,
+						79
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vNGEPWFtYt",
+					"expanded_url": "https://twitter.com/oliverdarcy/status/1053688450602467330",
+					"display_url": "twitter.com/oliverdarcy/st…",
+					"indices": [
+						200,
+						223
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 318641738,
+			"id_str": "318641738",
+			"name": "Corbin Davenport",
+			"screen_name": "corbindavenport",
+			"location": "Georgia, USA",
+			"description": "Chrome extension developer, web developer, writer for @AndroidPolice and @PCGamer.  Mastodon: https://t.co/XBDuKqP49u",
+			"url": "https://t.co/zgvkysJ7f8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zgvkysJ7f8",
+							"expanded_url": "https://corbin.io",
+							"display_url": "corbin.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/XBDuKqP49u",
+							"expanded_url": "https://toot.cafe/@corbin",
+							"display_url": "toot.cafe/@corbin",
+							"indices": [
+								94,
+								117
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8387,
+			"friends_count": 246,
+			"listed_count": 82,
+			"created_at": "Thu Jun 16 20:19:24 +0000 2011",
 			"favourites_count": 21225,
 			"utc_offset": null,
 			"time_zone": null,
