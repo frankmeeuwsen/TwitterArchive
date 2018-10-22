@@ -1,6 +1,239 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Mon Oct 22 17:53:18 +0000 2018",
+		"id": 1054430509235871700,
+		"id_str": "1054430509235871747",
+		"full_text": "Wouter Blok vraagt waarom...: https://t.co/nziO4FEfbQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nziO4FEfbQ",
+					"expanded_url": "https://diggingthedigital.com/22418/",
+					"display_url": "diggingthedigital.com/22418/",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://brid.gy/\" rel=\"nofollow\">Bridgy</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8981,
+			"friends_count": 167,
+			"listed_count": 598,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4773,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60705,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Wouter Blok vraagt waarom...: https://t.co/nziO4FEfbQ"
+	},
+	{
+		"created_at": "Mon Oct 22 16:25:10 +0000 2018",
+		"id": 1054408330070888400,
+		"id_str": "1054408330070888450",
+		"full_text": "Don't break up the Four — force them to share their data instead — by @johnbattelle https://t.co/zAacD4cxW8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "johnbattelle",
+					"name": "John Battelle",
+					"id": 14600116,
+					"id_str": "14600116",
+					"indices": [
+						70,
+						83
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zAacD4cxW8",
+					"expanded_url": "https://shift.newco.co/2018/10/21/dont-break-up-the-tech-oligarchs-force-them-to-share-instead/",
+					"display_url": "shift.newco.co/2018/10/21/don…",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9273802,
+			"id_str": "9273802",
+			"name": "Scott Galloway",
+			"screen_name": "profgalloway",
+			"location": "NYC",
+			"description": "Son of superhero (single mom) | Product of big government @ucla @berkeley | Prof Marketing @NYUStern | TED speaker | NYT bestseller https://t.co/FHQR2BnZqG",
+			"url": "https://t.co/ij5r6daiRN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ij5r6daiRN",
+							"expanded_url": "http://www.l2inc.com",
+							"display_url": "l2inc.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/FHQR2BnZqG",
+							"expanded_url": "http://thefourbook.com",
+							"display_url": "thefourbook.com",
+							"indices": [
+								132,
+								155
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 98221,
+			"friends_count": 2539,
+			"listed_count": 2139,
+			"created_at": "Sat Oct 06 02:08:16 +0000 2007",
+			"favourites_count": 8246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13359,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2340026837/e0whbyp1r1uy16o0vtz1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2340026837/e0whbyp1r1uy16o0vtz1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9273802/1507918741",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Don't break up the Four — force them to share their data instead — by @johnbattelle https://t.co/zAacD4cxW8"
+	},
+	{
 		"created_at": "Mon Oct 22 16:25:10 +0000 2018",
 		"id": 1054408330070888400,
 		"id_str": "1054408330070888450",
