@@ -1,6 +1,984 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Mon Oct 22 14:03:30 +0000 2018",
+		"id": 1054372680303042600,
+		"id_str": "1054372680303042561",
+		"full_text": "Jokkebrokken! @albertheijn https://t.co/EDxXP2bTGu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "albertheijn",
+					"name": "Albert Heijn",
+					"id": 279015870,
+					"id_str": "279015870",
+					"indices": [
+						14,
+						26
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1054372672266821600,
+					"id_str": "1054372672266821633",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/media/DqHiW-9X4AEuMzO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqHiW-9X4AEuMzO.jpg",
+					"url": "https://t.co/EDxXP2bTGu",
+					"display_url": "pic.twitter.com/EDxXP2bTGu",
+					"expanded_url": "https://twitter.com/BartMos/status/1054372680303042561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1054372672266821600,
+					"id_str": "1054372672266821633",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/media/DqHiW-9X4AEuMzO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqHiW-9X4AEuMzO.jpg",
+					"url": "https://t.co/EDxXP2bTGu",
+					"display_url": "pic.twitter.com/EDxXP2bTGu",
+					"expanded_url": "https://twitter.com/BartMos/status/1054372680303042561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1054372672279375900,
+					"id_str": "1054372672279375872",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/media/DqHiW_AXcAA3oWY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqHiW_AXcAA3oWY.jpg",
+					"url": "https://t.co/EDxXP2bTGu",
+					"display_url": "pic.twitter.com/EDxXP2bTGu",
+					"expanded_url": "https://twitter.com/BartMos/status/1054372680303042561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 126342882,
+			"id_str": "126342882",
+			"name": "Bart  Mos",
+			"screen_name": "BartMos",
+			"location": "",
+			"description": "Journalist | Winnaar Tegel 2006 (AIVD) | George Polk Award 2014 (Big 4) | Genomineerd Tegel 2014 (KPMG) | Ex-bewoner PI-Haaglanden | Tips: bmos@telegraaf.nl",
+			"url": "https://t.co/dBiNMErwxU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dBiNMErwxU",
+							"expanded_url": "http://www.telegraaf.nl",
+							"display_url": "telegraaf.nl",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15263,
+			"friends_count": 2019,
+			"listed_count": 191,
+			"created_at": "Thu Mar 25 15:13:40 +0000 2010",
+			"favourites_count": 8205,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 554,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/823847234974445568/7uD2bpOZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/823847234974445568/7uD2bpOZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/126342882/1534687601",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 84,
+		"favorite_count": 214,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "da",
+		"text": "Jokkebrokken! @albertheijn https://t.co/EDxXP2bTGu"
+	},
+	{
+		"created_at": "Sun Oct 21 00:26:32 +0000 2018",
+		"id": 1053804693892132900,
+		"id_str": "1053804693892132864",
+		"full_text": "This week I plan to teach a computer how to take photos.  I have some objects in a scene, and the AI can fly around and point a camera at them. #procjam #procgen https://t.co/IC3Xb8hP93",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "procjam",
+					"indices": [
+						144,
+						152
+					]
+				},
+				{
+					"text": "procgen",
+					"indices": [
+						153,
+						161
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1053804556725846000,
+					"id_str": "1053804556725846016",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/Dp_dqTpVAAAtmhh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dp_dqTpVAAAtmhh.jpg",
+					"url": "https://t.co/IC3Xb8hP93",
+					"display_url": "pic.twitter.com/IC3Xb8hP93",
+					"expanded_url": "https://twitter.com/CliffNordman/status/1053804693892132864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 744,
+							"h": 595,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 544,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 744,
+							"h": 595,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1053804556725846000,
+					"id_str": "1053804556725846016",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/Dp_dqTpVAAAtmhh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dp_dqTpVAAAtmhh.jpg",
+					"url": "https://t.co/IC3Xb8hP93",
+					"display_url": "pic.twitter.com/IC3Xb8hP93",
+					"expanded_url": "https://twitter.com/CliffNordman/status/1053804693892132864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 744,
+							"h": 595,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 544,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 744,
+							"h": 595,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1053804556734197800,
+					"id_str": "1053804556734197760",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/Dp_dqTrUcAAjNE9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dp_dqTrUcAAjNE9.jpg",
+					"url": "https://t.co/IC3Xb8hP93",
+					"display_url": "pic.twitter.com/IC3Xb8hP93",
+					"expanded_url": "https://twitter.com/CliffNordman/status/1053804693892132864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 743,
+							"h": 595,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 545,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 743,
+							"h": 595,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1053804556763594800,
+					"id_str": "1053804556763594752",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/Dp_dqTyVAAAAT_k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dp_dqTyVAAAAT_k.jpg",
+					"url": "https://t.co/IC3Xb8hP93",
+					"display_url": "pic.twitter.com/IC3Xb8hP93",
+					"expanded_url": "https://twitter.com/CliffNordman/status/1053804693892132864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 743,
+							"h": 599,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 548,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 743,
+							"h": 599,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 343058017,
+			"id_str": "343058017",
+			"name": "Cliff",
+			"screen_name": "CliffNordman",
+			"location": "Seattle, WA",
+			"description": "cosplay photos, databases, procedural generation, table-top RPGs, yelling encouragement to my friends",
+			"url": "https://t.co/dY67uYmbia",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dY67uYmbia",
+							"expanded_url": "http://cliffnordman.com",
+							"display_url": "cliffnordman.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275,
+			"friends_count": 294,
+			"listed_count": 1,
+			"created_at": "Wed Jul 27 00:35:19 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2925,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1051532564588978176/ao4qIcN__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1051532564588978176/ao4qIcN__normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This week I plan to teach a computer how to take photos.  I have some objects in a scene, and the AI can fly around and point a camera at them. #procjam #procgen https://t.co/IC3Xb8hP93"
+	},
+	{
+		"created_at": "Mon Oct 22 15:11:32 +0000 2018",
+		"id": 1054389798818009100,
+		"id_str": "1054389798818009088",
+		"full_text": "@davewiner Have you seen the developments around websub and micropub? Have a chat with @aaronpk to see what he and many others are doing on the open web.",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "davewiner",
+					"name": "scripting.com",
+					"id": 3839,
+					"id_str": "3839",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "aaronpk",
+					"name": "Aaron Parecki",
+					"id": 14447132,
+					"id_str": "14447132",
+					"indices": [
+						87,
+						95
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1054385420379799600,
+		"in_reply_to_status_id_str": "1054385420379799552",
+		"in_reply_to_user_id": 3839,
+		"in_reply_to_user_id_str": "3839",
+		"in_reply_to_screen_name": "davewiner",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8981,
+			"friends_count": 167,
+			"listed_count": 598,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4773,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60703,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@davewiner Have you seen the developments around websub and micropub? Have a chat with @aaronpk to see what he and many others are doing on the open web."
+	},
+	{
+		"created_at": "Mon Oct 22 14:36:59 +0000 2018",
+		"id": 1054381106487795700,
+		"id_str": "1054381106487795714",
+		"full_text": "@bregisback @Raymondwitvoet Al zet je je #dailypin dagelijks op je blog en laat je die doorplaatsen naar Twitter. Dan bouw je in elk geval een mooie verzameling op in eigen beheer ipv in de archieven van een sociale silo ;-) #indieweb #FTW",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			239
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "dailypin",
+					"indices": [
+						41,
+						50
+					]
+				},
+				{
+					"text": "indieweb",
+					"indices": [
+						225,
+						234
+					]
+				},
+				{
+					"text": "FTW",
+					"indices": [
+						235,
+						239
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bregisback",
+					"name": "Bregje",
+					"id": 14460468,
+					"id_str": "14460468",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "Raymondwitvoet",
+					"name": "Raymond Witvoet",
+					"id": 17833237,
+					"id_str": "17833237",
+					"indices": [
+						12,
+						27
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1054379150826528800,
+		"in_reply_to_status_id_str": "1054379150826528768",
+		"in_reply_to_user_id": 14460468,
+		"in_reply_to_user_id_str": "14460468",
+		"in_reply_to_screen_name": "bregisback",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8981,
+			"friends_count": 167,
+			"listed_count": 598,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4773,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60703,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@bregisback @Raymondwitvoet Al zet je je #dailypin dagelijks op je blog en laat je die doorplaatsen naar Twitter. Dan bouw je in elk geval een mooie verzameling op in eigen beheer ipv in de archieven van een sociale silo ;-) #indieweb #FTW"
+	},
+	{
+		"created_at": "Mon Oct 22 14:33:39 +0000 2018",
+		"id": 1054380264628150300,
+		"id_str": "1054380264628150272",
+		"full_text": "@bregisback @Raymondwitvoet Misschien is er binnenkort een Homebrew Website Club in Amsterdam ofzo. (@Sebsel heb je plannen?) Dan kom je gewoon een paar uurtjes aan je blog werken. Wij helpen je wel. Zie https://t.co/D2rnFTatqm",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			227
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bregisback",
+					"name": "Bregje",
+					"id": 14460468,
+					"id_str": "14460468",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "Raymondwitvoet",
+					"name": "Raymond Witvoet",
+					"id": 17833237,
+					"id_str": "17833237",
+					"indices": [
+						12,
+						27
+					]
+				},
+				{
+					"screen_name": "Sebsel",
+					"name": "Sebastiaan Andeweg",
+					"id": 32492723,
+					"id_str": "32492723",
+					"indices": [
+						101,
+						108
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/D2rnFTatqm",
+					"expanded_url": "https://diggingthedigital.com/Homebrew-Website-Club-Meetup-1/",
+					"display_url": "diggingthedigital.com/Homebrew-Websi…",
+					"indices": [
+						204,
+						227
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1054379150826528800,
+		"in_reply_to_status_id_str": "1054379150826528768",
+		"in_reply_to_user_id": 14460468,
+		"in_reply_to_user_id_str": "14460468",
+		"in_reply_to_screen_name": "bregisback",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8981,
+			"friends_count": 167,
+			"listed_count": 598,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4773,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60703,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@bregisback @Raymondwitvoet Misschien is er binnenkort een Homebrew Website Club in Amsterdam ofzo. (@Sebsel heb je plannen?) Dan kom je gewoon een paar uurtjes aan je blog werken. Wij helpen je wel. Zie https://t.co/D2rnFTatqm"
+	},
+	{
+		"created_at": "Mon Oct 22 14:22:43 +0000 2018",
+		"id": 1054377513458298900,
+		"id_str": "1054377513458298885",
+		"full_text": "@bregisback Koop een domeinnaam, knoop er WordPress aan (of laat het knopen) en begin. Versnippering is niet erg. Het on-versnipper-proces kan al een blogpost zijn. Maar het belangrijkste is: Heb een eigen domein waar je zelf de controle hebt. De rest volgt wel.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			262
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bregisback",
+					"name": "Bregje",
+					"id": 14460468,
+					"id_str": "14460468",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1054376924418588700,
+		"in_reply_to_status_id_str": "1054376924418588672",
+		"in_reply_to_user_id": 14460468,
+		"in_reply_to_user_id_str": "14460468",
+		"in_reply_to_screen_name": "bregisback",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8981,
+			"friends_count": 167,
+			"listed_count": 598,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4773,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60703,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@bregisback Koop een domeinnaam, knoop er WordPress aan (of laat het knopen) en begin. Versnippering is niet erg. Het on-versnipper-proces kan al een blogpost zijn. Maar het belangrijkste is: Heb een eigen domein waar je zelf de controle hebt. De rest volgt wel."
+	},
+	{
 		"created_at": "Mon Oct 22 14:17:51 +0000 2018",
 		"id": 1054376288864141300,
 		"id_str": "1054376288864141313",
