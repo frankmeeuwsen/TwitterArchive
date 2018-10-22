@@ -1,6 +1,448 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Mon Oct 22 10:33:04 +0000 2018",
+		"id": 1054319721523437600,
+		"id_str": "1054319721523437569",
+		"full_text": "It doesn't get Eddie Vedder than this... /cc @roosvanvugt @Markies @DeFries @KAFygi @ChristaRomp https://t.co/ZeR992Wsml",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "roosvanvugt",
+					"name": "Roos van Vugt",
+					"id": 21687228,
+					"id_str": "21687228",
+					"indices": [
+						45,
+						57
+					]
+				},
+				{
+					"screen_name": "Markies",
+					"name": "Mark de Kock",
+					"id": 1858541,
+					"id_str": "1858541",
+					"indices": [
+						58,
+						66
+					]
+				},
+				{
+					"screen_name": "DeFries",
+					"name": "Remkus de Vries",
+					"id": 14264386,
+					"id_str": "14264386",
+					"indices": [
+						67,
+						75
+					]
+				},
+				{
+					"screen_name": "KAFygi",
+					"name": "Kari-Anne Fygi",
+					"id": 8242152,
+					"id_str": "8242152",
+					"indices": [
+						76,
+						83
+					]
+				},
+				{
+					"screen_name": "ChristaRomp",
+					"name": "Christa Romp",
+					"id": 26492815,
+					"id_str": "26492815",
+					"indices": [
+						84,
+						96
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZeR992Wsml",
+					"expanded_url": "https://twitter.com/demetriosns/status/1054315542289567749",
+					"display_url": "twitter.com/demetriosns/st…",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8982,
+			"friends_count": 166,
+			"listed_count": 598,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4770,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60695,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1054315542289567700,
+		"quoted_status_id_str": "1054315542289567749",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ZeR992Wsml",
+			"expanded": "https://twitter.com/demetriosns/status/1054315542289567749",
+			"display": "twitter.com/demetriosns/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 22 10:16:28 +0000 2018",
+			"id": 1054315542289567700,
+			"id_str": "1054315542289567749",
+			"full_text": "Eddie Vedder is the GOAT! https://t.co/gZvMFC7YK6 https://t.co/znKdoFHCUN",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				49
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/gZvMFC7YK6",
+						"expanded_url": "https://www.reddit.com/r/pearljam/comments/9q6m7q/eddie_vedder_is_the_goat/",
+						"display_url": "reddit.com/r/pearljam/com…",
+						"indices": [
+							26,
+							49
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1054314724580446200,
+						"id_str": "1054314724580446213",
+						"indices": [
+							50,
+							73
+						],
+						"media_url": "http://pbs.twimg.com/media/DqGtp_AU0AU-T_V.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DqGtp_AU0AU-T_V.jpg",
+						"url": "https://t.co/znKdoFHCUN",
+						"display_url": "pic.twitter.com/znKdoFHCUN",
+						"expanded_url": "https://twitter.com/demetriosns/status/1054315542289567749/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 433,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1303,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 763,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1054314724580446200,
+						"id_str": "1054314724580446213",
+						"indices": [
+							50,
+							73
+						],
+						"media_url": "http://pbs.twimg.com/media/DqGtp_AU0AU-T_V.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DqGtp_AU0AU-T_V.jpg",
+						"url": "https://t.co/znKdoFHCUN",
+						"display_url": "pic.twitter.com/znKdoFHCUN",
+						"expanded_url": "https://twitter.com/demetriosns/status/1054315542289567749/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 433,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1303,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 763,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1054314724706250800,
+						"id_str": "1054314724706250753",
+						"indices": [
+							50,
+							73
+						],
+						"media_url": "http://pbs.twimg.com/media/DqGtp_eUcAE_tuw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DqGtp_eUcAE_tuw.jpg",
+						"url": "https://t.co/znKdoFHCUN",
+						"display_url": "pic.twitter.com/znKdoFHCUN",
+						"expanded_url": "https://twitter.com/demetriosns/status/1054315542289567749/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1440,
+								"h": 1723,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1003,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 568,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1054314724572033000,
+						"id_str": "1054314724572033025",
+						"indices": [
+							50,
+							73
+						],
+						"media_url": "http://pbs.twimg.com/media/DqGtp--UcAEoP5C.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DqGtp--UcAEoP5C.jpg",
+						"url": "https://t.co/znKdoFHCUN",
+						"display_url": "pic.twitter.com/znKdoFHCUN",
+						"expanded_url": "https://twitter.com/demetriosns/status/1054315542289567749/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1186,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1440,
+								"h": 1423,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 672,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1054314724874047500,
+						"id_str": "1054314724874047488",
+						"indices": [
+							50,
+							73
+						],
+						"media_url": "http://pbs.twimg.com/media/DqGtqAGU0AAY75d.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DqGtqAGU0AAY75d.jpg",
+						"url": "https://t.co/znKdoFHCUN",
+						"display_url": "pic.twitter.com/znKdoFHCUN",
+						"expanded_url": "https://twitter.com/demetriosns/status/1054315542289567749/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 673,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 381,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1149,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2445883256,
+				"id_str": "2445883256",
+				"name": "demetrios",
+				"screen_name": "demetriosns",
+				"location": "canada",
+				"description": "#pearljam",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1980,
+				"friends_count": 2080,
+				"listed_count": 32,
+				"created_at": "Tue Apr 15 19:14:28 +0000 2014",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 15481,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/964089175489351680/xBdqHMwd_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/964089175489351680/xBdqHMwd_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2445883256/1518692315",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It doesn't get Eddie Vedder than this... /cc @roosvanvugt @Markies @DeFries @KAFygi @ChristaRomp https://t.co/ZeR992Wsml"
+	},
+	{
 		"created_at": "Mon Oct 22 08:13:07 +0000 2018",
 		"id": 1054284499658379300,
 		"id_str": "1054284499658379264",
