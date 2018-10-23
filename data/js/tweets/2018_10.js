@@ -1,6 +1,116 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Tue Oct 23 09:19:57 +0000 2018",
+		"id": 1054663708503347200,
+		"id_str": "1054663708503347200",
+		"full_text": "Is er hier nog een frontender aanwezig die full/parttime (loondienst) aan hele vette dingen wil werken. De hele chain is in eigen beheer. Van service tot datacenter. #macketmar #stuurdm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "macketmar",
+					"indices": [
+						166,
+						176
+					]
+				},
+				{
+					"text": "stuurdm",
+					"indices": [
+						177,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 997804616455770100,
+			"id_str": "997804616455770113",
+			"name": "Tjarko Rikkerink",
+			"screen_name": "tjarko",
+			"location": "Oss, Nederland",
+			"description": "Doet dingen, en ook best goed. De vorige @tjarko zat hier van 10/2007 - 10/2017 en begon weer opnieuw. Offline influencert",
+			"url": "https://t.co/PMVL0xwwjr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PMVL0xwwjr",
+							"expanded_url": "https://www.linkedin.com/in/tjarkorikkerink/",
+							"display_url": "linkedin.com/in/tjarkorikke…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 342,
+			"friends_count": 366,
+			"listed_count": 2,
+			"created_at": "Sat May 19 11:42:13 +0000 2018",
+			"favourites_count": 3170,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 170,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1007915058498801664/wGrZYu8N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1007915058498801664/wGrZYu8N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/997804616455770113/1526730281",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "nl",
+		"text": "Is er hier nog een frontender aanwezig die full/parttime (loondienst) aan hele vette dingen wil werken. De hele chain is in eigen beheer. Van service tot datacenter. #macketmar #stuurdm"
+	},
+	{
 		"created_at": "Tue Oct 23 04:56:50 +0000 2018",
 		"id": 1054597492464070700,
 		"id_str": "1054597492464070656",
