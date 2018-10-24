@@ -71,6 +71,382 @@ Grailbird.data.tweets_2018_10 =
 			"protected": false,
 			"followers_count": 21870,
 			"friends_count": 2226,
+			"listed_count": 989,
+			"created_at": "Tue Apr 22 14:41:58 +0000 2008",
+			"favourites_count": 49010,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 79859,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF6921",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/931365175298465792/nvtH_49y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/931365175298465792/nvtH_49y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14475298/1524158062",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1055105150082318300,
+		"quoted_status_id_str": "1055105150082318336",
+		"quoted_status_permalink": {
+			"url": "https://t.co/QhQwLbglgi",
+			"expanded": "https://twitter.com/kirstie_j/status/1055105150082318336",
+			"display": "twitter.com/kirstie_j/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 24 14:34:05 +0000 2018",
+			"id": 1055105150082318300,
+			"id_str": "1055105150082318336",
+			"full_text": "Fantastic learning from @tinysubversions about the differences between @Twitter and @MastodonProject. Centralised vs the #decentralised web! @codeforsociety @dat_project #MozFest #MozFestHouse #WhySpace https://t.co/U5Aw7rNEa1",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				202
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "decentralised",
+						"indices": [
+							121,
+							135
+						]
+					},
+					{
+						"text": "MozFest",
+						"indices": [
+							170,
+							178
+						]
+					},
+					{
+						"text": "MozFestHouse",
+						"indices": [
+							179,
+							192
+						]
+					},
+					{
+						"text": "WhySpace",
+						"indices": [
+							193,
+							202
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "tinysubversions",
+						"name": "Darius Kazemi",
+						"id": 14475298,
+						"id_str": "14475298",
+						"indices": [
+							24,
+							40
+						]
+					},
+					{
+						"screen_name": "Twitter",
+						"name": "Twitter",
+						"id": 783214,
+						"id_str": "783214",
+						"indices": [
+							71,
+							79
+						]
+					},
+					{
+						"screen_name": "MastodonProject",
+						"name": "Mastodon",
+						"id": 875882643614814200,
+						"id_str": "875882643614814208",
+						"indices": [
+							84,
+							100
+						]
+					},
+					{
+						"screen_name": "codeforsociety",
+						"name": "Code for Science & Society",
+						"id": 972644920371458000,
+						"id_str": "972644920371458049",
+						"indices": [
+							141,
+							156
+						]
+					},
+					{
+						"screen_name": "dat_project",
+						"name": "Dat Project",
+						"id": 2196680173,
+						"id_str": "2196680173",
+						"indices": [
+							157,
+							169
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1055105127353335800,
+						"id_str": "1055105127353335808",
+						"indices": [
+							203,
+							226
+						],
+						"media_url": "http://pbs.twimg.com/media/DqR8heyWwAAoK0k.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DqR8heyWwAAoK0k.jpg",
+						"url": "https://t.co/U5Aw7rNEa1",
+						"display_url": "pic.twitter.com/U5Aw7rNEa1",
+						"expanded_url": "https://twitter.com/kirstie_j/status/1055105150082318336/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1055105127353335800,
+						"id_str": "1055105127353335808",
+						"indices": [
+							203,
+							226
+						],
+						"media_url": "http://pbs.twimg.com/media/DqR8heyWwAAoK0k.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DqR8heyWwAAoK0k.jpg",
+						"url": "https://t.co/U5Aw7rNEa1",
+						"display_url": "pic.twitter.com/U5Aw7rNEa1",
+						"expanded_url": "https://twitter.com/kirstie_j/status/1055105150082318336/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 37989702,
+				"id_str": "37989702",
+				"name": "Kirstie Whitaker",
+				"screen_name": "kirstie_j",
+				"location": "Cambridge, UK",
+				"description": "Research fellow @turinginst & @psychiatry_ucam | Neuroscientist | Open advocate | @mozillascience & @USUKFulbright alumna | Intersectional feminist | she/her",
+				"url": "https://t.co/nLrm7RCDdc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/nLrm7RCDdc",
+								"expanded_url": "http://whitakerlab.github.io",
+								"display_url": "whitakerlab.github.io",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4348,
+				"friends_count": 3098,
+				"listed_count": 338,
+				"created_at": "Tue May 05 18:50:47 +0000 2009",
+				"favourites_count": 16548,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 34885,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/599173943405223937/oNvZRB25_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/599173943405223937/oNvZRB25_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/37989702/1419951123",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 7,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here is my very technical overview of how federation works on networks like Mastodon https://t.co/QhQwLbglgi"
+	},
+	{
+		"created_at": "Wed Oct 24 14:41:25 +0000 2018",
+		"id": 1055106997694226400,
+		"id_str": "1055106997694226433",
+		"full_text": "Here is my very technical overview of how federation works on networks like Mastodon https://t.co/QhQwLbglgi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QhQwLbglgi",
+					"expanded_url": "https://twitter.com/kirstie_j/status/1055105150082318336",
+					"display_url": "twitter.com/kirstie_j/stat…",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14475298,
+			"id_str": "14475298",
+			"name": "Darius Kazemi",
+			"screen_name": "tinysubversions",
+			"location": "Portland, OR",
+			"description": "I make weird internet art. I've mostly left Twitter, I'm at https://t.co/ccDElE4ZLE  Worker-owner at @feeltraincoop. Mozilla Open Web Fellow Sep 2018. #WHNBM he/him",
+			"url": "https://t.co/IoTmQk4rMq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IoTmQk4rMq",
+							"expanded_url": "http://tinysubversions.com",
+							"display_url": "tinysubversions.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ccDElE4ZLE",
+							"expanded_url": "http://friend.camp/@darius",
+							"display_url": "friend.camp/@darius",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 21870,
+			"friends_count": 2226,
 			"listed_count": 988,
 			"created_at": "Tue Apr 22 14:41:58 +0000 2008",
 			"favourites_count": 49017,
