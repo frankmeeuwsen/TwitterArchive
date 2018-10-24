@@ -1,6 +1,252 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Wed Oct 24 08:37:22 +0000 2018",
+		"id": 1055015381486723100,
+		"id_str": "1055015381486723072",
+		"full_text": "Made with 💜 by @iamOlisto and more to come... zie https://t.co/BsWbncAATf voor meer info en de commando's https://t.co/wLDpotrWXy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "iamOlisto",
+					"name": "Olisto",
+					"id": 3879014177,
+					"id_str": "3879014177",
+					"indices": [
+						15,
+						25
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BsWbncAATf",
+					"expanded_url": "https://olisto.com/maak-je-toon-nog-slimmer-met-google-home/",
+					"display_url": "olisto.com/maak-je-toon-n…",
+					"indices": [
+						50,
+						73
+					]
+				},
+				{
+					"url": "https://t.co/wLDpotrWXy",
+					"expanded_url": "https://twitter.com/rachidfinge/status/1055014143818899456",
+					"display_url": "twitter.com/rachidfinge/st…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8982,
+			"friends_count": 172,
+			"listed_count": 598,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4782,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60685,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1055014143818899500,
+		"quoted_status_id_str": "1055014143818899456",
+		"quoted_status_permalink": {
+			"url": "https://t.co/wLDpotrWXy",
+			"expanded": "https://twitter.com/rachidfinge/status/1055014143818899456",
+			"display": "twitter.com/rachidfinge/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 24 08:32:27 +0000 2018",
+			"id": 1055014143818899500,
+			"id_str": "1055014143818899456",
+			"full_text": "Wist je dat... Google Home niet alleen je Nest Thermostat kan bedienen, maar ook Toon van @Eneco? #GoogleHome",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				109
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GoogleHome",
+						"indices": [
+							98,
+							109
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Eneco",
+						"name": "Eneco",
+						"id": 177189845,
+						"id_str": "177189845",
+						"indices": [
+							90,
+							96
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 1055014142468390900,
+			"in_reply_to_status_id_str": "1055014142468390912",
+			"in_reply_to_user_id": 18571417,
+			"in_reply_to_user_id_str": "18571417",
+			"in_reply_to_screen_name": "rachidfinge",
+			"user": {
+				"id": 18571417,
+				"id_str": "18571417",
+				"name": "Rachid Finge",
+				"screen_name": "rachidfinge",
+				"location": "Utrecht, the Netherlands",
+				"description": "Communications Manager @ Google & YouTube Nederland • Hardloper • Drummer • Communicatiewetenschap • @grandprixradio • Radio ❤️ • #F1",
+				"url": "https://t.co/Ay6hPraCFB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Ay6hPraCFB",
+								"expanded_url": "https://rachid.nl/",
+								"display_url": "rachid.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 19472,
+				"friends_count": 2897,
+				"listed_count": 605,
+				"created_at": "Sat Jan 03 03:02:15 +0000 2009",
+				"favourites_count": 3746,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 91545,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "292929",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/956804552967294976/6WSwEGR7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/956804552967294976/6WSwEGR7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18571417/1406363683",
+				"profile_link_color": "366ED1",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "nl"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Made with 💜 by @iamOlisto and more to come... zie https://t.co/BsWbncAATf voor meer info en de commando's https://t.co/wLDpotrWXy"
+	},
+	{
 		"created_at": "Tue Oct 23 17:59:01 +0000 2018",
 		"id": 1054794335743549400,
 		"id_str": "1054794335743549441",
