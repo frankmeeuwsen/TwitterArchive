@@ -1,6 +1,333 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Fri Oct 26 14:27:33 +0000 2018",
+		"id": 1055828283017912300,
+		"id_str": "1055828283017912320",
+		"full_text": "Ik ben benieuwd voor welk product of dienst \"mensen die de papieren krant lezen\" de doelgroep zijn. \n\nBehalve de papieren krant zelf dan. https://t.co/6aoCY6LTeM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6aoCY6LTeM",
+					"expanded_url": "https://twitter.com/erikmouthaanrtl/status/1055785819687084033",
+					"display_url": "twitter.com/erikmouthaanrt…",
+					"indices": [
+						138,
+						161
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8981,
+			"friends_count": 172,
+			"listed_count": 598,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4788,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60691,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1055785819687084000,
+		"quoted_status_id_str": "1055785819687084033",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6aoCY6LTeM",
+			"expanded": "https://twitter.com/erikmouthaanrtl/status/1055785819687084033",
+			"display": "twitter.com/erikmouthaanrt…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 26 11:38:49 +0000 2018",
+			"id": 1055785819687084000,
+			"id_str": "1055785819687084033",
+			"full_text": "4 pagina glossy advertentiebijlage voor een videogame (!) en dat terwijl mensen die een papieren krant lezen toch niet echt de game doelgroep zullen zijn. https://t.co/qPQ2sYIDd8",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				154
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1055785771267973100,
+						"id_str": "1055785771267973120",
+						"indices": [
+							155,
+							178
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1055785771267973120/pu/img/fcggHbm_mB7NdSKB.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1055785771267973120/pu/img/fcggHbm_mB7NdSKB.jpg",
+						"url": "https://t.co/qPQ2sYIDd8",
+						"display_url": "pic.twitter.com/qPQ2sYIDd8",
+						"expanded_url": "https://twitter.com/erikmouthaanRTL/status/1055785819687084033/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1055785771267973100,
+						"id_str": "1055785771267973120",
+						"indices": [
+							155,
+							178
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1055785771267973120/pu/img/fcggHbm_mB7NdSKB.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1055785771267973120/pu/img/fcggHbm_mB7NdSKB.jpg",
+						"url": "https://t.co/qPQ2sYIDd8",
+						"display_url": "pic.twitter.com/qPQ2sYIDd8",
+						"expanded_url": "https://twitter.com/erikmouthaanRTL/status/1055785819687084033/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 3333,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1055785771267973120/pu/vid/360x640/OfmE_RGBDK-t9X24.mp4?tag=5"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1055785771267973120/pu/vid/180x320/2V2nqytj3iHIakgT.mp4?tag=5"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1055785771267973120/pu/vid/720x1280/gnK3Y2q4Q4Kf-H9G.mp4?tag=5"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1055785771267973120/pu/pl/IFeujaKd7c2_e7Nv.m3u8?tag=5"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 9130642,
+				"id_str": "9130642",
+				"name": "Erik Mouthaan",
+				"screen_name": "erikmouthaanRTL",
+				"location": "New York",
+				"description": "North-America correspondent Dutch RTL Nieuws / ‘calvinistische trut’ / New York City, baby / https://t.co/Eei2rjVhhA",
+				"url": "https://t.co/CdGxqifZLe",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/CdGxqifZLe",
+								"expanded_url": "http://www.rtlnieuws.nl",
+								"display_url": "rtlnieuws.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Eei2rjVhhA",
+								"expanded_url": "http://www.youtube.com/rtlny",
+								"display_url": "youtube.com/rtlny",
+								"indices": [
+									93,
+									116
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 103157,
+				"friends_count": 638,
+				"listed_count": 1296,
+				"created_at": "Thu Sep 27 19:56:09 +0000 2007",
+				"favourites_count": 2825,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 42392,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1051532101609287685/TuiZgvuc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1051532101609287685/TuiZgvuc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/9130642/1452029546",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 18,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Ik ben benieuwd voor welk product of dienst \"mensen die de papieren krant lezen\" de doelgroep zijn. \n\nBehalve de papieren krant zelf dan. https://t.co/6aoCY6LTeM"
+	},
+	{
 		"created_at": "Thu Oct 25 11:16:45 +0000 2018",
 		"id": 1055417878403563500,
 		"id_str": "1055417878403563521",
