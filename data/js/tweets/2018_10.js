@@ -1,6 +1,443 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Mon Oct 29 19:59:40 +0000 2018",
+		"id": 1056999027420606500,
+		"id_str": "1056999027420606466",
+		"full_text": "@KirstenJassies @dBsUtrecht Hahaha... Ik lees de review wel op @NMTHYPE!",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KirstenJassies",
+					"name": "Kirsten Jassies",
+					"id": 15032299,
+					"id_str": "15032299",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "dBsUtrecht",
+					"name": "dB's",
+					"id": 40689544,
+					"id_str": "40689544",
+					"indices": [
+						16,
+						27
+					]
+				},
+				{
+					"screen_name": "NMTHYPE",
+					"name": "Never Mind The Hype",
+					"id": 473716479,
+					"id_str": "473716479",
+					"indices": [
+						63,
+						71
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1056998332026052600,
+		"in_reply_to_status_id_str": "1056998332026052608",
+		"in_reply_to_user_id": 15032299,
+		"in_reply_to_user_id_str": "15032299",
+		"in_reply_to_screen_name": "KirstenJassies",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8981,
+			"friends_count": 172,
+			"listed_count": 598,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4792,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60681,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@KirstenJassies @dBsUtrecht Hahaha... Ik lees de review wel op @NMTHYPE!"
+	},
+	{
+		"created_at": "Mon Oct 29 19:17:22 +0000 2018",
+		"id": 1056988379840241700,
+		"id_str": "1056988379840241665",
+		"full_text": "@KirstenJassies @dBsUtrecht Wanneer en waar voor het echie?",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KirstenJassies",
+					"name": "Kirsten Jassies",
+					"id": 15032299,
+					"id_str": "15032299",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "dBsUtrecht",
+					"name": "dB's",
+					"id": 40689544,
+					"id_str": "40689544",
+					"indices": [
+						16,
+						27
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1056987014120292400,
+		"in_reply_to_status_id_str": "1056987014120292353",
+		"in_reply_to_user_id": 15032299,
+		"in_reply_to_user_id_str": "15032299",
+		"in_reply_to_screen_name": "KirstenJassies",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8981,
+			"friends_count": 172,
+			"listed_count": 598,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4792,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60681,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@KirstenJassies @dBsUtrecht Wanneer en waar voor het echie?"
+	},
+	{
+		"created_at": "Mon Oct 29 19:07:57 +0000 2018",
+		"id": 1056986011564159000,
+		"id_str": "1056986011564158976",
+		"full_text": "Het is tijd voor een decentraal Instagram-alternatief (nee, geen Instagram-\"killer\"...)\n\nPixelfed: A decentralized take on Instagram https://t.co/etzLwuPavb via @patrickloonstra https://t.co/Y5MBanOWSb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "patrickloonstra",
+					"name": "Patrick 🕶",
+					"id": 9647022,
+					"id_str": "9647022",
+					"indices": [
+						161,
+						177
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/etzLwuPavb",
+					"expanded_url": "https://www.producthunt.com/posts/pixelfed",
+					"display_url": "producthunt.com/posts/pixelfed",
+					"indices": [
+						133,
+						156
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1056986009169289200,
+					"id_str": "1056986009169289216",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/DqsrLNkX4AAZCYP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqsrLNkX4AAZCYP.jpg",
+					"url": "https://t.co/Y5MBanOWSb",
+					"display_url": "pic.twitter.com/Y5MBanOWSb",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1056986011564158976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1056986009169289200,
+					"id_str": "1056986009169289216",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/DqsrLNkX4AAZCYP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqsrLNkX4AAZCYP.jpg",
+					"url": "https://t.co/Y5MBanOWSb",
+					"display_url": "pic.twitter.com/Y5MBanOWSb",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1056986011564158976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.producthunt.com\" rel=\"nofollow\">Product Hunt</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8981,
+			"friends_count": 172,
+			"listed_count": 598,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4792,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60681,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Het is tijd voor een decentraal Instagram-alternatief (nee, geen Instagram-\"killer\"...)\n\nPixelfed: A decentralized take on Instagram https://t.co/etzLwuPavb via @patrickloonstra https://t.co/Y5MBanOWSb"
+	},
+	{
 		"created_at": "Mon Oct 29 07:53:05 +0000 2018",
 		"id": 1056816173264916500,
 		"id_str": "1056816173264916481",
