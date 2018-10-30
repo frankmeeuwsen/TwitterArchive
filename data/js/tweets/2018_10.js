@@ -1,6 +1,604 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Tue Oct 30 08:15:55 +0000 2018",
+		"id": 1057184310095167500,
+		"id_str": "1057184310095167488",
+		"full_text": "Evernote heeft weer een nieuwe CEO? Zal mij benieuwen...\n\nInventing the Future: Greetings from Our New CEO https://t.co/IjqDIxzbb9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IjqDIxzbb9",
+					"expanded_url": "https://evernote.com/blog/ian-small-new-ceo/",
+					"display_url": "evernote.com/blog/ian-small…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8980,
+			"friends_count": 175,
+			"listed_count": 598,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4795,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60688,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Evernote heeft weer een nieuwe CEO? Zal mij benieuwen...\n\nInventing the Future: Greetings from Our New CEO https://t.co/IjqDIxzbb9"
+	},
+	{
+		"created_at": "Tue Oct 30 08:10:38 +0000 2018",
+		"id": 1057182980211380200,
+		"id_str": "1057182980211380225",
+		"full_text": "@StevenRKM @wimleers @attiks @swentel You can always try...",
+		"truncated": false,
+		"display_text_range": [
+			38,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StevenRKM",
+					"name": "Steven Reekmans",
+					"id": 243731174,
+					"id_str": "243731174",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "wimleers",
+					"name": "Wim Leers",
+					"id": 14637504,
+					"id_str": "14637504",
+					"indices": [
+						11,
+						20
+					]
+				},
+				{
+					"screen_name": "attiks",
+					"name": "Peter",
+					"id": 26830351,
+					"id_str": "26830351",
+					"indices": [
+						21,
+						28
+					]
+				},
+				{
+					"screen_name": "swentel",
+					"name": "Kristof De Jaeger",
+					"id": 48998488,
+					"id_str": "48998488",
+					"indices": [
+						29,
+						37
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1057182212842537000,
+		"in_reply_to_status_id_str": "1057182212842536960",
+		"in_reply_to_user_id": 243731174,
+		"in_reply_to_user_id_str": "243731174",
+		"in_reply_to_screen_name": "StevenRKM",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8980,
+			"friends_count": 175,
+			"listed_count": 598,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4795,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60688,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@StevenRKM @wimleers @attiks @swentel You can always try..."
+	},
+	{
+		"created_at": "Tue Oct 30 08:05:03 +0000 2018",
+		"id": 1057181573450219500,
+		"id_str": "1057181573450219520",
+		"full_text": "Ik heb in elk geval nog geen panterprint-regenpak gezien vanochtend...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8980,
+			"friends_count": 175,
+			"listed_count": 598,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4795,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60688,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "Ik heb in elk geval nog geen panterprint-regenpak gezien vanochtend..."
+	},
+	{
+		"created_at": "Tue Oct 30 07:54:34 +0000 2018",
+		"id": 1057178937913208800,
+		"id_str": "1057178937913208832",
+		"full_text": "@wimleers @StevenRKM @attiks @swentel Check out https://t.co/JgEjp88LPa to make RSS feeds from Twitterstreams. Long live the #indieweb! 😀🤩",
+		"truncated": false,
+		"display_text_range": [
+			38,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "indieweb",
+					"indices": [
+						125,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wimleers",
+					"name": "Wim Leers",
+					"id": 14637504,
+					"id_str": "14637504",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "StevenRKM",
+					"name": "Steven Reekmans",
+					"id": 243731174,
+					"id_str": "243731174",
+					"indices": [
+						10,
+						20
+					]
+				},
+				{
+					"screen_name": "attiks",
+					"name": "Peter",
+					"id": 26830351,
+					"id_str": "26830351",
+					"indices": [
+						21,
+						28
+					]
+				},
+				{
+					"screen_name": "swentel",
+					"name": "Kristof De Jaeger",
+					"id": 48998488,
+					"id_str": "48998488",
+					"indices": [
+						29,
+						37
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JgEjp88LPa",
+					"expanded_url": "https://granary.io/",
+					"display_url": "granary.io",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1057028961329442800,
+		"in_reply_to_status_id_str": "1057028961329442823",
+		"in_reply_to_user_id": 14637504,
+		"in_reply_to_user_id_str": "14637504",
+		"in_reply_to_screen_name": "wimleers",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8980,
+			"friends_count": 175,
+			"listed_count": 598,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4795,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60688,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@wimleers @StevenRKM @attiks @swentel Check out https://t.co/JgEjp88LPa to make RSS feeds from Twitterstreams. Long live the #indieweb! 😀🤩"
+	},
+	{
+		"created_at": "Tue Oct 30 07:24:09 +0000 2018",
+		"id": 1057171282746318800,
+		"id_str": "1057171282746318853",
+		"full_text": "The Indieweb Revolution • Digging the digital https://t.co/tk1HTHhnig",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tk1HTHhnig",
+					"expanded_url": "https://diggingthedigital.com/26289/",
+					"display_url": "diggingthedigital.com/26289/",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8980,
+			"friends_count": 175,
+			"listed_count": 598,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4795,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60688,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Indieweb Revolution • Digging the digital https://t.co/tk1HTHhnig"
+	},
+	{
 		"created_at": "Tue Oct 30 07:08:54 +0000 2018",
 		"id": 1057167444287070200,
 		"id_str": "1057167444287070209",
