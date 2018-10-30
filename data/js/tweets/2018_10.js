@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Mon Oct 29 07:34:53 +0000 2018",
+		"id": 1056811593177227300,
+		"id_str": "1056811593177227264",
+		"full_text": "Here's a dystopian vision of the future: A real announcement I recorded on the Beijing-Shanghai bullet train. (I've subtitled it so you can watch in silence.) https://t.co/ZoRWtdcSMy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1056811266273087500,
+					"id_str": "1056811266273087488",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1056811266273087488/pu/img/3HmJ_0CLx4Za5v5S.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1056811266273087488/pu/img/3HmJ_0CLx4Za5v5S.jpg",
+					"url": "https://t.co/ZoRWtdcSMy",
+					"display_url": "pic.twitter.com/ZoRWtdcSMy",
+					"expanded_url": "https://twitter.com/Psythor/status/1056811593177227264/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1056811266273087500,
+					"id_str": "1056811266273087488",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1056811266273087488/pu/img/3HmJ_0CLx4Za5v5S.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1056811266273087488/pu/img/3HmJ_0CLx4Za5v5S.jpg",
+					"url": "https://t.co/ZoRWtdcSMy",
+					"display_url": "pic.twitter.com/ZoRWtdcSMy",
+					"expanded_url": "https://twitter.com/Psythor/status/1056811593177227264/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 30133,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1056811266273087488/pu/vid/320x180/4An1KigXsnjJpRIp.mp4?tag=5"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1056811266273087488/pu/vid/640x360/zG2LDLIUjm75Vlf1.mp4?tag=5"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1056811266273087488/pu/vid/1280x720/Hn7yrOaPsCxHGkYB.mp4?tag=5"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1056811266273087488/pu/pl/ZAnYnuS8iZSNJRw5.m3u8?tag=5"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 629133,
+			"id_str": "629133",
+			"name": "James O'Malley",
+			"screen_name": "Psythor",
+			"location": "London",
+			"description": "Freelance journalist for hire. Politics/Tech/Data Mashing/Bad Takes. \n\nPreviously Editor of @GizmodoUK.\n\nI made @TrumpsAlert.\n\nTrustee @ConwayHall.",
+			"url": "http://t.co/Lfh4kIey3u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Lfh4kIey3u",
+							"expanded_url": "http://jamesomalley.co.uk",
+							"display_url": "jamesomalley.co.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12151,
+			"friends_count": 1151,
+			"listed_count": 395,
+			"created_at": "Fri Jan 12 16:05:55 +0000 2007",
+			"favourites_count": 5130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6620,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000033",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/568745955562778624/xawiEt8-_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/568745955562778624/xawiEt8-_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/629133/1400431434",
+			"profile_link_color": "003399",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFCC00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11277,
+		"favorite_count": 18157,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here's a dystopian vision of the future: A real announcement I recorded on the Beijing-Shanghai bullet train. (I've subtitled it so you can watch in silence.) https://t.co/ZoRWtdcSMy"
+	},
+	{
 		"created_at": "Mon Oct 29 19:59:40 +0000 2018",
 		"id": 1056999027420606500,
 		"id_str": "1056999027420606466",
