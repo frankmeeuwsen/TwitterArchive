@@ -1,6 +1,193 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Sun Oct 28 23:11:24 +0000 2018",
+		"id": 1056684890454921200,
+		"id_str": "1056684890454921216",
+		"full_text": "Dude has a prosthetic tattoo gun, this is the most Cyberpunk thing I've ever seen. https://t.co/z5Jev14OyN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1056684793281290200,
+					"id_str": "1056684793281290240",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1056684793281290240/pu/img/nRA60pfGVAFK8xL5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1056684793281290240/pu/img/nRA60pfGVAFK8xL5.jpg",
+					"url": "https://t.co/z5Jev14OyN",
+					"display_url": "pic.twitter.com/z5Jev14OyN",
+					"expanded_url": "https://twitter.com/klara_sjo/status/1056684890454921216/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 416,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 416,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 393,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1056684793281290200,
+					"id_str": "1056684793281290240",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1056684793281290240/pu/img/nRA60pfGVAFK8xL5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1056684793281290240/pu/img/nRA60pfGVAFK8xL5.jpg",
+					"url": "https://t.co/z5Jev14OyN",
+					"display_url": "pic.twitter.com/z5Jev14OyN",
+					"expanded_url": "https://twitter.com/klara_sjo/status/1056684890454921216/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 416,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 416,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 393,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							26,
+							45
+						],
+						"duration_millis": 14800,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1056684793281290240/pu/vid/180x310/biiWS4P6KBcjP6Xh.mp4?tag=5"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1056684793281290240/pu/pl/GfywI4fZ-Kj4aa4r.m3u8?tag=5"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1056684793281290240/pu/vid/416x720/eTWZuAZcY-y6Tq9u.mp4?tag=5"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 742371799116222500,
+			"id_str": "742371799116222464",
+			"name": "Klara Sjöberg",
+			"screen_name": "klara_sjo",
+			"location": "Sverige",
+			"description": "Stupid people aren't flammable enough.  I identify as \"Mortally challenged\" Probably going to be banned in the EU soon. May the bridges I burn light the way.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3206,
+			"friends_count": 2769,
+			"listed_count": 19,
+			"created_at": "Mon Jun 13 15:03:24 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8042,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1056961743207968768/jWK8YI6G_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1056961743207968768/jWK8YI6G_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/742371799116222464/1533199177",
+			"profile_link_color": "FF69B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 66979,
+		"favorite_count": 217248,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Dude has a prosthetic tattoo gun, this is the most Cyberpunk thing I've ever seen. https://t.co/z5Jev14OyN"
+	},
+	{
 		"created_at": "Tue Oct 30 16:26:59 +0000 2018",
 		"id": 1057307888228671500,
 		"id_str": "1057307888228671489",
