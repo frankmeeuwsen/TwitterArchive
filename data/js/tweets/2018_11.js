@@ -64,6 +64,639 @@ Grailbird.data.tweets_2018_11 =
 				}
 			},
 			"protected": false,
+			"followers_count": 175,
+			"friends_count": 1224,
+			"listed_count": 0,
+			"created_at": "Sat Jul 19 20:40:58 +0000 2014",
+			"favourites_count": 2523,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 594,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/860537166576971776/Zd_pX948_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/860537166576971776/Zd_pX948_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2660543882/1491682965",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 717,
+		"favorite_count": 4263,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "One of the cheerleaders for the #49ERs NFL team kneeled during the #NationalAnthem. Unbelievable. That takes a lot of courage."
+	},
+	{
+		"created_at": "Fri Nov 02 10:59:31 +0000 2018",
+		"id": 1058312644992684000,
+		"id_str": "1058312644992684036",
+		"full_text": "@bregisback Ik zie je Dailypin en ineens bedenk ik, hoe gaat het met je blog? ;-)",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bregisback",
+					"name": "Bregje",
+					"id": 14460468,
+					"id_str": "14460468",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1058311066743197700,
+		"in_reply_to_status_id_str": "1058311066743197697",
+		"in_reply_to_user_id": 14460468,
+		"in_reply_to_user_id_str": "14460468",
+		"in_reply_to_screen_name": "bregisback",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8982,
+			"friends_count": 181,
+			"listed_count": 596,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4806,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60717,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@bregisback Ik zie je Dailypin en ineens bedenk ik, hoe gaat het met je blog? ;-)"
+	},
+	{
+		"created_at": "Fri Nov 02 09:34:45 +0000 2018",
+		"id": 1058291311789441000,
+		"id_str": "1058291311789441024",
+		"full_text": "@petdekoning @Blendle Het e-book is extragratis te downloaden op https://t.co/GhECDkE2Q5!",
+		"truncated": false,
+		"display_text_range": [
+			22,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "petdekoning",
+					"name": "Petrick de Koning",
+					"id": 40314428,
+					"id_str": "40314428",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "Blendle",
+					"name": "Blendle",
+					"id": 2811154361,
+					"id_str": "2811154361",
+					"indices": [
+						13,
+						21
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GhECDkE2Q5",
+					"expanded_url": "http://Bloghelden.nl",
+					"display_url": "Bloghelden.nl",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1058285014197170200,
+		"in_reply_to_status_id_str": "1058285014197170176",
+		"in_reply_to_user_id": 40314428,
+		"in_reply_to_user_id_str": "40314428",
+		"in_reply_to_screen_name": "petdekoning",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8982,
+			"friends_count": 181,
+			"listed_count": 596,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4806,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60717,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@petdekoning @Blendle Het e-book is extragratis te downloaden op https://t.co/GhECDkE2Q5!"
+	},
+	{
+		"created_at": "Fri Nov 02 09:04:18 +0000 2018",
+		"id": 1058283649278324700,
+		"id_str": "1058283649278324736",
+		"full_text": "Ik heb zojuist twee exemplaren van Bloghelden achtergelaten in de minibieb van @BlendleNL. Wil jij een gratis (excl verzendkosten) exemplaar van dit boek over de Nederlandse bloggeschiedenis? Laat het me weten en we regelen het! https://t.co/Xo9nzBCgv2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			228
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BlendleNL",
+					"name": "Blendle NL",
+					"id": 1277730318,
+					"id_str": "1277730318",
+					"indices": [
+						79,
+						89
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1058283639501402100,
+					"id_str": "1058283639501402112",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/media/Dq_HXPQWsAA_Hjb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dq_HXPQWsAA_Hjb.jpg",
+					"url": "https://t.co/Xo9nzBCgv2",
+					"display_url": "pic.twitter.com/Xo9nzBCgv2",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1058283649278324736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1058283639501402100,
+					"id_str": "1058283639501402112",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/media/Dq_HXPQWsAA_Hjb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dq_HXPQWsAA_Hjb.jpg",
+					"url": "https://t.co/Xo9nzBCgv2",
+					"display_url": "pic.twitter.com/Xo9nzBCgv2",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1058283649278324736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1058283639501406200,
+					"id_str": "1058283639501406210",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/media/Dq_HXPQWwAIF_iy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dq_HXPQWwAIF_iy.jpg",
+					"url": "https://t.co/Xo9nzBCgv2",
+					"display_url": "pic.twitter.com/Xo9nzBCgv2",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1058283649278324736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1058283639488868400,
+					"id_str": "1058283639488868352",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/media/Dq_HXPNXcAA3d2U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dq_HXPNXcAA3d2U.jpg",
+					"url": "https://t.co/Xo9nzBCgv2",
+					"display_url": "pic.twitter.com/Xo9nzBCgv2",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1058283649278324736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8982,
+			"friends_count": 181,
+			"listed_count": 596,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4806,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60717,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "07d9f866cd881000",
+			"url": "https://api.twitter.com/1.1/geo/id/07d9f866cd881000.json",
+			"place_type": "poi",
+			"name": "Blendle HQ",
+			"full_name": "Blendle HQ",
+			"country_code": "NL",
+			"country": "The Netherlands",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							5.102548599243164,
+							52.08496516489037
+						],
+						[
+							5.102548599243164,
+							52.08496516489037
+						],
+						[
+							5.102548599243164,
+							52.08496516489037
+						],
+						[
+							5.102548599243164,
+							52.08496516489037
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Ik heb zojuist twee exemplaren van Bloghelden achtergelaten in de minibieb van @BlendleNL. Wil jij een gratis (excl verzendkosten) exemplaar van dit boek over de Nederlandse bloggeschiedenis? Laat het me weten en we regelen het! https://t.co/Xo9nzBCgv2"
+	},
+	{
+		"created_at": "Fri Nov 02 01:24:00 +0000 2018",
+		"id": 1058167809501474800,
+		"id_str": "1058167809501474817",
+		"full_text": "One of the cheerleaders for the #49ERs NFL team kneeled during the #NationalAnthem. Unbelievable. That takes a lot of courage.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "49ERs",
+					"indices": [
+						32,
+						38
+					]
+				},
+				{
+					"text": "NationalAnthem",
+					"indices": [
+						67,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2660543882,
+			"id_str": "2660543882",
+			"name": "Abdullah N. Najjar",
+			"screen_name": "anajjar99",
+			"location": "Houston, TX",
+			"description": "Law Student & Founder of @mYouthX",
+			"url": "https://t.co/gu1WbeoUkZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gu1WbeoUkZ",
+							"expanded_url": "http://abdullahnajjar.com",
+							"display_url": "abdullahnajjar.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
 			"followers_count": 165,
 			"friends_count": 1224,
 			"listed_count": 0,
