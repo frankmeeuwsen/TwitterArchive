@@ -1,6 +1,116 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Fri Nov 02 01:24:00 +0000 2018",
+		"id": 1058167809501474800,
+		"id_str": "1058167809501474817",
+		"full_text": "One of the cheerleaders for the #49ERs NFL team kneeled during the #NationalAnthem. Unbelievable. That takes a lot of courage.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "49ERs",
+					"indices": [
+						32,
+						38
+					]
+				},
+				{
+					"text": "NationalAnthem",
+					"indices": [
+						67,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2660543882,
+			"id_str": "2660543882",
+			"name": "Abdullah N. Najjar",
+			"screen_name": "anajjar99",
+			"location": "Houston, TX",
+			"description": "Law Student & Founder of @mYouthX",
+			"url": "https://t.co/gu1WbeoUkZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gu1WbeoUkZ",
+							"expanded_url": "http://abdullahnajjar.com",
+							"display_url": "abdullahnajjar.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 165,
+			"friends_count": 1224,
+			"listed_count": 0,
+			"created_at": "Sat Jul 19 20:40:58 +0000 2014",
+			"favourites_count": 2523,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 594,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/860537166576971776/Zd_pX948_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/860537166576971776/Zd_pX948_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2660543882/1491682965",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 525,
+		"favorite_count": 3143,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "One of the cheerleaders for the #49ERs NFL team kneeled during the #NationalAnthem. Unbelievable. That takes a lot of courage."
+	},
+	{
 		"created_at": "Fri Nov 02 10:59:31 +0000 2018",
 		"id": 1058312644992684000,
 		"id_str": "1058312644992684036",
