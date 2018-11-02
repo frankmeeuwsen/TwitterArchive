@@ -1,6 +1,353 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Fri Nov 02 17:19:35 +0000 2018",
+		"id": 1058408290655322100,
+		"id_str": "1058408290655322112",
+		"full_text": "Man wat een album!! https://t.co/O4smIgPzPg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/O4smIgPzPg",
+					"expanded_url": "https://twitter.com/soianyc/status/1058345554923663360",
+					"display_url": "twitter.com/soianyc/status…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8982,
+			"friends_count": 182,
+			"listed_count": 596,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4804,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60722,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "280b2451d4f8f73f",
+			"url": "https://api.twitter.com/1.1/geo/id/280b2451d4f8f73f.json",
+			"place_type": "city",
+			"name": "Haarlem",
+			"full_name": "Haarlem, Nederland",
+			"country_code": "NL",
+			"country": "The Netherlands",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							4.5993661,
+							52.3388496
+						],
+						[
+							4.6866562,
+							52.3388496
+						],
+						[
+							4.6866562,
+							52.4287298
+						],
+						[
+							4.5993661,
+							52.4287298
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1058345554923663400,
+		"quoted_status_id_str": "1058345554923663360",
+		"quoted_status_permalink": {
+			"url": "https://t.co/O4smIgPzPg",
+			"expanded": "https://twitter.com/soianyc/status/1058345554923663360",
+			"display": "twitter.com/soianyc/status…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Nov 02 13:10:18 +0000 2018",
+			"id": 1058345554923663400,
+			"id_str": "1058345554923663360",
+			"full_text": "Today is the day! Our new album is out everywhere and on line too! Please go get it or check it out and let us know what you think!!! Thank you for all your support! https://t.co/vgx03OYruV",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				165
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1058345549643083800,
+						"id_str": "1058345549643083777",
+						"indices": [
+							166,
+							189
+						],
+						"media_url": "http://pbs.twimg.com/media/Dq__q4gXcAEMz2y.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dq__q4gXcAEMz2y.jpg",
+						"url": "https://t.co/vgx03OYruV",
+						"display_url": "pic.twitter.com/vgx03OYruV",
+						"expanded_url": "https://twitter.com/SOIANYC/status/1058345554923663360/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 679,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 751,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 751,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1058345549643083800,
+						"id_str": "1058345549643083777",
+						"indices": [
+							166,
+							189
+						],
+						"media_url": "http://pbs.twimg.com/media/Dq__q4gXcAEMz2y.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dq__q4gXcAEMz2y.jpg",
+						"url": "https://t.co/vgx03OYruV",
+						"display_url": "pic.twitter.com/vgx03OYruV",
+						"expanded_url": "https://twitter.com/SOIANYC/status/1058345554923663360/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 679,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 751,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 751,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 121516484,
+				"id_str": "121516484",
+				"name": "Sick Of It All",
+				"screen_name": "SOIANYC",
+				"location": "NEW YORK CITY",
+				"description": "https://t.co/er3gjiigH1 ADD US: https://t.co/2zVvqLuK6C http:https://t.co/ojuLp1N1nd",
+				"url": "https://t.co/kFxOzSDzKB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kFxOzSDzKB",
+								"expanded_url": "http://www.facebook.com/sickofitallny",
+								"display_url": "facebook.com/sickofitallny",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/er3gjiigH1",
+								"expanded_url": "http://www.sickofitall.com",
+								"display_url": "sickofitall.com",
+								"indices": [
+									0,
+									23
+								]
+							},
+							{
+								"url": "https://t.co/2zVvqLuK6C",
+								"expanded_url": "http://Facebook.com/SickofitAllNY",
+								"display_url": "Facebook.com/SickofitAllNY",
+								"indices": [
+									32,
+									55
+								]
+							},
+							{
+								"url": "https://t.co/ojuLp1N1nd",
+								"expanded_url": "http://Instagram.com/Sickofitallnyc",
+								"display_url": "Instagram.com/Sickofitallnyc",
+								"indices": [
+									61,
+									84
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 47134,
+				"friends_count": 1275,
+				"listed_count": 458,
+				"created_at": "Tue Mar 09 19:01:45 +0000 2010",
+				"favourites_count": 7966,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 8087,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/913851066067947520/qYmqdBxW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/913851066067947520/qYmqdBxW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/121516484/1506709706",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 47,
+			"favorite_count": 120,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Man wat een album!! https://t.co/O4smIgPzPg"
+	},
+	{
 		"created_at": "Fri Nov 02 16:17:35 +0000 2018",
 		"id": 1058392687039123500,
 		"id_str": "1058392687039123456",
