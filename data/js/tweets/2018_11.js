@@ -1,6 +1,296 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Fri Nov 02 09:04:18 +0000 2018",
+		"id": 1058283649278324700,
+		"id_str": "1058283649278324736",
+		"full_text": "Ik heb zojuist twee exemplaren van Bloghelden achtergelaten in de minibieb van @BlendleNL. Wil jij een gratis (excl verzendkosten) exemplaar van dit boek over de Nederlandse bloggeschiedenis? Laat het me weten en we regelen het! https://t.co/Xo9nzBCgv2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			228
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BlendleNL",
+					"name": "Blendle NL",
+					"id": 1277730318,
+					"id_str": "1277730318",
+					"indices": [
+						79,
+						89
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1058283639501402100,
+					"id_str": "1058283639501402112",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/media/Dq_HXPQWsAA_Hjb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dq_HXPQWsAA_Hjb.jpg",
+					"url": "https://t.co/Xo9nzBCgv2",
+					"display_url": "pic.twitter.com/Xo9nzBCgv2",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1058283649278324736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1058283639501402100,
+					"id_str": "1058283639501402112",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/media/Dq_HXPQWsAA_Hjb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dq_HXPQWsAA_Hjb.jpg",
+					"url": "https://t.co/Xo9nzBCgv2",
+					"display_url": "pic.twitter.com/Xo9nzBCgv2",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1058283649278324736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1058283639501406200,
+					"id_str": "1058283639501406210",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/media/Dq_HXPQWwAIF_iy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dq_HXPQWwAIF_iy.jpg",
+					"url": "https://t.co/Xo9nzBCgv2",
+					"display_url": "pic.twitter.com/Xo9nzBCgv2",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1058283649278324736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1058283639488868400,
+					"id_str": "1058283639488868352",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/media/Dq_HXPNXcAA3d2U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dq_HXPNXcAA3d2U.jpg",
+					"url": "https://t.co/Xo9nzBCgv2",
+					"display_url": "pic.twitter.com/Xo9nzBCgv2",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1058283649278324736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8982,
+			"friends_count": 180,
+			"listed_count": 596,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4805,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60714,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "07d9f866cd881000",
+			"url": "https://api.twitter.com/1.1/geo/id/07d9f866cd881000.json",
+			"place_type": "poi",
+			"name": "Blendle HQ",
+			"full_name": "Blendle HQ",
+			"country_code": "NL",
+			"country": "The Netherlands",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							5.102548599243164,
+							52.08496516489037
+						],
+						[
+							5.102548599243164,
+							52.08496516489037
+						],
+						[
+							5.102548599243164,
+							52.08496516489037
+						],
+						[
+							5.102548599243164,
+							52.08496516489037
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Ik heb zojuist twee exemplaren van Bloghelden achtergelaten in de minibieb van @BlendleNL. Wil jij een gratis (excl verzendkosten) exemplaar van dit boek over de Nederlandse bloggeschiedenis? Laat het me weten en we regelen het! https://t.co/Xo9nzBCgv2"
+	},
+	{
 		"created_at": "Thu Nov 01 16:50:51 +0000 2018",
 		"id": 1058038671859990500,
 		"id_str": "1058038671859990528",
