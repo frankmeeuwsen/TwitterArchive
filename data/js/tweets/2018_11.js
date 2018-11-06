@@ -1,6 +1,373 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Tue Nov 06 09:18:25 +0000 2018",
+		"id": 1059736752481538000,
+		"id_str": "1059736752481538049",
+		"full_text": "Ochtendblogleesvoer:\n☕️ De sociale platformen gentrificeren: https://t.co/tD2fwVByLH\n🧙‍♀️ Github's reflog is magisch: https://t.co/w1sI0kUbG2\n✊ Aaron Swartz Day: https://t.co/wcqh5kpnCD\n🌞 Blogs zijn niet dood: https://t.co/cevquQ4Wx7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tD2fwVByLH",
+					"expanded_url": "https://diggingthedigital.com/de-transformatie-van-het-internet/",
+					"display_url": "diggingthedigital.com/de-transformat…",
+					"indices": [
+						61,
+						84
+					]
+				},
+				{
+					"url": "https://t.co/w1sI0kUbG2",
+					"expanded_url": "https://diggingthedigital.com/github-s-reflog-git-tips/",
+					"display_url": "diggingthedigital.com/github-s-reflo…",
+					"indices": [
+						118,
+						141
+					]
+				},
+				{
+					"url": "https://t.co/wcqh5kpnCD",
+					"expanded_url": "https://diggingthedigital.com/aaron-swartz-day/",
+					"display_url": "diggingthedigital.com/aaron-swartz-d…",
+					"indices": [
+						162,
+						185
+					]
+				},
+				{
+					"url": "https://t.co/cevquQ4Wx7",
+					"expanded_url": "https://diggingthedigital.com/blogs-zijn-niet-dood/",
+					"display_url": "diggingthedigital.com/blogs-zijn-nie…",
+					"indices": [
+						210,
+						233
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8979,
+			"friends_count": 183,
+			"listed_count": 596,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4816,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60695,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Ochtendblogleesvoer:\n☕️ De sociale platformen gentrificeren: https://t.co/tD2fwVByLH\n🧙‍♀️ Github's reflog is magisch: https://t.co/w1sI0kUbG2\n✊ Aaron Swartz Day: https://t.co/wcqh5kpnCD\n🌞 Blogs zijn niet dood: https://t.co/cevquQ4Wx7"
+	},
+	{
+		"created_at": "Mon Nov 05 22:44:25 +0000 2018",
+		"id": 1059577201014632400,
+		"id_str": "1059577201014632448",
+		"full_text": "the internet's slow transformation from \"one off websites and small communities/journals\" to \"blogging platforms\" to \"social media\" is arguably a lot like gentrification\n\nwe're tearing down the old neighborhoods to build fancy, new, (more profitable) \"buildings\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 61653331,
+			"id_str": "61653331",
+			"name": "Ex",
+			"screen_name": "xkeepah",
+			"location": "who cares",
+			"description": "i ❤️ @raspberryfloof 🌸 I run @cuttingroomwiki and @8bitcreepypasta 🌸 see also: @xkeepahPLUS 🌸 pronouns: ???? 🌸",
+			"url": "https://t.co/BpgLnM1LxS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BpgLnM1LxS",
+							"expanded_url": "https://icosahedron.website/@Xkeeper",
+							"display_url": "icosahedron.website/@Xkeeper",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2360,
+			"friends_count": 1219,
+			"listed_count": 46,
+			"created_at": "Fri Jul 31 01:19:29 +0000 2009",
+			"favourites_count": 8655,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75223,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1049045814843138048/u0AYWUh2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1049045814843138048/u0AYWUh2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/61653331/1488826859",
+			"profile_link_color": "7144B0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2B2836",
+			"profile_text_color": "595959",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 89,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "the internet's slow transformation from \"one off websites and small communities/journals\" to \"blogging platforms\" to \"social media\" is arguably a lot like gentrification\n\nwe're tearing down the old neighborhoods to build fancy, new, (more profitable) \"buildings\""
+	},
+	{
+		"created_at": "Tue Nov 06 08:36:19 +0000 2018",
+		"id": 1059726159481655300,
+		"id_str": "1059726159481655296",
+		"full_text": "@gonny Zou een all@apple.com email werken daar? :-)",
+		"truncated": false,
+		"display_text_range": [
+			7,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gonny",
+					"name": "Gonny van der Zwaag",
+					"id": 3128751,
+					"id_str": "3128751",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1059717322951311400,
+		"in_reply_to_status_id_str": "1059717322951311360",
+		"in_reply_to_user_id": 3128751,
+		"in_reply_to_user_id_str": "3128751",
+		"in_reply_to_screen_name": "gonny",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8979,
+			"friends_count": 183,
+			"listed_count": 596,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4816,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60695,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "4333e0a6f61a6108",
+			"url": "https://api.twitter.com/1.1/geo/id/4333e0a6f61a6108.json",
+			"place_type": "city",
+			"name": "Ouder-Amstel",
+			"full_name": "Ouder-Amstel, Nederland",
+			"country_code": "NL",
+			"country": "The Netherlands",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							4.8700434,
+							52.2507473
+						],
+						[
+							4.9552504,
+							52.2507473
+						],
+						[
+							4.9552504,
+							52.3387254
+						],
+						[
+							4.8700434,
+							52.3387254
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@gonny Zou een all@apple.com email werken daar? :-)"
+	},
+	{
 		"created_at": "Tue Nov 06 06:36:07 +0000 2018",
 		"id": 1059695908445737000,
 		"id_str": "1059695908445736965",
