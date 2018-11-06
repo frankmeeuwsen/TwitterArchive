@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Mon Nov 05 16:53:05 +0000 2018",
+		"id": 1059488784906096600,
+		"id_str": "1059488784906096642",
+		"full_text": "i made this bc i'm an asshole https://t.co/7YHMHeQN4Y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1059488692929286100,
+					"id_str": "1059488692929286144",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/DrQPWlGX0AA3lh_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrQPWlGX0AA3lh_.jpg",
+					"url": "https://t.co/7YHMHeQN4Y",
+					"display_url": "pic.twitter.com/7YHMHeQN4Y",
+					"expanded_url": "https://twitter.com/alexlaughs/status/1059488784906096642/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1115,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 632,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1272,
+							"h": 1182,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1059488692929286100,
+					"id_str": "1059488692929286144",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/DrQPWlGX0AA3lh_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrQPWlGX0AA3lh_.jpg",
+					"url": "https://t.co/7YHMHeQN4Y",
+					"display_url": "pic.twitter.com/7YHMHeQN4Y",
+					"expanded_url": "https://twitter.com/alexlaughs/status/1059488784906096642/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1115,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 632,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1272,
+							"h": 1182,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 219335586,
+			"id_str": "219335586",
+			"name": "Alex Sujong Laughlin",
+			"screen_name": "alexlaughs",
+			"location": "Brooklyn, NY",
+			"description": "everything producer | @newmarkjschool adjunct | made great things with @buzzfeedaudio and @washingtonpost | i have a hard time staying in boxes 🤷🏻‍♀️",
+			"url": "https://t.co/ex8IfCAuAT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ex8IfCAuAT",
+							"expanded_url": "http://alexlaughs.com/",
+							"display_url": "alexlaughs.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7301,
+			"friends_count": 2281,
+			"listed_count": 259,
+			"created_at": "Wed Nov 24 15:45:54 +0000 2010",
+			"favourites_count": 15892,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1148,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1042204411274002433/0lQ8oIZe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1042204411274002433/0lQ8oIZe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/219335586/1520970039",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 980,
+		"favorite_count": 4017,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "i made this bc i'm an asshole https://t.co/7YHMHeQN4Y"
+	},
+	{
 		"created_at": "Tue Nov 06 17:59:59 +0000 2018",
 		"id": 1059868007516852200,
 		"id_str": "1059868007516852225",
