@@ -1,6 +1,294 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Thu Nov 08 17:58:33 +0000 2018",
+		"id": 1060592423586402300,
+		"id_str": "1060592423586402305",
+		"full_text": "I can’t stop watching this. Dad of the year 😂👏🏻⚽️\n\nhttps://t.co/iLvhDoiFyb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1059511231772590100,
+					"id_str": "1059511231772590081",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1059511231772590081/pu/img/kgpbNCuAfND8ubyo.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1059511231772590081/pu/img/kgpbNCuAfND8ubyo.jpg",
+					"url": "https://t.co/iLvhDoiFyb",
+					"display_url": "pic.twitter.com/iLvhDoiFyb",
+					"expanded_url": "https://twitter.com/chris_wilks2/status/1059511251020189701/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 720,
+							"h": 400,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 378,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1059511251020189700,
+					"source_status_id_str": "1059511251020189701",
+					"source_user_id": 2294373816,
+					"source_user_id_str": "2294373816"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1059511231772590100,
+					"id_str": "1059511231772590081",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1059511231772590081/pu/img/kgpbNCuAfND8ubyo.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1059511231772590081/pu/img/kgpbNCuAfND8ubyo.jpg",
+					"url": "https://t.co/iLvhDoiFyb",
+					"display_url": "pic.twitter.com/iLvhDoiFyb",
+					"expanded_url": "https://twitter.com/chris_wilks2/status/1059511251020189701/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 720,
+							"h": 400,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 378,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1059511251020189700,
+					"source_status_id_str": "1059511251020189701",
+					"source_user_id": 2294373816,
+					"source_user_id_str": "2294373816",
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							5
+						],
+						"duration_millis": 8367,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1059511231772590081/pu/vid/720x400/UnyAyEeIHlMbEAPl.mp4?tag=5"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1059511231772590081/pu/vid/324x180/TsDCCCVOGMtCbRXn.mp4?tag=5"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1059511231772590081/pu/pl/d4aA18wxbzKr4H_3.m3u8?tag=5"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 2294373816,
+							"id_str": "2294373816",
+							"name": "Chris Wilkins",
+							"screen_name": "chris_wilks2",
+							"location": "",
+							"description": "",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 369,
+							"friends_count": 660,
+							"listed_count": 2,
+							"created_at": "Thu Jan 16 12:29:45 +0000 2014",
+							"favourites_count": 336,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 621,
+							"lang": "en-gb",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/962743864418291713/YxGQ03z-_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/962743864418291713/YxGQ03z-_normal.jpg",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128034416,
+			"id_str": "128034416",
+			"name": "Tom Munns",
+			"screen_name": "TomMunns1",
+			"location": "Liverpool & Wirral",
+			"description": "Video Producer for @LivEchonews & @LivEchoLFC | Tweet me video | Email: thomas.munns@reachplc.com | 🔴 #LFC 🔴 | I tweet about TV sometimes | All views are mine",
+			"url": "https://t.co/6JRRfm5kG5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6JRRfm5kG5",
+							"expanded_url": "https://www.liverpoolecho.co.uk/authors/thomas-munns/",
+							"display_url": "liverpoolecho.co.uk/authors/thomas…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3345,
+			"friends_count": 5474,
+			"listed_count": 58,
+			"created_at": "Tue Mar 30 22:47:00 +0000 2010",
+			"favourites_count": 5554,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13053,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1016744241832366081/12GsJugP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1016744241832366081/12GsJugP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128034416/1537202577",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "151b9e91272233d1",
+			"url": "https://api.twitter.com/1.1/geo/id/151b9e91272233d1.json",
+			"place_type": "city",
+			"name": "Liverpool",
+			"full_name": "Liverpool, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-3.008791,
+							53.36489
+						],
+						[
+							-2.822063,
+							53.36489
+						],
+						[
+							-2.822063,
+							53.474867
+						],
+						[
+							-3.008791,
+							53.474867
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 136466,
+		"favorite_count": 335820,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I can’t stop watching this. Dad of the year 😂👏🏻⚽️\n\nhttps://t.co/iLvhDoiFyb"
+	},
+	{
 		"created_at": "Fri Nov 09 07:09:10 +0000 2018",
 		"id": 1060791389263413200,
 		"id_str": "1060791389263413249",
