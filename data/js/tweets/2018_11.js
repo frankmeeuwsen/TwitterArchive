@@ -1,6 +1,434 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Mon Nov 12 19:01:28 +0000 2018",
+		"id": 1062057809708224500,
+		"id_str": "1062057809708224513",
+		"full_text": "15x Pearl Jam. https://t.co/Qcjh8aD8ak",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Qcjh8aD8ak",
+					"expanded_url": "https://twitter.com/mennopot/status/1062051739443040256",
+					"display_url": "twitter.com/mennopot/statu…",
+					"indices": [
+						15,
+						38
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8930,
+			"friends_count": 186,
+			"listed_count": 595,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4820,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60623,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1062051739443040300,
+		"quoted_status_id_str": "1062051739443040256",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Qcjh8aD8ak",
+			"expanded": "https://twitter.com/mennopot/status/1062051739443040256",
+			"display": "twitter.com/mennopot/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Nov 12 18:37:21 +0000 2018",
+			"id": 1062051739443040300,
+			"id_str": "1062051739443040256",
+			"full_text": "Welke band zag je het váákst live?\n\nMijn #1 (ruim) is Golden Earring. Daarna gaat het, denk ik, tussen Pearl Jam, Mudhoney, The Posies, Daryll-Ann en Johan. Spant erom. Vanavond, als ik goed tel, mijn 12e keer #Mudhoney.\n\n(Ik tel Peter Beense op het veld van Ajax even niet mee.)",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Mudhoney",
+						"indices": [
+							210,
+							219
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 80057254,
+				"id_str": "80057254",
+				"name": "Menno Pot",
+				"screen_name": "mennopot",
+				"location": "Amsterdam, Netherlands",
+				"description": "Popjournalist // Voetbalschrijver // Volkskrant, Parool en meer // Ajax // Amsterdam // Nieuw boek: Kampioenen '14-'18 // Aanvragen via mijn website",
+				"url": "https://t.co/WV41kOc4IS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WV41kOc4IS",
+								"expanded_url": "http://www.mennopot.com",
+								"display_url": "mennopot.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 15702,
+				"friends_count": 753,
+				"listed_count": 301,
+				"created_at": "Mon Oct 05 15:58:19 +0000 2009",
+				"favourites_count": 5635,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 31364,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/993115938227662848/skCNozQk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/993115938227662848/skCNozQk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/80057254/1465065503",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 19,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "15x Pearl Jam. https://t.co/Qcjh8aD8ak"
+	},
+	{
+		"created_at": "Mon Nov 12 18:22:55 +0000 2018",
+		"id": 1062048107788144600,
+		"id_str": "1062048107788144642",
+		"full_text": "Bij @TQams voor de Developers Meetup van @SlackHQ. Deels persoonlijke interesse, deels om te zien wat voor nieuwe dingen mogelijk gaan worden voor @iamOlisto. #AutomateAllTheThings https://t.co/mvwnmHOIcY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AutomateAllTheThings",
+					"indices": [
+						159,
+						180
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TQams",
+					"name": "TQ",
+					"id": 4155602421,
+					"id_str": "4155602421",
+					"indices": [
+						4,
+						10
+					]
+				},
+				{
+					"screen_name": "SlackHQ",
+					"name": "Slack",
+					"id": 1305940272,
+					"id_str": "1305940272",
+					"indices": [
+						41,
+						49
+					]
+				},
+				{
+					"screen_name": "iamOlisto",
+					"name": "Olisto",
+					"id": 3879014177,
+					"id_str": "3879014177",
+					"indices": [
+						147,
+						157
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1062048097688342500,
+					"id_str": "1062048097688342536",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/Dr0nHi0X0AgaKyh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dr0nHi0X0AgaKyh.jpg",
+					"url": "https://t.co/mvwnmHOIcY",
+					"display_url": "pic.twitter.com/mvwnmHOIcY",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1062048107788144642/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1062048097688342500,
+					"id_str": "1062048097688342536",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/Dr0nHi0X0AgaKyh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dr0nHi0X0AgaKyh.jpg",
+					"url": "https://t.co/mvwnmHOIcY",
+					"display_url": "pic.twitter.com/mvwnmHOIcY",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1062048107788144642/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8930,
+			"friends_count": 186,
+			"listed_count": 595,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4820,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60623,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Bij @TQams voor de Developers Meetup van @SlackHQ. Deels persoonlijke interesse, deels om te zien wat voor nieuwe dingen mogelijk gaan worden voor @iamOlisto. #AutomateAllTheThings https://t.co/mvwnmHOIcY"
+	},
+	{
 		"created_at": "Mon Nov 12 18:08:08 +0000 2018",
 		"id": 1062044389395087400,
 		"id_str": "1062044389395087362",
