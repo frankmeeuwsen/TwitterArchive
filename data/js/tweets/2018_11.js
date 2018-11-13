@@ -49,6 +49,101 @@ Grailbird.data.tweets_2018_11 =
 				}
 			},
 			"protected": false,
+			"followers_count": 40821,
+			"friends_count": 1115,
+			"listed_count": 1693,
+			"created_at": "Thu Jun 21 01:11:33 +0000 2007",
+			"favourites_count": 45260,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51760,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/892157437284945921/-8XR3Vs6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/892157437284945921/-8XR3Vs6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/6981492/1524668453",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 75,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "𝗧𝘄𝗶𝘁𝘁𝗲𝗿 𝗶𝘀 𝗼𝘃𝗲𝗿 𝗰𝗮𝗽𝗮𝗰𝗶𝘁𝘆.\nPlease wait a moment and try again. For more information check out Twitter Status »\n       🐦  🐦  🐦\n🐦  /        |  🐦🐦\n   \\   \\        |    |  / / \n       \\ \\      | 🐦🐦\n          \\ \\   |   / // \n              🐋\n🌊🌊🌊🌊🌊🌊🌊"
+	},
+	{
+		"created_at": "Tue Nov 13 15:26:16 +0000 2018",
+		"id": 1062366041110659100,
+		"id_str": "1062366041110659072",
+		"full_text": "𝗧𝘄𝗶𝘁𝘁𝗲𝗿 𝗶𝘀 𝗼𝘃𝗲𝗿 𝗰𝗮𝗽𝗮𝗰𝗶𝘁𝘆.\nPlease wait a moment and try again. For more information check out Twitter Status »\n       🐦  🐦  🐦\n🐦  /        |  🐦🐦\n   \\   \\        |    |  / / \n       \\ \\      | 🐦🐦\n          \\ \\   |   / // \n              🐋\n🌊🌊🌊🌊🌊🌊🌊",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			242
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 6981492,
+			"id_str": "6981492",
+			"name": "Paul Ford",
+			"screen_name": "ftrain",
+			"location": "Manhattan, NY/Brooklyn, NY",
+			"description": "CEO @PostlightStudio. Writing another book. Sometimes at @BW (What Is Code?) #archivepix is a bot posting pix I collected. paul.ford@postlight.com",
+			"url": "https://t.co/dGHzRVo2oy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dGHzRVo2oy",
+							"expanded_url": "https://postlight.com",
+							"display_url": "postlight.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
 			"followers_count": 40823,
 			"friends_count": 1115,
 			"listed_count": 1691,
