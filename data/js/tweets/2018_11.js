@@ -1,6 +1,450 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Tue Nov 13 19:22:37 +0000 2018",
+		"id": 1062425519130591200,
+		"id_str": "1062425519130591232",
+		"full_text": "@elger Dus jullie kunnen niet oppassen op 27 juni 2019?",
+		"truncated": false,
+		"display_text_range": [
+			7,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "elger",
+					"name": "Elger van der Wel",
+					"id": 14142375,
+					"id_str": "14142375",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1062385094390964200,
+		"in_reply_to_status_id_str": "1062385094390964224",
+		"in_reply_to_user_id": 14142375,
+		"in_reply_to_user_id_str": "14142375",
+		"in_reply_to_screen_name": "elger",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8930,
+			"friends_count": 188,
+			"listed_count": 596,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4825,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60630,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@elger Dus jullie kunnen niet oppassen op 27 juni 2019?"
+	},
+	{
+		"created_at": "Sun Nov 11 10:12:39 +0000 2018",
+		"id": 1061562339412074500,
+		"id_str": "1061562339412074496",
+		"full_text": "Finally available: The photos of the @indiewebcamp Nuremberg 2018 🎉 https://t.co/wiZYilrjsu #indieweb #nuedigital +@nueww https://t.co/3YQWeTDxQP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "indieweb",
+					"indices": [
+						92,
+						101
+					]
+				},
+				{
+					"text": "nuedigital",
+					"indices": [
+						102,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "indiewebcamp",
+					"name": "IndieWebCamp",
+					"id": 235193328,
+					"id_str": "235193328",
+					"indices": [
+						37,
+						50
+					]
+				},
+				{
+					"screen_name": "nueww",
+					"name": "Nürnberg Digital Festival",
+					"id": 574493910,
+					"id_str": "574493910",
+					"indices": [
+						115,
+						121
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wiZYilrjsu",
+					"expanded_url": "https://flic.kr/s/aHskHQe7WV",
+					"display_url": "flic.kr/s/aHskHQe7WV",
+					"indices": [
+						68,
+						91
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1061562137871638500,
+					"id_str": "1061562137871638528",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DrttI9bX4AAXVu7.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DrttI9bX4AAXVu7.jpg",
+					"url": "https://t.co/3YQWeTDxQP",
+					"display_url": "pic.twitter.com/3YQWeTDxQP",
+					"expanded_url": "https://twitter.com/jkphl/status/1061562339412074496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1066,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1061562137871638500,
+					"id_str": "1061562137871638528",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DrttI9bX4AAXVu7.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DrttI9bX4AAXVu7.jpg",
+					"url": "https://t.co/3YQWeTDxQP",
+					"display_url": "pic.twitter.com/3YQWeTDxQP",
+					"expanded_url": "https://twitter.com/jkphl/status/1061562339412074496/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1066,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							800,
+							533
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DrttI9bX4AAXVu7.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1432439216,
+			"id_str": "1432439216",
+			"name": "Joschi Kuphal 吉",
+			"screen_name": "jkphl",
+			"location": "Nürnberg, Germany",
+			"description": "#IndieWeb architect · @tollwerk @CoderDojoNBG @a11yclub https://t.co/k1Bi73yzZG · #TYPO3, Open Source, Tools, Events · Way too many things · PGP 0x09942201",
+			"url": "https://t.co/KsUo1lWgKl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KsUo1lWgKl",
+							"expanded_url": "https://jkphl.is",
+							"display_url": "jkphl.is",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k1Bi73yzZG",
+							"expanded_url": "http://material.is",
+							"display_url": "material.is",
+							"indices": [
+								56,
+								79
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 806,
+			"friends_count": 100,
+			"listed_count": 64,
+			"created_at": "Thu May 16 07:52:13 +0000 2013",
+			"favourites_count": 8050,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8772,
+			"lang": "de",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/836949190198579200/iz4lrP5d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/836949190198579200/iz4lrP5d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1432439216/1398307927",
+			"profile_link_color": "0F7595",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Finally available: The photos of the @indiewebcamp Nuremberg 2018 🎉 https://t.co/wiZYilrjsu #indieweb #nuedigital +@nueww https://t.co/3YQWeTDxQP"
+	},
+	{
+		"created_at": "Tue Nov 13 15:26:16 +0000 2018",
+		"id": 1062366041110659100,
+		"id_str": "1062366041110659072",
+		"full_text": "𝗧𝘄𝗶𝘁𝘁𝗲𝗿 𝗶𝘀 𝗼𝘃𝗲𝗿 𝗰𝗮𝗽𝗮𝗰𝗶𝘁𝘆.\nPlease wait a moment and try again. For more information check out Twitter Status »\n       🐦  🐦  🐦\n🐦  /        |  🐦🐦\n   \\   \\        |    |  / / \n       \\ \\      | 🐦🐦\n          \\ \\   |   / // \n              🐋\n🌊🌊🌊🌊🌊🌊🌊",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			242
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 6981492,
+			"id_str": "6981492",
+			"name": "Paul Ford",
+			"screen_name": "ftrain",
+			"location": "Manhattan, NY/Brooklyn, NY",
+			"description": "CEO @PostlightStudio. Writing another book. Sometimes at @BW (What Is Code?) #archivepix is a bot posting pix I collected. paul.ford@postlight.com",
+			"url": "https://t.co/dGHzRVo2oy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dGHzRVo2oy",
+							"expanded_url": "https://postlight.com",
+							"display_url": "postlight.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40822,
+			"friends_count": 1115,
+			"listed_count": 1690,
+			"created_at": "Thu Jun 21 01:11:33 +0000 2007",
+			"favourites_count": 45261,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51762,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/892157437284945921/-8XR3Vs6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/892157437284945921/-8XR3Vs6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/6981492/1524668453",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 99,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "𝗧𝘄𝗶𝘁𝘁𝗲𝗿 𝗶𝘀 𝗼𝘃𝗲𝗿 𝗰𝗮𝗽𝗮𝗰𝗶𝘁𝘆.\nPlease wait a moment and try again. For more information check out Twitter Status »\n       🐦  🐦  🐦\n🐦  /        |  🐦🐦\n   \\   \\        |    |  / / \n       \\ \\      | 🐦🐦\n          \\ \\   |   / // \n              🐋\n🌊🌊🌊🌊🌊🌊🌊"
+	},
+	{
 		"created_at": "Tue Nov 13 15:26:16 +0000 2018",
 		"id": 1062366041110659100,
 		"id_str": "1062366041110659072",
