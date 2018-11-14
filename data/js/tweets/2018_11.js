@@ -1,10 +1,222 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Wed Nov 14 10:19:46 +0000 2018",
+		"id": 1062651294576533500,
+		"id_str": "1062651294576533504",
+		"full_text": "@Nelleke Desalniettemin niets meer dan terecht dat je een tegemoetkoming krijgt natuurlijk. Dat is je recht als fotografe.",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Nelleke",
+					"name": "Nelleke Poorthuis",
+					"id": 6850052,
+					"id_str": "6850052",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1062636789175910400,
+		"in_reply_to_status_id_str": "1062636789175910400",
+		"in_reply_to_user_id": 6850052,
+		"in_reply_to_user_id_str": "6850052",
+		"in_reply_to_screen_name": "Nelleke",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8930,
+			"friends_count": 189,
+			"listed_count": 596,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4826,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60634,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@Nelleke Desalniettemin niets meer dan terecht dat je een tegemoetkoming krijgt natuurlijk. Dat is je recht als fotografe."
+	},
+	{
+		"created_at": "Wed Nov 14 10:19:08 +0000 2018",
+		"id": 1062651135847215100,
+		"id_str": "1062651135847215104",
+		"full_text": "@Nelleke Denk je dat ze anders zouden reageren als je dit alleen in prive-sfeer had afgehandeld? Alleen een mail ipv de tweet er bij? Ik vraag me af of bedrijven niet sneller in de stress schieten bij publiek aanspreken over dergelijke zaken. En of dat een goede richting is...",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Nelleke",
+					"name": "Nelleke Poorthuis",
+					"id": 6850052,
+					"id_str": "6850052",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1062636789175910400,
+		"in_reply_to_status_id_str": "1062636789175910400",
+		"in_reply_to_user_id": 6850052,
+		"in_reply_to_user_id_str": "6850052",
+		"in_reply_to_screen_name": "Nelleke",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8930,
+			"friends_count": 189,
+			"listed_count": 596,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4826,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60634,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@Nelleke Denk je dat ze anders zouden reageren als je dit alleen in prive-sfeer had afgehandeld? Alleen een mail ipv de tweet er bij? Ik vraag me af of bedrijven niet sneller in de stress schieten bij publiek aanspreken over dergelijke zaken. En of dat een goede richting is..."
+	},
+	{
 		"created_at": "Wed Nov 14 08:19:17 +0000 2018",
 		"id": 1062620974334517200,
 		"id_str": "1062620974334517248",
-		"full_text": "Laat die krant maar liggen. Vers Digging the Digital leesvoer voor bij de koffie ☕️\n🤷‍♂️ Hoe gebruikt @ingnl hun promoted tweets? https://t.co/fW7iPR3TV2\n▶️ Kleine irritaties zorgen dat ik meer programmeercode leer. https://t.co/KLV1tlkn5G https://t.co/6mZzmVs6jT",
+		"full_text": "Laat die krant maar liggen. Vers Digging the Digital leesvoer voor bij de koffie ☕️\n🤷♂️ Hoe gebruikt @ingnl hun promoted tweets? https://t.co/fW7iPR3TV2\n▶️ Kleine irritaties zorgen dat ik meer programmeercode leer. https://t.co/KLV1tlkn5G https://t.co/6mZzmVs6jT",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -215,7 +427,7 @@ Grailbird.data.tweets_2018_11 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "nl",
-		"text": "Laat die krant maar liggen. Vers Digging the Digital leesvoer voor bij de koffie ☕️\n🤷‍♂️ Hoe gebruikt @ingnl hun promoted tweets? https://t.co/fW7iPR3TV2\n▶️ Kleine irritaties zorgen dat ik meer programmeercode leer. https://t.co/KLV1tlkn5G https://t.co/6mZzmVs6jT"
+		"text": "Laat die krant maar liggen. Vers Digging the Digital leesvoer voor bij de koffie ☕️\n🤷♂️ Hoe gebruikt @ingnl hun promoted tweets? https://t.co/fW7iPR3TV2\n▶️ Kleine irritaties zorgen dat ik meer programmeercode leer. https://t.co/KLV1tlkn5G https://t.co/6mZzmVs6jT"
 	},
 	{
 		"created_at": "Tue Nov 13 23:29:02 +0000 2018",
