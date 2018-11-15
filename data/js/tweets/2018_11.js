@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Thu Nov 15 12:20:27 +0000 2018",
+		"id": 1063044052839555100,
+		"id_str": "1063044052839555073",
+		"full_text": "@yellingslayer @Twitter But now it should be time to stop tweeting then.... \n\n(please don't) https://t.co/kNx6IuA7l3",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "yellingslayer",
+					"name": "Guy Who Yells Slayer",
+					"id": 2838595361,
+					"id_str": "2838595361",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "Twitter",
+					"name": "Twitter",
+					"id": 783214,
+					"id_str": "783214",
+					"indices": [
+						15,
+						23
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1063043950121009200,
+					"id_str": "1063043950121009152",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/DsCw1yOXQAA_Yj0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsCw1yOXQAA_Yj0.jpg",
+					"url": "https://t.co/kNx6IuA7l3",
+					"display_url": "pic.twitter.com/kNx6IuA7l3",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1063044052839555073/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 398,
+							"h": 402,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 398,
+							"h": 402,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 398,
+							"h": 402,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1063043950121009200,
+					"id_str": "1063043950121009152",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/DsCw1yOXQAA_Yj0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsCw1yOXQAA_Yj0.jpg",
+					"url": "https://t.co/kNx6IuA7l3",
+					"display_url": "pic.twitter.com/kNx6IuA7l3",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1063044052839555073/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 398,
+							"h": 402,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 398,
+							"h": 402,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 398,
+							"h": 402,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 982883309121351700,
+		"in_reply_to_status_id_str": "982883309121351680",
+		"in_reply_to_user_id": 2838595361,
+		"in_reply_to_user_id_str": "2838595361",
+		"in_reply_to_screen_name": "yellingslayer",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8929,
+			"friends_count": 191,
+			"listed_count": 596,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4827,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60641,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@yellingslayer @Twitter But now it should be time to stop tweeting then.... \n\n(please don't) https://t.co/kNx6IuA7l3"
+	},
+	{
 		"created_at": "Thu Nov 15 10:47:26 +0000 2018",
 		"id": 1063020647037759500,
 		"id_str": "1063020647037759489",
