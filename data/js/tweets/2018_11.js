@@ -143,6 +143,196 @@ Grailbird.data.tweets_2018_11 =
 				}
 			},
 			"protected": false,
+			"followers_count": 1772,
+			"friends_count": 255,
+			"listed_count": 22,
+			"created_at": "Sat Dec 20 17:16:58 +0000 2014",
+			"favourites_count": 7464,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3012,
+			"lang": "nl",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/968918956860985346/u_FxXkMa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/968918956860985346/u_FxXkMa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2933941318/1419097641",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Over twee weken, tussen 1 en 7 december kunnen we weer stemmen voor de Top 2000! Help ons met onze lobby om Yellow Ledbetter van Pearl Jam, een echte cultclassic, in de Top 2000 te krijgen! Zet hem in je stemlijst, en deel het vooral! \n#pearljam #top2000 #radio2 #yellowledbetter https://t.co/X7rEcdqBrE"
+	},
+	{
+		"created_at": "Sat Nov 17 13:41:46 +0000 2018",
+		"id": 1063789293817290800,
+		"id_str": "1063789293817290752",
+		"full_text": "Over twee weken, tussen 1 en 7 december kunnen we weer stemmen voor de Top 2000! Help ons met onze lobby om Yellow Ledbetter van Pearl Jam, een echte cultclassic, in de Top 2000 te krijgen! Zet hem in je stemlijst, en deel het vooral! \n#pearljam #top2000 #radio2 #yellowledbetter https://t.co/X7rEcdqBrE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "pearljam",
+					"indices": [
+						236,
+						245
+					]
+				},
+				{
+					"text": "top2000",
+					"indices": [
+						246,
+						254
+					]
+				},
+				{
+					"text": "radio2",
+					"indices": [
+						255,
+						262
+					]
+				},
+				{
+					"text": "yellowledbetter",
+					"indices": [
+						263,
+						279
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1063789286896615400,
+					"id_str": "1063789286896615426",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/DsNWuGFWwAIoUvW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsNWuGFWwAIoUvW.jpg",
+					"url": "https://t.co/X7rEcdqBrE",
+					"display_url": "pic.twitter.com/X7rEcdqBrE",
+					"expanded_url": "https://twitter.com/PearlJamHolland/status/1063789293817290752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 562,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 743,
+							"h": 614,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 743,
+							"h": 614,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1063789286896615400,
+					"id_str": "1063789286896615426",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/DsNWuGFWwAIoUvW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsNWuGFWwAIoUvW.jpg",
+					"url": "https://t.co/X7rEcdqBrE",
+					"display_url": "pic.twitter.com/X7rEcdqBrE",
+					"expanded_url": "https://twitter.com/PearlJamHolland/status/1063789293817290752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 562,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 743,
+							"h": 614,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 743,
+							"h": 614,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2933941318,
+			"id_str": "2933941318",
+			"name": "Pearl Jam Holland",
+			"screen_name": "PearlJamHolland",
+			"location": "",
+			"description": "Troubled souls unite! Dutch PJ-fanaccount. Follow for Pearl Jam news, videos, lyrics, facts & photos. Instagram: pearljamholland.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
 			"followers_count": 1771,
 			"friends_count": 255,
 			"listed_count": 22,
