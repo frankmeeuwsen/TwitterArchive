@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Sat Nov 17 22:27:56 +0000 2018",
+		"id": 1063921706035814400,
+		"id_str": "1063921706035814401",
+		"full_text": "@drewtoothpaste Hello, I made a bot look at 668 journalists names and it made this journalist name generator:\nhttps://t.co/3Y7yZrKHxH\nI can delete it if you hate it, thanks.",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "drewtoothpaste",
+					"name": "drewtoothpaste",
+					"id": 14248784,
+					"id_str": "14248784",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3Y7yZrKHxH",
+					"expanded_url": "https://journalist-name-generator.glitch.me/",
+					"display_url": "journalist-name-generator.glitch.me",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1063281448839450600,
+		"in_reply_to_status_id_str": "1063281448839450624",
+		"in_reply_to_user_id": 14248784,
+		"in_reply_to_user_id_str": "14248784",
+		"in_reply_to_screen_name": "drewtoothpaste",
+		"user": {
+			"id": 109678441,
+			"id_str": "109678441",
+			"name": "Regular Erin",
+			"screen_name": "Daikaiju_Erin",
+			"location": "Columbus, OH",
+			"description": "These thoughts are constructive criticisms. Pyramidical. I try to  suppress these thoughts, but they leak out in Second Level. I was imperfectly repaired.",
+			"url": "https://t.co/pEByW5rFrX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEByW5rFrX",
+							"expanded_url": "https://glitch.com/@ErinLMoore",
+							"display_url": "glitch.com/@ErinLMoore",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 103,
+			"friends_count": 155,
+			"listed_count": 3,
+			"created_at": "Fri Jan 29 22:04:49 +0000 2010",
+			"favourites_count": 3407,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1568,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/755238438782263297/UWZpPr8x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/755238438782263297/UWZpPr8x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/109678441/1468898040",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@drewtoothpaste Hello, I made a bot look at 668 journalists names and it made this journalist name generator:\nhttps://t.co/3Y7yZrKHxH\nI can delete it if you hate it, thanks."
+	},
+	{
 		"created_at": "Sat Nov 17 22:16:26 +0000 2018",
 		"id": 1063918811991195600,
 		"id_str": "1063918811991195649",
