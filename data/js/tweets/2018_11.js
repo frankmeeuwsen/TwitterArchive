@@ -1,6 +1,204 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Sun Nov 18 15:14:39 +0000 2018",
+		"id": 1064175058053140500,
+		"id_str": "1064175058053140481",
+		"full_text": "Ik heb vandaag twee brede PAX kasten van @IKEANederland in elkaar geklust, ik heb geen schroefjes over, alles past en staat waterpas en we hebben nog altijd electriciteit in de straat. Ik heb bier verdiend. En een nutfunctie voor deze gif. https://t.co/bPBAWW8ENY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			239
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IKEANederland",
+					"name": "IKEA Nederland",
+					"id": 1218566827,
+					"id_str": "1218566827",
+					"indices": [
+						41,
+						55
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1064175049815543800,
+					"id_str": "1064175049815543810",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DsS1kc8W0AIUUvO.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DsS1kc8W0AIUUvO.jpg",
+					"url": "https://t.co/bPBAWW8ENY",
+					"display_url": "pic.twitter.com/bPBAWW8ENY",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1064175058053140481/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 266,
+							"h": 200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 266,
+							"h": 200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 266,
+							"h": 200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1064175049815543800,
+					"id_str": "1064175049815543810",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DsS1kc8W0AIUUvO.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DsS1kc8W0AIUUvO.jpg",
+					"url": "https://t.co/bPBAWW8ENY",
+					"display_url": "pic.twitter.com/bPBAWW8ENY",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1064175058053140481/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 266,
+							"h": 200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 266,
+							"h": 200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 266,
+							"h": 200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							133,
+							100
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DsS1kc8W0AIUUvO.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8928,
+			"friends_count": 191,
+			"listed_count": 596,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4831,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60602,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Ik heb vandaag twee brede PAX kasten van @IKEANederland in elkaar geklust, ik heb geen schroefjes over, alles past en staat waterpas en we hebben nog altijd electriciteit in de straat. Ik heb bier verdiend. En een nutfunctie voor deze gif. https://t.co/bPBAWW8ENY"
+	},
+	{
 		"created_at": "Sun Nov 18 07:05:05 +0000 2018",
 		"id": 1064051851098759200,
 		"id_str": "1064051851098759168",
