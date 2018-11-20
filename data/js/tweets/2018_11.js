@@ -1,6 +1,1880 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Tue Nov 20 18:03:45 +0000 2018",
+		"id": 1064942386701324300,
+		"id_str": "1064942386701324293",
+		"full_text": "@roosvanvugt @erwblo @josgovaart @svnierop Je herkent de “analyse van complex cross-channel en cross-device gedrag” en “aanbouw van complexe content-archetypen met merkkarakters”\n\nMaar goed. Ik zal wel weer de bal gekaatst krijgen dat ik zijn eerste boek ooit als lesmateriaal heb gebruikt. Shit happens.",
+		"truncated": false,
+		"display_text_range": [
+			43,
+			304
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "roosvanvugt",
+					"name": "Roos van Vugt",
+					"id": 21687228,
+					"id_str": "21687228",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "erwblo",
+					"name": "erwin blom",
+					"id": 713333,
+					"id_str": "713333",
+					"indices": [
+						13,
+						20
+					]
+				},
+				{
+					"screen_name": "josgovaart",
+					"name": "Jos Govaart",
+					"id": 17106307,
+					"id_str": "17106307",
+					"indices": [
+						21,
+						32
+					]
+				},
+				{
+					"screen_name": "svnierop",
+					"name": "Susanne van Nierop",
+					"id": 19540316,
+					"id_str": "19540316",
+					"indices": [
+						33,
+						42
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": 1064941899767783400,
+		"in_reply_to_status_id_str": "1064941899767783425",
+		"in_reply_to_user_id": 816203,
+		"in_reply_to_user_id_str": "816203",
+		"in_reply_to_screen_name": "frankmeeuwsen",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8924,
+			"friends_count": 194,
+			"listed_count": 596,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4842,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60616,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@roosvanvugt @erwblo @josgovaart @svnierop Je herkent de “analyse van complex cross-channel en cross-device gedrag” en “aanbouw van complexe content-archetypen met merkkarakters”\n\nMaar goed. Ik zal wel weer de bal gekaatst krijgen dat ik zijn eerste boek ooit als lesmateriaal heb gebruikt. Shit happens."
+	},
+	{
+		"created_at": "Tue Nov 20 18:01:49 +0000 2018",
+		"id": 1064941899767783400,
+		"id_str": "1064941899767783425",
+		"full_text": "@roosvanvugt @erwblo @josgovaart @svnierop Dit ademt “Een autoriteit op basis van authentieke waarden, een levendige fanbase, gelinkt aan de aansprekende organisatiecultuur” toch?",
+		"truncated": false,
+		"display_text_range": [
+			43,
+			179
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "roosvanvugt",
+					"name": "Roos van Vugt",
+					"id": 21687228,
+					"id_str": "21687228",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "erwblo",
+					"name": "erwin blom",
+					"id": 713333,
+					"id_str": "713333",
+					"indices": [
+						13,
+						20
+					]
+				},
+				{
+					"screen_name": "josgovaart",
+					"name": "Jos Govaart",
+					"id": 17106307,
+					"id_str": "17106307",
+					"indices": [
+						21,
+						32
+					]
+				},
+				{
+					"screen_name": "svnierop",
+					"name": "Susanne van Nierop",
+					"id": 19540316,
+					"id_str": "19540316",
+					"indices": [
+						33,
+						42
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": 1064931585382858800,
+		"in_reply_to_status_id_str": "1064931585382858752",
+		"in_reply_to_user_id": 21687228,
+		"in_reply_to_user_id_str": "21687228",
+		"in_reply_to_screen_name": "roosvanvugt",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8924,
+			"friends_count": 194,
+			"listed_count": 596,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4842,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60616,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@roosvanvugt @erwblo @josgovaart @svnierop Dit ademt “Een autoriteit op basis van authentieke waarden, een levendige fanbase, gelinkt aan de aansprekende organisatiecultuur” toch?"
+	},
+	{
+		"created_at": "Tue Nov 20 09:03:55 +0000 2018",
+		"id": 1064806535245824000,
+		"id_str": "1064806535245824000",
+		"full_text": "Gezocht: De front-end tovenaar van Oss met ploatjes skills, onze 42 op front-end gebied. #delenislief #RT #frontend #job #magjemetmijwerken\n\nhttps://t.co/ZOyB3VfRR3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "delenislief",
+					"indices": [
+						89,
+						101
+					]
+				},
+				{
+					"text": "RT",
+					"indices": [
+						102,
+						105
+					]
+				},
+				{
+					"text": "frontend",
+					"indices": [
+						106,
+						115
+					]
+				},
+				{
+					"text": "job",
+					"indices": [
+						116,
+						120
+					]
+				},
+				{
+					"text": "magjemetmijwerken",
+					"indices": [
+						121,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZOyB3VfRR3",
+					"expanded_url": "https://www.macketmar.com/front-end-developer/nl",
+					"display_url": "macketmar.com/front-end-deve…",
+					"indices": [
+						141,
+						164
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 997804616455770100,
+			"id_str": "997804616455770113",
+			"name": "Tjarko Rikkerink",
+			"screen_name": "tjarko",
+			"location": "Oss, Nederland",
+			"description": "Doet dingen, en ook best goed. De vorige @tjarko zat hier van 10/2007 - 10/2017 en begon weer opnieuw. Offline influencert",
+			"url": "https://t.co/PMVL0xwwjr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PMVL0xwwjr",
+							"expanded_url": "https://www.linkedin.com/in/tjarkorikkerink/",
+							"display_url": "linkedin.com/in/tjarkorikke…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 353,
+			"friends_count": 379,
+			"listed_count": 3,
+			"created_at": "Sat May 19 11:42:13 +0000 2018",
+			"favourites_count": 3558,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 97,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1007915058498801664/wGrZYu8N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1007915058498801664/wGrZYu8N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/997804616455770113/1541870163",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Gezocht: De front-end tovenaar van Oss met ploatjes skills, onze 42 op front-end gebied. #delenislief #RT #frontend #job #magjemetmijwerken\n\nhttps://t.co/ZOyB3VfRR3"
+	},
+	{
+		"created_at": "Thu Nov 08 11:30:44 +0000 2018",
+		"id": 1060494826574172200,
+		"id_str": "1060494826574172161",
+		"full_text": "One of the most underrated tech sites for makers getting feedback and early users is @IndieHackers - I added a post last week for a very quick hack inspired by a thread I read and got 19 sign ups! Yes Reddit and HN are great too but overlay critical and saturated! #indiehackers https://t.co/T50ea8JaBg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "indiehackers",
+					"indices": [
+						265,
+						278
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IndieHackers",
+					"name": "Indie Hackers",
+					"id": 756326958946922500,
+					"id_str": "756326958946922496",
+					"indices": [
+						85,
+						98
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1060493520459456500,
+					"id_str": "1060493520459456512",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/DrehPPWW4AAjC3g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrehPPWW4AAjC3g.jpg",
+					"url": "https://t.co/T50ea8JaBg",
+					"display_url": "pic.twitter.com/T50ea8JaBg",
+					"expanded_url": "https://twitter.com/thisdickie/status/1060494826574172161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 685,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1168,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 388,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1060493520459456500,
+					"id_str": "1060493520459456512",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/DrehPPWW4AAjC3g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrehPPWW4AAjC3g.jpg",
+					"url": "https://t.co/T50ea8JaBg",
+					"display_url": "pic.twitter.com/T50ea8JaBg",
+					"expanded_url": "https://twitter.com/thisdickie/status/1060494826574172161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 685,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1168,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 388,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 343042741,
+			"id_str": "343042741",
+			"name": "Sam 👨🏼‍💻",
+			"screen_name": "thisdickie",
+			"location": "london",
+			"description": "Senior Product Manager @ucreate_ & Fintech nerd - Founder @nocodetech (acquired)+ @getBetaTesta + @cut_the_noize + @accoladesport (Coming soon)",
+			"url": "https://t.co/jIHtfLBwiM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jIHtfLBwiM",
+							"expanded_url": "http://www.nocode.tech",
+							"display_url": "nocode.tech",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 829,
+			"friends_count": 561,
+			"listed_count": 197,
+			"created_at": "Wed Jul 27 00:00:39 +0000 2011",
+			"favourites_count": 3591,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1846,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/630716163950034948/2m1G0dwv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/630716163950034948/2m1G0dwv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/343042741/1499327345",
+			"profile_link_color": "66FFCC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 16,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "One of the most underrated tech sites for makers getting feedback and early users is @IndieHackers - I added a post last week for a very quick hack inspired by a thread I read and got 19 sign ups! Yes Reddit and HN are great too but overlay critical and saturated! #indiehackers https://t.co/T50ea8JaBg"
+	},
+	{
+		"created_at": "Tue Nov 20 17:12:46 +0000 2018",
+		"id": 1064929556799332400,
+		"id_str": "1064929556799332356",
+		"full_text": "@josgovaart @roosvanvugt @svnierop Zojuist online gelezen op https://t.co/tFI0bMhJ5G Ik kan hem geen ongelijk geven met zijn punt maar ik word wel wat angstig van die berg “moet”-dingen voor je wat kunt schrijven. En ik mis persoonlijke praktijkvoorbeelden...",
+		"truncated": false,
+		"display_text_range": [
+			35,
+			259
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "josgovaart",
+					"name": "Jos Govaart",
+					"id": 17106307,
+					"id_str": "17106307",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "roosvanvugt",
+					"name": "Roos van Vugt",
+					"id": 21687228,
+					"id_str": "21687228",
+					"indices": [
+						12,
+						24
+					]
+				},
+				{
+					"screen_name": "svnierop",
+					"name": "Susanne van Nierop",
+					"id": 19540316,
+					"id_str": "19540316",
+					"indices": [
+						25,
+						34
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tFI0bMhJ5G",
+					"expanded_url": "https://www.adformatie.nl/contentmarketing/contentmarketing-verdient-serieuzere-aanpak",
+					"display_url": "adformatie.nl/contentmarketi…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": 1064927675779858400,
+		"in_reply_to_status_id_str": "1064927675779858434",
+		"in_reply_to_user_id": 17106307,
+		"in_reply_to_user_id_str": "17106307",
+		"in_reply_to_screen_name": "josgovaart",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8924,
+			"friends_count": 194,
+			"listed_count": 596,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4842,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60616,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@josgovaart @roosvanvugt @svnierop Zojuist online gelezen op https://t.co/tFI0bMhJ5G Ik kan hem geen ongelijk geven met zijn punt maar ik word wel wat angstig van die berg “moet”-dingen voor je wat kunt schrijven. En ik mis persoonlijke praktijkvoorbeelden..."
+	},
+	{
+		"created_at": "Tue Nov 20 17:01:15 +0000 2018",
+		"id": 1064926657264390100,
+		"id_str": "1064926657264390145",
+		"full_text": "@josgovaart Waar staat dit in? Is het online te lezen? Is het de moeite waard?",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "josgovaart",
+					"name": "Jos Govaart",
+					"id": 17106307,
+					"id_str": "17106307",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": 1064925003156734000,
+		"in_reply_to_status_id_str": "1064925003156733952",
+		"in_reply_to_user_id": 17106307,
+		"in_reply_to_user_id_str": "17106307",
+		"in_reply_to_screen_name": "josgovaart",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8924,
+			"friends_count": 194,
+			"listed_count": 596,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4842,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60616,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@josgovaart Waar staat dit in? Is het online te lezen? Is het de moeite waard?"
+	},
+	{
+		"created_at": "Tue Nov 20 16:30:48 +0000 2018",
+		"id": 1064918996703723500,
+		"id_str": "1064918996703723522",
+		"full_text": "Woeha. na 27 jaar er achter komen dat er nóg een clip is van het nummer Jeremy van Pearl Jam. Minder flashy maar met evenveel impact. (paging @DeFries @Markies @KAFygi @ChristaRomp @roosvanvugt @JettyPoody e.v.a) https://t.co/PrY2yrOSJu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			236
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DeFries",
+					"name": "Remkus de Vries",
+					"id": 14264386,
+					"id_str": "14264386",
+					"indices": [
+						142,
+						150
+					]
+				},
+				{
+					"screen_name": "Markies",
+					"name": "Mark de Kock",
+					"id": 1858541,
+					"id_str": "1858541",
+					"indices": [
+						151,
+						159
+					]
+				},
+				{
+					"screen_name": "KAFygi",
+					"name": "Kari-Anne Fygi",
+					"id": 8242152,
+					"id_str": "8242152",
+					"indices": [
+						160,
+						167
+					]
+				},
+				{
+					"screen_name": "ChristaRomp",
+					"name": "Christa Romp",
+					"id": 26492815,
+					"id_str": "26492815",
+					"indices": [
+						168,
+						180
+					]
+				},
+				{
+					"screen_name": "roosvanvugt",
+					"name": "Roos van Vugt",
+					"id": 21687228,
+					"id_str": "21687228",
+					"indices": [
+						181,
+						193
+					]
+				},
+				{
+					"screen_name": "JettyPoody",
+					"name": "PoodyWoody",
+					"id": 753540477648068600,
+					"id_str": "753540477648068608",
+					"indices": [
+						194,
+						205
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PrY2yrOSJu",
+					"expanded_url": "https://www.youtube.com/watch?v=xwLJl_t94Sg",
+					"display_url": "youtube.com/watch?v=xwLJl_…",
+					"indices": [
+						213,
+						236
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8924,
+			"friends_count": 194,
+			"listed_count": 596,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4842,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60616,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Woeha. na 27 jaar er achter komen dat er nóg een clip is van het nummer Jeremy van Pearl Jam. Minder flashy maar met evenveel impact. (paging @DeFries @Markies @KAFygi @ChristaRomp @roosvanvugt @JettyPoody e.v.a) https://t.co/PrY2yrOSJu"
+	},
+	{
+		"created_at": "Tue Nov 20 16:16:20 +0000 2018",
+		"id": 1064915353984225300,
+		"id_str": "1064915353984225281",
+		"full_text": "@roosvanvugt Die fotograaf is trouwens de regisseur van de originele Jeremy clip. Niet degene die later bekend is geworden. Ik heb nooit geweten dat er twee versies waren.... https://t.co/PwGIlgmVep",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			198
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "roosvanvugt",
+					"name": "Roos van Vugt",
+					"id": 21687228,
+					"id_str": "21687228",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PwGIlgmVep",
+					"expanded_url": "https://en.wikipedia.org/wiki/Jeremy_(song)#Original_video",
+					"display_url": "en.wikipedia.org/wiki/Jeremy_(s…",
+					"indices": [
+						175,
+						198
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1064913775583772700,
+		"in_reply_to_status_id_str": "1064913775583772673",
+		"in_reply_to_user_id": 21687228,
+		"in_reply_to_user_id_str": "21687228",
+		"in_reply_to_screen_name": "roosvanvugt",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8924,
+			"friends_count": 194,
+			"listed_count": 596,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4842,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60616,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@roosvanvugt Die fotograaf is trouwens de regisseur van de originele Jeremy clip. Niet degene die later bekend is geworden. Ik heb nooit geweten dat er twee versies waren.... https://t.co/PwGIlgmVep"
+	},
+	{
+		"created_at": "Tue Nov 20 16:12:22 +0000 2018",
+		"id": 1064914358365507600,
+		"id_str": "1064914358365507584",
+		"full_text": "@roosvanvugt Hebben wij een foto gemaakt van ome Ed? In welk leven was dat? ;-)",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "roosvanvugt",
+					"name": "Roos van Vugt",
+					"id": 21687228,
+					"id_str": "21687228",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1064913775583772700,
+		"in_reply_to_status_id_str": "1064913775583772673",
+		"in_reply_to_user_id": 21687228,
+		"in_reply_to_user_id_str": "21687228",
+		"in_reply_to_screen_name": "roosvanvugt",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8924,
+			"friends_count": 194,
+			"listed_count": 596,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4842,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60616,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@roosvanvugt Hebben wij een foto gemaakt van ome Ed? In welk leven was dat? ;-)"
+	},
+	{
+		"created_at": "Tue Nov 20 16:07:58 +0000 2018",
+		"id": 1064913250284904400,
+		"id_str": "1064913250284904450",
+		"full_text": "Kerstcadeautje @roosvanvugt? https://t.co/UOCqlqNqZR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "roosvanvugt",
+					"name": "Roos van Vugt",
+					"id": 21687228,
+					"id_str": "21687228",
+					"indices": [
+						15,
+						27
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UOCqlqNqZR",
+					"expanded_url": "https://twitter.com/demetriosns/status/1064804704855695362",
+					"display_url": "twitter.com/demetriosns/st…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8924,
+			"friends_count": 194,
+			"listed_count": 596,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4842,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60616,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1064804704855695400,
+		"quoted_status_id_str": "1064804704855695362",
+		"quoted_status_permalink": {
+			"url": "https://t.co/UOCqlqNqZR",
+			"expanded": "https://twitter.com/demetriosns/status/1064804704855695362",
+			"display": "twitter.com/demetriosns/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Nov 20 08:56:39 +0000 2018",
+			"id": 1064804704855695400,
+			"id_str": "1064804704855695362",
+			"full_text": "\"cuffarophoto - For all you Pearl Jam fans!! 😊👍🏼 You can ORDER prints NOW at https://t.co/kz3MrqTNRy &amp; https://t.co/oCp7DmYfZJ #GreatestHits #CuffaroHits #photographer #music #fineart #prints #photography #legends #instagood #eddievedder #pearljam\" https://t.co/IUqw9qUEVF https://t.co/G3UnfLzp6f",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				276
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GreatestHits",
+						"indices": [
+							131,
+							144
+						]
+					},
+					{
+						"text": "CuffaroHits",
+						"indices": [
+							145,
+							157
+						]
+					},
+					{
+						"text": "photographer",
+						"indices": [
+							158,
+							171
+						]
+					},
+					{
+						"text": "music",
+						"indices": [
+							172,
+							178
+						]
+					},
+					{
+						"text": "fineart",
+						"indices": [
+							179,
+							187
+						]
+					},
+					{
+						"text": "prints",
+						"indices": [
+							188,
+							195
+						]
+					},
+					{
+						"text": "photography",
+						"indices": [
+							196,
+							208
+						]
+					},
+					{
+						"text": "legends",
+						"indices": [
+							209,
+							217
+						]
+					},
+					{
+						"text": "instagood",
+						"indices": [
+							218,
+							228
+						]
+					},
+					{
+						"text": "eddievedder",
+						"indices": [
+							229,
+							241
+						]
+					},
+					{
+						"text": "pearljam",
+						"indices": [
+							242,
+							251
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/kz3MrqTNRy",
+						"expanded_url": "http://CuffaroPhoto.com",
+						"display_url": "CuffaroPhoto.com",
+						"indices": [
+							77,
+							100
+						]
+					},
+					{
+						"url": "https://t.co/oCp7DmYfZJ",
+						"expanded_url": "http://CuffaroHits.com",
+						"display_url": "CuffaroHits.com",
+						"indices": [
+							107,
+							130
+						]
+					},
+					{
+						"url": "https://t.co/IUqw9qUEVF",
+						"expanded_url": "https://www.instagram.com/p/BqYGxdSFUIh/",
+						"display_url": "instagram.com/p/BqYGxdSFUIh/",
+						"indices": [
+							253,
+							276
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1064804545996279800,
+						"id_str": "1064804545996279815",
+						"indices": [
+							277,
+							300
+						],
+						"media_url": "http://pbs.twimg.com/media/DsbyF89UUAcIr6F.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DsbyF89UUAcIr6F.jpg",
+						"url": "https://t.co/G3UnfLzp6f",
+						"display_url": "pic.twitter.com/G3UnfLzp6f",
+						"expanded_url": "https://twitter.com/demetriosns/status/1064804704855695362/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1064804545996279800,
+						"id_str": "1064804545996279815",
+						"indices": [
+							277,
+							300
+						],
+						"media_url": "http://pbs.twimg.com/media/DsbyF89UUAcIr6F.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DsbyF89UUAcIr6F.jpg",
+						"url": "https://t.co/G3UnfLzp6f",
+						"display_url": "pic.twitter.com/G3UnfLzp6f",
+						"expanded_url": "https://twitter.com/demetriosns/status/1064804704855695362/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2445883256,
+				"id_str": "2445883256",
+				"name": "demetrios",
+				"screen_name": "demetriosns",
+				"location": "",
+				"description": "#pearljam",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2015,
+				"friends_count": 2125,
+				"listed_count": 32,
+				"created_at": "Tue Apr 15 19:14:28 +0000 2014",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 15786,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/964089175489351680/xBdqHMwd_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/964089175489351680/xBdqHMwd_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2445883256/1518692315",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Kerstcadeautje @roosvanvugt? https://t.co/UOCqlqNqZR"
+	},
+	{
+		"created_at": "Tue Nov 20 15:23:40 +0000 2018",
+		"id": 1064902102126719000,
+		"id_str": "1064902102126718976",
+		"full_text": "I wrote an article for @mozhacks that's a brief technical introduction to ActivityPub (the standard behind community owned alternatives Twitter such as Mastodon). I also provide some Node.js software to get you started writing your own ActivityPub stuff!\n\nhttps://t.co/oYz5Nb3tPj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mozhacks",
+					"name": "Mozilla Hacks",
+					"id": 45496942,
+					"id_str": "45496942",
+					"indices": [
+						23,
+						32
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/oYz5Nb3tPj",
+					"expanded_url": "https://hacks.mozilla.org/2018/11/decentralizing-social-interactions-with-activitypub",
+					"display_url": "hacks.mozilla.org/2018/11/decent…",
+					"indices": [
+						256,
+						279
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14475298,
+			"id_str": "14475298",
+			"name": "Darius Kazemi",
+			"screen_name": "tinysubversions",
+			"location": "Portland, OR",
+			"description": "I make weird internet art. I've mostly left Twitter, I'm at https://t.co/ccDElE4ZLE  Worker-owner at @feeltraincoop. Mozilla Open Web Fellow Sep 2018. #WHNBM he/him",
+			"url": "https://t.co/IoTmQk4rMq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IoTmQk4rMq",
+							"expanded_url": "http://tinysubversions.com",
+							"display_url": "tinysubversions.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ccDElE4ZLE",
+							"expanded_url": "http://friend.camp/@darius",
+							"display_url": "friend.camp/@darius",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 21903,
+			"friends_count": 2230,
+			"listed_count": 987,
+			"created_at": "Tue Apr 22 14:41:58 +0000 2008",
+			"favourites_count": 48933,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 79863,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF6921",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/931365175298465792/nvtH_49y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/931365175298465792/nvtH_49y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14475298/1524158062",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I wrote an article for @mozhacks that's a brief technical introduction to ActivityPub (the standard behind community owned alternatives Twitter such as Mastodon). I also provide some Node.js software to get you started writing your own ActivityPub stuff!\n\nhttps://t.co/oYz5Nb3tPj"
+	},
+	{
+		"created_at": "Tue Nov 20 13:46:01 +0000 2018",
+		"id": 1064877528177930200,
+		"id_str": "1064877528177930248",
+		"full_text": "Ik zit een kwartier met @airtable te werken om wat te testen. Wat een mooie tool is het toch. Het lastige blijft dat je data op andermans server staat, maar het is een geweldig werk-tool. Check het zelf op https://t.co/bvDdLf0bbg (referral link alert!)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			252
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "airtable",
+					"name": "Airtable",
+					"id": 2786252385,
+					"id_str": "2786252385",
+					"indices": [
+						24,
+						33
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bvDdLf0bbg",
+					"expanded_url": "https://airtable.com/invite/r/U3HyHwu1",
+					"display_url": "airtable.com/invite/r/U3HyH…",
+					"indices": [
+						206,
+						229
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8924,
+			"friends_count": 194,
+			"listed_count": 596,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4842,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60616,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Ik zit een kwartier met @airtable te werken om wat te testen. Wat een mooie tool is het toch. Het lastige blijft dat je data op andermans server staat, maar het is een geweldig werk-tool. Check het zelf op https://t.co/bvDdLf0bbg (referral link alert!)"
+	},
+	{
 		"created_at": "Tue Nov 20 09:03:55 +0000 2018",
 		"id": 1064806535245824000,
 		"id_str": "1064806535245824000",
@@ -264,7 +2138,7 @@ Grailbird.data.tweets_2018_11 =
 		"user": {
 			"id": 343042741,
 			"id_str": "343042741",
-			"name": "Sam 👨🏼‍💻",
+			"name": "Sam 👨🏼💻",
 			"screen_name": "thisdickie",
 			"location": "london",
 			"description": "Senior Product Manager @ucreate_ & Fintech nerd - Founder @nocodetech (acquired)+ @getBetaTesta + @cut_the_noize + @accoladesport (Coming soon)",
