@@ -1,6 +1,251 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Wed Nov 21 15:57:55 +0000 2018",
+		"id": 1065273107391422500,
+		"id_str": "1065273107391422468",
+		"full_text": "@mroumen @vreeman @bramkoster @jpschadde @ronvrn @markritson @adformatie https://t.co/rjnUsSI1lL",
+		"truncated": false,
+		"display_text_range": [
+			72,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mroumen",
+					"name": "Matthijs Roumen",
+					"id": 5443822,
+					"id_str": "5443822",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "vreeman",
+					"name": "Simon Vreeman",
+					"id": 12473092,
+					"id_str": "12473092",
+					"indices": [
+						9,
+						17
+					]
+				},
+				{
+					"screen_name": "bramkoster",
+					"name": "Bram Koster",
+					"id": 6893682,
+					"id_str": "6893682",
+					"indices": [
+						18,
+						29
+					]
+				},
+				{
+					"screen_name": "jpschadde",
+					"name": "Jean-Paul Schaddé van Dooren",
+					"id": 12789402,
+					"id_str": "12789402",
+					"indices": [
+						30,
+						40
+					]
+				},
+				{
+					"screen_name": "ronvrn",
+					"name": "Ronald Voorn",
+					"id": 246830361,
+					"id_str": "246830361",
+					"indices": [
+						41,
+						48
+					]
+				},
+				{
+					"screen_name": "markritson",
+					"name": "Mark Ritson",
+					"id": 127060284,
+					"id_str": "127060284",
+					"indices": [
+						49,
+						60
+					]
+				},
+				{
+					"screen_name": "adformatie",
+					"name": "Adformatie",
+					"id": 5594142,
+					"id_str": "5594142",
+					"indices": [
+						61,
+						72
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1065273096561705000,
+					"id_str": "1065273096561704965",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/DsicPL1XQAUY8_W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsicPL1XQAUY8_W.jpg",
+					"url": "https://t.co/rjnUsSI1lL",
+					"display_url": "pic.twitter.com/rjnUsSI1lL",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1065273107391422468/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 320,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 270,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 320,
+							"h": 270,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1065273096561705000,
+					"id_str": "1065273096561704965",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/DsicPL1XQAUY8_W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsicPL1XQAUY8_W.jpg",
+					"url": "https://t.co/rjnUsSI1lL",
+					"display_url": "pic.twitter.com/rjnUsSI1lL",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1065273107391422468/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 320,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 270,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 320,
+							"h": 270,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1065266065888948200,
+		"in_reply_to_status_id_str": "1065266065888948229",
+		"in_reply_to_user_id": 5443822,
+		"in_reply_to_user_id_str": "5443822",
+		"in_reply_to_screen_name": "mroumen",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8919,
+			"friends_count": 195,
+			"listed_count": 596,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4853,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60632,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@mroumen @vreeman @bramkoster @jpschadde @ronvrn @markritson @adformatie https://t.co/rjnUsSI1lL"
+	},
+	{
 		"created_at": "Wed Nov 21 15:14:45 +0000 2018",
 		"id": 1065262245792424000,
 		"id_str": "1065262245792423942",
