@@ -1,6 +1,1008 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Wed Nov 21 12:59:29 +0000 2018",
+		"id": 1065228203588010000,
+		"id_str": "1065228203588009986",
+		"full_text": "@remkus_frl *Need to change muscle memory for PJ related cc-tweets*",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "remkus_frl",
+					"name": "Remkus de Vries",
+					"id": 14264386,
+					"id_str": "14264386",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1065223460874584000,
+		"in_reply_to_status_id_str": "1065223460874584066",
+		"in_reply_to_user_id": 14264386,
+		"in_reply_to_user_id_str": "14264386",
+		"in_reply_to_screen_name": "remkus_frl",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8919,
+			"friends_count": 194,
+			"listed_count": 596,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4851,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60628,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@remkus_frl *Need to change muscle memory for PJ related cc-tweets*"
+	},
+	{
+		"created_at": "Tue Nov 20 20:44:10 +0000 2018",
+		"id": 1064982758592864300,
+		"id_str": "1064982758592864257",
+		"full_text": "This racist white man was harassing 4 black Muslim girls inside a McDonald’s in Minnesota and when the girls confronted the man, he pulled out a gun on them.\n\nKids: He just pulled a gun on us...\n\nManager: I understand that...I don't give a F*CK\n\nTHIS IS INSANE\n\nRETWEET THIS!! https://t.co/pLorZYMxDd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1064981283766452200,
+					"id_str": "1064981283766452226",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1064981283766452226/pu/img/GKQCQNT5XJmOFfI2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1064981283766452226/pu/img/GKQCQNT5XJmOFfI2.jpg",
+					"url": "https://t.co/pLorZYMxDd",
+					"display_url": "pic.twitter.com/pLorZYMxDd",
+					"expanded_url": "https://twitter.com/_SJPeace_/status/1064982758592864257/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1064981283766452200,
+					"id_str": "1064981283766452226",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1064981283766452226/pu/img/GKQCQNT5XJmOFfI2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1064981283766452226/pu/img/GKQCQNT5XJmOFfI2.jpg",
+					"url": "https://t.co/pLorZYMxDd",
+					"display_url": "pic.twitter.com/pLorZYMxDd",
+					"expanded_url": "https://twitter.com/_SJPeace_/status/1064982758592864257/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 45000,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1064981283766452226/pu/vid/320x568/7uxSXmA1NiTx27GQ.mp4?tag=6"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1064981283766452226/pu/vid/360x640/pqGJjE4qPmGy_MrR.mp4?tag=6"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1064981283766452226/pu/vid/720x1280/8Nn6aMOxMzxzIP_b.mp4?tag=6"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1064981283766452226/pu/pl/-M8fRhw_hChMgHmK.m3u8?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 716432228,
+			"id_str": "716432228",
+			"name": "StanceGrounded",
+			"screen_name": "_SJPeace_",
+			"location": "",
+			"description": "Activist- Muslim, American by birth, Pakistani by blood. Educated man of color - changing the world one friend at a time. Detroit MI ✊🏾 #Resist BLM 🇵🇰",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 154090,
+			"friends_count": 36490,
+			"listed_count": 621,
+			"created_at": "Wed Jul 25 17:22:39 +0000 2012",
+			"favourites_count": 4297,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5974,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1050990628660801536/scEOaxDd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1050990628660801536/scEOaxDd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/716432228/1530137426",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 49328,
+		"favorite_count": 48079,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This racist white man was harassing 4 black Muslim girls inside a McDonald’s in Minnesota and when the girls confronted the man, he pulled out a gun on them.\n\nKids: He just pulled a gun on us...\n\nManager: I understand that...I don't give a F*CK\n\nTHIS IS INSANE\n\nRETWEET THIS!! https://t.co/pLorZYMxDd"
+	},
+	{
+		"created_at": "Tue Nov 20 20:54:30 +0000 2018",
+		"id": 1064985358067294200,
+		"id_str": "1064985358067294208",
+		"full_text": "@conversionation @roosvanvugt @D_Rijntjes @HumphryJoey @sdebakker @ronvrn @josgovaart @svnierop Hier staat RTLZ op over de geschiedenis en toekomst van het internet. Ook zo heerlijk uplifting over cookies, dataprivacy en mobile targetting..",
+		"truncated": false,
+		"display_text_range": [
+			96,
+			240
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "conversionation",
+					"name": "J-P De Clerck",
+					"id": 141527434,
+					"id_str": "141527434",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "roosvanvugt",
+					"name": "Roos van Vugt",
+					"id": 21687228,
+					"id_str": "21687228",
+					"indices": [
+						17,
+						29
+					]
+				},
+				{
+					"screen_name": "D_Rijntjes",
+					"name": "Dennis",
+					"id": 217373061,
+					"id_str": "217373061",
+					"indices": [
+						30,
+						41
+					]
+				},
+				{
+					"screen_name": "HumphryJoey",
+					"name": "Humphry",
+					"id": 54028848,
+					"id_str": "54028848",
+					"indices": [
+						42,
+						54
+					]
+				},
+				{
+					"screen_name": "sdebakker",
+					"name": "Suzanne de Bakker",
+					"id": 89787523,
+					"id_str": "89787523",
+					"indices": [
+						55,
+						65
+					]
+				},
+				{
+					"screen_name": "ronvrn",
+					"name": "Ronald Voorn",
+					"id": 246830361,
+					"id_str": "246830361",
+					"indices": [
+						66,
+						73
+					]
+				},
+				{
+					"screen_name": "josgovaart",
+					"name": "Jos Govaart",
+					"id": 17106307,
+					"id_str": "17106307",
+					"indices": [
+						74,
+						85
+					]
+				},
+				{
+					"screen_name": "svnierop",
+					"name": "Susanne van Nierop",
+					"id": 19540316,
+					"id_str": "19540316",
+					"indices": [
+						86,
+						95
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": 1064984697216925700,
+		"in_reply_to_status_id_str": "1064984697216925696",
+		"in_reply_to_user_id": 141527434,
+		"in_reply_to_user_id_str": "141527434",
+		"in_reply_to_screen_name": "conversionation",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8919,
+			"friends_count": 194,
+			"listed_count": 596,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4851,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60628,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@conversionation @roosvanvugt @D_Rijntjes @HumphryJoey @sdebakker @ronvrn @josgovaart @svnierop Hier staat RTLZ op over de geschiedenis en toekomst van het internet. Ook zo heerlijk uplifting over cookies, dataprivacy en mobile targetting.."
+	},
+	{
+		"created_at": "Tue Nov 20 20:51:27 +0000 2018",
+		"id": 1064984590396399600,
+		"id_str": "1064984590396399617",
+		"full_text": "@roosvanvugt @conversionation @D_Rijntjes @HumphryJoey @sdebakker @ronvrn @josgovaart @svnierop Ik ben 40+ lieve Roos. Mijn geheugen is niet meer wat het was... misschien moet je het me nog eens uitleggen met een wijntje er bij. Of twee.",
+		"truncated": false,
+		"display_text_range": [
+			96,
+			237
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "roosvanvugt",
+					"name": "Roos van Vugt",
+					"id": 21687228,
+					"id_str": "21687228",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "conversionation",
+					"name": "J-P De Clerck",
+					"id": 141527434,
+					"id_str": "141527434",
+					"indices": [
+						13,
+						29
+					]
+				},
+				{
+					"screen_name": "D_Rijntjes",
+					"name": "Dennis",
+					"id": 217373061,
+					"id_str": "217373061",
+					"indices": [
+						30,
+						41
+					]
+				},
+				{
+					"screen_name": "HumphryJoey",
+					"name": "Humphry",
+					"id": 54028848,
+					"id_str": "54028848",
+					"indices": [
+						42,
+						54
+					]
+				},
+				{
+					"screen_name": "sdebakker",
+					"name": "Suzanne de Bakker",
+					"id": 89787523,
+					"id_str": "89787523",
+					"indices": [
+						55,
+						65
+					]
+				},
+				{
+					"screen_name": "ronvrn",
+					"name": "Ronald Voorn",
+					"id": 246830361,
+					"id_str": "246830361",
+					"indices": [
+						66,
+						73
+					]
+				},
+				{
+					"screen_name": "josgovaart",
+					"name": "Jos Govaart",
+					"id": 17106307,
+					"id_str": "17106307",
+					"indices": [
+						74,
+						85
+					]
+				},
+				{
+					"screen_name": "svnierop",
+					"name": "Susanne van Nierop",
+					"id": 19540316,
+					"id_str": "19540316",
+					"indices": [
+						86,
+						95
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": 1064984289706721300,
+		"in_reply_to_status_id_str": "1064984289706721280",
+		"in_reply_to_user_id": 21687228,
+		"in_reply_to_user_id_str": "21687228",
+		"in_reply_to_screen_name": "roosvanvugt",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8919,
+			"friends_count": 194,
+			"listed_count": 596,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4851,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60628,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@roosvanvugt @conversionation @D_Rijntjes @HumphryJoey @sdebakker @ronvrn @josgovaart @svnierop Ik ben 40+ lieve Roos. Mijn geheugen is niet meer wat het was... misschien moet je het me nog eens uitleggen met een wijntje er bij. Of twee."
+	},
+	{
+		"created_at": "Tue Nov 20 20:49:28 +0000 2018",
+		"id": 1064984090783506400,
+		"id_str": "1064984090783506433",
+		"full_text": "@HumphryJoey @D_Rijntjes @roosvanvugt @conversionation @sdebakker @ronvrn @josgovaart @svnierop Ik hoor het voor het eerst. Ik moet vaker met jullie twitteren. Oh wacht.",
+		"truncated": false,
+		"display_text_range": [
+			96,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HumphryJoey",
+					"name": "Humphry",
+					"id": 54028848,
+					"id_str": "54028848",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "D_Rijntjes",
+					"name": "Dennis",
+					"id": 217373061,
+					"id_str": "217373061",
+					"indices": [
+						13,
+						24
+					]
+				},
+				{
+					"screen_name": "roosvanvugt",
+					"name": "Roos van Vugt",
+					"id": 21687228,
+					"id_str": "21687228",
+					"indices": [
+						25,
+						37
+					]
+				},
+				{
+					"screen_name": "conversionation",
+					"name": "J-P De Clerck",
+					"id": 141527434,
+					"id_str": "141527434",
+					"indices": [
+						38,
+						54
+					]
+				},
+				{
+					"screen_name": "sdebakker",
+					"name": "Suzanne de Bakker",
+					"id": 89787523,
+					"id_str": "89787523",
+					"indices": [
+						55,
+						65
+					]
+				},
+				{
+					"screen_name": "ronvrn",
+					"name": "Ronald Voorn",
+					"id": 246830361,
+					"id_str": "246830361",
+					"indices": [
+						66,
+						73
+					]
+				},
+				{
+					"screen_name": "josgovaart",
+					"name": "Jos Govaart",
+					"id": 17106307,
+					"id_str": "17106307",
+					"indices": [
+						74,
+						85
+					]
+				},
+				{
+					"screen_name": "svnierop",
+					"name": "Susanne van Nierop",
+					"id": 19540316,
+					"id_str": "19540316",
+					"indices": [
+						86,
+						95
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": 1064983830606549000,
+		"in_reply_to_status_id_str": "1064983830606548992",
+		"in_reply_to_user_id": 54028848,
+		"in_reply_to_user_id_str": "54028848",
+		"in_reply_to_screen_name": "HumphryJoey",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8919,
+			"friends_count": 194,
+			"listed_count": 596,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4851,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60628,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@HumphryJoey @D_Rijntjes @roosvanvugt @conversionation @sdebakker @ronvrn @josgovaart @svnierop Ik hoor het voor het eerst. Ik moet vaker met jullie twitteren. Oh wacht."
+	},
+	{
+		"created_at": "Tue Nov 20 20:48:21 +0000 2018",
+		"id": 1064983812353007600,
+		"id_str": "1064983812353007617",
+		"full_text": "@roosvanvugt @conversionation @D_Rijntjes @HumphryJoey @sdebakker @ronvrn @josgovaart @svnierop Wah? Ik dacht altijd dat het onderdeel van lessen etc was. Dus met medeweten vd studenten. Is dat ooit breder bekend gemaakt? Maatregelen genomen?",
+		"truncated": false,
+		"display_text_range": [
+			96,
+			242
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "roosvanvugt",
+					"name": "Roos van Vugt",
+					"id": 21687228,
+					"id_str": "21687228",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "conversionation",
+					"name": "J-P De Clerck",
+					"id": 141527434,
+					"id_str": "141527434",
+					"indices": [
+						13,
+						29
+					]
+				},
+				{
+					"screen_name": "D_Rijntjes",
+					"name": "Dennis",
+					"id": 217373061,
+					"id_str": "217373061",
+					"indices": [
+						30,
+						41
+					]
+				},
+				{
+					"screen_name": "HumphryJoey",
+					"name": "Humphry",
+					"id": 54028848,
+					"id_str": "54028848",
+					"indices": [
+						42,
+						54
+					]
+				},
+				{
+					"screen_name": "sdebakker",
+					"name": "Suzanne de Bakker",
+					"id": 89787523,
+					"id_str": "89787523",
+					"indices": [
+						55,
+						65
+					]
+				},
+				{
+					"screen_name": "ronvrn",
+					"name": "Ronald Voorn",
+					"id": 246830361,
+					"id_str": "246830361",
+					"indices": [
+						66,
+						73
+					]
+				},
+				{
+					"screen_name": "josgovaart",
+					"name": "Jos Govaart",
+					"id": 17106307,
+					"id_str": "17106307",
+					"indices": [
+						74,
+						85
+					]
+				},
+				{
+					"screen_name": "svnierop",
+					"name": "Susanne van Nierop",
+					"id": 19540316,
+					"id_str": "19540316",
+					"indices": [
+						86,
+						95
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": 1064982826578255900,
+		"in_reply_to_status_id_str": "1064982826578255877",
+		"in_reply_to_user_id": 21687228,
+		"in_reply_to_user_id_str": "21687228",
+		"in_reply_to_screen_name": "roosvanvugt",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8919,
+			"friends_count": 194,
+			"listed_count": 596,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4851,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60628,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@roosvanvugt @conversionation @D_Rijntjes @HumphryJoey @sdebakker @ronvrn @josgovaart @svnierop Wah? Ik dacht altijd dat het onderdeel van lessen etc was. Dus met medeweten vd studenten. Is dat ooit breder bekend gemaakt? Maatregelen genomen?"
+	},
+	{
 		"created_at": "Tue Nov 20 20:44:10 +0000 2018",
 		"id": 1064982758592864300,
 		"id_str": "1064982758592864257",
