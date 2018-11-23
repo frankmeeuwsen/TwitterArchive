@@ -1,6 +1,336 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Fri Nov 23 07:14:01 +0000 2018",
+		"id": 1065866041597837300,
+		"id_str": "1065866041597837313",
+		"full_text": "Spanje... Spanje... komt een recent gearriveerde goedheiligman niet uit die contreien? https://t.co/f1rW8NaE48",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/f1rW8NaE48",
+					"expanded_url": "https://twitter.com/NBCNews/status/1064282098851332096",
+					"display_url": "twitter.com/NBCNews/status…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8919,
+			"friends_count": 195,
+			"listed_count": 596,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4862,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60580,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1064282098851332100,
+		"quoted_status_id_str": "1064282098851332096",
+		"quoted_status_permalink": {
+			"url": "https://t.co/f1rW8NaE48",
+			"expanded": "https://twitter.com/NBCNews/status/1064282098851332096",
+			"display": "twitter.com/NBCNews/status…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Nov 18 22:20:00 +0000 2018",
+			"id": 1064282098851332100,
+			"id_str": "1064282098851332096",
+			"full_text": "WATCH: Fights broke out between far-right protesters and feminist anti-fascist activists at a rally marking the death of the dictator Francisco Franco. https://t.co/5thNNQegdH",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				151
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1064270358889422800,
+						"id_str": "1064270358889422848",
+						"indices": [
+							152,
+							175
+						],
+						"media_url": "http://pbs.twimg.com/media/DsX7PqNWsAArLxH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DsX7PqNWsAArLxH.jpg",
+						"url": "https://t.co/5thNNQegdH",
+						"display_url": "pic.twitter.com/5thNNQegdH",
+						"expanded_url": "https://twitter.com/NBCNews/status/1064282098851332096/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1064270358889422800,
+						"id_str": "1064270358889422848",
+						"indices": [
+							152,
+							175
+						],
+						"media_url": "http://pbs.twimg.com/media/DsX7PqNWsAArLxH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DsX7PqNWsAArLxH.jpg",
+						"url": "https://t.co/5thNNQegdH",
+						"display_url": "pic.twitter.com/5thNNQegdH",
+						"expanded_url": "https://twitter.com/NBCNews/status/1064282098851332096/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 41642,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1064270358889422848/pl/tXpCDdehfl0ZqBSu.m3u8?tag=8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1064270358889422848/vid/480x480/trPJ04jc3jWpIss8.mp4?tag=8"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1064270358889422848/vid/720x720/I_z3cFZAULqidTL8.mp4?tag=8"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1064270358889422848/vid/240x240/dJIXTEVNPZikWN5X.mp4?tag=8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14173315,
+				"id_str": "14173315",
+				"name": "NBC News",
+				"screen_name": "NBCNews",
+				"location": "New York, NY",
+				"description": "The leading source of global news and info for more than 75 years. \n\nhttps://t.co/Hd7rJQeDzP",
+				"url": "https://t.co/Z73is4fJ3x",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Z73is4fJ3x",
+								"expanded_url": "http://NBCNews.com",
+								"display_url": "NBCNews.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Hd7rJQeDzP",
+								"expanded_url": "https://www.instagram.com/nbcnews",
+								"display_url": "instagram.com/nbcnews",
+								"indices": [
+									69,
+									92
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 6262713,
+				"friends_count": 2769,
+				"listed_count": 40100,
+				"created_at": "Tue Mar 18 23:19:17 +0000 2008",
+				"favourites_count": 772,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 178647,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "062131",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/875411730679173121/l9PSFLJb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875411730679173121/l9PSFLJb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14173315/1541264120",
+				"profile_link_color": "5172A0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4966,
+			"favorite_count": 2604,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Spanje... Spanje... komt een recent gearriveerde goedheiligman niet uit die contreien? https://t.co/f1rW8NaE48"
+	},
+	{
 		"created_at": "Thu Nov 22 11:28:39 +0000 2018",
 		"id": 1065567733495017500,
 		"id_str": "1065567733495017472",
