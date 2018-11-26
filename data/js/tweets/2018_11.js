@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Mon Nov 26 15:51:49 +0000 2018",
+		"id": 1067083511369207800,
+		"id_str": "1067083511369207809",
+		"full_text": "@hesterzitvast Heb je de Google Doc (7 pagina's!) van onze dochter nog niet gezien...overal een URL bij. Eerlijk is eerlijk, onder andere het boek \"100 remarkable women who changed the world\" en een pyama van The Breakfast Club. Dat komt dus wel goed.",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			251
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hesterzitvast",
+					"name": "Hester Zitvast",
+					"id": 707672851,
+					"id_str": "707672851",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1067006251350065200,
+		"in_reply_to_status_id_str": "1067006251350065152",
+		"in_reply_to_user_id": 707672851,
+		"in_reply_to_user_id_str": "707672851",
+		"in_reply_to_screen_name": "hesterzitvast",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8916,
+			"friends_count": 197,
+			"listed_count": 595,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4866,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60599,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@hesterzitvast Heb je de Google Doc (7 pagina's!) van onze dochter nog niet gezien...overal een URL bij. Eerlijk is eerlijk, onder andere het boek \"100 remarkable women who changed the world\" en een pyama van The Breakfast Club. Dat komt dus wel goed."
+	},
+	{
 		"created_at": "Mon Nov 26 09:48:49 +0000 2018",
 		"id": 1066992161072312300,
 		"id_str": "1066992161072312320",
@@ -216,7 +322,7 @@ Grailbird.data.tweets_2018_11 =
 		"created_at": "Mon Nov 26 09:43:49 +0000 2018",
 		"id": 1066990902684655600,
 		"id_str": "1066990902684655616",
-		"full_text": "@reneevh Ik vermoed _iemanden_ (🙋‍♂️)",
+		"full_text": "@reneevh Ik vermoed _iemanden_ (🙋♂️)",
 		"truncated": false,
 		"display_text_range": [
 			9,
@@ -316,7 +422,7 @@ Grailbird.data.tweets_2018_11 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "nl",
-		"text": "@reneevh Ik vermoed _iemanden_ (🙋‍♂️)"
+		"text": "@reneevh Ik vermoed _iemanden_ (🙋♂️)"
 	},
 	{
 		"created_at": "Mon Nov 26 09:41:58 +0000 2018",
