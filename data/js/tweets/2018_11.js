@@ -1,6 +1,574 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Wed Nov 28 17:32:22 +0000 2018",
+		"id": 1067833592993198100,
+		"id_str": "1067833592993198081",
+		"full_text": "@ton_zylstra @OpenNederland @cc_nl Ook nog ergens federated? ;-)",
+		"truncated": false,
+		"display_text_range": [
+			35,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ton_zylstra",
+					"name": "Ton Zijlstra",
+					"id": 25049203,
+					"id_str": "25049203",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "OpenNederland",
+					"name": "Vereniging Open Nederland",
+					"id": 226550364,
+					"id_str": "226550364",
+					"indices": [
+						13,
+						27
+					]
+				},
+				{
+					"screen_name": "cc_nl",
+					"name": "Creative Commons NL",
+					"id": 141264530,
+					"id_str": "141264530",
+					"indices": [
+						28,
+						34
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": 1067817514007240700,
+		"in_reply_to_status_id_str": "1067817514007240704",
+		"in_reply_to_user_id": 25049203,
+		"in_reply_to_user_id_str": "25049203",
+		"in_reply_to_screen_name": "ton_zylstra",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8915,
+			"friends_count": 199,
+			"listed_count": 594,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4860,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60545,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@ton_zylstra @OpenNederland @cc_nl Ook nog ergens federated? ;-)"
+	},
+	{
+		"created_at": "Wed Nov 28 17:31:57 +0000 2018",
+		"id": 1067833488307626000,
+		"id_str": "1067833488307625985",
+		"full_text": "Goed nieuws: die flapdrol wordt aangeklaagd. https://t.co/P7z41RhxLd https://t.co/b5vuTPqHFl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/P7z41RhxLd",
+					"expanded_url": "https://www.independent.co.uk/news/uk/crime/syrian-refugee-attack-boy-charged-huddersfield-video-police-arrest-charged-a8655696.html",
+					"display_url": "independent.co.uk/news/uk/crime/…",
+					"indices": [
+						45,
+						68
+					]
+				},
+				{
+					"url": "https://t.co/b5vuTPqHFl",
+					"expanded_url": "https://twitter.com/Helie/status/1067825213096804352",
+					"display_url": "twitter.com/Helie/status/1…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8915,
+			"friends_count": 199,
+			"listed_count": 594,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4860,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60545,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1067825213096804400,
+		"quoted_status_id_str": "1067825213096804352",
+		"quoted_status_permalink": {
+			"url": "https://t.co/b5vuTPqHFl",
+			"expanded": "https://twitter.com/Helie/status/1067825213096804352",
+			"display": "twitter.com/Helie/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Nov 28 16:59:04 +0000 2018",
+			"id": 1067825213096804400,
+			"id_str": "1067825213096804352",
+			"full_text": "Hier word ik zo kwaad over. https://t.co/KE2WkLju1I",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				27
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/KE2WkLju1I",
+						"expanded_url": "https://twitter.com/mrjamesob/status/1067691515282104320",
+						"display_url": "twitter.com/mrjamesob/stat…",
+						"indices": [
+							28,
+							51
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1599741,
+				"id_str": "1599741",
+				"name": "Helena",
+				"screen_name": "Helie",
+				"location": "Utrecht, the Netherlands",
+				"description": "Liefdevol, analytisch, geen geduld met domme mensen inclusief mezelf. Liefdes van mijn leven: @frankmeeuwsen, @tessmoana and Finnéan",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 523,
+				"friends_count": 734,
+				"listed_count": 25,
+				"created_at": "Tue Mar 20 07:29:49 +0000 2007",
+				"favourites_count": 3627,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3709,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1012306827063844864/jmm5mew-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1012306827063844864/jmm5mew-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1599741/1530187781",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "CD00AF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "070132",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1067691515282104300,
+			"quoted_status_id_str": "1067691515282104320",
+			"quoted_status_permalink": {
+				"url": "https://t.co/KE2WkLju1I",
+				"expanded": "https://twitter.com/mrjamesob/status/1067691515282104320",
+				"display": "twitter.com/mrjamesob/stat…"
+			},
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Goed nieuws: die flapdrol wordt aangeklaagd. https://t.co/P7z41RhxLd https://t.co/b5vuTPqHFl"
+	},
+	{
+		"created_at": "Tue Nov 27 17:06:20 +0000 2018",
+		"id": 1067464655235412000,
+		"id_str": "1067464655235411968",
+		"full_text": "Three hours after Lindsey Graham tried to mansplain Holocaust Museums to @Ocasio2018, the Auschwitz Museum chimed in https://t.co/889QmxWSZp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Ocasio2018",
+					"name": "Alexandria Ocasio-Cortez",
+					"id": 138203134,
+					"id_str": "138203134",
+					"indices": [
+						73,
+						84
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1067461408554655700,
+					"id_str": "1067461408554655746",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/DtBiftRWoAIX35C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtBiftRWoAIX35C.jpg",
+					"url": "https://t.co/889QmxWSZp",
+					"display_url": "pic.twitter.com/889QmxWSZp",
+					"expanded_url": "https://twitter.com/robferdman/status/1067464655235411968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 692,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 588,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 692,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1067461408554655700,
+					"id_str": "1067461408554655746",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/DtBiftRWoAIX35C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtBiftRWoAIX35C.jpg",
+					"url": "https://t.co/889QmxWSZp",
+					"display_url": "pic.twitter.com/889QmxWSZp",
+					"expanded_url": "https://twitter.com/robferdman/status/1067464655235411968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 692,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 588,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 692,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1067461431715606500,
+					"id_str": "1067461431715606530",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/DtBihDjWsAIZ41J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtBihDjWsAIZ41J.jpg",
+					"url": "https://t.co/889QmxWSZp",
+					"display_url": "pic.twitter.com/889QmxWSZp",
+					"expanded_url": "https://twitter.com/robferdman/status/1067464655235411968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 487,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 526,
+							"h": 734,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 526,
+							"h": 734,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 316659505,
+			"id_str": "316659505",
+			"name": "Roberto Ferdman",
+			"screen_name": "robferdman",
+			"location": "Brooklyn, NY",
+			"description": "Correspondent, Vice on HBO I Email: roberto.ferdman@vice.com",
+			"url": "https://t.co/5QCgfLCCcD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5QCgfLCCcD",
+							"expanded_url": "https://www.hbo.com/vice/cast-and-crew/roberto-ferdman",
+							"display_url": "hbo.com/vice/cast-and-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16584,
+			"friends_count": 726,
+			"listed_count": 541,
+			"created_at": "Mon Jun 13 19:38:31 +0000 2011",
+			"favourites_count": 6157,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12927,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/924980226920247296/obqPI90m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/924980226920247296/obqPI90m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/316659505/1440109885",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16004,
+		"favorite_count": 63251,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Three hours after Lindsey Graham tried to mansplain Holocaust Museums to @Ocasio2018, the Auschwitz Museum chimed in https://t.co/889QmxWSZp"
+	},
+	{
 		"created_at": "Tue Nov 27 17:06:20 +0000 2018",
 		"id": 1067464655235412000,
 		"id_str": "1067464655235411968",
