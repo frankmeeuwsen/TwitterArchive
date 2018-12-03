@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Mon Dec 03 22:24:36 +0000 2018",
+		"id": 1069719076342259700,
+		"id_str": "1069719076342259712",
+		"full_text": "Even wat etnografische duiding naar demensetoe qua hardcore moshpit pogo jargon (in \"a dilapidated rehearsal room\"). Sick of it all - Step Down. https://t.co/JHAmHYiJko https://t.co/N1fMGE5wkt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JHAmHYiJko",
+					"expanded_url": "https://www.youtube.com/watch?v=9fvu951up_0",
+					"display_url": "youtube.com/watch?v=9fvu95…",
+					"indices": [
+						145,
+						168
+					]
+				},
+				{
+					"url": "https://t.co/N1fMGE5wkt",
+					"expanded_url": "https://twitter.com/peterkwint/status/1069705103022669825",
+					"display_url": "twitter.com/peterkwint/sta…",
+					"indices": [
+						169,
+						192
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8914,
+			"friends_count": 201,
+			"listed_count": 594,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4871,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60524,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1069705103022669800,
+		"quoted_status_id_str": "1069705103022669825",
+		"quoted_status_permalink": {
+			"url": "https://t.co/N1fMGE5wkt",
+			"expanded": "https://twitter.com/peterkwint/status/1069705103022669825",
+			"display": "twitter.com/peterkwint/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 03 21:29:05 +0000 2018",
+			"id": 1069705103022669800,
+			"id_str": "1069705103022669825",
+			"full_text": "Ik heb vier schouderontwrichtingen, een gebroken neus, een paar botbreuken en heel veel bebloede shirts aan de moshpit te danken. En alsnog zie ik echt praktisch niks dat me iets aan herkenning geeft in dit artikel. https://t.co/ueK8e5cCSv",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				239
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ueK8e5cCSv",
+						"expanded_url": "https://www.volkskrant.nl/cultuur-media/beuken-bij-iggy-pop-en-ronnie-flex-in-de-moshpit-voel-je-dat-je-leeft-~bb734e87/",
+						"display_url": "volkskrant.nl/cultuur-media/…",
+						"indices": [
+							216,
+							239
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 239853793,
+				"id_str": "239853793",
+				"name": "Peter Kwint",
+				"screen_name": "peterkwint",
+				"location": "Amsterdam Noord",
+				"description": "Kamerlid SP. Bestuurslid Vechtsportautoriteit Support: High fives, stagedives, switch kicks, cold drinks, MMA, koers en Feyenoord. #herrietweet",
+				"url": "https://t.co/mDaxXI55Ub",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/mDaxXI55Ub",
+								"expanded_url": "https://www.facebook.com/kwintsp",
+								"display_url": "facebook.com/kwintsp",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14520,
+				"friends_count": 853,
+				"listed_count": 331,
+				"created_at": "Tue Jan 18 15:47:03 +0000 2011",
+				"favourites_count": 3187,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 163387,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/974302056939999233/8ndwH7Bf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/974302056939999233/8ndwH7Bf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/239853793/1513697794",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Even wat etnografische duiding naar demensetoe qua hardcore moshpit pogo jargon (in \"a dilapidated rehearsal room\"). Sick of it all - Step Down. https://t.co/JHAmHYiJko https://t.co/N1fMGE5wkt"
+	},
+	{
 		"created_at": "Mon Dec 03 19:08:55 +0000 2018",
 		"id": 1069669828628222000,
 		"id_str": "1069669828628221953",
