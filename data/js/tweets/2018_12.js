@@ -184,6 +184,646 @@ Grailbird.data.tweets_2018_12 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
+		"retweet_count": 320,
+		"favorite_count": 764,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It's THAT time of the year again https://t.co/Bm1XxITa1X"
+	},
+	{
+		"created_at": "Mon Dec 03 08:30:58 +0000 2018",
+		"id": 1069509282905886700,
+		"id_str": "1069509282905886721",
+		"full_text": "@marcelbulk Ken ik niet, dank je!",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "marcelbulk",
+					"name": "Marcel Bulk",
+					"id": 1773071,
+					"id_str": "1773071",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1069506731502436400,
+		"in_reply_to_status_id_str": "1069506731502436353",
+		"in_reply_to_user_id": 1773071,
+		"in_reply_to_user_id_str": "1773071",
+		"in_reply_to_screen_name": "marcelbulk",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8914,
+			"friends_count": 201,
+			"listed_count": 594,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4869,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60520,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@marcelbulk Ken ik niet, dank je!"
+	},
+	{
+		"created_at": "Mon Dec 03 08:10:57 +0000 2018",
+		"id": 1069504246108880900,
+		"id_str": "1069504246108880896",
+		"full_text": "@pvdp @tweeklyfm +1 voor de Sint liedjes 😂",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pvdp",
+					"name": "Peter van der Ploeg",
+					"id": 10153142,
+					"id_str": "10153142",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"screen_name": "tweeklyfm",
+					"name": "Tweekly.fm",
+					"id": 20769495,
+					"id_str": "20769495",
+					"indices": [
+						6,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1069503292106047500,
+		"in_reply_to_status_id_str": "1069503292106047489",
+		"in_reply_to_user_id": 10153142,
+		"in_reply_to_user_id_str": "10153142",
+		"in_reply_to_screen_name": "pvdp",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8914,
+			"friends_count": 201,
+			"listed_count": 594,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4869,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60520,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@pvdp @tweeklyfm +1 voor de Sint liedjes 😂"
+	},
+	{
+		"created_at": "Mon Dec 03 08:09:43 +0000 2018",
+		"id": 1069503935038320600,
+		"id_str": "1069503935038320640",
+		"full_text": "Luisterend naar deze episode vraag ik me twee dingen af:\n1. Wat is publiek van mij beschikbaar (een shitload, maar wát dan?)\n2. Hoe zorg ik dat mijn dochter van 12 dit niet overkomt? \n\nDit gaat wel wat verder dan de tips in #laatjeniethackmaken https://t.co/Dquz0gn1hf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			244
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "laatjeniethackmaken",
+					"indices": [
+						224,
+						244
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Dquz0gn1hf",
+					"expanded_url": "https://twitter.com/replyall/status/1060518182824370177",
+					"display_url": "twitter.com/replyall/statu…",
+					"indices": [
+						245,
+						268
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8914,
+			"friends_count": 201,
+			"listed_count": 594,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4869,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60520,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1060518182824370200,
+		"quoted_status_id_str": "1060518182824370177",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Dquz0gn1hf",
+			"expanded": "https://twitter.com/replyall/status/1060518182824370177",
+			"display": "twitter.com/replyall/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Nov 08 13:03:32 +0000 2018",
+			"id": 1060518182824370200,
+			"id_str": "1060518182824370177",
+			"full_text": "This week on Reply All: after Lizzie's Snapchat gets hacked, things start getting really creepy. https://t.co/SgQ4yZxMFj",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				120
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/SgQ4yZxMFj",
+						"expanded_url": "https://www.gimletmedia.com/reply-all/130-lizard#episode-player",
+						"display_url": "gimletmedia.com/reply-all/130-…",
+						"indices": [
+							97,
+							120
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2871094552,
+				"id_str": "2871094552",
+				"name": "Reply All",
+				"screen_name": "replyall",
+				"location": "gimlet",
+				"description": "A podcast about the internet. Made by @pjvogt, @agoldmund, @newtimhoward, @sruthiri, @phiabennin, Damiano Marchetti, @exfoleyator and Jessica Yung.",
+				"url": "https://t.co/kTvNqZSKUb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kTvNqZSKUb",
+								"expanded_url": "http://replyall.limo",
+								"display_url": "replyall.limo",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 92791,
+				"friends_count": 460,
+				"listed_count": 1067,
+				"created_at": "Mon Nov 10 19:46:34 +0000 2014",
+				"favourites_count": 6098,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 3427,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/931229936743936000/8TH6WhLp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/931229936743936000/8TH6WhLp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2871094552/1482033982",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 95,
+			"favorite_count": 527,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Luisterend naar deze episode vraag ik me twee dingen af:\n1. Wat is publiek van mij beschikbaar (een shitload, maar wát dan?)\n2. Hoe zorg ik dat mijn dochter van 12 dit niet overkomt? \n\nDit gaat wel wat verder dan de tips in #laatjeniethackmaken https://t.co/Dquz0gn1hf"
+	},
+	{
+		"created_at": "Sat Dec 01 14:51:22 +0000 2018",
+		"id": 1068880237457485800,
+		"id_str": "1068880237457485824",
+		"full_text": "It's THAT time of the year again https://t.co/Bm1XxITa1X",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1068879675777343500,
+					"id_str": "1068879675777343489",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1068879675777343489/pu/img/YNJQ-fhO0O7P7slz.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1068879675777343489/pu/img/YNJQ-fhO0O7P7slz.jpg",
+					"url": "https://t.co/Bm1XxITa1X",
+					"display_url": "pic.twitter.com/Bm1XxITa1X",
+					"expanded_url": "https://twitter.com/AdvancedLoser/status/1068880237457485824/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1068879675777343500,
+					"id_str": "1068879675777343489",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1068879675777343489/pu/img/YNJQ-fhO0O7P7slz.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1068879675777343489/pu/img/YNJQ-fhO0O7P7slz.jpg",
+					"url": "https://t.co/Bm1XxITa1X",
+					"display_url": "pic.twitter.com/Bm1XxITa1X",
+					"expanded_url": "https://twitter.com/AdvancedLoser/status/1068880237457485824/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 69670,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1068879675777343489/pu/pl/H4E43rp6xT8S9Ud-.m3u8?tag=5"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1068879675777343489/pu/vid/640x360/w3DO_HNYXDv2bq64.mp4?tag=5"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1068879675777343489/pu/vid/1280x720/Y3hBiMH3RwBBn4ii.mp4?tag=5"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1068879675777343489/pu/vid/320x180/3VOBe9ZioyYvkFWk.mp4?tag=5"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1324339147,
+			"id_str": "1324339147",
+			"name": "Dan",
+			"screen_name": "AdvancedLoser",
+			"location": "Lincolnshire, UK",
+			"description": "Mostly grumpy ★ Do some bits on YouTube ★ ex DramaAlert",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7375,
+			"friends_count": 526,
+			"listed_count": 12,
+			"created_at": "Wed Apr 03 10:48:20 +0000 2013",
+			"favourites_count": 4444,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 40094,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/793469654022889475/nKvUpKBm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/793469654022889475/nKvUpKBm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1324339147/1514816593",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
 		"retweet_count": 319,
 		"favorite_count": 760,
 		"favorited": false,
