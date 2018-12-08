@@ -131,6 +131,989 @@ Grailbird.data.tweets_2018_12 =
 			"friends_count": 2874,
 			"listed_count": 62,
 			"created_at": "Wed Mar 18 12:40:48 +0000 2009",
+			"favourites_count": 74439,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61160,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1055809966571954178/osxfwtlp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1055809966571954178/osxfwtlp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/25065173/1535743293",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 49,
+		"favorite_count": 296,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "2018 in 1 foto https://t.co/wyOTqgwvHn"
+	},
+	{
+		"created_at": "Fri Dec 07 08:24:48 +0000 2018",
+		"id": 1070957284879163400,
+		"id_str": "1070957284879163392",
+		"full_text": "@MichaelMinneboo @peterdekock @emijnsbergen Ja, ik ben via via al in contact met ze. Ik ben benieuwd wat ze gaan doen!",
+		"truncated": false,
+		"display_text_range": [
+			44,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MichaelMinneboo",
+					"name": "Michael Minneboo",
+					"id": 16735358,
+					"id_str": "16735358",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "peterdekock",
+					"name": "Peter de Kock",
+					"id": 19243661,
+					"id_str": "19243661",
+					"indices": [
+						17,
+						29
+					]
+				},
+				{
+					"screen_name": "emijnsbergen",
+					"name": "Edwin Mijnsbergen",
+					"id": 3494941,
+					"id_str": "3494941",
+					"indices": [
+						30,
+						43
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1070949037166264300,
+		"in_reply_to_status_id_str": "1070949037166264320",
+		"in_reply_to_user_id": 16735358,
+		"in_reply_to_user_id_str": "16735358",
+		"in_reply_to_screen_name": "MichaelMinneboo",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8911,
+			"friends_count": 203,
+			"listed_count": 595,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4869,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60465,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@MichaelMinneboo @peterdekock @emijnsbergen Ja, ik ben via via al in contact met ze. Ik ben benieuwd wat ze gaan doen!"
+	},
+	{
+		"created_at": "Thu Dec 06 19:15:33 +0000 2018",
+		"id": 1070758660656324600,
+		"id_str": "1070758660656324613",
+		"full_text": "Last Exit, Spin and BUGS!!!! https://t.co/v0SSVRKUWo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/v0SSVRKUWo",
+					"expanded_url": "https://twitter.com/PearlJam/status/1070751901015334912",
+					"display_url": "twitter.com/PearlJam/statu…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8911,
+			"friends_count": 203,
+			"listed_count": 595,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4869,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60465,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1070751901015334900,
+		"quoted_status_id_str": "1070751901015334912",
+		"quoted_status_permalink": {
+			"url": "https://t.co/v0SSVRKUWo",
+			"expanded": "https://twitter.com/PearlJam/status/1070751901015334912",
+			"display": "twitter.com/PearlJam/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Dec 06 18:48:41 +0000 2018",
+			"id": 1070751901015334900,
+			"id_str": "1070751901015334912",
+			"full_text": "Vitalogy was released on this date in 1994. What are your top 3 tracks from the album? #PearlJam #Vitalogy https://t.co/07MP9tw13j",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				106
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "PearlJam",
+						"indices": [
+							87,
+							96
+						]
+					},
+					{
+						"text": "Vitalogy",
+						"indices": [
+							97,
+							106
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1070749621331378200,
+						"id_str": "1070749621331378176",
+						"indices": [
+							107,
+							130
+						],
+						"media_url": "http://pbs.twimg.com/media/DtwRG4bXQAAMS9X.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DtwRG4bXQAAMS9X.jpg",
+						"url": "https://t.co/07MP9tw13j",
+						"display_url": "pic.twitter.com/07MP9tw13j",
+						"expanded_url": "https://twitter.com/PearlJam/status/1070751901015334912/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 833,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1267,
+								"h": 879,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 472,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1070749621331378200,
+						"id_str": "1070749621331378176",
+						"indices": [
+							107,
+							130
+						],
+						"media_url": "http://pbs.twimg.com/media/DtwRG4bXQAAMS9X.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DtwRG4bXQAAMS9X.jpg",
+						"url": "https://t.co/07MP9tw13j",
+						"display_url": "pic.twitter.com/07MP9tw13j",
+						"expanded_url": "https://twitter.com/PearlJam/status/1070751901015334912/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 833,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1267,
+								"h": 879,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 472,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1070749656030896100,
+						"id_str": "1070749656030896128",
+						"indices": [
+							107,
+							130
+						],
+						"media_url": "http://pbs.twimg.com/media/DtwRI5sX4AARBvA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DtwRI5sX4AARBvA.jpg",
+						"url": "https://t.co/07MP9tw13j",
+						"display_url": "pic.twitter.com/07MP9tw13j",
+						"expanded_url": "https://twitter.com/PearlJam/status/1070751901015334912/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 442,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1950,
+								"h": 1267,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 780,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15155074,
+				"id_str": "15155074",
+				"name": "Pearl Jam",
+				"screen_name": "PearlJam",
+				"location": "Seattle, WA",
+				"description": "Check out the latest news, music, and merch at the official PJ site and become a member of Pearl Jam's official Fan Club! https://t.co/m7RuxVW4F1",
+				"url": "https://t.co/J95aoJ5FKF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/J95aoJ5FKF",
+								"expanded_url": "http://www.PearlJam.com",
+								"display_url": "PearlJam.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/m7RuxVW4F1",
+								"expanded_url": "https://pj.lnk.to/10clubTw",
+								"display_url": "pj.lnk.to/10clubTw",
+								"indices": [
+									122,
+									145
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3592056,
+				"friends_count": 890,
+				"listed_count": 18256,
+				"created_at": "Wed Jun 18 06:59:14 +0000 2008",
+				"favourites_count": 3667,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 7246,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1050824444321693696/_aF043gq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1050824444321693696/_aF043gq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15155074/1541624719",
+				"profile_link_color": "A17F59",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 714,
+			"favorite_count": 4242,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Last Exit, Spin and BUGS!!!! https://t.co/v0SSVRKUWo"
+	},
+	{
+		"created_at": "Thu Dec 06 10:28:29 +0000 2018",
+		"id": 1070626021081342000,
+		"id_str": "1070626021081341952",
+		"full_text": "1 kaartje voor Come As You Are 2018 | Effenaar op 8 december 2018 te koop #ticketswap https://t.co/TLDHULcTkf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ticketswap",
+					"indices": [
+						74,
+						85
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TLDHULcTkf",
+					"expanded_url": "https://www.ticketswap.nl/listing/come-as-you-are-2018-effenaar/2846076/9650c17f60?utm_source=ticketswap&utm_medium=twitter&utm_campaign=listingOnTimeline",
+					"display_url": "ticketswap.nl/listing/come-a…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.ticketswap.com\" rel=\"nofollow\">TicketSwap</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8911,
+			"friends_count": 203,
+			"listed_count": 595,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4869,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60465,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "1 kaartje voor Come As You Are 2018 | Effenaar op 8 december 2018 te koop #ticketswap https://t.co/TLDHULcTkf"
+	},
+	{
+		"created_at": "Thu Dec 06 10:25:48 +0000 2018",
+		"id": 1070625344342949900,
+		"id_str": "1070625344342949888",
+		"full_text": "Ik heb 1 kaartje over voor het Come As You Are festival komende zaterdag. De fijnste 90s gitaarrock op 1 dag in Eindhoven-de-gekste! Wie maakt me los? https://t.co/uwjjHmCA1J",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uwjjHmCA1J",
+					"expanded_url": "https://www.ticketswap.nl/listing/come-as-you-are-2018-effenaar/2846076/9650c17f60?utm_campaign=publishedListingShare&utm_source=ticketswap&utm_medium=manualshareA",
+					"display_url": "ticketswap.nl/listing/come-a…",
+					"indices": [
+						151,
+						174
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8911,
+			"friends_count": 203,
+			"listed_count": 595,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4869,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60465,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Ik heb 1 kaartje over voor het Come As You Are festival komende zaterdag. De fijnste 90s gitaarrock op 1 dag in Eindhoven-de-gekste! Wie maakt me los? https://t.co/uwjjHmCA1J"
+	},
+	{
+		"created_at": "Wed Dec 05 20:50:29 +0000 2018",
+		"id": 1070420165278482400,
+		"id_str": "1070420165278482434",
+		"full_text": "@elger @danielverlaan Nice. Ik zie hem graag eens in werking. Ik zoek ook nog steeds een goede rugzak....",
+		"truncated": false,
+		"display_text_range": [
+			22,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "elger",
+					"name": "Elger van der Wel",
+					"id": 14142375,
+					"id_str": "14142375",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"screen_name": "danielverlaan",
+					"name": "Daniël Verlaan",
+					"id": 14224500,
+					"id_str": "14224500",
+					"indices": [
+						7,
+						21
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1070416701601275900,
+		"in_reply_to_status_id_str": "1070416701601275905",
+		"in_reply_to_user_id": 14142375,
+		"in_reply_to_user_id_str": "14142375",
+		"in_reply_to_screen_name": "elger",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8911,
+			"friends_count": 203,
+			"listed_count": 595,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4869,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60465,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@elger @danielverlaan Nice. Ik zie hem graag eens in werking. Ik zoek ook nog steeds een goede rugzak...."
+	},
+	{
+		"created_at": "Tue Dec 04 12:16:51 +0000 2018",
+		"id": 1069928519084503000,
+		"id_str": "1069928519084503042",
+		"full_text": "2018 in 1 foto https://t.co/wyOTqgwvHn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1069928507994722300,
+					"id_str": "1069928507994722304",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/DtkmTy4W0AAeTsr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtkmTy4W0AAeTsr.jpg",
+					"url": "https://t.co/wyOTqgwvHn",
+					"display_url": "pic.twitter.com/wyOTqgwvHn",
+					"expanded_url": "https://twitter.com/arcinho/status/1069928519084503042/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1069928507994722300,
+					"id_str": "1069928507994722304",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/DtkmTy4W0AAeTsr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtkmTy4W0AAeTsr.jpg",
+					"url": "https://t.co/wyOTqgwvHn",
+					"display_url": "pic.twitter.com/wyOTqgwvHn",
+					"expanded_url": "https://twitter.com/arcinho/status/1069928519084503042/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 25065173,
+			"id_str": "25065173",
+			"name": "Arco",
+			"screen_name": "arcinho",
+			"location": "Amsterdam",
+			"description": "jankbejaarde",
+			"url": "https://t.co/VajSsQh8Xt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VajSsQh8Xt",
+							"expanded_url": "https://Instagram.com/arcinho/",
+							"display_url": "Instagram.com/arcinho/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7221,
+			"friends_count": 2874,
+			"listed_count": 62,
+			"created_at": "Wed Mar 18 12:40:48 +0000 2009",
 			"favourites_count": 74438,
 			"utc_offset": null,
 			"time_zone": null,
