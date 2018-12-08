@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Tue Dec 04 12:16:51 +0000 2018",
+		"id": 1069928519084503000,
+		"id_str": "1069928519084503042",
+		"full_text": "2018 in 1 foto https://t.co/wyOTqgwvHn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1069928507994722300,
+					"id_str": "1069928507994722304",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/DtkmTy4W0AAeTsr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtkmTy4W0AAeTsr.jpg",
+					"url": "https://t.co/wyOTqgwvHn",
+					"display_url": "pic.twitter.com/wyOTqgwvHn",
+					"expanded_url": "https://twitter.com/arcinho/status/1069928519084503042/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1069928507994722300,
+					"id_str": "1069928507994722304",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/DtkmTy4W0AAeTsr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtkmTy4W0AAeTsr.jpg",
+					"url": "https://t.co/wyOTqgwvHn",
+					"display_url": "pic.twitter.com/wyOTqgwvHn",
+					"expanded_url": "https://twitter.com/arcinho/status/1069928519084503042/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 25065173,
+			"id_str": "25065173",
+			"name": "Arco",
+			"screen_name": "arcinho",
+			"location": "Amsterdam",
+			"description": "jankbejaarde",
+			"url": "https://t.co/VajSsQh8Xt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VajSsQh8Xt",
+							"expanded_url": "https://Instagram.com/arcinho/",
+							"display_url": "Instagram.com/arcinho/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7221,
+			"friends_count": 2874,
+			"listed_count": 62,
+			"created_at": "Wed Mar 18 12:40:48 +0000 2009",
+			"favourites_count": 74438,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61159,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1055809966571954178/osxfwtlp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1055809966571954178/osxfwtlp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/25065173/1535743293",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 47,
+		"favorite_count": 294,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "2018 in 1 foto https://t.co/wyOTqgwvHn"
+	},
+	{
 		"created_at": "Fri Dec 07 08:24:48 +0000 2018",
 		"id": 1070957284879163400,
 		"id_str": "1070957284879163392",
