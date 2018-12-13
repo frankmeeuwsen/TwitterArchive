@@ -1,6 +1,277 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Tue Dec 11 20:00:08 +0000 2018",
+		"id": 1072581820758278100,
+		"id_str": "1072581820758278145",
+		"full_text": ".@vgcerf: ‘I didn’t invent the web’\n\n@timberners_lee: ‘I didn’t invent the internet’\n\n(Photo via @AndiMann) #OurDigitalFuture https://t.co/rsHZyUXzGa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OurDigitalFuture",
+					"indices": [
+						108,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "vgcerf",
+					"name": "vinton g cerf",
+					"id": 598232506,
+					"id_str": "598232506",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"screen_name": "timberners_lee",
+					"name": "Tim Berners-Lee",
+					"id": 84351228,
+					"id_str": "84351228",
+					"indices": [
+						37,
+						52
+					]
+				},
+				{
+					"screen_name": "AndiMann",
+					"name": "Andi Mann",
+					"id": 15851563,
+					"id_str": "15851563",
+					"indices": [
+						97,
+						106
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1072218829827100700,
+					"id_str": "1072218829827100673",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/DuFJWElUUAEHYFJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuFJWElUUAEHYFJ.jpg",
+					"url": "https://t.co/rsHZyUXzGa",
+					"display_url": "pic.twitter.com/rsHZyUXzGa",
+					"expanded_url": "https://twitter.com/ValaAfshar/status/1072218836034670593/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 529,
+							"h": 464,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 529,
+							"h": 464,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 529,
+							"h": 464,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1072218836034670600,
+					"source_status_id_str": "1072218836034670593",
+					"source_user_id": 259725229,
+					"source_user_id_str": "259725229"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1072218829827100700,
+					"id_str": "1072218829827100673",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/DuFJWElUUAEHYFJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuFJWElUUAEHYFJ.jpg",
+					"url": "https://t.co/rsHZyUXzGa",
+					"display_url": "pic.twitter.com/rsHZyUXzGa",
+					"expanded_url": "https://twitter.com/ValaAfshar/status/1072218836034670593/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 529,
+							"h": 464,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 529,
+							"h": 464,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 529,
+							"h": 464,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1072218836034670600,
+					"source_status_id_str": "1072218836034670593",
+					"source_user_id": 259725229,
+					"source_user_id_str": "259725229"
+				},
+				{
+					"id": 1072218829831295000,
+					"id_str": "1072218829831294976",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/DuFJWEmUUAAOz-o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuFJWEmUUAAOz-o.jpg",
+					"url": "https://t.co/rsHZyUXzGa",
+					"display_url": "pic.twitter.com/rsHZyUXzGa",
+					"expanded_url": "https://twitter.com/ValaAfshar/status/1072218836034670593/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 506,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 751,
+							"h": 559,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 751,
+							"h": 559,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1072218836034670600,
+					"source_status_id_str": "1072218836034670593",
+					"source_user_id": 259725229,
+					"source_user_id_str": "259725229"
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 256900512,
+			"id_str": "256900512",
+			"name": "Farbod Saraf",
+			"screen_name": "farbodsaraf",
+			"location": "San Francisco - Amsterdam",
+			"description": "Co-founder @geteverboard YCombinator SUS17 | @CanvasKeyboard Apple's 20 Under 20 | Product at @Mobiquityinc | https://t.co/2AF3iF6zbZ",
+			"url": "https://t.co/QD0je1DND0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QD0je1DND0",
+							"expanded_url": "http://www.farbodsaraf.com",
+							"display_url": "farbodsaraf.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/2AF3iF6zbZ",
+							"expanded_url": "http://linkedin.com/in/farbodsaraf",
+							"display_url": "linkedin.com/in/farbodsaraf",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 28662,
+			"friends_count": 18898,
+			"listed_count": 1322,
+			"created_at": "Thu Feb 24 09:04:34 +0000 2011",
+			"favourites_count": 128537,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 40632,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/854703172841025537/0HaCebN__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/854703172841025537/0HaCebN__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/256900512/1501193552",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 592,
+		"favorite_count": 1250,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@vgcerf: ‘I didn’t invent the web’\n\n@timberners_lee: ‘I didn’t invent the internet’\n\n(Photo via @AndiMann) #OurDigitalFuture https://t.co/rsHZyUXzGa"
+	},
+	{
 		"created_at": "Thu Dec 13 09:20:46 +0000 2018",
 		"id": 1073145696746987500,
 		"id_str": "1073145696746987520",
