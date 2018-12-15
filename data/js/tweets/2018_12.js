@@ -1,6 +1,730 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Sat Dec 15 06:19:03 +0000 2018",
+		"id": 1073824741541195800,
+		"id_str": "1073824741541195776",
+		"full_text": "Is wel zo. \n\n(Linksonder voor mij) https://t.co/8VNYEg5Ku4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8VNYEg5Ku4",
+					"expanded_url": "https://twitter.com/donfrijole/status/1067516613115736065",
+					"display_url": "twitter.com/donfrijole/sta…",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8909,
+			"friends_count": 204,
+			"listed_count": 595,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4879,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60423,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1067516613115736000,
+		"quoted_status_id_str": "1067516613115736065",
+		"quoted_status_permalink": {
+			"url": "https://t.co/8VNYEg5Ku4",
+			"expanded": "https://twitter.com/donfrijole/status/1067516613115736065",
+			"display": "twitter.com/donfrijole/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Nov 27 20:32:48 +0000 2018",
+			"id": 1067516613115736000,
+			"id_str": "1067516613115736065",
+			"full_text": "One of the weirder things about being an adult is having a favorite stovetop burner, yet nobody talks about it. https://t.co/M6QWXJ9coy",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				111
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1067516608845766700,
+						"id_str": "1067516608845766656",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/media/DtCUsyYU4AAIoRL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DtCUsyYU4AAIoRL.jpg",
+						"url": "https://t.co/M6QWXJ9coy",
+						"display_url": "pic.twitter.com/M6QWXJ9coy",
+						"expanded_url": "https://twitter.com/donfrijole/status/1067516613115736065/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 800,
+								"h": 533,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 533,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1067516608845766700,
+						"id_str": "1067516608845766656",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/media/DtCUsyYU4AAIoRL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DtCUsyYU4AAIoRL.jpg",
+						"url": "https://t.co/M6QWXJ9coy",
+						"display_url": "pic.twitter.com/M6QWXJ9coy",
+						"expanded_url": "https://twitter.com/donfrijole/status/1067516613115736065/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 800,
+								"h": 533,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 533,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 797323892650102800,
+				"id_str": "797323892650102784",
+				"name": "Andrew Armstrong",
+				"screen_name": "donfrijole",
+				"location": "Austin, TX",
+				"description": "Guess I'm just a boss @ss b!tch.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 78,
+				"friends_count": 35,
+				"listed_count": 0,
+				"created_at": "Sat Nov 12 06:23:24 +0000 2016",
+				"favourites_count": 190,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 109,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/797329461117063168/HlLIMONm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/797329461117063168/HlLIMONm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/797323892650102784/1478933193",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1784,
+			"favorite_count": 5355,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Is wel zo. \n\n(Linksonder voor mij) https://t.co/8VNYEg5Ku4"
+	},
+	{
+		"created_at": "Fri Dec 14 18:27:00 +0000 2018",
+		"id": 1073645546806624300,
+		"id_str": "1073645546806624256",
+		"full_text": "Get in the holiday spirit. \"Let Me Sleep (It's Christmas Time)\" live from Verona, Italy (9/16/2006). #12DaysOfPJ #PearlJam https://t.co/slzssJq17e",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "12DaysOfPJ",
+					"indices": [
+						101,
+						112
+					]
+				},
+				{
+					"text": "PearlJam",
+					"indices": [
+						113,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1073259841722949600,
+					"id_str": "1073259841722949633",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/DuT9Y-EWkAEFOgn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuT9Y-EWkAEFOgn.jpg",
+					"url": "https://t.co/slzssJq17e",
+					"display_url": "pic.twitter.com/slzssJq17e",
+					"expanded_url": "https://twitter.com/PearlJam/status/1073645546806624256/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 404,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 404,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1073259841722949600,
+					"id_str": "1073259841722949633",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/DuT9Y-EWkAEFOgn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuT9Y-EWkAEFOgn.jpg",
+					"url": "https://t.co/slzssJq17e",
+					"display_url": "pic.twitter.com/slzssJq17e",
+					"expanded_url": "https://twitter.com/PearlJam/status/1073645546806624256/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 404,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 404,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							180,
+							101
+						],
+						"duration_millis": 54488,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1073259841722949633/pl/PNfc02SP6dJBBDw1.m3u8?tag=9"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1073259841722949633/vid/320x180/ZG2cG1-PQYOMWy9M.mp4?tag=9"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1073259841722949633/vid/720x404/tbJz_ZGvdQkc00ZX.mp4?tag=9"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "Let Me Sleep (It's Christmas Time) - Pearl Jam",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://pj.lnk.to/12DaysTw"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15155074,
+			"id_str": "15155074",
+			"name": "Pearl Jam",
+			"screen_name": "PearlJam",
+			"location": "Seattle, WA",
+			"description": "Check out the latest news, music, and merch at the official PJ site and become a member of Pearl Jam's official Fan Club! https://t.co/m7RuxVW4F1",
+			"url": "https://t.co/J95aoJ5FKF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/J95aoJ5FKF",
+							"expanded_url": "http://www.PearlJam.com",
+							"display_url": "PearlJam.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/m7RuxVW4F1",
+							"expanded_url": "https://pj.lnk.to/10clubTw",
+							"display_url": "pj.lnk.to/10clubTw",
+							"indices": [
+								122,
+								145
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3591440,
+			"friends_count": 890,
+			"listed_count": 18254,
+			"created_at": "Wed Jun 18 06:59:14 +0000 2008",
+			"favourites_count": 3703,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7259,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072890391060455425/NTlzSgUA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072890391060455425/NTlzSgUA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15155074/1544631953",
+			"profile_link_color": "A17F59",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 363,
+		"favorite_count": 1511,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Get in the holiday spirit. \"Let Me Sleep (It's Christmas Time)\" live from Verona, Italy (9/16/2006). #12DaysOfPJ #PearlJam https://t.co/slzssJq17e"
+	},
+	{
+		"created_at": "Fri Dec 14 18:37:42 +0000 2018",
+		"id": 1073648239889539100,
+		"id_str": "1073648239889539072",
+		"full_text": "As I read somewhere... We're living in the Biff Tannen future... https://t.co/eJawfvqgsv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eJawfvqgsv",
+					"expanded_url": "https://twitter.com/kottke/status/1073646558103638016",
+					"display_url": "twitter.com/kottke/status/…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8909,
+			"friends_count": 204,
+			"listed_count": 595,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4879,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60423,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1073646558103638000,
+		"quoted_status_id_str": "1073646558103638016",
+		"quoted_status_permalink": {
+			"url": "https://t.co/eJawfvqgsv",
+			"expanded": "https://twitter.com/kottke/status/1073646558103638016",
+			"display": "twitter.com/kottke/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Dec 14 18:31:01 +0000 2018",
+			"id": 1073646558103638000,
+			"id_str": "1073646558103638016",
+			"full_text": "It’s ridiculous to see Gritty, the googly-eyed Philadelphia Flyers mascot, as a messianic figure of the revolutionary left. But is that any more ridiculous than everything else that is happening in our fucked-up present? No. It is not. https://t.co/P29t8lIksj",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				259
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/P29t8lIksj",
+						"expanded_url": "https://kottke.org/18/12/gritty-the-philly-sports-messiah",
+						"display_url": "kottke.org/18/12/gritty-t…",
+						"indices": [
+							236,
+							259
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://kottke.org\" rel=\"nofollow\">kottke tweeter</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14120215,
+				"id_str": "14120215",
+				"name": "kottke.org",
+				"screen_name": "kottke",
+				"location": "New York, NY",
+				"description": "Something interesting every day from one of the oldest & best independent sites on the Web. Est. 1998.",
+				"url": "http://t.co/M4uA95p20W",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/M4uA95p20W",
+								"expanded_url": "http://www.kottke.org",
+								"display_url": "kottke.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 48747,
+				"friends_count": 124,
+				"listed_count": 2559,
+				"created_at": "Tue Mar 11 04:09:10 +0000 2008",
+				"favourites_count": 711,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 16713,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/775300604646359040/6mkGOPp0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/775300604646359040/6mkGOPp0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14120215/1527515276",
+				"profile_link_color": "CC5C19",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 53,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "As I read somewhere... We're living in the Biff Tannen future... https://t.co/eJawfvqgsv"
+	},
+	{
 		"created_at": "Fri Dec 14 18:27:00 +0000 2018",
 		"id": 1073645546806624300,
 		"id_str": "1073645546806624256",
