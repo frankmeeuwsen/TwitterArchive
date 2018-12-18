@@ -1,6 +1,1040 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Tue Dec 18 13:53:39 +0000 2018",
+		"id": 1075026309376553000,
+		"id_str": "1075026309376552961",
+		"full_text": "@Dutchcowboy @HumphryJoey @arjanknaap @guidoz @bramkoster @Ooitbedacht @tide True. Ik geloof wel in de mogelijkheden met voice. Niet als volledige overname van andere media, maar in veel gebieden heel interessant wat er kan gaan gebeuren.",
+		"truncated": false,
+		"display_text_range": [
+			77,
+			238
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Dutchcowboy",
+					"name": "M. Lens-FitzGerald",
+					"id": 794801,
+					"id_str": "794801",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "HumphryJoey",
+					"name": "Humphry",
+					"id": 54028848,
+					"id_str": "54028848",
+					"indices": [
+						13,
+						25
+					]
+				},
+				{
+					"screen_name": "arjanknaap",
+					"name": "Arjan van der Knaap",
+					"id": 19703385,
+					"id_str": "19703385",
+					"indices": [
+						26,
+						37
+					]
+				},
+				{
+					"screen_name": "guidoz",
+					"name": "guidoz",
+					"id": 7305132,
+					"id_str": "7305132",
+					"indices": [
+						38,
+						45
+					]
+				},
+				{
+					"screen_name": "bramkoster",
+					"name": "Bram Koster",
+					"id": 6893682,
+					"id_str": "6893682",
+					"indices": [
+						46,
+						57
+					]
+				},
+				{
+					"screen_name": "Ooitbedacht",
+					"name": " Bas",
+					"id": 15755280,
+					"id_str": "15755280",
+					"indices": [
+						58,
+						70
+					]
+				},
+				{
+					"screen_name": "tide",
+					"name": "Tide",
+					"id": 84163148,
+					"id_str": "84163148",
+					"indices": [
+						71,
+						76
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1075025828768088000,
+		"in_reply_to_status_id_str": "1075025828768088065",
+		"in_reply_to_user_id": 794801,
+		"in_reply_to_user_id_str": "794801",
+		"in_reply_to_screen_name": "Dutchcowboy",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8908,
+			"friends_count": 205,
+			"listed_count": 596,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4896,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60365,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@Dutchcowboy @HumphryJoey @arjanknaap @guidoz @bramkoster @Ooitbedacht @tide True. Ik geloof wel in de mogelijkheden met voice. Niet als volledige overname van andere media, maar in veel gebieden heel interessant wat er kan gaan gebeuren."
+	},
+	{
+		"created_at": "Tue Dec 18 13:50:40 +0000 2018",
+		"id": 1075025556431953900,
+		"id_str": "1075025556431953920",
+		"full_text": "@HumphryJoey @arjanknaap @Dutchcowboy @guidoz @bramkoster @Ooitbedacht @tide Och, ik merkte zojuist weer hoe sneller een webpagina is om een recept voor het avondeten te vinden dan via mijn Google Home. Want wat moest ik ook weer zeggen? \"Heb je een recept voor pasta met tonijn?\" of toch eerst \"open Appie\"? Duurde me al te lang.",
+		"truncated": false,
+		"display_text_range": [
+			77,
+			330
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HumphryJoey",
+					"name": "Humphry",
+					"id": 54028848,
+					"id_str": "54028848",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "arjanknaap",
+					"name": "Arjan van der Knaap",
+					"id": 19703385,
+					"id_str": "19703385",
+					"indices": [
+						13,
+						24
+					]
+				},
+				{
+					"screen_name": "Dutchcowboy",
+					"name": "M. Lens-FitzGerald",
+					"id": 794801,
+					"id_str": "794801",
+					"indices": [
+						25,
+						37
+					]
+				},
+				{
+					"screen_name": "guidoz",
+					"name": "guidoz",
+					"id": 7305132,
+					"id_str": "7305132",
+					"indices": [
+						38,
+						45
+					]
+				},
+				{
+					"screen_name": "bramkoster",
+					"name": "Bram Koster",
+					"id": 6893682,
+					"id_str": "6893682",
+					"indices": [
+						46,
+						57
+					]
+				},
+				{
+					"screen_name": "Ooitbedacht",
+					"name": " Bas",
+					"id": 15755280,
+					"id_str": "15755280",
+					"indices": [
+						58,
+						70
+					]
+				},
+				{
+					"screen_name": "tide",
+					"name": "Tide",
+					"id": 84163148,
+					"id_str": "84163148",
+					"indices": [
+						71,
+						76
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1075024761489645600,
+		"in_reply_to_status_id_str": "1075024761489645571",
+		"in_reply_to_user_id": 54028848,
+		"in_reply_to_user_id_str": "54028848",
+		"in_reply_to_screen_name": "HumphryJoey",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8908,
+			"friends_count": 205,
+			"listed_count": 596,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4896,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60365,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@HumphryJoey @arjanknaap @Dutchcowboy @guidoz @bramkoster @Ooitbedacht @tide Och, ik merkte zojuist weer hoe sneller een webpagina is om een recept voor het avondeten te vinden dan via mijn Google Home. Want wat moest ik ook weer zeggen? \"Heb je een recept voor pasta met tonijn?\" of toch eerst \"open Appie\"? Duurde me al te lang."
+	},
+	{
+		"created_at": "Tue Dec 18 13:41:44 +0000 2018",
+		"id": 1075023306955391000,
+		"id_str": "1075023306955390976",
+		"full_text": "@HumphryJoey @Dutchcowboy @guidoz @bramkoster @arjanknaap @Ooitbedacht @tide Op het moment dat ik thuis Google Home aanzette is het langzaam maar zeker een gewoonte geworden voor ons allemaal om er zo nu en dan gebruik van te maken. Bepaalde usecases had ik me idd niet voor kunnen stellen (bv de jongste die álle dierengeluiden de revue laat passeren...)",
+		"truncated": false,
+		"display_text_range": [
+			77,
+			355
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HumphryJoey",
+					"name": "Humphry",
+					"id": 54028848,
+					"id_str": "54028848",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "Dutchcowboy",
+					"name": "M. Lens-FitzGerald",
+					"id": 794801,
+					"id_str": "794801",
+					"indices": [
+						13,
+						25
+					]
+				},
+				{
+					"screen_name": "guidoz",
+					"name": "guidoz",
+					"id": 7305132,
+					"id_str": "7305132",
+					"indices": [
+						26,
+						33
+					]
+				},
+				{
+					"screen_name": "bramkoster",
+					"name": "Bram Koster",
+					"id": 6893682,
+					"id_str": "6893682",
+					"indices": [
+						34,
+						45
+					]
+				},
+				{
+					"screen_name": "arjanknaap",
+					"name": "Arjan van der Knaap",
+					"id": 19703385,
+					"id_str": "19703385",
+					"indices": [
+						46,
+						57
+					]
+				},
+				{
+					"screen_name": "Ooitbedacht",
+					"name": " Bas",
+					"id": 15755280,
+					"id_str": "15755280",
+					"indices": [
+						58,
+						70
+					]
+				},
+				{
+					"screen_name": "tide",
+					"name": "Tide",
+					"id": 84163148,
+					"id_str": "84163148",
+					"indices": [
+						71,
+						76
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1075022538416291800,
+		"in_reply_to_status_id_str": "1075022538416291840",
+		"in_reply_to_user_id": 54028848,
+		"in_reply_to_user_id_str": "54028848",
+		"in_reply_to_screen_name": "HumphryJoey",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8908,
+			"friends_count": 205,
+			"listed_count": 596,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4896,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60365,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@HumphryJoey @Dutchcowboy @guidoz @bramkoster @arjanknaap @Ooitbedacht @tide Op het moment dat ik thuis Google Home aanzette is het langzaam maar zeker een gewoonte geworden voor ons allemaal om er zo nu en dan gebruik van te maken. Bepaalde usecases had ik me idd niet voor kunnen stellen (bv de jongste die álle dierengeluiden de revue laat passeren...)"
+	},
+	{
+		"created_at": "Tue Dec 18 13:37:46 +0000 2018",
+		"id": 1075022312670445600,
+		"id_str": "1075022312670445568",
+		"full_text": "@bramkoster @josgovaart Wil je me niet meer zo laten schrikken gozert! ;-)",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bramkoster",
+					"name": "Bram Koster",
+					"id": 6893682,
+					"id_str": "6893682",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "josgovaart",
+					"name": "Jos Govaart",
+					"id": 17106307,
+					"id_str": "17106307",
+					"indices": [
+						12,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1075021678344835100,
+		"in_reply_to_status_id_str": "1075021678344835073",
+		"in_reply_to_user_id": 6893682,
+		"in_reply_to_user_id_str": "6893682",
+		"in_reply_to_screen_name": "bramkoster",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8908,
+			"friends_count": 205,
+			"listed_count": 596,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4896,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60365,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@bramkoster @josgovaart Wil je me niet meer zo laten schrikken gozert! ;-)"
+	},
+	{
+		"created_at": "Tue Dec 18 13:32:23 +0000 2018",
+		"id": 1075020954957480000,
+		"id_str": "1075020954957479938",
+		"full_text": "@josgovaart @bramkoster Plus de nieuwe site van Olisto staat live (https://t.co/saTavle0zS, klikt allen!) dus ga me gvd nu niet zeggen dat ik een stervende zwaan online heb gezet! ;-)",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			183
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "josgovaart",
+					"name": "Jos Govaart",
+					"id": 17106307,
+					"id_str": "17106307",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "bramkoster",
+					"name": "Bram Koster",
+					"id": 6893682,
+					"id_str": "6893682",
+					"indices": [
+						12,
+						23
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/saTavle0zS",
+					"expanded_url": "http://www.olisto.com",
+					"display_url": "olisto.com",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1075020489242918900,
+		"in_reply_to_status_id_str": "1075020489242918912",
+		"in_reply_to_user_id": 17106307,
+		"in_reply_to_user_id_str": "17106307",
+		"in_reply_to_screen_name": "josgovaart",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8908,
+			"friends_count": 205,
+			"listed_count": 596,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4896,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60365,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@josgovaart @bramkoster Plus de nieuwe site van Olisto staat live (https://t.co/saTavle0zS, klikt allen!) dus ga me gvd nu niet zeggen dat ik een stervende zwaan online heb gezet! ;-)"
+	},
+	{
+		"created_at": "Tue Dec 18 13:30:04 +0000 2018",
+		"id": 1075020371672354800,
+		"id_str": "1075020371672354816",
+		"full_text": "@bramkoster @HumphryJoey @guidoz @arjanknaap @Ooitbedacht @Dutchcowboy @tide Is dat die oude Bromet video over mobiele telefonie? Of iets anders?",
+		"truncated": false,
+		"display_text_range": [
+			77,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bramkoster",
+					"name": "Bram Koster",
+					"id": 6893682,
+					"id_str": "6893682",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "HumphryJoey",
+					"name": "Humphry",
+					"id": 54028848,
+					"id_str": "54028848",
+					"indices": [
+						12,
+						24
+					]
+				},
+				{
+					"screen_name": "guidoz",
+					"name": "guidoz",
+					"id": 7305132,
+					"id_str": "7305132",
+					"indices": [
+						25,
+						32
+					]
+				},
+				{
+					"screen_name": "arjanknaap",
+					"name": "Arjan van der Knaap",
+					"id": 19703385,
+					"id_str": "19703385",
+					"indices": [
+						33,
+						44
+					]
+				},
+				{
+					"screen_name": "Ooitbedacht",
+					"name": " Bas",
+					"id": 15755280,
+					"id_str": "15755280",
+					"indices": [
+						45,
+						57
+					]
+				},
+				{
+					"screen_name": "Dutchcowboy",
+					"name": "M. Lens-FitzGerald",
+					"id": 794801,
+					"id_str": "794801",
+					"indices": [
+						58,
+						70
+					]
+				},
+				{
+					"screen_name": "tide",
+					"name": "Tide",
+					"id": 84163148,
+					"id_str": "84163148",
+					"indices": [
+						71,
+						76
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1075019693436616700,
+		"in_reply_to_status_id_str": "1075019693436616704",
+		"in_reply_to_user_id": 6893682,
+		"in_reply_to_user_id_str": "6893682",
+		"in_reply_to_screen_name": "bramkoster",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8908,
+			"friends_count": 205,
+			"listed_count": 596,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4896,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60365,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@bramkoster @HumphryJoey @guidoz @arjanknaap @Ooitbedacht @Dutchcowboy @tide Is dat die oude Bromet video over mobiele telefonie? Of iets anders?"
+	},
+	{
+		"created_at": "Tue Dec 18 13:29:33 +0000 2018",
+		"id": 1075020241082695700,
+		"id_str": "1075020241082695680",
+		"full_text": "@josgovaart @bramkoster Zolang er websites nodig zijn om uberhaubt skills en intents te maken is het inderdaad nonsens natuurlijk. Theater is ook niet dood, het boek is niet dood, TV is niet dood. Riepl's Law zal hier net zo goed gelden. https://t.co/Y0j3IPIhTq",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			261
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "josgovaart",
+					"name": "Jos Govaart",
+					"id": 17106307,
+					"id_str": "17106307",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "bramkoster",
+					"name": "Bram Koster",
+					"id": 6893682,
+					"id_str": "6893682",
+					"indices": [
+						12,
+						23
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Y0j3IPIhTq",
+					"expanded_url": "https://en.wikipedia.org/wiki/Riepl%27s_law",
+					"display_url": "en.wikipedia.org/wiki/Riepl%27s…",
+					"indices": [
+						238,
+						261
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1075019282415841300,
+		"in_reply_to_status_id_str": "1075019282415841285",
+		"in_reply_to_user_id": 17106307,
+		"in_reply_to_user_id_str": "17106307",
+		"in_reply_to_screen_name": "josgovaart",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8908,
+			"friends_count": 205,
+			"listed_count": 596,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4896,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60365,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@josgovaart @bramkoster Zolang er websites nodig zijn om uberhaubt skills en intents te maken is het inderdaad nonsens natuurlijk. Theater is ook niet dood, het boek is niet dood, TV is niet dood. Riepl's Law zal hier net zo goed gelden. https://t.co/Y0j3IPIhTq"
+	},
+	{
 		"created_at": "Tue Dec 18 07:15:23 +0000 2018",
 		"id": 1074926082397270000,
 		"id_str": "1074926082397270016",
