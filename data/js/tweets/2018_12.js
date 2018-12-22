@@ -146,6 +146,199 @@ Grailbird.data.tweets_2018_12 =
 				}
 			},
 			"protected": false,
+			"followers_count": 251937,
+			"friends_count": 203,
+			"listed_count": 9522,
+			"created_at": "Sun Apr 29 20:50:37 +0000 2007",
+			"favourites_count": 22193,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 63228,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/632821853627678720/zPKK7jql_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/632821853627678720/zPKK7jql_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5637652/1398207303",
+			"profile_link_color": "282D58",
+			"profile_sidebar_border_color": "E0E1F5",
+			"profile_sidebar_fill_color": "E0E1F5",
+			"profile_text_color": "383A48",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 190,
+		"favorite_count": 514,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just a reminder that ten years ago Chrome had zero percent market share, and as of today it defeated Internet Explorer .. permanently. The best time to plant a tree was 30 years ago. The second best time is today. https://t.co/MJ4IYdEJF3"
+	},
+	{
+		"created_at": "Fri Dec 21 23:15:50 +0000 2018",
+		"id": 1076254949426683900,
+		"id_str": "1076254949426683904",
+		"full_text": "Just a reminder that ten years ago Chrome had zero percent market share, and as of today it defeated Internet Explorer .. permanently. The best time to plant a tree was 30 years ago. The second best time is today. https://t.co/MJ4IYdEJF3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1076254914681000000,
+					"id_str": "1076254914680999937",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/Du-gJIVUUAEGF5a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Du-gJIVUUAEGF5a.jpg",
+					"url": "https://t.co/MJ4IYdEJF3",
+					"display_url": "pic.twitter.com/MJ4IYdEJF3",
+					"expanded_url": "https://twitter.com/codinghorror/status/1076254949426683904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 421,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1630,
+							"h": 1008,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 742,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1076254914681000000,
+					"id_str": "1076254914680999937",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/Du-gJIVUUAEGF5a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Du-gJIVUUAEGF5a.jpg",
+					"url": "https://t.co/MJ4IYdEJF3",
+					"display_url": "pic.twitter.com/MJ4IYdEJF3",
+					"expanded_url": "https://twitter.com/codinghorror/status/1076254949426683904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 421,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1630,
+							"h": 1008,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 742,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5637652,
+			"id_str": "5637652",
+			"name": "Jeff Atwood",
+			"screen_name": "codinghorror",
+			"location": "Bay Area, CA",
+			"description": "Indoor enthusiast. Co-founder of https://t.co/P7MEYP7MjF and https://t.co/rlk2RG61MA. Abyss domain expert. Disclaimer: I have no idea what I'm talking about.",
+			"url": "http://t.co/rM9N1bQpLr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/rM9N1bQpLr",
+							"expanded_url": "http://blog.codinghorror.com",
+							"display_url": "blog.codinghorror.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/P7MEYP7MjF",
+							"expanded_url": "http://stackoverflow.com",
+							"display_url": "stackoverflow.com",
+							"indices": [
+								33,
+								56
+							]
+						},
+						{
+							"url": "https://t.co/rlk2RG61MA",
+							"expanded_url": "http://discourse.org",
+							"display_url": "discourse.org",
+							"indices": [
+								61,
+								84
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
 			"followers_count": 251936,
 			"friends_count": 203,
 			"listed_count": 9520,
