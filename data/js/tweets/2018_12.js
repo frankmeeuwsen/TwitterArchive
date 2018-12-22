@@ -1,6 +1,437 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Sat Dec 22 09:06:11 +0000 2018",
+		"id": 1076403517118693400,
+		"id_str": "1076403517118693376",
+		"full_text": "Ik kan hem doorspelen naar @lbroekman of @djeekopdicht maar ik zeg het lekker zelf ;-) \"Mickey Mouse has grown up a cow, Dave's on sale again\" uit Life on Mars! (maar dan was het Lennon die on sale is) https://t.co/1w3NKnoxL1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lbroekman",
+					"name": "Lode Broekman",
+					"id": 5524592,
+					"id_str": "5524592",
+					"indices": [
+						27,
+						37
+					]
+				},
+				{
+					"screen_name": "djeekopdicht",
+					"name": "Djeekop de Dichter ★",
+					"id": 230191922,
+					"id_str": "230191922",
+					"indices": [
+						41,
+						54
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1w3NKnoxL1",
+					"expanded_url": "https://twitter.com/Snob_2000/status/1076400952779948032",
+					"display_url": "twitter.com/Snob_2000/stat…",
+					"indices": [
+						202,
+						225
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8901,
+			"friends_count": 206,
+			"listed_count": 596,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4904,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60304,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1076400952779948000,
+		"quoted_status_id_str": "1076400952779948032",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1w3NKnoxL1",
+			"expanded": "https://twitter.com/Snob_2000/status/1076400952779948032",
+			"display": "twitter.com/Snob_2000/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Dec 22 08:56:00 +0000 2018",
+			"id": 1076400952779948000,
+			"id_str": "1076400952779948032",
+			"full_text": "Nóg een popquizvraagje: welke regel uit Everything Zen is geleend van David Bowie (en uit welk lied)? Bush, hier op 1381, maakt een diepe buiging naar Bowie.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				157
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 964603496,
+				"id_str": "964603496",
+				"name": "Snob 2000",
+				"screen_name": "Snob_2000",
+				"location": "",
+				"description": "Wij gaan verder waar die andere sympathieke lijst het soms een beetje laat afweten. \nhttp://t.co/2SD0r1HwUF",
+				"url": "http://t.co/n1KzfCeDUh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/n1KzfCeDUh",
+								"expanded_url": "http://www.snob2000.nl/",
+								"display_url": "snob2000.nl",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/2SD0r1HwUF",
+								"expanded_url": "http://www.snob2000.nl/",
+								"display_url": "snob2000.nl",
+								"indices": [
+									85,
+									107
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1435,
+				"friends_count": 1199,
+				"listed_count": 22,
+				"created_at": "Thu Nov 22 17:01:49 +0000 2012",
+				"favourites_count": 351,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1968,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/539082496756154368/U3FJXyy0_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/539082496756154368/U3FJXyy0_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/964603496/1519071423",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Ik kan hem doorspelen naar @lbroekman of @djeekopdicht maar ik zeg het lekker zelf ;-) \"Mickey Mouse has grown up a cow, Dave's on sale again\" uit Life on Mars! (maar dan was het Lennon die on sale is) https://t.co/1w3NKnoxL1"
+	},
+	{
+		"created_at": "Fri Dec 21 23:15:50 +0000 2018",
+		"id": 1076254949426683900,
+		"id_str": "1076254949426683904",
+		"full_text": "Just a reminder that ten years ago Chrome had zero percent market share, and as of today it defeated Internet Explorer .. permanently. The best time to plant a tree was 30 years ago. The second best time is today. https://t.co/MJ4IYdEJF3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1076254914681000000,
+					"id_str": "1076254914680999937",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/Du-gJIVUUAEGF5a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Du-gJIVUUAEGF5a.jpg",
+					"url": "https://t.co/MJ4IYdEJF3",
+					"display_url": "pic.twitter.com/MJ4IYdEJF3",
+					"expanded_url": "https://twitter.com/codinghorror/status/1076254949426683904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 421,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1630,
+							"h": 1008,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 742,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1076254914681000000,
+					"id_str": "1076254914680999937",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/Du-gJIVUUAEGF5a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Du-gJIVUUAEGF5a.jpg",
+					"url": "https://t.co/MJ4IYdEJF3",
+					"display_url": "pic.twitter.com/MJ4IYdEJF3",
+					"expanded_url": "https://twitter.com/codinghorror/status/1076254949426683904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 421,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1630,
+							"h": 1008,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 742,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5637652,
+			"id_str": "5637652",
+			"name": "Jeff Atwood",
+			"screen_name": "codinghorror",
+			"location": "Bay Area, CA",
+			"description": "Indoor enthusiast. Co-founder of https://t.co/P7MEYP7MjF and https://t.co/rlk2RG61MA. Abyss domain expert. Disclaimer: I have no idea what I'm talking about.",
+			"url": "http://t.co/rM9N1bQpLr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/rM9N1bQpLr",
+							"expanded_url": "http://blog.codinghorror.com",
+							"display_url": "blog.codinghorror.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/P7MEYP7MjF",
+							"expanded_url": "http://stackoverflow.com",
+							"display_url": "stackoverflow.com",
+							"indices": [
+								33,
+								56
+							]
+						},
+						{
+							"url": "https://t.co/rlk2RG61MA",
+							"expanded_url": "http://discourse.org",
+							"display_url": "discourse.org",
+							"indices": [
+								61,
+								84
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 251943,
+			"friends_count": 203,
+			"listed_count": 9519,
+			"created_at": "Sun Apr 29 20:50:37 +0000 2007",
+			"favourites_count": 22195,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 63228,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/632821853627678720/zPKK7jql_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/632821853627678720/zPKK7jql_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5637652/1398207303",
+			"profile_link_color": "282D58",
+			"profile_sidebar_border_color": "E0E1F5",
+			"profile_sidebar_fill_color": "E0E1F5",
+			"profile_text_color": "383A48",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 229,
+		"favorite_count": 608,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just a reminder that ten years ago Chrome had zero percent market share, and as of today it defeated Internet Explorer .. permanently. The best time to plant a tree was 30 years ago. The second best time is today. https://t.co/MJ4IYdEJF3"
+	},
+	{
 		"created_at": "Fri Dec 21 23:15:50 +0000 2018",
 		"id": 1076254949426683900,
 		"id_str": "1076254949426683904",
