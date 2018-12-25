@@ -1,6 +1,299 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Tue Dec 25 22:17:35 +0000 2018",
+		"id": 1077689841306005500,
+		"id_str": "1077689841306005509",
+		"full_text": "De nieuwe (nou ja, minder oude)  Karate Kid op RTL7 is een fraaie kopie van het origineel. Het eindtoernooi kan niet op tegen de originele Cobra Kai Moves natuurlijk. https://t.co/mjtbhAAaN8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077689828031021000,
+					"id_str": "1077689828031021061",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DvS5MFHXQAUVuT0.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DvS5MFHXQAUVuT0.jpg",
+					"url": "https://t.co/mjtbhAAaN8",
+					"display_url": "pic.twitter.com/mjtbhAAaN8",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1077689841306005509/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077689828031021000,
+					"id_str": "1077689828031021061",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DvS5MFHXQAUVuT0.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DvS5MFHXQAUVuT0.jpg",
+					"url": "https://t.co/mjtbhAAaN8",
+					"display_url": "pic.twitter.com/mjtbhAAaN8",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1077689841306005509/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DvS5MFHXQAUVuT0.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8895,
+			"friends_count": 206,
+			"listed_count": 596,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4908,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60316,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "De nieuwe (nou ja, minder oude)  Karate Kid op RTL7 is een fraaie kopie van het origineel. Het eindtoernooi kan niet op tegen de originele Cobra Kai Moves natuurlijk. https://t.co/mjtbhAAaN8"
+	},
+	{
+		"created_at": "Tue Dec 25 20:07:41 +0000 2018",
+		"id": 1077657150053335000,
+		"id_str": "1077657150053335040",
+		"full_text": "Just released another 40 accounts on https://t.co/q1iFQigMUZ, making it 200 accounts in total, thanks to more powerful servers. Make your next year an indieweb year – sign up and add receive mentions on your site today 😊",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/q1iFQigMUZ",
+					"expanded_url": "https://webmention.herokuapp.com/",
+					"display_url": "webmention.herokuapp.com",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18331731,
+			"id_str": "18331731",
+			"name": "Pelle Wessman",
+			"screen_name": "voxpelli",
+			"location": "Malmö, Sweden",
+			"description": "Web developer, open source contributor, @indiewebcamp participant. Works at Swedish newspapers @sydsvenskan/@hdhbg, doing node.js and frontend.",
+			"url": "https://t.co/TFeUkUYdTv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TFeUkUYdTv",
+							"expanded_url": "http://voxpelli.com",
+							"display_url": "voxpelli.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1351,
+			"friends_count": 1835,
+			"listed_count": 77,
+			"created_at": "Tue Dec 23 11:58:32 +0000 2008",
+			"favourites_count": 9550,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13506,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFE56F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000072331588/3c144be50e362a69d2410d759503c04c_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000072331588/3c144be50e362a69d2410d759503c04c_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18331731/1398232476",
+			"profile_link_color": "5F4E00",
+			"profile_sidebar_border_color": "BFAC53",
+			"profile_sidebar_fill_color": "FFE56F",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just released another 40 accounts on https://t.co/q1iFQigMUZ, making it 200 accounts in total, thanks to more powerful servers. Make your next year an indieweb year – sign up and add receive mentions on your site today 😊"
+	},
+	{
 		"created_at": "Tue Dec 25 20:07:41 +0000 2018",
 		"id": 1077657150053335000,
 		"id_str": "1077657150053335040",
