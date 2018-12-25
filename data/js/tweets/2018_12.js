@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Tue Dec 25 20:07:41 +0000 2018",
+		"id": 1077657150053335000,
+		"id_str": "1077657150053335040",
+		"full_text": "Just released another 40 accounts on https://t.co/q1iFQigMUZ, making it 200 accounts in total, thanks to more powerful servers. Make your next year an indieweb year – sign up and add receive mentions on your site today 😊",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/q1iFQigMUZ",
+					"expanded_url": "https://webmention.herokuapp.com/",
+					"display_url": "webmention.herokuapp.com",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18331731,
+			"id_str": "18331731",
+			"name": "Pelle Wessman",
+			"screen_name": "voxpelli",
+			"location": "Malmö, Sweden",
+			"description": "Web developer, open source contributor, @indiewebcamp participant. Works at Swedish newspapers @sydsvenskan/@hdhbg, doing node.js and frontend.",
+			"url": "https://t.co/TFeUkUYdTv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TFeUkUYdTv",
+							"expanded_url": "http://voxpelli.com",
+							"display_url": "voxpelli.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1351,
+			"friends_count": 1835,
+			"listed_count": 77,
+			"created_at": "Tue Dec 23 11:58:32 +0000 2008",
+			"favourites_count": 9550,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13506,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFE56F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000072331588/3c144be50e362a69d2410d759503c04c_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000072331588/3c144be50e362a69d2410d759503c04c_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18331731/1398232476",
+			"profile_link_color": "5F4E00",
+			"profile_sidebar_border_color": "BFAC53",
+			"profile_sidebar_fill_color": "FFE56F",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just released another 40 accounts on https://t.co/q1iFQigMUZ, making it 200 accounts in total, thanks to more powerful servers. Make your next year an indieweb year – sign up and add receive mentions on your site today 😊"
+	},
+	{
 		"created_at": "Tue Dec 25 19:46:20 +0000 2018",
 		"id": 1077651776797593600,
 		"id_str": "1077651776797593600",
