@@ -1,6 +1,418 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Fri Dec 28 15:35:09 +0000 2018",
+		"id": 1078675731385851900,
+		"id_str": "1078675731385851904",
+		"full_text": "In 2015 we lost Lemmy. His music has meant so much to us growing up and still dose to this day. He was the last true Rock N Roller! RIP https://t.co/qmkXpjdl7n",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1078675727397146600,
+					"id_str": "1078675727397146624",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/Dvg52-dX0AAxIVj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dvg52-dX0AAxIVj.jpg",
+					"url": "https://t.co/qmkXpjdl7n",
+					"display_url": "pic.twitter.com/qmkXpjdl7n",
+					"expanded_url": "https://twitter.com/SOIANYC/status/1078675731385851904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 320,
+							"h": 438,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 320,
+							"h": 438,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 438,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1078675727397146600,
+					"id_str": "1078675727397146624",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/Dvg52-dX0AAxIVj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dvg52-dX0AAxIVj.jpg",
+					"url": "https://t.co/qmkXpjdl7n",
+					"display_url": "pic.twitter.com/qmkXpjdl7n",
+					"expanded_url": "https://twitter.com/SOIANYC/status/1078675731385851904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 320,
+							"h": 438,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 320,
+							"h": 438,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 438,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 121516484,
+			"id_str": "121516484",
+			"name": "Sick Of It All",
+			"screen_name": "SOIANYC",
+			"location": "NEW YORK CITY",
+			"description": "https://t.co/er3gjiigH1 ADD US: https://t.co/2zVvqLuK6C http:https://t.co/ojuLp1N1nd",
+			"url": "https://t.co/kFxOzSDzKB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kFxOzSDzKB",
+							"expanded_url": "http://www.facebook.com/sickofitallny",
+							"display_url": "facebook.com/sickofitallny",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/er3gjiigH1",
+							"expanded_url": "http://www.sickofitall.com",
+							"display_url": "sickofitall.com",
+							"indices": [
+								0,
+								23
+							]
+						},
+						{
+							"url": "https://t.co/2zVvqLuK6C",
+							"expanded_url": "http://Facebook.com/SickofitAllNY",
+							"display_url": "Facebook.com/SickofitAllNY",
+							"indices": [
+								32,
+								55
+							]
+						},
+						{
+							"url": "https://t.co/ojuLp1N1nd",
+							"expanded_url": "http://Instagram.com/Sickofitallnyc",
+							"display_url": "Instagram.com/Sickofitallnyc",
+							"indices": [
+								61,
+								84
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 46944,
+			"friends_count": 1283,
+			"listed_count": 456,
+			"created_at": "Tue Mar 09 19:01:45 +0000 2010",
+			"favourites_count": 8800,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8278,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/913851066067947520/qYmqdBxW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/913851066067947520/qYmqdBxW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/121516484/1506709706",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 52,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In 2015 we lost Lemmy. His music has meant so much to us growing up and still dose to this day. He was the last true Rock N Roller! RIP https://t.co/qmkXpjdl7n"
+	},
+	{
+		"created_at": "Fri Dec 28 15:37:51 +0000 2018",
+		"id": 1078676411131543600,
+		"id_str": "1078676411131543552",
+		"full_text": "Everything old is new is old again. In 1995 hadden The Beastie Boys al liveblogs tijdens de tour. Uit Beastie Boys Book. Aanrader. https://t.co/PrnfxpTaQ6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1078676391007318000,
+					"id_str": "1078676391007318016",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/Dvg6dmmXcAAtOO7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dvg6dmmXcAAtOO7.jpg",
+					"url": "https://t.co/PrnfxpTaQ6",
+					"display_url": "pic.twitter.com/PrnfxpTaQ6",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1078676411131543552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1078676391007318000,
+					"id_str": "1078676391007318016",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/Dvg6dmmXcAAtOO7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dvg6dmmXcAAtOO7.jpg",
+					"url": "https://t.co/PrnfxpTaQ6",
+					"display_url": "pic.twitter.com/PrnfxpTaQ6",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1078676411131543552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1078676391007264800,
+					"id_str": "1078676391007264776",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/Dvg6dmmWoAg8td_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dvg6dmmWoAg8td_.jpg",
+					"url": "https://t.co/PrnfxpTaQ6",
+					"display_url": "pic.twitter.com/PrnfxpTaQ6",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1078676411131543552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8894,
+			"friends_count": 207,
+			"listed_count": 596,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4899,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60274,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Everything old is new is old again. In 1995 hadden The Beastie Boys al liveblogs tijdens de tour. Uit Beastie Boys Book. Aanrader. https://t.co/PrnfxpTaQ6"
+	},
+	{
 		"created_at": "Fri Dec 28 14:20:12 +0000 2018",
 		"id": 1078656868225044500,
 		"id_str": "1078656868225044485",
