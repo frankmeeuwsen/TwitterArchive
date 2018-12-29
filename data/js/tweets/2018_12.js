@@ -49,6 +49,430 @@ Grailbird.data.tweets_2018_12 =
 				}
 			},
 			"protected": false,
+			"followers_count": 321424,
+			"friends_count": 543,
+			"listed_count": 2772,
+			"created_at": "Fri Aug 23 14:47:44 +0000 2013",
+			"favourites_count": 531,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 6617,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074744618359631873/mQjJ7gLk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074744618359631873/mQjJ7gLk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1694040764/1503782357",
+			"profile_link_color": "FF0060",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 690,
+		"favorite_count": 3751,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "1988: what if we could post web pages!\n1993: what if we could just e-mail each other!\n1998: what if we could just share music!\n2003: what if we could share videos!\n2008: what if we could share messages with everyone at once!\n2018: what have we done?!"
+	},
+	{
+		"created_at": "Fri Dec 28 21:49:42 +0000 2018",
+		"id": 1078769988712976400,
+		"id_str": "1078769988712976385",
+		"full_text": "@peekabee Maar draai de vraag eens om, wat zou jij als actieve gebruiker van zo'n app het waard vinden? Je persoonlijke gegevens? Of een monetaire beloning?",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "peekabee",
+					"name": "Natanja de Bruin 🔅",
+					"id": 5835322,
+					"id_str": "5835322",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1078768909262688300,
+		"in_reply_to_status_id_str": "1078768909262688256",
+		"in_reply_to_user_id": 5835322,
+		"in_reply_to_user_id_str": "5835322",
+		"in_reply_to_screen_name": "peekabee",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8892,
+			"friends_count": 207,
+			"listed_count": 596,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4903,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60286,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@peekabee Maar draai de vraag eens om, wat zou jij als actieve gebruiker van zo'n app het waard vinden? Je persoonlijke gegevens? Of een monetaire beloning?"
+	},
+	{
+		"created_at": "Fri Dec 28 21:48:20 +0000 2018",
+		"id": 1078769645354651600,
+		"id_str": "1078769645354651649",
+		"full_text": "@peekabee Ik blijf nog altijd geloven in het 1000 True Fans idee van Kevin Kelly (https://t.co/Cn9WRRnbrC). Het grotere idee is dat er niet 1 aanbieder is van het netwerk, maar miljoenen kleine aanbieders. Die minder kosten hebben. Waardoor jij als eindgebruiker wellicht minder betaald.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			287
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "peekabee",
+					"name": "Natanja de Bruin 🔅",
+					"id": 5835322,
+					"id_str": "5835322",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Cn9WRRnbrC",
+					"expanded_url": "https://kk.org/thetechnium/1000-true-fans/",
+					"display_url": "kk.org/thetechnium/10…",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1078768909262688300,
+		"in_reply_to_status_id_str": "1078768909262688256",
+		"in_reply_to_user_id": 5835322,
+		"in_reply_to_user_id_str": "5835322",
+		"in_reply_to_screen_name": "peekabee",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8892,
+			"friends_count": 207,
+			"listed_count": 596,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4903,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60286,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@peekabee Ik blijf nog altijd geloven in het 1000 True Fans idee van Kevin Kelly (https://t.co/Cn9WRRnbrC). Het grotere idee is dat er niet 1 aanbieder is van het netwerk, maar miljoenen kleine aanbieders. Die minder kosten hebben. Waardoor jij als eindgebruiker wellicht minder betaald."
+	},
+	{
+		"created_at": "Fri Dec 28 21:40:21 +0000 2018",
+		"id": 1078767636698280000,
+		"id_str": "1078767636698279936",
+		"full_text": "@peekabee Misschien is het dan meer andersom gedacht. Niet dat je twee apps hebt met twee login-accounts die beheerd worden door een derde partij. Maar twee apps waar je toegang hebt met één account waar jij zelf veel meer controle over hebt.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			242
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "peekabee",
+					"name": "Natanja de Bruin 🔅",
+					"id": 5835322,
+					"id_str": "5835322",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1078761531259711500,
+		"in_reply_to_status_id_str": "1078761531259711493",
+		"in_reply_to_user_id": 5835322,
+		"in_reply_to_user_id_str": "5835322",
+		"in_reply_to_screen_name": "peekabee",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Community Architect @iamolisto | Utrecht | Father | Pearl Jam | Power user of the internet | \"je moet je lengte in je Twitterbio zetten\" aldus @brechtjedeleij",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8892,
+			"friends_count": 207,
+			"listed_count": 596,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4903,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60286,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@peekabee Misschien is het dan meer andersom gedacht. Niet dat je twee apps hebt met twee login-accounts die beheerd worden door een derde partij. Maar twee apps waar je toegang hebt met één account waar jij zelf veel meer controle over hebt."
+	},
+	{
+		"created_at": "Fri Dec 28 21:19:24 +0000 2018",
+		"id": 1078762361937424400,
+		"id_str": "1078762361937424389",
+		"full_text": "1988: what if we could post web pages!\n1993: what if we could just e-mail each other!\n1998: what if we could just share music!\n2003: what if we could share videos!\n2008: what if we could share messages with everyone at once!\n2018: what have we done?!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			250
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1694040764,
+			"id_str": "1694040764",
+			"name": "Chelsea E. Manning",
+			"screen_name": "xychelsea",
+			"location": "Bethesda, Maryland",
+			"description": "Network Security Expert. Fmr. Intel Analyst. Former Prisoner. Trans Woman. Make powerful people angry. Tweets are own opinions. Pronouns: she/her #WeGotThis",
+			"url": "https://t.co/dAJWb7JQsh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dAJWb7JQsh",
+							"expanded_url": "https://xychelsea.is",
+							"display_url": "xychelsea.is",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
 			"followers_count": 321408,
 			"friends_count": 543,
 			"listed_count": 2776,
