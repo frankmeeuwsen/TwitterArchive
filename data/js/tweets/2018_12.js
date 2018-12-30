@@ -1,6 +1,122 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Sun Dec 30 12:53:31 +0000 2018",
+		"id": 1079359827292373000,
+		"id_str": "1079359827292372992",
+		"full_text": "@Roh @dlmax Ik sla mijn bridge middag ook even over.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Roh",
+					"name": "Ronald van Schaik",
+					"id": 1447551,
+					"id_str": "1447551",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"screen_name": "dlmax",
+					"name": "Max",
+					"id": 14302648,
+					"id_str": "14302648",
+					"indices": [
+						5,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1079351516677443600,
+		"in_reply_to_status_id_str": "1079351516677443585",
+		"in_reply_to_user_id": 1447551,
+		"in_reply_to_user_id_str": "1447551",
+		"in_reply_to_screen_name": "Roh",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Utrecht | Father | Pearl Jam | Power user of the internet |",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8893,
+			"friends_count": 207,
+			"listed_count": 596,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4904,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60292,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@Roh @dlmax Ik sla mijn bridge middag ook even over."
+	},
+	{
 		"created_at": "Sun Dec 30 09:55:37 +0000 2018",
 		"id": 1079315058923110400,
 		"id_str": "1079315058923110400",
