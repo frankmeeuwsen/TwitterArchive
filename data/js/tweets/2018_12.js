@@ -1,6 +1,122 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Mon Dec 31 17:54:16 +0000 2018",
+		"id": 1079797901738487800,
+		"id_str": "1079797901738487808",
+		"full_text": "Happy Public Domain day: for real, for the first time in 20 years! https://t.co/dD98djvmMl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dD98djvmMl",
+					"expanded_url": "https://boingboing.net/2018/12/31/thanks-justin.html",
+					"display_url": "boingboing.net/2018/12/31/tha…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 887442528990933000,
+			"id_str": "887442528990932993",
+			"name": "MONDO 2000",
+			"screen_name": "2000_mondo",
+			"location": "Berkeley, CA",
+			"description": "MONDO 2000 at https://t.co/Adnv2nOVjY",
+			"url": "https://t.co/Adnv2nOVjY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Adnv2nOVjY",
+							"expanded_url": "http://Mondo2000.com",
+							"display_url": "Mondo2000.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Adnv2nOVjY",
+							"expanded_url": "http://Mondo2000.com",
+							"display_url": "Mondo2000.com",
+							"indices": [
+								14,
+								37
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1795,
+			"friends_count": 2664,
+			"listed_count": 32,
+			"created_at": "Tue Jul 18 22:42:41 +0000 2017",
+			"favourites_count": 119,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6764,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/887444058867511296/vXErbj4X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/887444058867511296/vXErbj4X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/887442528990932993/1500419206",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Happy Public Domain day: for real, for the first time in 20 years! https://t.co/dD98djvmMl"
+	},
+	{
 		"created_at": "Mon Dec 31 16:19:59 +0000 2018",
 		"id": 1079774175609397200,
 		"id_str": "1079774175609397249",
