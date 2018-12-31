@@ -70,6 +70,123 @@ Grailbird.data.tweets_2018_12 =
 				}
 			},
 			"protected": false,
+			"followers_count": 4892,
+			"friends_count": 546,
+			"listed_count": 77,
+			"created_at": "Fri Jun 13 21:57:11 +0000 2014",
+			"favourites_count": 1610,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7075,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/953379722125131776/6lyScwKo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/953379722125131776/6lyScwKo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2565971588/1445140488",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "(Fingers Crossed!) A Massive Amount of Iconic Works Will Enter the Public Domain on New Year’s Eve https://t.co/0ndSIz2ydI via @motherboard"
+	},
+	{
+		"created_at": "Mon Dec 31 09:11:05 +0000 2018",
+		"id": 1079666241806098400,
+		"id_str": "1079666241806098432",
+		"full_text": "(Fingers Crossed!) A Massive Amount of Iconic Works Will Enter the Public Domain on New Year’s Eve https://t.co/0ndSIz2ydI via @motherboard",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "motherboard",
+					"name": "Motherboard",
+					"id": 56510427,
+					"id_str": "56510427",
+					"indices": [
+						127,
+						139
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0ndSIz2ydI",
+					"expanded_url": "https://motherboard.vice.com/en_us/article/bjek4z/a-massive-amount-of-iconic-works-will-enter-the-public-domain-on-new-years-eve?utm_campaign=sharebutton",
+					"display_url": "motherboard.vice.com/en_us/article/…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2565971588,
+			"id_str": "2565971588",
+			"name": "Aaron Swartz Day",
+			"screen_name": "AaronSwartzDay",
+			"location": "San Francisco and everywhere!",
+			"description": "Aaron Swartz-inspired Hackathons are now going on all year, all over the world. Joining us is easy; just by helping those around you, however you can. #love",
+			"url": "https://t.co/WzLIDX1dQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WzLIDX1dQD",
+							"expanded_url": "http://www.aaronswartzday.org",
+							"display_url": "aaronswartzday.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
 			"followers_count": 4893,
 			"friends_count": 546,
 			"listed_count": 77,
