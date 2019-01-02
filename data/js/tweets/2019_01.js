@@ -1,6 +1,198 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Wed Jan 02 17:12:06 +0000 2019",
+		"id": 1080512067449311200,
+		"id_str": "1080512067449311233",
+		"full_text": "If you were thinking \"wow I wish my twitter timeline had more pictures of cool rocks\" good news I went to a mineral museum today and lost my damn mind https://t.co/JnazxocTuy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1080510828770664400,
+					"id_str": "1080510828770664448",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/Dv6-37zWoAAeI_R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dv6-37zWoAAeI_R.jpg",
+					"url": "https://t.co/JnazxocTuy",
+					"display_url": "pic.twitter.com/JnazxocTuy",
+					"expanded_url": "https://twitter.com/lifewinning/status/1080512067449311233/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1080510828770664400,
+					"id_str": "1080510828770664448",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/Dv6-37zWoAAeI_R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dv6-37zWoAAeI_R.jpg",
+					"url": "https://t.co/JnazxocTuy",
+					"display_url": "pic.twitter.com/JnazxocTuy",
+					"expanded_url": "https://twitter.com/lifewinning/status/1080512067449311233/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 348082699,
+			"id_str": "348082699",
+			"name": "Ingrid Burrington",
+			"screen_name": "lifewinning",
+			"location": "A Small Island Near America",
+			"description": "Investigations, Near Futures, Research, Art. book: https://t.co/s2kCTSRLXZ… VC co-founders: https://t.co/skFqkkjhaY",
+			"url": "https://t.co/IMualqKIOb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IMualqKIOb",
+							"expanded_url": "http://lifewinning.com",
+							"display_url": "lifewinning.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/s2kCTSRLXZ",
+							"expanded_url": "http://mhpbooks.com/books/networks",
+							"display_url": "mhpbooks.com/books/networks",
+							"indices": [
+								51,
+								74
+							]
+						},
+						{
+							"url": "https://t.co/skFqkkjhaY",
+							"expanded_url": "http://patreon.com/lifewinning",
+							"display_url": "patreon.com/lifewinning",
+							"indices": [
+								92,
+								115
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 12459,
+			"friends_count": 727,
+			"listed_count": 452,
+			"created_at": "Wed Aug 03 21:09:39 +0000 2011",
+			"favourites_count": 36199,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54023,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1612672528/netwk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1612672528/netwk_normal.jpg",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1486,
+		"favorite_count": 4289,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you were thinking \"wow I wish my twitter timeline had more pictures of cool rocks\" good news I went to a mineral museum today and lost my damn mind https://t.co/JnazxocTuy"
+	},
+	{
 		"created_at": "Wed Jan 02 22:17:13 +0000 2019",
 		"id": 1080588853143105500,
 		"id_str": "1080588853143105537",
