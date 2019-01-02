@@ -74,6 +74,156 @@ Grailbird.data.tweets_2019_01 =
 			"friends_count": 3270,
 			"listed_count": 883,
 			"created_at": "Mon Feb 23 20:04:45 +0000 2009",
+			"favourites_count": 23206,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 184793,
+			"lang": "nl",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "787178",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/833799119118417920/m3Yohqvv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/833799119118417920/m3Yohqvv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21687228/1480871534",
+			"profile_link_color": "0F0F0F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F2F5F0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "99cdab25eddd6bce",
+			"url": "https://api.twitter.com/1.1/geo/id/99cdab25eddd6bce.json",
+			"place_type": "city",
+			"name": "Amsterdam",
+			"full_name": "Amsterdam, The Netherlands",
+			"country_code": "NL",
+			"country": "The Netherlands",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							4.7288999,
+							52.2782266
+						],
+						[
+							5.0792072,
+							52.2782266
+						],
+						[
+							5.0792072,
+							52.4312289
+						],
+						[
+							4.7288999,
+							52.4312289
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@frankmeeuwsen Hoeveel ouders (marketeers) zouden het spelen? https://t.co/D1xEPfKRnG"
+	},
+	{
+		"created_at": "Wed Jan 02 19:08:50 +0000 2019",
+		"id": 1080541443347890200,
+		"id_str": "1080541443347890176",
+		"full_text": "@frankmeeuwsen Hoeveel ouders (marketeers) zouden het spelen? https://t.co/D1xEPfKRnG",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "frankmeeuwsen",
+					"name": "Frank Meeuwsen",
+					"id": 816203,
+					"id_str": "816203",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/D1xEPfKRnG",
+					"expanded_url": "https://www.jimstolze.nl/weblog/2018/05/20/fortnite/",
+					"display_url": "jimstolze.nl/weblog/2018/05…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1080537350051123200,
+		"in_reply_to_status_id_str": "1080537350051123200",
+		"in_reply_to_user_id": 816203,
+		"in_reply_to_user_id_str": "816203",
+		"in_reply_to_screen_name": "frankmeeuwsen",
+		"user": {
+			"id": 21687228,
+			"id_str": "21687228",
+			"name": "Roos van Vugt",
+			"screen_name": "roosvanvugt",
+			"location": "Amsterdam",
+			"description": "helpt merken social te laten werken (a.i. @NOS) founder @Merkwerker - leest nog steeds de krant - spreker/dagvoorzitter - 4kids (eitje..) hoogbeschaafd. Madrid.",
+			"url": "https://t.co/fkfnJFvt29",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fkfnJFvt29",
+							"expanded_url": "http://www.merkwerker.nl",
+							"display_url": "merkwerker.nl",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18190,
+			"friends_count": 3270,
+			"listed_count": 883,
+			"created_at": "Mon Feb 23 20:04:45 +0000 2009",
 			"favourites_count": 23202,
 			"utc_offset": null,
 			"time_zone": null,
