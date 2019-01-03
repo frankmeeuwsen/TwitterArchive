@@ -146,6 +146,674 @@ Grailbird.data.tweets_2019_01 =
 				}
 			},
 			"protected": false,
+			"followers_count": 12650,
+			"friends_count": 727,
+			"listed_count": 453,
+			"created_at": "Wed Aug 03 21:09:39 +0000 2011",
+			"favourites_count": 36198,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54023,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1612672528/netwk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1612672528/netwk_normal.jpg",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2506,
+		"favorite_count": 7089,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you were thinking \"wow I wish my twitter timeline had more pictures of cool rocks\" good news I went to a mineral museum today and lost my damn mind https://t.co/JnazxocTuy"
+	},
+	{
+		"created_at": "Wed Jan 02 22:17:13 +0000 2019",
+		"id": 1080588853143105500,
+		"id_str": "1080588853143105537",
+		"full_text": "2018 was een productief jaar op mijn blog. https://t.co/aoUXIgENWA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aoUXIgENWA",
+					"expanded_url": "https://diggingthedigital.com/statistieken/",
+					"display_url": "diggingthedigital.com/statistieken/",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Utrecht | Father | Pearl Jam | Power user of the internet |",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8889,
+			"friends_count": 210,
+			"listed_count": 596,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4916,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60253,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "2018 was een productief jaar op mijn blog. https://t.co/aoUXIgENWA"
+	},
+	{
+		"created_at": "Wed Jan 02 20:38:31 +0000 2019",
+		"id": 1080564015036842000,
+		"id_str": "1080564015036841990",
+		"full_text": "Tot op heden nog geen melding van laserschieten in de Moltalk Kickoff. Ik voorzie een stevige eerste review van @TrustNobodycast #widm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "widm",
+					"indices": [
+						129,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TrustNobodycast",
+					"name": "Trust Nobody",
+					"id": 943435303846662100,
+					"id_str": "943435303846662144",
+					"indices": [
+						112,
+						128
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Utrecht | Father | Pearl Jam | Power user of the internet |",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8889,
+			"friends_count": 210,
+			"listed_count": 596,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4916,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60253,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "Tot op heden nog geen melding van laserschieten in de Moltalk Kickoff. Ik voorzie een stevige eerste review van @TrustNobodycast #widm"
+	},
+	{
+		"created_at": "Wed Jan 02 19:08:50 +0000 2019",
+		"id": 1080541443347890200,
+		"id_str": "1080541443347890176",
+		"full_text": "@frankmeeuwsen Hoeveel ouders (marketeers) zouden het spelen? https://t.co/D1xEPfKRnG",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "frankmeeuwsen",
+					"name": "Frank Meeuwsen",
+					"id": 816203,
+					"id_str": "816203",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/D1xEPfKRnG",
+					"expanded_url": "https://www.jimstolze.nl/weblog/2018/05/20/fortnite/",
+					"display_url": "jimstolze.nl/weblog/2018/05…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1080537350051123200,
+		"in_reply_to_status_id_str": "1080537350051123200",
+		"in_reply_to_user_id": 816203,
+		"in_reply_to_user_id_str": "816203",
+		"in_reply_to_screen_name": "frankmeeuwsen",
+		"user": {
+			"id": 21687228,
+			"id_str": "21687228",
+			"name": "Roos van Vugt",
+			"screen_name": "roosvanvugt",
+			"location": "Amsterdam",
+			"description": "helpt merken social te laten werken (a.i. @NOS) founder @Merkwerker - leest nog steeds de krant - spreker/dagvoorzitter - 4kids (eitje..) hoogbeschaafd. Madrid.",
+			"url": "https://t.co/fkfnJFvt29",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fkfnJFvt29",
+							"expanded_url": "http://www.merkwerker.nl",
+							"display_url": "merkwerker.nl",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18188,
+			"friends_count": 3270,
+			"listed_count": 883,
+			"created_at": "Mon Feb 23 20:04:45 +0000 2009",
+			"favourites_count": 23208,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 184794,
+			"lang": "nl",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "787178",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/833799119118417920/m3Yohqvv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/833799119118417920/m3Yohqvv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21687228/1480871534",
+			"profile_link_color": "0F0F0F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F2F5F0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "99cdab25eddd6bce",
+			"url": "https://api.twitter.com/1.1/geo/id/99cdab25eddd6bce.json",
+			"place_type": "city",
+			"name": "Amsterdam",
+			"full_name": "Amsterdam, The Netherlands",
+			"country_code": "NL",
+			"country": "The Netherlands",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							4.7288999,
+							52.2782266
+						],
+						[
+							5.0792072,
+							52.2782266
+						],
+						[
+							5.0792072,
+							52.4312289
+						],
+						[
+							4.7288999,
+							52.4312289
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@frankmeeuwsen Hoeveel ouders (marketeers) zouden het spelen? https://t.co/D1xEPfKRnG"
+	},
+	{
+		"created_at": "Wed Jan 02 18:52:34 +0000 2019",
+		"id": 1080537350051123200,
+		"id_str": "1080537350051123200",
+		"full_text": "Ik heb tot op heden nog geen paniekreacties gehoord dat het zo'n lastig sociaal netwerk is voor merken. Of kunnen we binnen een paar dagen de post verwachten \"Wat Marketeers Over Fortnite Moeten Weten\"?\n\nFortnite isn't a game, it's a place - Charged https://t.co/mj04vaMJhx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mj04vaMJhx",
+					"expanded_url": "https://char.gd/blog/2018/fortnite-is-the-new-hangout-spot",
+					"display_url": "char.gd/blog/2018/fort…",
+					"indices": [
+						250,
+						273
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Utrecht | Father | Pearl Jam | Power user of the internet |",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8889,
+			"friends_count": 210,
+			"listed_count": 596,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4916,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60253,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Ik heb tot op heden nog geen paniekreacties gehoord dat het zo'n lastig sociaal netwerk is voor merken. Of kunnen we binnen een paar dagen de post verwachten \"Wat Marketeers Over Fortnite Moeten Weten\"?\n\nFortnite isn't a game, it's a place - Charged https://t.co/mj04vaMJhx"
+	},
+	{
+		"created_at": "Wed Jan 02 17:12:06 +0000 2019",
+		"id": 1080512067449311200,
+		"id_str": "1080512067449311233",
+		"full_text": "If you were thinking \"wow I wish my twitter timeline had more pictures of cool rocks\" good news I went to a mineral museum today and lost my damn mind https://t.co/JnazxocTuy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1080510828770664400,
+					"id_str": "1080510828770664448",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/Dv6-37zWoAAeI_R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dv6-37zWoAAeI_R.jpg",
+					"url": "https://t.co/JnazxocTuy",
+					"display_url": "pic.twitter.com/JnazxocTuy",
+					"expanded_url": "https://twitter.com/lifewinning/status/1080512067449311233/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1080510828770664400,
+					"id_str": "1080510828770664448",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/Dv6-37zWoAAeI_R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dv6-37zWoAAeI_R.jpg",
+					"url": "https://t.co/JnazxocTuy",
+					"display_url": "pic.twitter.com/JnazxocTuy",
+					"expanded_url": "https://twitter.com/lifewinning/status/1080512067449311233/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 348082699,
+			"id_str": "348082699",
+			"name": "Ingrid Burrington",
+			"screen_name": "lifewinning",
+			"location": "A Small Island Near America",
+			"description": "Investigations, Near Futures, Research, Art. book: https://t.co/s2kCTSRLXZ… VC co-founders: https://t.co/skFqkkjhaY",
+			"url": "https://t.co/IMualqKIOb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IMualqKIOb",
+							"expanded_url": "http://lifewinning.com",
+							"display_url": "lifewinning.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/s2kCTSRLXZ",
+							"expanded_url": "http://mhpbooks.com/books/networks",
+							"display_url": "mhpbooks.com/books/networks",
+							"indices": [
+								51,
+								74
+							]
+						},
+						{
+							"url": "https://t.co/skFqkkjhaY",
+							"expanded_url": "http://patreon.com/lifewinning",
+							"display_url": "patreon.com/lifewinning",
+							"indices": [
+								92,
+								115
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
 			"followers_count": 12558,
 			"friends_count": 727,
 			"listed_count": 453,
