@@ -1,6 +1,193 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Fri Jan 04 22:21:40 +0000 2019",
+		"id": 1081314747050532900,
+		"id_str": "1081314747050532864",
+		"full_text": "Ik heb zojuist eindelijk Bird Box gekeken. Zonder blinddoek. Om weer rustig te worden, even The Dude nu... https://t.co/2GIiaBYcbD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1081314739433676800,
+					"id_str": "1081314739433676800",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DwGaBsZWoAAnBRk.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DwGaBsZWoAAnBRk.jpg",
+					"url": "https://t.co/2GIiaBYcbD",
+					"display_url": "pic.twitter.com/2GIiaBYcbD",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1081314747050532864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 280,
+							"h": 164,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 280,
+							"h": 164,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 280,
+							"h": 164,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1081314739433676800,
+					"id_str": "1081314739433676800",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DwGaBsZWoAAnBRk.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DwGaBsZWoAAnBRk.jpg",
+					"url": "https://t.co/2GIiaBYcbD",
+					"display_url": "pic.twitter.com/2GIiaBYcbD",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1081314747050532864/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 280,
+							"h": 164,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 280,
+							"h": 164,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 280,
+							"h": 164,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							70,
+							41
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DwGaBsZWoAAnBRk.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Utrecht | Father | Pearl Jam | Power user of the internet |",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8890,
+			"friends_count": 217,
+			"listed_count": 596,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4924,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60266,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Ik heb zojuist eindelijk Bird Box gekeken. Zonder blinddoek. Om weer rustig te worden, even The Dude nu... https://t.co/2GIiaBYcbD"
+	},
+	{
 		"created_at": "Fri Jan 04 20:05:18 +0000 2019",
 		"id": 1081280430081495000,
 		"id_str": "1081280430081495040",
@@ -242,7 +429,7 @@ Grailbird.data.tweets_2019_01 =
 				"name": "Tim Fitzsimons",
 				"screen_name": "tfitzsimons",
 				"location": "New York, NY",
-				"description": "🏳️‍🌈 Reporter @NBCOut. Alum: 📻 @npr, @marketplace, @HRW, @columbiajourn. Ex-Beiruti. Tuna's human. Unarmed. Trilingual: EN/ES/عر Tips: tim.fitzsimons@nbcuni.com",
+				"description": "🏳️🌈 Reporter @NBCOut. Alum: 📻 @npr, @marketplace, @HRW, @columbiajourn. Ex-Beiruti. Tuna's human. Unarmed. Trilingual: EN/ES/عر Tips: tim.fitzsimons@nbcuni.com",
 				"url": "https://t.co/g0hP8uxNBg",
 				"entities": {
 					"url": {
