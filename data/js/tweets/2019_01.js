@@ -1,6 +1,323 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Fri Jan 04 20:05:18 +0000 2019",
+		"id": 1081280430081495000,
+		"id_str": "1081280430081495040",
+		"full_text": "Hier had ik nog nooit van gehoord... https://t.co/iVlZR7UoVC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iVlZR7UoVC",
+					"expanded_url": "https://twitter.com/tfitzsimons/status/1081236512010895361",
+					"display_url": "twitter.com/tfitzsimons/st…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Utrecht | Father | Pearl Jam | Power user of the internet |",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8889,
+			"friends_count": 217,
+			"listed_count": 596,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4924,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60265,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1081236512010895400,
+		"quoted_status_id_str": "1081236512010895361",
+		"quoted_status_permalink": {
+			"url": "https://t.co/iVlZR7UoVC",
+			"expanded": "https://twitter.com/tfitzsimons/status/1081236512010895361",
+			"display": "twitter.com/tfitzsimons/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 04 17:10:47 +0000 2019",
+			"id": 1081236512010895400,
+			"id_str": "1081236512010895361",
+			"full_text": "Ah, that feeling when a @Facebook coding error reveals that, yes, @Instagram is taking secret photos of you.\n\nIf you look closely you will see a photo of me, taken by my @NBCOut work phone, as I fiddled with our Instagram feed. That is not a photo I took.\n\nInstagram, u creepy https://t.co/8tLP4ygfFk",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				276
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "facebook",
+						"name": "Facebook",
+						"id": 2425151,
+						"id_str": "2425151",
+						"indices": [
+							24,
+							33
+						]
+					},
+					{
+						"screen_name": "instagram",
+						"name": "Instagram",
+						"id": 180505807,
+						"id_str": "180505807",
+						"indices": [
+							66,
+							76
+						]
+					},
+					{
+						"screen_name": "NBCOUT",
+						"name": "NBC Out",
+						"id": 3331875599,
+						"id_str": "3331875599",
+						"indices": [
+							170,
+							177
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1081236453491986400,
+						"id_str": "1081236453491986433",
+						"indices": [
+							277,
+							300
+						],
+						"media_url": "http://pbs.twimg.com/media/DwFS02iX0AEzX6u.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DwFS02iX0AEzX6u.jpg",
+						"url": "https://t.co/8tLP4ygfFk",
+						"display_url": "pic.twitter.com/8tLP4ygfFk",
+						"expanded_url": "https://twitter.com/tfitzsimons/status/1081236512010895361/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 520,
+								"h": 215,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 520,
+								"h": 215,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 520,
+								"h": 215,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1081236453491986400,
+						"id_str": "1081236453491986433",
+						"indices": [
+							277,
+							300
+						],
+						"media_url": "http://pbs.twimg.com/media/DwFS02iX0AEzX6u.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DwFS02iX0AEzX6u.jpg",
+						"url": "https://t.co/8tLP4ygfFk",
+						"display_url": "pic.twitter.com/8tLP4ygfFk",
+						"expanded_url": "https://twitter.com/tfitzsimons/status/1081236512010895361/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 520,
+								"h": 215,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 520,
+								"h": 215,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 520,
+								"h": 215,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17666172,
+				"id_str": "17666172",
+				"name": "Tim Fitzsimons",
+				"screen_name": "tfitzsimons",
+				"location": "New York, NY",
+				"description": "🏳️‍🌈 Reporter @NBCOut. Alum: 📻 @npr, @marketplace, @HRW, @columbiajourn. Ex-Beiruti. Tuna's human. Unarmed. Trilingual: EN/ES/عر Tips: tim.fitzsimons@nbcuni.com",
+				"url": "https://t.co/g0hP8uxNBg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/g0hP8uxNBg",
+								"expanded_url": "http://www.tfitzsimons.com/",
+								"display_url": "tfitzsimons.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1567,
+				"friends_count": 2348,
+				"listed_count": 79,
+				"created_at": "Thu Nov 27 01:47:16 +0000 2008",
+				"favourites_count": 4964,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 13532,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1047493006629261312/BxT0gCzC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1047493006629261312/BxT0gCzC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17666172/1525358560",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 60,
+			"favorite_count": 81,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Hier had ik nog nooit van gehoord... https://t.co/iVlZR7UoVC"
+	},
+	{
 		"created_at": "Fri Jan 04 17:37:24 +0000 2019",
 		"id": 1081243212193452000,
 		"id_str": "1081243212193452035",
