@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Thu Jan 03 15:23:02 +0000 2019",
+		"id": 1080847008779460600,
+		"id_str": "1080847008779460611",
+		"full_text": "Last year, we generated new band names for a future Coachella. Today, we'll review the top 5 albums of 2018 with predictive text + @pitchfork https://t.co/VuQuIIgnkH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pitchfork",
+					"name": "Pitchfork",
+					"id": 14089195,
+					"id_str": "14089195",
+					"indices": [
+						131,
+						141
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1080847005897949200,
+					"id_str": "1080847005897949186",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/Dv_woBMXgAIEsdX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dv_woBMXgAIEsdX.jpg",
+					"url": "https://t.co/VuQuIIgnkH",
+					"display_url": "pic.twitter.com/VuQuIIgnkH",
+					"expanded_url": "https://twitter.com/botnikstudios/status/1080847008779460611/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1080847005897949200,
+					"id_str": "1080847005897949186",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/Dv_woBMXgAIEsdX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dv_woBMXgAIEsdX.jpg",
+					"url": "https://t.co/VuQuIIgnkH",
+					"display_url": "pic.twitter.com/VuQuIIgnkH",
+					"expanded_url": "https://twitter.com/botnikstudios/status/1080847008779460611/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 888947726519377900,
+			"id_str": "888947726519377920",
+			"name": "Botnik Studios",
+			"screen_name": "botnikstudios",
+			"location": "",
+			"description": "Machine entertainment company.     Help bring about THE SONGULARITY by donating to our Kickstarter: https://t.co/yEfObtOfy1",
+			"url": "https://t.co/2qYtoO55S3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2qYtoO55S3",
+							"expanded_url": "http://www.botnik.org/",
+							"display_url": "botnik.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/yEfObtOfy1",
+							"expanded_url": "https://kck.st/2CY4NPs",
+							"display_url": "kck.st/2CY4NPs",
+							"indices": [
+								100,
+								123
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 19480,
+			"friends_count": 75,
+			"listed_count": 180,
+			"created_at": "Sun Jul 23 02:23:48 +0000 2017",
+			"favourites_count": 874,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 404,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1042635833537384448/293esLB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1042635833537384448/293esLB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/888947726519377920/1537930598",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 91,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Last year, we generated new band names for a future Coachella. Today, we'll review the top 5 albums of 2018 with predictive text + @pitchfork https://t.co/VuQuIIgnkH"
+	},
+	{
 		"created_at": "Thu Jan 03 21:55:35 +0000 2019",
 		"id": 1080945794730152000,
 		"id_str": "1080945794730151941",
