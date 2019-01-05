@@ -60,6 +60,941 @@ Grailbird.data.tweets_2019_01 =
 				}
 			},
 			"protected": false,
+			"followers_count": 86956,
+			"friends_count": 2973,
+			"listed_count": 785,
+			"created_at": "Mon Feb 02 14:07:07 +0000 2009",
+			"favourites_count": 11126,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 18105,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1025403744639504384/UjSwRuBR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1025403744639504384/UjSwRuBR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19907840/1542801392",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1818,
+		"favorite_count": 6579,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "hey @britishmuseum give us your best duck"
+	},
+	{
+		"created_at": "Fri Jan 04 22:21:40 +0000 2019",
+		"id": 1081314747050532900,
+		"id_str": "1081314747050532864",
+		"full_text": "Ik heb zojuist eindelijk Bird Box gekeken. Zonder blinddoek. Om weer rustig te worden, even The Dude nu... https://t.co/2GIiaBYcbD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1081314739433676800,
+					"id_str": "1081314739433676800",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DwGaBsZWoAAnBRk.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DwGaBsZWoAAnBRk.jpg",
+					"url": "https://t.co/2GIiaBYcbD",
+					"display_url": "pic.twitter.com/2GIiaBYcbD",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1081314747050532864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 280,
+							"h": 164,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 280,
+							"h": 164,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 280,
+							"h": 164,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1081314739433676800,
+					"id_str": "1081314739433676800",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DwGaBsZWoAAnBRk.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DwGaBsZWoAAnBRk.jpg",
+					"url": "https://t.co/2GIiaBYcbD",
+					"display_url": "pic.twitter.com/2GIiaBYcbD",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1081314747050532864/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 280,
+							"h": 164,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 280,
+							"h": 164,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 280,
+							"h": 164,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							70,
+							41
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DwGaBsZWoAAnBRk.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Utrecht | Father | Pearl Jam | Power user of the internet |",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8890,
+			"friends_count": 220,
+			"listed_count": 596,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4925,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60267,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Ik heb zojuist eindelijk Bird Box gekeken. Zonder blinddoek. Om weer rustig te worden, even The Dude nu... https://t.co/2GIiaBYcbD"
+	},
+	{
+		"created_at": "Fri Jan 04 20:05:18 +0000 2019",
+		"id": 1081280430081495000,
+		"id_str": "1081280430081495040",
+		"full_text": "Hier had ik nog nooit van gehoord... https://t.co/iVlZR7UoVC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iVlZR7UoVC",
+					"expanded_url": "https://twitter.com/tfitzsimons/status/1081236512010895361",
+					"display_url": "twitter.com/tfitzsimons/st…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Utrecht | Father | Pearl Jam | Power user of the internet |",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8890,
+			"friends_count": 220,
+			"listed_count": 596,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4925,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60267,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1081236512010895400,
+		"quoted_status_id_str": "1081236512010895361",
+		"quoted_status_permalink": {
+			"url": "https://t.co/iVlZR7UoVC",
+			"expanded": "https://twitter.com/tfitzsimons/status/1081236512010895361",
+			"display": "twitter.com/tfitzsimons/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 04 17:10:47 +0000 2019",
+			"id": 1081236512010895400,
+			"id_str": "1081236512010895361",
+			"full_text": "Ah, that feeling when a @Facebook coding error reveals that, yes, @Instagram is taking secret photos of you.\n\nIf you look closely you will see a photo of me, taken by my @NBCOut work phone, as I fiddled with our Instagram feed. That is not a photo I took.\n\nInstagram, u creepy https://t.co/8tLP4ygfFk",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				276
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "facebook",
+						"name": "Facebook",
+						"id": 2425151,
+						"id_str": "2425151",
+						"indices": [
+							24,
+							33
+						]
+					},
+					{
+						"screen_name": "instagram",
+						"name": "Instagram",
+						"id": 180505807,
+						"id_str": "180505807",
+						"indices": [
+							66,
+							76
+						]
+					},
+					{
+						"screen_name": "NBCOUT",
+						"name": "NBC Out",
+						"id": 3331875599,
+						"id_str": "3331875599",
+						"indices": [
+							170,
+							177
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1081236453491986400,
+						"id_str": "1081236453491986433",
+						"indices": [
+							277,
+							300
+						],
+						"media_url": "http://pbs.twimg.com/media/DwFS02iX0AEzX6u.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DwFS02iX0AEzX6u.jpg",
+						"url": "https://t.co/8tLP4ygfFk",
+						"display_url": "pic.twitter.com/8tLP4ygfFk",
+						"expanded_url": "https://twitter.com/tfitzsimons/status/1081236512010895361/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 520,
+								"h": 215,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 520,
+								"h": 215,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 520,
+								"h": 215,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1081236453491986400,
+						"id_str": "1081236453491986433",
+						"indices": [
+							277,
+							300
+						],
+						"media_url": "http://pbs.twimg.com/media/DwFS02iX0AEzX6u.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DwFS02iX0AEzX6u.jpg",
+						"url": "https://t.co/8tLP4ygfFk",
+						"display_url": "pic.twitter.com/8tLP4ygfFk",
+						"expanded_url": "https://twitter.com/tfitzsimons/status/1081236512010895361/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 520,
+								"h": 215,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 520,
+								"h": 215,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 520,
+								"h": 215,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17666172,
+				"id_str": "17666172",
+				"name": "Tim Fitzsimons",
+				"screen_name": "tfitzsimons",
+				"location": "New York, NY",
+				"description": "🏳️‍🌈 Reporter @NBCOut. Alum: 📻 @npr, @marketplace, @HRW, @columbiajourn. Ex-Beiruti. Tuna's human. Unarmed. Trilingual: EN/ES/عر Tips: tim.fitzsimons@nbcuni.com",
+				"url": "https://t.co/g0hP8uxNBg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/g0hP8uxNBg",
+								"expanded_url": "http://www.tfitzsimons.com/",
+								"display_url": "tfitzsimons.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1575,
+				"friends_count": 2351,
+				"listed_count": 79,
+				"created_at": "Thu Nov 27 01:47:16 +0000 2008",
+				"favourites_count": 4971,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 13552,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1047493006629261312/BxT0gCzC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1047493006629261312/BxT0gCzC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17666172/1525358560",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 109,
+			"favorite_count": 157,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Hier had ik nog nooit van gehoord... https://t.co/iVlZR7UoVC"
+	},
+	{
+		"created_at": "Fri Jan 04 17:37:24 +0000 2019",
+		"id": 1081243212193452000,
+		"id_str": "1081243212193452035",
+		"full_text": "Zo'n Twitter meme account die je eigenlijk zelf wilt bedenken en doen. Geweldig! Check de Twitter search op #aocdancing ofzo voor de achtergrond als je het nog niet kent. https://t.co/qUrz6QkAjG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aocdancing",
+					"indices": [
+						108,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qUrz6QkAjG",
+					"expanded_url": "https://twitter.com/aoc_dances/status/1081083811952087040",
+					"display_url": "twitter.com/aoc_dances/sta…",
+					"indices": [
+						171,
+						194
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Utrecht | Father | Pearl Jam | Power user of the internet |",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8890,
+			"friends_count": 220,
+			"listed_count": 596,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4925,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60267,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1081083811952087000,
+		"quoted_status_id_str": "1081083811952087040",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qUrz6QkAjG",
+			"expanded": "https://twitter.com/aoc_dances/status/1081083811952087040",
+			"display": "twitter.com/aoc_dances/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 04 07:04:00 +0000 2019",
+			"id": 1081083811952087000,
+			"id_str": "1081083811952087040",
+			"full_text": "Wham! - Wake Me Up Before You Go Go https://t.co/zrfjHLWJuj",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				35
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1081083597296005100,
+						"id_str": "1081083597296005122",
+						"indices": [
+							36,
+							59
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1081083597296005122/pu/img/Y4h6vQc8gAjhvXtA.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1081083597296005122/pu/img/Y4h6vQc8gAjhvXtA.jpg",
+						"url": "https://t.co/zrfjHLWJuj",
+						"display_url": "pic.twitter.com/zrfjHLWJuj",
+						"expanded_url": "https://twitter.com/aoc_dances/status/1081083811952087040/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1081083597296005100,
+						"id_str": "1081083597296005122",
+						"indices": [
+							36,
+							59
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1081083597296005122/pu/img/Y4h6vQc8gAjhvXtA.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1081083597296005122/pu/img/Y4h6vQc8gAjhvXtA.jpg",
+						"url": "https://t.co/zrfjHLWJuj",
+						"display_url": "pic.twitter.com/zrfjHLWJuj",
+						"expanded_url": "https://twitter.com/aoc_dances/status/1081083811952087040/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 29720,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1081083597296005122/pu/vid/320x180/l7zDH_pkrxOS9AwT.mp4?tag=6"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1081083597296005122/pu/vid/640x360/EIIHjry9LZmy0CbJ.mp4?tag=6"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1081083597296005122/pu/pl/ksBMSZrctxD9rH1i.m3u8?tag=6"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1081083597296005122/pu/vid/1280x720/S6laSk35O-DrFZ9M.mp4?tag=6"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1081050713277395000,
+				"id_str": "1081050713277394944",
+				"name": "AOC Dances To Every Song",
+				"screen_name": "aoc_dances",
+				"location": "virtual tip jar below",
+				"description": "edits of AOC dancing to every song!\nrun by @leftistthot420",
+				"url": "https://t.co/TzrVpKnyWn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/TzrVpKnyWn",
+								"expanded_url": "http://cash.me/leftistthot",
+								"display_url": "cash.me/leftistthot",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 24689,
+				"friends_count": 2,
+				"listed_count": 73,
+				"created_at": "Fri Jan 04 04:52:29 +0000 2019",
+				"favourites_count": 19,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 87,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1081051604676108288/mCXw_MuR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081051604676108288/mCXw_MuR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1081050713277394944/1546586601",
+				"profile_link_color": "F58EA8",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1011,
+			"favorite_count": 4666,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Zo'n Twitter meme account die je eigenlijk zelf wilt bedenken en doen. Geweldig! Check de Twitter search op #aocdancing ofzo voor de achtergrond als je het nog niet kent. https://t.co/qUrz6QkAjG"
+	},
+	{
+		"created_at": "Fri Jan 04 13:08:41 +0000 2019",
+		"id": 1081175584540115000,
+		"id_str": "1081175584540114944",
+		"full_text": "hey @britishmuseum give us your best duck",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "britishmuseum",
+					"name": "British Museum",
+					"id": 19066345,
+					"id_str": "19066345",
+					"indices": [
+						4,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19907840,
+			"id_str": "19907840",
+			"name": "The Museum of English Rural Life",
+			"screen_name": "TheMERL",
+			"location": "Reading, Berkshire, UK",
+			"description": "The MERL, @UniofReading. We explore the English countryside, its history and its people. Lawful Good.",
+			"url": "https://t.co/I9v2bFDB1U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/I9v2bFDB1U",
+							"expanded_url": "https://merl.reading.ac.uk/",
+							"display_url": "merl.reading.ac.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
 			"followers_count": 86356,
 			"friends_count": 2973,
 			"listed_count": 779,
@@ -535,7 +1470,7 @@ Grailbird.data.tweets_2019_01 =
 				"name": "Tim Fitzsimons",
 				"screen_name": "tfitzsimons",
 				"location": "New York, NY",
-				"description": "🏳️‍🌈 Reporter @NBCOut. Alum: 📻 @npr, @marketplace, @HRW, @columbiajourn. Ex-Beiruti. Tuna's human. Unarmed. Trilingual: EN/ES/عر Tips: tim.fitzsimons@nbcuni.com",
+				"description": "🏳️🌈 Reporter @NBCOut. Alum: 📻 @npr, @marketplace, @HRW, @columbiajourn. Ex-Beiruti. Tuna's human. Unarmed. Trilingual: EN/ES/عر Tips: tim.fitzsimons@nbcuni.com",
 				"url": "https://t.co/g0hP8uxNBg",
 				"entities": {
 					"url": {
