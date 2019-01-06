@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sun Jan 06 22:17:00 +0000 2019",
+		"id": 1082038349349744600,
+		"id_str": "1082038349349744642",
+		"full_text": "Thread of folks sharing their static site generator setup: https://t.co/WRkXxQHGox",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WRkXxQHGox",
+					"expanded_url": "https://twitter.com/desandro/status/1081181207851864064",
+					"display_url": "twitter.com/desandro/statu…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 285019665,
+			"id_str": "285019665",
+			"name": "CSS-Tricks",
+			"screen_name": "css",
+			"location": "Chris in Bend, OR + Remote Team",
+			"description": "The official account for https://t.co/QA8ZTOUHWf, a web design community curated by @chriscoyier and a crack team.",
+			"url": "http://t.co/MPUasUSEx1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MPUasUSEx1",
+							"expanded_url": "http://css-tricks.com",
+							"display_url": "css-tricks.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QA8ZTOUHWf",
+							"expanded_url": "http://CSS-Tricks.com",
+							"display_url": "CSS-Tricks.com",
+							"indices": [
+								25,
+								48
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 382121,
+			"friends_count": 2019,
+			"listed_count": 7257,
+			"created_at": "Wed Apr 20 11:40:04 +0000 2011",
+			"favourites_count": 1513,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8438,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CECFC7",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1080202898372362240/akqRGyta_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080202898372362240/akqRGyta_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/285019665/1546291459",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1081181207851864000,
+		"quoted_status_id_str": "1081181207851864064",
+		"quoted_status_permalink": {
+			"url": "https://t.co/WRkXxQHGox",
+			"expanded": "https://twitter.com/desandro/status/1081181207851864064",
+			"display": "twitter.com/desandro/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 04 13:31:01 +0000 2019",
+			"id": 1081181207851864000,
+			"id_str": "1081181207851864064",
+			"full_text": "I'm curious! 🤔 How do **you** build your static websites?",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				57
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1584511,
+				"id_str": "1584511",
+				"name": "Dave DeSandro",
+				"screen_name": "desandro",
+				"location": "Alexandria, VA",
+				"description": "Designer, developer. JavaScript & logos @metafizzyco. Made Masonry, used on Beyoncé's tumblr",
+				"url": "https://t.co/QieHFyq3hZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/QieHFyq3hZ",
+								"expanded_url": "https://desandro.com",
+								"display_url": "desandro.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13742,
+				"friends_count": 378,
+				"listed_count": 801,
+				"created_at": "Tue Mar 20 03:37:42 +0000 2007",
+				"favourites_count": 6316,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 10476,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1063186712925519872/nMek86eq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1063186712925519872/nMek86eq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1584511/1458054771",
+				"profile_link_color": "CC5577",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "554478",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 96,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 9,
+		"favorite_count": 44,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thread of folks sharing their static site generator setup: https://t.co/WRkXxQHGox"
+	},
+	{
 		"created_at": "Sun Jan 06 22:03:07 +0000 2019",
 		"id": 1082034854613659600,
 		"id_str": "1082034854613659649",
