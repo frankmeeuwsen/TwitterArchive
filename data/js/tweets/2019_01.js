@@ -1,6 +1,479 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Mon Jan 07 06:39:30 +0000 2019",
+		"id": 1082164809037217800,
+		"id_str": "1082164809037217793",
+		"full_text": "Het internet is niet stuk, alleen wat in de war ;-) https://t.co/4b7jY97f7g\n\nIk ben er bij Marco, leuk! https://t.co/ywKyjxVDcr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4b7jY97f7g",
+					"expanded_url": "https://diggingthedigital.com/internet-stuk-michael-minneboo/",
+					"display_url": "diggingthedigital.com/internet-stuk-…",
+					"indices": [
+						52,
+						75
+					]
+				},
+				{
+					"url": "https://t.co/ywKyjxVDcr",
+					"expanded_url": "https://twitter.com/marcoderksen/status/1082158655733202945",
+					"display_url": "twitter.com/marcoderksen/s…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Utrecht | Father | Pearl Jam | Power user of the internet |",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8888,
+			"friends_count": 222,
+			"listed_count": 596,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4931,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60205,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1082158655733203000,
+		"quoted_status_id_str": "1082158655733202945",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ywKyjxVDcr",
+			"expanded": "https://twitter.com/marcoderksen/status/1082158655733202945",
+			"display": "twitter.com/marcoderksen/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jan 07 06:15:03 +0000 2019",
+			"id": 1082158655733203000,
+			"id_str": "1082158655733202945",
+			"full_text": "Help, het internet is stuk! Dinsdag 29 januari komt @gjbogaerts naar @mediavilla026 om te vertellen hoe initiatieven als PublicSpaces het internet weer wil fixen. #mediavilla026 https://t.co/j8wDxYybeG",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				201
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "mediavilla026",
+						"indices": [
+							163,
+							177
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "gjbogaerts",
+						"name": "GJ Bogaerts",
+						"id": 21853326,
+						"id_str": "21853326",
+						"indices": [
+							52,
+							63
+						]
+					},
+					{
+						"screen_name": "mediavilla026",
+						"name": "Media Villa Arnhem",
+						"id": 2793633543,
+						"id_str": "2793633543",
+						"indices": [
+							69,
+							83
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/j8wDxYybeG",
+						"expanded_url": "https://www.meetup.com/Media-Villa-Arnhem/events/257839171/",
+						"display_url": "meetup.com/Media-Villa-Ar…",
+						"indices": [
+							178,
+							201
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1252681,
+				"id_str": "1252681",
+				"name": "Marco Derksen",
+				"screen_name": "marcoderksen",
+				"location": "Arnhem, Netherlands ",
+				"description": "Oprichter/partner Upstream, Marketingfacts, AOG, HAN, VPRO, Luxor Live, leiderschap bij digitale transformatie, onderwijs, fotografie en vader!",
+				"url": "https://t.co/BZL9q31AMU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/BZL9q31AMU",
+								"expanded_url": "http://koneksa-mondo.nl/",
+								"display_url": "koneksa-mondo.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 27677,
+				"friends_count": 5230,
+				"listed_count": 1519,
+				"created_at": "Thu Mar 15 22:44:18 +0000 2007",
+				"favourites_count": 9447,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 145216,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DBE9ED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2481600063/csc8fi7o9h1uwyoxtlb4_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2481600063/csc8fi7o9h1uwyoxtlb4_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1252681/1348906748",
+				"profile_link_color": "EB8415",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Het internet is niet stuk, alleen wat in de war ;-) https://t.co/4b7jY97f7g\n\nIk ben er bij Marco, leuk! https://t.co/ywKyjxVDcr"
+	},
+	{
+		"created_at": "Sun Jan 06 22:17:00 +0000 2019",
+		"id": 1082038349349744600,
+		"id_str": "1082038349349744642",
+		"full_text": "Thread of folks sharing their static site generator setup: https://t.co/WRkXxQHGox",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WRkXxQHGox",
+					"expanded_url": "https://twitter.com/desandro/status/1081181207851864064",
+					"display_url": "twitter.com/desandro/statu…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 285019665,
+			"id_str": "285019665",
+			"name": "CSS-Tricks",
+			"screen_name": "css",
+			"location": "Chris in Bend, OR + Remote Team",
+			"description": "The official account for https://t.co/QA8ZTOUHWf, a web design community curated by @chriscoyier and a crack team.",
+			"url": "http://t.co/MPUasUSEx1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MPUasUSEx1",
+							"expanded_url": "http://css-tricks.com",
+							"display_url": "css-tricks.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QA8ZTOUHWf",
+							"expanded_url": "http://CSS-Tricks.com",
+							"display_url": "CSS-Tricks.com",
+							"indices": [
+								25,
+								48
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 382155,
+			"friends_count": 2019,
+			"listed_count": 7250,
+			"created_at": "Wed Apr 20 11:40:04 +0000 2011",
+			"favourites_count": 1513,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8440,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CECFC7",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1080202898372362240/akqRGyta_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080202898372362240/akqRGyta_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/285019665/1546291459",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1081181207851864000,
+		"quoted_status_id_str": "1081181207851864064",
+		"quoted_status_permalink": {
+			"url": "https://t.co/WRkXxQHGox",
+			"expanded": "https://twitter.com/desandro/status/1081181207851864064",
+			"display": "twitter.com/desandro/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 04 13:31:01 +0000 2019",
+			"id": 1081181207851864000,
+			"id_str": "1081181207851864064",
+			"full_text": "I'm curious! 🤔 How do **you** build your static websites?",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				57
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1584511,
+				"id_str": "1584511",
+				"name": "Dave DeSandro",
+				"screen_name": "desandro",
+				"location": "Alexandria, VA",
+				"description": "Designer, developer. JavaScript & logos @metafizzyco. Made Masonry, used on Beyoncé's tumblr",
+				"url": "https://t.co/QieHFyq3hZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/QieHFyq3hZ",
+								"expanded_url": "https://desandro.com",
+								"display_url": "desandro.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13748,
+				"friends_count": 378,
+				"listed_count": 800,
+				"created_at": "Tue Mar 20 03:37:42 +0000 2007",
+				"favourites_count": 6319,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 10477,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1063186712925519872/nMek86eq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1063186712925519872/nMek86eq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1584511/1458054771",
+				"profile_link_color": "CC5577",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "554478",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 16,
+			"favorite_count": 139,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 15,
+		"favorite_count": 84,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thread of folks sharing their static site generator setup: https://t.co/WRkXxQHGox"
+	},
+	{
 		"created_at": "Sun Jan 06 22:17:00 +0000 2019",
 		"id": 1082038349349744600,
 		"id_str": "1082038349349744642",
