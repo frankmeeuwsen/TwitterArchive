@@ -1,6 +1,557 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Tue Jan 08 06:24:24 +0000 2019",
+		"id": 1082523397714780200,
+		"id_str": "1082523397714780160",
+		"full_text": "Check die portable monitors @patrickloonstra. Travel light, work hard. https://t.co/TjKaJA1jP7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "patrickloonstra",
+					"name": "Patrick ↨̧̂͋ͤ̊͒ͯ̅ͧ̆̾ͥͭͮ̓̚̚͝͏̴̧̰̠͖̠̯̬͆̒̄ͤ̓͜҉̵̛͔̦ 🕶",
+					"id": 9647022,
+					"id_str": "9647022",
+					"indices": [
+						28,
+						44
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TjKaJA1jP7",
+					"expanded_url": "https://twitter.com/johnonolan/status/1082263975021154304",
+					"display_url": "twitter.com/johnonolan/sta…",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Utrecht | Father | Pearl Jam | Power user of the internet |",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8888,
+			"friends_count": 222,
+			"listed_count": 596,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4940,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60212,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1082263975021154300,
+		"quoted_status_id_str": "1082263975021154304",
+		"quoted_status_permalink": {
+			"url": "https://t.co/TjKaJA1jP7",
+			"expanded": "https://twitter.com/johnonolan/status/1082263975021154304",
+			"display": "twitter.com/johnonolan/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jan 07 13:13:33 +0000 2019",
+			"id": 1082263975021154300,
+			"id_str": "1082263975021154304",
+			"full_text": "Don’t worry. We’re engineers. We travel light. https://t.co/AS876vlDJx",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				46
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1082263922437177300,
+						"id_str": "1082263922437177344",
+						"indices": [
+							47,
+							70
+						],
+						"media_url": "http://pbs.twimg.com/media/DwT5TaoWwAA-hdT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DwT5TaoWwAA-hdT.jpg",
+						"url": "https://t.co/AS876vlDJx",
+						"display_url": "pic.twitter.com/AS876vlDJx",
+						"expanded_url": "https://twitter.com/JohnONolan/status/1082263975021154304/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1082263922437177300,
+						"id_str": "1082263922437177344",
+						"indices": [
+							47,
+							70
+						],
+						"media_url": "http://pbs.twimg.com/media/DwT5TaoWwAA-hdT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DwT5TaoWwAA-hdT.jpg",
+						"url": "https://t.co/AS876vlDJx",
+						"display_url": "pic.twitter.com/AS876vlDJx",
+						"expanded_url": "https://twitter.com/JohnONolan/status/1082263975021154304/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14214338,
+				"id_str": "14214338",
+				"name": "John O'Nolan @ 🇬🇧",
+				"screen_name": "JohnONolan",
+				"location": "Warminster, England",
+				"description": "Founder at @TryGhost - Publishing, open source, independent business.\nProfessionally homeless. Current location: https://t.co/m4YELQ48uo",
+				"url": "https://t.co/PUiU0tCXcg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PUiU0tCXcg",
+								"expanded_url": "https://john.onolan.org",
+								"display_url": "john.onolan.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/m4YELQ48uo",
+								"expanded_url": "http://nomadlist.com/@john",
+								"display_url": "nomadlist.com/@john",
+								"indices": [
+									113,
+									136
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 23175,
+				"friends_count": 176,
+				"listed_count": 1542,
+				"created_at": "Tue Mar 25 09:48:38 +0000 2008",
+				"favourites_count": 3157,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 48342,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EDECE4",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1064595509472456704/XyL-qE64_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1064595509472456704/XyL-qE64_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14214338/1532131228",
+				"profile_link_color": "5BA4E5",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F5F5F5",
+				"profile_text_color": "777777",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "61f1fbf05a80c2ee",
+				"url": "https://api.twitter.com/1.1/geo/id/61f1fbf05a80c2ee.json",
+				"place_type": "city",
+				"name": "Warminster",
+				"full_name": "Warminster, England",
+				"country_code": "GB",
+				"country": "United Kingdom",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-2.213858,
+								51.191158
+							],
+							[
+								-2.148466,
+								51.191158
+							],
+							[
+								-2.148466,
+								51.222055
+							],
+							[
+								-2.213858,
+								51.222055
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 31,
+			"favorite_count": 315,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Check die portable monitors @patrickloonstra. Travel light, work hard. https://t.co/TjKaJA1jP7"
+	},
+	{
+		"created_at": "Mon Jan 07 16:48:34 +0000 2019",
+		"id": 1082318085330272300,
+		"id_str": "1082318085330272256",
+		"full_text": "1 like = 1 tech industry prediction for 2019.\n\nRules are: I’m not going to defend them, however outlandish they might sound. But I’ll try and be sincere. Feel free to add your own! I’ll keep this going while I’m in the air.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 783092,
+			"id_str": "783092",
+			"name": "Ben Werdmuller",
+			"screen_name": "benwerd",
+			"location": "San Francisco Bay Area",
+			"description": "Co-founded @elgg @withknown. Directed west coast investments at @mattervc. Worked at @latakoo @medium. Working on @unlockprotocol. Kindness first. He / him.",
+			"url": "https://t.co/sR4aiZTVfu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sR4aiZTVfu",
+							"expanded_url": "https://werd.io/",
+							"display_url": "werd.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6769,
+			"friends_count": 4716,
+			"listed_count": 458,
+			"created_at": "Tue Feb 20 13:34:20 +0000 2007",
+			"favourites_count": 21663,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 46353,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1040632277770788864/RTIe8ulD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1040632277770788864/RTIe8ulD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/783092/1440331990",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "D4E6F1",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 106,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "1 like = 1 tech industry prediction for 2019.\n\nRules are: I’m not going to defend them, however outlandish they might sound. But I’ll try and be sincere. Feel free to add your own! I’ll keep this going while I’m in the air."
+	},
+	{
+		"created_at": "Mon Jan 07 17:22:07 +0000 2019",
+		"id": 1082326529093308400,
+		"id_str": "1082326529093308417",
+		"full_text": "@fabiobruna @gvenk Toch maar besloten wat meer van het gezin te genieten in de vakantie :-)",
+		"truncated": false,
+		"display_text_range": [
+			19,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "fabiobruna",
+					"name": "Fabio",
+					"id": 14673420,
+					"id_str": "14673420",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "gvenk",
+					"name": "Gerard van Enk",
+					"id": 1789221,
+					"id_str": "1789221",
+					"indices": [
+						12,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1082322696430673900,
+		"in_reply_to_status_id_str": "1082322696430673920",
+		"in_reply_to_user_id": 14673420,
+		"in_reply_to_user_id_str": "14673420",
+		"in_reply_to_screen_name": "fabiobruna",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Utrecht | Father | Pearl Jam | Power user of the internet |",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8888,
+			"friends_count": 222,
+			"listed_count": 596,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4940,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60212,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@fabiobruna @gvenk Toch maar besloten wat meer van het gezin te genieten in de vakantie :-)"
+	},
+	{
 		"created_at": "Mon Jan 07 16:48:34 +0000 2019",
 		"id": 1082318085330272300,
 		"id_str": "1082318085330272256",
