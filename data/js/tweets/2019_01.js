@@ -1,6 +1,694 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Wed Jan 09 19:51:05 +0000 2019",
+		"id": 1083088793983467500,
+		"id_str": "1083088793983467522",
+		"full_text": "Next Level Fred Oster Styleee!!!! https://t.co/gHB3GHDNU6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gHB3GHDNU6",
+					"expanded_url": "https://twitter.com/bedroomflicker/status/1082683968913395712",
+					"display_url": "twitter.com/bedroomflicker…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Utrecht | Father | Pearl Jam | Power user of the internet |",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8888,
+			"friends_count": 223,
+			"listed_count": 595,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4952,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60235,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1082683968913395700,
+		"quoted_status_id_str": "1082683968913395712",
+		"quoted_status_permalink": {
+			"url": "https://t.co/gHB3GHDNU6",
+			"expanded": "https://twitter.com/bedroomflicker/status/1082683968913395712",
+			"display": "twitter.com/bedroomflicker…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 08 17:02:28 +0000 2019",
+			"id": 1082683968913395700,
+			"id_str": "1082683968913395712",
+			"full_text": "This was the best two minutes of my life\n https://t.co/wYY6gjYA22",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				65
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1081846540950478800,
+						"id_str": "1081846540950478848",
+						"indices": [
+							42,
+							65
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1081846540950478848/pu/img/WK0xbeqa2wNKJyhd.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1081846540950478848/pu/img/WK0xbeqa2wNKJyhd.jpg",
+						"url": "https://t.co/wYY6gjYA22",
+						"display_url": "pic.twitter.com/wYY6gjYA22",
+						"expanded_url": "https://twitter.com/kirstill/status/1081846685339475968/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 592,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 592,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 393,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1081846685339476000,
+						"source_status_id_str": "1081846685339475968",
+						"source_user_id": 972101331409305600,
+						"source_user_id_str": "972101331409305600"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1081846540950478800,
+						"id_str": "1081846540950478848",
+						"indices": [
+							42,
+							65
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1081846540950478848/pu/img/WK0xbeqa2wNKJyhd.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1081846540950478848/pu/img/WK0xbeqa2wNKJyhd.jpg",
+						"url": "https://t.co/wYY6gjYA22",
+						"display_url": "pic.twitter.com/wYY6gjYA22",
+						"expanded_url": "https://twitter.com/kirstill/status/1081846685339475968/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 592,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 592,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 393,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1081846685339476000,
+						"source_status_id_str": "1081846685339475968",
+						"source_user_id": 972101331409305600,
+						"source_user_id_str": "972101331409305600",
+						"video_info": {
+							"aspect_ratio": [
+								64,
+								37
+							],
+							"duration_millis": 140000,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1081846540950478848/pu/vid/310x180/6Kbv4ys2WtMKwCp2.mp4?tag=6"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1081846540950478848/pu/pl/vPB5DKDm7BCTpUPE.m3u8?tag=6"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1081846540950478848/pu/vid/622x360/TAhU-qN-_J8xPtuI.mp4?tag=6"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1081846540950478848/pu/vid/1024x592/0aE_n2HtzBmMxSmi.mp4?tag=6"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 972101331409305600,
+								"id_str": "972101331409305600",
+								"name": "👀",
+								"screen_name": "kirstill",
+								"location": "",
+								"description": "",
+								"url": null,
+								"entities": {
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 229,
+								"friends_count": 93,
+								"listed_count": 1,
+								"created_at": "Fri Mar 09 13:26:33 +0000 2018",
+								"favourites_count": 3396,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": false,
+								"verified": false,
+								"statuses_count": 3390,
+								"lang": "ru",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "F5F8FA",
+								"profile_background_image_url": null,
+								"profile_background_image_url_https": null,
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1082173184902877184/iV7K-pB__normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082173184902877184/iV7K-pB__normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/972101331409305600/1521402713",
+								"profile_link_color": "1DA1F2",
+								"profile_sidebar_border_color": "C0DEED",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": true,
+								"default_profile": true,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2881890708,
+				"id_str": "2881890708",
+				"name": "triv 🥀",
+				"screen_name": "bedroomflicker",
+				"location": "Liam/4",
+				"description": "Since We're Alone & Home With You stan",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 46305,
+				"friends_count": 19403,
+				"listed_count": 1595,
+				"created_at": "Wed Oct 29 10:24:10 +0000 2014",
+				"favourites_count": 338832,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 146839,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1075247935657517057/cpVZ0E3c_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1075247935657517057/cpVZ0E3c_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2881890708/1543844719",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 200942,
+			"favorite_count": 472875,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Next Level Fred Oster Styleee!!!! https://t.co/gHB3GHDNU6"
+	},
+	{
+		"created_at": "Wed Jan 09 16:58:10 +0000 2019",
+		"id": 1083045277030801400,
+		"id_str": "1083045277030801408",
+		"full_text": "And a selection of yesterday's Las Vegas #CES carpet #anthrogeek https://t.co/nvy7xHylmA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CES",
+					"indices": [
+						41,
+						45
+					]
+				},
+				{
+					"text": "anthrogeek",
+					"indices": [
+						53,
+						64
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1083045266020655100,
+					"id_str": "1083045266020655104",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/Dwe_7mTUYAAfWWo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dwe_7mTUYAAfWWo.jpg",
+					"url": "https://t.co/nvy7xHylmA",
+					"display_url": "pic.twitter.com/nvy7xHylmA",
+					"expanded_url": "https://twitter.com/feraldata/status/1083045277030801408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1564,
+							"h": 1564,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1083045266020655100,
+					"id_str": "1083045266020655104",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/Dwe_7mTUYAAfWWo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dwe_7mTUYAAfWWo.jpg",
+					"url": "https://t.co/nvy7xHylmA",
+					"display_url": "pic.twitter.com/nvy7xHylmA",
+					"expanded_url": "https://twitter.com/feraldata/status/1083045277030801408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1564,
+							"h": 1564,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 96049182,
+			"id_str": "96049182",
+			"name": "Genevieve Bell",
+			"screen_name": "feraldata",
+			"location": "pick an airport, any airport",
+			"description": "Anthropologist, technologist, futurist, Prof, & Intel Sr Fellow. intersection of tech & culture. Dir @3AInstitute #anthrogeek #bookfairy always my views.",
+			"url": "https://t.co/QgDEvXmCNA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QgDEvXmCNA",
+							"expanded_url": "http://www.3aInstitute.org",
+							"display_url": "3aInstitute.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23021,
+			"friends_count": 1303,
+			"listed_count": 1059,
+			"created_at": "Fri Dec 11 03:38:59 +0000 2009",
+			"favourites_count": 23546,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14940,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/884756459917017090/QiRBoSi2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/884756459917017090/QiRBoSi2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/96049182/1545988813",
+			"profile_link_color": "081D24",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "8fa6d7a33b83ef26",
+			"url": "https://api.twitter.com/1.1/geo/id/8fa6d7a33b83ef26.json",
+			"place_type": "city",
+			"name": "Paradise",
+			"full_name": "Paradise, NV",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-115.2092535,
+							35.984784
+						],
+						[
+							-115.0610763,
+							35.984784
+						],
+						[
+							-115.0610763,
+							36.137145
+						],
+						[
+							-115.2092535,
+							36.137145
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "And a selection of yesterday's Las Vegas #CES carpet #anthrogeek https://t.co/nvy7xHylmA"
+	},
+	{
+		"created_at": "Wed Jan 09 16:58:37 +0000 2019",
+		"id": 1083045389438206000,
+		"id_str": "1083045389438205957",
+		"full_text": "@gtdsummit very clever to follow me and peak my interest in the summit 😉",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gtdsummit",
+					"name": "gtdsummit",
+					"id": 1067520033637711900,
+					"id_str": "1067520033637711872",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1067520033637711900,
+		"in_reply_to_user_id_str": "1067520033637711872",
+		"in_reply_to_screen_name": "gtdsummit",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Utrecht | Father | Pearl Jam | Power user of the internet |",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8888,
+			"friends_count": 223,
+			"listed_count": 595,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4952,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60235,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@gtdsummit very clever to follow me and peak my interest in the summit 😉"
+	},
+	{
 		"created_at": "Wed Jan 09 16:58:10 +0000 2019",
 		"id": 1083045277030801400,
 		"id_str": "1083045277030801408",
