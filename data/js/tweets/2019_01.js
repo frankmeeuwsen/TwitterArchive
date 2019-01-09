@@ -1,6 +1,273 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Wed Jan 09 07:04:29 +0000 2019",
+		"id": 1082895870432034800,
+		"id_str": "1082895870432034816",
+		"full_text": "Ergo, je hebt dus wél iets te verbergen / beschermen &gt;&gt; \n\n‘Vrienden ‘reinigen’ hun Facebook- en Instagram-accounts, nadat Bolsonaro beloofde ‘al het rode uitschot’ te verbannen of in de gevangenis te zetten.’ https://t.co/7KtPEBZdf0 #privacy #data #context",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "privacy",
+					"indices": [
+						239,
+						247
+					]
+				},
+				{
+					"text": "data",
+					"indices": [
+						248,
+						253
+					]
+				},
+				{
+					"text": "context",
+					"indices": [
+						254,
+						262
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7KtPEBZdf0",
+					"expanded_url": "https://www.groene.nl/artikel/de-lelijke-smoel-van-het-nieuwe-brazilie?utm_source=De+Groene+Amsterdammer&utm_campaign=f43f757aa8-Dagelijks-2019-01-09&utm_medium=email&utm_term=0_853cea572a-f43f757aa8-71634969",
+					"display_url": "groene.nl/artikel/de-lel…",
+					"indices": [
+						215,
+						238
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9880322,
+			"id_str": "9880322",
+			"name": "brechtjedeleij",
+			"screen_name": "brechtjedeleij",
+			"location": "Amsterdam",
+			"description": "Head of Product @independer | Mobile expert @bdigitized | Lady Geek | Shares stuff on mobile, tech, eCommerce, and (social)media | Jokes around | own views",
+			"url": "https://t.co/Yhd8uxAeoG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Yhd8uxAeoG",
+							"expanded_url": "https://www.b-digitized.com/",
+							"display_url": "b-digitized.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15743,
+			"friends_count": 4670,
+			"listed_count": 616,
+			"created_at": "Fri Nov 02 10:09:10 +0000 2007",
+			"favourites_count": 8028,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 139221,
+			"lang": "nl",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082615097552445440/vd9xYO8b_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082615097552445440/vd9xYO8b_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9880322/1515223863",
+			"profile_link_color": "1A1A18",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "5d05ebb9eec65750",
+			"url": "https://api.twitter.com/1.1/geo/id/5d05ebb9eec65750.json",
+			"place_type": "city",
+			"name": "Castricum",
+			"full_name": "Castricum, Nederland",
+			"country_code": "NL",
+			"country": "The Netherlands",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							4.5816303,
+							52.526661
+						],
+						[
+							4.782061,
+							52.526661
+						],
+						[
+							4.782061,
+							52.5928098
+						],
+						[
+							4.5816303,
+							52.5928098
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Ergo, je hebt dus wél iets te verbergen / beschermen &gt;&gt; \n\n‘Vrienden ‘reinigen’ hun Facebook- en Instagram-accounts, nadat Bolsonaro beloofde ‘al het rode uitschot’ te verbannen of in de gevangenis te zetten.’ https://t.co/7KtPEBZdf0 #privacy #data #context"
+	},
+	{
+		"created_at": "Wed Jan 09 07:26:13 +0000 2019",
+		"id": 1082901339645059100,
+		"id_str": "1082901339645059073",
+		"full_text": "@TadekSolarz “Ja maar het is zo handig”.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TadekSolarz",
+					"name": "Tadek Solarz",
+					"id": 26734588,
+					"id_str": "26734588",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1082900595403616300,
+		"in_reply_to_status_id_str": "1082900595403616257",
+		"in_reply_to_user_id": 26734588,
+		"in_reply_to_user_id_str": "26734588",
+		"in_reply_to_screen_name": "TadekSolarz",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Utrecht | Father | Pearl Jam | Power user of the internet |",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8887,
+			"friends_count": 221,
+			"listed_count": 593,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4946,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60224,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@TadekSolarz “Ja maar het is zo handig”."
+	},
+	{
 		"created_at": "Wed Jan 09 06:36:44 +0000 2019",
 		"id": 1082888888341934100,
 		"id_str": "1082888888341934080",
