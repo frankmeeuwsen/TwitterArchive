@@ -1,6 +1,334 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Wed Jan 09 16:58:10 +0000 2019",
+		"id": 1083045277030801400,
+		"id_str": "1083045277030801408",
+		"full_text": "And a selection of yesterday's Las Vegas #CES carpet #anthrogeek https://t.co/nvy7xHylmA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CES",
+					"indices": [
+						41,
+						45
+					]
+				},
+				{
+					"text": "anthrogeek",
+					"indices": [
+						53,
+						64
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1083045266020655100,
+					"id_str": "1083045266020655104",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/Dwe_7mTUYAAfWWo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dwe_7mTUYAAfWWo.jpg",
+					"url": "https://t.co/nvy7xHylmA",
+					"display_url": "pic.twitter.com/nvy7xHylmA",
+					"expanded_url": "https://twitter.com/feraldata/status/1083045277030801408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1564,
+							"h": 1564,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1083045266020655100,
+					"id_str": "1083045266020655104",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/Dwe_7mTUYAAfWWo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dwe_7mTUYAAfWWo.jpg",
+					"url": "https://t.co/nvy7xHylmA",
+					"display_url": "pic.twitter.com/nvy7xHylmA",
+					"expanded_url": "https://twitter.com/feraldata/status/1083045277030801408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1564,
+							"h": 1564,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 96049182,
+			"id_str": "96049182",
+			"name": "Genevieve Bell",
+			"screen_name": "feraldata",
+			"location": "pick an airport, any airport",
+			"description": "Anthropologist, technologist, futurist, Prof, & Intel Sr Fellow. intersection of tech & culture. Dir @3AInstitute #anthrogeek #bookfairy always my views.",
+			"url": "https://t.co/QgDEvXmCNA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QgDEvXmCNA",
+							"expanded_url": "http://www.3aInstitute.org",
+							"display_url": "3aInstitute.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23019,
+			"friends_count": 1303,
+			"listed_count": 1059,
+			"created_at": "Fri Dec 11 03:38:59 +0000 2009",
+			"favourites_count": 23549,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14940,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/884756459917017090/QiRBoSi2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/884756459917017090/QiRBoSi2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/96049182/1545988813",
+			"profile_link_color": "081D24",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "8fa6d7a33b83ef26",
+			"url": "https://api.twitter.com/1.1/geo/id/8fa6d7a33b83ef26.json",
+			"place_type": "city",
+			"name": "Paradise",
+			"full_name": "Paradise, NV",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-115.2092535,
+							35.984784
+						],
+						[
+							-115.0610763,
+							35.984784
+						],
+						[
+							-115.0610763,
+							36.137145
+						],
+						[
+							-115.2092535,
+							36.137145
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "And a selection of yesterday's Las Vegas #CES carpet #anthrogeek https://t.co/nvy7xHylmA"
+	},
+	{
+		"created_at": "Wed Jan 09 16:58:37 +0000 2019",
+		"id": 1083045389438206000,
+		"id_str": "1083045389438205957",
+		"full_text": "@gtdsummit very clever to follow me and peak my interest in the summit 😉",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gtdsummit",
+					"name": "gtdsummit",
+					"id": 1067520033637711900,
+					"id_str": "1067520033637711872",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1067520033637711900,
+		"in_reply_to_user_id_str": "1067520033637711872",
+		"in_reply_to_screen_name": "gtdsummit",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Utrecht | Father | Pearl Jam | Power user of the internet |",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8888,
+			"friends_count": 223,
+			"listed_count": 593,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4950,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60234,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@gtdsummit very clever to follow me and peak my interest in the summit 😉"
+	},
+	{
 		"created_at": "Wed Jan 09 11:36:20 +0000 2019",
 		"id": 1082964284924137500,
 		"id_str": "1082964284924137472",
