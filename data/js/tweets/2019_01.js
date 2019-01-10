@@ -1,6 +1,247 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Thu Jan 10 11:38:21 +0000 2019",
+		"id": 1083327181256826900,
+		"id_str": "1083327181256826880",
+		"full_text": "Ik vraag me af wat het verdwijnen van het merk XS4ALL betekent voor de medewerkers, eigen cultuur en eigen waarden die ze er op nahouden. De emotie bij abonnees begrijp ik en onderschrijf ik. Maar wat gaat dit voor de toekomstige diensten en service doen?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			255
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Utrecht | Father | Pearl Jam | Power user of the internet |",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8888,
+			"friends_count": 224,
+			"listed_count": 593,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4950,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60242,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "Ik vraag me af wat het verdwijnen van het merk XS4ALL betekent voor de medewerkers, eigen cultuur en eigen waarden die ze er op nahouden. De emotie bij abonnees begrijp ik en onderschrijf ik. Maar wat gaat dit voor de toekomstige diensten en service doen?"
+	},
+	{
+		"created_at": "Thu Jan 10 11:35:01 +0000 2019",
+		"id": 1083326339153907700,
+		"id_str": "1083326339153907714",
+		"full_text": "@Milkshake @SETUPUtrecht @SURF_NL @TiVre_Utrecht @PopTechWorks Ik ben er bij, lang geleden dat we elkaar hebben gesproken!",
+		"truncated": false,
+		"display_text_range": [
+			63,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Milkshake",
+					"name": "Erik Huizer",
+					"id": 6995192,
+					"id_str": "6995192",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "SETUPUtrecht",
+					"name": "SETUP Utrecht",
+					"id": 125651264,
+					"id_str": "125651264",
+					"indices": [
+						11,
+						24
+					]
+				},
+				{
+					"screen_name": "SURF_NL",
+					"name": "SURF",
+					"id": 19232850,
+					"id_str": "19232850",
+					"indices": [
+						25,
+						33
+					]
+				},
+				{
+					"screen_name": "TiVre_Utrecht",
+					"name": "TivoliVredenburg",
+					"id": 1354232772,
+					"id_str": "1354232772",
+					"indices": [
+						34,
+						48
+					]
+				},
+				{
+					"screen_name": "PopTechWorks",
+					"name": "Virginia Eubanks",
+					"id": 1161442118,
+					"id_str": "1161442118",
+					"indices": [
+						49,
+						62
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1083309759430840300,
+		"in_reply_to_status_id_str": "1083309759430840320",
+		"in_reply_to_user_id": 6995192,
+		"in_reply_to_user_id_str": "6995192",
+		"in_reply_to_screen_name": "Milkshake",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Utrecht | Father | Pearl Jam | Power user of the internet |",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8888,
+			"friends_count": 224,
+			"listed_count": 593,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4950,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60242,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@Milkshake @SETUPUtrecht @SURF_NL @TiVre_Utrecht @PopTechWorks Ik ben er bij, lang geleden dat we elkaar hebben gesproken!"
+	},
+	{
 		"created_at": "Wed Jan 09 22:25:23 +0000 2019",
 		"id": 1083127624891854800,
 		"id_str": "1083127624891854849",
