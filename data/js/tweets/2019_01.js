@@ -1,6 +1,230 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Thu Jan 10 12:03:30 +0000 2019",
+		"id": 1083333508536418300,
+		"id_str": "1083333508536418305",
+		"full_text": "Oproep: heb je nog een website bij #xs4all (gemaakt voor 2000)? Laat het ons weten, dan nemen we die graag op in het #webarchief @KB_Nederland  #bibliotheek voor onze collectie #webarcheologie! https://t.co/h10XhxENZz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "xs4all",
+					"indices": [
+						35,
+						42
+					]
+				},
+				{
+					"text": "webarchief",
+					"indices": [
+						117,
+						128
+					]
+				},
+				{
+					"text": "bibliotheek",
+					"indices": [
+						144,
+						156
+					]
+				},
+				{
+					"text": "webarcheologie",
+					"indices": [
+						177,
+						192
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KB_Nederland",
+					"name": "KB Nederland",
+					"id": 52443287,
+					"id_str": "52443287",
+					"indices": [
+						129,
+						142
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1083333373643448300,
+					"id_str": "1083333373643448320",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DwjF9q1X4AAn4m5.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DwjF9q1X4AAn4m5.jpg",
+					"url": "https://t.co/h10XhxENZz",
+					"display_url": "pic.twitter.com/h10XhxENZz",
+					"expanded_url": "https://twitter.com/keesone/status/1083333508536418305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 206,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 206,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 206,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1083333373643448300,
+					"id_str": "1083333373643448320",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DwjF9q1X4AAn4m5.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DwjF9q1X4AAn4m5.jpg",
+					"url": "https://t.co/h10XhxENZz",
+					"display_url": "pic.twitter.com/h10XhxENZz",
+					"expanded_url": "https://twitter.com/keesone/status/1083333508536418305/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 206,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 206,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 206,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							250,
+							103
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DwjF9q1X4AAn4m5.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15970999,
+			"id_str": "15970999",
+			"name": "Kees Teszelszky",
+			"screen_name": "keesone",
+			"location": "The Hague, The Netherlands",
+			"description": "| Curator Digital Collections @KB_Nederland | Web #archaeology | https://t.co/pIaH8D1n1O | #earlymodern: @teszelszky | What’s past is prologue |",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pIaH8D1n1O",
+							"expanded_url": "http://lab.kb.nl/person/dr-kees-teszelszky",
+							"display_url": "lab.kb.nl/person/dr-kees…",
+							"indices": [
+								65,
+								88
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 708,
+			"friends_count": 1264,
+			"listed_count": 31,
+			"created_at": "Sun Aug 24 18:05:00 +0000 2008",
+			"favourites_count": 3781,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3486,
+			"lang": "nl",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1020417469243166721/IyKx41sW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1020417469243166721/IyKx41sW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15970999/1456393476",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 9,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Oproep: heb je nog een website bij #xs4all (gemaakt voor 2000)? Laat het ons weten, dan nemen we die graag op in het #webarchief @KB_Nederland  #bibliotheek voor onze collectie #webarcheologie! https://t.co/h10XhxENZz"
+	},
+	{
 		"created_at": "Thu Jan 10 11:38:21 +0000 2019",
 		"id": 1083327181256826900,
 		"id_str": "1083327181256826880",
