@@ -1,6 +1,996 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Thu Jan 10 21:02:00 +0000 2019",
+		"id": 1083469028319023100,
+		"id_str": "1083469028319023105",
+		"full_text": "Het Biff Tannen effect. https://t.co/HmaHn6F3Ce",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HmaHn6F3Ce",
+					"expanded_url": "https://twitter.com/_AlexHirsch/status/1083140191362048000",
+					"display_url": "twitter.com/_AlexHirsch/st…",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Utrecht | Father | Pearl Jam | Power user of the internet |",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8887,
+			"friends_count": 224,
+			"listed_count": 593,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4953,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60245,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1083140191362048000,
+		"quoted_status_id_str": "1083140191362048000",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HmaHn6F3Ce",
+			"expanded": "https://twitter.com/_AlexHirsch/status/1083140191362048000",
+			"display": "twitter.com/_AlexHirsch/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jan 09 23:15:20 +0000 2019",
+			"id": 1083140191362048000,
+			"id_str": "1083140191362048000",
+			"full_text": "What the fresh hell. This is REAL. Filmed in 1958- about a conman who grifts a small town of suckers into building a wall. History not subtle enough for you? GUESS THE GRIFTER'S NAME \n(And watch until the end) https://t.co/6FA3p6KC00",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				209
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1083140167282479100,
+						"id_str": "1083140167282479104",
+						"indices": [
+							210,
+							233
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1083140167282479104/pu/img/aEMZg0gH4WscWezm.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1083140167282479104/pu/img/aEMZg0gH4WscWezm.jpg",
+						"url": "https://t.co/6FA3p6KC00",
+						"display_url": "pic.twitter.com/6FA3p6KC00",
+						"expanded_url": "https://twitter.com/_AlexHirsch/status/1083140191362048000/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1083140167282479100,
+						"id_str": "1083140167282479104",
+						"indices": [
+							210,
+							233
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1083140167282479104/pu/img/aEMZg0gH4WscWezm.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1083140167282479104/pu/img/aEMZg0gH4WscWezm.jpg",
+						"url": "https://t.co/6FA3p6KC00",
+						"display_url": "pic.twitter.com/6FA3p6KC00",
+						"expanded_url": "https://twitter.com/_AlexHirsch/status/1083140191362048000/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 138171,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1083140167282479104/pu/vid/320x180/mtBhFxUpjy8wBBvC.mp4?tag=8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1083140167282479104/pu/vid/640x360/3GVGNAN1roE-b5T-.mp4?tag=8"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1083140167282479104/pu/pl/KjwnjVPEJVgJTGCN.m3u8?tag=8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 81285400,
+				"id_str": "81285400",
+				"name": "Alex Hirsch",
+				"screen_name": "_AlexHirsch",
+				"location": "Los Angeles/ Gravity Falls",
+				"description": "Created a TV show called Gravity Falls. Currently cooking up new mischief",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 542712,
+				"friends_count": 99,
+				"listed_count": 1151,
+				"created_at": "Sat Oct 10 05:06:00 +0000 2009",
+				"favourites_count": 43689,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 7023,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/661330385465245696/3rnsJokZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/661330385465245696/3rnsJokZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/81285400/1466816292",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 37348,
+			"favorite_count": 80879,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "sv",
+		"text": "Het Biff Tannen effect. https://t.co/HmaHn6F3Ce"
+	},
+	{
+		"created_at": "Thu Jan 10 10:17:40 +0000 2019",
+		"id": 1083306876534775800,
+		"id_str": "1083306876534775809",
+		"full_text": "Tijd om op te stappen bij #xs4all nu #kpn heeft besloten het 'merk' op te heffen. Sorry, maar xs4all is geen 'merk'. Laten we opnieuw beginnen en de historische fout van 1998 herstellen.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "xs4all",
+					"indices": [
+						26,
+						33
+					]
+				},
+				{
+					"text": "kpn",
+					"indices": [
+						37,
+						41
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8352352,
+			"id_str": "8352352",
+			"name": "Geert Lovink",
+			"screen_name": "glovink",
+			"location": "Amsterdam, The Netherlands",
+			"description": "media theorist/net critic",
+			"url": "http://t.co/N1zSmN7jPI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/N1zSmN7jPI",
+							"expanded_url": "http://www.networkcultures.org/geert",
+							"display_url": "networkcultures.org/geert",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7382,
+			"friends_count": 539,
+			"listed_count": 330,
+			"created_at": "Wed Aug 22 08:15:28 +0000 2007",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3409,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061901364148817920/EmiBjMpd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061901364148817920/EmiBjMpd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8352352/1541956265",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 26,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "nl",
+		"text": "Tijd om op te stappen bij #xs4all nu #kpn heeft besloten het 'merk' op te heffen. Sorry, maar xs4all is geen 'merk'. Laten we opnieuw beginnen en de historische fout van 1998 herstellen."
+	},
+	{
+		"created_at": "Thu Jan 10 16:19:52 +0000 2019",
+		"id": 1083398027317035000,
+		"id_str": "1083398027317035008",
+		"full_text": "@Pipblom @sxsw Wow wat gaaf!",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Pipblom",
+					"name": "Pip",
+					"id": 261419782,
+					"id_str": "261419782",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "sxsw",
+					"name": "SXSW",
+					"id": 784304,
+					"id_str": "784304",
+					"indices": [
+						9,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1083372338148724700,
+		"in_reply_to_status_id_str": "1083372338148724736",
+		"in_reply_to_user_id": 261419782,
+		"in_reply_to_user_id_str": "261419782",
+		"in_reply_to_screen_name": "Pipblom",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Utrecht | Father | Pearl Jam | Power user of the internet |",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8887,
+			"friends_count": 224,
+			"listed_count": 593,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4953,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60245,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@Pipblom @sxsw Wow wat gaaf!"
+	},
+	{
+		"created_at": "Thu Jan 10 12:03:30 +0000 2019",
+		"id": 1083333508536418300,
+		"id_str": "1083333508536418305",
+		"full_text": "Oproep: heb je nog een website bij #xs4all (gemaakt voor 2000)? Laat het ons weten, dan nemen we die graag op in het #webarchief @KB_Nederland  #bibliotheek voor onze collectie #webarcheologie! https://t.co/h10XhxENZz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "xs4all",
+					"indices": [
+						35,
+						42
+					]
+				},
+				{
+					"text": "webarchief",
+					"indices": [
+						117,
+						128
+					]
+				},
+				{
+					"text": "bibliotheek",
+					"indices": [
+						144,
+						156
+					]
+				},
+				{
+					"text": "webarcheologie",
+					"indices": [
+						177,
+						192
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KB_Nederland",
+					"name": "KB Nederland",
+					"id": 52443287,
+					"id_str": "52443287",
+					"indices": [
+						129,
+						142
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1083333373643448300,
+					"id_str": "1083333373643448320",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DwjF9q1X4AAn4m5.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DwjF9q1X4AAn4m5.jpg",
+					"url": "https://t.co/h10XhxENZz",
+					"display_url": "pic.twitter.com/h10XhxENZz",
+					"expanded_url": "https://twitter.com/keesone/status/1083333508536418305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 206,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 206,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 206,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1083333373643448300,
+					"id_str": "1083333373643448320",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DwjF9q1X4AAn4m5.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DwjF9q1X4AAn4m5.jpg",
+					"url": "https://t.co/h10XhxENZz",
+					"display_url": "pic.twitter.com/h10XhxENZz",
+					"expanded_url": "https://twitter.com/keesone/status/1083333508536418305/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 206,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 206,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 206,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							250,
+							103
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DwjF9q1X4AAn4m5.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15970999,
+			"id_str": "15970999",
+			"name": "Kees Teszelszky",
+			"screen_name": "keesone",
+			"location": "The Hague, The Netherlands",
+			"description": "| Curator Digital Collections @KB_Nederland | Web #archaeology | https://t.co/pIaH8D1n1O | #earlymodern: @teszelszky | What’s past is prologue |",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pIaH8D1n1O",
+							"expanded_url": "http://lab.kb.nl/person/dr-kees-teszelszky",
+							"display_url": "lab.kb.nl/person/dr-kees…",
+							"indices": [
+								65,
+								88
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 715,
+			"friends_count": 1269,
+			"listed_count": 31,
+			"created_at": "Sun Aug 24 18:05:00 +0000 2008",
+			"favourites_count": 3797,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3498,
+			"lang": "nl",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1020417469243166721/IyKx41sW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1020417469243166721/IyKx41sW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15970999/1456393476",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 51,
+		"favorite_count": 27,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Oproep: heb je nog een website bij #xs4all (gemaakt voor 2000)? Laat het ons weten, dan nemen we die graag op in het #webarchief @KB_Nederland  #bibliotheek voor onze collectie #webarcheologie! https://t.co/h10XhxENZz"
+	},
+	{
+		"created_at": "Thu Jan 10 11:38:21 +0000 2019",
+		"id": 1083327181256826900,
+		"id_str": "1083327181256826880",
+		"full_text": "Ik vraag me af wat het verdwijnen van het merk XS4ALL betekent voor de medewerkers, eigen cultuur en eigen waarden die ze er op nahouden. De emotie bij abonnees begrijp ik en onderschrijf ik. Maar wat gaat dit voor de toekomstige diensten en service doen?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			255
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Utrecht | Father | Pearl Jam | Power user of the internet |",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8887,
+			"friends_count": 224,
+			"listed_count": 593,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4953,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60245,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "Ik vraag me af wat het verdwijnen van het merk XS4ALL betekent voor de medewerkers, eigen cultuur en eigen waarden die ze er op nahouden. De emotie bij abonnees begrijp ik en onderschrijf ik. Maar wat gaat dit voor de toekomstige diensten en service doen?"
+	},
+	{
+		"created_at": "Thu Jan 10 11:35:01 +0000 2019",
+		"id": 1083326339153907700,
+		"id_str": "1083326339153907714",
+		"full_text": "@Milkshake @SETUPUtrecht @SURF_NL @TiVre_Utrecht @PopTechWorks Ik ben er bij, lang geleden dat we elkaar hebben gesproken!",
+		"truncated": false,
+		"display_text_range": [
+			63,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Milkshake",
+					"name": "Erik Huizer",
+					"id": 6995192,
+					"id_str": "6995192",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "SETUPUtrecht",
+					"name": "SETUP Utrecht",
+					"id": 125651264,
+					"id_str": "125651264",
+					"indices": [
+						11,
+						24
+					]
+				},
+				{
+					"screen_name": "SURF_NL",
+					"name": "SURF",
+					"id": 19232850,
+					"id_str": "19232850",
+					"indices": [
+						25,
+						33
+					]
+				},
+				{
+					"screen_name": "TiVre_Utrecht",
+					"name": "TivoliVredenburg",
+					"id": 1354232772,
+					"id_str": "1354232772",
+					"indices": [
+						34,
+						48
+					]
+				},
+				{
+					"screen_name": "PopTechWorks",
+					"name": "Virginia Eubanks",
+					"id": 1161442118,
+					"id_str": "1161442118",
+					"indices": [
+						49,
+						62
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1083309759430840300,
+		"in_reply_to_status_id_str": "1083309759430840320",
+		"in_reply_to_user_id": 6995192,
+		"in_reply_to_user_id_str": "6995192",
+		"in_reply_to_screen_name": "Milkshake",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Utrecht | Father | Pearl Jam | Power user of the internet |",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8887,
+			"friends_count": 224,
+			"listed_count": 593,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4953,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60245,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@Milkshake @SETUPUtrecht @SURF_NL @TiVre_Utrecht @PopTechWorks Ik ben er bij, lang geleden dat we elkaar hebben gesproken!"
+	},
+	{
 		"created_at": "Thu Jan 10 10:17:40 +0000 2019",
 		"id": 1083306876534775800,
 		"id_str": "1083306876534775809",
