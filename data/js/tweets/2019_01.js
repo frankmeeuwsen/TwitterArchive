@@ -1,6 +1,346 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Thu Jan 10 16:19:52 +0000 2019",
+		"id": 1083398027317035000,
+		"id_str": "1083398027317035008",
+		"full_text": "@Pipblom @sxsw Wow wat gaaf!",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Pipblom",
+					"name": "Pip",
+					"id": 261419782,
+					"id_str": "261419782",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "sxsw",
+					"name": "SXSW",
+					"id": 784304,
+					"id_str": "784304",
+					"indices": [
+						9,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1083372338148724700,
+		"in_reply_to_status_id_str": "1083372338148724736",
+		"in_reply_to_user_id": 261419782,
+		"in_reply_to_user_id_str": "261419782",
+		"in_reply_to_screen_name": "Pipblom",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Utrecht | Father | Pearl Jam | Power user of the internet |",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8887,
+			"friends_count": 224,
+			"listed_count": 593,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4951,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60243,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1535224303",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@Pipblom @sxsw Wow wat gaaf!"
+	},
+	{
+		"created_at": "Thu Jan 10 12:03:30 +0000 2019",
+		"id": 1083333508536418300,
+		"id_str": "1083333508536418305",
+		"full_text": "Oproep: heb je nog een website bij #xs4all (gemaakt voor 2000)? Laat het ons weten, dan nemen we die graag op in het #webarchief @KB_Nederland  #bibliotheek voor onze collectie #webarcheologie! https://t.co/h10XhxENZz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "xs4all",
+					"indices": [
+						35,
+						42
+					]
+				},
+				{
+					"text": "webarchief",
+					"indices": [
+						117,
+						128
+					]
+				},
+				{
+					"text": "bibliotheek",
+					"indices": [
+						144,
+						156
+					]
+				},
+				{
+					"text": "webarcheologie",
+					"indices": [
+						177,
+						192
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KB_Nederland",
+					"name": "KB Nederland",
+					"id": 52443287,
+					"id_str": "52443287",
+					"indices": [
+						129,
+						142
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1083333373643448300,
+					"id_str": "1083333373643448320",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DwjF9q1X4AAn4m5.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DwjF9q1X4AAn4m5.jpg",
+					"url": "https://t.co/h10XhxENZz",
+					"display_url": "pic.twitter.com/h10XhxENZz",
+					"expanded_url": "https://twitter.com/keesone/status/1083333508536418305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 206,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 206,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 206,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1083333373643448300,
+					"id_str": "1083333373643448320",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DwjF9q1X4AAn4m5.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DwjF9q1X4AAn4m5.jpg",
+					"url": "https://t.co/h10XhxENZz",
+					"display_url": "pic.twitter.com/h10XhxENZz",
+					"expanded_url": "https://twitter.com/keesone/status/1083333508536418305/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 206,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 206,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 206,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							250,
+							103
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DwjF9q1X4AAn4m5.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15970999,
+			"id_str": "15970999",
+			"name": "Kees Teszelszky",
+			"screen_name": "keesone",
+			"location": "The Hague, The Netherlands",
+			"description": "| Curator Digital Collections @KB_Nederland | Web #archaeology | https://t.co/pIaH8D1n1O | #earlymodern: @teszelszky | What’s past is prologue |",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pIaH8D1n1O",
+							"expanded_url": "http://lab.kb.nl/person/dr-kees-teszelszky",
+							"display_url": "lab.kb.nl/person/dr-kees…",
+							"indices": [
+								65,
+								88
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 711,
+			"friends_count": 1267,
+			"listed_count": 31,
+			"created_at": "Sun Aug 24 18:05:00 +0000 2008",
+			"favourites_count": 3785,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3488,
+			"lang": "nl",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1020417469243166721/IyKx41sW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1020417469243166721/IyKx41sW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15970999/1456393476",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 17,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Oproep: heb je nog een website bij #xs4all (gemaakt voor 2000)? Laat het ons weten, dan nemen we die graag op in het #webarchief @KB_Nederland  #bibliotheek voor onze collectie #webarcheologie! https://t.co/h10XhxENZz"
+	},
+	{
 		"created_at": "Thu Jan 10 12:03:30 +0000 2019",
 		"id": 1083333508536418300,
 		"id_str": "1083333508536418305",
