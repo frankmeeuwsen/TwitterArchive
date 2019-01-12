@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Fri Jan 11 14:36:03 +0000 2019",
+		"id": 1083734288741384200,
+		"id_str": "1084222396477911040",
+		"full_text": "This year we should all show our process more... https://t.co/7dTpyQBtQs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1083734226078494700,
+					"id_str": "1083734226078494720",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1083734226078494720/pu/img/yVUvaCXQJzPhlF8M.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1083734226078494720/pu/img/yVUvaCXQJzPhlF8M.jpg",
+					"url": "https://t.co/7dTpyQBtQs",
+					"display_url": "pic.twitter.com/7dTpyQBtQs",
+					"expanded_url": "https://twitter.com/iamryanmcleod/status/1083734288741384193/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1083734226078494700,
+					"id_str": "1083734226078494720",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1083734226078494720/pu/img/yVUvaCXQJzPhlF8M.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1083734226078494720/pu/img/yVUvaCXQJzPhlF8M.jpg",
+					"url": "https://t.co/7dTpyQBtQs",
+					"display_url": "pic.twitter.com/7dTpyQBtQs",
+					"expanded_url": "https://twitter.com/iamryanmcleod/status/1083734288741384193/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 25960,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1083734226078494720/pu/vid/480x480/QTK7J9wsOQj2YPr1.mp4?tag=8"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1083734226078494720/pu/pl/uQfRS3bor4Ftj01k.m3u8?tag=8"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1083734226078494720/pu/vid/320x320/PRPXQGzkbSqF5iM_.mp4?tag=8"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1083734226078494720/pu/vid/720x720/C8BkrbBDN6TXPL5K.mp4?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2397824588,
+			"id_str": "2397824588",
+			"name": "Ryan McLeod",
+			"screen_name": "iamryanmcleod",
+			"location": "Dundee",
+			"description": "A designer and director @agencyofnone also a podcaster @cccdundee",
+			"url": "https://t.co/ViqYQFY2qc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ViqYQFY2qc",
+							"expanded_url": "http://agencyofnone.com",
+							"display_url": "agencyofnone.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2300,
+			"friends_count": 472,
+			"listed_count": 16,
+			"created_at": "Wed Mar 19 12:59:39 +0000 2014",
+			"favourites_count": 703,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 832,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "007AC3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/980473828219523074/ovHAy2SJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980473828219523074/ovHAy2SJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2397824588/1463050065",
+			"profile_link_color": "893BF5",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11416,
+		"favorite_count": 47125,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This year we should all show our process more... https://t.co/7dTpyQBtQs"
+	},
+	{
 		"created_at": "Sat Jan 12 21:33:53 +0000 2019",
 		"id": 1084201827581730800,
 		"id_str": "1084201827581730816",
