@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sat Jan 12 16:02:01 +0000 2019",
+		"id": 1084118308696268800,
+		"id_str": "1084397983813324801",
+		"full_text": "“What do we want?”\n“Justice for our boys”\n“Nice”\n“Brexit”\n“Yeah put that down”\n“Child abuse”\n“Sorry?”\n“ABUSE OF CHILDREN IN THE SYSTEM”\n“Uh”\n“VETERAN SUICIDES”\n“Let me take a look at that list, Ian” https://t.co/lWKg4GdifD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1084118297627578400,
+					"id_str": "1084118297627578369",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/DwuP2QiX0AEQpkY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwuP2QiX0AEQpkY.jpg",
+					"url": "https://t.co/lWKg4GdifD",
+					"display_url": "pic.twitter.com/lWKg4GdifD",
+					"expanded_url": "https://twitter.com/JimMFelton/status/1084118308696268801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1084118297627578400,
+					"id_str": "1084118297627578369",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/DwuP2QiX0AEQpkY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwuP2QiX0AEQpkY.jpg",
+					"url": "https://t.co/lWKg4GdifD",
+					"display_url": "pic.twitter.com/lWKg4GdifD",
+					"expanded_url": "https://twitter.com/JimMFelton/status/1084118308696268801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2904913023,
+			"id_str": "2904913023",
+			"name": "James Felton",
+			"screen_name": "JimMFelton",
+			"location": "",
+			"description": "TV and Radio comedy writer: BAFTA winning The Dog Ate My Homework, The Guessing Game, BTN & others. Writer/social media @iflscience",
+			"url": "https://t.co/tOglfqGCnz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tOglfqGCnz",
+							"expanded_url": "https://twitter.com/search?q=from%3Ajimmfelton%20-%20exclude%3Areplies%20min_retweets%3A300&src=typd",
+							"display_url": "twitter.com/search?q=from%…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63512,
+			"friends_count": 3813,
+			"listed_count": 543,
+			"created_at": "Thu Dec 04 11:06:45 +0000 2014",
+			"favourites_count": 102341,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 17092,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/863860130009546754/-2Zr0kqI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/863860130009546754/-2Zr0kqI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2904913023/1543831796",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2484,
+		"favorite_count": 8247,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“What do we want?”\n“Justice for our boys”\n“Nice”\n“Brexit”\n“Yeah put that down”\n“Child abuse”\n“Sorry?”\n“ABUSE OF CHILDREN IN THE SYSTEM”\n“Uh”\n“VETERAN SUICIDES”\n“Let me take a look at that list, Ian” https://t.co/lWKg4GdifD"
+	},
+	{
 		"created_at": "Sun Jan 13 07:30:25 +0000 2019",
 		"id": 1084351950261506000,
 		"id_str": "1084351950261506048",
