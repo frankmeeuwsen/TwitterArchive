@@ -1,6 +1,328 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sun Jan 13 07:30:25 +0000 2019",
+		"id": 1084351950261506000,
+		"id_str": "1084351950261506048",
+		"full_text": "En je dacht dat het niet gekker kon met Trump en Rusland? 👇👇👇 https://t.co/atBKqhFgJa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/atBKqhFgJa",
+					"expanded_url": "https://twitter.com/therynheart/status/1083939513565495296",
+					"display_url": "twitter.com/therynheart/st…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Utrecht | Father | Pearl Jam | Power user of the internet |",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8884,
+			"friends_count": 225,
+			"listed_count": 593,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4963,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60237,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1083939513565495300,
+		"quoted_status_id_str": "1083939513565495296",
+		"quoted_status_permalink": {
+			"url": "https://t.co/atBKqhFgJa",
+			"expanded": "https://twitter.com/therynheart/status/1083939513565495296",
+			"display": "twitter.com/therynheart/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jan 12 04:11:33 +0000 2019",
+			"id": 1083939513565495300,
+			"id_str": "1083939513565495296",
+			"full_text": "Russia issuing Trump his marching orders? \n\nKlyushin (Russian billionaire) is telling Trump when to declare the emergency. https://t.co/I3nIaIdzDx",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				122
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1083939506456121300,
+						"id_str": "1083939506456121344",
+						"indices": [
+							123,
+							146
+						],
+						"media_url": "http://pbs.twimg.com/media/DwrtPPhUUAAqsKJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DwrtPPhUUAAqsKJ.jpg",
+						"url": "https://t.co/I3nIaIdzDx",
+						"display_url": "pic.twitter.com/I3nIaIdzDx",
+						"expanded_url": "https://twitter.com/TheRynheart/status/1083939513565495296/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 750,
+								"h": 980,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 980,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 520,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1083939506456121300,
+						"id_str": "1083939506456121344",
+						"indices": [
+							123,
+							146
+						],
+						"media_url": "http://pbs.twimg.com/media/DwrtPPhUUAAqsKJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DwrtPPhUUAAqsKJ.jpg",
+						"url": "https://t.co/I3nIaIdzDx",
+						"display_url": "pic.twitter.com/I3nIaIdzDx",
+						"expanded_url": "https://twitter.com/TheRynheart/status/1083939513565495296/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 750,
+								"h": 980,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 980,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 520,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1083939506460344300,
+						"id_str": "1083939506460344320",
+						"indices": [
+							123,
+							146
+						],
+						"media_url": "http://pbs.twimg.com/media/DwrtPPiUwAA_Mbi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DwrtPPiUwAA_Mbi.jpg",
+						"url": "https://t.co/I3nIaIdzDx",
+						"display_url": "pic.twitter.com/I3nIaIdzDx",
+						"expanded_url": "https://twitter.com/TheRynheart/status/1083939513565495296/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 614,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 831,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 831,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 850765289641963500,
+				"id_str": "850765289641963522",
+				"name": "RynheartTheReluctant",
+				"screen_name": "TheRynheart",
+				"location": "",
+				"description": "Activist. Analyst. Tracking news and Politics to keep you up-to-date. Also tracking Robert Mercer, the Kochs and Dark Money. #Resistance #Politics",
+				"url": "https://t.co/BtpJ3jr0HS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/BtpJ3jr0HS",
+								"expanded_url": "https://www.reddit.com/r/mercerinfo",
+								"display_url": "reddit.com/r/mercerinfo",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 71042,
+				"friends_count": 69755,
+				"listed_count": 226,
+				"created_at": "Sat Apr 08 17:40:26 +0000 2017",
+				"favourites_count": 283931,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 27065,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/850787524826079233/03lFSPwm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/850787524826079233/03lFSPwm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/850765289641963522/1491680226",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4866,
+			"favorite_count": 5064,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "En je dacht dat het niet gekker kon met Trump en Rusland? 👇👇👇 https://t.co/atBKqhFgJa"
+	},
+	{
 		"created_at": "Fri Jan 11 14:36:03 +0000 2019",
 		"id": 1083734288741384200,
 		"id_str": "1084222396477911040",
