@@ -1,6 +1,526 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Mon Jan 14 06:35:39 +0000 2019",
+		"id": 1084700554520133600,
+		"id_str": "1084700554520133632",
+		"full_text": "@erwblo Ja klopt. Op de een of andere manier is dat nooit aangeslagen bij me. Ik moet er heen navigeren ipv app openen en ik zie een list. Oplossing?",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "erwblo",
+					"name": "erwin blom",
+					"id": 713333,
+					"id_str": "713333",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1084700199283499000,
+		"in_reply_to_status_id_str": "1084700199283499009",
+		"in_reply_to_user_id": 713333,
+		"in_reply_to_user_id_str": "713333",
+		"in_reply_to_screen_name": "erwblo",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Utrecht | Father | Pearl Jam | Power user of the internet |",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8884,
+			"friends_count": 224,
+			"listed_count": 593,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4964,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60248,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@erwblo Ja klopt. Op de een of andere manier is dat nooit aangeslagen bij me. Ik moet er heen navigeren ipv app openen en ik zie een list. Oplossing?"
+	},
+	{
+		"created_at": "Mon Jan 14 06:30:01 +0000 2019",
+		"id": 1084699138200092700,
+		"id_str": "1084699138200092672",
+		"full_text": "Zo vroeg op de ochtend al een glimlach vanwege de tips in deze thread. https://t.co/kooM7dCPJY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kooM7dCPJY",
+					"expanded_url": "https://twitter.com/snookca/status/1080500648842534912",
+					"display_url": "twitter.com/snookca/status…",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Utrecht | Father | Pearl Jam | Power user of the internet |",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8884,
+			"friends_count": 224,
+			"listed_count": 593,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4964,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60248,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1080500648842534900,
+		"quoted_status_id_str": "1080500648842534912",
+		"quoted_status_permalink": {
+			"url": "https://t.co/kooM7dCPJY",
+			"expanded": "https://twitter.com/snookca/status/1080500648842534912",
+			"display": "twitter.com/snookca/status…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jan 02 16:26:44 +0000 2019",
+			"id": 1080500648842534900,
+			"id_str": "1080500648842534912",
+			"full_text": "I like that RSS seems to be making a very small comeback. I find it easier to keep track of and means I don't have to be on constant lookout on Twitter for updates.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				164
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 12591,
+				"id_str": "12591",
+				"name": "Snook",
+				"screen_name": "snookca",
+				"location": "Ottawa, Canada",
+				"description": "Web Designer, Developer, Writer, Speaker. Now at Abstract; was at Xero, Shopify, Yahoo!, and Squarespace. Clients incl AOL, Apple, Delta Airlines. Wrote SMACSS.",
+				"url": "https://t.co/aVK52IUFvn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/aVK52IUFvn",
+								"expanded_url": "https://snook.ca",
+								"display_url": "snook.ca",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 51674,
+				"friends_count": 673,
+				"listed_count": 3709,
+				"created_at": "Wed Nov 15 19:53:00 +0000 2006",
+				"favourites_count": 9746,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 40198,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "333333",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/717669500917682176/_huneE84_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/717669500917682176/_huneE84_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/12591/1469018067",
+				"profile_link_color": "5C852D",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "949494",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 108,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Zo vroeg op de ochtend al een glimlach vanwege de tips in deze thread. https://t.co/kooM7dCPJY"
+	},
+	{
+		"created_at": "Mon Jan 14 01:03:28 +0000 2019",
+		"id": 1084616957142413300,
+		"id_str": "1084697472159703040",
+		"full_text": "BLOGNARÖK!! https://t.co/D7EknoWs3K",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/D7EknoWs3K",
+					"expanded_url": "https://twitter.com/kvlly/status/1083720062891102213",
+					"display_url": "twitter.com/kvlly/status/1…",
+					"indices": [
+						12,
+						35
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14839862,
+			"id_str": "14839862",
+			"name": "Old Guard Rupert",
+			"screen_name": "davatron5000",
+			"location": "Austin, TX",
+			"description": "Developer at @paravelinc, Podcaster at @shoptalkshow, Adventurer at @godaytrip, 日本語ＯＫ, #davegoeswindows, Historical Graphic Novel Otaku, Junkrat Main",
+			"url": "https://t.co/v7oyytCIfP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/v7oyytCIfP",
+							"expanded_url": "http://daverupert.com",
+							"display_url": "daverupert.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20925,
+			"friends_count": 674,
+			"listed_count": 1214,
+			"created_at": "Tue May 20 00:51:25 +0000 2008",
+			"favourites_count": 49945,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 29514,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1A1A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/477460555981025280/JUGkf8zv_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/477460555981025280/JUGkf8zv_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14839862/1349735644",
+			"profile_link_color": "FA2600",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EAF6F7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1083720062891102200,
+		"quoted_status_id_str": "1083720062891102213",
+		"quoted_status_permalink": {
+			"url": "https://t.co/D7EknoWs3K",
+			"expanded": "https://twitter.com/kvlly/status/1083720062891102213",
+			"display": "twitter.com/kvlly/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 11 13:39:32 +0000 2019",
+			"id": 1083720062891102200,
+			"id_str": "1083720062891102213",
+			"full_text": "I'd like 2019 to be the year personal websites and blogs come back",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				66
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 123543103,
+				"id_str": "123543103",
+				"name": "Kelly Vaughn 💫",
+				"screen_name": "kvlly",
+				"location": "Atlanta, GA",
+				"description": "Developer, traveler, boxed wine enthusiast. Owns @taproomagency. Builds cool stores on @Shopify. Triple dawg. @bytesandbeer's favorite wife.",
+				"url": "https://t.co/hu5gI6pXUT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hu5gI6pXUT",
+								"expanded_url": "http://kvlly.com",
+								"display_url": "kvlly.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13474,
+				"friends_count": 800,
+				"listed_count": 229,
+				"created_at": "Tue Mar 16 12:15:39 +0000 2010",
+				"favourites_count": 10855,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 29452,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F7F6ED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1075424103069290497/WXgSX-zH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1075424103069290497/WXgSX-zH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/123543103/1538342505",
+				"profile_link_color": "EA6C54",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F6FFD1",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 468,
+			"favorite_count": 2585,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 6,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "is",
+		"text": "BLOGNARÖK!! https://t.co/D7EknoWs3K"
+	},
+	{
 		"created_at": "Sun Jan 13 21:02:39 +0000 2019",
 		"id": 1084556351773265900,
 		"id_str": "1084556351773265921",
