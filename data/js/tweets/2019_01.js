@@ -1,6 +1,426 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Mon Jan 14 07:29:00 +0000 2019",
+		"id": 1084713980705341400,
+		"id_str": "1084713980705341440",
+		"full_text": "Nevermind. Die start niet eens Op. Ach en wee. Was er toch maar een manier om in bv 3 maanden van je eigen probleem een kans te maken in de vorm van een product. Een soort school ofzo... https://t.co/fsycHQj1W2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1084713973151342600,
+					"id_str": "1084713973151342592",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dw2tnIyWoAAAlF9.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dw2tnIyWoAAAlF9.jpg",
+					"url": "https://t.co/fsycHQj1W2",
+					"display_url": "pic.twitter.com/fsycHQj1W2",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1084713980705341440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1084713973151342600,
+					"id_str": "1084713973151342592",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dw2tnIyWoAAAlF9.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dw2tnIyWoAAAlF9.jpg",
+					"url": "https://t.co/fsycHQj1W2",
+					"display_url": "pic.twitter.com/fsycHQj1W2",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1084713980705341440/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 400,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							5,
+							4
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Dw2tnIyWoAAAlF9.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1084713165580054500,
+		"in_reply_to_status_id_str": "1084713165580054529",
+		"in_reply_to_user_id": 816203,
+		"in_reply_to_user_id_str": "816203",
+		"in_reply_to_screen_name": "frankmeeuwsen",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Utrecht | Father | Pearl Jam | Power user of the internet |",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8884,
+			"friends_count": 224,
+			"listed_count": 593,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4964,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60252,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Nevermind. Die start niet eens Op. Ach en wee. Was er toch maar een manier om in bv 3 maanden van je eigen probleem een kans te maken in de vorm van een product. Een soort school ofzo... https://t.co/fsycHQj1W2"
+	},
+	{
+		"created_at": "Mon Jan 14 07:27:22 +0000 2019",
+		"id": 1084713567952269300,
+		"id_str": "1084713567952269312",
+		"full_text": "@ernohannink @erwblo Ja daar zit voor mij de hobbel. Ik ga niet naar die lijsten. Ik moet mijn eigen mind even gaan hacken. Ben zo terug! 😉",
+		"truncated": false,
+		"display_text_range": [
+			21,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ernohannink",
+					"name": "Erno Hannink",
+					"id": 1477191,
+					"id_str": "1477191",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "erwblo",
+					"name": "erwin blom",
+					"id": 713333,
+					"id_str": "713333",
+					"indices": [
+						13,
+						20
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1084713020293566500,
+		"in_reply_to_status_id_str": "1084713020293566464",
+		"in_reply_to_user_id": 1477191,
+		"in_reply_to_user_id_str": "1477191",
+		"in_reply_to_screen_name": "ernohannink",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Utrecht | Father | Pearl Jam | Power user of the internet |",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8884,
+			"friends_count": 224,
+			"listed_count": 593,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4964,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60252,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@ernohannink @erwblo Ja daar zit voor mij de hobbel. Ik ga niet naar die lijsten. Ik moet mijn eigen mind even gaan hacken. Ben zo terug! 😉"
+	},
+	{
+		"created_at": "Mon Jan 14 07:25:46 +0000 2019",
+		"id": 1084713165580054500,
+		"id_str": "1084713165580054529",
+		"full_text": "@erwblo mobiel ga ik deze eens testen. Tilista - Your Twitter lists' best friend https://t.co/FNYRMMSPYb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "erwblo",
+					"name": "erwin blom",
+					"id": 713333,
+					"id_str": "713333",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FNYRMMSPYb",
+					"expanded_url": "https://itunes.apple.com/nl/app/tilista-your-twitter-lists-best-friend/id1205520856?mt=8",
+					"display_url": "itunes.apple.com/nl/app/tilista…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 713333,
+		"in_reply_to_user_id_str": "713333",
+		"in_reply_to_screen_name": "erwblo",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Utrecht | Father | Pearl Jam | Power user of the internet |",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8884,
+			"friends_count": 224,
+			"listed_count": 593,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4964,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60252,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@erwblo mobiel ga ik deze eens testen. Tilista - Your Twitter lists' best friend https://t.co/FNYRMMSPYb"
+	},
+	{
 		"created_at": "Mon Jan 14 06:35:39 +0000 2019",
 		"id": 1084700554520133600,
 		"id_str": "1084700554520133632",
