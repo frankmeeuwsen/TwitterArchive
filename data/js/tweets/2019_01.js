@@ -1,6 +1,120 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Wed Jan 16 02:00:36 +0000 2019",
+		"id": 1085356109907533800,
+		"id_str": "1085422717950660609",
+		"full_text": "Let's say you wanted to train a facial recognition algorithm on aging. What would do? Maybe start a meme like #10yearchallenge https://t.co/usFLAtMnAt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "10yearchallenge",
+					"indices": [
+						110,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/usFLAtMnAt",
+					"expanded_url": "https://www.wired.com/story/facebook-10-year-meme-challenge/",
+					"display_url": "wired.com/story/facebook…",
+					"indices": [
+						127,
+						150
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16892481,
+			"id_str": "16892481",
+			"name": "Nicholas Thompson",
+			"screen_name": "nxthompson",
+			"location": "New York",
+			"description": "Editor of @wired. If you have insights or scoops about the biggest stories in tech, please DM me or email nxthompson@protonmail",
+			"url": "https://t.co/Dj9tIapXeo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Dj9tIapXeo",
+							"expanded_url": "http://www.wired.com",
+							"display_url": "wired.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 101451,
+			"friends_count": 1729,
+			"listed_count": 2974,
+			"created_at": "Tue Oct 21 19:50:15 +0000 2008",
+			"favourites_count": 24881,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 25279,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986311858440294400/yQaTvqGK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986311858440294400/yQaTvqGK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16892481/1545405523",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5200,
+		"favorite_count": 7695,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Let's say you wanted to train a facial recognition algorithm on aging. What would do? Maybe start a meme like #10yearchallenge https://t.co/usFLAtMnAt"
+	},
+	{
 		"created_at": "Wed Jan 16 06:18:58 +0000 2019",
 		"id": 1085421129400021000,
 		"id_str": "1085421129400020992",
