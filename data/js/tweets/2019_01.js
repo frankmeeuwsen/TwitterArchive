@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Fri Jan 18 00:24:46 +0000 2019",
+		"id": 1086056768617103400,
+		"id_str": "1086133898508161024",
+		"full_text": "Here's a generous expansion on my \"1,000 True Fans\" post written by Srini Rao. https://t.co/cDlRAstHUE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cDlRAstHUE",
+					"expanded_url": "https://medium.com/@skooloflife/how-to-build-an-audience-of-1000-true-fans-in-a-noisy-world-b788ecbd4fda?mc_cid=f85e8110a8&mc_cid=dcc4c77aaa&mc_eid=f6e717fbca&mc_eid=db7ee8918f",
+					"display_url": "medium.com/@skooloflife/h…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1532061,
+			"id_str": "1532061",
+			"name": "Kevin Kelly",
+			"screen_name": "kevin2kelly",
+			"location": "Pacifica, CA",
+			"description": "Senior Maverick at Wired, author of bestseller book, The Inevitable. Also Cool Tool maven, Recomendo chief, Asia-holic, and True Film buff.",
+			"url": "http://t.co/5nim73hK7O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/5nim73hK7O",
+							"expanded_url": "http://www.kk.org/kk",
+							"display_url": "kk.org/kk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 69806,
+			"friends_count": 357,
+			"listed_count": 3223,
+			"created_at": "Mon Mar 19 17:27:38 +0000 2007",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2446,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E8E69A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/65000713/KKlaughsm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/65000713/KKlaughsm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1532061/1457469389",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FBF918",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 53,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here's a generous expansion on my \"1,000 True Fans\" post written by Srini Rao. https://t.co/cDlRAstHUE"
+	},
+	{
 		"created_at": "Thu Jan 17 22:02:50 +0000 2019",
 		"id": 1086021050863927300,
 		"id_str": "1086021050863927299",
