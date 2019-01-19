@@ -1,6 +1,273 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sat Jan 19 10:36:12 +0000 2019",
+		"id": 1086573029021372400,
+		"id_str": "1086573029021372416",
+		"full_text": "Dit is toch wel vreemd. EFF, voorvechters van het open en neutrale internet, bieden een Google Public Policy Fellowship aan. Met zoals op de site is te lezen \"the opportunity to work on a variety of issues, including censorship and global surveillance\". Euhm... https://t.co/3cQ3tQCIqE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			261
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3cQ3tQCIqE",
+					"expanded_url": "https://twitter.com/aral/status/1086554420790333440",
+					"display_url": "twitter.com/aral/status/10…",
+					"indices": [
+						262,
+						285
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Per 1/3 beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Doet toffe dingen met content en communities.",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8883,
+			"friends_count": 229,
+			"listed_count": 593,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4980,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59960,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1086554420790333400,
+		"quoted_status_id_str": "1086554420790333440",
+		"quoted_status_permalink": {
+			"url": "https://t.co/3cQ3tQCIqE",
+			"expanded": "https://twitter.com/aral/status/1086554420790333440",
+			"display": "twitter.com/aral/status/10…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jan 19 09:22:15 +0000 2019",
+			"id": 1086554420790333400,
+			"id_str": "1086554420790333440",
+			"full_text": "@EFF Source: https://t.co/q8PlPnYBFd\n\nThis is institutional corruption at its worst.\n\nIs anyone else sick of this bullshit? \n\nVia @schestowitz",
+			"truncated": false,
+			"display_text_range": [
+				5,
+				142
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "EFF",
+						"name": "EFF",
+						"id": 4816,
+						"id_str": "4816",
+						"indices": [
+							0,
+							4
+						]
+					},
+					{
+						"screen_name": "schestowitz",
+						"name": "Dr. Roy Schestowitz (罗伊)",
+						"id": 26603208,
+						"id_str": "26603208",
+						"indices": [
+							130,
+							142
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/q8PlPnYBFd",
+						"expanded_url": "https://www.eff.org/deeplinks/2019/01/work-eff-summer-apply-be-2019-google-public-policy-fellow",
+						"display_url": "eff.org/deeplinks/2019…",
+						"indices": [
+							13,
+							36
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1086554247997599700,
+			"in_reply_to_status_id_str": "1086554247997599744",
+			"in_reply_to_user_id": 48903,
+			"in_reply_to_user_id_str": "48903",
+			"in_reply_to_screen_name": "aral",
+			"user": {
+				"id": 48903,
+				"id_str": "48903",
+				"name": "Aral Balkan",
+				"screen_name": "aral",
+				"location": "Terra firma",
+				"description": "I mainly post on my blog at https://t.co/MH5qjWg2mi (RSS: https://t.co/uoejQfZwcW) and interact on my Mastodon https://t.co/P7hooxbo4i. Please follow me there.",
+				"url": "https://t.co/MH5qjWg2mi",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MH5qjWg2mi",
+								"expanded_url": "https://ar.al",
+								"display_url": "ar.al",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/MH5qjWg2mi",
+								"expanded_url": "https://ar.al",
+								"display_url": "ar.al",
+								"indices": [
+									28,
+									51
+								]
+							},
+							{
+								"url": "https://t.co/uoejQfZwcW",
+								"expanded_url": "https://ar.al/index.xml",
+								"display_url": "ar.al/index.xml",
+								"indices": [
+									58,
+									81
+								]
+							},
+							{
+								"url": "https://t.co/P7hooxbo4i",
+								"expanded_url": "https://mastodon.ar.al",
+								"display_url": "mastodon.ar.al",
+								"indices": [
+									111,
+									134
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 42922,
+				"friends_count": 19691,
+				"listed_count": 2664,
+				"created_at": "Thu Dec 07 19:55:38 +0000 2006",
+				"favourites_count": 112287,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 145527,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "AAAAAA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/873476708497838080/rdwukUAR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/873476708497838080/rdwukUAR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/48903/1503223813",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Dit is toch wel vreemd. EFF, voorvechters van het open en neutrale internet, bieden een Google Public Policy Fellowship aan. Met zoals op de site is te lezen \"the opportunity to work on a variety of issues, including censorship and global surveillance\". Euhm... https://t.co/3cQ3tQCIqE"
+	},
+	{
 		"created_at": "Sat Jan 19 08:58:07 +0000 2019",
 		"id": 1086548346590892000,
 		"id_str": "1086548346590892032",
