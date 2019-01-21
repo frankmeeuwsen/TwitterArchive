@@ -1,6 +1,265 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Mon Jan 21 21:30:23 +0000 2019",
+		"id": 1087462437744508900,
+		"id_str": "1087462437744508929",
+		"full_text": "Lees je even mee @Roh? Goeie-smaak-alert! https://t.co/blo7YchL9K",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Roh",
+					"name": "Ronald van Schaik",
+					"id": 1447551,
+					"id_str": "1447551",
+					"indices": [
+						17,
+						21
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/blo7YchL9K",
+					"expanded_url": "https://twitter.com/freek_janssen/status/1087431891563757568",
+					"display_url": "twitter.com/freek_janssen/…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Per 1/3 beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Doet toffe dingen met content en communities.",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8883,
+			"friends_count": 229,
+			"listed_count": 593,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4979,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59965,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1087431891563757600,
+		"quoted_status_id_str": "1087431891563757568",
+		"quoted_status_permalink": {
+			"url": "https://t.co/blo7YchL9K",
+			"expanded": "https://twitter.com/freek_janssen/status/1087431891563757568",
+			"display": "twitter.com/freek_janssen/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jan 21 19:29:01 +0000 2019",
+			"id": 1087431891563757600,
+			"id_str": "1087431891563757568",
+			"full_text": "@ErwinTijms @ndrgwrdrdldjs En hoi @frankmeeuwsen, dankzij @vvdv zit ook Sublime erin!",
+			"truncated": false,
+			"display_text_range": [
+				27,
+				85
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ErwinTijms",
+						"name": "Erwin Tijms",
+						"id": 128984440,
+						"id_str": "128984440",
+						"indices": [
+							0,
+							11
+						]
+					},
+					{
+						"screen_name": "ndrgwrdrdldjs",
+						"name": "Ondrgwrdeerdeliedjes",
+						"id": 2274872545,
+						"id_str": "2274872545",
+						"indices": [
+							12,
+							26
+						]
+					},
+					{
+						"screen_name": "frankmeeuwsen",
+						"name": "Frank Meeuwsen",
+						"id": 816203,
+						"id_str": "816203",
+						"indices": [
+							34,
+							48
+						]
+					},
+					{
+						"screen_name": "vvdv",
+						"name": "Vincent vander Vlies",
+						"id": 30429907,
+						"id_str": "30429907",
+						"indices": [
+							58,
+							63
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 1087431704745332700,
+			"in_reply_to_status_id_str": "1087431704745332737",
+			"in_reply_to_user_id": 128984440,
+			"in_reply_to_user_id_str": "128984440",
+			"in_reply_to_screen_name": "ErwinTijms",
+			"user": {
+				"id": 71275737,
+				"id_str": "71275737",
+				"name": "uǝssuɐɾ‾ʞǝǝɹɟ@",
+				"screen_name": "freek_janssen",
+				"location": "Netherlands",
+				"description": "Freek Janssen, voor de broodnodige nuance. Altijd wakker met @ndrgwrdrdldjs in mijn hoofd. Sarcastische tweets krijgen nooit een ;). Content mens @teamlewis_nl.",
+				"url": "https://t.co/9sGDbO5QkI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9sGDbO5QkI",
+								"expanded_url": "http://www.ondergewaardeerdeliedjes.nl",
+								"display_url": "ondergewaardeerdeliedjes.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2154,
+				"friends_count": 1006,
+				"listed_count": 112,
+				"created_at": "Thu Sep 03 15:08:24 +0000 2009",
+				"favourites_count": 3236,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 39319,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/987755233211273218/Sw2kT0f5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/987755233211273218/Sw2kT0f5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/71275737/1421059954",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Lees je even mee @Roh? Goeie-smaak-alert! https://t.co/blo7YchL9K"
+	},
+	{
 		"created_at": "Mon Jan 21 18:04:07 +0000 2019",
 		"id": 1087410525376532500,
 		"id_str": "1087410525376532481",
