@@ -1,6 +1,504 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Tue Jan 22 07:39:33 +0000 2019",
+		"id": 1087615739761168400,
+		"id_str": "1087615739761168385",
+		"full_text": "@Hermaniak Bizar",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Hermaniak",
+					"name": "Herman Couwenbergh",
+					"id": 6438442,
+					"id_str": "6438442",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1087614933091659800,
+		"in_reply_to_status_id_str": "1087614933091659778",
+		"in_reply_to_user_id": 6438442,
+		"in_reply_to_user_id_str": "6438442",
+		"in_reply_to_screen_name": "Hermaniak",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Per 1/3 beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Doet toffe dingen met content en communities.",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8883,
+			"friends_count": 229,
+			"listed_count": 593,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4980,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59969,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "eu",
+		"text": "@Hermaniak Bizar"
+	},
+	{
+		"created_at": "Tue Jan 22 07:38:50 +0000 2019",
+		"id": 1087615559137665000,
+		"id_str": "1087615559137665025",
+		"full_text": "Tijd voor perenbier @Ceauxbrew @vandeStreekbier @TwoChefsBrewing @OedipusBrewing @MaximusBier? https://t.co/hwIDO62V9w",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Ceauxbrew",
+					"name": "Ceaux",
+					"id": 1044392474,
+					"id_str": "1044392474",
+					"indices": [
+						20,
+						30
+					]
+				},
+				{
+					"screen_name": "vandeStreekbier",
+					"name": "vandeStreek bier",
+					"id": 1115012190,
+					"id_str": "1115012190",
+					"indices": [
+						31,
+						47
+					]
+				},
+				{
+					"screen_name": "TwoChefsBrewing",
+					"name": "Two Chefs Brewing",
+					"id": 1326677113,
+					"id_str": "1326677113",
+					"indices": [
+						48,
+						64
+					]
+				},
+				{
+					"screen_name": "OedipusBrewing",
+					"name": "Oedipus Brewing",
+					"id": 443555908,
+					"id_str": "443555908",
+					"indices": [
+						65,
+						80
+					]
+				},
+				{
+					"screen_name": "MaximusBier",
+					"name": "Brouwerij Maximus",
+					"id": 740858071,
+					"id_str": "740858071",
+					"indices": [
+						81,
+						93
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hwIDO62V9w",
+					"expanded_url": "https://twitter.com/reneevh/status/1087613210797244416",
+					"display_url": "twitter.com/reneevh/status…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Per 1/3 beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Doet toffe dingen met content en communities.",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8883,
+			"friends_count": 229,
+			"listed_count": 593,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4980,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59969,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1087613210797244400,
+		"quoted_status_id_str": "1087613210797244416",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hwIDO62V9w",
+			"expanded": "https://twitter.com/reneevh/status/1087613210797244416",
+			"display": "twitter.com/reneevh/status…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 22 07:29:30 +0000 2019",
+			"id": 1087613210797244400,
+			"id_str": "1087613210797244416",
+			"full_text": "45.000 kilo peren staan te wachten op afnemers. Als geen supermarkt ze koopt (30 ct per kilo!), is het een enorme voedselverspilling. Wie heeft connecties om mijn nicht Irene te helpen? https://t.co/1WgM2wJso1",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				185
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/1WgM2wJso1",
+						"expanded_url": "https://twitter.com/krommunity/status/1087600378466709504",
+						"display_url": "twitter.com/krommunity/sta…",
+						"indices": [
+							186,
+							209
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 25069966,
+				"id_str": "25069966",
+				"name": "Renée van Holsteijn",
+				"screen_name": "reneevh",
+				"location": "",
+				"description": "Helpt met communities, content en popquizzen, lacht veel, kickbokst hard, luistert de hele dag naar muziek en is altijd inconsequent.",
+				"url": "https://t.co/GxriuaQQki",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/GxriuaQQki",
+								"expanded_url": "http://www.rrenee.nl",
+								"display_url": "rrenee.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1209,
+				"friends_count": 1474,
+				"listed_count": 40,
+				"created_at": "Wed Mar 18 13:18:46 +0000 2009",
+				"favourites_count": 3229,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 14224,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1042114298515005441/AKOyRNBZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1042114298515005441/AKOyRNBZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/25069966/1411139069",
+				"profile_link_color": "909090",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "2C2C2C",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1087600378466709500,
+			"quoted_status_id_str": "1087600378466709504",
+			"quoted_status_permalink": {
+				"url": "https://t.co/1WgM2wJso1",
+				"expanded": "https://twitter.com/krommunity/status/1087600378466709504",
+				"display": "twitter.com/krommunity/sta…"
+			},
+			"retweet_count": 3,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Tijd voor perenbier @Ceauxbrew @vandeStreekbier @TwoChefsBrewing @OedipusBrewing @MaximusBier? https://t.co/hwIDO62V9w"
+	},
+	{
+		"created_at": "Tue Jan 22 07:35:58 +0000 2019",
+		"id": 1087614836761079800,
+		"id_str": "1087614836761079808",
+		"full_text": "@suzanneunck @NS_online 8:55",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "suzanneunck",
+					"name": "Suzanne Unck",
+					"id": 9883922,
+					"id_str": "9883922",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "NS_online",
+					"name": "NS online",
+					"id": 121372044,
+					"id_str": "121372044",
+					"indices": [
+						13,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1087613982033281000,
+		"in_reply_to_status_id_str": "1087613982033281025",
+		"in_reply_to_user_id": 9883922,
+		"in_reply_to_user_id_str": "9883922",
+		"in_reply_to_screen_name": "suzanneunck",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Per 1/3 beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Doet toffe dingen met content en communities.",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8883,
+			"friends_count": 229,
+			"listed_count": 593,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4980,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59969,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@suzanneunck @NS_online 8:55"
+	},
+	{
 		"created_at": "Mon Jan 21 21:30:23 +0000 2019",
 		"id": 1087462437744508900,
 		"id_str": "1087462437744508929",
