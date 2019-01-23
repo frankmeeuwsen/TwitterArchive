@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Wed Jan 23 05:58:10 +0000 2019",
+		"id": 1087952612148822000,
+		"id_str": "1087952612148822017",
+		"full_text": "Amazing... https://t.co/o01wHdY2Rx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/o01wHdY2Rx",
+					"expanded_url": "https://twitter.com/aoc/status/1087902584600514561",
+					"display_url": "twitter.com/aoc/status/108…",
+					"indices": [
+						11,
+						34
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Per 1/3 beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Doet toffe dingen met content en communities.",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8883,
+			"friends_count": 229,
+			"listed_count": 593,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4983,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59930,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1087902584600514600,
+		"quoted_status_id_str": "1087902584600514561",
+		"quoted_status_permalink": {
+			"url": "https://t.co/o01wHdY2Rx",
+			"expanded": "https://twitter.com/aoc/status/1087902584600514561",
+			"display": "twitter.com/aoc/status/108…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jan 23 02:39:23 +0000 2019",
+			"id": 1087902584600514600,
+			"id_str": "1087902584600514561",
+			"full_text": "Can’t wait to do a Twitch 101 class with House Dems so we can finally get the Super Smash Bros Town Halls we’ve all been waiting for 😂 https://t.co/0d5xXGPTb7",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				134
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/0d5xXGPTb7",
+						"expanded_url": "https://twitter.com/alexrab/status/1087807981666820096",
+						"display_url": "twitter.com/alexrab/status…",
+						"indices": [
+							135,
+							158
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 138203134,
+				"id_str": "138203134",
+				"name": "Alexandria Ocasio-Cortez",
+				"screen_name": "AOC",
+				"location": "Bronx + Queens, NYC",
+				"description": "Congresswoman for NY-14 (the Bronx + Queens). 💯% People-Funded. In a modern, moral, and wealthy society, no American should be too poor to live.",
+				"url": "https://t.co/BYjH4stRnI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/BYjH4stRnI",
+								"expanded_url": "http://www.Ocasio2018.com/",
+								"display_url": "Ocasio2018.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2585143,
+				"friends_count": 1379,
+				"listed_count": 8322,
+				"created_at": "Wed Apr 28 22:38:40 +0000 2010",
+				"favourites_count": 10449,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 6747,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/923274881197895680/AbHcStkl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/923274881197895680/AbHcStkl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/138203134/1511815660",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1087807981666820100,
+			"quoted_status_id_str": "1087807981666820096",
+			"quoted_status_permalink": {
+				"url": "https://t.co/0d5xXGPTb7",
+				"expanded": "https://twitter.com/alexrab/status/1087807981666820096",
+				"display": "twitter.com/alexrab/status…"
+			},
+			"retweet_count": 8695,
+			"favorite_count": 52763,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Amazing... https://t.co/o01wHdY2Rx"
+	},
+	{
 		"created_at": "Tue Jan 22 22:15:38 +0000 2019",
 		"id": 1087836209601237000,
 		"id_str": "1087836209601236992",
