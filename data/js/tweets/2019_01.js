@@ -1,6 +1,246 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sun Jan 20 08:56:54 +0000 2019",
+		"id": 1086910428976795600,
+		"id_str": "1088486552056070146",
+		"full_text": "we write software that runs the world but that can be (and is) used for great evil, yet the biggest question that taxes us is which literally invisible characters we use to format our code https://t.co/QLxXTYIO6y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QLxXTYIO6y",
+					"expanded_url": "https://twitter.com/girlziplocked/status/1085388929950466055",
+					"display_url": "twitter.com/girlziplocked/…",
+					"indices": [
+						189,
+						212
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 92525449,
+			"id_str": "92525449",
+			"name": "Jim Kinsey",
+			"screen_name": "kinjacono",
+			"location": "Berlin, Germany",
+			"description": "",
+			"url": "https://t.co/rDdhNmdbjX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rDdhNmdbjX",
+							"expanded_url": "https://www.jimkinsey.com/blog/",
+							"display_url": "jimkinsey.com/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 313,
+			"friends_count": 678,
+			"listed_count": 20,
+			"created_at": "Wed Nov 25 13:51:28 +0000 2009",
+			"favourites_count": 11143,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7346,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/972119332015788032/ofjpZ_RC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/972119332015788032/ofjpZ_RC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/92525449/1485993583",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1085388929950466000,
+		"quoted_status_id_str": "1085388929950466055",
+		"quoted_status_permalink": {
+			"url": "https://t.co/QLxXTYIO6y",
+			"expanded": "https://twitter.com/girlziplocked/status/1085388929950466055",
+			"display": "twitter.com/girlziplocked/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jan 16 04:11:01 +0000 2019",
+			"id": 1085388929950466000,
+			"id_str": "1085388929950466055",
+			"full_text": "What's a dirty secret that everybody in your industry knows about but anyone outside of your line of work would be scandalized to hear?",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				135
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20221325,
+				"id_str": "20221325",
+				"name": "holly",
+				"screen_name": "girlziplocked",
+				"location": "Brooklyn, NY",
+				"description": "interfaith seminarian ☸️ phd @harvard • @dsamedics 🎒 abolitionist 🏴 getting our asses to space communism come hell & high water🖖🏻",
+				"url": "https://t.co/53OdbkVZ6G",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/53OdbkVZ6G",
+								"expanded_url": "http://patreon.com/girlziplocked",
+								"display_url": "patreon.com/girlziplocked",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 27137,
+				"friends_count": 2341,
+				"listed_count": 624,
+				"created_at": "Fri Feb 06 07:17:31 +0000 2009",
+				"favourites_count": 24591,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 131721,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "20201E",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1084953556824788992/VxNrhTGS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084953556824788992/VxNrhTGS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20221325/1547490203",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "20201E",
+				"profile_text_color": "897856",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "94965b2c45386f87",
+				"url": "https://api.twitter.com/1.1/geo/id/94965b2c45386f87.json",
+				"place_type": "admin",
+				"name": "New York",
+				"full_name": "New York, USA",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-79.76259,
+								40.477383
+							],
+							[
+								-71.777492,
+								40.477383
+							],
+							[
+								-71.777492,
+								45.015851
+							],
+							[
+								-79.76259,
+								45.015851
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3276,
+			"favorite_count": 8901,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "we write software that runs the world but that can be (and is) used for great evil, yet the biggest question that taxes us is which literally invisible characters we use to format our code https://t.co/QLxXTYIO6y"
+	},
+	{
 		"created_at": "Wed Jan 18 03:54:53 +0000 2017",
 		"id": 821566503946506200,
 		"id_str": "1088323926126706688",
