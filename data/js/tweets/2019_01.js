@@ -1,6 +1,188 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Wed Jan 18 03:54:53 +0000 2017",
+		"id": 821566503946506200,
+		"id_str": "1088323926126706688",
+		"full_text": "Fractal giraffe. https://t.co/ixcpCCRpJo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 455010998345166850,
+					"id_str": "455010998345166848",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/BlCGF51CcAAxcqJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/BlCGF51CcAAxcqJ.jpg",
+					"url": "https://t.co/ixcpCCRpJo",
+					"display_url": "pic.twitter.com/ixcpCCRpJo",
+					"expanded_url": "https://twitter.com/pickover/status/455010998340972544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 880,
+							"h": 440,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 880,
+							"h": 440,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 455010998340972540,
+					"source_status_id_str": "455010998340972544",
+					"source_user_id": 16176754,
+					"source_user_id_str": "16176754"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 455010998345166850,
+					"id_str": "455010998345166848",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/BlCGF51CcAAxcqJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/BlCGF51CcAAxcqJ.jpg",
+					"url": "https://t.co/ixcpCCRpJo",
+					"display_url": "pic.twitter.com/ixcpCCRpJo",
+					"expanded_url": "https://twitter.com/pickover/status/455010998340972544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 880,
+							"h": 440,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 880,
+							"h": 440,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 455010998340972540,
+					"source_status_id_str": "455010998340972544",
+					"source_user_id": 16176754,
+					"source_user_id_str": "16176754"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16176754,
+			"id_str": "16176754",
+			"name": "Cliff Pickover",
+			"screen_name": "pickover",
+			"location": "New York",
+			"description": "Increase your sense of wonder. Author of 50 books & 530 patents. Yale Ph.D. Create/Innovate. \"Pickover contemplates realms beyond our known reality.\" ~NY Times",
+			"url": "http://t.co/t3Z2fp6vBu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/t3Z2fp6vBu",
+							"expanded_url": "http://www.pickover.com",
+							"display_url": "pickover.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31953,
+			"friends_count": 49,
+			"listed_count": 1497,
+			"created_at": "Mon Sep 08 01:27:56 +0000 2008",
+			"favourites_count": 1383,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 49284,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/69072946/twitter3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/69072946/twitter3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16176754/1398256311",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "8EA8F5",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 52,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Fractal giraffe. https://t.co/ixcpCCRpJo"
+	},
+	{
 		"created_at": "Thu Jan 24 04:05:54 +0000 2019",
 		"id": 1088286747564404700,
 		"id_str": "1088315007312556032",
