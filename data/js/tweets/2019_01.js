@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Fri Jan 25 11:47:55 +0000 2019",
+		"id": 1088765406305808400,
+		"id_str": "1088788151009722368",
+		"full_text": "Welkom Miele als nieuwste kanaal in de Olisto app. Met de vele Miele apparaten kan je nu triggs maken. Laat bijv. je lampen knipperen als de deur van de ijskast open staat. Wij maken de verbinding, jij creëert de triggs.\nVoor meer informatie: https://t.co/z0LRecfTvC. https://t.co/McR7f4POdI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/z0LRecfTvC",
+					"expanded_url": "https://buff.ly/2sO42jX",
+					"display_url": "buff.ly/2sO42jX",
+					"indices": [
+						243,
+						266
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1088765404527448000,
+					"id_str": "1088765404527448065",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/DxwSXeyX0AEIY0r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxwSXeyX0AEIY0r.jpg",
+					"url": "https://t.co/McR7f4POdI",
+					"display_url": "pic.twitter.com/McR7f4POdI",
+					"expanded_url": "https://twitter.com/iamOlisto/status/1088765406305808384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1023,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1023,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1088765404527448000,
+					"id_str": "1088765404527448065",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/DxwSXeyX0AEIY0r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxwSXeyX0AEIY0r.jpg",
+					"url": "https://t.co/McR7f4POdI",
+					"display_url": "pic.twitter.com/McR7f4POdI",
+					"expanded_url": "https://twitter.com/iamOlisto/status/1088765406305808384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1023,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1023,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3879014177,
+			"id_str": "3879014177",
+			"name": "Olisto",
+			"screen_name": "iamOlisto",
+			"location": "Amsterdam, Nederland",
+			"description": "Olisto makes smart devices smarter by connecting them to other devices, apps and services. Following your rules.  What's your thing?",
+			"url": "https://t.co/Vpk95bkSmq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vpk95bkSmq",
+							"expanded_url": "http://www.olisto.com/",
+							"display_url": "olisto.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1060,
+			"friends_count": 1531,
+			"listed_count": 35,
+			"created_at": "Tue Oct 06 08:45:54 +0000 2015",
+			"favourites_count": 939,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2195,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/707569736054231042/wfWgy8XS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/707569736054231042/wfWgy8XS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3879014177/1516695062",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Welkom Miele als nieuwste kanaal in de Olisto app. Met de vele Miele apparaten kan je nu triggs maken. Laat bijv. je lampen knipperen als de deur van de ijskast open staat. Wij maken de verbinding, jij creëert de triggs.\nVoor meer informatie: https://t.co/z0LRecfTvC. https://t.co/McR7f4POdI"
+	},
+	{
 		"created_at": "Fri Jan 25 09:34:02 +0000 2019",
 		"id": 1088731711700197400,
 		"id_str": "1088731711700197376",
