@@ -1,6 +1,323 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Fri Jan 25 09:01:20 +0000 2019",
+		"id": 1088723482236588000,
+		"id_str": "1088723482236588032",
+		"full_text": "Eindbazin van 15. https://t.co/3drwRibm4t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3drwRibm4t",
+					"expanded_url": "https://twitter.com/gretathunberg/status/1088440150630285312",
+					"display_url": "twitter.com/gretathunberg/…",
+					"indices": [
+						18,
+						41
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Per 1/3 beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Doet toffe dingen met content en communities.",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8877,
+			"friends_count": 233,
+			"listed_count": 593,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4991,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59950,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1088440150630285300,
+		"quoted_status_id_str": "1088440150630285312",
+		"quoted_status_permalink": {
+			"url": "https://t.co/3drwRibm4t",
+			"expanded": "https://twitter.com/gretathunberg/status/1088440150630285312",
+			"display": "twitter.com/gretathunberg/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 24 14:15:28 +0000 2019",
+			"id": 1088440150630285300,
+			"id_str": "1088440150630285312",
+			"full_text": "I was given the opportunity to speak at a lunch in Davos today... On the panel was Bono, Christiana Figueres, Jane Goodall, https://t.co/0SsuJbW9SN and Kengo Sakurada. #wef https://t.co/PpUwQwTotf",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				172
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "wef",
+						"indices": [
+							168,
+							172
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/0SsuJbW9SN",
+						"expanded_url": "http://Will.i.am",
+						"display_url": "Will.i.am",
+						"indices": [
+							124,
+							147
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1088439953141440500,
+						"id_str": "1088439953141440512",
+						"indices": [
+							173,
+							196
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1088439953141440512/pu/img/YgmGGaXgRXh0ZRcB.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1088439953141440512/pu/img/YgmGGaXgRXh0ZRcB.jpg",
+						"url": "https://t.co/PpUwQwTotf",
+						"display_url": "pic.twitter.com/PpUwQwTotf",
+						"expanded_url": "https://twitter.com/GretaThunberg/status/1088440150630285312/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 720,
+								"h": 406,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 406,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1088439953141440500,
+						"id_str": "1088439953141440512",
+						"indices": [
+							173,
+							196
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1088439953141440512/pu/img/YgmGGaXgRXh0ZRcB.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1088439953141440512/pu/img/YgmGGaXgRXh0ZRcB.jpg",
+						"url": "https://t.co/PpUwQwTotf",
+						"display_url": "pic.twitter.com/PpUwQwTotf",
+						"expanded_url": "https://twitter.com/GretaThunberg/status/1088440150630285312/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 720,
+								"h": 406,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 406,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								360,
+								203
+							],
+							"duration_millis": 40512,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1088439953141440512/pu/pl/EwHuvBfL7oinGSSU.m3u8?tag=6"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1088439953141440512/pu/vid/720x406/7-n3B0CQLz90QIbL.mp4?tag=6"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1088439953141440512/pu/vid/318x180/SOVNlLqQ2xecFUUE.mp4?tag=6"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1006419421244678100,
+				"id_str": "1006419421244678144",
+				"name": "Greta Thunberg",
+				"screen_name": "GretaThunberg",
+				"location": "Sverige",
+				"description": "16 year old climate activist with Asperger",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 102907,
+				"friends_count": 1031,
+				"listed_count": 605,
+				"created_at": "Tue Jun 12 06:14:23 +0000 2018",
+				"favourites_count": 8564,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2126,
+				"lang": "sv",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1025329169331314688/YDPHMfmB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1025329169331314688/YDPHMfmB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1006419421244678144/1528785550",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2306,
+			"favorite_count": 9152,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Eindbazin van 15. https://t.co/3drwRibm4t"
+	},
+	{
 		"created_at": "Thu Jan 24 19:18:52 +0000 2019",
 		"id": 1088516501810958300,
 		"id_str": "1088516501810958336",
