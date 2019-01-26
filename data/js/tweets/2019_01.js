@@ -1,6 +1,235 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sat Jan 26 06:30:40 +0000 2019",
+		"id": 1089047953170460700,
+		"id_str": "1089047953170460673",
+		"full_text": "Digging the meme reference in it @aoc dug up recently. https://t.co/jyMrkSAXIj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AOC",
+					"name": "Alexandria Ocasio-Cortez",
+					"id": 138203134,
+					"id_str": "138203134",
+					"indices": [
+						33,
+						37
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jyMrkSAXIj",
+					"expanded_url": "https://twitter.com/karaswisher/status/1088951320546021376",
+					"display_url": "twitter.com/karaswisher/st…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Per 1/3 beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Doet toffe dingen met content en communities.",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8876,
+			"friends_count": 233,
+			"listed_count": 593,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 4991,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59962,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1088951320546021400,
+		"quoted_status_id_str": "1088951320546021376",
+		"quoted_status_permalink": {
+			"url": "https://t.co/jyMrkSAXIj",
+			"expanded": "https://twitter.com/karaswisher/status/1088951320546021376",
+			"display": "twitter.com/karaswisher/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jan 26 00:06:41 +0000 2019",
+			"id": 1088951320546021400,
+			"id_str": "1088951320546021376",
+			"full_text": "Consider the Spanish gardener: Mark Zuckerberg, Let Me Be Your Ghost Writer https://t.co/uvRThHypS7",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				99
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/uvRThHypS7",
+						"expanded_url": "https://www.nytimes.com/2019/01/25/opinion/mark-zuckerberg-wsj.html",
+						"display_url": "nytimes.com/2019/01/25/opi…",
+						"indices": [
+							76,
+							99
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5763262,
+				"id_str": "5763262",
+				"name": "Kara Swisher",
+				"screen_name": "karaswisher",
+				"location": "San Francisco",
+				"description": "Grumpy lady of tech",
+				"url": "https://t.co/trFjw6yxoC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/trFjw6yxoC",
+								"expanded_url": "http://recode.net",
+								"display_url": "recode.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1281816,
+				"friends_count": 1679,
+				"listed_count": 15068,
+				"created_at": "Fri May 04 10:32:22 +0000 2007",
+				"favourites_count": 44451,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 113861,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F4FCFC",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/517197689746755584/795gibU7_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/517197689746755584/795gibU7_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5763262/1411788872",
+				"profile_link_color": "01010A",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 39,
+			"favorite_count": 146,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Digging the meme reference in it @aoc dug up recently. https://t.co/jyMrkSAXIj"
+	},
+	{
 		"created_at": "Fri Jan 25 21:42:04 +0000 2019",
 		"id": 1088914925743947800,
 		"id_str": "1088914925743947776",
