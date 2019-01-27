@@ -1,6 +1,122 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sun Jan 27 03:40:04 +0000 2019",
+		"id": 1089367408265945100,
+		"id_str": "1089507062462271488",
+		"full_text": "Hey @digitalocean, here's an idea: why don't you start offering Mastodon one-click app Droplets? If you can do Wordpress and even PHPMyAdmin, that should surely be a possibility! 😃 // CC @MastodonProject",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "digitalocean",
+					"name": "DigitalOcean",
+					"id": 457033547,
+					"id_str": "457033547",
+					"indices": [
+						4,
+						17
+					]
+				},
+				{
+					"screen_name": "MastodonProject",
+					"name": "Mastodon",
+					"id": 875882643614814200,
+					"id_str": "875882643614814208",
+					"indices": [
+						187,
+						203
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8878362,
+			"id_str": "8878362",
+			"name": "Sander Huijsen",
+			"screen_name": "ahuijsen",
+			"location": "Perth, Western Australia",
+			"description": "Human being. Founder and director of Master Thinkers Pty Ltd. Time to Think Facilitator. Master Thinker™. Him/his.",
+			"url": "https://t.co/eJO15cJ3Eo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eJO15cJ3Eo",
+							"expanded_url": "http://www.masterthinkers.com.au",
+							"display_url": "masterthinkers.com.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 544,
+			"friends_count": 446,
+			"listed_count": 46,
+			"created_at": "Fri Sep 14 15:13:12 +0000 2007",
+			"favourites_count": 1690,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13191,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/892676584104001536/qva-zTrY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/892676584104001536/qva-zTrY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8878362/1501665741",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 11,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Hey @digitalocean, here's an idea: why don't you start offering Mastodon one-click app Droplets? If you can do Wordpress and even PHPMyAdmin, that should surely be a possibility! 😃 // CC @MastodonProject"
+	},
+	{
 		"created_at": "Sat Jan 26 20:44:32 +0000 2019",
 		"id": 1089262836759576600,
 		"id_str": "1089262836759576576",
