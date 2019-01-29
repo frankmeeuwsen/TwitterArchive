@@ -1,6 +1,222 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Tue Jan 29 11:05:26 +0000 2019",
+		"id": 1090204265480679400,
+		"id_str": "1090204265480679424",
+		"full_text": "Het zou me niets verbazen als dit vanavond bij @dwdd wordt aangevoerd als uitleg voor de ophef. https://t.co/nXuXajVOct",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dwdd",
+					"name": "DeWereldDraaitDoor",
+					"id": 19182978,
+					"id_str": "19182978",
+					"indices": [
+						47,
+						52
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nXuXajVOct",
+					"expanded_url": "https://twitter.com/rf_hfc/status/1090180621572493315",
+					"display_url": "twitter.com/rf_hfc/status/…",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Per 1/3 beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Doet toffe dingen met content en communities.",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8875,
+			"friends_count": 236,
+			"listed_count": 593,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5009,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59940,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1090180621572493300,
+		"quoted_status_id_str": "1090180621572493315",
+		"quoted_status_permalink": {
+			"url": "https://t.co/nXuXajVOct",
+			"expanded": "https://twitter.com/rf_hfc/status/1090180621572493315",
+			"display": "twitter.com/rf_hfc/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 29 09:31:29 +0000 2019",
+			"id": 1090180621572493300,
+			"id_str": "1090180621572493315",
+			"full_text": "Yo, mensen, @georgevanhouts is niet gek en niet dom. Het is een act. Een toneelstuk. Dat het factfree is, is onderdeel van de performance. Het laat zien dat complottheoriën een verdienmodel is. Dat je met radicalisme aandacht krijgt. Dat is de boodschap. Hij doet het al vijf jaar",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "georgevanhouts",
+						"name": "George van Houts",
+						"id": 25483416,
+						"id_str": "25483416",
+						"indices": [
+							12,
+							27
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 281033838,
+				"id_str": "281033838",
+				"name": "Robin Fransman",
+				"screen_name": "RF_HFC",
+				"location": "Amsterdam",
+				"description": "Finance, clean tech & ICT, economie, politieke economie, pensioenen, politiek, heel veel dochters.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8148,
+				"friends_count": 756,
+				"listed_count": 212,
+				"created_at": "Tue Apr 12 14:01:17 +0000 2011",
+				"favourites_count": 1748,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 63274,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/734036329928007680/ebbbsDG8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/734036329928007680/ebbbsDG8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/281033838/1415794308",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 21,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Het zou me niets verbazen als dit vanavond bij @dwdd wordt aangevoerd als uitleg voor de ophef. https://t.co/nXuXajVOct"
+	},
+	{
 		"created_at": "Tue Jan 29 08:32:19 +0000 2019",
 		"id": 1090165730107105300,
 		"id_str": "1090165730107105280",
