@@ -1,6 +1,564 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Tue Jan 29 06:56:11 +0000 2019",
+		"id": 1090141540561887200,
+		"id_str": "1090141540561887233",
+		"full_text": "@nouwen Tja... dat de mol op de foto staat? Dat het niet @eveliendebruijn is? Ik weet het dus niet...",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nouwen",
+					"name": "Jonas Nouwen",
+					"id": 7430052,
+					"id_str": "7430052",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "eveliendebruijn",
+					"name": "Evelien de Bruijn",
+					"id": 52080829,
+					"id_str": "52080829",
+					"indices": [
+						57,
+						73
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1090139804686340100,
+		"in_reply_to_status_id_str": "1090139804686340096",
+		"in_reply_to_user_id": 7430052,
+		"in_reply_to_user_id_str": "7430052",
+		"in_reply_to_screen_name": "nouwen",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Per 1/3 beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Doet toffe dingen met content en communities.",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8875,
+			"friends_count": 236,
+			"listed_count": 593,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5008,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59937,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@nouwen Tja... dat de mol op de foto staat? Dat het niet @eveliendebruijn is? Ik weet het dus niet..."
+	},
+	{
+		"created_at": "Tue Jan 29 06:34:40 +0000 2019",
+		"id": 1090136125891588100,
+		"id_str": "1090136125891588096",
+		"full_text": "@Schellevis Goed artikel. Hoe kijk jij in dit licht naar de bevindingen van @decorrespondent afgelopen weken over de effectiviteit van online advertenties?",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Schellevis",
+					"name": "Joost Schellevis",
+					"id": 6043092,
+					"id_str": "6043092",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "decorrespondent",
+					"name": "De Correspondent",
+					"id": 1197603440,
+					"id_str": "1197603440",
+					"indices": [
+						76,
+						92
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1090125808180572200,
+		"in_reply_to_status_id_str": "1090125808180572161",
+		"in_reply_to_user_id": 6043092,
+		"in_reply_to_user_id_str": "6043092",
+		"in_reply_to_screen_name": "Schellevis",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Per 1/3 beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Doet toffe dingen met content en communities.",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8875,
+			"friends_count": 236,
+			"listed_count": 593,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5008,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59937,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@Schellevis Goed artikel. Hoe kijk jij in dit licht naar de bevindingen van @decorrespondent afgelopen weken over de effectiviteit van online advertenties?"
+	},
+	{
+		"created_at": "Tue Jan 29 06:30:48 +0000 2019",
+		"id": 1090135152230043600,
+		"id_str": "1090135152230043648",
+		"full_text": "Volgens mij heb ik nog nooit zó vaak naar een animated gif gekeken voor een #widm hint... https://t.co/K22xvjSuUp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "widm",
+					"indices": [
+						76,
+						81
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/K22xvjSuUp",
+					"expanded_url": "https://twitter.com/eveliendebruijn/status/1089883028657225731",
+					"display_url": "twitter.com/eveliendebruij…",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Per 1/3 beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Doet toffe dingen met content en communities.",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8875,
+			"friends_count": 236,
+			"listed_count": 593,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5008,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59937,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1089883028657225700,
+		"quoted_status_id_str": "1089883028657225731",
+		"quoted_status_permalink": {
+			"url": "https://t.co/K22xvjSuUp",
+			"expanded": "https://twitter.com/eveliendebruijn/status/1089883028657225731",
+			"display": "twitter.com/eveliendebruij…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jan 28 13:48:57 +0000 2019",
+			"id": 1089883028657225700,
+			"id_str": "1089883028657225731",
+			"full_text": "‘Mijn’ laatste groepsfoto. Om heel veel redenen extra bijzonder. ❤️ #wieisdemol @WieIsDeMol https://t.co/UDchSVwDgj",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				91
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "wieisdemol",
+						"indices": [
+							68,
+							79
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "WieIsDeMol",
+						"name": "Wie is de Mol?",
+						"id": 18267154,
+						"id_str": "18267154",
+						"indices": [
+							80,
+							91
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1089883008382001200,
+						"id_str": "1089883008382001155",
+						"indices": [
+							92,
+							115
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1089883008382001155/pu/img/KUby1F6AsX_czsH9.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1089883008382001155/pu/img/KUby1F6AsX_czsH9.jpg",
+						"url": "https://t.co/UDchSVwDgj",
+						"display_url": "pic.twitter.com/UDchSVwDgj",
+						"expanded_url": "https://twitter.com/eveliendebruijn/status/1089883028657225731/video/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 720,
+								"h": 400,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 720,
+								"h": 400,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 378,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1089883008382001200,
+						"id_str": "1089883008382001155",
+						"indices": [
+							92,
+							115
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1089883008382001155/pu/img/KUby1F6AsX_czsH9.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1089883008382001155/pu/img/KUby1F6AsX_czsH9.jpg",
+						"url": "https://t.co/UDchSVwDgj",
+						"display_url": "pic.twitter.com/UDchSVwDgj",
+						"expanded_url": "https://twitter.com/eveliendebruijn/status/1089883028657225731/video/1",
+						"type": "video",
+						"sizes": {
+							"medium": {
+								"w": 720,
+								"h": 400,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 720,
+								"h": 400,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 378,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								5
+							],
+							"duration_millis": 4810,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1089883008382001155/pu/pl/khxcDMy4-Mk5uKTR.m3u8?tag=6"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1089883008382001155/pu/vid/720x400/Wx0uNqSxga3kfjm2.mp4?tag=6"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1089883008382001155/pu/vid/324x180/yKUDBol6u73iOkMV.mp4?tag=6"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 52080829,
+				"id_str": "52080829",
+				"name": "Evelien de Bruijn",
+				"screen_name": "eveliendebruijn",
+				"location": "",
+				"description": "Radio, Tv, muziek, sport.  #widm2019",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5917,
+				"friends_count": 721,
+				"listed_count": 97,
+				"created_at": "Mon Jun 29 15:03:30 +0000 2009",
+				"favourites_count": 1892,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4648,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/862780471238852609/65AzQmmM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/862780471238852609/65AzQmmM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/52080829/1494538015",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 113,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Volgens mij heb ik nog nooit zó vaak naar een animated gif gekeken voor een #widm hint... https://t.co/K22xvjSuUp"
+	},
+	{
 		"created_at": "Tue Jan 29 05:43:12 +0000 2019",
 		"id": 1090123172530278400,
 		"id_str": "1090123172530278400",
