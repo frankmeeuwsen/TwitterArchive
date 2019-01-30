@@ -1,6 +1,606 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Wed Jan 30 07:19:57 +0000 2019",
+		"id": 1090509906808062000,
+		"id_str": "1090509906808061953",
+		"full_text": "@djzwartveld Oef. Ik las gisteren nog een nasty thread op Linkedin. Een medisch specialiste deelt er een werkelijk verhaal over een patiente die dankzij ademoefeningen verder met haar leven kan. Wordt verguisd vanwege stockfoto, (fictieve) naam en AVG. Door genoemde happyhappyjoyjoy figuren.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			292
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "djzwartveld",
+					"name": "Dirk Jan Zwartveld",
+					"id": 2220361328,
+					"id_str": "2220361328",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1090508516333420500,
+		"in_reply_to_status_id_str": "1090508516333420544",
+		"in_reply_to_user_id": 2220361328,
+		"in_reply_to_user_id_str": "2220361328",
+		"in_reply_to_screen_name": "djzwartveld",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Per 1/3 beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Doet toffe dingen met content en communities.",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8871,
+			"friends_count": 237,
+			"listed_count": 593,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5017,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59951,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@djzwartveld Oef. Ik las gisteren nog een nasty thread op Linkedin. Een medisch specialiste deelt er een werkelijk verhaal over een patiente die dankzij ademoefeningen verder met haar leven kan. Wordt verguisd vanwege stockfoto, (fictieve) naam en AVG. Door genoemde happyhappyjoyjoy figuren."
+	},
+	{
+		"created_at": "Wed Jan 30 07:17:19 +0000 2019",
+		"id": 1090509244313595900,
+		"id_str": "1090509244313595904",
+		"full_text": "Lees je mee @MarrigtvdValk @roosvanvugt ? https://t.co/b0KOyxMPnC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MarrigtvdValk",
+					"name": "M A R R I G T 💚",
+					"id": 117059950,
+					"id_str": "117059950",
+					"indices": [
+						12,
+						26
+					]
+				},
+				{
+					"screen_name": "roosvanvugt",
+					"name": "Roos van Vugt",
+					"id": 21687228,
+					"id_str": "21687228",
+					"indices": [
+						27,
+						39
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/b0KOyxMPnC",
+					"expanded_url": "https://twitter.com/schellevis/status/1090500588914331648",
+					"display_url": "twitter.com/schellevis/sta…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Per 1/3 beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Doet toffe dingen met content en communities.",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8871,
+			"friends_count": 237,
+			"listed_count": 593,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5017,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59951,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1090500588914331600,
+		"quoted_status_id_str": "1090500588914331648",
+		"quoted_status_permalink": {
+			"url": "https://t.co/b0KOyxMPnC",
+			"expanded": "https://twitter.com/schellevis/status/1090500588914331648",
+			"display": "twitter.com/schellevis/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jan 30 06:42:55 +0000 2019",
+			"id": 1090500588914331600,
+			"id_str": "1090500588914331648",
+			"full_text": "Mijn hemel. Facebook betaalde tieners vanaf 13 jaar 20 dollar per maand om hun privacy volledig op te geven. \n\nMet VPN die ze altijd aan moesten houden in combinatie met een rootcertificaat van Facebook had dat bedrijf toegang tot hun diepste geheimen https://t.co/bMeH3PWoNb",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				275
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/bMeH3PWoNb",
+						"expanded_url": "https://techcrunch.com/2019/01/29/facebook-project-atlas/",
+						"display_url": "techcrunch.com/2019/01/29/fac…",
+						"indices": [
+							252,
+							275
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 6043092,
+				"id_str": "6043092",
+				"name": "Joost Schellevis",
+				"screen_name": "Schellevis",
+				"location": "Zaandam",
+				"description": "Techjournalist @NOS: privacy, hacken, ict-wetgeving. joost@schellevis.net. Veilig tippen: https://t.co/x5xH9o9GCA. https://t.co/TkIaH0LMsw, @metnerdsomtafel",
+				"url": "https://t.co/DIfMxNb297",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/DIfMxNb297",
+								"expanded_url": "http://schellevis.net",
+								"display_url": "schellevis.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/x5xH9o9GCA",
+								"expanded_url": "http://schellevis.net/contact",
+								"display_url": "schellevis.net/contact",
+								"indices": [
+									90,
+									113
+								]
+							},
+							{
+								"url": "https://t.co/TkIaH0LMsw",
+								"expanded_url": "http://Cybernieuwtjes.nl",
+								"display_url": "Cybernieuwtjes.nl",
+								"indices": [
+									115,
+									138
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 14310,
+				"friends_count": 999,
+				"listed_count": 435,
+				"created_at": "Mon May 14 20:54:53 +0000 2007",
+				"favourites_count": 8438,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 19668,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "005A84",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1051923327990857728/rAJS8VCj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1051923327990857728/rAJS8VCj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/6043092/1468098577",
+				"profile_link_color": "005A84",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 29,
+			"favorite_count": 16,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Lees je mee @MarrigtvdValk @roosvanvugt ? https://t.co/b0KOyxMPnC"
+	},
+	{
+		"created_at": "Wed Jan 30 07:15:20 +0000 2019",
+		"id": 1090508746151944200,
+		"id_str": "1090508746151944192",
+		"full_text": "@MarrigtvdValk @EwoutWolff @guidoz @SanneW @puur @punkmedia @ManvandeZaak @roosvanvugt @tjarko @arnekeuning @jwalphenaar @marcoderksen @bramkoster @martijnarets De vraag is hoe zij worden beinvloed door datagedreven surveillance kapitalisme van sociale silo's (ik doe graag aan Revolutionaire Buzzword Bingo)",
+		"truncated": false,
+		"display_text_range": [
+			161,
+			308
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MarrigtvdValk",
+					"name": "M A R R I G T 💚",
+					"id": 117059950,
+					"id_str": "117059950",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "EwoutWolff",
+					"name": "Ewout Wolff",
+					"id": 7263402,
+					"id_str": "7263402",
+					"indices": [
+						15,
+						26
+					]
+				},
+				{
+					"screen_name": "guidoz",
+					"name": "guidoz",
+					"id": 7305132,
+					"id_str": "7305132",
+					"indices": [
+						27,
+						34
+					]
+				},
+				{
+					"screen_name": "SanneW",
+					"name": "Sanne Walvisch",
+					"id": 2547771,
+					"id_str": "2547771",
+					"indices": [
+						35,
+						42
+					]
+				},
+				{
+					"screen_name": "puur",
+					"name": "puur",
+					"id": 5776422,
+					"id_str": "5776422",
+					"indices": [
+						43,
+						48
+					]
+				},
+				{
+					"screen_name": "punkmedia",
+					"name": "PUNKMEDIA",
+					"id": 5549572,
+					"id_str": "5549572",
+					"indices": [
+						49,
+						59
+					]
+				},
+				{
+					"screen_name": "ManvandeZaak",
+					"name": "Robin Wollenberg",
+					"id": 119411796,
+					"id_str": "119411796",
+					"indices": [
+						60,
+						73
+					]
+				},
+				{
+					"screen_name": "roosvanvugt",
+					"name": "Roos van Vugt",
+					"id": 21687228,
+					"id_str": "21687228",
+					"indices": [
+						74,
+						86
+					]
+				},
+				{
+					"screen_name": "tjarko",
+					"name": "Tjarko Rikkerink",
+					"id": 997804616455770100,
+					"id_str": "997804616455770113",
+					"indices": [
+						87,
+						94
+					]
+				},
+				{
+					"screen_name": "arnekeuning",
+					"name": "Arne Keuning",
+					"id": 8911732,
+					"id_str": "8911732",
+					"indices": [
+						95,
+						107
+					]
+				},
+				{
+					"screen_name": "jwalphenaar",
+					"name": "Jan Willem Alphenaar",
+					"id": 15820402,
+					"id_str": "15820402",
+					"indices": [
+						108,
+						120
+					]
+				},
+				{
+					"screen_name": "marcoderksen",
+					"name": "Marco Derksen",
+					"id": 1252681,
+					"id_str": "1252681",
+					"indices": [
+						121,
+						134
+					]
+				},
+				{
+					"screen_name": "bramkoster",
+					"name": "Bram Koster",
+					"id": 6893682,
+					"id_str": "6893682",
+					"indices": [
+						135,
+						146
+					]
+				},
+				{
+					"screen_name": "martijnarets",
+					"name": "Martijn Arets",
+					"id": 44898326,
+					"id_str": "44898326",
+					"indices": [
+						147,
+						160
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1090507504008785900,
+		"in_reply_to_status_id_str": "1090507504008785920",
+		"in_reply_to_user_id": 117059950,
+		"in_reply_to_user_id_str": "117059950",
+		"in_reply_to_screen_name": "MarrigtvdValk",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Per 1/3 beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Doet toffe dingen met content en communities.",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8871,
+			"friends_count": 237,
+			"listed_count": 593,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5017,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59951,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@MarrigtvdValk @EwoutWolff @guidoz @SanneW @puur @punkmedia @ManvandeZaak @roosvanvugt @tjarko @arnekeuning @jwalphenaar @marcoderksen @bramkoster @martijnarets De vraag is hoe zij worden beinvloed door datagedreven surveillance kapitalisme van sociale silo's (ik doe graag aan Revolutionaire Buzzword Bingo)"
+	},
+	{
 		"created_at": "Tue Jan 29 22:57:09 +0000 2019",
 		"id": 1090383373237997600,
 		"id_str": "1090383373237997569",
