@@ -1,6 +1,368 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Wed Jan 30 07:59:11 +0000 2019",
+		"id": 1090519781692923900,
+		"id_str": "1090519781692923904",
+		"full_text": "@ThE_ED @MarrigtvdValk @roosvanvugt Heftig. Ik wist niet dat het bestond.",
+		"truncated": false,
+		"display_text_range": [
+			36,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ThE_ED",
+					"name": "Nationaal Gyurka Jansen",
+					"id": 14445960,
+					"id_str": "14445960",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "MarrigtvdValk",
+					"name": "M A R R I G T 💚",
+					"id": 117059950,
+					"id_str": "117059950",
+					"indices": [
+						8,
+						22
+					]
+				},
+				{
+					"screen_name": "roosvanvugt",
+					"name": "Roos van Vugt",
+					"id": 21687228,
+					"id_str": "21687228",
+					"indices": [
+						23,
+						35
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1090514735106351100,
+		"in_reply_to_status_id_str": "1090514735106351104",
+		"in_reply_to_user_id": 14445960,
+		"in_reply_to_user_id_str": "14445960",
+		"in_reply_to_screen_name": "ThE_ED",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Per 1/3 beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Doet toffe dingen met content en communities.",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8871,
+			"friends_count": 237,
+			"listed_count": 593,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5019,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59954,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@ThE_ED @MarrigtvdValk @roosvanvugt Heftig. Ik wist niet dat het bestond."
+	},
+	{
+		"created_at": "Wed Jan 30 07:27:33 +0000 2019",
+		"id": 1090511822506086400,
+		"id_str": "1090511822506086400",
+		"full_text": "@marcoderksen @EwoutWolff @guidoz @SanneW @puur @punkmedia @ManvandeZaak @roosvanvugt @tjarko @arnekeuning @jwalphenaar @bramkoster @MarrigtvdValk @martijnarets Zo begon het ook met Twitter. 😉",
+		"truncated": false,
+		"display_text_range": [
+			161,
+			192
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "marcoderksen",
+					"name": "Marco Derksen",
+					"id": 1252681,
+					"id_str": "1252681",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "EwoutWolff",
+					"name": "Ewout Wolff",
+					"id": 7263402,
+					"id_str": "7263402",
+					"indices": [
+						14,
+						25
+					]
+				},
+				{
+					"screen_name": "guidoz",
+					"name": "guidoz",
+					"id": 7305132,
+					"id_str": "7305132",
+					"indices": [
+						26,
+						33
+					]
+				},
+				{
+					"screen_name": "SanneW",
+					"name": "Sanne Walvisch",
+					"id": 2547771,
+					"id_str": "2547771",
+					"indices": [
+						34,
+						41
+					]
+				},
+				{
+					"screen_name": "puur",
+					"name": "puur",
+					"id": 5776422,
+					"id_str": "5776422",
+					"indices": [
+						42,
+						47
+					]
+				},
+				{
+					"screen_name": "punkmedia",
+					"name": "PUNKMEDIA",
+					"id": 5549572,
+					"id_str": "5549572",
+					"indices": [
+						48,
+						58
+					]
+				},
+				{
+					"screen_name": "ManvandeZaak",
+					"name": "Robin Wollenberg",
+					"id": 119411796,
+					"id_str": "119411796",
+					"indices": [
+						59,
+						72
+					]
+				},
+				{
+					"screen_name": "roosvanvugt",
+					"name": "Roos van Vugt",
+					"id": 21687228,
+					"id_str": "21687228",
+					"indices": [
+						73,
+						85
+					]
+				},
+				{
+					"screen_name": "tjarko",
+					"name": "Tjarko Rikkerink",
+					"id": 997804616455770100,
+					"id_str": "997804616455770113",
+					"indices": [
+						86,
+						93
+					]
+				},
+				{
+					"screen_name": "arnekeuning",
+					"name": "Arne Keuning",
+					"id": 8911732,
+					"id_str": "8911732",
+					"indices": [
+						94,
+						106
+					]
+				},
+				{
+					"screen_name": "jwalphenaar",
+					"name": "Jan Willem Alphenaar",
+					"id": 15820402,
+					"id_str": "15820402",
+					"indices": [
+						107,
+						119
+					]
+				},
+				{
+					"screen_name": "bramkoster",
+					"name": "Bram Koster",
+					"id": 6893682,
+					"id_str": "6893682",
+					"indices": [
+						120,
+						131
+					]
+				},
+				{
+					"screen_name": "MarrigtvdValk",
+					"name": "M A R R I G T 💚",
+					"id": 117059950,
+					"id_str": "117059950",
+					"indices": [
+						132,
+						146
+					]
+				},
+				{
+					"screen_name": "martijnarets",
+					"name": "Martijn Arets",
+					"id": 44898326,
+					"id_str": "44898326",
+					"indices": [
+						147,
+						160
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1090511025303052300,
+		"in_reply_to_status_id_str": "1090511025303052288",
+		"in_reply_to_user_id": 1252681,
+		"in_reply_to_user_id_str": "1252681",
+		"in_reply_to_screen_name": "marcoderksen",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Per 1/3 beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Doet toffe dingen met content en communities.",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8871,
+			"friends_count": 237,
+			"listed_count": 593,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5019,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59954,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@marcoderksen @EwoutWolff @guidoz @SanneW @puur @punkmedia @ManvandeZaak @roosvanvugt @tjarko @arnekeuning @jwalphenaar @bramkoster @MarrigtvdValk @martijnarets Zo begon het ook met Twitter. 😉"
+	},
+	{
 		"created_at": "Wed Jan 30 07:19:57 +0000 2019",
 		"id": 1090509906808062000,
 		"id_str": "1090509906808061953",
