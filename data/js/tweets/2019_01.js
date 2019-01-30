@@ -1,6 +1,334 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Wed Jan 30 21:01:25 +0000 2019",
+		"id": 1090716637672734700,
+		"id_str": "1090716637672734720",
+		"full_text": "@PhotoJeanique Ja joh, maak je niet druk. Dat komt echt wel een keer. Maar echt mooie shirts hoor, complimenten!",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PhotoJeanique",
+					"name": "Jeanique✨",
+					"id": 14224758,
+					"id_str": "14224758",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1090713596332568600,
+		"in_reply_to_status_id_str": "1090713596332568576",
+		"in_reply_to_user_id": 14224758,
+		"in_reply_to_user_id_str": "14224758",
+		"in_reply_to_screen_name": "PhotoJeanique",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Per 1/3 beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Doet toffe dingen met content en communities.",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8872,
+			"friends_count": 237,
+			"listed_count": 594,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5028,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59975,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@PhotoJeanique Ja joh, maak je niet druk. Dat komt echt wel een keer. Maar echt mooie shirts hoor, complimenten!"
+	},
+	{
+		"created_at": "Wed Jan 30 20:42:06 +0000 2019",
+		"id": 1090711776239538200,
+		"id_str": "1090711776239538181",
+		"full_text": "Genoeg getyped en gebabbeld over het stukke internet. Nu ga ik de exclusieve Patreon podcast luisteren van @TrustNobodycast over Wie is de Mol. Want Sinan is de mol. Of nee, Rick Paul. \n\nMerel.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TrustNobodycast",
+					"name": "Trust Nobody",
+					"id": 943435303846662100,
+					"id_str": "943435303846662144",
+					"indices": [
+						107,
+						123
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Per 1/3 beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Doet toffe dingen met content en communities.",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8872,
+			"friends_count": 237,
+			"listed_count": 594,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5028,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59975,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "Genoeg getyped en gebabbeld over het stukke internet. Nu ga ik de exclusieve Patreon podcast luisteren van @TrustNobodycast over Wie is de Mol. Want Sinan is de mol. Of nee, Rick Paul. \n\nMerel."
+	},
+	{
+		"created_at": "Wed Jan 30 20:23:41 +0000 2019",
+		"id": 1090707141869125600,
+		"id_str": "1090710718024957952",
+		"full_text": "Why squander precious minutes watching separate videos on applying sheet masks and the merits of password managers when you could watch ONE video that tackles both?\n\nNo reason you can't hydrate your skin and set new passphrases at the same time 🤷‍\n\nhttps://t.co/Ac8nlEWsFX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ac8nlEWsFX",
+					"expanded_url": "https://mzl.la/2RuhovL",
+					"display_url": "mzl.la/2RuhovL",
+					"indices": [
+						249,
+						272
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2142731,
+			"id_str": "2142731",
+			"name": "Firefox 🔥",
+			"screen_name": "firefox",
+			"location": "All over the world",
+			"description": "Made for people, not profit. 2x faster, easy on memory and helps you block trackers that can slow you down. Get Firefox: https://t.co/mUeDEhwPGR",
+			"url": "https://t.co/uiLRlFZnpI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uiLRlFZnpI",
+							"expanded_url": "http://mozilla.org/firefox",
+							"display_url": "mozilla.org/firefox",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mUeDEhwPGR",
+							"expanded_url": "https://mzl.la/2t2jOrH",
+							"display_url": "mzl.la/2t2jOrH",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2689120,
+			"friends_count": 407,
+			"listed_count": 24537,
+			"created_at": "Sat Mar 24 23:58:14 +0000 2007",
+			"favourites_count": 24393,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 40218,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "00539F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/930427008173080576/_AgS8Urc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/930427008173080576/_AgS8Urc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2142731/1543930244",
+			"profile_link_color": "CC3300",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFF99",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Why squander precious minutes watching separate videos on applying sheet masks and the merits of password managers when you could watch ONE video that tackles both?\n\nNo reason you can't hydrate your skin and set new passphrases at the same time 🤷‍\n\nhttps://t.co/Ac8nlEWsFX"
+	},
+	{
 		"created_at": "Wed Jan 30 20:05:01 +0000 2019",
 		"id": 1090702444743536600,
 		"id_str": "1090702444743536640",
