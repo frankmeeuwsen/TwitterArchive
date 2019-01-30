@@ -1,6 +1,719 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Wed Jan 30 16:04:04 +0000 2019",
+		"id": 1090641807904514000,
+		"id_str": "1090641807904514054",
+		"full_text": "@ronvrn Zo is het. Ik vertrouw reclame ook niet. Ik koop alleen bekende merken!\n\n😉😉😉😉",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ronvrn",
+					"name": "Ronald Voorn",
+					"id": 246830361,
+					"id_str": "246830361",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1090641307708596200,
+		"in_reply_to_status_id_str": "1090641307708596224",
+		"in_reply_to_user_id": 246830361,
+		"in_reply_to_user_id_str": "246830361",
+		"in_reply_to_screen_name": "ronvrn",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Per 1/3 beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Doet toffe dingen met content en communities.",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8871,
+			"friends_count": 237,
+			"listed_count": 594,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59969,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@ronvrn Zo is het. Ik vertrouw reclame ook niet. Ik koop alleen bekende merken!\n\n😉😉😉😉"
+	},
+	{
+		"created_at": "Wed Jan 30 15:48:45 +0000 2019",
+		"id": 1090637952152150000,
+		"id_str": "1090637952152150017",
+		"full_text": "@Eggert Is er 15 maart een lerarenstaking? Dan weet ik al welke brief ik naar het schoolbestuur kan sturen... :-)",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Eggert",
+					"name": "\"Magnify creativity and make time more valuable.\"",
+					"id": 9346982,
+					"id_str": "9346982",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1090636277144305700,
+		"in_reply_to_status_id_str": "1090636277144305664",
+		"in_reply_to_user_id": 9346982,
+		"in_reply_to_user_id_str": "9346982",
+		"in_reply_to_screen_name": "Eggert",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Per 1/3 beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Doet toffe dingen met content en communities.",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8871,
+			"friends_count": 237,
+			"listed_count": 594,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59969,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@Eggert Is er 15 maart een lerarenstaking? Dan weet ik al welke brief ik naar het schoolbestuur kan sturen... :-)"
+	},
+	{
+		"created_at": "Wed Jan 30 15:34:34 +0000 2019",
+		"id": 1090634384250757100,
+		"id_str": "1090634384250757121",
+		"full_text": "Schoolbericht: Als leerlingen naar de klimaatstaking gaan worden ze absent gemeld door het schoolbestuur en volgen er \"passende educatieve maatregelen\"\n\nIk moet terugdenken aan de lerarenstakingen en hoe wij als ouders het allemaal maar op moesten lossen....",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			258
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Per 1/3 beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Doet toffe dingen met content en communities.",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8871,
+			"friends_count": 237,
+			"listed_count": 594,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59969,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "Schoolbericht: Als leerlingen naar de klimaatstaking gaan worden ze absent gemeld door het schoolbestuur en volgen er \"passende educatieve maatregelen\"\n\nIk moet terugdenken aan de lerarenstakingen en hoe wij als ouders het allemaal maar op moesten lossen...."
+	},
+	{
+		"created_at": "Wed Jan 30 15:30:01 +0000 2019",
+		"id": 1090633237708320800,
+		"id_str": "1090633237708320774",
+		"full_text": "@Wilbert @JeroenMirck @BramBo @KarenRomme @gvenk @EwoutWolff @marcoderksen @guidoz @SanneW @puur @punkmedia @ManvandeZaak @roosvanvugt @tjarko @arnekeuning @jwalphenaar @bramkoster @MarrigtvdValk @martijnarets @brewbart @tomdebruyne @JeffreydeGrijs @josgovaart @pgiese @ernohannink @PeterHoitinga @johanschaap @zjuul @pvantees @erikvisser @ton_zylstra Anders ik zelf wel... Nog even de gezinslogistiek van me af managen en dan kan ik vanavond wat alfabethosselen...",
+		"truncated": false,
+		"display_text_range": [
+			352,
+			465
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Wilbert",
+					"name": "Wilbert Pot",
+					"id": 2286901,
+					"id_str": "2286901",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "JeroenMirck",
+					"name": "Jeroen Mirck",
+					"id": 5567782,
+					"id_str": "5567782",
+					"indices": [
+						9,
+						21
+					]
+				},
+				{
+					"screen_name": "BramBo",
+					"name": "Bram Boertjes",
+					"id": 8459662,
+					"id_str": "8459662",
+					"indices": [
+						22,
+						29
+					]
+				},
+				{
+					"screen_name": "KarenRomme",
+					"name": "Karen Romme",
+					"id": 23805234,
+					"id_str": "23805234",
+					"indices": [
+						30,
+						41
+					]
+				},
+				{
+					"screen_name": "gvenk",
+					"name": "Gerard van Enk",
+					"id": 1789221,
+					"id_str": "1789221",
+					"indices": [
+						42,
+						48
+					]
+				},
+				{
+					"screen_name": "EwoutWolff",
+					"name": "Ewout Wolff",
+					"id": 7263402,
+					"id_str": "7263402",
+					"indices": [
+						49,
+						60
+					]
+				},
+				{
+					"screen_name": "marcoderksen",
+					"name": "Marco Derksen",
+					"id": 1252681,
+					"id_str": "1252681",
+					"indices": [
+						61,
+						74
+					]
+				},
+				{
+					"screen_name": "guidoz",
+					"name": "guidoz",
+					"id": 7305132,
+					"id_str": "7305132",
+					"indices": [
+						75,
+						82
+					]
+				},
+				{
+					"screen_name": "SanneW",
+					"name": "Sanne Walvisch",
+					"id": 2547771,
+					"id_str": "2547771",
+					"indices": [
+						83,
+						90
+					]
+				},
+				{
+					"screen_name": "puur",
+					"name": "puur",
+					"id": 5776422,
+					"id_str": "5776422",
+					"indices": [
+						91,
+						96
+					]
+				},
+				{
+					"screen_name": "punkmedia",
+					"name": "PUNKMEDIA",
+					"id": 5549572,
+					"id_str": "5549572",
+					"indices": [
+						97,
+						107
+					]
+				},
+				{
+					"screen_name": "ManvandeZaak",
+					"name": "Robin Wollenberg",
+					"id": 119411796,
+					"id_str": "119411796",
+					"indices": [
+						108,
+						121
+					]
+				},
+				{
+					"screen_name": "roosvanvugt",
+					"name": "Roos van Vugt",
+					"id": 21687228,
+					"id_str": "21687228",
+					"indices": [
+						122,
+						134
+					]
+				},
+				{
+					"screen_name": "tjarko",
+					"name": "Tjarko Rikkerink",
+					"id": 997804616455770100,
+					"id_str": "997804616455770113",
+					"indices": [
+						135,
+						142
+					]
+				},
+				{
+					"screen_name": "arnekeuning",
+					"name": "Arne Keuning",
+					"id": 8911732,
+					"id_str": "8911732",
+					"indices": [
+						143,
+						155
+					]
+				},
+				{
+					"screen_name": "jwalphenaar",
+					"name": "Jan Willem Alphenaar",
+					"id": 15820402,
+					"id_str": "15820402",
+					"indices": [
+						156,
+						168
+					]
+				},
+				{
+					"screen_name": "bramkoster",
+					"name": "Bram Koster",
+					"id": 6893682,
+					"id_str": "6893682",
+					"indices": [
+						169,
+						180
+					]
+				},
+				{
+					"screen_name": "MarrigtvdValk",
+					"name": "M A R R I G T 💚",
+					"id": 117059950,
+					"id_str": "117059950",
+					"indices": [
+						181,
+						195
+					]
+				},
+				{
+					"screen_name": "martijnarets",
+					"name": "Martijn Arets",
+					"id": 44898326,
+					"id_str": "44898326",
+					"indices": [
+						196,
+						209
+					]
+				},
+				{
+					"screen_name": "brewbart",
+					"name": "bart brouwers",
+					"id": 16344012,
+					"id_str": "16344012",
+					"indices": [
+						210,
+						219
+					]
+				},
+				{
+					"screen_name": "tomdebruyne",
+					"name": "Tom De Bruyne",
+					"id": 4782091,
+					"id_str": "4782091",
+					"indices": [
+						220,
+						232
+					]
+				},
+				{
+					"screen_name": "JeffreydeGrijs",
+					"name": "Jeffrey de Grijs",
+					"id": 19153738,
+					"id_str": "19153738",
+					"indices": [
+						233,
+						248
+					]
+				},
+				{
+					"screen_name": "josgovaart",
+					"name": "Jos Govaart",
+					"id": 17106307,
+					"id_str": "17106307",
+					"indices": [
+						249,
+						260
+					]
+				},
+				{
+					"screen_name": "pgiese",
+					"name": "Patrick Giese",
+					"id": 3913361,
+					"id_str": "3913361",
+					"indices": [
+						261,
+						268
+					]
+				},
+				{
+					"screen_name": "ernohannink",
+					"name": "Erno Hannink",
+					"id": 1477191,
+					"id_str": "1477191",
+					"indices": [
+						269,
+						281
+					]
+				},
+				{
+					"screen_name": "PeterHoitinga",
+					"name": "Peter Hoitinga",
+					"id": 966304868435681300,
+					"id_str": "966304868435681280",
+					"indices": [
+						282,
+						296
+					]
+				},
+				{
+					"screen_name": "johanschaap",
+					"name": "Johan Schaap",
+					"id": 2268351,
+					"id_str": "2268351",
+					"indices": [
+						297,
+						309
+					]
+				},
+				{
+					"screen_name": "zjuul",
+					"name": "Jules Stuifbergen",
+					"id": 11310132,
+					"id_str": "11310132",
+					"indices": [
+						310,
+						316
+					]
+				},
+				{
+					"screen_name": "pvantees",
+					"name": "Peter van Teeseling",
+					"id": 780075,
+					"id_str": "780075",
+					"indices": [
+						317,
+						326
+					]
+				},
+				{
+					"screen_name": "erikvisser",
+					"name": "Erik Visser",
+					"id": 3690891,
+					"id_str": "3690891",
+					"indices": [
+						327,
+						338
+					]
+				},
+				{
+					"screen_name": "ton_zylstra",
+					"name": "Ton Zijlstra",
+					"id": 25049203,
+					"id_str": "25049203",
+					"indices": [
+						339,
+						351
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1090629846013800400,
+		"in_reply_to_status_id_str": "1090629846013800448",
+		"in_reply_to_user_id": 2286901,
+		"in_reply_to_user_id_str": "2286901",
+		"in_reply_to_screen_name": "Wilbert",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Per 1/3 beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Doet toffe dingen met content en communities.",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8871,
+			"friends_count": 237,
+			"listed_count": 594,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59969,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@Wilbert @JeroenMirck @BramBo @KarenRomme @gvenk @EwoutWolff @marcoderksen @guidoz @SanneW @puur @punkmedia @ManvandeZaak @roosvanvugt @tjarko @arnekeuning @jwalphenaar @bramkoster @MarrigtvdValk @martijnarets @brewbart @tomdebruyne @JeffreydeGrijs @josgovaart @pgiese @ernohannink @PeterHoitinga @johanschaap @zjuul @pvantees @erikvisser @ton_zylstra Anders ik zelf wel... Nog even de gezinslogistiek van me af managen en dan kan ik vanavond wat alfabethosselen..."
+	},
+	{
 		"created_at": "Wed Jan 30 15:13:03 +0000 2019",
 		"id": 1090628966812131300,
 		"id_str": "1090628966812131328",
