@@ -1,6 +1,281 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Wed Jan 30 08:45:04 +0000 2019",
+		"id": 1090531328754413600,
+		"id_str": "1090531328754413568",
+		"full_text": "@marcoderksen @Raaphorst @martijnarets @ThE_ED @punkmedia @EwoutWolff @guidoz @SanneW @puur @ManvandeZaak @roosvanvugt @tjarko @arnekeuning @jwalphenaar @bramkoster @MarrigtvdValk Voor de aanwezigen gisteren, de blogpost die Marco liet zien vind je op https://t.co/4b7jY97f7g #mediavilla026",
+		"truncated": false,
+		"display_text_range": [
+			180,
+			290
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "mediavilla026",
+					"indices": [
+						276,
+						290
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "marcoderksen",
+					"name": "Marco Derksen",
+					"id": 1252681,
+					"id_str": "1252681",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "Raaphorst",
+					"name": "Marco Raaphorst",
+					"id": 1082331,
+					"id_str": "1082331",
+					"indices": [
+						14,
+						24
+					]
+				},
+				{
+					"screen_name": "martijnarets",
+					"name": "Martijn Arets",
+					"id": 44898326,
+					"id_str": "44898326",
+					"indices": [
+						25,
+						38
+					]
+				},
+				{
+					"screen_name": "ThE_ED",
+					"name": "Nationaal Gyurka Jansen",
+					"id": 14445960,
+					"id_str": "14445960",
+					"indices": [
+						39,
+						46
+					]
+				},
+				{
+					"screen_name": "punkmedia",
+					"name": "PUNKMEDIA",
+					"id": 5549572,
+					"id_str": "5549572",
+					"indices": [
+						47,
+						57
+					]
+				},
+				{
+					"screen_name": "EwoutWolff",
+					"name": "Ewout Wolff",
+					"id": 7263402,
+					"id_str": "7263402",
+					"indices": [
+						58,
+						69
+					]
+				},
+				{
+					"screen_name": "guidoz",
+					"name": "guidoz",
+					"id": 7305132,
+					"id_str": "7305132",
+					"indices": [
+						70,
+						77
+					]
+				},
+				{
+					"screen_name": "SanneW",
+					"name": "Sanne Walvisch",
+					"id": 2547771,
+					"id_str": "2547771",
+					"indices": [
+						78,
+						85
+					]
+				},
+				{
+					"screen_name": "puur",
+					"name": "puur",
+					"id": 5776422,
+					"id_str": "5776422",
+					"indices": [
+						86,
+						91
+					]
+				},
+				{
+					"screen_name": "ManvandeZaak",
+					"name": "Robin Wollenberg",
+					"id": 119411796,
+					"id_str": "119411796",
+					"indices": [
+						92,
+						105
+					]
+				},
+				{
+					"screen_name": "roosvanvugt",
+					"name": "Roos van Vugt",
+					"id": 21687228,
+					"id_str": "21687228",
+					"indices": [
+						106,
+						118
+					]
+				},
+				{
+					"screen_name": "tjarko",
+					"name": "Tjarko Rikkerink",
+					"id": 997804616455770100,
+					"id_str": "997804616455770113",
+					"indices": [
+						119,
+						126
+					]
+				},
+				{
+					"screen_name": "arnekeuning",
+					"name": "Arne Keuning",
+					"id": 8911732,
+					"id_str": "8911732",
+					"indices": [
+						127,
+						139
+					]
+				},
+				{
+					"screen_name": "jwalphenaar",
+					"name": "Jan Willem Alphenaar",
+					"id": 15820402,
+					"id_str": "15820402",
+					"indices": [
+						140,
+						152
+					]
+				},
+				{
+					"screen_name": "bramkoster",
+					"name": "Bram Koster",
+					"id": 6893682,
+					"id_str": "6893682",
+					"indices": [
+						153,
+						164
+					]
+				},
+				{
+					"screen_name": "MarrigtvdValk",
+					"name": "M A R R I G T 💚",
+					"id": 117059950,
+					"id_str": "117059950",
+					"indices": [
+						165,
+						179
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4b7jY97f7g",
+					"expanded_url": "https://diggingthedigital.com/internet-stuk-michael-minneboo/",
+					"display_url": "diggingthedigital.com/internet-stuk-…",
+					"indices": [
+						252,
+						275
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1090519736658677800,
+		"in_reply_to_status_id_str": "1090519736658677760",
+		"in_reply_to_user_id": 1252681,
+		"in_reply_to_user_id_str": "1252681",
+		"in_reply_to_screen_name": "marcoderksen",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Per 1/3 beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Doet toffe dingen met content en communities.",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8871,
+			"friends_count": 237,
+			"listed_count": 593,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5020,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59955,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@marcoderksen @Raaphorst @martijnarets @ThE_ED @punkmedia @EwoutWolff @guidoz @SanneW @puur @ManvandeZaak @roosvanvugt @tjarko @arnekeuning @jwalphenaar @bramkoster @MarrigtvdValk Voor de aanwezigen gisteren, de blogpost die Marco liet zien vind je op https://t.co/4b7jY97f7g #mediavilla026"
+	},
+	{
 		"created_at": "Wed Jan 30 07:59:11 +0000 2019",
 		"id": 1090519781692923900,
 		"id_str": "1090519781692923904",
