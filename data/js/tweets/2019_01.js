@@ -1,6 +1,490 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Thu Jan 31 05:40:00 +0000 2019",
+		"id": 1090847144146333700,
+		"id_str": "1090857237445332992",
+		"full_text": "Why isn't the internet more fun and weird? https://t.co/zOE5HHmkhl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zOE5HHmkhl",
+					"expanded_url": "https://jarredsumner.com/codeblog/",
+					"display_url": "jarredsumner.com/codeblog/",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 285019665,
+			"id_str": "285019665",
+			"name": "CSS-Tricks",
+			"screen_name": "css",
+			"location": "Chris in Bend, OR + Remote Team",
+			"description": "The official account for https://t.co/QA8ZTOUHWf, a web design community curated by @chriscoyier and a crack team.",
+			"url": "http://t.co/MPUasUSEx1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MPUasUSEx1",
+							"expanded_url": "http://css-tricks.com",
+							"display_url": "css-tricks.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QA8ZTOUHWf",
+							"expanded_url": "http://CSS-Tricks.com",
+							"display_url": "CSS-Tricks.com",
+							"indices": [
+								25,
+								48
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 385312,
+			"friends_count": 2034,
+			"listed_count": 7287,
+			"created_at": "Wed Apr 20 11:40:04 +0000 2011",
+			"favourites_count": 1583,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8612,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CECFC7",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1080202898372362240/akqRGyta_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080202898372362240/akqRGyta_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/285019665/1546291459",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Why isn't the internet more fun and weird? https://t.co/zOE5HHmkhl"
+	},
+	{
+		"created_at": "Thu Jan 31 06:19:49 +0000 2019",
+		"id": 1090857164741201900,
+		"id_str": "1090857164741201921",
+		"full_text": "Ik begin de dag met een tiny act of resistance tegen onze lerende Robot Overlords. https://t.co/Mi0lOA5Ka0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1090857157472456700,
+					"id_str": "1090857157472456704",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/DyOAzhvWkAAjPhg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyOAzhvWkAAjPhg.jpg",
+					"url": "https://t.co/Mi0lOA5Ka0",
+					"display_url": "pic.twitter.com/Mi0lOA5Ka0",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1090857164741201921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1090857157472456700,
+					"id_str": "1090857157472456704",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/DyOAzhvWkAAjPhg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyOAzhvWkAAjPhg.jpg",
+					"url": "https://t.co/Mi0lOA5Ka0",
+					"display_url": "pic.twitter.com/Mi0lOA5Ka0",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1090857164741201921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Per 1/3 beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Doet toffe dingen met content en communities.",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8870,
+			"friends_count": 237,
+			"listed_count": 594,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5028,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59979,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Ik begin de dag met een tiny act of resistance tegen onze lerende Robot Overlords. https://t.co/Mi0lOA5Ka0"
+	},
+	{
+		"created_at": "Thu Jan 31 00:06:04 +0000 2019",
+		"id": 1090763104886186000,
+		"id_str": "1090847573139746816",
+		"full_text": "Only 10 months 22 days 23 hours 53 minutes left until #Christmas2019! https://t.co/6hOWtktOkJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Christmas2019",
+					"indices": [
+						54,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1090763102646353900,
+					"id_str": "1090763102646353920",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DyMrQ0NWwAAdynD.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DyMrQ0NWwAAdynD.jpg",
+					"url": "https://t.co/6hOWtktOkJ",
+					"display_url": "pic.twitter.com/6hOWtktOkJ",
+					"expanded_url": "https://twitter.com/time_until_xmas/status/1090763104886185984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 266,
+							"h": 200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 266,
+							"h": 200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 266,
+							"h": 200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1090763102646353900,
+					"id_str": "1090763102646353920",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DyMrQ0NWwAAdynD.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DyMrQ0NWwAAdynD.jpg",
+					"url": "https://t.co/6hOWtktOkJ",
+					"display_url": "pic.twitter.com/6hOWtktOkJ",
+					"expanded_url": "https://twitter.com/time_until_xmas/status/1090763104886185984/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 266,
+							"h": 200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 266,
+							"h": 200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 266,
+							"h": 200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							133,
+							100
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DyMrQ0NWwAAdynD.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://crystal.ph\" rel=\"nofollow\">Crystal's Xmas Countdown</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1013991168483291100,
+			"id_str": "1013991168483291136",
+			"name": "Time Until Christmas",
+			"screen_name": "time_until_xmas",
+			"location": "UTC",
+			"description": "Follow this bot to know the time left until Christmas! 🎄🎅🏽🤶🏽 Made with ❤️ by @crystalcamarao",
+			"url": "https://t.co/nk1eGqNicq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nk1eGqNicq",
+							"expanded_url": "https://medium.com/@crystalcamarao/how-to-develop-a-simple-twitter-countdown-bot-7a1757f5c2c3",
+							"display_url": "medium.com/@crystalcamara…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 894,
+			"friends_count": 1,
+			"listed_count": 1,
+			"created_at": "Tue Jul 03 03:41:48 +0000 2018",
+			"favourites_count": 43,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 98,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1014013527743291392/clvGq6Vh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1014013527743291392/clvGq6Vh_normal.jpg",
+			"profile_link_color": "5D577A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Only 10 months 22 days 23 hours 53 minutes left until #Christmas2019! https://t.co/6hOWtktOkJ"
+	},
+	{
 		"created_at": "Wed Jan 30 21:01:25 +0000 2019",
 		"id": 1090716637672734700,
 		"id_str": "1090716637672734720",
@@ -216,7 +700,7 @@ Grailbird.data.tweets_2019_01 =
 		"created_at": "Wed Jan 30 20:23:41 +0000 2019",
 		"id": 1090707141869125600,
 		"id_str": "1090710718024957952",
-		"full_text": "Why squander precious minutes watching separate videos on applying sheet masks and the merits of password managers when you could watch ONE video that tackles both?\n\nNo reason you can't hydrate your skin and set new passphrases at the same time 🤷‍\n\nhttps://t.co/Ac8nlEWsFX",
+		"full_text": "Why squander precious minutes watching separate videos on applying sheet masks and the merits of password managers when you could watch ONE video that tackles both?\n\nNo reason you can't hydrate your skin and set new passphrases at the same time 🤷\n\nhttps://t.co/Ac8nlEWsFX",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -326,7 +810,7 @@ Grailbird.data.tweets_2019_01 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Why squander precious minutes watching separate videos on applying sheet masks and the merits of password managers when you could watch ONE video that tackles both?\n\nNo reason you can't hydrate your skin and set new passphrases at the same time 🤷‍\n\nhttps://t.co/Ac8nlEWsFX"
+		"text": "Why squander precious minutes watching separate videos on applying sheet masks and the merits of password managers when you could watch ONE video that tackles both?\n\nNo reason you can't hydrate your skin and set new passphrases at the same time 🤷\n\nhttps://t.co/Ac8nlEWsFX"
 	},
 	{
 		"created_at": "Wed Jan 30 20:05:01 +0000 2019",
