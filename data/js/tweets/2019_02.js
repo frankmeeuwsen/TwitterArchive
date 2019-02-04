@@ -1,6 +1,184 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Mon Feb 04 07:03:34 +0000 2019",
+		"id": 1092317725228130300,
+		"id_str": "1092440129174675458",
+		"full_text": "@davidwhogg @MariaBergemann @MastodonProject Until you set up your own space, the #scicomm community at https://t.co/E6YjlMr3NZ is worth checking out!",
+		"truncated": false,
+		"display_text_range": [
+			45,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "scicomm",
+					"indices": [
+						82,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "davidwhogg",
+					"name": "David W Hogg",
+					"id": 277401500,
+					"id_str": "277401500",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "MariaBergemann",
+					"name": "Maria Bergemann",
+					"id": 1257639680,
+					"id_str": "1257639680",
+					"indices": [
+						12,
+						27
+					]
+				},
+				{
+					"screen_name": "MastodonProject",
+					"name": "Mastodon",
+					"id": 875882643614814200,
+					"id_str": "875882643614814208",
+					"indices": [
+						28,
+						44
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/E6YjlMr3NZ",
+					"expanded_url": "http://scicomm.xyz",
+					"display_url": "scicomm.xyz",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1091753415393325000,
+		"in_reply_to_status_id_str": "1091753415393325057",
+		"in_reply_to_user_id": 277401500,
+		"in_reply_to_user_id_str": "277401500",
+		"in_reply_to_screen_name": "davidwhogg",
+		"user": {
+			"id": 13364,
+			"id_str": "13364",
+			"name": "Ryan Ozawa",
+			"screen_name": "hawaii",
+			"location": "Honolulu, Hawaii",
+			"description": "Dad, geek, journalist in paradise. Comm for @HiInformation, sci-tech and startups at @WeAreHPR @HawaiiNewsNow. GPG: CFE8 F2E7 43FC A717 #hawaii #startupparadise",
+			"url": "https://t.co/s8J69qTmJo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s8J69qTmJo",
+							"expanded_url": "http://www.hawaiiweblog.com",
+							"display_url": "hawaiiweblog.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23894,
+			"friends_count": 11829,
+			"listed_count": 1399,
+			"created_at": "Tue Nov 21 00:35:19 +0000 2006",
+			"favourites_count": 2637,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 50073,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "67CD67",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/947979872776761344/2ssZLL7a_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/947979872776761344/2ssZLL7a_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13364/1473576926",
+			"profile_link_color": "009900",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "E0FF91",
+			"profile_text_color": "003200",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7ae51e2c9403c6b7",
+			"url": "https://api.twitter.com/1.1/geo/id/7ae51e2c9403c6b7.json",
+			"place_type": "city",
+			"name": "Mililani Town",
+			"full_name": "Mililani Town, HI",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-158.030114,
+							21.426592
+						],
+						[
+							-157.992829,
+							21.426592
+						],
+						[
+							-157.992829,
+							21.465962
+						],
+						[
+							-158.030114,
+							21.465962
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@davidwhogg @MariaBergemann @MastodonProject Until you set up your own space, the #scicomm community at https://t.co/E6YjlMr3NZ is worth checking out!"
+	},
+	{
 		"created_at": "Mon Feb 04 13:28:06 +0000 2019",
 		"id": 1092414493626458100,
 		"id_str": "1092414493626458113",
