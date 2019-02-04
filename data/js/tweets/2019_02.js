@@ -1,6 +1,523 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Mon Feb 04 16:18:47 +0000 2019",
+		"id": 1092457449544654800,
+		"id_str": "1092457449544654848",
+		"full_text": "Niches maken het web wat het is. https://t.co/NxycP4kOg6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NxycP4kOg6",
+					"expanded_url": "https://diggingthedigital.com/niches-maken-het-web/",
+					"display_url": "diggingthedigital.com/niches-maken-h…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1092318290318377000,
+		"in_reply_to_status_id_str": "1092318290318376960",
+		"in_reply_to_user_id": 816203,
+		"in_reply_to_user_id_str": "816203",
+		"in_reply_to_screen_name": "frankmeeuwsen",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Per 1/3 beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Doet toffe dingen met content en communities.",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8866,
+			"friends_count": 238,
+			"listed_count": 594,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5045,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59992,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Niches maken het web wat het is. https://t.co/NxycP4kOg6"
+	},
+	{
+		"created_at": "Mon Feb 04 15:37:25 +0000 2019",
+		"id": 1092447040427184100,
+		"id_str": "1092447040427184128",
+		"full_text": "Zoals sommigen een spirit animal hebben, ik denk dat ik mijn spirit twitter account heb gevonden... https://t.co/EtxfHDqeRj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EtxfHDqeRj",
+					"expanded_url": "https://twitter.com/presentcorrect/status/1087752066951458816",
+					"display_url": "twitter.com/presentcorrect…",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Per 1/3 beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Doet toffe dingen met content en communities.",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8866,
+			"friends_count": 238,
+			"listed_count": 594,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5045,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59992,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1087752066951458800,
+		"quoted_status_id_str": "1087752066951458816",
+		"quoted_status_permalink": {
+			"url": "https://t.co/EtxfHDqeRj",
+			"expanded": "https://twitter.com/presentcorrect/status/1087752066951458816",
+			"display": "twitter.com/presentcorrect…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 22 16:41:16 +0000 2019",
+			"id": 1087752066951458800,
+			"id_str": "1087752066951458816",
+			"full_text": "Nothing but skies from video games.\nhttps://t.co/FA0CX9q21l https://t.co/2j8K7oDY8i",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				59
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/FA0CX9q21l",
+						"expanded_url": "https://videogamesskies.tumblr.com",
+						"display_url": "videogamesskies.tumblr.com",
+						"indices": [
+							36,
+							59
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1087752060496498700,
+						"id_str": "1087752060496498689",
+						"indices": [
+							60,
+							83
+						],
+						"media_url": "http://pbs.twimg.com/media/Dxh4vGGX0AE67Wj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dxh4vGGX0AE67Wj.jpg",
+						"url": "https://t.co/2j8K7oDY8i",
+						"display_url": "pic.twitter.com/2j8K7oDY8i",
+						"expanded_url": "https://twitter.com/presentcorrect/status/1087752066951458816/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 425,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 625,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1000,
+								"h": 625,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1087752060496498700,
+						"id_str": "1087752060496498689",
+						"indices": [
+							60,
+							83
+						],
+						"media_url": "http://pbs.twimg.com/media/Dxh4vGGX0AE67Wj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dxh4vGGX0AE67Wj.jpg",
+						"url": "https://t.co/2j8K7oDY8i",
+						"display_url": "pic.twitter.com/2j8K7oDY8i",
+						"expanded_url": "https://twitter.com/presentcorrect/status/1087752066951458816/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 425,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 625,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1000,
+								"h": 625,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20228975,
+				"id_str": "20228975",
+				"name": "Present & Correct",
+				"screen_name": "presentcorrect",
+				"location": "London, England",
+				"description": "Office sundries for the modern workspace. Our shop: 23 Arlington Way, London EC1R open Tue - Sat from 12-6:30 https://t.co/GJEpCw6omT",
+				"url": "https://t.co/GJEpCw6omT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/GJEpCw6omT",
+								"expanded_url": "http://www.presentandcorrect.com",
+								"display_url": "presentandcorrect.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/GJEpCw6omT",
+								"expanded_url": "http://www.presentandcorrect.com",
+								"display_url": "presentandcorrect.com",
+								"indices": [
+									110,
+									133
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 53409,
+				"friends_count": 884,
+				"listed_count": 1114,
+				"created_at": "Fri Feb 06 10:49:40 +0000 2009",
+				"favourites_count": 3510,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 45918,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EDEDED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/875381488539361280/S20DH0Zr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875381488539361280/S20DH0Zr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20228975/1427463162",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 131,
+			"favorite_count": 338,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Zoals sommigen een spirit animal hebben, ik denk dat ik mijn spirit twitter account heb gevonden... https://t.co/EtxfHDqeRj"
+	},
+	{
+		"created_at": "Mon Feb 04 13:09:28 +0000 2019",
+		"id": 1092409805254389800,
+		"id_str": "1092446747794771969",
+		"full_text": "Kalsarikännit (Finland) – getting drunk at home, in your underwear &amp; with no intention of going out.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20228975,
+			"id_str": "20228975",
+			"name": "Present & Correct",
+			"screen_name": "presentcorrect",
+			"location": "London, England",
+			"description": "Office sundries for the modern workspace. Our shop: 23 Arlington Way, London EC1R open Tue - Sat from 12-6:30 https://t.co/GJEpCw6omT",
+			"url": "https://t.co/GJEpCw6omT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GJEpCw6omT",
+							"expanded_url": "http://www.presentandcorrect.com",
+							"display_url": "presentandcorrect.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GJEpCw6omT",
+							"expanded_url": "http://www.presentandcorrect.com",
+							"display_url": "presentandcorrect.com",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 53409,
+			"friends_count": 884,
+			"listed_count": 1114,
+			"created_at": "Fri Feb 06 10:49:40 +0000 2009",
+			"favourites_count": 3510,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 45918,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDEDED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875381488539361280/S20DH0Zr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875381488539361280/S20DH0Zr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20228975/1427463162",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 59,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Kalsarikännit (Finland) – getting drunk at home, in your underwear &amp; with no intention of going out."
+	},
+	{
 		"created_at": "Mon Feb 04 07:03:34 +0000 2019",
 		"id": 1092317725228130300,
 		"id_str": "1092440129174675458",
