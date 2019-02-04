@@ -1,6 +1,347 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Mon Feb 04 21:45:15 +0000 2019",
+		"id": 1092539607084863500,
+		"id_str": "1092539607084863489",
+		"full_text": "@bopp @NetflixNL OK dan ga ik nu maar eens kijken. Jij bent al de zoveelste die het zegt. De trailer begon leuk maar het leek al snel een Groundhog Day 2019 te zijn. Ik ben benieuwd.",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			182
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bopp",
+					"name": "Bob 🧙🏻‍♂️",
+					"id": 8160822,
+					"id_str": "8160822",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"screen_name": "NetflixNL",
+					"name": "Netflix NL",
+					"id": 231239973,
+					"id_str": "231239973",
+					"indices": [
+						6,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1092535397337493500,
+		"in_reply_to_status_id_str": "1092535397337493505",
+		"in_reply_to_user_id": 8160822,
+		"in_reply_to_user_id_str": "8160822",
+		"in_reply_to_screen_name": "bopp",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Per 1/3 beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Doet toffe dingen met content en communities.",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8866,
+			"friends_count": 238,
+			"listed_count": 594,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5045,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60002,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@bopp @NetflixNL OK dan ga ik nu maar eens kijken. Jij bent al de zoveelste die het zegt. De trailer begon leuk maar het leek al snel een Groundhog Day 2019 te zijn. Ik ben benieuwd."
+	},
+	{
+		"created_at": "Mon Feb 04 18:53:06 +0000 2019",
+		"id": 1092496284185849900,
+		"id_str": "1092535332061483008",
+		"full_text": "So everyone was joking about Konmari-ing their Twitter, but I went ahead and made a tool for that:\n\nSay hello to ✨ Tokimeki Unfollow  ✨!\n\nHang out with virtual me and go thru your follows one by one. Do their tweets spark joy? If not, hit [Unfollow]!\n\nhttps://t.co/mrIK14vXum https://t.co/DsPLmdE6Ol",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mrIK14vXum",
+					"expanded_url": "https://tokimeki-unfollow.glitch.me",
+					"display_url": "tokimeki-unfollow.glitch.me",
+					"indices": [
+						252,
+						275
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1092495399619678200,
+					"id_str": "1092495399619678208",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1092495399619678208/pu/img/f9-AsydEUkifWy3E.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1092495399619678208/pu/img/f9-AsydEUkifWy3E.jpg",
+					"url": "https://t.co/DsPLmdE6Ol",
+					"display_url": "pic.twitter.com/DsPLmdE6Ol",
+					"expanded_url": "https://twitter.com/tarngerine/status/1092496284185849856/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 599,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 818,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 818,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1092495399619678200,
+					"id_str": "1092495399619678208",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1092495399619678208/pu/img/f9-AsydEUkifWy3E.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1092495399619678208/pu/img/f9-AsydEUkifWy3E.jpg",
+					"url": "https://t.co/DsPLmdE6Ol",
+					"display_url": "pic.twitter.com/DsPLmdE6Ol",
+					"expanded_url": "https://twitter.com/tarngerine/status/1092496284185849856/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 599,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 818,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 818,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							409,
+							360
+						],
+						"duration_millis": 21127,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1092495399619678208/pu/vid/818x720/hF9vsYZa38CZxVI5.mp4?tag=6"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1092495399619678208/pu/pl/IlBe6kN_93jHH_er.m3u8?tag=6"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1092495399619678208/pu/vid/204x180/_h7UGssBzP805gpP.mp4?tag=6"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1092495399619678208/pu/vid/408x360/5w2GixzFykXGTmjE.mp4?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15665038,
+			"id_str": "15665038",
+			"name": "julius tarng",
+			"screen_name": "tarngerine",
+			"location": "usa",
+			"description": "~ I like making tools 🔧 and learning things 📚 ~ games at https://t.co/DjVP9yo4Kq🎮 ☆ i mostly watch anime and play overwatch ☆",
+			"url": "https://t.co/BV2KO7uSel",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BV2KO7uSel",
+							"expanded_url": "http://tarng.com",
+							"display_url": "tarng.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/DjVP9yo4Kq",
+							"expanded_url": "http://tarngerine.itch.io",
+							"display_url": "tarngerine.itch.io",
+							"indices": [
+								57,
+								80
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2473,
+			"friends_count": 695,
+			"listed_count": 138,
+			"created_at": "Wed Jul 30 19:46:16 +0000 2008",
+			"favourites_count": 17950,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15186,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "222222",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/628703046051172356/zt5DrBNL_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/628703046051172356/zt5DrBNL_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15665038/1454738209",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 205,
+		"favorite_count": 585,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "So everyone was joking about Konmari-ing their Twitter, but I went ahead and made a tool for that:\n\nSay hello to ✨ Tokimeki Unfollow  ✨!\n\nHang out with virtual me and go thru your follows one by one. Do their tweets spark joy? If not, hit [Unfollow]!\n\nhttps://t.co/mrIK14vXum https://t.co/DsPLmdE6Ol"
+	},
+	{
 		"created_at": "Mon Feb 04 20:55:49 +0000 2019",
 		"id": 1092527169178341400,
 		"id_str": "1092527169178341387",
