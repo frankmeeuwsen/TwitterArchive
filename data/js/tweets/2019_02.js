@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Thu Feb 07 17:06:44 +0000 2019",
+		"id": 1093556678904172500,
+		"id_str": "1093556678904172544",
+		"full_text": "Behind The Lyrics meelezen zonder in de vangrail te eindigen. https://t.co/hjx9H8uE83",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hjx9H8uE83",
+					"expanded_url": "https://twitter.com/meneerdegreef/status/1093556178406330370",
+					"display_url": "twitter.com/meneerdegreef/…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Per 1/3 beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Doet toffe dingen met content en communities.",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8862,
+			"friends_count": 238,
+			"listed_count": 594,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5052,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60027,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1093556178406330400,
+		"quoted_status_id_str": "1093556178406330370",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hjx9H8uE83",
+			"expanded": "https://twitter.com/meneerdegreef/status/1093556178406330370",
+			"display": "twitter.com/meneerdegreef/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Feb 07 17:04:44 +0000 2019",
+			"id": 1093556178406330400,
+			"id_str": "1093556178406330370",
+			"full_text": "Ik denk dat @SpotifyNL leuker zou zijn als je achievements zou kunnen halen voor bepaalde quests (beluister alles van Metallica zonder te skippen, luister 1000 minuten hiphop) en dat je die achievements weer kan delen op socmed. \n\nGraag gedaan Spotify.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				252
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "SpotifyNL",
+						"name": "Spotify NL",
+						"id": 2167215397,
+						"id_str": "2167215397",
+						"indices": [
+							12,
+							22
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 260245776,
+				"id_str": "260245776",
+				"name": "GREEFBEEST DE BLOEDBOTTELAAR",
+				"screen_name": "MENEERDEGREEF",
+				"location": "Cunter, Svizra",
+				"description": "HARD SCHREEUWENDE VERTICAAL UITGEDAAGDE. GOONIE. KINKSTER. NARE WOESTELING. SUPPORT VIOLENT DANCING. GEEN PIJN GEEN PRET. #JEUGDBENDE REDACTIE @ https://t.co/jA",
+				"url": "https://t.co/fGvuR8CYuG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fGvuR8CYuG",
+								"expanded_url": null,
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6131,
+				"friends_count": 2283,
+				"listed_count": 73,
+				"created_at": "Thu Mar 03 14:04:17 +0000 2011",
+				"favourites_count": 16113,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 85313,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1071015210599768064/HigOg4G1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1071015210599768064/HigOg4G1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/260245776/1542710048",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 19,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Behind The Lyrics meelezen zonder in de vangrail te eindigen. https://t.co/hjx9H8uE83"
+	},
+	{
 		"created_at": "Thu Feb 07 16:19:49 +0000 2019",
 		"id": 1093544871879761900,
 		"id_str": "1093544871879761920",
