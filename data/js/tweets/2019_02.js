@@ -1,6 +1,439 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Thu Feb 07 08:38:54 +0000 2019",
+		"id": 1093428880076095500,
+		"id_str": "1093430748630130688",
+		"full_text": "Op veel bedrijven wordt https://t.co/BzrvqsHBzW geblokkeerd omdat het porno zou zijn -- voor je oren ja! Als iedereen even het domein als \"radio\" aanvinkt op https://t.co/WcHQ03NgXA help je werkend Nederland aan goede muziek op de werkvloer! Tnx! https://t.co/0XxiGVo5Zy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			246
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BzrvqsHBzW",
+					"expanded_url": "http://kink.nl",
+					"display_url": "kink.nl",
+					"indices": [
+						24,
+						47
+					]
+				},
+				{
+					"url": "https://t.co/WcHQ03NgXA",
+					"expanded_url": "https://domain.opendns.com/kink.nl",
+					"display_url": "domain.opendns.com/kink.nl",
+					"indices": [
+						158,
+						181
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1093428821343244300,
+					"id_str": "1093428821343244290",
+					"indices": [
+						247,
+						270
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DyyjuENWkAIBQVr.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DyyjuENWkAIBQVr.jpg",
+					"url": "https://t.co/0XxiGVo5Zy",
+					"display_url": "pic.twitter.com/0XxiGVo5Zy",
+					"expanded_url": "https://twitter.com/michielveenstra/status/1093428880076095489/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 150,
+							"h": 124,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 150,
+							"h": 124,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 124,
+							"h": 124,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 150,
+							"h": 124,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1093428821343244300,
+					"id_str": "1093428821343244290",
+					"indices": [
+						247,
+						270
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DyyjuENWkAIBQVr.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DyyjuENWkAIBQVr.jpg",
+					"url": "https://t.co/0XxiGVo5Zy",
+					"display_url": "pic.twitter.com/0XxiGVo5Zy",
+					"expanded_url": "https://twitter.com/michielveenstra/status/1093428880076095489/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 150,
+							"h": 124,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 150,
+							"h": 124,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 124,
+							"h": 124,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 150,
+							"h": 124,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							75,
+							62
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DyyjuENWkAIBQVr.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14242065,
+			"id_str": "14242065",
+			"name": "Michiel Veenstra || ꓘINK",
+			"screen_name": "michielveenstra",
+			"location": "Hilversum, The Netherlands",
+			"description": "Elke ochtend op het nieuwe KINK /// Check https://t.co/az1vgYRp6R /// Podcasts & playlists /// Boekingen: https://t.co/fvR4qkQHyR",
+			"url": "https://t.co/BWV68PZIee",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BWV68PZIee",
+							"expanded_url": "http://www.michielveenstra.nl",
+							"display_url": "michielveenstra.nl",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/az1vgYRp6R",
+							"expanded_url": "http://KINK.nl",
+							"display_url": "KINK.nl",
+							"indices": [
+								42,
+								65
+							]
+						},
+						{
+							"url": "https://t.co/fvR4qkQHyR",
+							"expanded_url": "http://deboeker.nl/",
+							"display_url": "deboeker.nl",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 156205,
+			"friends_count": 1063,
+			"listed_count": 1111,
+			"created_at": "Fri Mar 28 07:13:39 +0000 2008",
+			"favourites_count": 35559,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 73304,
+			"lang": "nl",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1046840294673661953/6dbbB51O_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1046840294673661953/6dbbB51O_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14242065/1547756318",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Op veel bedrijven wordt https://t.co/BzrvqsHBzW geblokkeerd omdat het porno zou zijn -- voor je oren ja! Als iedereen even het domein als \"radio\" aanvinkt op https://t.co/WcHQ03NgXA help je werkend Nederland aan goede muziek op de werkvloer! Tnx! https://t.co/0XxiGVo5Zy"
+	},
+	{
+		"created_at": "Thu Feb 07 08:23:39 +0000 2019",
+		"id": 1093425040618602500,
+		"id_str": "1093425040618602497",
+		"full_text": "@stevendenboer @roosvanvugt Ook mopperaars kunnen joy-sparkers zijn 😉 https://t.co/CXFu4OCAMk",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stevendenboer",
+					"name": "Steven den Boer",
+					"id": 1614451,
+					"id_str": "1614451",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "roosvanvugt",
+					"name": "Roos van Vugt",
+					"id": 21687228,
+					"id_str": "21687228",
+					"indices": [
+						15,
+						27
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1093425032930435100,
+					"id_str": "1093425032930435073",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DyygRjRWoAEnQdO.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DyygRjRWoAEnQdO.jpg",
+					"url": "https://t.co/CXFu4OCAMk",
+					"display_url": "pic.twitter.com/CXFu4OCAMk",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1093425040618602497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 400,
+							"h": 376,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 376,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 376,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1093425032930435100,
+					"id_str": "1093425032930435073",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DyygRjRWoAEnQdO.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DyygRjRWoAEnQdO.jpg",
+					"url": "https://t.co/CXFu4OCAMk",
+					"display_url": "pic.twitter.com/CXFu4OCAMk",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1093425040618602497/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 400,
+							"h": 376,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 376,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 376,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							50,
+							47
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DyygRjRWoAEnQdO.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1093413413798273000,
+		"in_reply_to_status_id_str": "1093413413798273024",
+		"in_reply_to_user_id": 1614451,
+		"in_reply_to_user_id_str": "1614451",
+		"in_reply_to_screen_name": "stevendenboer",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Per 1/3 beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Doet toffe dingen met content en communities.",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8864,
+			"friends_count": 238,
+			"listed_count": 594,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5047,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60020,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@stevendenboer @roosvanvugt Ook mopperaars kunnen joy-sparkers zijn 😉 https://t.co/CXFu4OCAMk"
+	},
+	{
 		"created_at": "Thu Feb 07 06:51:08 +0000 2019",
 		"id": 1093401759236657200,
 		"id_str": "1093401759236657152",
