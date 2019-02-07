@@ -1,6 +1,412 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Thu Feb 07 16:19:49 +0000 2019",
+		"id": 1093544871879761900,
+		"id_str": "1093544871879761920",
+		"full_text": "Ik ga geen nujij-reacties lezen bij nieuws over de #Klimaatmars...\nIk ga geen nujij-reacties lezen bij nieuws over de #Klimaatmars...\nIk ga geen nujij-reacties lezen bij nieuws over de #Klimaatmars...\nIk ga geen nujij-reacties lezen bij nieuws over de #Klimaatmars... https://t.co/8c3CBiDwoU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Klimaatmars",
+					"indices": [
+						51,
+						63
+					]
+				},
+				{
+					"text": "Klimaatmars",
+					"indices": [
+						118,
+						130
+					]
+				},
+				{
+					"text": "Klimaatmars",
+					"indices": [
+						185,
+						197
+					]
+				},
+				{
+					"text": "Klimaatmars",
+					"indices": [
+						252,
+						264
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1093544864157978600,
+					"id_str": "1093544864157978625",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dy0NQpYW0AEm5Jr.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dy0NQpYW0AEm5Jr.jpg",
+					"url": "https://t.co/8c3CBiDwoU",
+					"display_url": "pic.twitter.com/8c3CBiDwoU",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1093544871879761920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 498,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 498,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 498,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1093544864157978600,
+					"id_str": "1093544864157978625",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dy0NQpYW0AEm5Jr.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dy0NQpYW0AEm5Jr.jpg",
+					"url": "https://t.co/8c3CBiDwoU",
+					"display_url": "pic.twitter.com/8c3CBiDwoU",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1093544871879761920/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 498,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 498,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 498,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Dy0NQpYW0AEm5Jr.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Per 1/3 beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Doet toffe dingen met content en communities.",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8862,
+			"friends_count": 238,
+			"listed_count": 594,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5051,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60026,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Ik ga geen nujij-reacties lezen bij nieuws over de #Klimaatmars...\nIk ga geen nujij-reacties lezen bij nieuws over de #Klimaatmars...\nIk ga geen nujij-reacties lezen bij nieuws over de #Klimaatmars...\nIk ga geen nujij-reacties lezen bij nieuws over de #Klimaatmars... https://t.co/8c3CBiDwoU"
+	},
+	{
+		"created_at": "Thu Feb 07 15:35:52 +0000 2019",
+		"id": 1093533813974683600,
+		"id_str": "1093541616122511360",
+		"full_text": "@natasja_dankers @corona668 Vroeger deden we niet zo gek 🤤👌🏼 (Dit vonden de ouderen van toen vaak vreselijke slogans!) #klimaatspijbelaars https://t.co/wyaZZxdQoH",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "klimaatspijbelaars",
+					"indices": [
+						119,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "natasja_dankers",
+					"name": "Natasja 🐝🙊",
+					"id": 1567760749,
+					"id_str": "1567760749",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "corona668",
+					"name": "MK",
+					"id": 392720124,
+					"id_str": "392720124",
+					"indices": [
+						17,
+						27
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1093533810992574500,
+					"id_str": "1093533810992574464",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/Dy0DNRIXcAA29Bk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dy0DNRIXcAA29Bk.jpg",
+					"url": "https://t.co/wyaZZxdQoH",
+					"display_url": "pic.twitter.com/wyaZZxdQoH",
+					"expanded_url": "https://twitter.com/LoveDoctorNL/status/1093533813974683648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1093533810992574500,
+					"id_str": "1093533810992574464",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/Dy0DNRIXcAA29Bk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dy0DNRIXcAA29Bk.jpg",
+					"url": "https://t.co/wyaZZxdQoH",
+					"display_url": "pic.twitter.com/wyaZZxdQoH",
+					"expanded_url": "https://twitter.com/LoveDoctorNL/status/1093533813974683648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+		"in_reply_to_status_id": 1093476526694256600,
+		"in_reply_to_status_id_str": "1093476526694256641",
+		"in_reply_to_user_id": 1567760749,
+		"in_reply_to_user_id_str": "1567760749",
+		"in_reply_to_screen_name": "natasja_dankers",
+		"user": {
+			"id": 14856825,
+			"id_str": "14856825",
+			"name": "LoveDoctorNL",
+			"screen_name": "LoveDoctorNL",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 100,
+			"friends_count": 117,
+			"listed_count": 4,
+			"created_at": "Wed May 21 14:14:50 +0000 2008",
+			"favourites_count": 2635,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17552,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1D1B4F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/680734216322170880/GLOSXJLs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/680734216322170880/GLOSXJLs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14856825/1464298683",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "CCE0FF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 22,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@natasja_dankers @corona668 Vroeger deden we niet zo gek 🤤👌🏼 (Dit vonden de ouderen van toen vaak vreselijke slogans!) #klimaatspijbelaars https://t.co/wyaZZxdQoH"
+	},
+	{
 		"created_at": "Thu Feb 07 15:10:13 +0000 2019",
 		"id": 1093527356956913700,
 		"id_str": "1093527356956913669",
