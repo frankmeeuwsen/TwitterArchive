@@ -1,6 +1,156 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sun Feb 10 06:20:35 +0000 2019",
+		"id": 1094481235072766000,
+		"id_str": "1094502532028813312",
+		"full_text": "Nostalgische campagne van Captain Marvel. Nooit gedacht dat ik een website op deze manier weer eens zou zien. @frankmeeuwsen moet jou ook aanspreken.\nhttps://t.co/4Z9yxlnNru",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "frankmeeuwsen",
+					"name": "Frank Meeuwsen",
+					"id": 816203,
+					"id_str": "816203",
+					"indices": [
+						110,
+						124
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4Z9yxlnNru",
+					"expanded_url": "https://www.marvel.com/captainmarvel",
+					"display_url": "marvel.com/captainmarvel",
+					"indices": [
+						150,
+						173
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3408191,
+			"id_str": "3408191",
+			"name": "G. Indira Reynaert",
+			"screen_name": "indirareynaert",
+			"location": "Arnhem, Nederland",
+			"description": "owner @evaluatiebureau eejaa",
+			"url": "https://t.co/8RdqUFTwJK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8RdqUFTwJK",
+							"expanded_url": "http://indirareynaert.nl",
+							"display_url": "indirareynaert.nl",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3354,
+			"friends_count": 369,
+			"listed_count": 293,
+			"created_at": "Wed Apr 04 09:32:52 +0000 2007",
+			"favourites_count": 11376,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 45089,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1052940676894216192/31hMKuap_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1052940676894216192/31hMKuap_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3408191/1541252119",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F3F7E6",
+			"profile_text_color": "0A0D09",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "99cdab25eddd6bce",
+			"url": "https://api.twitter.com/1.1/geo/id/99cdab25eddd6bce.json",
+			"place_type": "city",
+			"name": "Amsterdam",
+			"full_name": "Amsterdam, The Netherlands",
+			"country_code": "NL",
+			"country": "The Netherlands",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							4.7288999,
+							52.2782266
+						],
+						[
+							5.0792072,
+							52.2782266
+						],
+						[
+							5.0792072,
+							52.4312289
+						],
+						[
+							4.7288999,
+							52.4312289
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Nostalgische campagne van Captain Marvel. Nooit gedacht dat ik een website op deze manier weer eens zou zien. @frankmeeuwsen moet jou ook aanspreken.\nhttps://t.co/4Z9yxlnNru"
+	},
+	{
 		"created_at": "Sat Feb 09 21:14:12 +0000 2019",
 		"id": 1094343734290989000,
 		"id_str": "1094343734290989070",
