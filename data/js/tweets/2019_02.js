@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Mon Feb 11 00:40:12 +0000 2019",
+		"id": 1094757962139152400,
+		"id_str": "1094843836822704128",
+		"full_text": "Decided to use @roeeaharoni's methods to ask BERT to generate the name of the next Star Wars movie. Prompt was: \"The new Star Wars movie will be called the [MASK] of the [MASK]\" https://t.co/1lcQYzXjax",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "roeeaharoni",
+					"name": "Roee Aharoni",
+					"id": 301992639,
+					"id_str": "301992639",
+					"indices": [
+						15,
+						27
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1094757793624580100,
+					"id_str": "1094757793624580096",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/DzFcabwVYAADu8v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzFcabwVYAADu8v.jpg",
+					"url": "https://t.co/1lcQYzXjax",
+					"display_url": "pic.twitter.com/1lcQYzXjax",
+					"expanded_url": "https://twitter.com/JanelleCShane/status/1094757962139152385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 362,
+							"h": 338,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 362,
+							"h": 338,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 362,
+							"h": 338,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1094757793624580100,
+					"id_str": "1094757793624580096",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/DzFcabwVYAADu8v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzFcabwVYAADu8v.jpg",
+					"url": "https://t.co/1lcQYzXjax",
+					"display_url": "pic.twitter.com/1lcQYzXjax",
+					"expanded_url": "https://twitter.com/JanelleCShane/status/1094757962139152385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 362,
+							"h": 338,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 362,
+							"h": 338,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 362,
+							"h": 338,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2460047754,
+			"id_str": "2460047754",
+			"name": "Janelle Shane",
+			"screen_name": "JanelleCShane",
+			"location": "Boulder, CO",
+			"description": "Research Scientist in optics. Plays with neural networks. Avid reader, writer, and player of Irish flute. she/her. https://t.co/B6PFEkiCam",
+			"url": "https://t.co/81ptWccmSP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/81ptWccmSP",
+							"expanded_url": "http://aiweirdness.com",
+							"display_url": "aiweirdness.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/B6PFEkiCam",
+							"expanded_url": "http://wandering.shop/@janellecshane",
+							"display_url": "wandering.shop/@janellecshane",
+							"indices": [
+								115,
+								138
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 21249,
+			"friends_count": 529,
+			"listed_count": 414,
+			"created_at": "Wed Apr 23 17:53:28 +0000 2014",
+			"favourites_count": 6477,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8384,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/760660597427941376/XdM-kqUr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/760660597427941376/XdM-kqUr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2460047754/1514084738",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 72,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Decided to use @roeeaharoni's methods to ask BERT to generate the name of the next Star Wars movie. Prompt was: \"The new Star Wars movie will be called the [MASK] of the [MASK]\" https://t.co/1lcQYzXjax"
+	},
+	{
 		"created_at": "Sun Feb 10 09:04:45 +0000 2019",
 		"id": 1094522548132433900,
 		"id_str": "1094522548132433920",
