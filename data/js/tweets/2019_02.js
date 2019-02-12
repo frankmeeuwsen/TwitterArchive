@@ -1,6 +1,338 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Tue Feb 12 17:08:57 +0000 2019",
+		"id": 1095369175931990000,
+		"id_str": "1095369175931990021",
+		"full_text": "Goed verhaal! https://t.co/ISVBnziqfs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ISVBnziqfs",
+					"expanded_url": "https://twitter.com/FEPS_Europe/status/1095338361131134976",
+					"display_url": "twitter.com/FEPS_Europe/st…",
+					"indices": [
+						14,
+						37
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Per 1/3 beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Doet toffe dingen met content en communities.",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8859,
+			"friends_count": 244,
+			"listed_count": 594,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5059,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60026,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1095338361131135000,
+		"quoted_status_id_str": "1095338361131134976",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ISVBnziqfs",
+			"expanded": "https://twitter.com/FEPS_Europe/status/1095338361131134976",
+			"display": "twitter.com/FEPS_Europe/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Feb 12 15:06:30 +0000 2019",
+			"id": 1095338361131135000,
+			"id_str": "1095338361131134976",
+			"full_text": "#DigitalRevolution What if we could reinvent the internet so that it serves the common good?\n\nA reflection by @gjbogaerts @public_spaces in 🆕 #ProgressivePost in https://t.co/YAv5hogBR4 https://t.co/ZOhfPLT6bm",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				185
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DigitalRevolution",
+						"indices": [
+							0,
+							18
+						]
+					},
+					{
+						"text": "ProgressivePost",
+						"indices": [
+							142,
+							158
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "gjbogaerts",
+						"name": "GJ Bogaerts",
+						"id": 21853326,
+						"id_str": "21853326",
+						"indices": [
+							110,
+							121
+						]
+					},
+					{
+						"screen_name": "public_spaces",
+						"name": "PublicSpaces",
+						"id": 999601427768062000,
+						"id_str": "999601427768061952",
+						"indices": [
+							122,
+							136
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/YAv5hogBR4",
+						"expanded_url": "https://progressivepost.eu/focus/what-if-we-could-reinvent-the-internet-so-that-it-serves-the-common-good",
+						"display_url": "progressivepost.eu/focus/what-if-…",
+						"indices": [
+							162,
+							185
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1095337874763829200,
+						"id_str": "1095337874763829248",
+						"indices": [
+							186,
+							209
+						],
+						"media_url": "http://pbs.twimg.com/media/DzNr_mZUUAAUeD5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DzNr_mZUUAAUeD5.jpg",
+						"url": "https://t.co/ZOhfPLT6bm",
+						"display_url": "pic.twitter.com/ZOhfPLT6bm",
+						"expanded_url": "https://twitter.com/FEPS_Europe/status/1095338361131134976/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 614,
+								"h": 384,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 614,
+								"h": 384,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 614,
+								"h": 384,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1095337874763829200,
+						"id_str": "1095337874763829248",
+						"indices": [
+							186,
+							209
+						],
+						"media_url": "http://pbs.twimg.com/media/DzNr_mZUUAAUeD5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DzNr_mZUUAAUeD5.jpg",
+						"url": "https://t.co/ZOhfPLT6bm",
+						"display_url": "pic.twitter.com/ZOhfPLT6bm",
+						"expanded_url": "https://twitter.com/FEPS_Europe/status/1095338361131134976/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 614,
+								"h": 384,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 614,
+								"h": 384,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 614,
+								"h": 384,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 90379972,
+				"id_str": "90379972",
+				"name": "FEPS",
+				"screen_name": "FEPS_Europe",
+				"location": "Brussels, Belgium",
+				"description": "Foundation for European Progressive Studies. Incubator for fresh ideas. FEPS embodies a new way of thinking on the social-democratic, socialist and labour scene",
+				"url": "http://t.co/f3AzQxEruO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/f3AzQxEruO",
+								"expanded_url": "http://www.feps-europe.eu/",
+								"display_url": "feps-europe.eu",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9090,
+				"friends_count": 2072,
+				"listed_count": 334,
+				"created_at": "Mon Nov 16 12:12:04 +0000 2009",
+				"favourites_count": 1825,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9641,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/943055246552596480/rhOSYQsB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/943055246552596480/rhOSYQsB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/90379972/1547141721",
+				"profile_link_color": "943715",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "E6E1DA",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Goed verhaal! https://t.co/ISVBnziqfs"
+	},
+	{
 		"created_at": "Tue Feb 12 15:28:57 +0000 2019",
 		"id": 1095344011345158100,
 		"id_str": "1095344011345158145",
