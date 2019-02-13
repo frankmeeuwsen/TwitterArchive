@@ -1,6 +1,355 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Wed Feb 13 07:46:08 +0000 2019",
+		"id": 1095589928023531500,
+		"id_str": "1095589928023531521",
+		"full_text": "Rik gaat er uit. https://t.co/N7dEidtxbM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/N7dEidtxbM",
+					"expanded_url": "https://twitter.com/wieisdemol/status/1095570768048652288",
+					"display_url": "twitter.com/wieisdemol/sta…",
+					"indices": [
+						17,
+						40
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Per 1/3 beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Doet toffe dingen met content en communities.",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8858,
+			"friends_count": 245,
+			"listed_count": 594,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5060,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59958,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1095570768048652300,
+		"quoted_status_id_str": "1095570768048652288",
+		"quoted_status_permalink": {
+			"url": "https://t.co/N7dEidtxbM",
+			"expanded": "https://twitter.com/wieisdemol/status/1095570768048652288",
+			"display": "twitter.com/wieisdemol/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 13 06:30:00 +0000 2019",
+			"id": 1095570768048652300,
+			"id_str": "1095570768048652288",
+			"full_text": "\"De allerspannendste executie van Wie is de Mol? ooit...\"- #widm, zaterdag om 20.30 uur bij @AVROTROS op @NPO1. https://t.co/1BTQ7FKynF",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				111
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "widm",
+						"indices": [
+							59,
+							64
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "AVROTROS",
+						"name": "AVROTROS",
+						"id": 14269581,
+						"id_str": "14269581",
+						"indices": [
+							92,
+							101
+						]
+					},
+					{
+						"screen_name": "NPO1",
+						"name": "NPO 1",
+						"id": 19657016,
+						"id_str": "19657016",
+						"indices": [
+							105,
+							110
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1095350273160155100,
+						"id_str": "1095350273160155137",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1095350273160155137/img/mw07bVSM4QRXejgd.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1095350273160155137/img/mw07bVSM4QRXejgd.jpg",
+						"url": "https://t.co/1BTQ7FKynF",
+						"display_url": "pic.twitter.com/1BTQ7FKynF",
+						"expanded_url": "https://twitter.com/WieIsDeMol/status/1095570768048652288/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1095350273160155100,
+						"id_str": "1095350273160155137",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1095350273160155137/img/mw07bVSM4QRXejgd.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1095350273160155137/img/mw07bVSM4QRXejgd.jpg",
+						"url": "https://t.co/1BTQ7FKynF",
+						"display_url": "pic.twitter.com/1BTQ7FKynF",
+						"expanded_url": "https://twitter.com/WieIsDeMol/status/1095570768048652288/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 21720,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1095350273160155137/vid/640x360/LoYRs2ck233AhqL6.mp4?tag=9"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1095350273160155137/vid/1280x720/T0sIPeX4Vgi_RhJM.mp4?tag=9"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1095350273160155137/vid/320x180/lQmwGMPqpNdIegcm.mp4?tag=9"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1095350273160155137/pl/Q5FZe-uKA_R52HsQ.m3u8?tag=9"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "Zaterdag: Aflevering 7 van Wie is de Mol?",
+							"description": "De laatste 6 kandidaten reizen af naar het noorden van Colombia voor aflevering 7 van Wie is de Mol?. Zaterdag om 20.30 uur bij AVROTROS op NPO 1. ",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18267154,
+				"id_str": "18267154",
+				"name": "Wie is de Mol?",
+				"screen_name": "WieIsDeMol",
+				"location": "",
+				"description": "Het officiële twitteraccount van het televisieprogramma Wie is de Mol? seizoen 19: vanaf zaterdag 5 januari om 20:30 uur bij AVROTROS op NPO1",
+				"url": "https://t.co/WhvIYSXxN4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WhvIYSXxN4",
+								"expanded_url": "http://www.wieisdemol.nl",
+								"display_url": "wieisdemol.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 151150,
+				"friends_count": 49,
+				"listed_count": 483,
+				"created_at": "Sat Dec 20 15:06:14 +0000 2008",
+				"favourites_count": 81,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 1334,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/554621707005083649/txNhqbra_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/554621707005083649/txNhqbra_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18267154/1541696411",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "070A06",
+				"profile_text_color": "5C5C5C",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 71,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Rik gaat er uit. https://t.co/N7dEidtxbM"
+	},
+	{
 		"created_at": "Wed Feb 13 07:05:51 +0000 2019",
 		"id": 1095579788545265700,
 		"id_str": "1095579788545265664",
