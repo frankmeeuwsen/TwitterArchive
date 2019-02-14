@@ -1,6 +1,356 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Thu Feb 14 07:20:20 +0000 2019",
+		"id": 1095945821047193600,
+		"id_str": "1095945821047193606",
+		"full_text": "Een mooi gesprek met @ernohannink over het verleden, heden en toekomst. Over online marketing, de twijfel als je ouder wordt en een beetje over Bruce Springsteen. https://t.co/AABWRwry2L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ernohannink",
+					"name": "Erno Hannink",
+					"id": 1477191,
+					"id_str": "1477191",
+					"indices": [
+						21,
+						33
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AABWRwry2L",
+					"expanded_url": "https://twitter.com/ernohannink/status/1095941974182498304",
+					"display_url": "twitter.com/ernohannink/st…",
+					"indices": [
+						163,
+						186
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Per 1/3 beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Doet toffe dingen met content en communities.",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8860,
+			"friends_count": 245,
+			"listed_count": 594,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5061,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59958,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1095941974182498300,
+		"quoted_status_id_str": "1095941974182498304",
+		"quoted_status_permalink": {
+			"url": "https://t.co/AABWRwry2L",
+			"expanded": "https://twitter.com/ernohannink/status/1095941974182498304",
+			"display": "twitter.com/ernohannink/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Feb 14 07:05:02 +0000 2019",
+			"id": 1095941974182498300,
+			"id_str": "1095941974182498304",
+			"full_text": "Vandaag het #podcast gesprek met @frankmeeuwsen Na 3 jaar gewerkt te hebben in een startup, staat hij nu weer op een kruispunt. Wordt hij weer #werknemer of juist weer #freelancer? We bespreken de verschillen en overeenkomsten.\nhttps://t.co/1KDvDgurxN https://t.co/9TqFHrCzdF",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				251
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "podcast",
+						"indices": [
+							12,
+							20
+						]
+					},
+					{
+						"text": "werknemer",
+						"indices": [
+							143,
+							153
+						]
+					},
+					{
+						"text": "freelancer",
+						"indices": [
+							168,
+							179
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "frankmeeuwsen",
+						"name": "Frank Meeuwsen",
+						"id": 816203,
+						"id_str": "816203",
+						"indices": [
+							33,
+							47
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/1KDvDgurxN",
+						"expanded_url": "https://ernohannink.nl/show185/",
+						"display_url": "ernohannink.nl/show185/",
+						"indices": [
+							228,
+							251
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1095941972370575400,
+						"id_str": "1095941972370575360",
+						"indices": [
+							252,
+							275
+						],
+						"media_url": "http://pbs.twimg.com/media/DzWRatWW0AAbxjM.png",
+						"media_url_https": "https://pbs.twimg.com/media/DzWRatWW0AAbxjM.png",
+						"url": "https://t.co/9TqFHrCzdF",
+						"display_url": "pic.twitter.com/9TqFHrCzdF",
+						"expanded_url": "https://twitter.com/ernohannink/status/1095941974182498304/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 700,
+								"h": 395,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 384,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 700,
+								"h": 395,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1095941972370575400,
+						"id_str": "1095941972370575360",
+						"indices": [
+							252,
+							275
+						],
+						"media_url": "http://pbs.twimg.com/media/DzWRatWW0AAbxjM.png",
+						"media_url_https": "https://pbs.twimg.com/media/DzWRatWW0AAbxjM.png",
+						"url": "https://t.co/9TqFHrCzdF",
+						"display_url": "pic.twitter.com/9TqFHrCzdF",
+						"expanded_url": "https://twitter.com/ernohannink/status/1095941974182498304/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 700,
+								"h": 395,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 384,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 700,
+								"h": 395,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1477191,
+				"id_str": "1477191",
+				"name": "Erno Hannink",
+				"screen_name": "ernohannink",
+				"location": "The Netherlands, Doetinchem",
+				"description": "Business Coach ➤ I help entrepreneurs to make selfish decisions for more freedom ★ Podcast https://t.co/jmmQAluj49 ★ ass scheidsrechter KNVB ★ run ★ Stoic",
+				"url": "https://t.co/24JemAwBRo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/24JemAwBRo",
+								"expanded_url": "https://ernohannink.nl",
+								"display_url": "ernohannink.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/jmmQAluj49",
+								"expanded_url": "http://ernohanninkshow.nl",
+								"display_url": "ernohanninkshow.nl",
+								"indices": [
+									91,
+									114
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 11012,
+				"friends_count": 1863,
+				"listed_count": 855,
+				"created_at": "Mon Mar 19 06:41:24 +0000 2007",
+				"favourites_count": 4520,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 49213,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/783230006952652800/wTNIHzBA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/783230006952652800/wTNIHzBA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1477191/1543324245",
+				"profile_link_color": "F96620",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "A3A9B9",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Een mooi gesprek met @ernohannink over het verleden, heden en toekomst. Over online marketing, de twijfel als je ouder wordt en een beetje over Bruce Springsteen. https://t.co/AABWRwry2L"
+	},
+	{
 		"created_at": "Wed Feb 13 07:46:08 +0000 2019",
 		"id": 1095589928023531500,
 		"id_str": "1095589928023531521",
