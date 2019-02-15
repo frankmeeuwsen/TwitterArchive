@@ -1,6 +1,292 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Fri Feb 15 12:52:44 +0000 2019",
+		"id": 1096391861688823800,
+		"id_str": "1096391861688823808",
+		"full_text": "Winning. https://t.co/As2QzklP45",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			8
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/As2QzklP45",
+					"expanded_url": "https://twitter.com/chamsinista/status/1096187943889313792",
+					"display_url": "twitter.com/chamsinista/st…",
+					"indices": [
+						9,
+						32
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Per 1/3 beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Doet toffe dingen met content en communities.",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8858,
+			"friends_count": 245,
+			"listed_count": 594,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5063,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59966,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1096187943889313800,
+		"quoted_status_id_str": "1096187943889313792",
+		"quoted_status_permalink": {
+			"url": "https://t.co/As2QzklP45",
+			"expanded": "https://twitter.com/chamsinista/status/1096187943889313792",
+			"display": "twitter.com/chamsinista/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Feb 14 23:22:26 +0000 2019",
+			"id": 1096187943889313800,
+			"id_str": "1096187943889313792",
+			"full_text": "Dit is echt van de Satan. https://t.co/rXZpCRAyap",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				25
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1096187936469585900,
+						"id_str": "1096187936469585922",
+						"indices": [
+							26,
+							49
+						],
+						"media_url": "http://pbs.twimg.com/media/DzZxHtBWkAIBqZU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DzZxHtBWkAIBqZU.jpg",
+						"url": "https://t.co/rXZpCRAyap",
+						"display_url": "pic.twitter.com/rXZpCRAyap",
+						"expanded_url": "https://twitter.com/chamsinista/status/1096187943889313792/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 640,
+								"h": 449,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 449,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 449,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1096187936469585900,
+						"id_str": "1096187936469585922",
+						"indices": [
+							26,
+							49
+						],
+						"media_url": "http://pbs.twimg.com/media/DzZxHtBWkAIBqZU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DzZxHtBWkAIBqZU.jpg",
+						"url": "https://t.co/rXZpCRAyap",
+						"display_url": "pic.twitter.com/rXZpCRAyap",
+						"expanded_url": "https://twitter.com/chamsinista/status/1096187943889313792/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 640,
+								"h": 449,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 449,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 449,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 113128730,
+				"id_str": "113128730",
+				"name": "Rider to the North 🇳🇱🇩🇪🇸🇪🇦🇽🇫🇮🇳🇴",
+				"screen_name": "chamsinista",
+				"location": "Deugtopia",
+				"description": "La Norvège douze points. #Noordwaarts2018 6722 kilometer.\n#TeamNoFly\nFeminist tot in de kist.\nDance, otherwise we are lost.",
+				"url": "https://t.co/H28vUC5lG3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/H28vUC5lG3",
+								"expanded_url": "http://fietsersafstappen.nl",
+								"display_url": "fietsersafstappen.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2048,
+				"friends_count": 1319,
+				"listed_count": 57,
+				"created_at": "Wed Feb 10 20:11:24 +0000 2010",
+				"favourites_count": 25300,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 110897,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1093093765974278144/A23MA_vi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093093765974278144/A23MA_vi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/113128730/1512600558",
+				"profile_link_color": "1A4390",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 59,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Winning. https://t.co/As2QzklP45"
+	},
+	{
 		"created_at": "Fri Feb 15 06:49:43 +0000 2019",
 		"id": 1096300505670795300,
 		"id_str": "1096300505670795264",
