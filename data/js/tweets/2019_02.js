@@ -1,6 +1,235 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Fri Feb 15 17:19:57 +0000 2019",
+		"id": 1096459107333296100,
+		"id_str": "1096459107333296128",
+		"full_text": "@patrickloonstra Good Monday materiaal? https://t.co/X86BbAbPMx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "patrickloonstra",
+					"name": "Patrick ↨̧̂͋ͤ̊͒ͯ̅ͧ̆̾ͥͭͮ̓̚̚͝͏̴̧̰̠͖̠̯̬͆̒̄ͤ̓͜҉̵̛͔̦ 🕶",
+					"id": 9647022,
+					"id_str": "9647022",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/X86BbAbPMx",
+					"expanded_url": "https://twitter.com/holly/status/1096441674635661312",
+					"display_url": "twitter.com/holly/status/1…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 9647022,
+		"in_reply_to_user_id_str": "9647022",
+		"in_reply_to_screen_name": "patrickloonstra",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Per 1/3 beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Doet toffe dingen met content en communities.",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8858,
+			"friends_count": 245,
+			"listed_count": 594,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5063,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59967,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1096441674635661300,
+		"quoted_status_id_str": "1096441674635661312",
+		"quoted_status_permalink": {
+			"url": "https://t.co/X86BbAbPMx",
+			"expanded": "https://twitter.com/holly/status/1096441674635661312",
+			"display": "twitter.com/holly/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Feb 15 16:10:40 +0000 2019",
+			"id": 1096441674635661300,
+			"id_str": "1096441674635661312",
+			"full_text": "Every time you refresh, AI creates a new fake face. Some are better than others but they're all pretty freakishly real https://t.co/38XgOG4NRN",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				142
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/38XgOG4NRN",
+						"expanded_url": "https://www.thispersondoesnotexist.com",
+						"display_url": "thispersondoesnotexist.com",
+						"indices": [
+							119,
+							142
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 7555262,
+				"id_str": "7555262",
+				"name": "Holly Brockwell",
+				"screen_name": "holly",
+				"location": "From Nottingham, in London",
+				"description": "British supergeek. Freelance tech journalist for Techradar, Gizmodo, Evening Standard etc. Founder of @Gadgette, Woman of the Year '15, mother of birds & cats.",
+				"url": "https://t.co/rr4zejtDOm",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rr4zejtDOm",
+								"expanded_url": "https://hollybrockwell.com/",
+								"display_url": "hollybrockwell.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 127630,
+				"friends_count": 77313,
+				"listed_count": 1557,
+				"created_at": "Wed Jul 18 10:27:16 +0000 2007",
+				"favourites_count": 24209,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 17213,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "19599E",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1084478194449874946/qQmbuylk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084478194449874946/qQmbuylk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/7555262/1549394900",
+				"profile_link_color": "1030AE",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F6F6F6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 163,
+			"favorite_count": 327,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@patrickloonstra Good Monday materiaal? https://t.co/X86BbAbPMx"
+	},
+	{
 		"created_at": "Fri Feb 15 12:52:44 +0000 2019",
 		"id": 1096391861688823800,
 		"id_str": "1096391861688823808",
