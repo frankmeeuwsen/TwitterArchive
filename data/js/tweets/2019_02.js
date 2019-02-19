@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Tue Feb 19 18:13:16 +0000 2019",
+		"id": 1097922078454341600,
+		"id_str": "1097979208951885824",
+		"full_text": "No product should ever come with a secret microphone, regardless of whether or not it's enabled. That's just bad security design, @Nest. https://t.co/ofnobIfjEY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nest",
+					"name": "Nest",
+					"id": 168264219,
+					"id_str": "168264219",
+					"indices": [
+						130,
+						135
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ofnobIfjEY",
+					"expanded_url": "https://www.csoonline.com/article/3336227/security/nest-secure-had-a-secret-microphone-can-now-be-a-google-assistant.html",
+					"display_url": "csoonline.com/article/333622…",
+					"indices": [
+						137,
+						160
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.eff.org/\" rel=\"nofollow\">Thingie</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4816,
+			"id_str": "4816",
+			"name": "EFF",
+			"screen_name": "EFF",
+			"location": "San Francisco, CA",
+			"description": "We're the Electronic Frontier Foundation. We defend your civil liberties in a digital world.",
+			"url": "https://t.co/1gDghboN0q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1gDghboN0q",
+							"expanded_url": "https://www.eff.org",
+							"display_url": "eff.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 408035,
+			"friends_count": 982,
+			"listed_count": 14396,
+			"created_at": "Mon Aug 28 14:17:28 +0000 2006",
+			"favourites_count": 1026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 20895,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E17701",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1022932965892939776/aJgE2T5l_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1022932965892939776/aJgE2T5l_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4816/1546456368",
+			"profile_link_color": "6A3ACB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E8D8DD",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 282,
+		"favorite_count": 430,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "No product should ever come with a secret microphone, regardless of whether or not it's enabled. That's just bad security design, @Nest. https://t.co/ofnobIfjEY"
+	},
+	{
 		"created_at": "Tue Feb 19 19:48:53 +0000 2019",
 		"id": 1097946139406581800,
 		"id_str": "1097946139406581760",
