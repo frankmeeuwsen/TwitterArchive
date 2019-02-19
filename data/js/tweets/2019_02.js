@@ -1,6 +1,369 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Tue Feb 19 06:22:04 +0000 2019",
+		"id": 1097743097319116800,
+		"id_str": "1097743097319116801",
+		"full_text": "Het My Sharona dansje heeft de tand des tijd doorstaan. https://t.co/YHKIvYrYsV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YHKIvYrYsV",
+					"expanded_url": "https://twitter.com/imdb/status/1097450873830158336",
+					"display_url": "twitter.com/imdb/status/10…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Per 1/3 beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019).",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8858,
+			"friends_count": 244,
+			"listed_count": 593,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5068,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59930,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1097450873830158300,
+		"quoted_status_id_str": "1097450873830158336",
+		"quoted_status_permalink": {
+			"url": "https://t.co/YHKIvYrYsV",
+			"expanded": "https://twitter.com/imdb/status/1097450873830158336",
+			"display": "twitter.com/imdb/status/10…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Feb 18 11:00:52 +0000 2019",
+			"id": 1097450873830158300,
+			"id_str": "1097450873830158336",
+			"full_text": "\"Hello, you've reached the winter of our discontent.\" It's been 25 years since the release of #BenStiller's #RealityBites, starring #WinonaRyder, #EthanHawke, and #JaneaneGarofalo.  What's your favorite quote? https://t.co/WYuxr45ktm https://t.co/sHSoMmfOGc",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				233
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BenStiller",
+						"indices": [
+							94,
+							105
+						]
+					},
+					{
+						"text": "RealityBites",
+						"indices": [
+							108,
+							121
+						]
+					},
+					{
+						"text": "WinonaRyder",
+						"indices": [
+							132,
+							144
+						]
+					},
+					{
+						"text": "EthanHawke",
+						"indices": [
+							146,
+							157
+						]
+					},
+					{
+						"text": "JaneaneGarofalo",
+						"indices": [
+							163,
+							179
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/WYuxr45ktm",
+						"expanded_url": "https://imdb.to/2X9ANG1",
+						"display_url": "imdb.to/2X9ANG1",
+						"indices": [
+							210,
+							233
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1097450665163571200,
+						"id_str": "1097450665163571205",
+						"indices": [
+							234,
+							257
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1097450665163571205/img/kR6YAIvrKmrrNch9.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1097450665163571205/img/kR6YAIvrKmrrNch9.jpg",
+						"url": "https://t.co/sHSoMmfOGc",
+						"display_url": "pic.twitter.com/sHSoMmfOGc",
+						"expanded_url": "https://twitter.com/IMDb/status/1097450873830158336/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1097450665163571200,
+						"id_str": "1097450665163571205",
+						"indices": [
+							234,
+							257
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1097450665163571205/img/kR6YAIvrKmrrNch9.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1097450665163571205/img/kR6YAIvrKmrrNch9.jpg",
+						"url": "https://t.co/sHSoMmfOGc",
+						"display_url": "pic.twitter.com/sHSoMmfOGc",
+						"expanded_url": "https://twitter.com/IMDb/status/1097450873830158336/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 90691,
+							"variants": [
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1097450665163571205/vid/320x180/od9nY3mReB1AhaW4.mp4?tag=9"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1097450665163571205/vid/640x360/wlRayoHz0g-W8B8s.mp4?tag=9"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1097450665163571205/vid/1280x720/X6D_Ag8eYfZVTvlo.mp4?tag=9"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1097450665163571205/pl/tBjonRUQIBvaXxDi.m3u8?tag=9"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17602896,
+				"id_str": "17602896",
+				"name": "IMDb",
+				"screen_name": "IMDb",
+				"location": "Seattle",
+				"description": "The folks at IMDb talking about movies, TV and celebrities.",
+				"url": "https://t.co/knY83wIwTD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/knY83wIwTD",
+								"expanded_url": "http://www.imdb.com",
+								"display_url": "imdb.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4394821,
+				"friends_count": 1030,
+				"listed_count": 21128,
+				"created_at": "Mon Nov 24 22:18:17 +0000 2008",
+				"favourites_count": 4355,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 32147,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/976507090624589824/0x28al44_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/976507090624589824/0x28al44_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17602896/1546560958",
+				"profile_link_color": "C7AE20",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C6D7E2",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 130,
+			"favorite_count": 452,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Het My Sharona dansje heeft de tand des tijd doorstaan. https://t.co/YHKIvYrYsV"
+	},
+	{
 		"created_at": "Mon Feb 18 14:53:13 +0000 2019",
 		"id": 1097509347268182000,
 		"id_str": "1097509347268182016",
