@@ -1,6 +1,299 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Tue Feb 19 21:53:04 +0000 2019",
+		"id": 1097977392558211100,
+		"id_str": "1098697105252728832",
+		"full_text": "Has Artificial Intelligence gone too far? https://t.co/rRCKmTSu6O",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1097976859495723000,
+					"id_str": "1097976859495723010",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1097976859495723010/pu/img/6QiRurbnGNGAv_Ep.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1097976859495723010/pu/img/6QiRurbnGNGAv_Ep.jpg",
+					"url": "https://t.co/rRCKmTSu6O",
+					"display_url": "pic.twitter.com/rRCKmTSu6O",
+					"expanded_url": "https://twitter.com/fklagom/status/1097977392558211078/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 434,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 434,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 410,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1097976859495723000,
+					"id_str": "1097976859495723010",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1097976859495723010/pu/img/6QiRurbnGNGAv_Ep.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1097976859495723010/pu/img/6QiRurbnGNGAv_Ep.jpg",
+					"url": "https://t.co/rRCKmTSu6O",
+					"display_url": "pic.twitter.com/rRCKmTSu6O",
+					"expanded_url": "https://twitter.com/fklagom/status/1097977392558211078/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 434,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 434,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 410,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							217,
+							360
+						],
+						"duration_millis": 8709,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1097976859495723010/pu/vid/434x720/LT_1bAyOq7yUMNel.mp4?tag=6"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1097976859495723010/pu/pl/I28sM2d93sQGfmu8.m3u8?tag=6"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1097976859495723010/pu/vid/320x530/xsexQJBaqaTiEOqI.mp4?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 933009080,
+			"id_str": "933009080",
+			"name": "Sir Väs",
+			"screen_name": "fklagom",
+			"location": "Göteborg, Sverige",
+			"description": "Bulltrendsentusiast",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 965,
+			"friends_count": 229,
+			"listed_count": 9,
+			"created_at": "Wed Nov 07 21:43:55 +0000 2012",
+			"favourites_count": 9782,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7260,
+			"lang": "sv",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/971330371034992640/i4DdjbXa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/971330371034992640/i4DdjbXa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/933009080/1520417799",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 228,
+		"favorite_count": 758,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Has Artificial Intelligence gone too far? https://t.co/rRCKmTSu6O"
+	},
+	{
+		"created_at": "Thu Feb 21 21:23:27 +0000 2019",
+		"id": 1098694714159697900,
+		"id_str": "1098694714159697920",
+		"full_text": "@theblub Maar je hebt gelijk. Het is verbluffend hoe dit is gelopen. En wat het betekent. En hoe we er met open ogen in lopen. En zelf schuldig aan zijn. Ik in elk geval wel. Gemak.",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			181
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "theblub",
+					"name": "jelle van dijk 🌍♻️",
+					"id": 40082913,
+					"id_str": "40082913",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1098694228673286100,
+		"in_reply_to_status_id_str": "1098694228673286145",
+		"in_reply_to_user_id": 40082913,
+		"in_reply_to_user_id_str": "40082913",
+		"in_reply_to_screen_name": "theblub",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Per 1/3 beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019).",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8855,
+			"friends_count": 247,
+			"listed_count": 594,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5071,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59946,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@theblub Maar je hebt gelijk. Het is verbluffend hoe dit is gelopen. En wat het betekent. En hoe we er met open ogen in lopen. En zelf schuldig aan zijn. Ik in elk geval wel. Gemak."
+	},
+	{
 		"created_at": "Thu Feb 21 21:18:02 +0000 2019",
 		"id": 1098693352122474500,
 		"id_str": "1098693352122474497",
