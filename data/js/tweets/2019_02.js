@@ -1,6 +1,279 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Thu Feb 21 12:16:32 +0000 2019",
+		"id": 1098557078325678100,
+		"id_str": "1098557078325678081",
+		"full_text": "Hou op met me, een eetbare kalender/klok/agenda! https://t.co/HSHNazl4O3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HSHNazl4O3",
+					"expanded_url": "https://twitter.com/waaromweetikdit/status/1098545246982627328",
+					"display_url": "twitter.com/waaromweetikdi…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Per 1/3 beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019).",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8855,
+			"friends_count": 247,
+			"listed_count": 594,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5070,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59938,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1098545246982627300,
+		"quoted_status_id_str": "1098545246982627328",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HSHNazl4O3",
+			"expanded": "https://twitter.com/waaromweetikdit/status/1098545246982627328",
+			"display": "twitter.com/waaromweetikdi…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Feb 21 11:29:31 +0000 2019",
+			"id": 1098545246982627300,
+			"id_str": "1098545246982627328",
+			"full_text": "De 4 hoeken van het koekje Petit Beurre vertegenwoordigen de 4 seizoenen. De rondjes aan de zijkanten (52 in totaal) staan voor de 52 weken van het jaar. Het koekje meet verder 7 cm (= de 7 dagen van de week). En de 24 puntjes in het midden staan voor de 24 uren in een dag! https://t.co/nlkyqVnEaS",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				274
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1098545243975237600,
+						"id_str": "1098545243975237633",
+						"indices": [
+							275,
+							298
+						],
+						"media_url": "http://pbs.twimg.com/media/Dz7RFDzWwAElIOE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dz7RFDzWwAElIOE.jpg",
+						"url": "https://t.co/nlkyqVnEaS",
+						"display_url": "pic.twitter.com/nlkyqVnEaS",
+						"expanded_url": "https://twitter.com/waaromweetikdit/status/1098545246982627328/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 423,
+								"h": 348,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 423,
+								"h": 348,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 423,
+								"h": 348,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1098545243975237600,
+						"id_str": "1098545243975237633",
+						"indices": [
+							275,
+							298
+						],
+						"media_url": "http://pbs.twimg.com/media/Dz7RFDzWwAElIOE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dz7RFDzWwAElIOE.jpg",
+						"url": "https://t.co/nlkyqVnEaS",
+						"display_url": "pic.twitter.com/nlkyqVnEaS",
+						"expanded_url": "https://twitter.com/waaromweetikdit/status/1098545246982627328/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 423,
+								"h": 348,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 423,
+								"h": 348,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 423,
+								"h": 348,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3021207963,
+				"id_str": "3021207963",
+				"name": "Waarom weet ik dit?",
+				"screen_name": "waaromweetikdit",
+				"location": "The Netherlands",
+				"description": "Fijne, confronterende, opzienbarende, grappige weetjes en feitjes. Soms nuttig, even zo vaak nutteloos. Suggesties zijn altijd welkom!",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 94425,
+				"friends_count": 96256,
+				"listed_count": 179,
+				"created_at": "Fri Feb 06 10:02:05 +0000 2015",
+				"favourites_count": 623,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 14189,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/563639176856231936/gOvxZKyo_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/563639176856231936/gOvxZKyo_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3021207963/1545143949",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 85,
+			"favorite_count": 390,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Hou op met me, een eetbare kalender/klok/agenda! https://t.co/HSHNazl4O3"
+	},
+	{
 		"created_at": "Wed Feb 20 18:46:07 +0000 2019",
 		"id": 1098292734136328200,
 		"id_str": "1098292734136328192",
