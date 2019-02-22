@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Fri Feb 22 18:45:17 +0000 2019",
+		"id": 1099017298180886500,
+		"id_str": "1099027073295941632",
+		"full_text": "Facebook is sucking up extremely sensitive, personal medical data from collaborating apps, even when users aren't on Facebook. \n\nIt's hard to be surprised by Facebook after the endless avalanche of scandals, but this is still shockingly outrageous. https://t.co/llhrGMNHMT https://t.co/vhQVSNsmHw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/llhrGMNHMT",
+					"expanded_url": "https://www.wsj.com/articles/you-give-apps-sensitive-personal-information-then-they-tell-facebook-11550851636?ns=prod/accounts-wsj",
+					"display_url": "wsj.com/articles/you-g…",
+					"indices": [
+						249,
+						272
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1099017225908846600,
+					"id_str": "1099017225908846592",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/D0B-WBhVAAAceJm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0B-WBhVAAAceJm.jpg",
+					"url": "https://t.co/vhQVSNsmHw",
+					"display_url": "pic.twitter.com/vhQVSNsmHw",
+					"expanded_url": "https://twitter.com/dhh/status/1099017298180886528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 497,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1136,
+							"h": 830,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1136,
+							"h": 830,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1099017225908846600,
+					"id_str": "1099017225908846592",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/D0B-WBhVAAAceJm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0B-WBhVAAAceJm.jpg",
+					"url": "https://t.co/vhQVSNsmHw",
+					"display_url": "pic.twitter.com/vhQVSNsmHw",
+					"expanded_url": "https://twitter.com/dhh/status/1099017298180886528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 497,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1136,
+							"h": 830,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1136,
+							"h": 830,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14561327,
+			"id_str": "14561327",
+			"name": "DHH",
+			"screen_name": "dhh",
+			"location": "Malibu, CA",
+			"description": "Creator of Ruby on Rails, Founder & CTO at Basecamp, NYT best-selling author, and Le Mans 24h class-winning racing driver.",
+			"url": "https://t.co/472m0ihZkH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/472m0ihZkH",
+							"expanded_url": "https://dhh.dk",
+							"display_url": "dhh.dk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 326675,
+			"friends_count": 122,
+			"listed_count": 9342,
+			"created_at": "Sun Apr 27 20:19:25 +0000 2008",
+			"favourites_count": 7431,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 42098,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975876868455809024/eK7mDppU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975876868455809024/eK7mDppU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14561327/1539031099",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 271,
+		"favorite_count": 310,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Facebook is sucking up extremely sensitive, personal medical data from collaborating apps, even when users aren't on Facebook. \n\nIt's hard to be surprised by Facebook after the endless avalanche of scandals, but this is still shockingly outrageous. https://t.co/llhrGMNHMT https://t.co/vhQVSNsmHw"
+	},
+	{
 		"created_at": "Fri Feb 22 16:02:16 +0000 2019",
 		"id": 1098976275799199700,
 		"id_str": "1098983123101122561",
