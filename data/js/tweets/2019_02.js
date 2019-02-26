@@ -1,6 +1,242 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Tue Feb 26 13:39:42 +0000 2019",
+		"id": 1100389948342128600,
+		"id_str": "1100389948342128642",
+		"full_text": "Idem! Gewoon een bewegende avatar! https://t.co/CbKMHAASaR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CbKMHAASaR",
+					"expanded_url": "https://twitter.com/bertboerland/status/1100363628245643264",
+					"display_url": "twitter.com/bertboerland/s…",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Per 1/3 beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019).",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8883,
+			"friends_count": 249,
+			"listed_count": 594,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5075,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59900,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1100363628245643300,
+		"quoted_status_id_str": "1100363628245643264",
+		"quoted_status_permalink": {
+			"url": "https://t.co/CbKMHAASaR",
+			"expanded": "https://twitter.com/bertboerland/status/1100363628245643264",
+			"display": "twitter.com/bertboerland/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Feb 26 11:55:07 +0000 2019",
+			"id": 1100363628245643300,
+			"id_str": "1100363628245643264",
+			"full_text": "voor het eerst @frankmeeuwsen IRL ontmoet... #bucketlist \")",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				59
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "bucketlist",
+						"indices": [
+							45,
+							56
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "frankmeeuwsen",
+						"name": "Frank Meeuwsen",
+						"id": 816203,
+						"id_str": "816203",
+						"indices": [
+							15,
+							29
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3218781,
+				"id_str": "3218781",
+				"name": "bert boerland",
+				"screen_name": "bertboerland",
+				"location": "Netherlands",
+				"description": "https://t.co/S2eSS2FdNa | I Seem To Be a Verb | Founder  @DrupalNL and @DrupalJam Having fun @wunderkraut_nl",
+				"url": "https://t.co/QCPLUYYFwW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/QCPLUYYFwW",
+								"expanded_url": "http://boerland.com/",
+								"display_url": "boerland.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/S2eSS2FdNa",
+								"expanded_url": "http://www.linkedin.com/in/bertboerland",
+								"display_url": "linkedin.com/in/bertboerland",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3235,
+				"friends_count": 2137,
+				"listed_count": 389,
+				"created_at": "Mon Apr 02 14:40:11 +0000 2007",
+				"favourites_count": 7202,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 139750,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/481438510415880193/in0aHI4T_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/481438510415880193/in0aHI4T_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3218781/1415638748",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "04F127",
+				"profile_text_color": "191715",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Idem! Gewoon een bewegende avatar! https://t.co/CbKMHAASaR"
+	},
+	{
 		"created_at": "Tue Feb 26 07:46:42 +0000 2019",
 		"id": 1100301113033744400,
 		"id_str": "1100301113033744384",
