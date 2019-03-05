@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Tue Mar 05 08:28:38 +0000 2019",
+		"id": 1102848380835901400,
+		"id_str": "1102848380835901441",
+		"full_text": "Twee threads die duidelijk maken dat er niet zoiets is als neutrale technologie en hoe nazi-scum deze tech gebruikt om te intimideren. Zoals wij deze gebruiken om te verbinden met vrienden en familie. https://t.co/gqr2dNRMii",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gqr2dNRMii",
+					"expanded_url": "https://twitter.com/sonniesedge/status/1102830829267488768",
+					"display_url": "twitter.com/sonniesedge/st…",
+					"indices": [
+						201,
+						224
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Per 1/3 beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019).",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8888,
+			"friends_count": 249,
+			"listed_count": 594,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5097,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59877,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1102830829267488800,
+		"quoted_status_id_str": "1102830829267488768",
+		"quoted_status_permalink": {
+			"url": "https://t.co/gqr2dNRMii",
+			"expanded": "https://twitter.com/sonniesedge/status/1102830829267488768",
+			"display": "twitter.com/sonniesedge/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 05 07:18:53 +0000 2019",
+			"id": 1102830829267488800,
+			"id_str": "1102830829267488768",
+			"full_text": "\"Tommy Robinson\" (or Stephen Christopher Yaxley-Lennon to his lawyer) is scum. Far-right scum. \n\nThis is the kind of shit we've enabled with tech. Livestreaming intimidation and hate. https://t.co/8I4IVd3Rlt",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				183
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/8I4IVd3Rlt",
+						"expanded_url": "https://twitter.com/MikeStuchbery_/status/1102742877342482433",
+						"display_url": "twitter.com/MikeStuchbery_…",
+						"indices": [
+							184,
+							207
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 160687830,
+				"id_str": "160687830",
+				"name": "Charlie Owen",
+				"screen_name": "sonniesedge",
+				"location": "Berlin, DE",
+				"description": "Browses with JS disabled just to annoy fragile tech men. She/her/fuck you. A lost Stokie in forrin lands. Piss on everything to do with #Brexit.",
+				"url": "https://t.co/L4TaNjGmbv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/L4TaNjGmbv",
+								"expanded_url": "https://www.sonniesedge.net",
+								"display_url": "sonniesedge.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4518,
+				"friends_count": 1075,
+				"listed_count": 178,
+				"created_at": "Mon Jun 28 21:49:23 +0000 2010",
+				"favourites_count": 9500,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 64700,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1084198182253412352/JJr7xZdc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084198182253412352/JJr7xZdc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/160687830/1503058037",
+				"profile_link_color": "56AF61",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1102742877342482400,
+			"quoted_status_id_str": "1102742877342482433",
+			"quoted_status_permalink": {
+				"url": "https://t.co/8I4IVd3Rlt",
+				"expanded": "https://twitter.com/MikeStuchbery_/status/1102742877342482433",
+				"display": "twitter.com/MikeStuchbery_…"
+			},
+			"retweet_count": 11,
+			"favorite_count": 21,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Twee threads die duidelijk maken dat er niet zoiets is als neutrale technologie en hoe nazi-scum deze tech gebruikt om te intimideren. Zoals wij deze gebruiken om te verbinden met vrienden en familie. https://t.co/gqr2dNRMii"
+	},
+	{
 		"created_at": "Tue Mar 05 07:18:50 +0000 2019",
 		"id": 1102830813341732900,
 		"id_str": "1102830813341732864",
