@@ -1,6 +1,244 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Tue Mar 05 21:35:59 +0000 2019",
+		"id": 1103046521996615700,
+		"id_str": "1103046521996615687",
+		"full_text": "Best title for a podcast! https://t.co/d12N1rlMnm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d12N1rlMnm",
+					"expanded_url": "https://twitter.com/jackmcdade/status/1103044336164524034",
+					"display_url": "twitter.com/jackmcdade/sta…",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Per 1/3 beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019).",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8889,
+			"friends_count": 249,
+			"listed_count": 594,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5098,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59884,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1103044336164524000,
+		"quoted_status_id_str": "1103044336164524034",
+		"quoted_status_permalink": {
+			"url": "https://t.co/d12N1rlMnm",
+			"expanded": "https://twitter.com/jackmcdade/status/1103044336164524034",
+			"display": "twitter.com/jackmcdade/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 05 21:27:17 +0000 2019",
+			"id": 1103044336164524000,
+			"id_str": "1103044336164524034",
+			"full_text": "I’ve wanted to do this for a long time and I’m just going for it!\n\n✨Introducing my new podcast: THE ULTIMATE WEBMASTER’S GUIDE TO THE INTERNET✨\n\nhttps://t.co/EZyrrESCP7\n\nProudly hosted on @TransistorFM. Episode One drops…now!\n\nShare link here: https://t.co/4nPH12lEOP",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				267
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "TransistorFM",
+						"name": "Transistor",
+						"id": 111481320,
+						"id_str": "111481320",
+						"indices": [
+							188,
+							201
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/EZyrrESCP7",
+						"expanded_url": "https://podcast.jackmcdade.com",
+						"display_url": "podcast.jackmcdade.com",
+						"indices": [
+							145,
+							168
+						]
+					},
+					{
+						"url": "https://t.co/4nPH12lEOP",
+						"expanded_url": "https://share.transistor.fm/s/7400faf5",
+						"display_url": "share.transistor.fm/s/7400faf5",
+						"indices": [
+							244,
+							267
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 10737152,
+				"id_str": "10737152",
+				"name": "Jack McDade ✨",
+				"screen_name": "jackmcdade",
+				"location": "Upstate New York",
+				"description": "ULTIMATE WEB MASTER.  \nDesigner, developer, and creator of @statamic. Stuck in the 80s, rolling d20s, making the web weird again.",
+				"url": "https://t.co/hLJlaGOKdD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hLJlaGOKdD",
+								"expanded_url": "https://jackmcdade.com",
+								"display_url": "jackmcdade.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5384,
+				"friends_count": 292,
+				"listed_count": 278,
+				"created_at": "Fri Nov 30 12:50:48 +0000 2007",
+				"favourites_count": 8838,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 33242,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1064935675672305665/xB3YuC60_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1064935675672305665/xB3YuC60_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/10737152/1534512550",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 16,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Best title for a podcast! https://t.co/d12N1rlMnm"
+	},
+	{
 		"created_at": "Tue Mar 05 21:16:20 +0000 2019",
 		"id": 1103041576891228200,
 		"id_str": "1103041576891228161",
