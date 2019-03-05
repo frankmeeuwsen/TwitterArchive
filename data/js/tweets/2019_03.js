@@ -1,6 +1,502 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Tue Mar 05 07:18:50 +0000 2019",
+		"id": 1102830813341732900,
+		"id_str": "1102830813341732864",
+		"full_text": "@JanPieter Bij mij opent hij trouwens wel in Focus. Heb jij een nog strengere config? https://t.co/93SCUSKv2n",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JanPieter",
+					"name": "JanPieter 🇪🇺",
+					"id": 7501502,
+					"id_str": "7501502",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1102830807436152800,
+					"id_str": "1102830807436152832",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/D04KxryW0AAuZUg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D04KxryW0AAuZUg.jpg",
+					"url": "https://t.co/93SCUSKv2n",
+					"display_url": "pic.twitter.com/93SCUSKv2n",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1102830813341732864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1102830807436152800,
+					"id_str": "1102830807436152832",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/D04KxryW0AAuZUg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D04KxryW0AAuZUg.jpg",
+					"url": "https://t.co/93SCUSKv2n",
+					"display_url": "pic.twitter.com/93SCUSKv2n",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1102830813341732864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1102822065843957800,
+		"in_reply_to_status_id_str": "1102822065843957760",
+		"in_reply_to_user_id": 7501502,
+		"in_reply_to_user_id_str": "7501502",
+		"in_reply_to_screen_name": "JanPieter",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Per 1/3 beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019).",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8887,
+			"friends_count": 249,
+			"listed_count": 594,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5097,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59876,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@JanPieter Bij mij opent hij trouwens wel in Focus. Heb jij een nog strengere config? https://t.co/93SCUSKv2n"
+	},
+	{
+		"created_at": "Tue Mar 05 07:15:35 +0000 2019",
+		"id": 1102829996211613700,
+		"id_str": "1102829996211613696",
+		"full_text": "@JanPieter Ja op Safari mobile gaat dat toch iets makkelijker.",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JanPieter",
+					"name": "JanPieter 🇪🇺",
+					"id": 7501502,
+					"id_str": "7501502",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1102822065843957800,
+		"in_reply_to_status_id_str": "1102822065843957760",
+		"in_reply_to_user_id": 7501502,
+		"in_reply_to_user_id_str": "7501502",
+		"in_reply_to_screen_name": "JanPieter",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Per 1/3 beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019).",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8887,
+			"friends_count": 249,
+			"listed_count": 594,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5097,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59876,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@JanPieter Ja op Safari mobile gaat dat toch iets makkelijker."
+	},
+	{
+		"created_at": "Tue Mar 05 06:39:27 +0000 2019",
+		"id": 1102761399200161800,
+		"id_str": "1102820902629269506",
+		"full_text": "Happy birthday to @WeAreDeLaSoul’s 3 Feet Hi &amp; Rising, one of the most important albums in the soundtrack of my life, and a stone cold classic. Peace to @PlugWonDeLaSoul, @delasoulsdugout, Dave who ain’t on Twitter and Say No Gooo to the vultures holding the art hostage. 🌼 https://t.co/qFQq8iPDNL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WeAreDeLaSoul",
+					"name": "De La Soul",
+					"id": 299323282,
+					"id_str": "299323282",
+					"indices": [
+						18,
+						32
+					]
+				},
+				{
+					"screen_name": "PlugWonDeLaSoul",
+					"name": "POS",
+					"id": 23250101,
+					"id_str": "23250101",
+					"indices": [
+						157,
+						173
+					]
+				},
+				{
+					"screen_name": "DeLaSoulsDugout",
+					"name": "DJ Maseo; DE LA SOUL",
+					"id": 20496340,
+					"id_str": "20496340",
+					"indices": [
+						175,
+						191
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1102761394817118200,
+					"id_str": "1102761394817118210",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/D03LpVoWsAIBfRd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D03LpVoWsAIBfRd.jpg",
+					"url": "https://t.co/qFQq8iPDNL",
+					"display_url": "pic.twitter.com/qFQq8iPDNL",
+					"expanded_url": "https://twitter.com/anildash/status/1102761399200161792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1237,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 677,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1195,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1102761394817118200,
+					"id_str": "1102761394817118210",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/D03LpVoWsAIBfRd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D03LpVoWsAIBfRd.jpg",
+					"url": "https://t.co/qFQq8iPDNL",
+					"display_url": "pic.twitter.com/qFQq8iPDNL",
+					"expanded_url": "https://twitter.com/anildash/status/1102761399200161792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1237,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 677,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1195,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 36823,
+			"id_str": "36823",
+			"name": "Anil Dash 🥭",
+			"screen_name": "anildash",
+			"location": "NYC",
+			"description": "CEO of 🎏@Glitch, but really: Husband, father, Jazz flautist. Host of @podcastfunction. I 💜 ethical tech, mangoes, funk, transit & justice.",
+			"url": "https://t.co/IYfhqu0kNE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IYfhqu0kNE",
+							"expanded_url": "http://anildash.com/about/",
+							"display_url": "anildash.com/about/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 593241,
+			"friends_count": 667,
+			"listed_count": 9061,
+			"created_at": "Sat Dec 02 09:15:15 +0000 2006",
+			"favourites_count": 618990,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 188405,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1040592282032984071/RC8We7BG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1040592282032984071/RC8We7BG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/36823/1530683410",
+			"profile_link_color": "800080",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 100,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Happy birthday to @WeAreDeLaSoul’s 3 Feet Hi &amp; Rising, one of the most important albums in the soundtrack of my life, and a stone cold classic. Peace to @PlugWonDeLaSoul, @delasoulsdugout, Dave who ain’t on Twitter and Say No Gooo to the vultures holding the art hostage. 🌼 https://t.co/qFQq8iPDNL"
+	},
+	{
 		"created_at": "Mon Mar 04 11:01:31 +0000 2019",
 		"id": 1102524468822462500,
 		"id_str": "1102524468822462464",
