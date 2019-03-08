@@ -1,6 +1,221 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Fri Mar 08 16:40:09 +0000 2019",
+		"id": 1104056597775564800,
+		"id_str": "1104059236827435010",
+		"full_text": "30 jaar www: feestje met een rouwrand (met expres langzaam ladende plaatjes!). Met oa @hoven_j @marleenstikker en @glovink https://t.co/EKmuMwfnEq https://t.co/vxnguhWL3E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hoven_j",
+					"name": "Jeroen van den hoven",
+					"id": 542550969,
+					"id_str": "542550969",
+					"indices": [
+						86,
+						94
+					]
+				},
+				{
+					"screen_name": "marleenstikker",
+					"name": "marleenstikker",
+					"id": 16408747,
+					"id_str": "16408747",
+					"indices": [
+						95,
+						110
+					]
+				},
+				{
+					"screen_name": "glovink",
+					"name": "Geert Lovink",
+					"id": 8352352,
+					"id_str": "8352352",
+					"indices": [
+						114,
+						122
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EKmuMwfnEq",
+					"expanded_url": "https://www.volkskrant.nl/kijkverder/v/2019/dertig-jaar-world-wide-web-een-feest-met-een-rouwrand/",
+					"display_url": "volkskrant.nl/kijkverder/v/2…",
+					"indices": [
+						123,
+						146
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1104056590934728700,
+					"id_str": "1104056590934728704",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/D1JlnrKX4AAHYPh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1JlnrKX4AAHYPh.jpg",
+					"url": "https://t.co/vxnguhWL3E",
+					"display_url": "pic.twitter.com/vxnguhWL3E",
+					"expanded_url": "https://twitter.com/LaurensVHG/status/1104056597775564801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 440,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 938,
+							"h": 607,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 938,
+							"h": 607,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1104056590934728700,
+					"id_str": "1104056590934728704",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/D1JlnrKX4AAHYPh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1JlnrKX4AAHYPh.jpg",
+					"url": "https://t.co/vxnguhWL3E",
+					"display_url": "pic.twitter.com/vxnguhWL3E",
+					"expanded_url": "https://twitter.com/LaurensVHG/status/1104056597775564801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 440,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 938,
+							"h": 607,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 938,
+							"h": 607,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22753223,
+			"id_str": "22753223",
+			"name": "Laurens Verhagen",
+			"screen_name": "LaurensVHG",
+			"location": "Nederland",
+			"description": "Techredacteur de Volkskrant | Voorheen: Chef Digitaal bij de Volkskrant, hoofdredacteur NU.nl | Persgroep | filosofie | nieuwe media | tech | media | AI",
+			"url": "https://t.co/JA4ttnKnBJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JA4ttnKnBJ",
+							"expanded_url": "http://www.volkskrant.nl",
+							"display_url": "volkskrant.nl",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9341,
+			"friends_count": 1666,
+			"listed_count": 387,
+			"created_at": "Wed Mar 04 09:49:20 +0000 2009",
+			"favourites_count": 882,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13777,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/850348523237371906/7G5Uwhbq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/850348523237371906/7G5Uwhbq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22753223/1469003726",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "30 jaar www: feestje met een rouwrand (met expres langzaam ladende plaatjes!). Met oa @hoven_j @marleenstikker en @glovink https://t.co/EKmuMwfnEq https://t.co/vxnguhWL3E"
+	},
+	{
 		"created_at": "Fri Mar 08 12:53:49 +0000 2019",
 		"id": 1104002280586661900,
 		"id_str": "1104002280586661891",
