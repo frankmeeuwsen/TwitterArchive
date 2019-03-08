@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Fri Mar 08 06:43:40 +0000 2019",
+		"id": 1103909127829434400,
+		"id_str": "1103909127829434369",
+		"full_text": "De hele dag is het Taartjes Eet Dag want mijn lief is jarig! 💋🧁🍰🎂🥂🍹🍾 https://t.co/4Fp0SgmlVG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4Fp0SgmlVG",
+					"expanded_url": "https://twitter.com/helie/status/1103908012748529664",
+					"display_url": "twitter.com/helie/status/1…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Per 1/3 beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019).",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8889,
+			"friends_count": 250,
+			"listed_count": 594,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5108,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59863,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1103908012748529700,
+		"quoted_status_id_str": "1103908012748529664",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4Fp0SgmlVG",
+			"expanded": "https://twitter.com/helie/status/1103908012748529664",
+			"display": "twitter.com/helie/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Mar 08 06:39:14 +0000 2019",
+			"id": 1103908012748529700,
+			"id_str": "1103908012748529664",
+			"full_text": "Vandaag is het internationale vrouwendag en voor mij persoonlijk een feestje. Zoals iemand laatst zei:”ik was er eerst”. Mijn verjaardag.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				137
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1599741,
+				"id_str": "1599741",
+				"name": "Helena",
+				"screen_name": "Helie",
+				"location": "Utrecht, the Netherlands",
+				"description": "Liefdevol, analytisch, geen geduld met domme mensen inclusief mezelf. Liefdes van mijn leven: @frankmeeuwsen, @tessmoana and Finnéan",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 574,
+				"friends_count": 771,
+				"listed_count": 25,
+				"created_at": "Tue Mar 20 07:29:49 +0000 2007",
+				"favourites_count": 4604,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3950,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1012306827063844864/jmm5mew-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1012306827063844864/jmm5mew-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1599741/1530187781",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "CD00AF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "070132",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "De hele dag is het Taartjes Eet Dag want mijn lief is jarig! 💋🧁🍰🎂🥂🍹🍾 https://t.co/4Fp0SgmlVG"
+	},
+	{
 		"created_at": "Thu Mar 07 19:16:31 +0000 2019",
 		"id": 1103736203222892500,
 		"id_str": "1103736203222892546",
