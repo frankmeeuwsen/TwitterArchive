@@ -1,6 +1,243 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sat Mar 09 18:18:22 +0000 2019",
+		"id": 1104446344872235000,
+		"id_str": "1104446344872235009",
+		"full_text": "Lees je mee @gonniespijkstra ? https://t.co/g9bJcn8dmA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gonniespijkstra",
+					"name": "Gonnie Spijkstra",
+					"id": 7677082,
+					"id_str": "7677082",
+					"indices": [
+						12,
+						28
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/g9bJcn8dmA",
+					"expanded_url": "https://twitter.com/elger/status/1104434013501091840",
+					"display_url": "twitter.com/elger/status/1…",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Per 1/3 beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019).",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8888,
+			"friends_count": 249,
+			"listed_count": 594,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5112,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59874,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1104434013501091800,
+		"quoted_status_id_str": "1104434013501091840",
+		"quoted_status_permalink": {
+			"url": "https://t.co/g9bJcn8dmA",
+			"expanded": "https://twitter.com/elger/status/1104434013501091840",
+			"display": "twitter.com/elger/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Mar 09 17:29:22 +0000 2019",
+			"id": 1104434013501091800,
+			"id_str": "1104434013501091840",
+			"full_text": "Jim Bankoff, de baas van Vox Media (https://t.co/WPdY4YND6h, The Verge, Recode, SB Nation) maakt net bekend dat de uitgever lidmaatschappen gaat lanceren. Geen paywall, maar extra content en toegang tot de makers, voor de grootste fans van de verschillende Vox-merken #SXSW",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				273
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SXSW",
+						"indices": [
+							268,
+							273
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/WPdY4YND6h",
+						"expanded_url": "http://vox.com",
+						"display_url": "vox.com",
+						"indices": [
+							36,
+							59
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14142375,
+				"id_str": "14142375",
+				"name": "Elger van der Wel",
+				"screen_name": "elger",
+				"location": "Utrecht, Netherlands",
+				"description": "Denkt iets te weten van media-innovatie. Praat en schrijft daarover als zzp’er. Digital Strateeg Talpa Nieuws. Zenderbaas @Glowfmradio. Host @trustnobodycast.",
+				"url": "https://t.co/6ebBT2ANzN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6ebBT2ANzN",
+								"expanded_url": "http://nieuwsbrief.elger.fm",
+								"display_url": "nieuwsbrief.elger.fm",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7814,
+				"friends_count": 883,
+				"listed_count": 290,
+				"created_at": "Thu Mar 13 20:51:19 +0000 2008",
+				"favourites_count": 4643,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 87249,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ECFFFD",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1055369458603171840/cEemBGhP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1055369458603171840/cEemBGhP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14142375/1524763404",
+				"profile_link_color": "33CCFF",
+				"profile_sidebar_border_color": "33CCFF",
+				"profile_sidebar_fill_color": "D6FFFB",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Lees je mee @gonniespijkstra ? https://t.co/g9bJcn8dmA"
+	},
+	{
 		"created_at": "Sat Mar 09 14:23:09 +0000 2019",
 		"id": 1104387146981490700,
 		"id_str": "1104387146981490688",
