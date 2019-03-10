@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sun Mar 10 06:07:46 +0000 2019",
+		"id": 1104624869914882000,
+		"id_str": "1104624869914882049",
+		"full_text": "Fijne zondag! https://t.co/uBglBZexSx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uBglBZexSx",
+					"expanded_url": "https://twitter.com/sarahjamielewis/status/1088914340307099648",
+					"display_url": "twitter.com/sarahjamielewi…",
+					"indices": [
+						14,
+						37
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Per 1/3 beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019).",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8887,
+			"friends_count": 249,
+			"listed_count": 594,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5115,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59879,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1088914340307099600,
+		"quoted_status_id_str": "1088914340307099648",
+		"quoted_status_permalink": {
+			"url": "https://t.co/uBglBZexSx",
+			"expanded": "https://twitter.com/sarahjamielewis/status/1088914340307099648",
+			"display": "twitter.com/sarahjamielewi…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 25 21:39:44 +0000 2019",
+			"id": 1088914340307099600,
+			"id_str": "1088914340307099648",
+			"full_text": "They will build the largest surveillance system ever conceived and will sell it under the banner of consumer encryption.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				120
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 1088914192847917000,
+			"in_reply_to_status_id_str": "1088914192847917056",
+			"in_reply_to_user_id": 7758132,
+			"in_reply_to_user_id_str": "7758132",
+			"in_reply_to_screen_name": "SarahJamieLewis",
+			"user": {
+				"id": 7758132,
+				"id_str": "7758132",
+				"name": "Sarah Jamie Lewis",
+				"screen_name": "SarahJamieLewis",
+				"location": "Unceded territories of the xwməθkwəy̓əm (Musqueam), Skwxwú7mesh (Squamish), Stó:lō and Səl̓ílwətaʔ/Selilwitulh (Tsleil- Waututh) People",
+				"description": "Executive Director @OpenPriv.\n\nEnforcing Consent & Resisting Surveillance with Cryptography. Vegan Lesbian, Queer Anarchist.\n\nDonate: https://t.co/GZP3vCCkl8",
+				"url": "https://t.co/P48RGvDngd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/P48RGvDngd",
+								"expanded_url": "https://sarahjamielewis.com",
+								"display_url": "sarahjamielewis.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/GZP3vCCkl8",
+								"expanded_url": "http://openprivacy.ca/donate",
+								"display_url": "openprivacy.ca/donate",
+								"indices": [
+									134,
+									157
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 24660,
+				"friends_count": 490,
+				"listed_count": 717,
+				"created_at": "Fri Jul 27 10:28:13 +0000 2007",
+				"favourites_count": 6827,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 18003,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1091174026649583616/qyAjyiOO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091174026649583616/qyAjyiOO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/7758132/1494831269",
+				"profile_link_color": "826187",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "878787",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 197,
+			"favorite_count": 440,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Fijne zondag! https://t.co/uBglBZexSx"
+	},
+	{
 		"created_at": "Sat Mar 09 19:51:40 +0000 2019",
 		"id": 1104469822748966900,
 		"id_str": "1104469822748966914",
