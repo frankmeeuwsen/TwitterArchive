@@ -1,6 +1,203 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Tue Mar 12 08:00:55 +0000 2019",
+		"id": 1105377954077556700,
+		"id_str": "1105378121006538752",
+		"full_text": "In 1990, I coded up the foundational technologies for the World Wide Web.\n\nTo celebrate the web’s 30th birthday, will you add to a crowdsourced Twitter timeline of the web’s milestone moments? https://t.co/7sGBdFyE6Q\n\n#Web30 #ForTheWeb https://t.co/AzfjmpvZYX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			235
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Web30",
+					"indices": [
+						218,
+						224
+					]
+				},
+				{
+					"text": "ForTheWeb",
+					"indices": [
+						225,
+						235
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7sGBdFyE6Q",
+					"expanded_url": "https://webfoundation.org/2019/02/help-build-a-timeline-of-the-webs-history/",
+					"display_url": "webfoundation.org/2019/02/help-b…",
+					"indices": [
+						193,
+						216
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1105357557231767600,
+					"id_str": "1105357557231767553",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/D1cE14SX0AE2dqg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1cE14SX0AE2dqg.jpg",
+					"url": "https://t.co/AzfjmpvZYX",
+					"display_url": "pic.twitter.com/AzfjmpvZYX",
+					"expanded_url": "https://twitter.com/timberners_lee/status/1105377954077556736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1105357557231767600,
+					"id_str": "1105357557231767553",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/D1cE14SX0AE2dqg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1cE14SX0AE2dqg.jpg",
+					"url": "https://t.co/AzfjmpvZYX",
+					"display_url": "pic.twitter.com/AzfjmpvZYX",
+					"expanded_url": "https://twitter.com/timberners_lee/status/1105377954077556736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 84351228,
+			"id_str": "84351228",
+			"name": "Tim Berners-Lee",
+			"screen_name": "timberners_lee",
+			"location": "Boston",
+			"description": "Director of the World Wide Web Consortium (W3C) w3.org, the place to agree on web standards.  Founded webfoundation.org - let  the web serve humanity",
+			"url": "http://www.w3.org/People/Berners-Lee/",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://www.w3.org/People/Berners-Lee/",
+							"expanded_url": null,
+							"indices": [
+								0,
+								37
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314685,
+			"friends_count": 532,
+			"listed_count": 10692,
+			"created_at": "Thu Oct 22 15:29:47 +0000 2009",
+			"favourites_count": 156,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 952,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325092609/94d9da15ab89e3e2b4a5b9a5174f5618_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325092609/94d9da15ab89e3e2b4a5b9a5174f5618_normal.jpg",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 247,
+		"favorite_count": 339,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In 1990, I coded up the foundational technologies for the World Wide Web.\n\nTo celebrate the web’s 30th birthday, will you add to a crowdsourced Twitter timeline of the web’s milestone moments? https://t.co/7sGBdFyE6Q\n\n#Web30 #ForTheWeb https://t.co/AzfjmpvZYX"
+	},
+	{
 		"created_at": "Tue Mar 12 07:15:37 +0000 2019",
 		"id": 1105366718929559600,
 		"id_str": "1105366718929559558",
