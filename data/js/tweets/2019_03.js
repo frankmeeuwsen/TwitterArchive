@@ -1,6 +1,336 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Fri Mar 15 12:21:29 +0000 2019",
+		"id": 1106530857186181100,
+		"id_str": "1106530857186181120",
+		"full_text": "Nog even geduld @erwblo @gvenk ! https://t.co/NQ857s4XFq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "erwblo",
+					"name": "erwin blom",
+					"id": 713333,
+					"id_str": "713333",
+					"indices": [
+						16,
+						23
+					]
+				},
+				{
+					"screen_name": "gvenk",
+					"name": "Gerard van Enk",
+					"id": 1789221,
+					"id_str": "1789221",
+					"indices": [
+						24,
+						30
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NQ857s4XFq",
+					"expanded_url": "https://twitter.com/OpenbookSocial/status/1106529988084408322",
+					"display_url": "twitter.com/OpenbookSocial…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Per 1/3 beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019).",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8884,
+			"friends_count": 258,
+			"listed_count": 593,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59885,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1106529988084408300,
+		"quoted_status_id_str": "1106529988084408322",
+		"quoted_status_permalink": {
+			"url": "https://t.co/NQ857s4XFq",
+			"expanded": "https://twitter.com/OpenbookSocial/status/1106529988084408322",
+			"display": "twitter.com/OpenbookSocial…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Mar 15 12:18:02 +0000 2019",
+			"id": 1106529988084408300,
+			"id_str": "1106529988084408322",
+			"full_text": "We'll begin our Kickstarter/Indiegogo backers on-boarding into our alpha version tomorrow ~ 12:00 CET 👯‍♀️👯‍♂️.\n\nKeep an eye on you email inbox! https://t.co/LGtikTLLqw",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				144
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1106529934867136500,
+						"id_str": "1106529934867136512",
+						"indices": [
+							145,
+							168
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/D1svHPUXgAAxSHa.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D1svHPUXgAAxSHa.jpg",
+						"url": "https://t.co/LGtikTLLqw",
+						"display_url": "pic.twitter.com/LGtikTLLqw",
+						"expanded_url": "https://twitter.com/OpenbookSocial/status/1106529988084408322/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 244,
+								"h": 170,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 244,
+								"h": 170,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 244,
+								"h": 170,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1106529934867136500,
+						"id_str": "1106529934867136512",
+						"indices": [
+							145,
+							168
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/D1svHPUXgAAxSHa.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D1svHPUXgAAxSHa.jpg",
+						"url": "https://t.co/LGtikTLLqw",
+						"display_url": "pic.twitter.com/LGtikTLLqw",
+						"expanded_url": "https://twitter.com/OpenbookSocial/status/1106529988084408322/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 244,
+								"h": 170,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 244,
+								"h": 170,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 244,
+								"h": 170,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								122,
+								85
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/D1svHPUXgAAxSHa.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 985094873840848900,
+				"id_str": "985094873840848896",
+				"name": "Openbook",
+				"screen_name": "OpenbookSocial",
+				"location": "🇪🇺 🇳🇱 | The Netherlands, Europe",
+				"description": "Privacy-friendly, personal & transparent social network · 🚀 Coming early 2019 · 🎁 Sign up for early-access at https://t.co/VDNv2zJVda",
+				"url": "https://t.co/VDNv2zJVda",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/VDNv2zJVda",
+								"expanded_url": "https://openbook.social",
+								"display_url": "openbook.social",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/VDNv2zJVda",
+								"expanded_url": "https://openbook.social",
+								"display_url": "openbook.social",
+								"indices": [
+									110,
+									133
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2973,
+				"friends_count": 203,
+				"listed_count": 36,
+				"created_at": "Sat Apr 14 09:58:14 +0000 2018",
+				"favourites_count": 1399,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 535,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1077967402816757762/rtzsNDEO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1077967402816757762/rtzsNDEO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/985094873840848896/1550274333",
+				"profile_link_color": "3E3E3E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 29,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Nog even geduld @erwblo @gvenk ! https://t.co/NQ857s4XFq"
+	},
+	{
 		"created_at": "Fri Mar 15 09:49:59 +0000 2019",
 		"id": 1106492732879618000,
 		"id_str": "1106492732879618049",
