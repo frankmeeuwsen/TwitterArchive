@@ -1,6 +1,100 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Fri Mar 15 06:26:06 +0000 2019",
+		"id": 1106407789067419600,
+		"id_str": "1106441423098990592",
+		"full_text": "Media: be careful with the NZ shooter's apparent manifesto. It's thick with irony and meta-text and very easy to misinterpret if you're not steeped in this stuff all the time (and even if you are).",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18816166,
+			"id_str": "18816166",
+			"name": "Kevin Roose",
+			"screen_name": "kevinroose",
+			"location": "NYC",
+			"description": "Tech columnist, NYT + NYT Magazine. kevin.roose@nytimes.com or kevinroose@protonmail.com (secure)",
+			"url": "https://t.co/OvZsx2Csrz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OvZsx2Csrz",
+							"expanded_url": "http://www.kevinroose.com",
+							"display_url": "kevinroose.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 68975,
+			"friends_count": 2335,
+			"listed_count": 2398,
+			"created_at": "Fri Jan 09 21:28:15 +0000 2009",
+			"favourites_count": 13054,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 139,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "8B542B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986669109990522880/XqK48Wu7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986669109990522880/XqK48Wu7_normal.jpg",
+			"profile_link_color": "2E449C",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1904,
+		"favorite_count": 5896,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Media: be careful with the NZ shooter's apparent manifesto. It's thick with irony and meta-text and very easy to misinterpret if you're not steeped in this stuff all the time (and even if you are)."
+	},
+	{
 		"created_at": "Thu Mar 14 18:40:40 +0000 2019",
 		"id": 1106263893113036800,
 		"id_str": "1106263893113036807",
