@@ -1,6 +1,261 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sat Mar 16 06:55:40 +0000 2019",
+		"id": 1106811249910779900,
+		"id_str": "1106811249910779904",
+		"full_text": "Gelukkig winnen ze awards en powerpointliefde bij vakgenoten met kekke social viral campagnes en is hun webcare zo begaan met 1-2tjes met andere merken. \n\nMockingSpongebob.jpg https://t.co/rzHoJkVTrv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rzHoJkVTrv",
+					"expanded_url": "https://twitter.com/markies/status/1106716478315941889",
+					"display_url": "twitter.com/markies/status…",
+					"indices": [
+						176,
+						199
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Per 1/3 beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019).",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8883,
+			"friends_count": 256,
+			"listed_count": 593,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5134,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59889,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1106716478315941900,
+		"quoted_status_id_str": "1106716478315941889",
+		"quoted_status_permalink": {
+			"url": "https://t.co/rzHoJkVTrv",
+			"expanded": "https://twitter.com/markies/status/1106716478315941889",
+			"display": "twitter.com/markies/status…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Mar 16 00:39:04 +0000 2019",
+			"id": 1106716478315941900,
+			"id_str": "1106716478315941889",
+			"full_text": "Zoek op in Google: “Assumption makes a..”. Ik heb mijn gezin in de auto gezet en 8 uur gereden naar Nederland. Jullie mogen mijn mening en advies voor verbetering inhuren. https://t.co/DFQB96igEv",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				171
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/DFQB96igEv",
+						"expanded_url": "https://twitter.com/KLM/status/1106548347714846721",
+						"display_url": "twitter.com/KLM/status/110…",
+						"indices": [
+							172,
+							195
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1858541,
+				"id_str": "1858541",
+				"name": "Mark de Kock",
+				"screen_name": "Markies",
+				"location": "Mettmenstetten, Zurich",
+				"description": "Father - Mac - digi/Marketing - petrolhead, Pearl Jam, Zug/Zurich, Switzerland https://t.co/Lz0hDDjZXf",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Lz0hDDjZXf",
+								"expanded_url": "http://linkedin.com/profile/view?iM",
+								"display_url": "linkedin.com/profile/view?iM",
+								"indices": [
+									79,
+									102
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3405,
+				"friends_count": 1666,
+				"listed_count": 217,
+				"created_at": "Thu Mar 22 10:53:43 +0000 2007",
+				"favourites_count": 1920,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 75186,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/824967009964277761/-AeDyGtE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/824967009964277761/-AeDyGtE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1858541/1488316977",
+				"profile_link_color": "504D4B",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "A98D73",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "58bd9c0e6a982660",
+				"url": "https://api.twitter.com/1.1/geo/id/58bd9c0e6a982660.json",
+				"place_type": "neighborhood",
+				"name": "Centrum 4",
+				"full_name": "Centrum 4, Schijndel",
+				"country_code": "NL",
+				"country": "The Netherlands",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								5.42559872744786,
+								51.6185577205873
+							],
+							[
+								5.43257365189373,
+								51.6185577205873
+							],
+							[
+								5.43257365189373,
+								51.6230430661953
+							],
+							[
+								5.42559872744786,
+								51.6230430661953
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1106548347714846700,
+			"quoted_status_id_str": "1106548347714846721",
+			"quoted_status_permalink": {
+				"url": "https://t.co/DFQB96igEv",
+				"expanded": "https://twitter.com/KLM/status/1106548347714846721",
+				"display": "twitter.com/KLM/status/110…"
+			},
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Gelukkig winnen ze awards en powerpointliefde bij vakgenoten met kekke social viral campagnes en is hun webcare zo begaan met 1-2tjes met andere merken. \n\nMockingSpongebob.jpg https://t.co/rzHoJkVTrv"
+	},
+	{
 		"created_at": "Fri Mar 15 21:18:11 +0000 2019",
 		"id": 1106665924059385900,
 		"id_str": "1106665924059385856",
