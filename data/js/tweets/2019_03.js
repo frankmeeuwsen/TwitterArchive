@@ -1,6 +1,401 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sun Mar 17 23:06:27 +0000 2019",
+		"id": 1107380351834435600,
+		"id_str": "1107417945456738304",
+		"full_text": "R.I.P. Dick Dale, surf rock pioneer dead at 82: https://t.co/vfjlep3zG0 #DickDale https://t.co/SivSUL07Sl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DickDale",
+					"indices": [
+						72,
+						81
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vfjlep3zG0",
+					"expanded_url": "http://cos.lv/1tOt30o4Uco",
+					"display_url": "cos.lv/1tOt30o4Uco",
+					"indices": [
+						48,
+						71
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1107380347891781600,
+					"id_str": "1107380347891781634",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/D140jytWkAIjcWi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D140jytWkAIjcWi.jpg",
+					"url": "https://t.co/SivSUL07Sl",
+					"display_url": "pic.twitter.com/SivSUL07Sl",
+					"expanded_url": "https://twitter.com/consequence/status/1107380351834435584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1107380347891781600,
+					"id_str": "1107380347891781634",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/D140jytWkAIjcWi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D140jytWkAIjcWi.jpg",
+					"url": "https://t.co/SivSUL07Sl",
+					"display_url": "pic.twitter.com/SivSUL07Sl",
+					"expanded_url": "https://twitter.com/consequence/status/1107380351834435584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15553222,
+			"id_str": "15553222",
+			"name": "Consequence of Sound",
+			"screen_name": "consequence",
+			"location": "Chicago",
+			"description": "Music, film, and pop culture publication.",
+			"url": "https://t.co/IwVcgfGgL0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IwVcgfGgL0",
+							"expanded_url": "https://consequenceofsound.net/",
+							"display_url": "consequenceofsound.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 195103,
+			"friends_count": 2290,
+			"listed_count": 5046,
+			"created_at": "Wed Jul 23 02:17:36 +0000 2008",
+			"favourites_count": 10182,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 139328,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/953052543625715712/6Pp-BdiV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/953052543625715712/6Pp-BdiV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15553222/1548702072",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "07647E",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 793,
+		"favorite_count": 1197,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "R.I.P. Dick Dale, surf rock pioneer dead at 82: https://t.co/vfjlep3zG0 #DickDale https://t.co/SivSUL07Sl"
+	},
+	{
+		"created_at": "Sun Mar 17 22:52:58 +0000 2019",
+		"id": 1107414550528380900,
+		"id_str": "1107414550528380929",
+		"full_text": "Dag 3: #BooksILove uitdaging (via @resourcerer): 7 boekomslagen, geen uitleg, geen recensie. Iedere dag een nieuwe uitnodiging. Nu het net over boeken ging, doe je mee @theblub? https://t.co/CnQ0rb3m3d",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BooksILove",
+					"indices": [
+						7,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "resourcerer",
+					"name": " martijn aslander",
+					"id": 3051761,
+					"id_str": "3051761",
+					"indices": [
+						34,
+						46
+					]
+				},
+				{
+					"screen_name": "theblub",
+					"name": "Jelle",
+					"id": 40082913,
+					"id_str": "40082913",
+					"indices": [
+						168,
+						176
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1107414488058347500,
+					"id_str": "1107414488058347521",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/D15TnAvWwAEXa6J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D15TnAvWwAEXa6J.jpg",
+					"url": "https://t.co/CnQ0rb3m3d",
+					"display_url": "pic.twitter.com/CnQ0rb3m3d",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1107414550528380929/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1107414488058347500,
+					"id_str": "1107414488058347521",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/D15TnAvWwAEXa6J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D15TnAvWwAEXa6J.jpg",
+					"url": "https://t.co/CnQ0rb3m3d",
+					"display_url": "pic.twitter.com/CnQ0rb3m3d",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1107414550528380929/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019). #TeamHuman",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8885,
+			"friends_count": 256,
+			"listed_count": 593,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59903,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Dag 3: #BooksILove uitdaging (via @resourcerer): 7 boekomslagen, geen uitleg, geen recensie. Iedere dag een nieuwe uitnodiging. Nu het net over boeken ging, doe je mee @theblub? https://t.co/CnQ0rb3m3d"
+	},
+	{
 		"created_at": "Sun Mar 17 21:25:12 +0000 2019",
 		"id": 1107392464212639700,
 		"id_str": "1107392464212639745",
