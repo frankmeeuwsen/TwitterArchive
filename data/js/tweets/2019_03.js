@@ -1,6 +1,247 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Mon Mar 18 15:25:24 +0000 2019",
+		"id": 1107664304927637500,
+		"id_str": "1107664304927637504",
+		"full_text": "Volgens mij zijn die laatste 5 woorden tot nu nooit publiek gezegd, niet te verifieren dus. Telegraaf ophitserij. https://t.co/dXxG3TldfZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dXxG3TldfZ",
+					"expanded_url": "https://twitter.com/chrisververs/status/1107663926400090112",
+					"display_url": "twitter.com/chrisververs/s…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019). #TeamHuman",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8886,
+			"friends_count": 259,
+			"listed_count": 593,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5141,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59930,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1107663926400090100,
+		"quoted_status_id_str": "1107663926400090112",
+		"quoted_status_permalink": {
+			"url": "https://t.co/dXxG3TldfZ",
+			"expanded": "https://twitter.com/chrisververs/status/1107663926400090112",
+			"display": "twitter.com/chrisververs/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Mar 18 15:23:54 +0000 2019",
+			"id": 1107663926400090100,
+			"id_str": "1107663926400090112",
+			"full_text": "Vrouw gesproken die melding maakte van verdachte auto. ,,Hij stond te draaien. Ik vond het maar vreemd. Het raam stond open en er lag een briefje in met een tekst en heel groot Allah erop.” #utrecht #pijlsweerd",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				210
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "utrecht",
+						"indices": [
+							190,
+							198
+						]
+					},
+					{
+						"text": "pijlsweerd",
+						"indices": [
+							199,
+							210
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18642779,
+				"id_str": "18642779",
+				"name": "chrisververs",
+				"screen_name": "chrisververs",
+				"location": "Utrecht",
+				"description": "Verslaggever De Telegraaf",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1919,
+				"friends_count": 958,
+				"listed_count": 33,
+				"created_at": "Mon Jan 05 19:49:04 +0000 2009",
+				"favourites_count": 1586,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3676,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/978922679234424837/bMeA4YzY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/978922679234424837/bMeA4YzY_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "871685aa82f8a489",
+				"url": "https://api.twitter.com/1.1/geo/id/871685aa82f8a489.json",
+				"place_type": "city",
+				"name": "Utrecht",
+				"full_name": "Utrecht, The Netherlands",
+				"country_code": "NL",
+				"country": "The Netherlands",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								4.9702867,
+								52.0262429
+							],
+							[
+								5.1952468,
+								52.0262429
+							],
+							[
+								5.1952468,
+								52.142137
+							],
+							[
+								4.9702867,
+								52.142137
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 19,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Volgens mij zijn die laatste 5 woorden tot nu nooit publiek gezegd, niet te verifieren dus. Telegraaf ophitserij. https://t.co/dXxG3TldfZ"
+	},
+	{
 		"created_at": "Mon Mar 18 14:41:15 +0000 2019",
 		"id": 1107653196019830800,
 		"id_str": "1107653196019830785",
