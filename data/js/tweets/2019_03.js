@@ -1,6 +1,294 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Mon Mar 18 13:18:02 +0000 2019",
+		"id": 1107632105780113400,
+		"id_str": "1107632253658689536",
+		"full_text": "De politie vraagt u uit te kijken naar de 37-jarige Gökman Tanis (geboren in Turkije) in verband met het incident vanmorgen aan het #24oktoberplein in Utrecht.  \nBenader hem niet zelf maar bel direct de opsporingstiplijn 0800-6070 https://t.co/QZ88s3Wl0k",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			230
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "24oktoberplein",
+					"indices": [
+						132,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1107631905757892600,
+					"id_str": "1107631905757892609",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/media/D18ZWYyWkAEHCmj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D18ZWYyWkAEHCmj.jpg",
+					"url": "https://t.co/QZ88s3Wl0k",
+					"display_url": "pic.twitter.com/QZ88s3Wl0k",
+					"expanded_url": "https://twitter.com/PolitieUtrecht/status/1107632105780113408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1107631905757892600,
+					"id_str": "1107631905757892609",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/media/D18ZWYyWkAEHCmj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D18ZWYyWkAEHCmj.jpg",
+					"url": "https://t.co/QZ88s3Wl0k",
+					"display_url": "pic.twitter.com/QZ88s3Wl0k",
+					"expanded_url": "https://twitter.com/PolitieUtrecht/status/1107632105780113408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19062536,
+			"id_str": "19062536",
+			"name": "Politie Utrecht",
+			"screen_name": "PolitieUtrecht",
+			"location": "Utrecht",
+			"description": "Twitteraccount van de politie in de provincie Utrecht. Meldingen kunt u doen via 0900-8844. Bij spoed via 112. Dit account wordt niet 24/7 uitgelezen.",
+			"url": "http://t.co/oPmtvoKxEK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/oPmtvoKxEK",
+							"expanded_url": "http://www.politie.nl",
+							"display_url": "politie.nl",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 102188,
+			"friends_count": 160,
+			"listed_count": 699,
+			"created_at": "Fri Jan 16 11:15:20 +0000 2009",
+			"favourites_count": 161,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 16760,
+			"lang": "nl",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "004380",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/716950750753124352/cyKM6mAI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/716950750753124352/cyKM6mAI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19062536/1459769364",
+			"profile_link_color": "004382",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "BF9D4F",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1542,
+		"favorite_count": 215,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "De politie vraagt u uit te kijken naar de 37-jarige Gökman Tanis (geboren in Turkije) in verband met het incident vanmorgen aan het #24oktoberplein in Utrecht.  \nBenader hem niet zelf maar bel direct de opsporingstiplijn 0800-6070 https://t.co/QZ88s3Wl0k"
+	},
+	{
+		"created_at": "Mon Mar 18 12:56:55 +0000 2019",
+		"id": 1107626939911733200,
+		"id_str": "1107626939911733248",
+		"full_text": "@r0eland Dit is bij Winkelcentrum Kanaaleiland. Paar honderd meter van de Trumanlaan/24 oktober plein",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "r0eland",
+					"name": "Roeland Roovers",
+					"id": 15748629,
+					"id_str": "15748629",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1107626411202961400,
+		"in_reply_to_status_id_str": "1107626411202961408",
+		"in_reply_to_user_id": 15748629,
+		"in_reply_to_user_id_str": "15748629",
+		"in_reply_to_screen_name": "r0eland",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019). #TeamHuman",
+			"url": "https://t.co/4cv62B1Wh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cv62B1Wh8",
+							"expanded_url": "http://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8886,
+			"friends_count": 259,
+			"listed_count": 593,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5141,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59926,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@r0eland Dit is bij Winkelcentrum Kanaaleiland. Paar honderd meter van de Trumanlaan/24 oktober plein"
+	},
+	{
 		"created_at": "Mon Mar 18 12:20:57 +0000 2019",
 		"id": 1107616833920745500,
 		"id_str": "1107617887546687489",
@@ -106,7 +394,7 @@ Grailbird.data.tweets_2019_03 =
 			"name": "Daniël Verlaan",
 			"screen_name": "danielverlaan",
 			"location": "🚀",
-			"description": "techjournalist @RTLnieuws: hackers & cybercrime. tips? ☎️ +316 2089 8142 📫 daniel.verlaan@rtl.nl 👨🏻‍💻 auteur cybersecuritygids https://t.co/PqsPCI7jbA",
+			"description": "techjournalist @RTLnieuws: hackers & cybercrime. tips? ☎️ +316 2089 8142 📫 daniel.verlaan@rtl.nl 👨🏻💻 auteur cybersecuritygids https://t.co/PqsPCI7jbA",
 			"url": "https://t.co/CmkHfPB2GP",
 			"entities": {
 				"url": {
