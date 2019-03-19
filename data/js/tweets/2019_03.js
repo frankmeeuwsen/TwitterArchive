@@ -1,6 +1,250 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Tue Mar 19 09:54:24 +0000 2019",
+		"id": 1107943396142972900,
+		"id_str": "1107943396142972928",
+		"full_text": "Het cursusmateriaal blijft binnenkomen @marcoderksen https://t.co/fVFvc9vA75",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "marcoderksen",
+					"name": "Marco Derksen",
+					"id": 1252681,
+					"id_str": "1252681",
+					"indices": [
+						39,
+						52
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fVFvc9vA75",
+					"expanded_url": "https://twitter.com/gemeenteutrecht/status/1107940287421337600",
+					"display_url": "twitter.com/gemeenteutrech…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019). #TeamHuman",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8888,
+			"friends_count": 259,
+			"listed_count": 593,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5147,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59907,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1107940287421337600,
+		"quoted_status_id_str": "1107940287421337600",
+		"quoted_status_permalink": {
+			"url": "https://t.co/fVFvc9vA75",
+			"expanded": "https://twitter.com/gemeenteutrecht/status/1107940287421337600",
+			"display": "twitter.com/gemeenteutrech…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 19 09:42:03 +0000 2019",
+			"id": 1107940287421337600,
+			"id_str": "1107940287421337600",
+			"full_text": "Informatie van de politie over de verdachten van het incident #24Oktoberplein is leidend. De burgemeester heeft zich vanmorgen gebaseerd op informatie van politie die later onjuist bleek. Excuses voor de onduidelijkheid. https://t.co/rlucgRwDBb",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				220
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "24Oktoberplein",
+						"indices": [
+							62,
+							77
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/rlucgRwDBb",
+						"expanded_url": "https://twitter.com/PolitieUtrecht/status/1107926858753077248",
+						"display_url": "twitter.com/PolitieUtrecht…",
+						"indices": [
+							221,
+							244
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22469959,
+				"id_str": "22469959",
+				"name": "Gemeente Utrecht",
+				"screen_name": "GemeenteUtrecht",
+				"location": "Utrecht",
+				"description": "Het officiële Twitteraccount van de gemeente Utrecht.  Stel je vraag | Antwoorden ma t/m vr tussen 9 en 21 uur | actief bij crisis of ramp",
+				"url": "https://t.co/9y8w1ZUbHa",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9y8w1ZUbHa",
+								"expanded_url": "http://www.utrecht.nl/socialmedia",
+								"display_url": "utrecht.nl/socialmedia",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 58386,
+				"friends_count": 1667,
+				"listed_count": 556,
+				"created_at": "Mon Mar 02 09:43:00 +0000 2009",
+				"favourites_count": 256,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 37181,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/481738303318679553/V7PdBlJ0_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/481738303318679553/V7PdBlJ0_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22469959/1532953650",
+				"profile_link_color": "CC0000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "FFB70B",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1107926858753077200,
+			"quoted_status_id_str": "1107926858753077248",
+			"quoted_status_permalink": {
+				"url": "https://t.co/rlucgRwDBb",
+				"expanded": "https://twitter.com/PolitieUtrecht/status/1107926858753077248",
+				"display": "twitter.com/PolitieUtrecht…"
+			},
+			"retweet_count": 5,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Het cursusmateriaal blijft binnenkomen @marcoderksen https://t.co/fVFvc9vA75"
+	},
+	{
 		"created_at": "Tue Mar 19 08:40:28 +0000 2019",
 		"id": 1107924790197792800,
 		"id_str": "1107924790197792768",
