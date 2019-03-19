@@ -1,6 +1,111 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Tue Mar 19 20:52:07 +0000 2019",
+		"id": 1108107795868446700,
+		"id_str": "1108108912514027520",
+		"full_text": "Pro tip: type % in the URL bar to search your open tabs. \n\nIf you have more than one device synced, you can search the tabs on your other devices, too!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2142731,
+			"id_str": "2142731",
+			"name": "Firefox 🔥",
+			"screen_name": "firefox",
+			"location": "All over the world",
+			"description": "Made for people, not profit. 2x faster, easy on memory and helps you block trackers that can slow you down. Get Firefox: https://t.co/mUeDEhwPGR",
+			"url": "https://t.co/uiLRlFZnpI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uiLRlFZnpI",
+							"expanded_url": "http://mozilla.org/firefox",
+							"display_url": "mozilla.org/firefox",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mUeDEhwPGR",
+							"expanded_url": "https://mzl.la/2t2jOrH",
+							"display_url": "mzl.la/2t2jOrH",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2683249,
+			"friends_count": 406,
+			"listed_count": 24457,
+			"created_at": "Sat Mar 24 23:58:14 +0000 2007",
+			"favourites_count": 24506,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 40621,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "00539F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/930427008173080576/_AgS8Urc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/930427008173080576/_AgS8Urc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2142731/1543930244",
+			"profile_link_color": "CC3300",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFF99",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 60,
+		"favorite_count": 170,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Pro tip: type % in the URL bar to search your open tabs. \n\nIf you have more than one device synced, you can search the tabs on your other devices, too!"
+	},
+	{
 		"created_at": "Tue Mar 19 17:23:36 +0000 2019",
 		"id": 1108056439971553300,
 		"id_str": "1108056439971553280",
