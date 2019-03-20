@@ -1,6 +1,418 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Wed Mar 20 22:19:34 +0000 2019",
+		"id": 1108493308895158300,
+		"id_str": "1108493308895158279",
+		"full_text": "@demetriosns No Olé? 😂😂😂",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "demetriosns",
+					"name": "demetrios",
+					"id": 2445883256,
+					"id_str": "2445883256",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1108492252454838300,
+		"in_reply_to_status_id_str": "1108492252454838272",
+		"in_reply_to_user_id": 2445883256,
+		"in_reply_to_user_id_str": "2445883256",
+		"in_reply_to_screen_name": "demetriosns",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019). #TeamHuman",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8889,
+			"friends_count": 261,
+			"listed_count": 593,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5157,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59936,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "es",
+		"text": "@demetriosns No Olé? 😂😂😂"
+	},
+	{
+		"created_at": "Wed Mar 20 22:14:57 +0000 2019",
+		"id": 1108434112052891600,
+		"id_str": "1108492148205342725",
+		"full_text": "Hyppytyynytyydytys (Finland) – the satisfaction of sitting on a bouncy cushion.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1108401731598192600,
+		"in_reply_to_status_id_str": "1108401731598192641",
+		"in_reply_to_user_id": 20228975,
+		"in_reply_to_user_id_str": "20228975",
+		"in_reply_to_screen_name": "presentcorrect",
+		"user": {
+			"id": 20228975,
+			"id_str": "20228975",
+			"name": "Present & Correct",
+			"screen_name": "presentcorrect",
+			"location": "London, England",
+			"description": "Office sundries for the modern workspace. Our shop: 23 Arlington Way, London EC1R open Tue - Sat from 12-6:30 https://t.co/GJEpCw6omT",
+			"url": "https://t.co/GJEpCw6omT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GJEpCw6omT",
+							"expanded_url": "http://www.presentandcorrect.com",
+							"display_url": "presentandcorrect.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GJEpCw6omT",
+							"expanded_url": "http://www.presentandcorrect.com",
+							"display_url": "presentandcorrect.com",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 55181,
+			"friends_count": 879,
+			"listed_count": 1144,
+			"created_at": "Fri Feb 06 10:49:40 +0000 2009",
+			"favourites_count": 3641,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 46627,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDEDED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875381488539361280/S20DH0Zr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875381488539361280/S20DH0Zr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20228975/1427463162",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 49,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "fi",
+		"text": "Hyppytyynytyydytys (Finland) – the satisfaction of sitting on a bouncy cushion."
+	},
+	{
+		"created_at": "Wed Mar 20 22:14:05 +0000 2019",
+		"id": 1108491929015205900,
+		"id_str": "1108491929015205888",
+		"full_text": "Het toverwoord in alle speeches is wel “verantwoordelijkheid” he? Zouden ze dat onderling bekokstoven in de partijleiders Whatsapp groep?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019). #TeamHuman",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8889,
+			"friends_count": 261,
+			"listed_count": 593,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5157,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59936,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "Het toverwoord in alle speeches is wel “verantwoordelijkheid” he? Zouden ze dat onderling bekokstoven in de partijleiders Whatsapp groep?"
+	},
+	{
+		"created_at": "Wed Mar 20 21:43:33 +0000 2019",
+		"id": 1108470890960957400,
+		"id_str": "1108484247155851265",
+		"full_text": "Ik neem aan dat met deze uitslag @decorrespondent morgen niet verschijnt.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "decorrespondent",
+					"name": "De Correspondent",
+					"id": 1197603440,
+					"id_str": "1197603440",
+					"indices": [
+						33,
+						49
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14196979,
+			"id_str": "14196979",
+			"name": "Marc van Oostendorp",
+			"screen_name": "fonolog",
+			"location": "Tussen Bilthoven en Arielli",
+			"description": "Taalkundige en lezer. Onderzoeker Meertens Instituut. Hoogleraar Nederlands en Academische Communicatie aan Radboud Universiteit. Zie ook: @RobertaArielli",
+			"url": "https://t.co/TQOftZZ7iU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TQOftZZ7iU",
+							"expanded_url": "http://www.vanoostendorp.nl/",
+							"display_url": "vanoostendorp.nl",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6402,
+			"friends_count": 900,
+			"listed_count": 149,
+			"created_at": "Sat Mar 22 13:28:53 +0000 2008",
+			"favourites_count": 5084,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20732,
+			"lang": "nl",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B1D8EB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/507877433232457730/cLYJ_0_Y_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/507877433232457730/cLYJ_0_Y_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14196979/1466281507",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C7BD8D",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 44,
+		"favorite_count": 217,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "nl",
+		"text": "Ik neem aan dat met deze uitslag @decorrespondent morgen niet verschijnt."
+	},
+	{
 		"created_at": "Wed Mar 20 21:19:05 +0000 2019",
 		"id": 1108478088067862500,
 		"id_str": "1108478088067862539",
