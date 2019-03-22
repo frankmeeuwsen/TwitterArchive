@@ -1,6 +1,221 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Fri Mar 22 06:20:55 +0000 2019",
+		"id": 1108654592215187500,
+		"id_str": "1108976835117936642",
+		"full_text": "Everyday creators and viewers come together to do amazing things on Twitch. Article 13 is bad copyright reform that could limit the content you create and share. Together, we can stop this. Learn more and take action at https://t.co/KBnAWle9rc. https://t.co/CZdcG7gmbp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			244
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KBnAWle9rc",
+					"expanded_url": "https://link.twitch.tv/2uoDHcN",
+					"display_url": "link.twitch.tv/2uoDHcN",
+					"indices": [
+						220,
+						243
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1108654517699203100,
+					"id_str": "1108654517699203072",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1108654517699203072/pu/img/ClOUnF-RiUkvFcpc.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1108654517699203072/pu/img/ClOUnF-RiUkvFcpc.jpg",
+					"url": "https://t.co/CZdcG7gmbp",
+					"display_url": "pic.twitter.com/CZdcG7gmbp",
+					"expanded_url": "https://twitter.com/Twitch/status/1108654592215187456/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1108654517699203100,
+					"id_str": "1108654517699203072",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1108654517699203072/pu/img/ClOUnF-RiUkvFcpc.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1108654517699203072/pu/img/ClOUnF-RiUkvFcpc.jpg",
+					"url": "https://t.co/CZdcG7gmbp",
+					"display_url": "pic.twitter.com/CZdcG7gmbp",
+					"expanded_url": "https://twitter.com/Twitch/status/1108654592215187456/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 61562,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1108654517699203072/pu/vid/1280x720/0REUpxiv9egORq_B.mp4?tag=8"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1108654517699203072/pu/vid/320x180/9pd8WudZ7q2Sfywt.mp4?tag=8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1108654517699203072/pu/vid/640x360/g1aRrxaf5vDHN0ju.mp4?tag=8"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1108654517699203072/pu/pl/BOqB313AGgTOGn9T.m3u8?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.spredfast.com/\" rel=\"nofollow\">Spredfast app</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 309366491,
+			"id_str": "309366491",
+			"name": "Twitch",
+			"screen_name": "Twitch",
+			"location": "San Francisco, CA",
+			"description": "We are Twitch: a global community of millions who come together each day to create their own entertainment. For site issues follow @TwitchSupport.",
+			"url": "https://t.co/3OEMsaM2Ma",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3OEMsaM2Ma",
+							"expanded_url": "http://twitch.tv",
+							"display_url": "twitch.tv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5719782,
+			"friends_count": 549,
+			"listed_count": 6650,
+			"created_at": "Thu Jun 02 00:01:06 +0000 2011",
+			"favourites_count": 9803,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 18639,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "262626",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1108961875402715136/9rskecSW_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1108961875402715136/9rskecSW_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/309366491/1553232027",
+			"profile_link_color": "6441A5",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1883,
+		"favorite_count": 4933,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Everyday creators and viewers come together to do amazing things on Twitch. Article 13 is bad copyright reform that could limit the content you create and share. Together, we can stop this. Learn more and take action at https://t.co/KBnAWle9rc. https://t.co/CZdcG7gmbp"
+	},
+	{
 		"created_at": "Thu Mar 21 21:34:45 +0000 2019",
 		"id": 1108844420512837600,
 		"id_str": "1108844420512837637",
@@ -26,7 +241,7 @@ Grailbird.data.tweets_2019_03 =
 				},
 				{
 					"screen_name": "CanYouImagineI",
-					"name": "Johann 🇩🇪🏳️‍🌈🐻👾",
+					"name": "Johann 🇩🇪🏳️🌈🐻👾",
 					"id": 897405572898803700,
 					"id_str": "897405572898803712",
 					"indices": [
