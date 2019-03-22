@@ -1,6 +1,131 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Fri Mar 22 16:58:33 +0000 2019",
+		"id": 1108698564191023100,
+		"id_str": "1109137300062158853",
+		"full_text": "'Het is zover: eind maart stemt het Europees Parlement definitief voor of tegen de nieuwe auteursrechtregels. Dit is de laatste kans om #article13 en dus uploadfilters tegen te houden.' @bitsoffreedom stelt voor wat je hieraan kunt doen. \n\nhttps://t.co/EL7lyxaZqg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			263
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "article13",
+					"indices": [
+						136,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bitsoffreedom",
+					"name": "Bits of Freedom",
+					"id": 55914675,
+					"id_str": "55914675",
+					"indices": [
+						186,
+						200
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EL7lyxaZqg",
+					"expanded_url": "https://www.bitsoffreedom.nl/2019/02/28/wat-jij-kan-doen-om-het-internet-te-redden/",
+					"display_url": "bitsoffreedom.nl/2019/02/28/wat…",
+					"indices": [
+						240,
+						263
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 26712390,
+			"id_str": "26712390",
+			"name": "Waag",
+			"screen_name": "waag",
+			"location": "Amsterdam, The Netherlands",
+			"description": "Making technology & society more open, fair & inclusive.",
+			"url": "http://t.co/OHRapAPewO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/OHRapAPewO",
+							"expanded_url": "http://waag.org",
+							"display_url": "waag.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17334,
+			"friends_count": 727,
+			"listed_count": 845,
+			"created_at": "Thu Mar 26 08:38:13 +0000 2009",
+			"favourites_count": 3080,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9440,
+			"lang": "nl",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1775087583/image1327310526_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1775087583/image1327310526_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/26712390/1534246544",
+			"profile_link_color": "522E90",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "242020",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "'Het is zover: eind maart stemt het Europees Parlement definitief voor of tegen de nieuwe auteursrechtregels. Dit is de laatste kans om #article13 en dus uploadfilters tegen te houden.' @bitsoffreedom stelt voor wat je hieraan kunt doen. \n\nhttps://t.co/EL7lyxaZqg"
+	},
+	{
 		"created_at": "Fri Mar 22 13:51:09 +0000 2019",
 		"id": 1109090137588277200,
 		"id_str": "1109090137588277248",
