@@ -1,6 +1,267 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sat Mar 23 12:47:32 +0000 2019",
+		"id": 1109427245406449700,
+		"id_str": "1109436517804634113",
+		"full_text": "Volg dit voorbeeld, kom in actie en stop #artikel13 🚮 #saveyourinternet https://t.co/Z7vP3yMETe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "artikel13",
+					"indices": [
+						41,
+						51
+					]
+				},
+				{
+					"text": "saveyourinternet",
+					"indices": [
+						54,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Z7vP3yMETe",
+					"expanded_url": "https://twitter.com/babygrandpa/status/1109131902315831297",
+					"display_url": "twitter.com/babygrandpa/st…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55914675,
+			"id_str": "55914675",
+			"name": "Bits of Freedom",
+			"screen_name": "bitsoffreedom",
+			"location": "Amsterdam, Nederland",
+			"description": "Bits of Freedom komt op voor jouw internetvrijheid. Volg onze nieuwsbrief voor nieuws & tips https://t.co/LxsIx88kGP",
+			"url": "https://t.co/0iVksIfE3z",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0iVksIfE3z",
+							"expanded_url": "https://www.bitsoffreedom.nl/",
+							"display_url": "bitsoffreedom.nl",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/LxsIx88kGP",
+							"expanded_url": "https://www.bitsoffreedom.nl/volg-ons",
+							"display_url": "bitsoffreedom.nl/volg-ons",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 29853,
+			"friends_count": 1187,
+			"listed_count": 1074,
+			"created_at": "Sat Jul 11 19:56:18 +0000 2009",
+			"favourites_count": 2002,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 26221,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/959024044191428609/d_l3GvoY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/959024044191428609/d_l3GvoY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55914675/1548329229",
+			"profile_link_color": "028C9B",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1109131902315831300,
+		"quoted_status_id_str": "1109131902315831297",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Z7vP3yMETe",
+			"expanded": "https://twitter.com/babygrandpa/status/1109131902315831297",
+			"display": "twitter.com/babygrandpa/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Mar 22 16:37:06 +0000 2019",
+			"id": 1109131902315831300,
+			"id_str": "1109131902315831297",
+			"full_text": "@waag @bitsoffreedom Yep. Heb -oprecht- met diverse MEPs gebeld en m’n zorgen overduidelijk kenbaar gemaakt. Laten we hopen dat ook zij het #CopyrightDirective en #Article13 #Article17 naar de prullenbak verwijzen. Reeds 5 MILJOEN burgers tekenden voor NEE.",
+			"truncated": false,
+			"display_text_range": [
+				21,
+				257
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "CopyrightDirective",
+						"indices": [
+							140,
+							159
+						]
+					},
+					{
+						"text": "Article13",
+						"indices": [
+							163,
+							173
+						]
+					},
+					{
+						"text": "Article17",
+						"indices": [
+							174,
+							184
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "waag",
+						"name": "Waag",
+						"id": 26712390,
+						"id_str": "26712390",
+						"indices": [
+							0,
+							5
+						]
+					},
+					{
+						"screen_name": "bitsoffreedom",
+						"name": "Bits of Freedom",
+						"id": 55914675,
+						"id_str": "55914675",
+						"indices": [
+							6,
+							20
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1108698564191023100,
+			"in_reply_to_status_id_str": "1108698564191023105",
+			"in_reply_to_user_id": 26712390,
+			"in_reply_to_user_id_str": "26712390",
+			"in_reply_to_screen_name": "waag",
+			"user": {
+				"id": 36064991,
+				"id_str": "36064991",
+				"name": "Baby Grandpa",
+				"screen_name": "BabyGrandpa",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 77,
+				"friends_count": 111,
+				"listed_count": 1,
+				"created_at": "Tue Apr 28 13:33:34 +0000 2009",
+				"favourites_count": 4,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 197,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EDECE9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1105555839362973704/gR1iIxuL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1105555839362973704/gR1iIxuL_normal.jpg",
+				"profile_link_color": "088253",
+				"profile_sidebar_border_color": "D3D2CF",
+				"profile_sidebar_fill_color": "E3E2DE",
+				"profile_text_color": "634047",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "nl"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Volg dit voorbeeld, kom in actie en stop #artikel13 🚮 #saveyourinternet https://t.co/Z7vP3yMETe"
+	},
+	{
 		"created_at": "Sat Mar 23 08:08:25 +0000 2019",
 		"id": 1109366276475052000,
 		"id_str": "1109366276475052032",
