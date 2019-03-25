@@ -1,6 +1,235 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Mon Mar 25 15:38:14 +0000 2019",
+		"id": 1110204251152834600,
+		"id_str": "1110204251152834561",
+		"full_text": "Leg eens uit hoe het dichttimmeren van het open internet helpt om artiesten een eerlijk loon te geven? Dit is geen wijs besluit. Denk er nog eens goed over na @DdJong en laat je verder voorlichten. Wie zijn die betrokkenen? https://t.co/eVh91ncBFJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DdJong",
+					"name": "Dennis de Jong",
+					"id": 42372786,
+					"id_str": "42372786",
+					"indices": [
+						159,
+						166
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/eVh91ncBFJ",
+					"expanded_url": "https://twitter.com/ddjong/status/1109913479731953665",
+					"display_url": "twitter.com/ddjong/status/…",
+					"indices": [
+						224,
+						247
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019). #TeamHuman",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8889,
+			"friends_count": 268,
+			"listed_count": 593,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5185,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59962,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1109913479731953700,
+		"quoted_status_id_str": "1109913479731953665",
+		"quoted_status_permalink": {
+			"url": "https://t.co/eVh91ncBFJ",
+			"expanded": "https://twitter.com/ddjong/status/1109913479731953665",
+			"display": "twitter.com/ddjong/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Mar 24 20:22:49 +0000 2019",
+			"id": 1109913479731953700,
+			"id_str": "1109913479731953665",
+			"full_text": "Als SP blijven we tegen internetcensuur, maar na uitvoerig met alle betrokkenen te hebben gesproken, gaan we komende week in Straatsburg toch voor de auteursrechtenrichtlijn stemmen. Ook artiesten verdienen een eerlijk loon. Zie de uitleg in mijn weeklog: https://t.co/s7YsBsosAL",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/s7YsBsosAL",
+						"expanded_url": "https://www.sp.nl/column/dennis-jong/2019/weeklog-bittere-strijd-rondom-auteursrecht",
+						"display_url": "sp.nl/column/dennis-…",
+						"indices": [
+							256,
+							279
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 42372786,
+				"id_str": "42372786",
+				"name": "Dennis de Jong",
+				"screen_name": "DdJong",
+				"location": "Rotterdam",
+				"description": "Ik zit voor de SP in het Europese Parlement",
+				"url": "http://t.co/0zgCSttYqV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/0zgCSttYqV",
+								"expanded_url": "http://www.sp.nl",
+								"display_url": "sp.nl",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3863,
+				"friends_count": 166,
+				"listed_count": 253,
+				"created_at": "Mon May 25 08:12:18 +0000 2009",
+				"favourites_count": 155,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5330,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E50615",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/452133389869383681/ucIGclq9_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/452133389869383681/ucIGclq9_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/42372786/1438282205",
+				"profile_link_color": "E50615",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F0EFE5",
+				"profile_text_color": "060505",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 22,
+			"favorite_count": 41,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Leg eens uit hoe het dichttimmeren van het open internet helpt om artiesten een eerlijk loon te geven? Dit is geen wijs besluit. Denk er nog eens goed over na @DdJong en laat je verder voorlichten. Wie zijn die betrokkenen? https://t.co/eVh91ncBFJ"
+	},
+	{
 		"created_at": "Mon Mar 25 12:54:17 +0000 2019",
 		"id": 1110162992581218300,
 		"id_str": "1110162992581218304",
