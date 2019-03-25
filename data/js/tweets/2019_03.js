@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Mon Mar 25 10:22:30 +0000 2019",
+		"id": 1109891669091106800,
+		"id_str": "1110124794186530818",
+		"full_text": "When white British people do it, it gets a cute lil' name. But when young men and women from the global South get frustrated by the political and economic situation in their country and decide to move, folks start devising arguments for letting them die. https://t.co/kBpt52Vcpd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kBpt52Vcpd",
+					"expanded_url": "https://amp.theguardian.com/politics/2019/mar/23/brexodus-under-way-brits-leaving-the-uk?__twitter_impression=true",
+					"display_url": "amp.theguardian.com/politics/2019/…",
+					"indices": [
+						255,
+						278
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 563190755,
+			"id_str": "563190755",
+			"name": "Nanjala Nyabola",
+			"screen_name": "Nanjala1",
+			"location": "",
+			"description": "'My goal is to be a primary, not a secondary source' Ntozake Shange. Writer. Thinker. Advocate. Traveller. Twitter is not my job.",
+			"url": "https://t.co/uZNEtdoGM7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uZNEtdoGM7",
+							"expanded_url": "http://www.nanjalawrites.com/",
+							"display_url": "nanjalawrites.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20899,
+			"friends_count": 1604,
+			"listed_count": 282,
+			"created_at": "Wed Apr 25 21:02:36 +0000 2012",
+			"favourites_count": 78575,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 100026,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1080478721419722752/FE04PUX8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080478721419722752/FE04PUX8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/563190755/1541612997",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 841,
+		"favorite_count": 1352,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "When white British people do it, it gets a cute lil' name. But when young men and women from the global South get frustrated by the political and economic situation in their country and decide to move, folks start devising arguments for letting them die. https://t.co/kBpt52Vcpd"
+	},
+	{
 		"created_at": "Mon Mar 25 09:10:28 +0000 2019",
 		"id": 1110106667042127900,
 		"id_str": "1110106667042127872",
