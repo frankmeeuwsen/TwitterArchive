@@ -1,6 +1,120 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Tue Mar 26 13:54:34 +0000 2019",
+		"id": 1110254374192889900,
+		"id_str": "1110540548153266176",
+		"full_text": "I can't wait to cut the cord and simply subscribe to:\n\nNetflix\nDisney+\nApple TV\nPrime Video\nHBO Go\nStarz\nShowtime\nCinemax\nHulu\nESPN+\nYouTube TV\nSling TV\n\nThis will finally help me reach my goal of becoming a minimalist",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 97530284,
+			"id_str": "97530284",
+			"name": "Ben Carlson",
+			"screen_name": "awealthofcs",
+			"location": "Grand Rapids, MI",
+			"description": "Trying to bring some common sense to the world of finance. Book: https://t.co/c53AckMaZF  Podcast: https://t.co/GrhZZzIjLv",
+			"url": "https://t.co/Md4o8cTyjS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Md4o8cTyjS",
+							"expanded_url": "http://www.awealthofcommonsense.com",
+							"display_url": "awealthofcommonsense.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/c53AckMaZF",
+							"expanded_url": "http://amzn.to/1FmQOXf",
+							"display_url": "amzn.to/1FmQOXf",
+							"indices": [
+								65,
+								88
+							]
+						},
+						{
+							"url": "https://t.co/GrhZZzIjLv",
+							"expanded_url": "http://awealthofcommonsense.com/podcast/",
+							"display_url": "awealthofcommonsense.com/podcast/",
+							"indices": [
+								99,
+								122
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 69412,
+			"friends_count": 620,
+			"listed_count": 1776,
+			"created_at": "Thu Dec 17 21:34:18 +0000 2009",
+			"favourites_count": 43404,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22041,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/645264354447769600/uPZCaKkm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/645264354447769600/uPZCaKkm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/97530284/1422673312",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3071,
+		"favorite_count": 17458,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I can't wait to cut the cord and simply subscribe to:\n\nNetflix\nDisney+\nApple TV\nPrime Video\nHBO Go\nStarz\nShowtime\nCinemax\nHulu\nESPN+\nYouTube TV\nSling TV\n\nThis will finally help me reach my goal of becoming a minimalist"
+	},
+	{
 		"created_at": "Tue Mar 26 09:41:31 +0000 2019",
 		"id": 1110476868933824500,
 		"id_str": "1110476868933824513",
