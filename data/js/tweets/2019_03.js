@@ -1,6 +1,336 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Tue Mar 26 19:14:12 +0000 2019",
+		"id": 1110620987945570300,
+		"id_str": "1110620987945570304",
+		"full_text": "Erg grappig wat er gaande is. Twitter heeft voor 1 dag het account van Matt Navarra overgenomen. Hilariteit alom. https://t.co/pMw48qMBnv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pMw48qMBnv",
+					"expanded_url": "https://twitter.com/jefffryer/status/1110618293776404480",
+					"display_url": "twitter.com/jefffryer/stat…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019). #TeamHuman",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8887,
+			"friends_count": 270,
+			"listed_count": 593,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5192,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59981,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1110618293776404500,
+		"quoted_status_id_str": "1110618293776404480",
+		"quoted_status_permalink": {
+			"url": "https://t.co/pMw48qMBnv",
+			"expanded": "https://twitter.com/jefffryer/status/1110618293776404480",
+			"display": "twitter.com/jefffryer/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 26 19:03:30 +0000 2019",
+			"id": 1110618293776404500,
+			"id_str": "1110618293776404480",
+			"full_text": "I love the chaos of @Twitter taking over @MattNavarra and @realmattnavarra claps back. Funny AF too 😂. An odd \"HAL 9000 is self-aware\" feel when Twitter smacks about Twitter. Agencies are Slacking each other to steal this idea &amp; snarky brands are drafting tweets. Well done! https://t.co/SBMLLrM6t6",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Twitter",
+						"name": "Twitter",
+						"id": 783214,
+						"id_str": "783214",
+						"indices": [
+							20,
+							28
+						]
+					},
+					{
+						"screen_name": "MattNavarra",
+						"name": "Tweet Navarra",
+						"id": 16211566,
+						"id_str": "16211566",
+						"indices": [
+							41,
+							53
+						]
+					},
+					{
+						"screen_name": "realmattnavarra",
+						"name": "Real Matt Navarra",
+						"id": 1046758184214507500,
+						"id_str": "1046758184214507521",
+						"indices": [
+							58,
+							74
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1110617359285436400,
+						"id_str": "1110617359285436416",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/D2m0mp2XQAAMoZZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D2m0mp2XQAAMoZZ.jpg",
+						"url": "https://t.co/SBMLLrM6t6",
+						"display_url": "pic.twitter.com/SBMLLrM6t6",
+						"expanded_url": "https://twitter.com/JeffFryer/status/1110618293776404480/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 540,
+								"h": 540,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 540,
+								"h": 540,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 540,
+								"h": 540,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1110617359285436400,
+						"id_str": "1110617359285436416",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/D2m0mp2XQAAMoZZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D2m0mp2XQAAMoZZ.jpg",
+						"url": "https://t.co/SBMLLrM6t6",
+						"display_url": "pic.twitter.com/SBMLLrM6t6",
+						"expanded_url": "https://twitter.com/JeffFryer/status/1110618293776404480/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"medium": {
+								"w": 540,
+								"h": 540,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 540,
+								"h": 540,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 540,
+								"h": 540,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/D2m0mp2XQAAMoZZ.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18643922,
+				"id_str": "18643922",
+				"name": "★Jeff Fryer",
+				"screen_name": "JeffFryer",
+				"location": "IL ✈️ NYC ✈️ ATX",
+				"description": "Moose out front shoulda told ya. Former TV extra. Social / Digital bodyguard for 10+ years, incl @arm and ex-@iab. ☕️ is addicted to me. Opinions are mine.",
+				"url": "https://t.co/CFBUCnNTeD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/CFBUCnNTeD",
+								"expanded_url": "http://linkedin.com/in/JeffFryer",
+								"display_url": "linkedin.com/in/JeffFryer",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1905,
+				"friends_count": 841,
+				"listed_count": 277,
+				"created_at": "Mon Jan 05 20:14:54 +0000 2009",
+				"favourites_count": 1151,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5453,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1014886351097876480/3hTnJb-A_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1014886351097876480/3hTnJb-A_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18643922/1477865610",
+				"profile_link_color": "324B21",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Erg grappig wat er gaande is. Twitter heeft voor 1 dag het account van Matt Navarra overgenomen. Hilariteit alom. https://t.co/pMw48qMBnv"
+	},
+	{
 		"created_at": "Tue Mar 26 13:54:34 +0000 2019",
 		"id": 1110254374192889900,
 		"id_str": "1110540548153266176",
