@@ -1,6 +1,122 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Tue Mar 26 09:18:52 +0000 2019",
+		"id": 1110471167037587500,
+		"id_str": "1110471167037587456",
+		"full_text": "@Datagraver @BabyGrandpa Is er een reden dat er geen streams en concerten in vermeld zijn? Of merchandise. Filmmuziek. Ringtones. In-game music. Advertising. Dat is toch ook allemaal onderdeel van de muziekindustrie?",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			216
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Datagraver",
+					"name": "Datagraver",
+					"id": 2842517351,
+					"id_str": "2842517351",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "BabyGrandpa",
+					"name": "Baby Grandpa",
+					"id": 36064991,
+					"id_str": "36064991",
+					"indices": [
+						12,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1110470433915183100,
+		"in_reply_to_status_id_str": "1110470433915183105",
+		"in_reply_to_user_id": 2842517351,
+		"in_reply_to_user_id_str": "2842517351",
+		"in_reply_to_screen_name": "Datagraver",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019). #TeamHuman",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8889,
+			"friends_count": 268,
+			"listed_count": 593,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5188,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59978,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@Datagraver @BabyGrandpa Is er een reden dat er geen streams en concerten in vermeld zijn? Of merchandise. Filmmuziek. Ringtones. In-game music. Advertising. Dat is toch ook allemaal onderdeel van de muziekindustrie?"
+	},
+	{
 		"created_at": "Tue Mar 26 07:49:22 +0000 2019",
 		"id": 1110448643880964100,
 		"id_str": "1110448643880964097",
