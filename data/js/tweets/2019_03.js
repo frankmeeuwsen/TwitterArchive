@@ -1,6 +1,352 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Wed Mar 27 19:15:21 +0000 2019",
+		"id": 1110981723070836700,
+		"id_str": "1110983665100705792",
+		"full_text": "Erg hoor bij onze Oosterburen: Stasi-praktijken die op hun beurt weer op goed nationaal-socialistisch voorbeeld gebaseerd waren. Blij dat het in Nederland niet zo’n vaart zal lopen met dat Forum... oh wacht. https://t.co/DInBuxzjVY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1110981718331310100,
+					"id_str": "1110981718331310080",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/D2r__JEXQAACIJ3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2r__JEXQAACIJ3.jpg",
+					"url": "https://t.co/DInBuxzjVY",
+					"display_url": "pic.twitter.com/DInBuxzjVY",
+					"expanded_url": "https://twitter.com/advocaatsmeets/status/1110981723070836736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 858,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 858,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 519,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1110981718331310100,
+					"id_str": "1110981718331310080",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/D2r__JEXQAACIJ3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2r__JEXQAACIJ3.jpg",
+					"url": "https://t.co/DInBuxzjVY",
+					"display_url": "pic.twitter.com/DInBuxzjVY",
+					"expanded_url": "https://twitter.com/advocaatsmeets/status/1110981723070836736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 858,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 858,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 519,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1110981718348054500,
+					"id_str": "1110981718348054531",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/D2r__JIWwAMkEDY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2r__JIWwAMkEDY.jpg",
+					"url": "https://t.co/DInBuxzjVY",
+					"display_url": "pic.twitter.com/DInBuxzjVY",
+					"expanded_url": "https://twitter.com/advocaatsmeets/status/1110981723070836736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1489,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 907,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 514,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94282012,
+			"id_str": "94282012",
+			"name": "Sidney Smeets",
+			"screen_name": "advocaatsmeets",
+			"location": "Amsterdam",
+			"description": "Advocaat (Spong); Volksvijand (PVV); Gutmensch(FvD); Knapste advocaat van NL (GeenStijl); Piketknuffelaar (TPO); Genderdrammer (DDS)🏳️‍🌈 podcast: @GeekyDingen",
+			"url": "https://t.co/sisWqZks8x",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sisWqZks8x",
+							"expanded_url": "http://www.spongadvocaten.nl/advocaten/smeets",
+							"display_url": "spongadvocaten.nl/advocaten/smee…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5980,
+			"friends_count": 1893,
+			"listed_count": 79,
+			"created_at": "Thu Dec 03 07:52:23 +0000 2009",
+			"favourites_count": 25340,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32860,
+			"lang": "nl",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/667291484241027072/xX5Rdp_B_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/667291484241027072/xX5Rdp_B_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94282012/1519466203",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "99cdab25eddd6bce",
+			"url": "https://api.twitter.com/1.1/geo/id/99cdab25eddd6bce.json",
+			"place_type": "city",
+			"name": "Amsterdam",
+			"full_name": "Amsterdam, The Netherlands",
+			"country_code": "NL",
+			"country": "The Netherlands",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							4.7288999,
+							52.2782266
+						],
+						[
+							5.0792072,
+							52.2782266
+						],
+						[
+							5.0792072,
+							52.4312289
+						],
+						[
+							4.7288999,
+							52.4312289
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Erg hoor bij onze Oosterburen: Stasi-praktijken die op hun beurt weer op goed nationaal-socialistisch voorbeeld gebaseerd waren. Blij dat het in Nederland niet zo’n vaart zal lopen met dat Forum... oh wacht. https://t.co/DInBuxzjVY"
+	},
+	{
+		"created_at": "Wed Mar 27 18:49:49 +0000 2019",
+		"id": 1110977238609129500,
+		"id_str": "1110977238609129475",
+		"full_text": "Henny Vrienten live zien. Misschien dat toch eens doen. #dwdd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "dwdd",
+					"indices": [
+						56,
+						61
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019). #TeamHuman",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8884,
+			"friends_count": 271,
+			"listed_count": 593,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5205,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60000,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "Henny Vrienten live zien. Misschien dat toch eens doen. #dwdd"
+	},
+	{
 		"created_at": "Wed Mar 27 18:18:14 +0000 2019",
 		"id": 1110962413795455000,
 		"id_str": "1110969291321544704",
