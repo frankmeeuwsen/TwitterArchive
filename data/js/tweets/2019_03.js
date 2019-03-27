@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Wed Mar 27 14:33:01 +0000 2019",
+		"id": 1110912613427413000,
+		"id_str": "1110912613427412992",
+		"full_text": "@Schellevis Ik vond dit nog wel een van de meest bijzondere die ik recentelijk kreeg. Ik ben er nu aan het verzamelen. Bewijs tegen Robot Overlords, daar kun je niet vroeg genoeg mee beginnen! https://t.co/XyarF9TAxz",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			192
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Schellevis",
+					"name": "Joost Schellevis",
+					"id": 6043092,
+					"id_str": "6043092",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1110912475057279000,
+					"id_str": "1110912475057278977",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/D2rBApxW0AEyTMN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2rBApxW0AEyTMN.jpg",
+					"url": "https://t.co/XyarF9TAxz",
+					"display_url": "pic.twitter.com/XyarF9TAxz",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1110912613427412992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 810,
+							"h": 1168,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 472,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 810,
+							"h": 1168,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1110912475057279000,
+					"id_str": "1110912475057278977",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/D2rBApxW0AEyTMN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2rBApxW0AEyTMN.jpg",
+					"url": "https://t.co/XyarF9TAxz",
+					"display_url": "pic.twitter.com/XyarF9TAxz",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1110912613427412992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 810,
+							"h": 1168,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 472,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 810,
+							"h": 1168,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1110902104800022500,
+		"in_reply_to_status_id_str": "1110902104800022531",
+		"in_reply_to_user_id": 6043092,
+		"in_reply_to_user_id_str": "6043092",
+		"in_reply_to_screen_name": "Schellevis",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019). #TeamHuman",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8883,
+			"friends_count": 270,
+			"listed_count": 593,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5197,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59990,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@Schellevis Ik vond dit nog wel een van de meest bijzondere die ik recentelijk kreeg. Ik ben er nu aan het verzamelen. Bewijs tegen Robot Overlords, daar kun je niet vroeg genoeg mee beginnen! https://t.co/XyarF9TAxz"
+	},
+	{
 		"created_at": "Wed Mar 27 13:49:05 +0000 2019",
 		"id": 1110901555501457400,
 		"id_str": "1110901555501457415",
