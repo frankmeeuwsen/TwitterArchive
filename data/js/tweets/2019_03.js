@@ -1,6 +1,132 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Thu Mar 28 11:30:59 +0000 2019",
+		"id": 1111229189380804600,
+		"id_str": "1111229189380804610",
+		"full_text": "@mroumen @bramkoster @roosvanvugt Ik heb er nog altijd spijt van dat ik studenten ooit heb blootgesteld aan zijn boeken...",
+		"truncated": false,
+		"display_text_range": [
+			34,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mroumen",
+					"name": "Matthijs Roumen",
+					"id": 5443822,
+					"id_str": "5443822",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "bramkoster",
+					"name": "Bram Koster",
+					"id": 6893682,
+					"id_str": "6893682",
+					"indices": [
+						9,
+						20
+					]
+				},
+				{
+					"screen_name": "roosvanvugt",
+					"name": "Roos van Vugt",
+					"id": 21687228,
+					"id_str": "21687228",
+					"indices": [
+						21,
+						33
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1111228788057231400,
+		"in_reply_to_status_id_str": "1111228788057231360",
+		"in_reply_to_user_id": 5443822,
+		"in_reply_to_user_id_str": "5443822",
+		"in_reply_to_screen_name": "mroumen",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019). #TeamHuman",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8882,
+			"friends_count": 269,
+			"listed_count": 592,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5205,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60003,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@mroumen @bramkoster @roosvanvugt Ik heb er nog altijd spijt van dat ik studenten ooit heb blootgesteld aan zijn boeken..."
+	},
+	{
 		"created_at": "Thu Mar 28 05:59:02 +0000 2019",
 		"id": 1111089027170648000,
 		"id_str": "1111145654624112642",
