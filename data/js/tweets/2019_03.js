@@ -1,6 +1,288 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Thu Mar 28 05:59:02 +0000 2019",
+		"id": 1111089027170648000,
+		"id_str": "1111145654624112642",
+		"full_text": "some Netflix error messages I could use https://t.co/6oKZST9XVc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1111089023274098700,
+					"id_str": "1111089023274098689",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/D2thlHIWoAEoqmP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2thlHIWoAEoqmP.jpg",
+					"url": "https://t.co/6oKZST9XVc",
+					"display_url": "pic.twitter.com/6oKZST9XVc",
+					"expanded_url": "https://twitter.com/nathanwpyle/status/1111089027170648066/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 990,
+							"h": 690,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 474,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 990,
+							"h": 690,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1111089023274098700,
+					"id_str": "1111089023274098689",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/D2thlHIWoAEoqmP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2thlHIWoAEoqmP.jpg",
+					"url": "https://t.co/6oKZST9XVc",
+					"display_url": "pic.twitter.com/6oKZST9XVc",
+					"expanded_url": "https://twitter.com/nathanwpyle/status/1111089027170648066/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 990,
+							"h": 690,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 474,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 990,
+							"h": 690,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1111089023274111000,
+					"id_str": "1111089023274110977",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/D2thlHIW0AE3T5d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2thlHIW0AE3T5d.jpg",
+					"url": "https://t.co/6oKZST9XVc",
+					"display_url": "pic.twitter.com/6oKZST9XVc",
+					"expanded_url": "https://twitter.com/nathanwpyle/status/1111089027170648066/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 715,
+							"h": 499,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 715,
+							"h": 499,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 475,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1111089023278297100,
+					"id_str": "1111089023278297088",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/D2thlHJWsAALDur.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2thlHJWsAALDur.jpg",
+					"url": "https://t.co/6oKZST9XVc",
+					"display_url": "pic.twitter.com/6oKZST9XVc",
+					"expanded_url": "https://twitter.com/nathanwpyle/status/1111089027170648066/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 625,
+							"h": 415,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 625,
+							"h": 415,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 625,
+							"h": 415,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1111089023278288900,
+					"id_str": "1111089023278288896",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/D2thlHJWkAAGwAA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2thlHJWkAAGwAA.jpg",
+					"url": "https://t.co/6oKZST9XVc",
+					"display_url": "pic.twitter.com/6oKZST9XVc",
+					"expanded_url": "https://twitter.com/nathanwpyle/status/1111089027170648066/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 715,
+							"h": 499,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 715,
+							"h": 499,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 475,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41148474,
+			"id_str": "41148474",
+			"name": "Nathan W. Pyle",
+			"screen_name": "nathanwpyle",
+			"location": "New York City",
+			"description": "Married to @tayloralexypyle / NYT Bestseller: NYC Basic Tips and Etiquette / ✨Strange Planet✨ / formerly @BuzzFeed / I follow Jesus",
+			"url": "https://t.co/vNenkjXkbH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vNenkjXkbH",
+							"expanded_url": "http://www.instagram.com/nathanwpyle",
+							"display_url": "instagram.com/nathanwpyle",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 135210,
+			"friends_count": 2284,
+			"listed_count": 668,
+			"created_at": "Tue May 19 16:22:18 +0000 2009",
+			"favourites_count": 14519,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11222,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1094356867906760704/SrZcPcOC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1094356867906760704/SrZcPcOC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41148474/1551312176",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1716,
+		"favorite_count": 6217,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "some Netflix error messages I could use https://t.co/6oKZST9XVc"
+	},
+	{
 		"created_at": "Wed Mar 27 19:15:21 +0000 2019",
 		"id": 1110981723070836700,
 		"id_str": "1110983665100705792",
@@ -142,7 +424,7 @@ Grailbird.data.tweets_2019_03 =
 			"name": "Sidney Smeets",
 			"screen_name": "advocaatsmeets",
 			"location": "Amsterdam",
-			"description": "Advocaat (Spong); Volksvijand (PVV); Gutmensch(FvD); Knapste advocaat van NL (GeenStijl); Piketknuffelaar (TPO); Genderdrammer (DDS)🏳️‍🌈 podcast: @GeekyDingen",
+			"description": "Advocaat (Spong); Volksvijand (PVV); Gutmensch(FvD); Knapste advocaat van NL (GeenStijl); Piketknuffelaar (TPO); Genderdrammer (DDS)🏳️🌈 podcast: @GeekyDingen",
 			"url": "https://t.co/sisWqZks8x",
 			"entities": {
 				"url": {
