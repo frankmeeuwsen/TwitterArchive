@@ -1,6 +1,122 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Thu Mar 28 21:52:57 +0000 2019",
+		"id": 1111385712652247000,
+		"id_str": "1111385712652247040",
+		"full_text": "@thebestsocialNL Ja duh. @MENEERDEGREEF natuurlijk. Al is het maar zodattie bij de uitreiking woestmaaiend door het publiek die prijs komt halen en doordemidden knauwt.",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thebestsocialNL",
+					"name": "The Best Social Media - NL",
+					"id": 1843622779,
+					"id_str": "1843622779",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "MENEERDEGREEF",
+					"name": "GREEFIE DE LINKSE HAATMACHINE",
+					"id": 260245776,
+					"id_str": "260245776",
+					"indices": [
+						25,
+						39
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1111216864259174400,
+		"in_reply_to_status_id_str": "1111216864259174400",
+		"in_reply_to_user_id": 1843622779,
+		"in_reply_to_user_id_str": "1843622779",
+		"in_reply_to_screen_name": "thebestsocialNL",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019). #TeamHuman",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8882,
+			"friends_count": 271,
+			"listed_count": 592,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5206,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60011,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@thebestsocialNL Ja duh. @MENEERDEGREEF natuurlijk. Al is het maar zodattie bij de uitreiking woestmaaiend door het publiek die prijs komt halen en doordemidden knauwt."
+	},
+	{
 		"created_at": "Thu Mar 28 18:52:10 +0000 2019",
 		"id": 1111337871850373100,
 		"id_str": "1111340220182683648",
