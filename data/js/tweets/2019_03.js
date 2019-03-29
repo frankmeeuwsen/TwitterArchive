@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Fri Mar 29 12:46:40 +0000 2019",
+		"id": 1111609343978422300,
+		"id_str": "1111610624788885504",
+		"full_text": "good morning https://t.co/FpYM9MkkHc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1111609339184382000,
+					"id_str": "1111609339184381952",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/D206ze8XgAAtmoK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D206ze8XgAAtmoK.jpg",
+					"url": "https://t.co/FpYM9MkkHc",
+					"display_url": "pic.twitter.com/FpYM9MkkHc",
+					"expanded_url": "https://twitter.com/nathanwpyle/status/1111609343978422273/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 588,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1771,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1038,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1111609339184382000,
+					"id_str": "1111609339184381952",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/D206ze8XgAAtmoK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D206ze8XgAAtmoK.jpg",
+					"url": "https://t.co/FpYM9MkkHc",
+					"display_url": "pic.twitter.com/FpYM9MkkHc",
+					"expanded_url": "https://twitter.com/nathanwpyle/status/1111609343978422273/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 588,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1771,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1038,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1111274339448602600,
+		"in_reply_to_status_id_str": "1111274339448602624",
+		"in_reply_to_user_id": 41148474,
+		"in_reply_to_user_id_str": "41148474",
+		"in_reply_to_screen_name": "nathanwpyle",
+		"user": {
+			"id": 41148474,
+			"id_str": "41148474",
+			"name": "Nathan W. Pyle",
+			"screen_name": "nathanwpyle",
+			"location": "New York City",
+			"description": "Married to @tayloralexypyle / NYT Bestseller: NYC Basic Tips and Etiquette / ✨Strange Planet✨ / formerly @BuzzFeed / I follow Jesus",
+			"url": "https://t.co/vNenkjXkbH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vNenkjXkbH",
+							"expanded_url": "http://www.instagram.com/nathanwpyle",
+							"display_url": "instagram.com/nathanwpyle",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 138326,
+			"friends_count": 2294,
+			"listed_count": 676,
+			"created_at": "Tue May 19 16:22:18 +0000 2009",
+			"favourites_count": 14549,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11242,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1094356867906760704/SrZcPcOC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1094356867906760704/SrZcPcOC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41148474/1551312176",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 308,
+		"favorite_count": 1445,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "good morning https://t.co/FpYM9MkkHc"
+	},
+	{
 		"created_at": "Fri Mar 29 11:27:02 +0000 2019",
 		"id": 1111590585671053300,
 		"id_str": "1111590585671053313",
