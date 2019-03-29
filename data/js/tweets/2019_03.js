@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Fri Mar 29 10:30:39 +0000 2019",
+		"id": 1111576396671959000,
+		"id_str": "1111576396671959040",
+		"full_text": "@msteeman @MENEERDEGREEF @rutger_ Interpunctie is best een dingetje als ik mezelf teruglees. Doe je best met ontcijferen. Maar de vinger naar toevallige spitsreizigers. https://t.co/RbuDbdk1Uj",
+		"truncated": false,
+		"display_text_range": [
+			34,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "msteeman",
+					"name": "Marcel Steeman",
+					"id": 19087381,
+					"id_str": "19087381",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "MENEERDEGREEF",
+					"name": "GREEFIE DE LINKSE HAATMACHINE",
+					"id": 260245776,
+					"id_str": "260245776",
+					"indices": [
+						10,
+						24
+					]
+				},
+				{
+					"screen_name": "rutger_",
+					"name": "Rutger de Quay",
+					"id": 14250415,
+					"id_str": "14250415",
+					"indices": [
+						25,
+						33
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1111576383791222800,
+					"id_str": "1111576383791222784",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D20c1OiW0AAhDdF.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D20c1OiW0AAhDdF.jpg",
+					"url": "https://t.co/RbuDbdk1Uj",
+					"display_url": "pic.twitter.com/RbuDbdk1Uj",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1111576396671959040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 372,
+							"h": 426,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 372,
+							"h": 426,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 372,
+							"h": 426,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1111576383791222800,
+					"id_str": "1111576383791222784",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D20c1OiW0AAhDdF.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D20c1OiW0AAhDdF.jpg",
+					"url": "https://t.co/RbuDbdk1Uj",
+					"display_url": "pic.twitter.com/RbuDbdk1Uj",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1111576396671959040/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 372,
+							"h": 426,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 372,
+							"h": 426,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 372,
+							"h": 426,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							62,
+							71
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D20c1OiW0AAhDdF.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1111576013312610300,
+		"in_reply_to_status_id_str": "1111576013312610304",
+		"in_reply_to_user_id": 816203,
+		"in_reply_to_user_id_str": "816203",
+		"in_reply_to_screen_name": "frankmeeuwsen",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019). #TeamHuman",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8882,
+			"friends_count": 272,
+			"listed_count": 592,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5206,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60017,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@msteeman @MENEERDEGREEF @rutger_ Interpunctie is best een dingetje als ik mezelf teruglees. Doe je best met ontcijferen. Maar de vinger naar toevallige spitsreizigers. https://t.co/RbuDbdk1Uj"
+	},
+	{
 		"created_at": "Fri Mar 29 09:53:15 +0000 2019",
 		"id": 1111566982187491300,
 		"id_str": "1111566982187491328",
