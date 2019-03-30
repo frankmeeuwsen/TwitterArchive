@@ -1,6 +1,111 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sat Mar 30 15:47:00 +0000 2019",
+		"id": 1111911067750404100,
+		"id_str": "1112018397032796160",
+		"full_text": "Samenvattend: \n\nKinderen zijn te jong om zelf te kunnen bedenken dat ze in actie moeten komen voor het klimaat. \n\nKinderen zijn oud genoeg om linkse indoctrinatie in het onderwijs te herkennen en hun leraren aan te geven.\n\n?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			224
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 186410052,
+			"id_str": "186410052",
+			"name": "Pascal Vanenburg",
+			"screen_name": "vnnbrg",
+			"location": "Almere, Nederland",
+			"description": "Schrijver, journalist, redacteur | Boek: https://t.co/nZgQtFf7xN | @BNNVARA | @Joop_NL | @NPORadio1 | Verhaaltjes op @shortreads_",
+			"url": "https://t.co/glK8hF7lzI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/glK8hF7lzI",
+							"expanded_url": "http://pascalvanenburg.nl/",
+							"display_url": "pascalvanenburg.nl",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/nZgQtFf7xN",
+							"expanded_url": "http://bit.ly/2Gc35ux",
+							"display_url": "bit.ly/2Gc35ux",
+							"indices": [
+								41,
+								64
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7274,
+			"friends_count": 573,
+			"listed_count": 132,
+			"created_at": "Fri Sep 03 11:40:59 +0000 2010",
+			"favourites_count": 17970,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 732,
+			"lang": "nl",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1071201665125109760/iBHGE_la_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1071201665125109760/iBHGE_la_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/186410052/1543658160",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 75,
+		"favorite_count": 331,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "nl",
+		"text": "Samenvattend: \n\nKinderen zijn te jong om zelf te kunnen bedenken dat ze in actie moeten komen voor het klimaat. \n\nKinderen zijn oud genoeg om linkse indoctrinatie in het onderwijs te herkennen en hun leraren aan te geven.\n\n?"
+	},
+	{
 		"created_at": "Sat Mar 30 14:36:50 +0000 2019",
 		"id": 1112000737612103700,
 		"id_str": "1112000737612103680",
