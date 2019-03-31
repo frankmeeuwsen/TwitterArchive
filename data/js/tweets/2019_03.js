@@ -1,6 +1,255 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sun Mar 31 14:03:37 +0000 2019",
+		"id": 1112354766208884700,
+		"id_str": "1112354766208884736",
+		"full_text": "Hey dat had ik ook gemist. In elk geval geen vóór-stem. Good goings. https://t.co/NbH3C656Kf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NbH3C656Kf",
+					"expanded_url": "https://twitter.com/peterkwint/status/1112331056273936384",
+					"display_url": "twitter.com/peterkwint/sta…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019). #TeamHuman",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8883,
+			"friends_count": 272,
+			"listed_count": 592,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5211,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60002,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1112331056273936400,
+		"quoted_status_id_str": "1112331056273936384",
+		"quoted_status_permalink": {
+			"url": "https://t.co/NbH3C656Kf",
+			"expanded": "https://twitter.com/peterkwint/status/1112331056273936384",
+			"display": "twitter.com/peterkwint/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Mar 31 12:29:24 +0000 2019",
+			"id": 1112331056273936400,
+			"id_str": "1112331056273936384",
+			"full_text": "@Bas_Taart @DieTukkerfries @JaapJansen https://t.co/DpdhL89gg2",
+			"truncated": false,
+			"display_text_range": [
+				39,
+				62
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Bas_Taart",
+						"name": "ResurrecTaart",
+						"id": 1079683744393502700,
+						"id_str": "1079683744393502720",
+						"indices": [
+							0,
+							10
+						]
+					},
+					{
+						"screen_name": "DieTukkerfries",
+						"name": "Jelmer Visser",
+						"id": 22024763,
+						"id_str": "22024763",
+						"indices": [
+							11,
+							26
+						]
+					},
+					{
+						"screen_name": "JaapJansen",
+						"name": "Jaap Jansen",
+						"id": 22143960,
+						"id_str": "22143960",
+						"indices": [
+							27,
+							38
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/DpdhL89gg2",
+						"expanded_url": "https://www.sp.nl/nieuws/2019/03/nationale-parlementen-aan-zet-voor-goede-regeling-auteursrecht",
+						"display_url": "sp.nl/nieuws/2019/03…",
+						"indices": [
+							39,
+							62
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1112331005254357000,
+			"in_reply_to_status_id_str": "1112331005254356994",
+			"in_reply_to_user_id": 1079683744393502700,
+			"in_reply_to_user_id_str": "1079683744393502720",
+			"in_reply_to_screen_name": "Bas_Taart",
+			"user": {
+				"id": 239853793,
+				"id_str": "239853793",
+				"name": "Peter Kwint",
+				"screen_name": "peterkwint",
+				"location": "Amsterdam Noord",
+				"description": "Kamerlid SP. Bestuurslid Vechtsportautoriteit Support: High fives, stagedives, switch kicks, cold drinks, MMA, koers en Feyenoord. #herrietweet",
+				"url": "https://t.co/mDaxXI55Ub",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/mDaxXI55Ub",
+								"expanded_url": "https://www.facebook.com/kwintsp",
+								"display_url": "facebook.com/kwintsp",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 15624,
+				"friends_count": 886,
+				"listed_count": 336,
+				"created_at": "Tue Jan 18 15:47:03 +0000 2011",
+				"favourites_count": 3733,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 169029,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/974302056939999233/8ndwH7Bf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/974302056939999233/8ndwH7Bf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/239853793/1513697794",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Hey dat had ik ook gemist. In elk geval geen vóór-stem. Good goings. https://t.co/NbH3C656Kf"
+	},
+	{
 		"created_at": "Sat Mar 30 15:47:00 +0000 2019",
 		"id": 1111911067750404100,
 		"id_str": "1112018397032796160",
