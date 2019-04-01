@@ -1,6 +1,235 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Mon Apr 01 14:38:39 +0000 2019",
+		"id": 1112725971831046100,
+		"id_str": "1112725971831046144",
+		"full_text": "Hier is er weer een voor je lijstje @JeroenMirck https://t.co/GGoJ4dYwtw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JeroenMirck",
+					"name": "Jeroen Mirck",
+					"id": 5567782,
+					"id_str": "5567782",
+					"indices": [
+						36,
+						48
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GGoJ4dYwtw",
+					"expanded_url": "https://twitter.com/jackmcdade/status/1112720231351365632",
+					"display_url": "twitter.com/jackmcdade/sta…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019). #TeamHuman",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8885,
+			"friends_count": 272,
+			"listed_count": 592,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60014,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1112720231351365600,
+		"quoted_status_id_str": "1112720231351365632",
+		"quoted_status_permalink": {
+			"url": "https://t.co/GGoJ4dYwtw",
+			"expanded": "https://twitter.com/jackmcdade/status/1112720231351365632",
+			"display": "twitter.com/jackmcdade/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 01 14:15:51 +0000 2019",
+			"id": 1112720231351365600,
+			"id_str": "1112720231351365632",
+			"full_text": "OMG I would totally buy this 😂🔥\n\nThe Honda Pastport: https://t.co/SadHVbl6oK",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				76
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/SadHVbl6oK",
+						"expanded_url": "https://www.youtube.com/watch?v=kZ5oRIXCFlM",
+						"display_url": "youtube.com/watch?v=kZ5oRI…",
+						"indices": [
+							53,
+							76
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 10737152,
+				"id_str": "10737152",
+				"name": "Jack McDade ✨",
+				"screen_name": "jackmcdade",
+				"location": "Upstate New York",
+				"description": "ULTIMATE WEB MASTER.  \nDesigner, developer, and creator of @statamic. Stuck in the 80s, rolling d20s, making the web weird again.",
+				"url": "https://t.co/hLJlaGOKdD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hLJlaGOKdD",
+								"expanded_url": "https://jackmcdade.com",
+								"display_url": "jackmcdade.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5465,
+				"friends_count": 291,
+				"listed_count": 279,
+				"created_at": "Fri Nov 30 12:50:48 +0000 2007",
+				"favourites_count": 9044,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 33428,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1064935675672305665/xB3YuC60_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1064935675672305665/xB3YuC60_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/10737152/1534512550",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Hier is er weer een voor je lijstje @JeroenMirck https://t.co/GGoJ4dYwtw"
+	},
+	{
 		"created_at": "Mon Apr 01 13:32:32 +0000 2019",
 		"id": 1112709330225250300,
 		"id_str": "1112709330225250304",
