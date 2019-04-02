@@ -1,6 +1,235 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 02 10:15:17 +0000 2019",
+		"id": 1113022079388057600,
+		"id_str": "1113022079388057601",
+		"full_text": "Een heerlijke lijst om weer eens door te bladeren en te luisteren. Tof dat bands als Paw en Skin Yard er op staan! https://t.co/dFvnLoiLK4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dFvnLoiLK4",
+					"expanded_url": "https://twitter.com/pvdp/status/1112998500411805696",
+					"display_url": "twitter.com/pvdp/status/11…",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019). #TeamHuman",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8884,
+			"friends_count": 272,
+			"listed_count": 594,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5216,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60022,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1112998500411805700,
+		"quoted_status_id_str": "1112998500411805696",
+		"quoted_status_permalink": {
+			"url": "https://t.co/dFvnLoiLK4",
+			"expanded": "https://twitter.com/pvdp/status/1112998500411805696",
+			"display": "twitter.com/pvdp/status/11…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 02 08:41:35 +0000 2019",
+			"id": 1112998500411805700,
+			"id_str": "1112998500411805696",
+			"full_text": "Ik ben toevallig al een week in een enorme grunge-stemming, dus dit lijstje komt precies goed. Fijne lijst, waarvan heel veel niet op Spotify staat. (Koop je spullen fysiek!) \n\n50 Greatest Grunge Albums https://t.co/XzeDFAFM7n via @RollingStone",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				244
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "RollingStone",
+						"name": "Rolling Stone",
+						"id": 14780915,
+						"id_str": "14780915",
+						"indices": [
+							231,
+							244
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/XzeDFAFM7n",
+						"expanded_url": "https://www.rollingstone.com/music/music-lists/50-greatest-grunge-albums-798851/",
+						"display_url": "rollingstone.com/music/music-li…",
+						"indices": [
+							203,
+							226
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 10153142,
+				"id_str": "10153142",
+				"name": "Peter van der Ploeg",
+				"screen_name": "pvdp",
+				"location": "Rotterdam, Nederland",
+				"description": "@nrc / to the teeth / zes losse tanden",
+				"url": "https://t.co/Ibdn7a5vyY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Ibdn7a5vyY",
+								"expanded_url": "http://www.nrc.nl",
+								"display_url": "nrc.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8342,
+				"friends_count": 2101,
+				"listed_count": 316,
+				"created_at": "Sun Nov 11 14:30:21 +0000 2007",
+				"favourites_count": 29708,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 1764,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/984525902972321795/X75bi08P_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/984525902972321795/X75bi08P_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/10153142/1527833386",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Een heerlijke lijst om weer eens door te bladeren en te luisteren. Tof dat bands als Paw en Skin Yard er op staan! https://t.co/dFvnLoiLK4"
+	},
+	{
 		"created_at": "Tue Apr 02 08:31:27 +0000 2019",
 		"id": 1112995947599028200,
 		"id_str": "1112995947599028224",
