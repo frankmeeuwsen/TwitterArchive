@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Wed Apr 03 17:57:39 +0000 2019",
+		"id": 1113500824632688600,
+		"id_str": "1113500824632688640",
+		"full_text": "Er komt een moment dat er stapels gevoelige data van Facebook adverteerders op straat ligt. Dan begint de sneeuwbal hopelijk eens echt te rollen. https://t.co/lXbj0Iz6Hk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lXbj0Iz6Hk",
+					"expanded_url": "https://twitter.com/karaswisher/status/1113498915192606726",
+					"display_url": "twitter.com/karaswisher/st…",
+					"indices": [
+						146,
+						169
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019). #TeamHuman",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8885,
+			"friends_count": 272,
+			"listed_count": 594,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5219,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60039,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1113498915192606700,
+		"quoted_status_id_str": "1113498915192606726",
+		"quoted_status_permalink": {
+			"url": "https://t.co/lXbj0Iz6Hk",
+			"expanded": "https://twitter.com/karaswisher/status/1113498915192606726",
+			"display": "twitter.com/karaswisher/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 03 17:50:03 +0000 2019",
+			"id": 1113498915192606700,
+			"id_str": "1113498915192606726",
+			"full_text": "Like I keep saying: Sloppy data management: Millions of Facebook Records Found on Amazon Cloud Servers - Bloomberg https://t.co/QZxBgBPMA5",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				138
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/QZxBgBPMA5",
+						"expanded_url": "https://www.bloomberg.com/news/articles/2019-04-03/millions-of-facebook-records-found-on-amazon-cloud-servers-ju1hde0w",
+						"display_url": "bloomberg.com/news/articles/…",
+						"indices": [
+							115,
+							138
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5763262,
+				"id_str": "5763262",
+				"name": "Kara Swisher",
+				"screen_name": "karaswisher",
+				"location": "San Francisco",
+				"description": "Sparkly vampire. Subscribe to Recode Decode podcast: https://t.co/Mdwa6fSOES",
+				"url": "https://t.co/trFjw6yxoC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/trFjw6yxoC",
+								"expanded_url": "http://recode.net",
+								"display_url": "recode.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Mdwa6fSOES",
+								"expanded_url": "http://applepodcasts.com/recodedecode",
+								"display_url": "applepodcasts.com/recodedecode",
+								"indices": [
+									53,
+									76
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1293890,
+				"friends_count": 1693,
+				"listed_count": 15223,
+				"created_at": "Fri May 04 10:32:22 +0000 2007",
+				"favourites_count": 50166,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 116468,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F4FCFC",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/517197689746755584/795gibU7_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/517197689746755584/795gibU7_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5763262/1411788872",
+				"profile_link_color": "01010A",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 34,
+			"favorite_count": 54,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Er komt een moment dat er stapels gevoelige data van Facebook adverteerders op straat ligt. Dan begint de sneeuwbal hopelijk eens echt te rollen. https://t.co/lXbj0Iz6Hk"
+	},
+	{
 		"created_at": "Wed Apr 03 16:53:27 +0000 2019",
 		"id": 1113484671311122400,
 		"id_str": "1113484671311122432",
