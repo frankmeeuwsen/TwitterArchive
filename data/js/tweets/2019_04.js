@@ -1,6 +1,347 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Thu Apr 04 07:08:50 +0000 2019",
+		"id": 1113699932463091700,
+		"id_str": "1113699932463091712",
+		"full_text": "@puur Ik meen dat @ruudhuigsloot destijds bij TMobile daar een prima truc voor had.",
+		"truncated": false,
+		"display_text_range": [
+			6,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "puur",
+					"name": "puur",
+					"id": 5776422,
+					"id_str": "5776422",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"screen_name": "ruudhuigsloot",
+					"name": "Ruud Huigsloot",
+					"id": 14756253,
+					"id_str": "14756253",
+					"indices": [
+						18,
+						32
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1113698730765631500,
+		"in_reply_to_status_id_str": "1113698730765631489",
+		"in_reply_to_user_id": 5776422,
+		"in_reply_to_user_id_str": "5776422",
+		"in_reply_to_screen_name": "puur",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019). #TeamHuman",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8885,
+			"friends_count": 272,
+			"listed_count": 594,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5219,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60043,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@puur Ik meen dat @ruudhuigsloot destijds bij TMobile daar een prima truc voor had."
+	},
+	{
+		"created_at": "Thu Apr 04 07:07:52 +0000 2019",
+		"id": 1113699690808266800,
+		"id_str": "1113699690808266753",
+		"full_text": "@erwblo @EwoutWolff @mikeverbruggen @oliebol9 @vickup Ik moet bij de term No Code steeds aan dit album denken. Prima connectie dus. https://t.co/ucU2rTL7Im",
+		"truncated": false,
+		"display_text_range": [
+			54,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "erwblo",
+					"name": "erwin blom",
+					"id": 713333,
+					"id_str": "713333",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "EwoutWolff",
+					"name": "Ewout Wolff",
+					"id": 7263402,
+					"id_str": "7263402",
+					"indices": [
+						8,
+						19
+					]
+				},
+				{
+					"screen_name": "mikeverbruggen",
+					"name": "Mike Verbruggen",
+					"id": 11496552,
+					"id_str": "11496552",
+					"indices": [
+						20,
+						35
+					]
+				},
+				{
+					"screen_name": "oliebol9",
+					"name": "Olivier Giraud",
+					"id": 49930986,
+					"id_str": "49930986",
+					"indices": [
+						36,
+						45
+					]
+				},
+				{
+					"screen_name": "vickup",
+					"name": "Victor Kuppers",
+					"id": 2270461,
+					"id_str": "2270461",
+					"indices": [
+						46,
+						53
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1113699680574214100,
+					"id_str": "1113699680574214144",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/D3Sn9XcXkAA-R88.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3Sn9XcXkAA-R88.jpg",
+					"url": "https://t.co/ucU2rTL7Im",
+					"display_url": "pic.twitter.com/ucU2rTL7Im",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1113699690808266753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1341,
+							"h": 1391,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1157,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 656,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1113699680574214100,
+					"id_str": "1113699680574214144",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/D3Sn9XcXkAA-R88.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3Sn9XcXkAA-R88.jpg",
+					"url": "https://t.co/ucU2rTL7Im",
+					"display_url": "pic.twitter.com/ucU2rTL7Im",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1113699690808266753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1341,
+							"h": 1391,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1157,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 656,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1113681707754979300,
+		"in_reply_to_status_id_str": "1113681707754979328",
+		"in_reply_to_user_id": 713333,
+		"in_reply_to_user_id_str": "713333",
+		"in_reply_to_screen_name": "erwblo",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019). #TeamHuman",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8885,
+			"friends_count": 272,
+			"listed_count": 594,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5219,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60043,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@erwblo @EwoutWolff @mikeverbruggen @oliebol9 @vickup Ik moet bij de term No Code steeds aan dit album denken. Prima connectie dus. https://t.co/ucU2rTL7Im"
+	},
+	{
 		"created_at": "Wed Apr 03 20:19:41 +0000 2019",
 		"id": 1113536570710270000,
 		"id_str": "1113536570710269957",
