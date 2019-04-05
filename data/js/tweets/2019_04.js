@@ -1,6 +1,358 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Fri Apr 05 08:59:48 +0000 2019",
+		"id": 1114090247892156400,
+		"id_str": "1114090247892156416",
+		"full_text": "Wat een dag voor ‘90s Seattle nostalgie. 25 jaar geleden besloot Kurt Cobain er uit te stappen. 17 jaar geleden ging Layne Staley (Alice in Chains) het hoekje om. En Pearl Jam gitarist Mike McCready is vandaag jarig. Die leeft gelukkig nog. https://t.co/Q5WNJsY5Hs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			240
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1114090240606601200,
+					"id_str": "1114090240606601216",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/media/D3YLK88WAAAp7AP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3YLK88WAAAp7AP.jpg",
+					"url": "https://t.co/Q5WNJsY5Hs",
+					"display_url": "pic.twitter.com/Q5WNJsY5Hs",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1114090247892156416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 551,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 608,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 608,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1114090240606601200,
+					"id_str": "1114090240606601216",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/media/D3YLK88WAAAp7AP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3YLK88WAAAp7AP.jpg",
+					"url": "https://t.co/Q5WNJsY5Hs",
+					"display_url": "pic.twitter.com/Q5WNJsY5Hs",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1114090247892156416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 551,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 608,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 608,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1114090240573153300,
+					"id_str": "1114090240573153280",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/media/D3YLK80XoAAKV4C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3YLK80XoAAKV4C.jpg",
+					"url": "https://t.co/Q5WNJsY5Hs",
+					"display_url": "pic.twitter.com/Q5WNJsY5Hs",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1114090247892156416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 486,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 441,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 486,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1114090240568852500,
+					"id_str": "1114090240568852480",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/media/D3YLK8zWAAA7Ucz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3YLK8zWAAA7Ucz.jpg",
+					"url": "https://t.co/Q5WNJsY5Hs",
+					"display_url": "pic.twitter.com/Q5WNJsY5Hs",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1114090247892156416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 390,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 430,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 430,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019). #TeamHuman",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8885,
+			"friends_count": 273,
+			"listed_count": 594,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5225,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60031,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Wat een dag voor ‘90s Seattle nostalgie. 25 jaar geleden besloot Kurt Cobain er uit te stappen. 17 jaar geleden ging Layne Staley (Alice in Chains) het hoekje om. En Pearl Jam gitarist Mike McCready is vandaag jarig. Die leeft gelukkig nog. https://t.co/Q5WNJsY5Hs"
+	},
+	{
+		"created_at": "Fri Apr 05 08:44:02 +0000 2019",
+		"id": 1114086281712107500,
+		"id_str": "1114086281712107521",
+		"full_text": "@Bladendokter Zoiets?\n- Je moet me geen tweets in de mond leggen.\n- Uit je nek tweeten.\n- Met je Mac vol tanden staan.\n- Dat is een blog aan mijn been.",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Bladendokter",
+					"name": "Carolien Vader",
+					"id": 21235240,
+					"id_str": "21235240",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1114078062155587600,
+		"in_reply_to_status_id_str": "1114078062155587584",
+		"in_reply_to_user_id": 21235240,
+		"in_reply_to_user_id_str": "21235240",
+		"in_reply_to_screen_name": "Bladendokter",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019). #TeamHuman",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8885,
+			"friends_count": 273,
+			"listed_count": 594,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5225,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60031,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@Bladendokter Zoiets?\n- Je moet me geen tweets in de mond leggen.\n- Uit je nek tweeten.\n- Met je Mac vol tanden staan.\n- Dat is een blog aan mijn been."
+	},
+	{
 		"created_at": "Fri Apr 05 05:53:29 +0000 2019",
 		"id": 1114043359277015000,
 		"id_str": "1114043359277015041",
