@@ -1,6 +1,230 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Fri Apr 05 05:53:29 +0000 2019",
+		"id": 1114043359277015000,
+		"id_str": "1114043359277015041",
+		"full_text": "@michielveenstra @KINKpuntnl Ik doe met je mee! #KurtCobain #kurtcobaindag #ComeAsYouAre #Nirvana https://t.co/3sTOzjeayn",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KurtCobain",
+					"indices": [
+						48,
+						59
+					]
+				},
+				{
+					"text": "kurtcobaindag",
+					"indices": [
+						60,
+						74
+					]
+				},
+				{
+					"text": "ComeAsYouAre",
+					"indices": [
+						75,
+						88
+					]
+				},
+				{
+					"text": "Nirvana",
+					"indices": [
+						89,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "michielveenstra",
+					"name": "Michiel Veenstra || ꓘINK",
+					"id": 14242065,
+					"id_str": "14242065",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "KINKpuntnl",
+					"name": "KINK",
+					"id": 36077942,
+					"id_str": "36077942",
+					"indices": [
+						17,
+						28
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1114043353056804900,
+					"id_str": "1114043353056804865",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/D3XghvNWAAEtrhp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3XghvNWAAEtrhp.jpg",
+					"url": "https://t.co/3sTOzjeayn",
+					"display_url": "pic.twitter.com/3sTOzjeayn",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1114043359277015041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1538,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 511,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 901,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1114043353056804900,
+					"id_str": "1114043353056804865",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/D3XghvNWAAEtrhp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3XghvNWAAEtrhp.jpg",
+					"url": "https://t.co/3sTOzjeayn",
+					"display_url": "pic.twitter.com/3sTOzjeayn",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1114043359277015041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1538,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 511,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 901,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1114027327850201100,
+		"in_reply_to_status_id_str": "1114027327850201089",
+		"in_reply_to_user_id": 14242065,
+		"in_reply_to_user_id_str": "14242065",
+		"in_reply_to_screen_name": "michielveenstra",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019). #TeamHuman",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8885,
+			"friends_count": 273,
+			"listed_count": 594,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5225,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60028,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@michielveenstra @KINKpuntnl Ik doe met je mee! #KurtCobain #kurtcobaindag #ComeAsYouAre #Nirvana https://t.co/3sTOzjeayn"
+	},
+	{
 		"created_at": "Thu Apr 04 08:48:12 +0000 2019",
 		"id": 1113724941764124700,
 		"id_str": "1113724941764124672",
