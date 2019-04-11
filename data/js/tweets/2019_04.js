@@ -1,6 +1,321 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Thu Apr 11 05:13:47 +0000 2019",
+		"id": 1116207697769181200,
+		"id_str": "1116207697769181190",
+		"full_text": "The minions of Zuck: “wij weten van niets! Het was dat drommelse algoritme weer” Foei algoritme! \n\nWant níemand binnen Facebook maakt dat algoritme natuurlijk. Of heeft er verantwoordelijkheid over. https://t.co/0XBwB8zC6M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0XBwB8zC6M",
+					"expanded_url": "https://twitter.com/xeni/status/1116098284257460224",
+					"display_url": "twitter.com/xeni/status/11…",
+					"indices": [
+						199,
+						222
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019). #TeamHuman",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8881,
+			"friends_count": 280,
+			"listed_count": 592,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5244,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60038,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1116098284257460200,
+		"quoted_status_id_str": "1116098284257460224",
+		"quoted_status_permalink": {
+			"url": "https://t.co/0XBwB8zC6M",
+			"expanded": "https://twitter.com/xeni/status/1116098284257460224",
+			"display": "twitter.com/xeni/status/11…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 10 21:59:01 +0000 2019",
+			"id": 1116098284257460200,
+			"id_str": "1116098284257460224",
+			"full_text": "Once again, Facebook blames an algorithm instead of taking responsibility https://t.co/LfxClfZJ7q https://t.co/ARVKwfOFak",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				97
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/LfxClfZJ7q",
+						"expanded_url": "https://boingboing.net/2019/04/10/once-again-facebook-blames-an.html",
+						"display_url": "boingboing.net/2019/04/10/onc…",
+						"indices": [
+							74,
+							97
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1116098282957176800,
+						"id_str": "1116098282957176837",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/D30teZoWAAUgyNC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D30teZoWAAUgyNC.jpg",
+						"url": "https://t.co/ARVKwfOFak",
+						"display_url": "pic.twitter.com/ARVKwfOFak",
+						"expanded_url": "https://twitter.com/xeni/status/1116098284257460224/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1116098282957176800,
+						"id_str": "1116098282957176837",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/D30teZoWAAUgyNC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D30teZoWAAUgyNC.jpg",
+						"url": "https://t.co/ARVKwfOFak",
+						"display_url": "pic.twitter.com/ARVKwfOFak",
+						"expanded_url": "https://twitter.com/xeni/status/1116098284257460224/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 767,
+				"id_str": "767",
+				"name": "Xeni Jardin",
+				"screen_name": "xeni",
+				"location": "L.A./Utah",
+				"description": "“Flamethrowing writer” —@sulliview. Outliving cancer. 🙏 Support my voice https://t.co/n4bVjE8RfQ • I’m part of @boingboing. https://t.co/b3WS3ZKXsA",
+				"url": "https://t.co/6aKaGkN1LB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6aKaGkN1LB",
+								"expanded_url": "http://xeni.net",
+								"display_url": "xeni.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/n4bVjE8RfQ",
+								"expanded_url": "https://www.patreon.com/xenijardin",
+								"display_url": "patreon.com/xenijardin",
+								"indices": [
+									73,
+									96
+								]
+							},
+							{
+								"url": "https://t.co/b3WS3ZKXsA",
+								"expanded_url": "http://eepurl.com/dEkrNX",
+								"display_url": "eepurl.com/dEkrNX",
+								"indices": [
+									124,
+									147
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 138443,
+				"friends_count": 11012,
+				"listed_count": 5850,
+				"created_at": "Fri Jul 14 05:49:14 +0000 2006",
+				"favourites_count": 129481,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 234886,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1093355287157780480/NkJgCEJb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093355287157780480/NkJgCEJb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/767/1547754385",
+				"profile_link_color": "FAB81E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDE3F5",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 28,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "The minions of Zuck: “wij weten van niets! Het was dat drommelse algoritme weer” Foei algoritme! \n\nWant níemand binnen Facebook maakt dat algoritme natuurlijk. Of heeft er verantwoordelijkheid over. https://t.co/0XBwB8zC6M"
+	},
+	{
 		"created_at": "Wed Apr 10 17:38:43 +0000 2019",
 		"id": 1116032777525264400,
 		"id_str": "1116032777525264384",
