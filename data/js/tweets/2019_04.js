@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Thu Apr 11 06:18:46 +0000 2019",
+		"id": 1116224051503140900,
+		"id_str": "1116224051503140864",
+		"full_text": "Helaas klinkt dit allemaal erg herkenbaar voor ons deze tijd. \"De term ‘handelingsverlegen’ wordt te vaak gebruikt om de verantwoordelijkheid voor een kind ergens anders neer te leggen.\" https://t.co/ObWdLmZFTG /cc @suzanneunck",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "suzanneunck",
+					"name": "Suzanne Unck♻️",
+					"id": 9883922,
+					"id_str": "9883922",
+					"indices": [
+						215,
+						227
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ObWdLmZFTG",
+					"expanded_url": "https://www.staatvandeouder.nl/2019/passend-onderwijs/",
+					"display_url": "staatvandeouder.nl/2019/passend-o…",
+					"indices": [
+						187,
+						210
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019). #TeamHuman",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8881,
+			"friends_count": 280,
+			"listed_count": 592,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5244,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60040,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1547153586",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Helaas klinkt dit allemaal erg herkenbaar voor ons deze tijd. \"De term ‘handelingsverlegen’ wordt te vaak gebruikt om de verantwoordelijkheid voor een kind ergens anders neer te leggen.\" https://t.co/ObWdLmZFTG /cc @suzanneunck"
+	},
+	{
 		"created_at": "Thu Apr 11 05:13:47 +0000 2019",
 		"id": 1116207697769181200,
 		"id_str": "1116207697769181190",
