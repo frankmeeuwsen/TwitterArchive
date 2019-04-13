@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sat Apr 13 07:00:27 +0000 2019",
+		"id": 1116959314181349400,
+		"id_str": "1116959314181349381",
+		"full_text": "Alles staat klaar voor de seizoensfinale van #GameofThrones . Ik kan nu zelfs de Soprano's weer eens bingen. Dus eerst het beroemde einde weer eens gekeken. Popculture-classic. https://t.co/VB7rRwcPxe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GameofThrones",
+					"indices": [
+						45,
+						59
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1116959271109955600,
+					"id_str": "1116959271109955585",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D4A8igcWkAE7Uh2.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D4A8igcWkAE7Uh2.jpg",
+					"url": "https://t.co/VB7rRwcPxe",
+					"display_url": "pic.twitter.com/VB7rRwcPxe",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1116959314181349381/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 244,
+							"h": 144,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 244,
+							"h": 144,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 244,
+							"h": 144,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 144,
+							"h": 144,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1116959271109955600,
+					"id_str": "1116959271109955585",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D4A8igcWkAE7Uh2.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D4A8igcWkAE7Uh2.jpg",
+					"url": "https://t.co/VB7rRwcPxe",
+					"display_url": "pic.twitter.com/VB7rRwcPxe",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1116959314181349381/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 244,
+							"h": 144,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 244,
+							"h": 144,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 244,
+							"h": 144,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 144,
+							"h": 144,
+							"resize": "crop"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							61,
+							36
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D4A8igcWkAE7Uh2.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019). #TeamHuman",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8876,
+			"friends_count": 283,
+			"listed_count": 591,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5247,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60048,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1555103121",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Alles staat klaar voor de seizoensfinale van #GameofThrones . Ik kan nu zelfs de Soprano's weer eens bingen. Dus eerst het beroemde einde weer eens gekeken. Popculture-classic. https://t.co/VB7rRwcPxe"
+	},
+	{
 		"created_at": "Sat Apr 13 04:23:57 +0000 2019",
 		"id": 1116843870841712600,
 		"id_str": "1116919929314451456",
