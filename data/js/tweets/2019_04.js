@@ -1,6 +1,235 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 16 16:35:31 +0000 2019",
+		"id": 1118191198789881900,
+		"id_str": "1118191198789881856",
+		"full_text": "Leesvoer. Mijn voorspelling: er komt een grote databreach die financieel nadelig is voor adverteerders, waarna The Endgame voor Zuck start. Dát is waar het geld en de afhankelijkheid zit. Jouw kittenfoto’s en tracker-estafette is slechts ruwe grondstof voor het echte product. https://t.co/jOzlocst6A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jOzlocst6A",
+					"expanded_url": "https://twitter.com/nxthompson/status/1118093082657005569",
+					"display_url": "twitter.com/nxthompson/sta…",
+					"indices": [
+						277,
+						300
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019). #TeamHuman",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8879,
+			"friends_count": 284,
+			"listed_count": 591,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5256,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59985,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1555103121",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1118093082657005600,
+		"quoted_status_id_str": "1118093082657005569",
+		"quoted_status_permalink": {
+			"url": "https://t.co/jOzlocst6A",
+			"expanded": "https://twitter.com/nxthompson/status/1118093082657005569",
+			"display": "twitter.com/nxthompson/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 16 10:05:38 +0000 2019",
+			"id": 1118093082657005600,
+			"id_str": "1118093082657005569",
+			"full_text": "For the past year, the biggest story in tech has been the meltdown and mayhem at Facebook. So @fvogelstein and I dug in, spoke with 65 current + former employees there, and learned some rather interesting things. https://t.co/3UuFVtMdZz",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				236
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "fvogelstein",
+						"name": "Fred Vogelstein",
+						"id": 15533709,
+						"id_str": "15533709",
+						"indices": [
+							94,
+							106
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/3UuFVtMdZz",
+						"expanded_url": "https://www.wired.com/story/facebook-mark-zuckerberg-15-months-of-fresh-hell/",
+						"display_url": "wired.com/story/facebook…",
+						"indices": [
+							213,
+							236
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16892481,
+				"id_str": "16892481",
+				"name": "Nicholas Thompson",
+				"screen_name": "nxthompson",
+				"location": "New York",
+				"description": "Editor in Chief of @wired. DMs are always open for tips and scoops. Also nxthompson@protonmail",
+				"url": "https://t.co/Dj9tIapXeo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Dj9tIapXeo",
+								"expanded_url": "http://www.wired.com",
+								"display_url": "wired.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 106939,
+				"friends_count": 1760,
+				"listed_count": 3086,
+				"created_at": "Tue Oct 21 19:50:15 +0000 2008",
+				"favourites_count": 25030,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 25836,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/986311858440294400/yQaTvqGK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/986311858440294400/yQaTvqGK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16892481/1555423851",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 221,
+			"favorite_count": 353,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Leesvoer. Mijn voorspelling: er komt een grote databreach die financieel nadelig is voor adverteerders, waarna The Endgame voor Zuck start. Dát is waar het geld en de afhankelijkheid zit. Jouw kittenfoto’s en tracker-estafette is slechts ruwe grondstof voor het echte product. https://t.co/jOzlocst6A"
+	},
+	{
 		"created_at": "Tue Apr 16 14:48:17 +0000 2019",
 		"id": 1118159286620893200,
 		"id_str": "1118164212923154439",
