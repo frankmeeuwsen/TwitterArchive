@@ -1,6 +1,155 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 16 13:27:08 +0000 2019",
+		"id": 1118137314025328600,
+		"id_str": "1118143790953443328",
+		"full_text": "A starter kit for hosting your own 1990s-style web ring, by @mxbck. #LetsFixThis #OpenWeb #IndieWeb Hat tip: @m_ott\n\nhttps://t.co/ry7NDglMBp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LetsFixThis",
+					"indices": [
+						68,
+						80
+					]
+				},
+				{
+					"text": "OpenWeb",
+					"indices": [
+						81,
+						89
+					]
+				},
+				{
+					"text": "IndieWeb",
+					"indices": [
+						90,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mxbck",
+					"name": "Max Böck",
+					"id": 516438525,
+					"id_str": "516438525",
+					"indices": [
+						60,
+						66
+					]
+				},
+				{
+					"screen_name": "m_ott",
+					"name": "Matthias Ott",
+					"id": 58448784,
+					"id_str": "58448784",
+					"indices": [
+						109,
+						115
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ry7NDglMBp",
+					"expanded_url": "https://mxb.dev/blog/webring-kit/",
+					"display_url": "mxb.dev/blog/webring-k…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 61133,
+			"id_str": "61133",
+			"name": "zeldman",
+			"screen_name": "zeldman",
+			"location": "New York, NY",
+			"description": "Designer, Author, Founder. Creative Director @Automattic. Cofounder @AnEventApart. Publisher @AListApart & @ABookApart. Faculty @svaixd. Host @TheBigWebShow.",
+			"url": "https://t.co/wHwI77voyQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wHwI77voyQ",
+							"expanded_url": "https://studio.zeldman.com/",
+							"display_url": "studio.zeldman.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 339614,
+			"friends_count": 4617,
+			"listed_count": 11328,
+			"created_at": "Tue Dec 12 17:11:41 +0000 2006",
+			"favourites_count": 62093,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 58904,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113115593497079808/nfUl19mN_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113115593497079808/nfUl19mN_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/61133/1554222456",
+			"profile_link_color": "CC3300",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FF6600",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 16,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A starter kit for hosting your own 1990s-style web ring, by @mxbck. #LetsFixThis #OpenWeb #IndieWeb Hat tip: @m_ott\n\nhttps://t.co/ry7NDglMBp"
+	},
+	{
 		"created_at": "Mon Apr 15 18:02:29 +0000 2019",
 		"id": 1117850698559836200,
 		"id_str": "1117850698559836160",
