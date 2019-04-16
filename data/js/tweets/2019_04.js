@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 16 14:48:17 +0000 2019",
+		"id": 1118159286620893200,
+		"id_str": "1118164212923154439",
+		"full_text": "Capcom is releasing a plug-and-play arcade stick that contains 16 classic games: https://t.co/2efaaqhLKx https://t.co/ZsMLbzgHQP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2efaaqhLKx",
+					"expanded_url": "http://bit.ly/2UEW7WC",
+					"display_url": "bit.ly/2UEW7WC",
+					"indices": [
+						81,
+						104
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1118159284272021500,
+					"id_str": "1118159284272021504",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/D4R_8d1WwAAA17Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4R_8d1WwAAA17Y.jpg",
+					"url": "https://t.co/ZsMLbzgHQP",
+					"display_url": "pic.twitter.com/ZsMLbzgHQP",
+					"expanded_url": "https://twitter.com/Kotaku/status/1118159286620893184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 858,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 686,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 389,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1118159284272021500,
+					"id_str": "1118159284272021504",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/D4R_8d1WwAAA17Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4R_8d1WwAAA17Y.jpg",
+					"url": "https://t.co/ZsMLbzgHQP",
+					"display_url": "pic.twitter.com/ZsMLbzgHQP",
+					"expanded_url": "https://twitter.com/Kotaku/status/1118159286620893184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 858,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 686,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 389,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 11928542,
+			"id_str": "11928542",
+			"name": "Kotaku",
+			"screen_name": "Kotaku",
+			"location": "",
+			"description": "The Gamer's Guide",
+			"url": "http://t.co/OD5OpBJUMH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/OD5OpBJUMH",
+							"expanded_url": "http://kotaku.com",
+							"display_url": "kotaku.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2087964,
+			"friends_count": 61,
+			"listed_count": 13333,
+			"created_at": "Mon Jan 07 04:09:59 +0000 2008",
+			"favourites_count": 86,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 80503,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFF9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1013227106338127873/dJwvP0on_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1013227106338127873/dJwvP0on_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/11928542/1552589960",
+			"profile_link_color": "E21B5A",
+			"profile_sidebar_border_color": "C2D13D",
+			"profile_sidebar_fill_color": "C2D13D",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 40,
+		"favorite_count": 133,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Capcom is releasing a plug-and-play arcade stick that contains 16 classic games: https://t.co/2efaaqhLKx https://t.co/ZsMLbzgHQP"
+	},
+	{
 		"created_at": "Tue Apr 16 13:27:08 +0000 2019",
 		"id": 1118137314025328600,
 		"id_str": "1118143790953443328",
