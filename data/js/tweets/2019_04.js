@@ -1,6 +1,304 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Thu Apr 18 17:16:35 +0000 2019",
+		"id": 1118926307683967000,
+		"id_str": "1118926307683966977",
+		"full_text": "Zin in! https://t.co/BQTNXxlTiE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			7
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BQTNXxlTiE",
+					"expanded_url": "https://twitter.com/mrpuripurin/status/1118901840509202433",
+					"display_url": "twitter.com/mrpuripurin/st…",
+					"indices": [
+						8,
+						31
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019). #TeamHuman",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8879,
+			"friends_count": 284,
+			"listed_count": 590,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5261,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59993,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1555103121",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1118901840509202400,
+		"quoted_status_id_str": "1118901840509202433",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BQTNXxlTiE",
+			"expanded": "https://twitter.com/mrpuripurin/status/1118901840509202433",
+			"display": "twitter.com/mrpuripurin/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 18 15:39:21 +0000 2019",
+			"id": 1118901840509202400,
+			"id_str": "1118901840509202433",
+			"full_text": "cuphead on switch!! ☕️🎮\n#Cuphead #NintendoSwitch https://t.co/s5LoIUxWUB",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				48
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Cuphead",
+						"indices": [
+							24,
+							32
+						]
+					},
+					{
+						"text": "NintendoSwitch",
+						"indices": [
+							33,
+							48
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1118901805331574800,
+						"id_str": "1118901805331574784",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/media/D4cjQ4VU8AA0_h0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D4cjQ4VU8AA0_h0.jpg",
+						"url": "https://t.co/s5LoIUxWUB",
+						"display_url": "pic.twitter.com/s5LoIUxWUB",
+						"expanded_url": "https://twitter.com/mrpuripurin/status/1118901840509202433/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 525,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 920,
+								"h": 710,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 920,
+								"h": 710,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1118901805331574800,
+						"id_str": "1118901805331574784",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/media/D4cjQ4VU8AA0_h0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D4cjQ4VU8AA0_h0.jpg",
+						"url": "https://t.co/s5LoIUxWUB",
+						"display_url": "pic.twitter.com/s5LoIUxWUB",
+						"expanded_url": "https://twitter.com/mrpuripurin/status/1118901840509202433/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 525,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 920,
+								"h": 710,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 920,
+								"h": 710,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3295568238,
+				"id_str": "3295568238",
+				"name": ".korina🍮☕",
+				"screen_name": "mrpuripurin",
+				"location": "SEA🌏",
+				"description": "20↑| FUBfree | illust/fanart | lots of shipping & BL | semi nsfw rt/like🚫 Reposting is prohibited | priv:@_chocopuripurin full-bio:https://t.co/1PlebmdprU",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/1PlebmdprU",
+								"expanded_url": "http://twpf.jp/mrpuripurin",
+								"display_url": "twpf.jp/mrpuripurin",
+								"indices": [
+									131,
+									154
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2230,
+				"friends_count": 1575,
+				"listed_count": 17,
+				"created_at": "Sun Jul 26 16:37:35 +0000 2015",
+				"favourites_count": 49112,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5870,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1114944093312835584/nqgPTfuj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1114944093312835584/nqgPTfuj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3295568238/1509453525",
+				"profile_link_color": "97BC74",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 70,
+			"favorite_count": 269,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Zin in! https://t.co/BQTNXxlTiE"
+	},
+	{
 		"created_at": "Thu Apr 18 06:28:39 +0000 2019",
 		"id": 1118763250865385500,
 		"id_str": "1118763250865385473",
