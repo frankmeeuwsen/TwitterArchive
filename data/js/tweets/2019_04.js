@@ -1,6 +1,543 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Thu Apr 18 06:28:39 +0000 2019",
+		"id": 1118763250865385500,
+		"id_str": "1118763250865385473",
+		"full_text": "Het voordeel van dit soort mails is dat ik weer eens die diensten zie waar ik ooit voor inschreef maar compleet vergeet te gebruiken de afgelopen jaren. https://t.co/1ZMKvV4Snu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1ZMKvV4Snu",
+					"expanded_url": "https://twitter.com/MattNavarra/status/1118573251691712513",
+					"display_url": "twitter.com/MattNavarra/st…",
+					"indices": [
+						153,
+						176
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019). #TeamHuman",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8879,
+			"friends_count": 284,
+			"listed_count": 590,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5260,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59992,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1555103121",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1118573251691712500,
+		"quoted_status_id_str": "1118573251691712513",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1ZMKvV4Snu",
+			"expanded": "https://twitter.com/MattNavarra/status/1118573251691712513",
+			"display": "twitter.com/MattNavarra/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 17 17:53:39 +0000 2019",
+			"id": 1118573251691712500,
+			"id_str": "1118573251691712513",
+			"full_text": "Twitter and Highly are joining forces! https://t.co/dzGrActxb0",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				38
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1118573246042005500,
+						"id_str": "1118573246042005504",
+						"indices": [
+							39,
+							62
+						],
+						"media_url": "http://pbs.twimg.com/media/D4X4cNmW4AAlFbt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D4X4cNmW4AAlFbt.jpg",
+						"url": "https://t.co/dzGrActxb0",
+						"display_url": "pic.twitter.com/dzGrActxb0",
+						"expanded_url": "https://twitter.com/MattNavarra/status/1118573251691712513/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 363,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1092,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1118573246042005500,
+						"id_str": "1118573246042005504",
+						"indices": [
+							39,
+							62
+						],
+						"media_url": "http://pbs.twimg.com/media/D4X4cNmW4AAlFbt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D4X4cNmW4AAlFbt.jpg",
+						"url": "https://t.co/dzGrActxb0",
+						"display_url": "pic.twitter.com/dzGrActxb0",
+						"expanded_url": "https://twitter.com/MattNavarra/status/1118573251691712513/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 363,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1092,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16211566,
+				"id_str": "16211566",
+				"name": "Matt Navarra",
+				"screen_name": "MattNavarra",
+				"location": "Cardiff, Wales",
+				"description": "Social media industry commentator + consultant | Previously director of social @thenextweb + digital comms @govuk | Self-confessed geek 🤓",
+				"url": "https://t.co/QD0FtHivhS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/QD0FtHivhS",
+								"expanded_url": "http://www.facebook.com/groups/socialgeekout",
+								"display_url": "facebook.com/groups/socialg…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 43053,
+				"friends_count": 4265,
+				"listed_count": 2068,
+				"created_at": "Tue Sep 09 21:25:05 +0000 2008",
+				"favourites_count": 90716,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 98496,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1110671097240973312/7LShn5ez_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110671097240973312/7LShn5ez_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16211566/1553639638",
+				"profile_link_color": "3C5A99",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "171106",
+				"profile_text_color": "473623",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "1981dc44d58103b8",
+				"url": "https://api.twitter.com/1.1/geo/id/1981dc44d58103b8.json",
+				"place_type": "city",
+				"name": "Penarth",
+				"full_name": "Penarth, Wales",
+				"country_code": "GB",
+				"country": "United Kingdom",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-3.207316,
+								51.41538
+							],
+							[
+								-3.164369,
+								51.41538
+							],
+							[
+								-3.164369,
+								51.456395
+							],
+							[
+								-3.207316,
+								51.456395
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 19,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Het voordeel van dit soort mails is dat ik weer eens die diensten zie waar ik ooit voor inschreef maar compleet vergeet te gebruiken de afgelopen jaren. https://t.co/1ZMKvV4Snu"
+	},
+	{
+		"created_at": "Thu Apr 18 06:27:48 +0000 2019",
+		"id": 1118763038381871100,
+		"id_str": "1118763038381871104",
+		"full_text": "The Apologies Tour continues... (Je verwácht het niet he) https://t.co/kzw8gYyiG0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kzw8gYyiG0",
+					"expanded_url": "https://twitter.com/ncilla/status/1118759415908372480",
+					"display_url": "twitter.com/ncilla/status/…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019). #TeamHuman",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8879,
+			"friends_count": 284,
+			"listed_count": 590,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5260,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59992,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1555103121",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1118759415908372500,
+		"quoted_status_id_str": "1118759415908372480",
+		"quoted_status_permalink": {
+			"url": "https://t.co/kzw8gYyiG0",
+			"expanded": "https://twitter.com/ncilla/status/1118759415908372480",
+			"display": "twitter.com/ncilla/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 18 06:13:24 +0000 2019",
+			"id": 1118759415908372500,
+			"id_str": "1118759415908372480",
+			"full_text": "Facebook lies a lot - part 382; “Facebook says it ‘unintentionally uploaded’ 1.5 million people’s email contacts without their consent” https://t.co/KqpbUnmfWe",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				159
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/KqpbUnmfWe",
+						"expanded_url": "https://www.businessinsider.nl/facebook-uploaded-1-5-million-users-email-contacts-without-permission-2019-4",
+						"display_url": "businessinsider.nl/facebook-uploa…",
+						"indices": [
+							136,
+							159
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16391453,
+				"id_str": "16391453",
+				"name": "Ancilla",
+				"screen_name": "ncilla",
+				"location": "Amsterdam, Nederland",
+				"description": "Proud mom | Keynote speaker | 💛 for digital rights | board @PrivacyFirst | was political leader | 1st gen internet model | caution: nuanced opinions",
+				"url": "https://t.co/3Teo1lfJa4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/3Teo1lfJa4",
+								"expanded_url": "http://www.Startpage.com",
+								"display_url": "Startpage.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 52959,
+				"friends_count": 1354,
+				"listed_count": 1072,
+				"created_at": "Sun Sep 21 15:08:05 +0000 2008",
+				"favourites_count": 9241,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 62719,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1081286125610811392/TwcACFnZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081286125610811392/TwcACFnZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16391453/1548962195",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C9D6D4",
+				"profile_text_color": "BDA1BB",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "The Apologies Tour continues... (Je verwácht het niet he) https://t.co/kzw8gYyiG0"
+	},
+	{
 		"created_at": "Wed Apr 17 15:59:57 +0000 2019",
 		"id": 1118544635771670500,
 		"id_str": "1118544635771670530",
