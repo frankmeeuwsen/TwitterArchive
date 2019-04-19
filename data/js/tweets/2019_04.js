@@ -1,6 +1,122 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Fri Apr 19 18:23:00 +0000 2019",
+		"id": 1119305410001940500,
+		"id_str": "1119305410001940480",
+		"full_text": "@theclubsmash @wardgeene Ik ben benieuwd. Het is voor ons de eerste keer dat we naar zo’n toernooi gaan. Als kijker he, als speler ben ik bescheiden :-)",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "theclubsmash",
+					"name": "Club Smash",
+					"id": 1037978602086846500,
+					"id_str": "1037978602086846464",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "wardgeene",
+					"name": "Ward Geene",
+					"id": 10834362,
+					"id_str": "10834362",
+					"indices": [
+						14,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1119261424386179100,
+		"in_reply_to_status_id_str": "1119261424386179073",
+		"in_reply_to_user_id": 1037978602086846500,
+		"in_reply_to_user_id_str": "1037978602086846464",
+		"in_reply_to_screen_name": "theclubsmash",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019). #TeamHuman",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8879,
+			"friends_count": 285,
+			"listed_count": 590,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60004,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1555103121",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@theclubsmash @wardgeene Ik ben benieuwd. Het is voor ons de eerste keer dat we naar zo’n toernooi gaan. Als kijker he, als speler ben ik bescheiden :-)"
+	},
+	{
 		"created_at": "Fri Apr 19 14:00:26 +0000 2019",
 		"id": 1119239336124350500,
 		"id_str": "1119239336124350464",
