@@ -1,6 +1,315 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Mon Apr 22 15:43:08 +0000 2019",
+		"id": 1120352341696421900,
+		"id_str": "1120352341696421888",
+		"full_text": "Nu met onze eigeste Twitter account! https://t.co/FWPQ2FMPlY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FWPQ2FMPlY",
+					"expanded_url": "https://twitter.com/indiewebcampnl/status/1120352160246587394",
+					"display_url": "twitter.com/indiewebcampnl…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019). #TeamHuman",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8880,
+			"friends_count": 276,
+			"listed_count": 589,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5269,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60015,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1555103121",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1120352160246587400,
+		"quoted_status_id_str": "1120352160246587394",
+		"quoted_status_permalink": {
+			"url": "https://t.co/FWPQ2FMPlY",
+			"expanded": "https://twitter.com/indiewebcampnl/status/1120352160246587394",
+			"display": "twitter.com/indiewebcampnl…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 22 15:42:24 +0000 2019",
+			"id": 1120352160246587400,
+			"id_str": "1120352160246587394",
+			"full_text": "Hello Open Web! Visit the first Dutch IndieWebCamp on  May 18-19 in Utrecht. Check out site for more info and register right away! https://t.co/HOlJkpdLBs https://t.co/WR31CtmlPT",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				154
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/HOlJkpdLBs",
+						"expanded_url": "https://indiewebcamp.nl/",
+						"display_url": "indiewebcamp.nl",
+						"indices": [
+							131,
+							154
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1120352152721948700,
+						"id_str": "1120352152721948673",
+						"indices": [
+							155,
+							178
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/D4xKWNZWAAELVb_.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D4xKWNZWAAELVb_.jpg",
+						"url": "https://t.co/WR31CtmlPT",
+						"display_url": "pic.twitter.com/WR31CtmlPT",
+						"expanded_url": "https://twitter.com/indiewebcampnl/status/1120352160246587394/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 400,
+								"h": 200,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 400,
+								"h": 200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 400,
+								"h": 200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1120352152721948700,
+						"id_str": "1120352152721948673",
+						"indices": [
+							155,
+							178
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/D4xKWNZWAAELVb_.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D4xKWNZWAAELVb_.jpg",
+						"url": "https://t.co/WR31CtmlPT",
+						"display_url": "pic.twitter.com/WR31CtmlPT",
+						"expanded_url": "https://twitter.com/indiewebcampnl/status/1120352160246587394/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 400,
+								"h": 200,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 400,
+								"h": 200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 400,
+								"h": 200,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								2,
+								1
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/D4xKWNZWAAELVb_.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1120350662397706200,
+				"id_str": "1120350662397706240",
+				"name": "indiewebcampnl",
+				"screen_name": "indiewebcampnl",
+				"location": "Netherlands",
+				"description": "IndieWebCamp Nederland brengt makers, doeners, designers en fans samen rondom het open, vrije web.",
+				"url": "https://t.co/nMtW00Oi7S",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/nMtW00Oi7S",
+								"expanded_url": "https://indiewebcamp.nl",
+								"display_url": "indiewebcamp.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1,
+				"friends_count": 7,
+				"listed_count": 0,
+				"created_at": "Mon Apr 22 15:36:27 +0000 2019",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1120350909362520069/rXB1G3Ys_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1120350909362520069/rXB1G3Ys_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1120350662397706240/1555947656",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Nu met onze eigeste Twitter account! https://t.co/FWPQ2FMPlY"
+	},
+	{
 		"created_at": "Mon Apr 22 09:36:44 +0000 2019",
 		"id": 1120260135883018200,
 		"id_str": "1120260135883018240",
