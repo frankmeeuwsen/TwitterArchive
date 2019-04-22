@@ -1,6 +1,246 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Mon Apr 22 17:06:56 +0000 2019",
+		"id": 1120373431613177900,
+		"id_str": "1120373431613177856",
+		"full_text": "Al gelezen @elger? https://t.co/ap7GFRjLTw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "elger",
+					"name": "Elger van der Wel",
+					"id": 14142375,
+					"id_str": "14142375",
+					"indices": [
+						11,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ap7GFRjLTw",
+					"expanded_url": "https://twitter.com/reckless/status/1120361077907382273",
+					"display_url": "twitter.com/reckless/statu…",
+					"indices": [
+						19,
+						42
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019). #TeamHuman",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8881,
+			"friends_count": 277,
+			"listed_count": 589,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5269,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59956,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1555103121",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1120361077907382300,
+		"quoted_status_id_str": "1120361077907382273",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ap7GFRjLTw",
+			"expanded": "https://twitter.com/reckless/status/1120361077907382273",
+			"display": "twitter.com/reckless/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 22 16:17:50 +0000 2019",
+			"id": 1120361077907382300,
+			"id_str": "1120361077907382273",
+			"full_text": "Podcast wars! NYT and Spotify prohibiting Luminary from using the open RSS feeds for The Daily and Reply All is...something else. Big @ashleyrcarman story here: https://t.co/l1gOIMTkeR",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				184
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ashleyrcarman",
+						"name": "Ashley Carman",
+						"id": 85981713,
+						"id_str": "85981713",
+						"indices": [
+							134,
+							148
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/l1gOIMTkeR",
+						"expanded_url": "https://www.theverge.com/2019/4/22/18510897/luminary-podcast-app-launch-the-daily-gimlet-media-spotify",
+						"display_url": "theverge.com/2019/4/22/1851…",
+						"indices": [
+							161,
+							184
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3496641,
+				"id_str": "3496641",
+				"name": "nilay patel",
+				"screen_name": "reckless",
+				"location": "Brooklyn, NY",
+				"description": "Editor-in-chief of The Verge. Host of The Vergecast, everywhere good podcasts are served. I am in love with spectacle.",
+				"url": "https://t.co/DY1lI9NeaC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/DY1lI9NeaC",
+								"expanded_url": "http://theverge.com",
+								"display_url": "theverge.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 124509,
+				"friends_count": 1821,
+				"listed_count": 4825,
+				"created_at": "Thu Apr 05 06:32:55 +0000 2007",
+				"favourites_count": 27192,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 362,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/548935852051533824/r9MxISa-_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/548935852051533824/r9MxISa-_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3496641/1412390971",
+				"profile_link_color": "91D2FA",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 25,
+			"favorite_count": 59,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Al gelezen @elger? https://t.co/ap7GFRjLTw"
+	},
+	{
 		"created_at": "Mon Apr 22 15:43:08 +0000 2019",
 		"id": 1120352341696421900,
 		"id_str": "1120352341696421888",
