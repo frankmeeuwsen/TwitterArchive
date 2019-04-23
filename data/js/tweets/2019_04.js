@@ -1,6 +1,122 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 23 10:59:47 +0000 2019",
+		"id": 1120643425077014500,
+		"id_str": "1120643425077014530",
+		"full_text": "@ekes @aral So whenever a member of the audience shouts racist stuff during a debate, it’s no longer possible for the venue to organise other events? Or whenever a moderator doesn’t handle the situation well? This makes De Balie a bad venue with a racist board?",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			261
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ekes",
+					"name": "ekes",
+					"id": 10969502,
+					"id_str": "10969502",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"screen_name": "aral",
+					"name": "Aral Balkan (@aral@mastodon.ar.al)",
+					"id": 48903,
+					"id_str": "48903",
+					"indices": [
+						6,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1120642530322915300,
+		"in_reply_to_status_id_str": "1120642530322915328",
+		"in_reply_to_user_id": 10969502,
+		"in_reply_to_user_id_str": "10969502",
+		"in_reply_to_screen_name": "ekes",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019). #TeamHuman",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8883,
+			"friends_count": 277,
+			"listed_count": 589,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5270,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59960,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1555103121",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ekes @aral So whenever a member of the audience shouts racist stuff during a debate, it’s no longer possible for the venue to organise other events? Or whenever a moderator doesn’t handle the situation well? This makes De Balie a bad venue with a racist board?"
+	},
+	{
 		"created_at": "Tue Apr 23 05:14:27 +0000 2019",
 		"id": 1120444632280727600,
 		"id_str": "1120556518259212288",
