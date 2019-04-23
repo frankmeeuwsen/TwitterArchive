@@ -1,6 +1,260 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 23 12:36:37 +0000 2019",
+		"id": 1120667790954901500,
+		"id_str": "1120667790954901504",
+		"full_text": "Deze bot lijkt me wel iets voor @pvdp https://t.co/r3hW49np0O",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pvdp",
+					"name": "Peter van der Ploeg",
+					"id": 10153142,
+					"id_str": "10153142",
+					"indices": [
+						32,
+						37
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/r3hW49np0O",
+					"expanded_url": "https://twitter.com/indiegage/status/1120165365722566657",
+					"display_url": "twitter.com/indiegage/stat…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019). #TeamHuman",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8883,
+			"friends_count": 277,
+			"listed_count": 589,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5272,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59963,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1555103121",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1120165365722566700,
+		"quoted_status_id_str": "1120165365722566657",
+		"quoted_status_permalink": {
+			"url": "https://t.co/r3hW49np0O",
+			"expanded": "https://twitter.com/indiegage/status/1120165365722566657",
+			"display": "twitter.com/indiegage/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 22 03:20:09 +0000 2019",
+			"id": 1120165365722566700,
+			"id_str": "1120165365722566657",
+			"full_text": "I made a Twitter bot with #Tracery It's Hell themed. very metal. if you need more metal in your feed I recommend you follow it. https://t.co/78uKIUAmaI",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				127
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Tracery",
+						"indices": [
+							26,
+							34
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/78uKIUAmaI",
+						"expanded_url": "https://twitter.com/FightForHell/status/1120163820201291776",
+						"display_url": "twitter.com/FightForHell/s…",
+						"indices": [
+							128,
+							151
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 279118981,
+				"id_str": "279118981",
+				"name": "gage",
+				"screen_name": "indiegage",
+				"location": "Peoria, IL",
+				"description": "Game designer, video editor, pizza-lover. Color Cannons+ is on Steam! https://t.co/wDPwLUmFZq",
+				"url": "https://t.co/JoBYfQY54S",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JoBYfQY54S",
+								"expanded_url": "http://gagemelton.com",
+								"display_url": "gagemelton.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/wDPwLUmFZq",
+								"expanded_url": "https://store.steampowered.com/app/798780/Color_Cannons/",
+								"display_url": "store.steampowered.com/app/798780/Col…",
+								"indices": [
+									70,
+									93
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 146,
+				"friends_count": 534,
+				"listed_count": 9,
+				"created_at": "Fri Apr 08 16:36:37 +0000 2011",
+				"favourites_count": 4738,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1707,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1049834503487799296/ytGczgpT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1049834503487799296/ytGczgpT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/279118981/1551315607",
+				"profile_link_color": "FF2B58",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1120163820201291800,
+			"quoted_status_id_str": "1120163820201291776",
+			"quoted_status_permalink": {
+				"url": "https://t.co/78uKIUAmaI",
+				"expanded": "https://twitter.com/FightForHell/status/1120163820201291776",
+				"display": "twitter.com/FightForHell/s…"
+			},
+			"retweet_count": 3,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Deze bot lijkt me wel iets voor @pvdp https://t.co/r3hW49np0O"
+	},
+	{
 		"created_at": "Tue Apr 23 12:12:20 +0000 2019",
 		"id": 1120661680554434600,
 		"id_str": "1120661680554434561",
