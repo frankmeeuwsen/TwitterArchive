@@ -1,6 +1,394 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sun Apr 28 05:56:18 +0000 2019",
+		"id": 1122378988410810400,
+		"id_str": "1122378988410810368",
+		"full_text": "Waarom kunst op school belangrijk is. Check de hashtag #Alien40th voor meer videos en een bezoekje van Sigourney Weaver. https://t.co/MNPhFqsSKf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Alien40th",
+					"indices": [
+						55,
+						65
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MNPhFqsSKf",
+					"expanded_url": "https://twitter.com/njdotcom/status/1121825012913041408",
+					"display_url": "twitter.com/njdotcom/statu…",
+					"indices": [
+						121,
+						144
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019). #TeamHuman",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8884,
+			"friends_count": 281,
+			"listed_count": 589,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5273,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59994,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1555103121",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1121825012913041400,
+		"quoted_status_id_str": "1121825012913041408",
+		"quoted_status_permalink": {
+			"url": "https://t.co/MNPhFqsSKf",
+			"expanded": "https://twitter.com/njdotcom/status/1121825012913041408",
+			"display": "twitter.com/njdotcom/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 26 17:15:00 +0000 2019",
+			"id": 1121825012913041400,
+			"id_str": "1121825012913041408",
+			"full_text": "That N.J. high school's smash hit 'Alien' play is back for encore! 👽Take a look inside before the show. https://t.co/uez0X622YG \n#Alien #AlienDay #Alien40th https://t.co/jNYFwaT4oK",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				156
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Alien",
+						"indices": [
+							129,
+							135
+						]
+					},
+					{
+						"text": "AlienDay",
+						"indices": [
+							136,
+							145
+						]
+					},
+					{
+						"text": "Alien40th",
+						"indices": [
+							146,
+							156
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/uez0X622YG",
+						"expanded_url": "http://nj-ne.ws/v1g6FuI",
+						"display_url": "nj-ne.ws/v1g6FuI",
+						"indices": [
+							104,
+							127
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1121816348563259400,
+						"id_str": "1121816348563259397",
+						"indices": [
+							157,
+							180
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1121816348563259397/img/iyxx6Tl1oU7xRfPA.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1121816348563259397/img/iyxx6Tl1oU7xRfPA.jpg",
+						"url": "https://t.co/jNYFwaT4oK",
+						"display_url": "pic.twitter.com/jNYFwaT4oK",
+						"expanded_url": "https://twitter.com/njdotcom/status/1121825012913041408/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1121816348563259400,
+						"id_str": "1121816348563259397",
+						"indices": [
+							157,
+							180
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1121816348563259397/img/iyxx6Tl1oU7xRfPA.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1121816348563259397/img/iyxx6Tl1oU7xRfPA.jpg",
+						"url": "https://t.co/jNYFwaT4oK",
+						"display_url": "pic.twitter.com/jNYFwaT4oK",
+						"expanded_url": "https://twitter.com/njdotcom/status/1121825012913041408/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 181390,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1121816348563259397/pl/doEA6R0xWeemDEWN.m3u8?tag=11"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1121816348563259397/vid/320x180/6ClVwygOZkQei4Us.mp4?tag=11"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1121816348563259397/vid/1280x720/m4H9HQ6re8k9Qoq6.mp4?tag=11"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1121816348563259397/vid/640x360/aq53BlDARS4RtDX5.mp4?tag=11"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14179819,
+				"id_str": "14179819",
+				"name": "NJ.com",
+				"screen_name": "njdotcom",
+				"location": "New Jersey",
+				"description": "N.J.'s #1 news website. #TrueJersey || Tips: https://t.co/uw1FGG3u5M || NJ Cannabis Insider: https://t.co/t6YKDdgge0 || Alexa skill: https://t.co/OLrRxL3Npa",
+				"url": "http://t.co/EwBeRIRiVv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/EwBeRIRiVv",
+								"expanded_url": "http://www.nj.com",
+								"display_url": "nj.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/uw1FGG3u5M",
+								"expanded_url": "http://nj.com/tips",
+								"display_url": "nj.com/tips",
+								"indices": [
+									45,
+									68
+								]
+							},
+							{
+								"url": "https://t.co/t6YKDdgge0",
+								"expanded_url": "http://nj-ne.ws/Llu5eG1",
+								"display_url": "nj-ne.ws/Llu5eG1",
+								"indices": [
+									93,
+									116
+								]
+							},
+							{
+								"url": "https://t.co/OLrRxL3Npa",
+								"expanded_url": "http://nj-ne.ws/1oIxjkQ",
+								"display_url": "nj-ne.ws/1oIxjkQ",
+								"indices": [
+									133,
+									156
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 508170,
+				"friends_count": 695,
+				"listed_count": 2474,
+				"created_at": "Wed Mar 19 21:02:53 +0000 2008",
+				"favourites_count": 2779,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 117186,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "293546",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/694234642002616320/yqse2zqz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/694234642002616320/yqse2zqz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14179819/1517579248",
+				"profile_link_color": "4E4D4D",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 447,
+			"favorite_count": 988,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Waarom kunst op school belangrijk is. Check de hashtag #Alien40th voor meer videos en een bezoekje van Sigourney Weaver. https://t.co/MNPhFqsSKf"
+	},
+	{
 		"created_at": "Sat Apr 27 19:03:02 +0000 2019",
 		"id": 1122168774629756900,
 		"id_str": "1122214589188509699",
