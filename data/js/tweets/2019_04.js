@@ -1,6 +1,250 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sun Apr 28 08:29:13 +0000 2019",
+		"id": 1122417472055988200,
+		"id_str": "1122417472055988224",
+		"full_text": "Britse politici gebruiken een Amerikaans datagedreven advertentieplatform voor een discussie over het gebruik van gezichtsherkenning technologie in de publieke ruimte door het justitiele apparaat. \n\n:twijfelend-gezicht-emoji: https://t.co/RSYQOROmXI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RSYQOROmXI",
+					"expanded_url": "https://twitter.com/houseofcommons/status/1121743886693613568",
+					"display_url": "twitter.com/houseofcommons…",
+					"indices": [
+						226,
+						249
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019). #TeamHuman",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8885,
+			"friends_count": 281,
+			"listed_count": 589,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5273,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59995,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1555103121",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1121743886693613600,
+		"quoted_status_id_str": "1121743886693613568",
+		"quoted_status_permalink": {
+			"url": "https://t.co/RSYQOROmXI",
+			"expanded": "https://twitter.com/houseofcommons/status/1121743886693613568",
+			"display": "twitter.com/houseofcommons…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 26 11:52:38 +0000 2019",
+			"id": 1121743886693613600,
+			"id_str": "1121743886693613568",
+			"full_text": "Would you consent to the police scanning your face in a crowd to check you're not a criminal?\n\nLeave a comment on our Facebook post about @darrenpjones' debate on #biometrics and #FacialRecognition next week. He'll use the comments to inform his speech.\n\nhttps://t.co/44avyQoXQl",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "biometrics",
+						"indices": [
+							163,
+							174
+						]
+					},
+					{
+						"text": "FacialRecognition",
+						"indices": [
+							179,
+							197
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "darrenpjones",
+						"name": "Darren Jones MP",
+						"id": 20392734,
+						"id_str": "20392734",
+						"indices": [
+							138,
+							151
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/44avyQoXQl",
+						"expanded_url": "https://www.facebook.com/UKHouseofCommons/photos/a.183499548715839/835991420133312/?type=3&theater",
+						"display_url": "facebook.com/UKHouseofCommo…",
+						"indices": [
+							255,
+							278
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 950249762,
+				"id_str": "950249762",
+				"name": "UK House of Commons",
+				"screen_name": "HouseofCommons",
+				"location": "Westminster, London, UK",
+				"description": "The House of Commons checks and challenges the government’s work, makes laws and debates topical issues. Find out what’s happening and how you can take part.",
+				"url": "http://t.co/3nSVR5SEAr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/3nSVR5SEAr",
+								"expanded_url": "http://www.parliament.uk/commons",
+								"display_url": "parliament.uk/commons",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 275427,
+				"friends_count": 685,
+				"listed_count": 2144,
+				"created_at": "Thu Nov 15 18:34:14 +0000 2012",
+				"favourites_count": 60,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 17134,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/730309512654147584/CUrjULQI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/730309512654147584/CUrjULQI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/950249762/1511174075",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 191,
+			"favorite_count": 162,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Britse politici gebruiken een Amerikaans datagedreven advertentieplatform voor een discussie over het gebruik van gezichtsherkenning technologie in de publieke ruimte door het justitiele apparaat. \n\n:twijfelend-gezicht-emoji: https://t.co/RSYQOROmXI"
+	},
+	{
 		"created_at": "Sun Apr 28 05:56:18 +0000 2019",
 		"id": 1122378988410810400,
 		"id_str": "1122378988410810368",
