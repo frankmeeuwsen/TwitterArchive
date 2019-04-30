@@ -1,6 +1,215 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 30 17:34:46 +0000 2019",
+		"id": 1123274852331413500,
+		"id_str": "1123279540661387265",
+		"full_text": "Well this has been a fun journey https://t.co/5TTcgVe9Vh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1123274506116698100,
+					"id_str": "1123274506116698112",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/D5asNkJWkAAkvhf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5asNkJWkAAkvhf.jpg",
+					"url": "https://t.co/5TTcgVe9Vh",
+					"display_url": "pic.twitter.com/5TTcgVe9Vh",
+					"expanded_url": "https://twitter.com/kevinroose/status/1123274852331413505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 391,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1215,
+							"h": 698,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 689,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1123274506116698100,
+					"id_str": "1123274506116698112",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/D5asNkJWkAAkvhf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5asNkJWkAAkvhf.jpg",
+					"url": "https://t.co/5TTcgVe9Vh",
+					"display_url": "pic.twitter.com/5TTcgVe9Vh",
+					"expanded_url": "https://twitter.com/kevinroose/status/1123274852331413505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 391,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1215,
+							"h": 698,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 689,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1123274530074562600,
+					"id_str": "1123274530074562568",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/D5asO9ZWkAg9bPc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5asO9ZWkAg9bPc.jpg",
+					"url": "https://t.co/5TTcgVe9Vh",
+					"display_url": "pic.twitter.com/5TTcgVe9Vh",
+					"expanded_url": "https://twitter.com/kevinroose/status/1123274852331413505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 698,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1747,
+							"h": 1016,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 395,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18816166,
+			"id_str": "18816166",
+			"name": "Kevin Roose",
+			"screen_name": "kevinroose",
+			"location": "NYC",
+			"description": "Tech columnist, NYT + NYT Magazine. kevin.roose@nytimes.com or kevinroose@protonmail.com (secure)",
+			"url": "https://t.co/OvZsx2Csrz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OvZsx2Csrz",
+							"expanded_url": "http://www.kevinroose.com",
+							"display_url": "kevinroose.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71484,
+			"friends_count": 2319,
+			"listed_count": 2455,
+			"created_at": "Fri Jan 09 21:28:15 +0000 2009",
+			"favourites_count": 12830,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 56,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "8B542B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986669109990522880/XqK48Wu7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986669109990522880/XqK48Wu7_normal.jpg",
+			"profile_link_color": "2E449C",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 143,
+		"favorite_count": 402,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Well this has been a fun journey https://t.co/5TTcgVe9Vh"
+	},
+	{
 		"created_at": "Tue Apr 30 17:17:11 +0000 2019",
 		"id": 1123025338567659500,
 		"id_str": "1123275115918188544",
