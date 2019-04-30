@@ -1,6 +1,214 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 30 19:38:03 +0000 2019",
+		"id": 1123306081638408200,
+		"id_str": "1123310564099411970",
+		"full_text": "Remember when podcasting was called audio blogging and the only person to listen to your posts was @davewiner? https://t.co/18MA776KX0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "davewiner",
+					"name": "scripting.com",
+					"id": 3839,
+					"id_str": "3839",
+					"indices": [
+						99,
+						109
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1123306057839861800,
+					"id_str": "1123306057839861761",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D5bI6HeW4AEFpEq.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D5bI6HeW4AEFpEq.jpg",
+					"url": "https://t.co/18MA776KX0",
+					"display_url": "pic.twitter.com/18MA776KX0",
+					"expanded_url": "https://twitter.com/Documentally/status/1123306081638408192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 566,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 566,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 428,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1123306057839861800,
+					"id_str": "1123306057839861761",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D5bI6HeW4AEFpEq.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D5bI6HeW4AEFpEq.jpg",
+					"url": "https://t.co/18MA776KX0",
+					"display_url": "pic.twitter.com/18MA776KX0",
+					"expanded_url": "https://twitter.com/Documentally/status/1123306081638408192/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 566,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 566,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 428,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							450,
+							283
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D5bI6HeW4AEFpEq.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7140572,
+			"id_str": "7140572",
+			"name": "Christian Payne",
+			"screen_name": "Documentally",
+			"location": "St Neots, England",
+			"description": "Writer | Mobile creative | Artist... Subscribe to my weekly musings here ~ https://t.co/mcSmJIO4HA",
+			"url": "https://t.co/mul5tLxpB4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mul5tLxpB4",
+							"expanded_url": "http://Documentally.com",
+							"display_url": "Documentally.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mcSmJIO4HA",
+							"expanded_url": "http://Documental.ly",
+							"display_url": "Documental.ly",
+							"indices": [
+								75,
+								98
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 25322,
+			"friends_count": 3990,
+			"listed_count": 1863,
+			"created_at": "Thu Jun 28 22:52:09 +0000 2007",
+			"favourites_count": 15504,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 132190,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "82A3A7",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1079535308662865921/UqbgIiuE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1079535308662865921/UqbgIiuE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7140572/1401801620",
+			"profile_link_color": "7C9699",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FB1B0E",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Remember when podcasting was called audio blogging and the only person to listen to your posts was @davewiner? https://t.co/18MA776KX0"
+	},
+	{
 		"created_at": "Tue Apr 30 18:59:34 +0000 2019",
 		"id": 1123300880667816000,
 		"id_str": "1123300880667815937",
