@@ -1,6 +1,313 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 30 12:31:09 +0000 2019",
+		"id": 1123203133780451300,
+		"id_str": "1123203133780451328",
+		"full_text": "#GOT8 Battle of Winterfell  cyberpunk style. https://t.co/dyWj46rTH3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GOT8",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dyWj46rTH3",
+					"expanded_url": "https://twitter.com/orgphysics/status/1122928882682859526",
+					"display_url": "twitter.com/orgphysics/sta…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019). #TeamHuman",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8883,
+			"friends_count": 282,
+			"listed_count": 589,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5275,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59974,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1555103121",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1122928882682859500,
+		"quoted_status_id_str": "1122928882682859526",
+		"quoted_status_permalink": {
+			"url": "https://t.co/dyWj46rTH3",
+			"expanded": "https://twitter.com/orgphysics/status/1122928882682859526",
+			"display": "twitter.com/orgphysics/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 29 18:21:23 +0000 2019",
+			"id": 1122928882682859500,
+			"id_str": "1122928882682859526",
+			"full_text": "Drone with a flamethrower to clear debris from power lines. https://t.co/DqdsQtjeag",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				59
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1122928810289184800,
+						"id_str": "1122928810289184768",
+						"indices": [
+							60,
+							83
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1122928810289184768/pu/img/VVqzeXXrg3gQR5rA.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1122928810289184768/pu/img/VVqzeXXrg3gQR5rA.jpg",
+						"url": "https://t.co/DqdsQtjeag",
+						"display_url": "pic.twitter.com/DqdsQtjeag",
+						"expanded_url": "https://twitter.com/OrgPhysics/status/1122928882682859526/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 368,
+								"h": 640,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 368,
+								"h": 640,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 368,
+								"h": 640,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1122928810289184800,
+						"id_str": "1122928810289184768",
+						"indices": [
+							60,
+							83
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1122928810289184768/pu/img/VVqzeXXrg3gQR5rA.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1122928810289184768/pu/img/VVqzeXXrg3gQR5rA.jpg",
+						"url": "https://t.co/DqdsQtjeag",
+						"display_url": "pic.twitter.com/DqdsQtjeag",
+						"expanded_url": "https://twitter.com/OrgPhysics/status/1122928882682859526/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 368,
+								"h": 640,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 368,
+								"h": 640,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 368,
+								"h": 640,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								23,
+								40
+							],
+							"duration_millis": 19701,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1122928810289184768/pu/vid/368x640/aT40_5mwNcZaReeJ.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1122928810289184768/pu/pl/F9aEsDEg4iftRgsY.m3u8?tag=10"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1122928810289184768/pu/vid/320x556/byOMdjO1E5tnOUU9.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 948475538187878400,
+				"id_str": "948475538187878400",
+				"name": "Physics-astronomy.org",
+				"screen_name": "OrgPhysics",
+				"location": "New York, England",
+				"description": "Physics-Astronomy, News, Space News,New Video technology and Science Like and Share this website, and facebook page",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 31643,
+				"friends_count": 7579,
+				"listed_count": 267,
+				"created_at": "Wed Jan 03 08:46:04 +0000 2018",
+				"favourites_count": 134,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5979,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/948476982949564417/g0Hbetng_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/948476982949564417/g0Hbetng_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/948475538187878400/1517489958",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 335,
+			"favorite_count": 928,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#GOT8 Battle of Winterfell  cyberpunk style. https://t.co/dyWj46rTH3"
+	},
+	{
 		"created_at": "Tue Apr 30 07:14:31 +0000 2019",
 		"id": 1123123448736358400,
 		"id_str": "1123123448736358400",
