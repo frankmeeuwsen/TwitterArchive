@@ -1,6 +1,203 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 01 16:01:16 +0000 2019",
+		"id": 1123613778741026800,
+		"id_str": "1123618399689551873",
+		"full_text": "This is how paperclips are made. https://t.co/RmXNT5owqS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1123613726496759800,
+					"id_str": "1123613726496759809",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D5fguyiXoAEYk3G.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D5fguyiXoAEYk3G.jpg",
+					"url": "https://t.co/RmXNT5owqS",
+					"display_url": "pic.twitter.com/RmXNT5owqS",
+					"expanded_url": "https://twitter.com/presentcorrect/status/1123613778741026823/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 514,
+							"h": 408,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 514,
+							"h": 408,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 514,
+							"h": 408,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1123613726496759800,
+					"id_str": "1123613726496759809",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D5fguyiXoAEYk3G.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D5fguyiXoAEYk3G.jpg",
+					"url": "https://t.co/RmXNT5owqS",
+					"display_url": "pic.twitter.com/RmXNT5owqS",
+					"expanded_url": "https://twitter.com/presentcorrect/status/1123613778741026823/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 514,
+							"h": 408,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 514,
+							"h": 408,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 514,
+							"h": 408,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							257,
+							204
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D5fguyiXoAEYk3G.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20228975,
+			"id_str": "20228975",
+			"name": "Present & Correct",
+			"screen_name": "presentcorrect",
+			"location": "London, England",
+			"description": "Office sundries for the modern workspace. Our shop: 23 Arlington Way, London EC1R open Tue - Sat from 12-6:30 https://t.co/GJEpCw6omT",
+			"url": "https://t.co/GJEpCw6omT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GJEpCw6omT",
+							"expanded_url": "http://www.presentandcorrect.com",
+							"display_url": "presentandcorrect.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GJEpCw6omT",
+							"expanded_url": "http://www.presentandcorrect.com",
+							"display_url": "presentandcorrect.com",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 56190,
+			"friends_count": 880,
+			"listed_count": 1157,
+			"created_at": "Fri Feb 06 10:49:40 +0000 2009",
+			"favourites_count": 3775,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 47120,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDEDED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875381488539361280/S20DH0Zr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875381488539361280/S20DH0Zr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20228975/1427463162",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 42,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is how paperclips are made. https://t.co/RmXNT5owqS"
+	},
+	{
 		"created_at": "Wed May 01 09:14:59 +0000 2019",
 		"id": 1123516152322379800,
 		"id_str": "1123516152322379776",
