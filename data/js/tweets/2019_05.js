@@ -1,6 +1,238 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 02 19:03:42 +0000 2019",
+		"id": 1124026698373189600,
+		"id_str": "1124026698373189633",
+		"full_text": "@annikavisser Je moet even met @Jruis connecten. Die is er net van terug. En ik meen dat @hellahueck een tijdje terug ook is geweest.",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "annikavisser",
+					"name": "queen of sheba",
+					"id": 182800113,
+					"id_str": "182800113",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "Jruis",
+					"name": "Jorg Ruis",
+					"id": 6676742,
+					"id_str": "6676742",
+					"indices": [
+						31,
+						37
+					]
+				},
+				{
+					"screen_name": "hellahueck",
+					"name": "Hella Hueck",
+					"id": 17763880,
+					"id_str": "17763880",
+					"indices": [
+						89,
+						100
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1123547242340732900,
+		"in_reply_to_status_id_str": "1123547242340732928",
+		"in_reply_to_user_id": 182800113,
+		"in_reply_to_user_id_str": "182800113",
+		"in_reply_to_screen_name": "annikavisser",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019). #TeamHuman",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8878,
+			"friends_count": 281,
+			"listed_count": 589,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5282,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59991,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1555103121",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@annikavisser Je moet even met @Jruis connecten. Die is er net van terug. En ik meen dat @hellahueck een tijdje terug ook is geweest."
+	},
+	{
+		"created_at": "Thu May 02 19:02:16 +0000 2019",
+		"id": 1124026334550921200,
+		"id_str": "1124026334550921217",
+		"full_text": "@annikavisser Heel tof!",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "annikavisser",
+					"name": "queen of sheba",
+					"id": 182800113,
+					"id_str": "182800113",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1123547242340732900,
+		"in_reply_to_status_id_str": "1123547242340732928",
+		"in_reply_to_user_id": 182800113,
+		"in_reply_to_user_id_str": "182800113",
+		"in_reply_to_screen_name": "annikavisser",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019). #TeamHuman",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8878,
+			"friends_count": 281,
+			"listed_count": 589,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5282,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59991,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1555103121",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@annikavisser Heel tof!"
+	},
+	{
 		"created_at": "Wed May 01 16:01:16 +0000 2019",
 		"id": 1123613778741026800,
 		"id_str": "1123618399689551873",
