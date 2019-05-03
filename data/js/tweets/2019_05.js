@@ -1,6 +1,473 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Fri May 03 09:14:36 +0000 2019",
+		"id": 1124240833019039700,
+		"id_str": "1124240833019039745",
+		"full_text": "@bramkoster @erwinwijman Ik vind het wel opvallend dat voor bijna alles zeven tips zijn...",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bramkoster",
+					"name": "Bram Koster",
+					"id": 6893682,
+					"id_str": "6893682",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "erwinwijman",
+					"name": "Erwin Wijman",
+					"id": 23059392,
+					"id_str": "23059392",
+					"indices": [
+						12,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1124236753580298200,
+		"in_reply_to_status_id_str": "1124236753580298240",
+		"in_reply_to_user_id": 6893682,
+		"in_reply_to_user_id_str": "6893682",
+		"in_reply_to_screen_name": "bramkoster",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019). #TeamHuman",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8877,
+			"friends_count": 281,
+			"listed_count": 589,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5284,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59994,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1555103121",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@bramkoster @erwinwijman Ik vind het wel opvallend dat voor bijna alles zeven tips zijn..."
+	},
+	{
+		"created_at": "Fri May 03 09:10:56 +0000 2019",
+		"id": 1124239909894742000,
+		"id_str": "1124239909894742016",
+		"full_text": "Kom er maar in @elger en @DavidAdMolen https://t.co/zacCjRHYQL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "elger",
+					"name": "Elger van der Wel",
+					"id": 14142375,
+					"id_str": "14142375",
+					"indices": [
+						15,
+						21
+					]
+				},
+				{
+					"screen_name": "DavidAdMolen",
+					"name": "David Achter de Molen",
+					"id": 118557866,
+					"id_str": "118557866",
+					"indices": [
+						25,
+						38
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zacCjRHYQL",
+					"expanded_url": "https://twitter.com/bramkoster/status/1124236279787524096",
+					"display_url": "twitter.com/bramkoster/sta…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019). #TeamHuman",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8877,
+			"friends_count": 281,
+			"listed_count": 589,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5284,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59994,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1555103121",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1124236279787524100,
+		"quoted_status_id_str": "1124236279787524096",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zacCjRHYQL",
+			"expanded": "https://twitter.com/bramkoster/status/1124236279787524096",
+			"display": "twitter.com/bramkoster/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 03 08:56:31 +0000 2019",
+			"id": 1124236279787524100,
+			"id_str": "1124236279787524096",
+			"full_text": "Hi podcastkoningen en -koninginnen, vraagje. Als je een podcast zonder galm wil opnemen in een ruimte die galmt, kan ik dan beter een microfoonreflectiescherm of een groot stuk studioschuim gebruiken? #dtv https://t.co/m5wLo5tTay",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				205
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "dtv",
+						"indices": [
+							201,
+							205
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1124236271998599200,
+						"id_str": "1124236271998599168",
+						"indices": [
+							206,
+							229
+						],
+						"media_url": "http://pbs.twimg.com/media/D5oW7tQWAAAjQPo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D5oW7tQWAAAjQPo.jpg",
+						"url": "https://t.co/m5wLo5tTay",
+						"display_url": "pic.twitter.com/m5wLo5tTay",
+						"expanded_url": "https://twitter.com/bramkoster/status/1124236279787524096/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 450,
+								"h": 450,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 450,
+								"h": 450,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 450,
+								"h": 450,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1124236271998599200,
+						"id_str": "1124236271998599168",
+						"indices": [
+							206,
+							229
+						],
+						"media_url": "http://pbs.twimg.com/media/D5oW7tQWAAAjQPo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D5oW7tQWAAAjQPo.jpg",
+						"url": "https://t.co/m5wLo5tTay",
+						"display_url": "pic.twitter.com/m5wLo5tTay",
+						"expanded_url": "https://twitter.com/bramkoster/status/1124236279787524096/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 450,
+								"h": 450,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 450,
+								"h": 450,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 450,
+								"h": 450,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1124236272728510500,
+						"id_str": "1124236272728510464",
+						"indices": [
+							206,
+							229
+						],
+						"media_url": "http://pbs.twimg.com/media/D5oW7v-XkAAN8oI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D5oW7v-XkAAN8oI.jpg",
+						"url": "https://t.co/m5wLo5tTay",
+						"display_url": "pic.twitter.com/m5wLo5tTay",
+						"expanded_url": "https://twitter.com/bramkoster/status/1124236279787524096/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 450,
+								"h": 450,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 450,
+								"h": 450,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 450,
+								"h": 450,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 6893682,
+				"id_str": "6893682",
+				"name": "Bram Koster",
+				"screen_name": "bramkoster",
+				"location": "Utrecht, Nederland",
+				"description": "Doet dingen bij @evolve_eu. Hiervoor @marketingfacts en @onlinetuesday. Zoekt antwoord op de vraag: heeft het leven eigenlijk nog wel onzin?",
+				"url": "http://t.co/9QJDlMMRxa",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/9QJDlMMRxa",
+								"expanded_url": "http://bit.ly/bramkoster",
+								"display_url": "bit.ly/bramkoster",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7976,
+				"friends_count": 2082,
+				"listed_count": 323,
+				"created_at": "Mon Jun 18 15:23:45 +0000 2007",
+				"favourites_count": 10845,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 67487,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/463965394160459777/n9JST4y3_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/463965394160459777/n9JST4y3_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/6893682/1444302686",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Kom er maar in @elger en @DavidAdMolen https://t.co/zacCjRHYQL"
+	},
+	{
 		"created_at": "Thu May 02 19:03:42 +0000 2019",
 		"id": 1124026698373189600,
 		"id_str": "1124026698373189633",
