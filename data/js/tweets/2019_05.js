@@ -1,6 +1,241 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sat May 04 08:31:31 +0000 2019",
+		"id": 1124581888566415400,
+		"id_str": "1124592378902405120",
+		"full_text": "Rise and shine – it's nearly time for the #SmashBrosUltimate #SmashBall2019 European finals!\n\n🎥 Watch live here at 11:00 CEST: https://t.co/GUDaLzUTcg https://t.co/I60FQbx96P",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SmashBrosUltimate",
+					"indices": [
+						42,
+						60
+					]
+				},
+				{
+					"text": "SmashBall2019",
+					"indices": [
+						61,
+						75
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GUDaLzUTcg",
+					"expanded_url": "http://bit.ly/2UZVm5s",
+					"display_url": "bit.ly/2UZVm5s",
+					"indices": [
+						127,
+						150
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1124581858363228200,
+					"id_str": "1124581858363228161",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/D5tRPeyWwAEpXDp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5tRPeyWwAEpXDp.jpg",
+					"url": "https://t.co/I60FQbx96P",
+					"display_url": "pic.twitter.com/I60FQbx96P",
+					"expanded_url": "https://twitter.com/NintendoEurope/status/1124581888566415360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1124581858363228200,
+					"id_str": "1124581858363228161",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/D5tRPeyWwAEpXDp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5tRPeyWwAEpXDp.jpg",
+					"url": "https://t.co/I60FQbx96P",
+					"display_url": "pic.twitter.com/I60FQbx96P",
+					"expanded_url": "https://twitter.com/NintendoEurope/status/1124581888566415360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1124581874800693200,
+					"id_str": "1124581874800693248",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/D5tRQcBWkAAGu7a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5tRQcBWkAAGu7a.jpg",
+					"url": "https://t.co/I60FQbx96P",
+					"display_url": "pic.twitter.com/I60FQbx96P",
+					"expanded_url": "https://twitter.com/NintendoEurope/status/1124581888566415360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.salesforce.com\" rel=\"nofollow\">Salesforce - Social Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 493980491,
+			"id_str": "493980491",
+			"name": "Nintendo of Europe",
+			"screen_name": "NintendoEurope",
+			"location": "",
+			"description": "Welcome to Nintendo's official European Twitter for news on Nintendo products. Our apologies for not being able to respond to questions - we'll be listening!",
+			"url": "https://t.co/Ee69THgznW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ee69THgznW",
+							"expanded_url": "http://www.nintendo-europe.com/",
+							"display_url": "nintendo-europe.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 397076,
+			"friends_count": 25,
+			"listed_count": 1953,
+			"created_at": "Thu Feb 16 11:50:53 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 9865,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1114064173015732226/u0UvEQfC_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1114064173015732226/u0UvEQfC_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/493980491/1550098274",
+			"profile_link_color": "E60012",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 170,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Rise and shine – it's nearly time for the #SmashBrosUltimate #SmashBall2019 European finals!\n\n🎥 Watch live here at 11:00 CEST: https://t.co/GUDaLzUTcg https://t.co/I60FQbx96P"
+	},
+	{
 		"created_at": "Sat May 04 07:44:01 +0000 2019",
 		"id": 1124580424896872400,
 		"id_str": "1124580424896872448",
