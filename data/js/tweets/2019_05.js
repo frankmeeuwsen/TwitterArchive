@@ -1,6 +1,122 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Mon May 06 15:49:36 +0000 2019",
+		"id": 1125418180820774900,
+		"id_str": "1125427401633169409",
+		"full_text": "We are not being beaten by machines, but by a league of tech billionaires who have been taught to believe that human beings are the problem and technology is the solution.\n\nhttps://t.co/F14H0dZDu8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/F14H0dZDu8",
+					"expanded_url": "https://link.medium.com/Dai0xNpktW",
+					"display_url": "link.medium.com/Dai0xNpktW",
+					"indices": [
+						173,
+						196
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15085196,
+			"id_str": "15085196",
+			"name": "douglas rushkoff",
+			"screen_name": "rushkoff",
+			"location": "Hastings on Hudson, NY",
+			"description": "Media theorist, author. Team Human: Available now: https://t.co/2wU84P6YzF",
+			"url": "https://t.co/fyUrytk5be",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fyUrytk5be",
+							"expanded_url": "http://rushkoff.com",
+							"display_url": "rushkoff.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/2wU84P6YzF",
+							"expanded_url": "http://books.wwnorton.com/books/detail.aspx?ID=4294997566",
+							"display_url": "books.wwnorton.com/books/detail.a…",
+							"indices": [
+								51,
+								74
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 46135,
+			"friends_count": 453,
+			"listed_count": 2610,
+			"created_at": "Wed Jun 11 14:38:01 +0000 2008",
+			"favourites_count": 122,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4276,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/705407292670214144/kMSrukdu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/705407292670214144/kMSrukdu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15085196/1548165833",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 57,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We are not being beaten by machines, but by a league of tech billionaires who have been taught to believe that human beings are the problem and technology is the solution.\n\nhttps://t.co/F14H0dZDu8"
+	},
+	{
 		"created_at": "Sun May 05 21:43:53 +0000 2019",
 		"id": 1125154169575366700,
 		"id_str": "1125154169575366656",
