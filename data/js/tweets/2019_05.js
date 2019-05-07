@@ -1,6 +1,318 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Tue May 07 07:47:20 +0000 2019",
+		"id": 1125668423797739500,
+		"id_str": "1125668423797739520",
+		"full_text": "The Matrix in trainingmode.... https://t.co/W5Gc4RtTVu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/W5Gc4RtTVu",
+					"expanded_url": "https://twitter.com/otduet/status/1125390364691640321",
+					"display_url": "twitter.com/otduet/status/…",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019). #TeamHuman",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8875,
+			"friends_count": 282,
+			"listed_count": 589,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5303,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59972,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1555103121",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1125390364691640300,
+		"quoted_status_id_str": "1125390364691640321",
+		"quoted_status_permalink": {
+			"url": "https://t.co/W5Gc4RtTVu",
+			"expanded": "https://twitter.com/otduet/status/1125390364691640321",
+			"display": "twitter.com/otduet/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon May 06 13:22:26 +0000 2019",
+			"id": 1125390364691640300,
+			"id_str": "1125390364691640321",
+			"full_text": "First attempt at removing cars off the roads with neural nets. Will have to dream harder. https://t.co/DZj63CHo8B",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				89
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1125388660747178000,
+						"id_str": "1125388660747177984",
+						"indices": [
+							90,
+							113
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1125388660747177984/pu/img/_TU_h7gZXIrUMs1Z.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1125388660747177984/pu/img/_TU_h7gZXIrUMs1Z.jpg",
+						"url": "https://t.co/DZj63CHo8B",
+						"display_url": "pic.twitter.com/DZj63CHo8B",
+						"expanded_url": "https://twitter.com/otduet/status/1125390364691640321/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 500,
+								"h": 280,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 500,
+								"h": 280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 280,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1125388660747178000,
+						"id_str": "1125388660747177984",
+						"indices": [
+							90,
+							113
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1125388660747177984/pu/img/_TU_h7gZXIrUMs1Z.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1125388660747177984/pu/img/_TU_h7gZXIrUMs1Z.jpg",
+						"url": "https://t.co/DZj63CHo8B",
+						"display_url": "pic.twitter.com/DZj63CHo8B",
+						"expanded_url": "https://twitter.com/otduet/status/1125390364691640321/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 500,
+								"h": 280,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 500,
+								"h": 280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 280,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								25,
+								14
+							],
+							"duration_millis": 39054,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1125388660747177984/pu/vid/320x180/YaJETkqIkEFyzSA1.mp4?tag=9"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1125388660747177984/pu/pl/zNuKGxPftCWRBPsg.m3u8?tag=9"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1125388660747177984/pu/vid/500x280/i_Hfiag_qxGBVkAE.mp4?tag=9"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 785481562418741200,
+				"id_str": "785481562418741248",
+				"name": "Chris Harris",
+				"screen_name": "otduet",
+				"location": "Europe",
+				"description": "Founder @proyouapp [Software|+*] Developer :: Life long learner :: Yogi :: Quixotically holistic // I hope to make a positive impact on the world.",
+				"url": "https://t.co/6xdb6O5LbT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6xdb6O5LbT",
+								"expanded_url": "http://harrischris.com",
+								"display_url": "harrischris.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2206,
+				"friends_count": 1097,
+				"listed_count": 13,
+				"created_at": "Mon Oct 10 14:06:12 +0000 2016",
+				"favourites_count": 691,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 351,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1115566037678874625/oYSrFbpI_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1115566037678874625/oYSrFbpI_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/785481562418741248/1522611070",
+				"profile_link_color": "3BB3BD",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8247,
+			"favorite_count": 31034,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Matrix in trainingmode.... https://t.co/W5Gc4RtTVu"
+	},
+	{
 		"created_at": "Tue May 07 07:04:11 +0000 2019",
 		"id": 1125657562597208000,
 		"id_str": "1125657562597208064",
