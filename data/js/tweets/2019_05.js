@@ -1,6 +1,310 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Tue May 07 07:04:11 +0000 2019",
+		"id": 1125657562597208000,
+		"id_str": "1125657562597208064",
+		"full_text": "Om dit nummer belde ik ooit (1996!) naar Kink om na te vragen wat het was. Ik kan me herinneren dat Floortje Dessing opnam en het uitzocht voor me. Zo tof om het weer tegen te komen. https://t.co/b0cMSmRbHe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/b0cMSmRbHe",
+					"expanded_url": "https://twitter.com/nuopkink/status/1125652909486690304",
+					"display_url": "twitter.com/nuopkink/statu…",
+					"indices": [
+						183,
+						206
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019). #TeamHuman",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8874,
+			"friends_count": 282,
+			"listed_count": 589,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5303,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59971,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1555103121",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1125652909486690300,
+		"quoted_status_id_str": "1125652909486690304",
+		"quoted_status_permalink": {
+			"url": "https://t.co/b0cMSmRbHe",
+			"expanded": "https://twitter.com/nuopkink/status/1125652909486690304",
+			"display": "twitter.com/nuopkink/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 07 06:45:41 +0000 2019",
+			"id": 1125652909486690300,
+			"id_str": "1125652909486690304",
+			"full_text": "China Drum - Wuthering Heights #nuopKINK https://t.co/o4MtgQvvPy https://t.co/meO9yQRbGC",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				64
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "nuopKINK",
+						"indices": [
+							31,
+							40
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/o4MtgQvvPy",
+						"expanded_url": "http://kink.nl/gedraaid",
+						"display_url": "kink.nl/gedraaid",
+						"indices": [
+							41,
+							64
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1125652908178124800,
+						"id_str": "1125652908178124801",
+						"indices": [
+							65,
+							88
+						],
+						"media_url": "http://pbs.twimg.com/media/D58fWyRXsAEbldg.png",
+						"media_url_https": "https://pbs.twimg.com/media/D58fWyRXsAEbldg.png",
+						"url": "https://t.co/meO9yQRbGC",
+						"display_url": "pic.twitter.com/meO9yQRbGC",
+						"expanded_url": "https://twitter.com/nuopKINK/status/1125652909486690304/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 558,
+								"h": 558,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 558,
+								"h": 558,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 558,
+								"h": 558,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1125652908178124800,
+						"id_str": "1125652908178124801",
+						"indices": [
+							65,
+							88
+						],
+						"media_url": "http://pbs.twimg.com/media/D58fWyRXsAEbldg.png",
+						"media_url_https": "https://pbs.twimg.com/media/D58fWyRXsAEbldg.png",
+						"url": "https://t.co/meO9yQRbGC",
+						"display_url": "pic.twitter.com/meO9yQRbGC",
+						"expanded_url": "https://twitter.com/nuopKINK/status/1125652909486690304/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 558,
+								"h": 558,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 558,
+								"h": 558,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 558,
+								"h": 558,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.luuk.lu\" rel=\"nofollow\">nuopKINK</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1115252758356140000,
+				"id_str": "1115252758356140032",
+				"name": "nu op KINK",
+				"screen_name": "nuopKINK",
+				"location": "The Netherlands",
+				"description": "Bliep bloep, ik ben de nowplaying-robot van @kinkpuntnl. (Work in progress. Bug gevonden? Tweet @luuk58.)",
+				"url": "https://t.co/SBpyWptM4c",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/SBpyWptM4c",
+								"expanded_url": "http://last.fm/user/kinkpuntnl",
+								"display_url": "last.fm/user/kinkpuntnl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 43,
+				"friends_count": 3,
+				"listed_count": 0,
+				"created_at": "Mon Apr 08 13:59:12 +0000 2019",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9096,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1115279425577345028/lWt_mnyO_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1115279425577345028/lWt_mnyO_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1115252758356140032/1554738146",
+				"profile_link_color": "363232",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Om dit nummer belde ik ooit (1996!) naar Kink om na te vragen wat het was. Ik kan me herinneren dat Floortje Dessing opnam en het uitzocht voor me. Zo tof om het weer tegen te komen. https://t.co/b0cMSmRbHe"
+	},
+	{
 		"created_at": "Tue May 07 06:11:18 +0000 2019",
 		"id": 1125644254452301800,
 		"id_str": "1125644254452301824",
@@ -16,7 +320,7 @@ Grailbird.data.tweets_2019_05 =
 			"user_mentions": [
 				{
 					"screen_name": "indirareynaert",
-					"name": "Indira Reynaert 👩🏻‍💻",
+					"name": "Indira Reynaert 👩🏻💻",
 					"id": 3408191,
 					"id_str": "3408191",
 					"indices": [
@@ -122,7 +426,7 @@ Grailbird.data.tweets_2019_05 =
 			"user_mentions": [
 				{
 					"screen_name": "indirareynaert",
-					"name": "Indira Reynaert 👩🏻‍💻",
+					"name": "Indira Reynaert 👩🏻💻",
 					"id": 3408191,
 					"id_str": "3408191",
 					"indices": [
