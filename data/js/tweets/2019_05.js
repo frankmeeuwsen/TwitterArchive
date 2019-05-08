@@ -1,6 +1,577 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 08 12:15:03 +0000 2019",
+		"id": 1126098182537195500,
+		"id_str": "1126098182537195520",
+		"full_text": "Google's CEO schrijft een opiniestuk in de New York Times. Ik vind daar dingen van. Dus ik schrijf een opiniestuk op mijn eigen site. https://t.co/rEaNWC7vKV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rEaNWC7vKV",
+					"expanded_url": "https://diggingthedigital.com/google-geeft-om-je-privacy/",
+					"display_url": "diggingthedigital.com/google-geeft-o…",
+					"indices": [
+						134,
+						157
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019). #TeamHuman",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8872,
+			"friends_count": 283,
+			"listed_count": 589,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5303,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59981,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1555103121",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Google's CEO schrijft een opiniestuk in de New York Times. Ik vind daar dingen van. Dus ik schrijf een opiniestuk op mijn eigen site. https://t.co/rEaNWC7vKV"
+	},
+	{
+		"created_at": "Wed May 08 12:07:10 +0000 2019",
+		"id": 1126096199826669600,
+		"id_str": "1126096199826669568",
+		"full_text": "@pvdp Deze moet je trouwens ook eens luisteren. Heerlijk! https://t.co/MRK2HceVSI",
+		"truncated": false,
+		"display_text_range": [
+			6,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pvdp",
+					"name": "Peter van der Ploeg",
+					"id": 10153142,
+					"id_str": "10153142",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MRK2HceVSI",
+					"expanded_url": "https://en.wikipedia.org/wiki/Radio_1:_Established_1967",
+					"display_url": "en.wikipedia.org/wiki/Radio_1:_…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1126089664241258500,
+		"in_reply_to_status_id_str": "1126089664241258496",
+		"in_reply_to_user_id": 10153142,
+		"in_reply_to_user_id_str": "10153142",
+		"in_reply_to_screen_name": "pvdp",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019). #TeamHuman",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8872,
+			"friends_count": 283,
+			"listed_count": 589,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5303,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59981,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1555103121",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@pvdp Deze moet je trouwens ook eens luisteren. Heerlijk! https://t.co/MRK2HceVSI"
+	},
+	{
+		"created_at": "Wed May 08 12:05:01 +0000 2019",
+		"id": 1126095658660843500,
+		"id_str": "1126095658660843520",
+		"full_text": "@pvdp @maartjejan @AceRecordsLtd Oh man deze is ook al zó goed!",
+		"truncated": false,
+		"display_text_range": [
+			33,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pvdp",
+					"name": "Peter van der Ploeg",
+					"id": 10153142,
+					"id_str": "10153142",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"screen_name": "maartjejan",
+					"name": "Maartje Jansma",
+					"id": 370875348,
+					"id_str": "370875348",
+					"indices": [
+						6,
+						17
+					]
+				},
+				{
+					"screen_name": "AceRecordsLtd",
+					"name": "Ace Records",
+					"id": 414899793,
+					"id_str": "414899793",
+					"indices": [
+						18,
+						32
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1126092341134200800,
+		"in_reply_to_status_id_str": "1126092341134200832",
+		"in_reply_to_user_id": 10153142,
+		"in_reply_to_user_id_str": "10153142",
+		"in_reply_to_screen_name": "pvdp",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019). #TeamHuman",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8872,
+			"friends_count": 283,
+			"listed_count": 589,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5303,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59981,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1555103121",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@pvdp @maartjejan @AceRecordsLtd Oh man deze is ook al zó goed!"
+	},
+	{
+		"created_at": "Wed May 08 12:04:16 +0000 2019",
+		"id": 1126095467828400100,
+		"id_str": "1126095467828400128",
+		"full_text": "@pvdp Judgement Night, Punk-O-Rama, X-Games, Singles OST maar er staan zeker pareltjes op de Drum 'n Bass kneiter Jump Up Show Down",
+		"truncated": false,
+		"display_text_range": [
+			6,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pvdp",
+					"name": "Peter van der Ploeg",
+					"id": 10153142,
+					"id_str": "10153142",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1126089664241258500,
+		"in_reply_to_status_id_str": "1126089664241258496",
+		"in_reply_to_user_id": 10153142,
+		"in_reply_to_user_id_str": "10153142",
+		"in_reply_to_screen_name": "pvdp",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019). #TeamHuman",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8872,
+			"friends_count": 283,
+			"listed_count": 589,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5303,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59981,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1555103121",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@pvdp Judgement Night, Punk-O-Rama, X-Games, Singles OST maar er staan zeker pareltjes op de Drum 'n Bass kneiter Jump Up Show Down"
+	},
+	{
+		"created_at": "Wed May 08 12:01:31 +0000 2019",
+		"id": 1126094776300986400,
+		"id_str": "1126094776300986371",
+		"full_text": "@roosvanvugt De .gif van @indirareynaert in het screenshot is alleszeggend...",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "roosvanvugt",
+					"name": "Roos van Vugt",
+					"id": 21687228,
+					"id_str": "21687228",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "indirareynaert",
+					"name": "Indira Reynaert 👩🏻‍💻",
+					"id": 3408191,
+					"id_str": "3408191",
+					"indices": [
+						25,
+						40
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1126090361061957600,
+		"in_reply_to_status_id_str": "1126090361061957633",
+		"in_reply_to_user_id": 21687228,
+		"in_reply_to_user_id_str": "21687228",
+		"in_reply_to_screen_name": "roosvanvugt",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019). #TeamHuman",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8872,
+			"friends_count": 283,
+			"listed_count": 589,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5303,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59981,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1555103121",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@roosvanvugt De .gif van @indirareynaert in het screenshot is alleszeggend..."
+	},
+	{
 		"created_at": "Wed May 08 07:52:36 +0000 2019",
 		"id": 1126032136451055600,
 		"id_str": "1126032136451055617",
