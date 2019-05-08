@@ -1,6 +1,593 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 08 07:52:36 +0000 2019",
+		"id": 1126032136451055600,
+		"id_str": "1126032136451055617",
+		"full_text": "Google I/O: Oh looksie... nice new and cheap products you can use in your house. Look how flawless our centralised assistant works for you, see this nice Nest Hub....\n\n@aral: Hold my indie-craftbeverage.... https://t.co/wdAcV4yPrH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aral",
+					"name": "Aral Balkan (@aral@mastodon.ar.al)",
+					"id": 48903,
+					"id_str": "48903",
+					"indices": [
+						168,
+						173
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wdAcV4yPrH",
+					"expanded_url": "https://twitter.com/aral/status/1126028179355914240",
+					"display_url": "twitter.com/aral/status/11…",
+					"indices": [
+						207,
+						230
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019). #TeamHuman",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8872,
+			"friends_count": 282,
+			"listed_count": 589,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5303,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59975,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1555103121",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1126028179355914200,
+		"quoted_status_id_str": "1126028179355914240",
+		"quoted_status_permalink": {
+			"url": "https://t.co/wdAcV4yPrH",
+			"expanded": "https://twitter.com/aral/status/1126028179355914240",
+			"display": "twitter.com/aral/status/11…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 08 07:36:53 +0000 2019",
+			"id": 1126028179355914200,
+			"id_str": "1126028179355914240",
+			"full_text": "“Google’s Sundar Pichai: Privacy Should Not Be a Luxury Good … Yes, we use data to make products more helpful for everyone. But we also protect your information.” – @nytimes\n\n1. Fuck you, Sundar\n2. Fuck you, @nytimes, and fuck your “privacy project”, you whitewashing muppets",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				275
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "nytimes",
+						"name": "The New York Times",
+						"id": 807095,
+						"id_str": "807095",
+						"indices": [
+							165,
+							173
+						]
+					},
+					{
+						"screen_name": "nytimes",
+						"name": "The New York Times",
+						"id": 807095,
+						"id_str": "807095",
+						"indices": [
+							208,
+							216
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 48903,
+				"id_str": "48903",
+				"name": "Aral Balkan (@aral@mastodon.ar.al)",
+				"screen_name": "aral",
+				"location": "Terra firma",
+				"description": "I mainly post on my blog at https://t.co/MH5qjWg2mi (RSS: https://t.co/uoejQfZwcW) and interact on my Mastodon https://t.co/P7hooxbo4i. Please follow me there.",
+				"url": "https://t.co/MH5qjWg2mi",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MH5qjWg2mi",
+								"expanded_url": "https://ar.al",
+								"display_url": "ar.al",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/MH5qjWg2mi",
+								"expanded_url": "https://ar.al",
+								"display_url": "ar.al",
+								"indices": [
+									28,
+									51
+								]
+							},
+							{
+								"url": "https://t.co/uoejQfZwcW",
+								"expanded_url": "https://ar.al/index.xml",
+								"display_url": "ar.al/index.xml",
+								"indices": [
+									58,
+									81
+								]
+							},
+							{
+								"url": "https://t.co/P7hooxbo4i",
+								"expanded_url": "https://mastodon.ar.al",
+								"display_url": "mastodon.ar.al",
+								"indices": [
+									111,
+									134
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 42998,
+				"friends_count": 20234,
+				"listed_count": 2672,
+				"created_at": "Thu Dec 07 19:55:38 +0000 2006",
+				"favourites_count": 114039,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 147772,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "AAAAAA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/873476708497838080/rdwukUAR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/873476708497838080/rdwukUAR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/48903/1503223813",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 21,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Google I/O: Oh looksie... nice new and cheap products you can use in your house. Look how flawless our centralised assistant works for you, see this nice Nest Hub....\n\n@aral: Hold my indie-craftbeverage.... https://t.co/wdAcV4yPrH"
+	},
+	{
+		"created_at": "Wed May 08 07:49:13 +0000 2019",
+		"id": 1126031285212844000,
+		"id_str": "1126031285212844032",
+		"full_text": "Channeling James Brown... amazing... https://t.co/TLKQpQwXOv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TLKQpQwXOv",
+					"expanded_url": "https://twitter.com/mattwhitlockPM/status/1125416960748072960",
+					"display_url": "twitter.com/mattwhitlockPM…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019). #TeamHuman",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8872,
+			"friends_count": 282,
+			"listed_count": 589,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5303,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59975,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1555103121",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1125416960748073000,
+		"quoted_status_id_str": "1125416960748072960",
+		"quoted_status_permalink": {
+			"url": "https://t.co/TLKQpQwXOv",
+			"expanded": "https://twitter.com/mattwhitlockPM/status/1125416960748072960",
+			"display": "twitter.com/mattwhitlockPM…"
+		},
+		"quoted_status": {
+			"created_at": "Mon May 06 15:08:07 +0000 2019",
+			"id": 1125416960748073000,
+			"id_str": "1125416960748072960",
+			"full_text": "my heart is in shambles https://t.co/ExoM1MWkO1",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				23
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1125416145924829200,
+						"id_str": "1125416145924829184",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1125416145924829184/img/dZV0wEDThtWf3CPr.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1125416145924829184/img/dZV0wEDThtWf3CPr.jpg",
+						"url": "https://t.co/ExoM1MWkO1",
+						"display_url": "pic.twitter.com/ExoM1MWkO1",
+						"expanded_url": "https://twitter.com/mattwhitlockPM/status/1125416960748072960/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 226,
+								"h": 400,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 226,
+								"h": 400,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 226,
+								"h": 400,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1125416145924829200,
+						"id_str": "1125416145924829184",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1125416145924829184/img/dZV0wEDThtWf3CPr.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1125416145924829184/img/dZV0wEDThtWf3CPr.jpg",
+						"url": "https://t.co/ExoM1MWkO1",
+						"display_url": "pic.twitter.com/ExoM1MWkO1",
+						"expanded_url": "https://twitter.com/mattwhitlockPM/status/1125416960748072960/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 226,
+								"h": 400,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 226,
+								"h": 400,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 226,
+								"h": 400,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								113,
+								200
+							],
+							"duration_millis": 178012,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1125416145924829184/pl/-GghE56GE4gLowaB.m3u8?tag=12"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1125416145924829184/vid/226x400/v1UuMOgpBqL5j41r.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 23885430,
+				"id_str": "23885430",
+				"name": "🌊",
+				"screen_name": "mattwhitlockPM",
+				"location": "Brockton, MA",
+				"description": "i manage a liquor store and listen to rap music | bylines everywhere | all boston everything | @hiphopscrapbook | 🔊: https://t.co/SPJ4dThGSg",
+				"url": "https://t.co/zSDjW99IJ9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zSDjW99IJ9",
+								"expanded_url": "http://www.instagram.com/mattwhitlockpm",
+								"display_url": "instagram.com/mattwhitlockpm",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/SPJ4dThGSg",
+								"expanded_url": "http://bit.ly/spotifymsfts",
+								"display_url": "bit.ly/spotifymsfts",
+								"indices": [
+									117,
+									140
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 21142,
+				"friends_count": 1331,
+				"listed_count": 740,
+				"created_at": "Thu Mar 12 03:24:25 +0000 2009",
+				"favourites_count": 58996,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 3362,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/974142419376754693/6UPiC4kJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/974142419376754693/6UPiC4kJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/23885430/1442940127",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14660,
+			"favorite_count": 45004,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Channeling James Brown... amazing... https://t.co/TLKQpQwXOv"
+	},
+	{
 		"created_at": "Tue May 07 07:47:20 +0000 2019",
 		"id": 1125668423797739500,
 		"id_str": "1125668423797739520",
