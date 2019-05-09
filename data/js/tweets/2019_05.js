@@ -1,6 +1,375 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 09 14:54:40 +0000 2019",
+		"id": 1126500741739212800,
+		"id_str": "1126500741739212800",
+		"full_text": "Naast @SayNo2Ducks hebben we nu gelukkig ook Richard met zijn queeste tegen scholeksters. Wat een heerlijke soap! https://t.co/Pu8cbkHVwU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SayNo2Ducks",
+					"name": "optyfen met eenden 🦆🚫 🇱🇺",
+					"id": 921460049666625500,
+					"id_str": "921460049666625536",
+					"indices": [
+						6,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Pu8cbkHVwU",
+					"expanded_url": "https://twitter.com/merchandise/status/1122758221821882369",
+					"display_url": "twitter.com/merchandise/st…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019). #TeamHuman",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8875,
+			"friends_count": 289,
+			"listed_count": 589,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5307,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59986,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1555103121",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1122758221821882400,
+		"quoted_status_id_str": "1122758221821882369",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Pu8cbkHVwU",
+			"expanded": "https://twitter.com/merchandise/status/1122758221821882369",
+			"display": "twitter.com/merchandise/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 29 07:03:14 +0000 2019",
+			"id": 1122758221821882400,
+			"id_str": "1122758221821882369",
+			"full_text": "WAT IS MET DEZE VOGEL EN WAAROM SCHIJT IE VOOR MIJN DEUR!? https://t.co/5aCLN1mwWZ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				58
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1122758211256377300,
+						"id_str": "1122758211256377344",
+						"indices": [
+							59,
+							82
+						],
+						"media_url": "http://pbs.twimg.com/media/D5TWpP6W4AAb9oZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D5TWpP6W4AAb9oZ.jpg",
+						"url": "https://t.co/5aCLN1mwWZ",
+						"display_url": "pic.twitter.com/5aCLN1mwWZ",
+						"expanded_url": "https://twitter.com/merchandise/status/1122758221821882369/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1122758211256377300,
+						"id_str": "1122758211256377344",
+						"indices": [
+							59,
+							82
+						],
+						"media_url": "http://pbs.twimg.com/media/D5TWpP6W4AAb9oZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D5TWpP6W4AAb9oZ.jpg",
+						"url": "https://t.co/5aCLN1mwWZ",
+						"display_url": "pic.twitter.com/5aCLN1mwWZ",
+						"expanded_url": "https://twitter.com/merchandise/status/1122758221821882369/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1122758211227066400,
+						"id_str": "1122758211227066368",
+						"indices": [
+							59,
+							82
+						],
+						"media_url": "http://pbs.twimg.com/media/D5TWpPzXoAAEv4m.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D5TWpPzXoAAEv4m.jpg",
+						"url": "https://t.co/5aCLN1mwWZ",
+						"display_url": "pic.twitter.com/5aCLN1mwWZ",
+						"expanded_url": "https://twitter.com/merchandise/status/1122758221821882369/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1122758211247980500,
+						"id_str": "1122758211247980544",
+						"indices": [
+							59,
+							82
+						],
+						"media_url": "http://pbs.twimg.com/media/D5TWpP4WwAA46nE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D5TWpP4WwAA46nE.jpg",
+						"url": "https://t.co/5aCLN1mwWZ",
+						"display_url": "pic.twitter.com/5aCLN1mwWZ",
+						"expanded_url": "https://twitter.com/merchandise/status/1122758221821882369/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 7167342,
+				"id_str": "7167342",
+				"name": "Richard Theuws",
+				"screen_name": "merchandise",
+				"location": "The Netherlands",
+				"description": "I’m fine with whatever you believe, eat, drink and fuck. Owner of a merch company, likes (loud) music, food and drinks.",
+				"url": "https://t.co/GZJRNY2Bct",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/GZJRNY2Bct",
+								"expanded_url": "https://merchandise.nl",
+								"display_url": "merchandise.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2137,
+				"friends_count": 1511,
+				"listed_count": 91,
+				"created_at": "Sat Jun 30 06:18:33 +0000 2007",
+				"favourites_count": 5625,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 35867,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "709397",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1046046425396785152/Ge2DygRF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1046046425396785152/Ge2DygRF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/7167342/1538582653",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "86A4A6",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 243,
+			"favorite_count": 1029,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Naast @SayNo2Ducks hebben we nu gelukkig ook Richard met zijn queeste tegen scholeksters. Wat een heerlijke soap! https://t.co/Pu8cbkHVwU"
+	},
+	{
 		"created_at": "Wed May 08 20:54:36 +0000 2019",
 		"id": 1126228933723263000,
 		"id_str": "1126228933723262978",
