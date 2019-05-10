@@ -1,6 +1,349 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Fri May 10 10:48:26 +0000 2019",
+		"id": 1126801162160824300,
+		"id_str": "1126801162160824320",
+		"full_text": "Zoek de verschillen tussen 1999 en nu :-) Het is goed om weer terug te zijn in het clubhuis! https://t.co/d9Hhccw7HC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d9Hhccw7HC",
+					"expanded_url": "https://twitter.com/Kaliberinteract/status/1126800717438754816",
+					"display_url": "twitter.com/Kaliberinterac…",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019). #TeamHuman",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8874,
+			"friends_count": 289,
+			"listed_count": 589,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5309,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59991,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1555103121",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1126800717438754800,
+		"quoted_status_id_str": "1126800717438754816",
+		"quoted_status_permalink": {
+			"url": "https://t.co/d9Hhccw7HC",
+			"expanded": "https://twitter.com/Kaliberinteract/status/1126800717438754816",
+			"display": "twitter.com/Kaliberinterac…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 10 10:46:40 +0000 2019",
+			"id": 1126800717438754800,
+			"id_str": "1126800717438754816",
+			"full_text": "10 year challenge? Maak daar maar gerust 20 jaar van. @frankmeeuwsen is terug! Terwijl hij naar z'n beeldscherm kijkt, droomt 'ie van arcadespellen en retrogames. Fun fact: Frank is ook auteur van het enige opensource geschiedenisboek over bloggen (https://t.co/z7dtp1wgTv). https://t.co/UaeGZOCmYG",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				274
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "frankmeeuwsen",
+						"name": "Frank Meeuwsen",
+						"id": 816203,
+						"id_str": "816203",
+						"indices": [
+							54,
+							68
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/z7dtp1wgTv",
+						"expanded_url": "http://bloghelden.nl",
+						"display_url": "bloghelden.nl",
+						"indices": [
+							249,
+							272
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1126800195793113100,
+						"id_str": "1126800195793113088",
+						"indices": [
+							275,
+							298
+						],
+						"media_url": "http://pbs.twimg.com/media/D6MyztsW0AA-Fmw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D6MyztsW0AA-Fmw.jpg",
+						"url": "https://t.co/UaeGZOCmYG",
+						"display_url": "pic.twitter.com/UaeGZOCmYG",
+						"expanded_url": "https://twitter.com/Kaliberinteract/status/1126800717438754816/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1280,
+								"h": 960,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1126800195793113100,
+						"id_str": "1126800195793113088",
+						"indices": [
+							275,
+							298
+						],
+						"media_url": "http://pbs.twimg.com/media/D6MyztsW0AA-Fmw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D6MyztsW0AA-Fmw.jpg",
+						"url": "https://t.co/UaeGZOCmYG",
+						"display_url": "pic.twitter.com/UaeGZOCmYG",
+						"expanded_url": "https://twitter.com/Kaliberinteract/status/1126800717438754816/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1280,
+								"h": 960,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1126800195809886200,
+						"id_str": "1126800195809886208",
+						"indices": [
+							275,
+							298
+						],
+						"media_url": "http://pbs.twimg.com/media/D6MyztwWwAAYbd5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D6MyztwWwAAYbd5.jpg",
+						"url": "https://t.co/UaeGZOCmYG",
+						"display_url": "pic.twitter.com/UaeGZOCmYG",
+						"expanded_url": "https://twitter.com/Kaliberinteract/status/1126800717438754816/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 511,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 962,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 902,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 10932162,
+				"id_str": "10932162",
+				"name": "Kaliber",
+				"screen_name": "Kaliberinteract",
+				"location": "Utrecht",
+				"description": "Kaliber. Digitaal bureau dat strategie, creativiteit en technologie combineert om mensen te activeren.",
+				"url": "http://t.co/0uBteIkGBt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/0uBteIkGBt",
+								"expanded_url": "http://www.kaliber.net",
+								"display_url": "kaliber.net",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2019,
+				"friends_count": 932,
+				"listed_count": 117,
+				"created_at": "Fri Dec 07 10:50:24 +0000 2007",
+				"favourites_count": 331,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3045,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E4E4E4",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1111310501491945472/XKqtXPnQ_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111310501491945472/XKqtXPnQ_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/10932162/1553791951",
+				"profile_link_color": "93A644",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Zoek de verschillen tussen 1999 en nu :-) Het is goed om weer terug te zijn in het clubhuis! https://t.co/d9Hhccw7HC"
+	},
+	{
 		"created_at": "Fri May 10 07:52:46 +0000 2019",
 		"id": 1126756951482720300,
 		"id_str": "1126756951482720256",
