@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sat May 11 06:56:00 +0000 2019",
+		"id": 1127105056636047400,
+		"id_str": "1127105056636047360",
+		"full_text": "Ik was serieus onthand toen we een tijdje geen stoel in de slaapkamer hadden. Puinhoop viel ons ten deel! Nu hebben we in elk geval weer een gestructureerde stoelpuinhoopberg. Ik haal weer opgelucht adem. https://t.co/YPYpvJEkPa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YPYpvJEkPa",
+					"expanded_url": "https://twitter.com/diederikdegroot/status/1126579301539897344",
+					"display_url": "twitter.com/diederikdegroo…",
+					"indices": [
+						205,
+						228
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019). #TeamHuman",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8872,
+			"friends_count": 289,
+			"listed_count": 589,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5314,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59931,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1555103121",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1126579301539897300,
+		"quoted_status_id_str": "1126579301539897344",
+		"quoted_status_permalink": {
+			"url": "https://t.co/YPYpvJEkPa",
+			"expanded": "https://twitter.com/diederikdegroot/status/1126579301539897344",
+			"display": "twitter.com/diederikdegroo…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 09 20:06:50 +0000 2019",
+			"id": 1126579301539897300,
+			"id_str": "1126579301539897344",
+			"full_text": "Hebben jullie ook een kledingstoel? Zo’n stoel waar je je gedragen kleren op legt terwijl ze eigenlijk in de was moeten, maar dat stel je uit tot de stoel zo vol is dat de kleren er niet meer op kunnen blijven liggen",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				216
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 139726571,
+				"id_str": "139726571",
+				"name": "Diederik de Groot",
+				"screen_name": "diederikdegroot",
+				"location": "Leiden, Netherlands",
+				"description": "Ik raak soms gevoelige snaren. Meestal bewijst dat alleen maar mijn punt. Redacteur @BNR",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2943,
+				"friends_count": 1415,
+				"listed_count": 25,
+				"created_at": "Mon May 03 13:57:25 +0000 2010",
+				"favourites_count": 14274,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 39865,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1098636165996077062/4uHRdkwj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1098636165996077062/4uHRdkwj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/139726571/1541676712",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 70,
+			"favorite_count": 1470,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Ik was serieus onthand toen we een tijdje geen stoel in de slaapkamer hadden. Puinhoop viel ons ten deel! Nu hebben we in elk geval weer een gestructureerde stoelpuinhoopberg. Ik haal weer opgelucht adem. https://t.co/YPYpvJEkPa"
+	},
+	{
 		"created_at": "Sat May 11 05:33:36 +0000 2019",
 		"id": 1127084319179182100,
 		"id_str": "1127084319179182080",
