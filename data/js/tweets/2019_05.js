@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sun May 12 15:12:59 +0000 2019",
+		"id": 1127592514565935100,
+		"id_str": "1127592514565935104",
+		"full_text": "De #utrechtmarathon vandaag was een chaotische bedoening. Niet alleen de fouten in de route, maar net zo erg was de tassenafgifte, instructies van verkeersleiders, gemis aan waterpunt door omleiding. Goede 10K gelopen. Ik stond alleen aan de andere kant van de stad... https://t.co/Nxx9YJhonj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "utrechtmarathon",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1127591902025539600,
+					"id_str": "1127591902025539584",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D6YC3FPW4AA0Cvr.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D6YC3FPW4AA0Cvr.jpg",
+					"url": "https://t.co/Nxx9YJhonj",
+					"display_url": "pic.twitter.com/Nxx9YJhonj",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1127592514565935104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1127591902025539600,
+					"id_str": "1127591902025539584",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D6YC3FPW4AA0Cvr.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D6YC3FPW4AA0Cvr.jpg",
+					"url": "https://t.co/Nxx9YJhonj",
+					"display_url": "pic.twitter.com/Nxx9YJhonj",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1127592514565935104/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D6YC3FPW4AA0Cvr.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019). #TeamHuman",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8874,
+			"friends_count": 290,
+			"listed_count": 594,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5318,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59934,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1555103121",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "De #utrechtmarathon vandaag was een chaotische bedoening. Niet alleen de fouten in de route, maar net zo erg was de tassenafgifte, instructies van verkeersleiders, gemis aan waterpunt door omleiding. Goede 10K gelopen. Ik stond alleen aan de andere kant van de stad... https://t.co/Nxx9YJhonj"
+	},
+	{
 		"created_at": "Sat May 11 21:45:53 +0000 2019",
 		"id": 1127329004091072500,
 		"id_str": "1127329004091072512",
