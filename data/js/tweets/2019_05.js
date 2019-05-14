@@ -1,6 +1,425 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Tue May 14 14:55:10 +0000 2019",
+		"id": 1128312803851415600,
+		"id_str": "1128312803851415553",
+		"full_text": "In juni loop ik mee met de Utrecht Urban Trail. Van de site:\"Tijdens het lopen kun je in het moment het besluit maken om bij de splitsing op het parcours te kiezen voor de 5 km of de 10 km.\" \n\nNa de Utrecht Marathon heb ik zo mijn bedenkingen bij die creativiteit in de route.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019). #TeamHuman",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8872,
+			"friends_count": 290,
+			"listed_count": 595,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5321,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59948,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1555103121",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "In juni loop ik mee met de Utrecht Urban Trail. Van de site:\"Tijdens het lopen kun je in het moment het besluit maken om bij de splitsing op het parcours te kiezen voor de 5 km of de 10 km.\" \n\nNa de Utrecht Marathon heb ik zo mijn bedenkingen bij die creativiteit in de route."
+	},
+	{
+		"created_at": "Tue May 14 14:51:05 +0000 2019",
+		"id": 1128311779841409000,
+		"id_str": "1128311779841409025",
+		"full_text": "@Bladendokter Zou dat paard aan het einde eigenlijk Bran zijn? https://t.co/fL5CfBZ0WV",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Bladendokter",
+					"name": "Carolien Vader",
+					"id": 21235240,
+					"id_str": "21235240",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1128311769435385900,
+					"id_str": "1128311769435385857",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D6iRk4UWsAECf1i.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D6iRk4UWsAECf1i.jpg",
+					"url": "https://t.co/fL5CfBZ0WV",
+					"display_url": "pic.twitter.com/fL5CfBZ0WV",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1128311779841409025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1128311769435385900,
+					"id_str": "1128311769435385857",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D6iRk4UWsAECf1i.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D6iRk4UWsAECf1i.jpg",
+					"url": "https://t.co/fL5CfBZ0WV",
+					"display_url": "pic.twitter.com/fL5CfBZ0WV",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1128311779841409025/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D6iRk4UWsAECf1i.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1128261244455129100,
+		"in_reply_to_status_id_str": "1128261244455129088",
+		"in_reply_to_user_id": 21235240,
+		"in_reply_to_user_id_str": "21235240",
+		"in_reply_to_screen_name": "Bladendokter",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019). #TeamHuman",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8872,
+			"friends_count": 290,
+			"listed_count": 595,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5321,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59948,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1555103121",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@Bladendokter Zou dat paard aan het einde eigenlijk Bran zijn? https://t.co/fL5CfBZ0WV"
+	},
+	{
+		"created_at": "Tue May 14 14:40:46 +0000 2019",
+		"id": 1128309181910593500,
+		"id_str": "1128309181910593536",
+		"full_text": "@elger @KirstenJassies @Nelleke Ah nice. Het is voor het pre-IndieWebCamp dinner met een internationale groep die overal in de stad verspreid zitten. Vooralsnog zie ik vooral eet-opties in Lombok, maar ik ben bang dat iedereen daar verdwaalt...",
+		"truncated": false,
+		"display_text_range": [
+			32,
+			244
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "elger",
+					"name": "Elger van der Wel",
+					"id": 14142375,
+					"id_str": "14142375",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"screen_name": "KirstenJassies",
+					"name": "Kirsten Jassies",
+					"id": 15032299,
+					"id_str": "15032299",
+					"indices": [
+						7,
+						22
+					]
+				},
+				{
+					"screen_name": "Nelleke",
+					"name": "Nelleke Poorthuis",
+					"id": 6850052,
+					"id_str": "6850052",
+					"indices": [
+						23,
+						31
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1128308272400883700,
+		"in_reply_to_status_id_str": "1128308272400883713",
+		"in_reply_to_user_id": 14142375,
+		"in_reply_to_user_id_str": "14142375",
+		"in_reply_to_screen_name": "elger",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019). #TeamHuman",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8872,
+			"friends_count": 290,
+			"listed_count": 595,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5321,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59948,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1555103121",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@elger @KirstenJassies @Nelleke Ah nice. Het is voor het pre-IndieWebCamp dinner met een internationale groep die overal in de stad verspreid zitten. Vooralsnog zie ik vooral eet-opties in Lombok, maar ik ben bang dat iedereen daar verdwaalt..."
+	},
+	{
 		"created_at": "Tue May 14 12:38:59 +0000 2019",
 		"id": 1128278535423045600,
 		"id_str": "1128278535423045632",
