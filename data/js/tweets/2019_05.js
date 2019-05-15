@@ -1,6 +1,516 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 15 09:02:03 +0000 2019",
+		"id": 1128586329166626800,
+		"id_str": "1128586329166626817",
+		"full_text": "Als ik groot ben wil ik Paul Ford worden.: https://t.co/pnm4TZYmmD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pnm4TZYmmD",
+					"expanded_url": "https://diggingthedigital.com/?p=2936",
+					"display_url": "diggingthedigital.com/?p=2936",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://brid.gy/\" rel=\"nofollow\">Bridgy</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019). #TeamHuman",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8869,
+			"friends_count": 290,
+			"listed_count": 595,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5322,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59956,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1555103121",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Als ik groot ben wil ik Paul Ford worden.: https://t.co/pnm4TZYmmD"
+	},
+	{
+		"created_at": "Wed May 15 08:23:00 +0000 2019",
+		"id": 1128576499597156400,
+		"id_str": "1128576499597156353",
+		"full_text": "check deze covers @MichaelMinneboo https://t.co/0j4JqVM761",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MichaelMinneboo",
+					"name": "Michael Minneboo",
+					"id": 16735358,
+					"id_str": "16735358",
+					"indices": [
+						18,
+						34
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0j4JqVM761",
+					"expanded_url": "https://twitter.com/BasVroegop/status/1128548157854502912",
+					"display_url": "twitter.com/BasVroegop/sta…",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019). #TeamHuman",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8869,
+			"friends_count": 290,
+			"listed_count": 595,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5322,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59956,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1555103121",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1128548157854502900,
+		"quoted_status_id_str": "1128548157854502912",
+		"quoted_status_permalink": {
+			"url": "https://t.co/0j4JqVM761",
+			"expanded": "https://twitter.com/BasVroegop/status/1128548157854502912",
+			"display": "twitter.com/BasVroegop/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 15 06:30:22 +0000 2019",
+			"id": 1128548157854502900,
+			"id_str": "1128548157854502912",
+			"full_text": "Kennelijk werden vroeger de namen van superhelden in comics naar het Nederlands vertaald. En het was geweldig. https://t.co/9LEwxCcNsd",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				110
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1128548141895233500,
+						"id_str": "1128548141895233537",
+						"indices": [
+							111,
+							134
+						],
+						"media_url": "http://pbs.twimg.com/media/D6lojkWXsAE6w4J.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D6lojkWXsAE6w4J.jpg",
+						"url": "https://t.co/9LEwxCcNsd",
+						"display_url": "pic.twitter.com/9LEwxCcNsd",
+						"expanded_url": "https://twitter.com/BasVroegop/status/1128548157854502912/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 620,
+								"h": 886,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 620,
+								"h": 886,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 476,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1128548141895233500,
+						"id_str": "1128548141895233537",
+						"indices": [
+							111,
+							134
+						],
+						"media_url": "http://pbs.twimg.com/media/D6lojkWXsAE6w4J.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D6lojkWXsAE6w4J.jpg",
+						"url": "https://t.co/9LEwxCcNsd",
+						"display_url": "pic.twitter.com/9LEwxCcNsd",
+						"expanded_url": "https://twitter.com/BasVroegop/status/1128548157854502912/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 620,
+								"h": 886,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 620,
+								"h": 886,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 476,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1128548142994067500,
+						"id_str": "1128548142994067456",
+						"indices": [
+							111,
+							134
+						],
+						"media_url": "http://pbs.twimg.com/media/D6lojocWkAA0L6X.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D6lojocWkAA0L6X.jpg",
+						"url": "https://t.co/9LEwxCcNsd",
+						"display_url": "pic.twitter.com/9LEwxCcNsd",
+						"expanded_url": "https://twitter.com/BasVroegop/status/1128548157854502912/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 800,
+								"h": 1067,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 1067,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1128548143677825000,
+						"id_str": "1128548143677825025",
+						"indices": [
+							111,
+							134
+						],
+						"media_url": "http://pbs.twimg.com/media/D6lojq_X4AEHfaE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D6lojq_X4AEHfaE.jpg",
+						"url": "https://t.co/9LEwxCcNsd",
+						"display_url": "pic.twitter.com/9LEwxCcNsd",
+						"expanded_url": "https://twitter.com/BasVroegop/status/1128548157854502912/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 347,
+								"h": 500,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 347,
+								"h": 500,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 347,
+								"h": 500,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1128548144311087100,
+						"id_str": "1128548144311087104",
+						"indices": [
+							111,
+							134
+						],
+						"media_url": "http://pbs.twimg.com/media/D6lojtWWsAAiOHR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D6lojtWWsAAiOHR.jpg",
+						"url": "https://t.co/9LEwxCcNsd",
+						"display_url": "pic.twitter.com/9LEwxCcNsd",
+						"expanded_url": "https://twitter.com/BasVroegop/status/1128548157854502912/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1262,
+								"h": 1800,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 841,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 477,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19117555,
+				"id_str": "19117555",
+				"name": "Bastiaan Vroegop",
+				"screen_name": "BasVroegop",
+				"location": "Almere",
+				"description": "Coördinator Tech @NUnl | bastiaan@nu.nl | Games bij @Laadscherm, @GamerNL, @InsideGamer_NL en @Gamebites",
+				"url": "https://t.co/57x6eweEKm",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/57x6eweEKm",
+								"expanded_url": "http://basvroegop.nl/",
+								"display_url": "basvroegop.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5189,
+				"friends_count": 1056,
+				"listed_count": 135,
+				"created_at": "Sat Jan 17 17:55:11 +0000 2009",
+				"favourites_count": 4611,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 5020,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1022831263298842624/cmKqaRAe_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1022831263298842624/cmKqaRAe_normal.jpg",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 41,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "check deze covers @MichaelMinneboo https://t.co/0j4JqVM761"
+	},
+	{
 		"created_at": "Wed May 15 08:19:57 +0000 2019",
 		"id": 1128575733004156900,
 		"id_str": "1128575733004156928",
