@@ -1,6 +1,402 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 16 19:15:39 +0000 2019",
+		"id": 1129103134800977900,
+		"id_str": "1129103134800977920",
+		"full_text": "De eerste viral voor het nieuwe seizoen Black Mirror? Ik mag het hopen... https://t.co/GrQFZmtl5G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GrQFZmtl5G",
+					"expanded_url": "https://twitter.com/JamieJBartlett/status/1128657365090361344",
+					"display_url": "twitter.com/JamieJBartlett…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019). #TeamHuman",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8869,
+			"friends_count": 290,
+			"listed_count": 595,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5325,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59966,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1555103121",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1128657365090361300,
+		"quoted_status_id_str": "1128657365090361344",
+		"quoted_status_permalink": {
+			"url": "https://t.co/GrQFZmtl5G",
+			"expanded": "https://twitter.com/JamieJBartlett/status/1128657365090361344",
+			"display": "twitter.com/JamieJBartlett…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 15 13:44:19 +0000 2019",
+			"id": 1128657365090361300,
+			"id_str": "1128657365090361344",
+			"full_text": "I can’t believe what I’m seeing! While running a facial recognition pilot, one man (understandably imho) covered himself up. The police forced him to show his face (&amp; then fined him for disorderly conduct). This is dangerous &amp; terrifying. https://t.co/QdG2VPGyfE",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				270
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1127961469444866000,
+						"id_str": "1127961469444866048",
+						"indices": [
+							247,
+							270
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1127961469444866048/pu/img/wriqBrWo6Z2h7wAr.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1127961469444866048/pu/img/wriqBrWo6Z2h7wAr.jpg",
+						"url": "https://t.co/QdG2VPGyfE",
+						"display_url": "pic.twitter.com/QdG2VPGyfE",
+						"expanded_url": "https://twitter.com/BBCClick/status/1127961872286789634/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1127961872286789600,
+						"source_status_id_str": "1127961872286789634",
+						"source_user_id": 7400702,
+						"source_user_id_str": "7400702"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1127961469444866000,
+						"id_str": "1127961469444866048",
+						"indices": [
+							247,
+							270
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1127961469444866048/pu/img/wriqBrWo6Z2h7wAr.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1127961469444866048/pu/img/wriqBrWo6Z2h7wAr.jpg",
+						"url": "https://t.co/QdG2VPGyfE",
+						"display_url": "pic.twitter.com/QdG2VPGyfE",
+						"expanded_url": "https://twitter.com/BBCClick/status/1127961872286789634/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1127961872286789600,
+						"source_status_id_str": "1127961872286789634",
+						"source_user_id": 7400702,
+						"source_user_id_str": "7400702",
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 113360,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1127961469444866048/pu/pl/c_xWmJZBEkz5Dxez.m3u8?tag=9"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1127961469444866048/pu/vid/320x320/N4lQpTnUaWZIfKMW.mp4?tag=9"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1127961469444866048/pu/vid/480x480/vsdpUuN6WSdxY9zZ.mp4?tag=9"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1127961469444866048/pu/vid/720x720/LM5eBeY4PLt-b0wM.mp4?tag=9"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 7400702,
+								"id_str": "7400702",
+								"name": "BBC Click",
+								"screen_name": "BBCClick",
+								"location": "London, England",
+								"description": "The BBC's flagship tech show. Presented by @Spenley. Tweet us or include #BBCClick in tweets. Transmission times here - http://t.co/VJ6Kjmzi4r",
+								"url": "http://t.co/i6dx2VyBlx",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "http://t.co/i6dx2VyBlx",
+												"expanded_url": "http://www.bbc.co.uk/click",
+												"display_url": "bbc.co.uk/click",
+												"indices": [
+													0,
+													22
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": [
+											{
+												"url": "http://t.co/VJ6Kjmzi4r",
+												"expanded_url": "http://bbc.in/LLZ0wK",
+												"display_url": "bbc.in/LLZ0wK",
+												"indices": [
+													120,
+													142
+												]
+											}
+										]
+									}
+								},
+								"protected": false,
+								"followers_count": 2210015,
+								"friends_count": 188,
+								"listed_count": 18377,
+								"created_at": "Wed Jul 11 12:50:01 +0000 2007",
+								"favourites_count": 17139,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": false,
+								"verified": true,
+								"statuses_count": 20677,
+								"lang": "en",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "9AE4E8",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/581429185937276929/2I8bmwS1_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/581429185937276929/2I8bmwS1_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/7400702/1480673896",
+								"profile_link_color": "0000FF",
+								"profile_sidebar_border_color": "87BC44",
+								"profile_sidebar_fill_color": "E0FF92",
+								"profile_text_color": "000000",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 142998242,
+				"id_str": "142998242",
+				"name": "Jamie Bartlett",
+				"screen_name": "JamieJBartlett",
+				"location": "London",
+				"description": "Writer: The People Vs Tech, The Dark Net & Radicals. Secrets of Silicon Valley. Technology & society at Demos. From Medway.",
+				"url": "https://t.co/gwpDqwGEYd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gwpDqwGEYd",
+								"expanded_url": "http://www.demos.co.uk",
+								"display_url": "demos.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 38277,
+				"friends_count": 876,
+				"listed_count": 894,
+				"created_at": "Wed May 12 09:05:38 +0000 2010",
+				"favourites_count": 26515,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 33877,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1115328016253636608/0iY_CM1w_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1115328016253636608/0iY_CM1w_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/142998242/1512680994",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14440,
+			"favorite_count": 20405,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "De eerste viral voor het nieuwe seizoen Black Mirror? Ik mag het hopen... https://t.co/GrQFZmtl5G"
+	},
+	{
 		"created_at": "Thu May 16 11:23:56 +0000 2019",
 		"id": 1128984424543084500,
 		"id_str": "1128984424543084544",
