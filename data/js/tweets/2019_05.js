@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sun May 19 17:52:46 +0000 2019",
+		"id": 1130169438135816200,
+		"id_str": "1130169438135816193",
+		"full_text": "Ik vind dat hier best goede punten in staan die ik gisteren over het hoofd zag bij het optreden. De regel met de Supreme hoodie is ijzersterk. https://t.co/jRgXiHmRIh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jRgXiHmRIh",
+					"expanded_url": "https://twitter.com/holymolyholymol/status/1129896196271689733",
+					"display_url": "twitter.com/holymolyholymo…",
+					"indices": [
+						143,
+						166
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. Organiseert IndieWebCamp Utrecht (18-19 mei 2019). #TeamHuman",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8871,
+			"friends_count": 291,
+			"listed_count": 595,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5333,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59956,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1555103121",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1129896196271689700,
+		"quoted_status_id_str": "1129896196271689733",
+		"quoted_status_permalink": {
+			"url": "https://t.co/jRgXiHmRIh",
+			"expanded": "https://twitter.com/holymolyholymol/status/1129896196271689733",
+			"display": "twitter.com/holymolyholymo…"
+		},
+		"quoted_status": {
+			"created_at": "Sat May 18 23:47:00 +0000 2019",
+			"id": 1129896196271689700,
+			"id_str": "1129896196271689733",
+			"full_text": "Madonna: performance met gasmaskers. Kerk en Vrijheidsbeeld in de fik, Palestijnse vlag, wake up call, etc. Twitter: “vals gezongen hahahaha”",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				141
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 720346461083418600,
+				"id_str": "720346461083418624",
+				"name": "holy moly",
+				"screen_name": "holymolyholymol",
+				"location": "Planet earth",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 510,
+				"friends_count": 1511,
+				"listed_count": 2,
+				"created_at": "Wed Apr 13 20:22:34 +0000 2016",
+				"favourites_count": 10218,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8336,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1117098819773243392/BiyOG6kl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1117098819773243392/BiyOG6kl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/720346461083418624/1555362438",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 119,
+			"favorite_count": 368,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Ik vind dat hier best goede punten in staan die ik gisteren over het hoofd zag bij het optreden. De regel met de Supreme hoodie is ijzersterk. https://t.co/jRgXiHmRIh"
+	},
+	{
 		"created_at": "Sun May 19 15:34:49 +0000 2019",
 		"id": 1130123437723275300,
 		"id_str": "1130134723949416448",
