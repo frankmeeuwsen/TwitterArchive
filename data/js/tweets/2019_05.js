@@ -1,6 +1,157 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sun May 19 15:34:49 +0000 2019",
+		"id": 1130123437723275300,
+		"id_str": "1130134723949416448",
+		"full_text": "It’s a wrap! The first #indiewebcamp in Utrecht was a lot of fun. Thank you to all participants, @frankmeeuwsen for doing the heavy lifting (I had to bail), and Johan Adriaans for providing the https://t.co/sMdzoCJFXo venue this weekend! #indieweb See… https://t.co/611lNpAZrd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "indiewebcamp",
+					"indices": [
+						23,
+						36
+					]
+				},
+				{
+					"text": "indieweb",
+					"indices": [
+						238,
+						247
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "frankmeeuwsen",
+					"name": "Frank Meeuwsen",
+					"id": 816203,
+					"id_str": "816203",
+					"indices": [
+						97,
+						111
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sMdzoCJFXo",
+					"expanded_url": "http://shoppagina.nl",
+					"display_url": "shoppagina.nl",
+					"indices": [
+						194,
+						217
+					]
+				},
+				{
+					"url": "https://t.co/611lNpAZrd",
+					"expanded_url": "https://www.zylstra.org/blog/2019/05/7004/",
+					"display_url": "zylstra.org/blog/2019/05/7…",
+					"indices": [
+						253,
+						276
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://brid.gy/\" rel=\"nofollow\">Bridgy</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 25049203,
+			"id_str": "25049203",
+			"name": "Ton Zijlstra",
+			"screen_name": "ton_zylstra",
+			"location": "The Netherlands",
+			"description": "https://t.co/llwPkFZf36\n\nChange, complexity, #opendata, #opengov, FabLab, Making, #IoT, learning, communities of practice, philosophy of technology. .eu",
+			"url": "https://t.co/mxPIeEaDtM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mxPIeEaDtM",
+							"expanded_url": "https://www.zylstra.org/blog",
+							"display_url": "zylstra.org/blog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/llwPkFZf36",
+							"expanded_url": "https://m.tzyl.nl/@ton",
+							"display_url": "m.tzyl.nl/@ton",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1556,
+			"friends_count": 446,
+			"listed_count": 194,
+			"created_at": "Wed Mar 18 09:24:58 +0000 2009",
+			"favourites_count": 203,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4689,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/659398307081379840/pyAVq5hk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/659398307081379840/pyAVq5hk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/25049203/1446047749",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It’s a wrap! The first #indiewebcamp in Utrecht was a lot of fun. Thank you to all participants, @frankmeeuwsen for doing the heavy lifting (I had to bail), and Johan Adriaans for providing the https://t.co/sMdzoCJFXo venue this weekend! #indieweb See… https://t.co/611lNpAZrd"
+	},
+	{
 		"created_at": "Sun May 19 10:57:17 +0000 2019",
 		"id": 1114019527220781000,
 		"id_str": "1130064880105656323",
