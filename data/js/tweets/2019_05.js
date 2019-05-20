@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Mon May 20 05:29:36 +0000 2019",
+		"id": 1130258512112566300,
+		"id_str": "1130344803600883712",
+		"full_text": "Configuring GSuite on a new domain and realizing that a lot of the admin pages don't work in Firefox. I'm sure it's unintentional, but because Google owns Chrome, this stuff shouldn't be allowed to slide. Exactly the same as Microsoft in the nineties.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			251
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 783092,
+			"id_str": "783092",
+			"name": "Ben Werdmuller",
+			"screen_name": "benwerd",
+			"location": "San Francisco Bay Area",
+			"description": "I work at the intersection of tech, media, and democracy on mission-driven technology ventures. Formerly @mattervc - currently @unlockprotocol. He / him.",
+			"url": "https://t.co/sR4aiZTVfu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sR4aiZTVfu",
+							"expanded_url": "https://werd.io/",
+							"display_url": "werd.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6965,
+			"friends_count": 4971,
+			"listed_count": 456,
+			"created_at": "Tue Feb 20 13:34:20 +0000 2007",
+			"favourites_count": 24450,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 48136,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1040632277770788864/RTIe8ulD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1040632277770788864/RTIe8ulD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/783092/1440331990",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "D4E6F1",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Configuring GSuite on a new domain and realizing that a lot of the admin pages don't work in Firefox. I'm sure it's unintentional, but because Google owns Chrome, this stuff shouldn't be allowed to slide. Exactly the same as Microsoft in the nineties."
+	},
+	{
 		"created_at": "Sun May 19 17:52:46 +0000 2019",
 		"id": 1130169438135816200,
 		"id_str": "1130169438135816193",
