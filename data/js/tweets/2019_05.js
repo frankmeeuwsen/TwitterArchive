@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 22 20:11:19 +0000 2019",
+		"id": 1131270306386071600,
+		"id_str": "1131291470248501249",
+		"full_text": "Ik zal echt nooit meer om iets vragen als dit trio volgend jaar het Songfestival presenteert. https://t.co/A34KkNGqXX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1131270231056355300,
+					"id_str": "1131270231056355328",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/D7MUSAsWkAAjmW_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7MUSAsWkAAjmW_.jpg",
+					"url": "https://t.co/A34KkNGqXX",
+					"display_url": "pic.twitter.com/A34KkNGqXX",
+					"expanded_url": "https://twitter.com/ruygrocks/status/1131270306386071555/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1131270231056355300,
+					"id_str": "1131270231056355328",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/D7MUSAsWkAAjmW_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7MUSAsWkAAjmW_.jpg",
+					"url": "https://t.co/A34KkNGqXX",
+					"display_url": "pic.twitter.com/A34KkNGqXX",
+					"expanded_url": "https://twitter.com/ruygrocks/status/1131270306386071555/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 26370394,
+			"id_str": "26370394",
+			"name": "Marjolijn Ruygrok",
+			"screen_name": "ruygrocks",
+			"location": "Op eenzame hoogte",
+			"description": "(Eind)redacteur. Beschikbaar voor freelance schrijfklus. Volgen staat vrij, maar wel op gepaste afstand.",
+			"url": "https://t.co/Rw4F1I6UwY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Rw4F1I6UwY",
+							"expanded_url": "http://www.linkedin.com/in/marjolijnruygrok/",
+							"display_url": "linkedin.com/in/marjolijnru…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8680,
+			"friends_count": 92,
+			"listed_count": 37,
+			"created_at": "Wed Mar 25 00:19:59 +0000 2009",
+			"favourites_count": 12920,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29074,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1080405218343440384/z5-ymXHv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080405218343440384/z5-ymXHv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/26370394/1534537534",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 219,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Ik zal echt nooit meer om iets vragen als dit trio volgend jaar het Songfestival presenteert. https://t.co/A34KkNGqXX"
+	},
+	{
 		"created_at": "Wed May 22 19:14:07 +0000 2019",
 		"id": 1131277076642828300,
 		"id_str": "1131277076642828288",
