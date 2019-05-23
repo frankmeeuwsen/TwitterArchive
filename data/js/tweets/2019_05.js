@@ -1,6 +1,355 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 23 05:41:52 +0000 2019",
+		"id": 1130997093257105400,
+		"id_str": "1131435052699660289",
+		"full_text": "🤷🏼‍♀️ https://t.co/Sbmeedgkhp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			5
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Sbmeedgkhp",
+					"expanded_url": "https://twitter.com/extratv/status/1130850742158290944",
+					"display_url": "twitter.com/extratv/status…",
+					"indices": [
+						6,
+						29
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35369214,
+			"id_str": "35369214",
+			"name": "Gwendoline Christie",
+			"screen_name": "lovegwendoline",
+			"location": "London",
+			"description": "NEW PUBLIC INSTAGRAM ALERT HERE 👇",
+			"url": "https://t.co/gzMeZQlIeK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gzMeZQlIeK",
+							"expanded_url": "http://Instagram.com/gwendolineuniverse",
+							"display_url": "Instagram.com/gwendolineuniv…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 982239,
+			"friends_count": 1502,
+			"listed_count": 3046,
+			"created_at": "Sun Apr 26 01:47:40 +0000 2009",
+			"favourites_count": 18669,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5712,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1620932499/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1620932499/image_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35369214/1554655991",
+			"profile_link_color": "CC3300",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F7DA93",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1130850742158291000,
+		"quoted_status_id_str": "1130850742158290944",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Sbmeedgkhp",
+			"expanded": "https://twitter.com/extratv/status/1130850742158290944",
+			"display": "twitter.com/extratv/status…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 21 15:00:01 +0000 2019",
+			"id": 1130850742158291000,
+			"id_str": "1130850742158290944",
+			"full_text": "SHOOK! Watch @lovegwendoline predict the #GameOfThrones winner years before the finale: https://t.co/kf8X2KYgH8 https://t.co/2Y4KdrMBDl",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				111
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GameOfThrones",
+						"indices": [
+							41,
+							55
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "lovegwendoline",
+						"name": "Gwendoline Christie",
+						"id": 35369214,
+						"id_str": "35369214",
+						"indices": [
+							13,
+							28
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/kf8X2KYgH8",
+						"expanded_url": "http://bit.ly/2w9CMhl",
+						"display_url": "bit.ly/2w9CMhl",
+						"indices": [
+							88,
+							111
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1130635564154179600,
+						"id_str": "1130635564154179584",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/media/D7DTxDzUIAEVo_Y.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D7DTxDzUIAEVo_Y.jpg",
+						"url": "https://t.co/2Y4KdrMBDl",
+						"display_url": "pic.twitter.com/2Y4KdrMBDl",
+						"expanded_url": "https://twitter.com/extratv/status/1130850742158290944/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1130635564154179600,
+						"id_str": "1130635564154179584",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/media/D7DTxDzUIAEVo_Y.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D7DTxDzUIAEVo_Y.jpg",
+						"url": "https://t.co/2Y4KdrMBDl",
+						"display_url": "pic.twitter.com/2Y4KdrMBDl",
+						"expanded_url": "https://twitter.com/extratv/status/1130850742158290944/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 68702,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1130635564154179584/vid/640x360/z3A08MFgVGulzg3N.mp4?tag=12"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1130635564154179584/vid/320x180/puD0tOcwqGjo6PUg.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1130635564154179584/pl/TaGuiwVvBkRJPjIG.m3u8?tag=12"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1130635564154179584/vid/960x540/MPCsnTJ9NL1lvxKl.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": true
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15676578,
+				"id_str": "15676578",
+				"name": "ExtraTV",
+				"screen_name": "extratv",
+				"location": "Los Angeles",
+				"description": "Coast to Coast with #ExtraTV! Entertainment news, exclusive stories, giveaways and more! **Snapchat: extratv**",
+				"url": "https://t.co/aKGGmi94O2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/aKGGmi94O2",
+								"expanded_url": "http://www.extratv.com",
+								"display_url": "extratv.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 307882,
+				"friends_count": 29799,
+				"listed_count": 3058,
+				"created_at": "Thu Jul 31 16:14:25 +0000 2008",
+				"favourites_count": 29315,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 80570,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/772836604041830400/PI94WG59_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/772836604041830400/PI94WG59_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15676578/1550177043",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12024,
+			"favorite_count": 64298,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 30413,
+		"favorite_count": 174541,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "🤷🏼‍♀️ https://t.co/Sbmeedgkhp"
+	},
+	{
 		"created_at": "Wed May 22 20:11:19 +0000 2019",
 		"id": 1131270306386071600,
 		"id_str": "1131291470248501249",
