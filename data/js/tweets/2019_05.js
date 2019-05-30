@@ -1,6 +1,433 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 30 22:00:15 +0000 2019",
+		"id": 1134215537268072400,
+		"id_str": "1134217988905852930",
+		"full_text": "Facebook: “the future is private.”\n\nAlso Facebook: “there is no privacy.”\n\n#doublethink #SurveillanceCapitalism https://t.co/wYklbkkkPO https://t.co/obIQZ3RQsC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "doublethink",
+					"indices": [
+						75,
+						87
+					]
+				},
+				{
+					"text": "SurveillanceCapitalism",
+					"indices": [
+						88,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wYklbkkkPO",
+					"expanded_url": "https://twitter.com/linamkhan/status/1134155195494129670",
+					"display_url": "twitter.com/linamkhan/stat…",
+					"indices": [
+						112,
+						135
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1134215531572138000,
+					"id_str": "1134215531572137984",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/D72LBEIWkAAKcBU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D72LBEIWkAAKcBU.jpg",
+					"url": "https://t.co/obIQZ3RQsC",
+					"display_url": "pic.twitter.com/obIQZ3RQsC",
+					"expanded_url": "https://twitter.com/aral/status/1134215537268072449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1136,
+							"h": 756,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1136,
+							"h": 756,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1134215531572138000,
+					"id_str": "1134215531572137984",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/D72LBEIWkAAKcBU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D72LBEIWkAAKcBU.jpg",
+					"url": "https://t.co/obIQZ3RQsC",
+					"display_url": "pic.twitter.com/obIQZ3RQsC",
+					"expanded_url": "https://twitter.com/aral/status/1134215537268072449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1136,
+							"h": 756,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1136,
+							"h": 756,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 48903,
+			"id_str": "48903",
+			"name": "Aral Balkan (@aral@mastodon.ar.al)",
+			"screen_name": "aral",
+			"location": "Terra firma",
+			"description": "I mainly post on my blog at https://t.co/MH5qjWg2mi (RSS: https://t.co/uoejQfZwcW) and interact on my Mastodon https://t.co/P7hooxbo4i. Please follow me there.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/MH5qjWg2mi",
+							"expanded_url": "https://ar.al",
+							"display_url": "ar.al",
+							"indices": [
+								28,
+								51
+							]
+						},
+						{
+							"url": "https://t.co/uoejQfZwcW",
+							"expanded_url": "https://ar.al/index.xml",
+							"display_url": "ar.al/index.xml",
+							"indices": [
+								58,
+								81
+							]
+						},
+						{
+							"url": "https://t.co/P7hooxbo4i",
+							"expanded_url": "https://mastodon.ar.al",
+							"display_url": "mastodon.ar.al",
+							"indices": [
+								111,
+								134
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 42971,
+			"friends_count": 20362,
+			"listed_count": 2666,
+			"created_at": "Thu Dec 07 19:55:38 +0000 2006",
+			"favourites_count": 115054,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 148681,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "AAAAAA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1133297255996436482/OK5HBOL5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1133297255996436482/OK5HBOL5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/48903/1503223813",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1134155195494129700,
+		"quoted_status_id_str": "1134155195494129670",
+		"quoted_status_permalink": {
+			"url": "https://t.co/wYklbkkkPO",
+			"expanded": "https://twitter.com/linamkhan/status/1134155195494129670",
+			"display": "twitter.com/linamkhan/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 30 17:50:44 +0000 2019",
+			"id": 1134155195494129700,
+			"id_str": "1134155195494129670",
+			"full_text": "In response to a class action claiming the Cambridge Analytica breach violated users' privacy rights, Facebook is arguing that there is \"no expectation of privacy\" on Facebook. “There is no invasion of privacy at all, because there is no privacy.” https://t.co/vdu9zfpgBQ https://t.co/7vbtalzE3Q",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				271
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/vdu9zfpgBQ",
+						"expanded_url": "https://www.law360.com/articles/1164091",
+						"display_url": "law360.com/articles/11640…",
+						"indices": [
+							248,
+							271
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1134146980949741600,
+						"id_str": "1134146980949741568",
+						"indices": [
+							272,
+							295
+						],
+						"media_url": "http://pbs.twimg.com/media/D71Mq5KXUAAwJAQ.png",
+						"media_url_https": "https://pbs.twimg.com/media/D71Mq5KXUAAwJAQ.png",
+						"url": "https://t.co/7vbtalzE3Q",
+						"display_url": "pic.twitter.com/7vbtalzE3Q",
+						"expanded_url": "https://twitter.com/linamkhan/status/1134155195494129670/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 667,
+								"h": 324,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 667,
+								"h": 324,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 667,
+								"h": 324,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1134146980949741600,
+						"id_str": "1134146980949741568",
+						"indices": [
+							272,
+							295
+						],
+						"media_url": "http://pbs.twimg.com/media/D71Mq5KXUAAwJAQ.png",
+						"media_url_https": "https://pbs.twimg.com/media/D71Mq5KXUAAwJAQ.png",
+						"url": "https://t.co/7vbtalzE3Q",
+						"display_url": "pic.twitter.com/7vbtalzE3Q",
+						"expanded_url": "https://twitter.com/linamkhan/status/1134155195494129670/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 667,
+								"h": 324,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 667,
+								"h": 324,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 667,
+								"h": 324,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1134146997131391000,
+						"id_str": "1134146997131390977",
+						"indices": [
+							272,
+							295
+						],
+						"media_url": "http://pbs.twimg.com/media/D71Mr1cXsAEr87E.png",
+						"media_url_https": "https://pbs.twimg.com/media/D71Mr1cXsAEr87E.png",
+						"url": "https://t.co/7vbtalzE3Q",
+						"display_url": "pic.twitter.com/7vbtalzE3Q",
+						"expanded_url": "https://twitter.com/linamkhan/status/1134155195494129670/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 660,
+								"h": 354,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 660,
+								"h": 354,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 660,
+								"h": 354,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 255481647,
+				"id_str": "255481647",
+				"name": "Lina Khan",
+				"screen_name": "linamkhan",
+				"location": "",
+				"description": "I research and write on antitrust and competition policy.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 18214,
+				"friends_count": 1256,
+				"listed_count": 347,
+				"created_at": "Mon Feb 21 13:13:28 +0000 2011",
+				"favourites_count": 1974,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3825,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "034157",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/759238524931629057/gO5SVDrJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/759238524931629057/gO5SVDrJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/255481647/1449365283",
+				"profile_link_color": "0D91A8",
+				"profile_sidebar_border_color": "AD3B25",
+				"profile_sidebar_fill_color": "89C4BD",
+				"profile_text_color": "2B2A2B",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 135,
+			"favorite_count": 162,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Facebook: “the future is private.”\n\nAlso Facebook: “there is no privacy.”\n\n#doublethink #SurveillanceCapitalism https://t.co/wYklbkkkPO https://t.co/obIQZ3RQsC"
+	},
+	{
 		"created_at": "Thu May 30 21:15:55 +0000 2019",
 		"id": 1134206831902036000,
 		"id_str": "1134206831902035968",
