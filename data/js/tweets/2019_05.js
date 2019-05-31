@@ -1,6 +1,280 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Fri May 31 06:02:55 +0000 2019",
+		"id": 1134339454695542800,
+		"id_str": "1134339454695542792",
+		"full_text": "Volgens mij is het heel simpel: Doe geen zaken met een platform dat genocide ondersteunt. @elger @jaapvanzessen @PeterMinkjan @franknewsNL  \n\nhttps://t.co/cH3g0WcZpG (kom d’r maar in met de ja-maar-jij-dan argumenten)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			217
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "elger",
+					"name": "Elger van der Wel",
+					"id": 14142375,
+					"id_str": "14142375",
+					"indices": [
+						90,
+						96
+					]
+				},
+				{
+					"screen_name": "jaapvanzessen",
+					"name": "Jaap van Zessen",
+					"id": 60023132,
+					"id_str": "60023132",
+					"indices": [
+						97,
+						111
+					]
+				},
+				{
+					"screen_name": "PeterMinkjan",
+					"name": "Peter Minkjan",
+					"id": 151503895,
+					"id_str": "151503895",
+					"indices": [
+						112,
+						125
+					]
+				},
+				{
+					"screen_name": "franknewsNL",
+					"name": "frank.news",
+					"id": 3954775071,
+					"id_str": "3954775071",
+					"indices": [
+						126,
+						138
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cH3g0WcZpG",
+					"expanded_url": "https://www.frank.news/article/media/uitgevers-hou-facebook-nog-maar-even-te-vriend.html",
+					"display_url": "frank.news/article/media/…",
+					"indices": [
+						142,
+						165
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8868,
+			"friends_count": 251,
+			"listed_count": 589,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5351,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59932,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1555103121",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Volgens mij is het heel simpel: Doe geen zaken met een platform dat genocide ondersteunt. @elger @jaapvanzessen @PeterMinkjan @franknewsNL  \n\nhttps://t.co/cH3g0WcZpG (kom d’r maar in met de ja-maar-jij-dan argumenten)"
+	},
+	{
+		"created_at": "Fri May 31 05:54:23 +0000 2019",
+		"id": 1134337308537294800,
+		"id_str": "1134337308537294854",
+		"full_text": "Gisteren was ik te gast bij @draadloos en @davidlinssen voor hun podcast De Glitch Show. Dat werd een prima gesprek over internet-enthousiasme, indieweb en de rol van designers. Volgende week te luisteren! https://t.co/Kql7D6lS2F",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			229
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "draadloos",
+					"name": "Laurens de Knijff",
+					"id": 3771051,
+					"id_str": "3771051",
+					"indices": [
+						28,
+						38
+					]
+				},
+				{
+					"screen_name": "davidlinssen",
+					"name": "David Linssen",
+					"id": 14301369,
+					"id_str": "14301369",
+					"indices": [
+						42,
+						55
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Kql7D6lS2F",
+					"expanded_url": "https://diggingthedigital.com/te-gast-bij-glitch-show/",
+					"display_url": "diggingthedigital.com/te-gast-bij-gl…",
+					"indices": [
+						206,
+						229
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8868,
+			"friends_count": 251,
+			"listed_count": 589,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5351,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59932,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1555103121",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Gisteren was ik te gast bij @draadloos en @davidlinssen voor hun podcast De Glitch Show. Dat werd een prima gesprek over internet-enthousiasme, indieweb en de rol van designers. Volgende week te luisteren! https://t.co/Kql7D6lS2F"
+	},
+	{
 		"created_at": "Thu May 30 22:00:15 +0000 2019",
 		"id": 1134215537268072400,
 		"id_str": "1134217988905852930",
