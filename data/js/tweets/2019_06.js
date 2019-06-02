@@ -1,6 +1,321 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sun Jun 02 21:47:30 +0000 2019",
+		"id": 1135301939934244900,
+		"id_str": "1135301939934244864",
+		"full_text": "Mist TikTok, Snapchat, Mastodon, Peach, Path, https://t.co/oy5hzRW3rS, Diaspora, https://t.co/9Z2OL1yykl en Hyves. Prutsers. \n/cc @boerdeboer https://t.co/mZF0PlS3ri",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "boerdeboer",
+					"name": "boerdeboer -",
+					"id": 11798112,
+					"id_str": "11798112",
+					"indices": [
+						130,
+						141
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/oy5hzRW3rS",
+					"expanded_url": "http://App.net",
+					"display_url": "App.net",
+					"indices": [
+						46,
+						69
+					]
+				},
+				{
+					"url": "https://t.co/9Z2OL1yykl",
+					"expanded_url": "http://Tilde.town",
+					"display_url": "Tilde.town",
+					"indices": [
+						81,
+						104
+					]
+				},
+				{
+					"url": "https://t.co/mZF0PlS3ri",
+					"expanded_url": "https://twitter.com/gsiskind/status/1134609398368743425",
+					"display_url": "twitter.com/gsiskind/statu…",
+					"indices": [
+						142,
+						165
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8867,
+			"friends_count": 256,
+			"listed_count": 589,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5358,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59951,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1555103121",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1134609398368743400,
+		"quoted_status_id_str": "1134609398368743425",
+		"quoted_status_permalink": {
+			"url": "https://t.co/mZF0PlS3ri",
+			"expanded": "https://twitter.com/gsiskind/status/1134609398368743425",
+			"display": "twitter.com/gsiskind/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 31 23:55:35 +0000 2019",
+			"id": 1134609398368743400,
+			"id_str": "1134609398368743425",
+			"full_text": "If any journalists need a screenshot of the new visa question, please use this one as I took it myself versus the one I posted which was passed to me by a colleague and I'm not sure of the origin. This one actually shows more detail anyway. https://t.co/iDZvk3LIOv",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				240
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1134609390898745300,
+						"id_str": "1134609390898745344",
+						"indices": [
+							241,
+							264
+						],
+						"media_url": "http://pbs.twimg.com/media/D77xOsdXkAAh8Sl.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D77xOsdXkAAh8Sl.jpg",
+						"url": "https://t.co/iDZvk3LIOv",
+						"display_url": "pic.twitter.com/iDZvk3LIOv",
+						"expanded_url": "https://twitter.com/gsiskind/status/1134609398368743425/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1122,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 636,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1144,
+								"h": 1224,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1134609390898745300,
+						"id_str": "1134609390898745344",
+						"indices": [
+							241,
+							264
+						],
+						"media_url": "http://pbs.twimg.com/media/D77xOsdXkAAh8Sl.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D77xOsdXkAAh8Sl.jpg",
+						"url": "https://t.co/iDZvk3LIOv",
+						"display_url": "pic.twitter.com/iDZvk3LIOv",
+						"expanded_url": "https://twitter.com/gsiskind/status/1134609398368743425/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1122,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 636,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1144,
+								"h": 1224,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14933101,
+				"id_str": "14933101",
+				"name": "(((Greg Siskind)))",
+				"screen_name": "gsiskind",
+				"location": "Memphis, TN",
+				"description": "Immigration lawyer & 1st with web site; 1st lawyer blogger; author of several books on immigration law. ABC News Top 20 people to follow for immigration news.",
+				"url": "https://t.co/VImwpj144V",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/VImwpj144V",
+								"expanded_url": "http://www.visalaw.com/about-visalaw/our-team-1/attorneys/gregory-siskind/",
+								"display_url": "visalaw.com/about-visalaw/…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 17040,
+				"friends_count": 871,
+				"listed_count": 328,
+				"created_at": "Wed May 28 12:34:03 +0000 2008",
+				"favourites_count": 33228,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 32393,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3541271050/b7f8efbf14e0cc5a5940bbf698f20772_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3541271050/b7f8efbf14e0cc5a5940bbf698f20772_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14933101/1399011841",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 786,
+			"favorite_count": 1002,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "cy",
+		"text": "Mist TikTok, Snapchat, Mastodon, Peach, Path, https://t.co/oy5hzRW3rS, Diaspora, https://t.co/9Z2OL1yykl en Hyves. Prutsers. \n/cc @boerdeboer https://t.co/mZF0PlS3ri"
+	},
+	{
 		"created_at": "Sun Jun 02 17:35:35 +0000 2019",
 		"id": 1135238545403252700,
 		"id_str": "1135238545403252736",
