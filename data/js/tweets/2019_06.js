@@ -1,6 +1,114 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Mon Jun 03 06:01:32 +0000 2019",
+		"id": 1135327809772163100,
+		"id_str": "1135426271280861184",
+		"full_text": "Bill &amp; Ted Day is a week from today, dude. Who's with us? https://t.co/cDnwsW6gxf\n\n#BillandTed #BillandTedDay",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BillandTed",
+					"indices": [
+						87,
+						98
+					]
+				},
+				{
+					"text": "BillandTedDay",
+					"indices": [
+						99,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cDnwsW6gxf",
+					"expanded_url": "https://www.facebook.com/events/2245811732313030/",
+					"display_url": "facebook.com/events/2245811…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 284929130,
+			"id_str": "284929130",
+			"name": "Bill & Ted 3",
+			"screen_name": "BillandTed3",
+			"location": "San Dimas, California",
+			"description": "Yes way, dude! Excellence returns on 8.21.20 🎸⚡️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 69554,
+			"friends_count": 18,
+			"listed_count": 152,
+			"created_at": "Wed Apr 20 06:42:55 +0000 2011",
+			"favourites_count": 398,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 433,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093278402692431873/A2Q4F06C_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093278402692431873/A2Q4F06C_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/284929130/1486162290",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 231,
+		"favorite_count": 1534,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Bill &amp; Ted Day is a week from today, dude. Who's with us? https://t.co/cDnwsW6gxf\n\n#BillandTed #BillandTedDay"
+	},
+	{
 		"created_at": "Sun Jun 02 21:47:30 +0000 2019",
 		"id": 1135301939934244900,
 		"id_str": "1135301939934244864",
