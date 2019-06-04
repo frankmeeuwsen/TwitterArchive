@@ -1,6 +1,114 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Tue Jun 04 06:36:36 +0000 2019",
+		"id": 1135650759423533000,
+		"id_str": "1135797480933789696",
+		"full_text": "On Sunday, there will be public Bill &amp; Ted Day events happening in the Netherlands, multiple locations in the UK, the US and as always, online. To view the events or to submit one that you're hosting, take a look here, dude: https://t.co/B6fssFeIjE\n\n#BillandTed #BillandTedDay",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BillandTed",
+					"indices": [
+						254,
+						265
+					]
+				},
+				{
+					"text": "BillandTedDay",
+					"indices": [
+						266,
+						280
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/B6fssFeIjE",
+					"expanded_url": "http://BillandTed3.com/BillandTedDay",
+					"display_url": "BillandTed3.com/BillandTedDay",
+					"indices": [
+						229,
+						252
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 284929130,
+			"id_str": "284929130",
+			"name": "Bill & Ted 3",
+			"screen_name": "BillandTed3",
+			"location": "San Dimas, California",
+			"description": "Yes way, dude! Excellence returns on 8.21.20 🎸⚡️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 69651,
+			"friends_count": 18,
+			"listed_count": 152,
+			"created_at": "Wed Apr 20 06:42:55 +0000 2011",
+			"favourites_count": 399,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 435,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093278402692431873/A2Q4F06C_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093278402692431873/A2Q4F06C_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/284929130/1486162290",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 311,
+		"favorite_count": 1506,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "On Sunday, there will be public Bill &amp; Ted Day events happening in the Netherlands, multiple locations in the UK, the US and as always, online. To view the events or to submit one that you're hosting, take a look here, dude: https://t.co/B6fssFeIjE\n\n#BillandTed #BillandTedDay"
+	},
+	{
 		"created_at": "Mon Jun 03 20:53:22 +0000 2019",
 		"id": 1135650707791646700,
 		"id_str": "1135650707791646722",
