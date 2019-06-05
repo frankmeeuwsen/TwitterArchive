@@ -1,6 +1,255 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Wed Jun 05 05:08:53 +0000 2019",
+		"id": 1136137794387095600,
+		"id_str": "1136137794387095552",
+		"full_text": "Meer achtergrond en meningen in de thread @KeesRomkes @boerdeboer https://t.co/m7HzvglSUN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KeesRomkes",
+					"name": "Kees",
+					"id": 7842092,
+					"id_str": "7842092",
+					"indices": [
+						42,
+						53
+					]
+				},
+				{
+					"screen_name": "boerdeboer",
+					"name": "boerdeboer -",
+					"id": 11798112,
+					"id_str": "11798112",
+					"indices": [
+						54,
+						65
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/m7HzvglSUN",
+					"expanded_url": "https://twitter.com/ow/status/1135934594652545024",
+					"display_url": "twitter.com/ow/status/1135…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8865,
+			"friends_count": 255,
+			"listed_count": 589,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5366,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59964,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1555103121",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1135934594652545000,
+		"quoted_status_id_str": "1135934594652545024",
+		"quoted_status_permalink": {
+			"url": "https://t.co/m7HzvglSUN",
+			"expanded": "https://twitter.com/ow/status/1135934594652545024",
+			"display": "twitter.com/ow/status/1135…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jun 04 15:41:26 +0000 2019",
+			"id": 1135934594652545000,
+			"id_str": "1135934594652545024",
+			"full_text": "I wrote about how Apple sign-in makes me feel uneasy—even though the idea is great. \n\nApple should not be forcing developers to adopt this under the guise of privacy; we'd be outraged if it were any other company. https://t.co/Vz6efIwM2e",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				237
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Vz6efIwM2e",
+						"expanded_url": "https://char.gd/blog/2019/apple-wants-to-kill-the-ad-industry",
+						"display_url": "char.gd/blog/2019/appl…",
+						"indices": [
+							214,
+							237
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14767730,
+				"id_str": "14767730",
+				"name": "Owen Williams ⚡",
+				"screen_name": "ow",
+				"location": "Amsterdam, The Netherlands",
+				"description": "self-employed writer/coder, trying to make tech friendlier with words. medium columnist for OneZero. try my daily catchup for tech: https://t.co/CPN7TjUDuF",
+				"url": "https://t.co/kvDXilK0dt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kvDXilK0dt",
+								"expanded_url": "http://owenwillia.ms",
+								"display_url": "owenwillia.ms",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/CPN7TjUDuF",
+								"expanded_url": "http://char.gd/recharged",
+								"display_url": "char.gd/recharged",
+								"indices": [
+									132,
+									155
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 36990,
+				"friends_count": 1732,
+				"listed_count": 1412,
+				"created_at": "Wed May 14 01:48:28 +0000 2008",
+				"favourites_count": 84591,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 29325,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "49717A",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1048773946961776641/mDCGMiQO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1048773946961776641/mDCGMiQO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14767730/1519022539",
+				"profile_link_color": "4C96A2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E1C9AC",
+				"profile_text_color": "A3BFAE",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 26,
+			"favorite_count": 84,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Meer achtergrond en meningen in de thread @KeesRomkes @boerdeboer https://t.co/m7HzvglSUN"
+	},
+	{
 		"created_at": "Tue Jun 04 21:06:53 +0000 2019",
 		"id": 1136016496579231700,
 		"id_str": "1136016496579231744",
