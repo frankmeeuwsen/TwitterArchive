@@ -1,6 +1,198 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Thu Jun 06 15:18:15 +0000 2019",
+		"id": 1136640716229238800,
+		"id_str": "1136653533401538565",
+		"full_text": "Pearl Jam-liefhebbers opgelet! Vanavond om 21:10 uur de documentaire 'Twenty', die regisseur Cameron Crowe maakte ter ere van het twintigjarig bestaan van de band. En als kers op de taart morgenavond om 23:00 uur hoogtepunten uit optredens van Pearl Jam op het festival. #kijktips https://t.co/j9GpAFX9iR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "kijktips",
+					"indices": [
+						271,
+						280
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1136640711548428300,
+					"id_str": "1136640711548428288",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/D8YotHkXYAAn9JY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8YotHkXYAAn9JY.jpg",
+					"url": "https://t.co/j9GpAFX9iR",
+					"display_url": "pic.twitter.com/j9GpAFX9iR",
+					"expanded_url": "https://twitter.com/NPO2extra/status/1136640716229238784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 763,
+							"h": 429,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 763,
+							"h": 429,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1136640711548428300,
+					"id_str": "1136640711548428288",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/D8YotHkXYAAn9JY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8YotHkXYAAn9JY.jpg",
+					"url": "https://t.co/j9GpAFX9iR",
+					"display_url": "pic.twitter.com/j9GpAFX9iR",
+					"expanded_url": "https://twitter.com/NPO2extra/status/1136640716229238784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 763,
+							"h": 429,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 763,
+							"h": 429,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19716506,
+			"id_str": "19716506",
+			"name": "NPO 2 extra",
+			"screen_name": "NPO2extra",
+			"location": "Hilversum",
+			"description": "Hét kanaal voor Kunst | Cultuur | Documentaires | Film | Klassiek | Pop | Jazz | Literatuur | Theater | Dans | non-stop op digitale tv en https://t.co/qYlj92g5ws",
+			"url": "https://t.co/rw41IuOC7M",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rw41IuOC7M",
+							"expanded_url": "https://www.npostart.nl/live/npo-2-extra",
+							"display_url": "npostart.nl/live/npo-2-ext…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/qYlj92g5ws",
+							"expanded_url": "http://NPO.nl",
+							"display_url": "NPO.nl",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 70464,
+			"friends_count": 5787,
+			"listed_count": 523,
+			"created_at": "Thu Jan 29 15:50:48 +0000 2009",
+			"favourites_count": 826,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12452,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FCF9F9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/976846921435435008/UZ6mHOGx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/976846921435435008/UZ6mHOGx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19716506/1521825576",
+			"profile_link_color": "029CDE",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDDDDD",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Pearl Jam-liefhebbers opgelet! Vanavond om 21:10 uur de documentaire 'Twenty', die regisseur Cameron Crowe maakte ter ere van het twintigjarig bestaan van de band. En als kers op de taart morgenavond om 23:00 uur hoogtepunten uit optredens van Pearl Jam op het festival. #kijktips https://t.co/j9GpAFX9iR"
+	},
+	{
 		"created_at": "Thu Jun 06 13:22:17 +0000 2019",
 		"id": 1136624353339224000,
 		"id_str": "1136624353339224064",
