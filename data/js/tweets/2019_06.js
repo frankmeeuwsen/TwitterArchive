@@ -1,6 +1,540 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sun Jun 09 20:40:13 +0000 2019",
+		"id": 1137821722701434900,
+		"id_str": "1137821722701434881",
+		"full_text": "Pretty awesome. Keanu Reeves is terug. Weer. https://t.co/86KcFzeyJd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/86KcFzeyJd",
+					"expanded_url": "https://twitter.com/nerdist/status/1137819102548938753",
+					"display_url": "twitter.com/nerdist/status…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8862,
+			"friends_count": 253,
+			"listed_count": 589,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5373,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59986,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1555103121",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1137819102548938800,
+		"quoted_status_id_str": "1137819102548938753",
+		"quoted_status_permalink": {
+			"url": "https://t.co/86KcFzeyJd",
+			"expanded": "https://twitter.com/nerdist/status/1137819102548938753",
+			"display": "twitter.com/nerdist/status…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jun 09 20:29:48 +0000 2019",
+			"id": 1137819102548938800,
+			"id_str": "1137819102548938753",
+			"full_text": "2019 is the year of Keanu Reeves #Cyberpunk2077 #XboxE3 #E3 https://t.co/Paf3rteKvO",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				83
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Cyberpunk2077",
+						"indices": [
+							33,
+							47
+						]
+					},
+					{
+						"text": "XboxE3",
+						"indices": [
+							48,
+							55
+						]
+					},
+					{
+						"text": "E3",
+						"indices": [
+							56,
+							59
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1137817790113407000,
+						"id_str": "1137817790113406977",
+						"indices": [
+							60,
+							83
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1137817790113406977/pu/img/EQf5e9Z_u9-obl0Q.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1137817790113406977/pu/img/EQf5e9Z_u9-obl0Q.jpg",
+						"url": "https://t.co/Paf3rteKvO",
+						"display_url": "pic.twitter.com/Paf3rteKvO",
+						"expanded_url": "https://twitter.com/lostthenumbers/status/1137817843385348103/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1137817843385348100,
+						"source_status_id_str": "1137817843385348103",
+						"source_user_id": 24075797,
+						"source_user_id_str": "24075797"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1137817790113407000,
+						"id_str": "1137817790113406977",
+						"indices": [
+							60,
+							83
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1137817790113406977/pu/img/EQf5e9Z_u9-obl0Q.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1137817790113406977/pu/img/EQf5e9Z_u9-obl0Q.jpg",
+						"url": "https://t.co/Paf3rteKvO",
+						"display_url": "pic.twitter.com/Paf3rteKvO",
+						"expanded_url": "https://twitter.com/lostthenumbers/status/1137817843385348103/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1137817843385348100,
+						"source_status_id_str": "1137817843385348103",
+						"source_user_id": 24075797,
+						"source_user_id_str": "24075797",
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 14078,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1137817790113406977/pu/vid/1280x720/Oi_frYI8sS8lBcTK.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1137817790113406977/pu/pl/jh0IoS0e4JL_dcN1.m3u8?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1137817790113406977/pu/vid/640x360/5BTOJMDmOFs0nH5o.mp4?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1137817790113406977/pu/vid/480x270/1YLfl-3Pkr_3hoWC.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 24075797,
+								"id_str": "24075797",
+								"name": "Lee Travis ➡️ E3",
+								"screen_name": "lostthenumbers",
+								"location": "Burbank, CA",
+								"description": "Marketing Coordinator for @Nerdist @geekandsundry @BecauseScience. Nerd. Views are my own.",
+								"url": "https://t.co/gLeTmL88JL",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/gLeTmL88JL",
+												"expanded_url": "http://giphy.com/channel/lostthenumbers",
+												"display_url": "giphy.com/channel/lostth…",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 1706,
+								"friends_count": 1088,
+								"listed_count": 58,
+								"created_at": "Thu Mar 12 23:53:45 +0000 2009",
+								"favourites_count": 164532,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": true,
+								"verified": false,
+								"statuses_count": 78898,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "1A1B1F",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+								"profile_background_tile": true,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1137224897476694016/rp6YKLTy_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1137224897476694016/rp6YKLTy_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/24075797/1491016871",
+								"profile_link_color": "2FC2EF",
+								"profile_sidebar_border_color": "FFFFFF",
+								"profile_sidebar_fill_color": "252429",
+								"profile_text_color": "666666",
+								"profile_use_background_image": true,
+								"has_extended_profile": true,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 394216985,
+				"id_str": "394216985",
+				"name": "Nerdist",
+				"screen_name": "nerdist",
+				"location": "",
+				"description": "The official Twitter of https://t.co/XE0sbyk9yB.",
+				"url": "https://t.co/XE0sbyk9yB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/XE0sbyk9yB",
+								"expanded_url": "http://nerdist.com",
+								"display_url": "nerdist.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/XE0sbyk9yB",
+								"expanded_url": "http://nerdist.com",
+								"display_url": "nerdist.com",
+								"indices": [
+									24,
+									47
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 451589,
+				"friends_count": 3400,
+				"listed_count": 5040,
+				"created_at": "Wed Oct 19 19:04:17 +0000 2011",
+				"favourites_count": 20190,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 96711,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1081342896081559553/-9qs79mU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081342896081559553/-9qs79mU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/394216985/1546647191",
+				"profile_link_color": "CD1408",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 99,
+			"favorite_count": 384,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Pretty awesome. Keanu Reeves is terug. Weer. https://t.co/86KcFzeyJd"
+	},
+	{
+		"created_at": "Sun Jun 09 20:37:06 +0000 2019",
+		"id": 1137820942036602900,
+		"id_str": "1137820942036602880",
+		"full_text": "@Xtien @pvdp Ik hou het er maar op dat links en embeds op de website en andere online plekken nu onbruikbaar zijn. Maar dat er toch hopelijk ergens in een kluis wel een goede externe harde schijf ligt. En de link voor het Internet Archive of de KB. Of Beeld en Geluid.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			268
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Xtien",
+					"name": "Christine",
+					"id": 14261257,
+					"id_str": "14261257",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"screen_name": "pvdp",
+					"name": "Peter van der Ploeg",
+					"id": 10153142,
+					"id_str": "10153142",
+					"indices": [
+						7,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1137820294570303500,
+		"in_reply_to_status_id_str": "1137820294570303494",
+		"in_reply_to_user_id": 14261257,
+		"in_reply_to_user_id_str": "14261257",
+		"in_reply_to_screen_name": "Xtien",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8862,
+			"friends_count": 253,
+			"listed_count": 589,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5373,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59986,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1555103121",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@Xtien @pvdp Ik hou het er maar op dat links en embeds op de website en andere online plekken nu onbruikbaar zijn. Maar dat er toch hopelijk ergens in een kluis wel een goede externe harde schijf ligt. En de link voor het Internet Archive of de KB. Of Beeld en Geluid."
+	},
+	{
 		"created_at": "Sat Jun 08 14:35:30 +0000 2019",
 		"id": 1137367551439179800,
 		"id_str": "1137367551439179776",
