@@ -1,6 +1,130 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Mon Jun 10 04:38:52 +0000 2019",
+		"id": 1137830733026857000,
+		"id_str": "1137942178712424448",
+		"full_text": "@frankmeeuwsen @Nokterian @ArchiefAlkmaar Volgens de NOS is er een backup op eigen servers. Ik kan me voorstellen dat de investering voor een eigen platform te hoog is, wellicht is een betaald account bij Vimeo een optie. https://t.co/DEwItGFKz9",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			245
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "frankmeeuwsen",
+					"name": "Frank Meeuwsen",
+					"id": 816203,
+					"id_str": "816203",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "Nokterian",
+					"name": "Martin van Vuuren",
+					"id": 68002866,
+					"id_str": "68002866",
+					"indices": [
+						15,
+						25
+					]
+				},
+				{
+					"screen_name": "ArchiefAlkmaar",
+					"name": "Archief Alkmaar e.o.",
+					"id": 556905784,
+					"id_str": "556905784",
+					"indices": [
+						26,
+						41
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DEwItGFKz9",
+					"expanded_url": "https://nos.nl/l/2288321",
+					"display_url": "nos.nl/l/2288321",
+					"indices": [
+						222,
+						245
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1137819429755072500,
+		"in_reply_to_status_id_str": "1137819429755072512",
+		"in_reply_to_user_id": 816203,
+		"in_reply_to_user_id_str": "816203",
+		"in_reply_to_screen_name": "frankmeeuwsen",
+		"user": {
+			"id": 796619449,
+			"id_str": "796619449",
+			"name": "Micha R████ - RCX",
+			"screen_name": "m_i_c_h_a_r",
+			"location": "Probably near the food",
+			"description": "Registered CyberXpert - RCX. I mostly Dev and Ops a little. Loves nuts, blocks nut jobs.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 107,
+			"friends_count": 249,
+			"listed_count": 2,
+			"created_at": "Sat Sep 01 18:26:47 +0000 2012",
+			"favourites_count": 945,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 617,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1121099755680083970/JOesrcQr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1121099755680083970/JOesrcQr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/796619449/1530049864",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@frankmeeuwsen @Nokterian @ArchiefAlkmaar Volgens de NOS is er een backup op eigen servers. Ik kan me voorstellen dat de investering voor een eigen platform te hoog is, wellicht is een betaald account bij Vimeo een optie. https://t.co/DEwItGFKz9"
+	},
+	{
 		"created_at": "Sun Jun 09 20:40:13 +0000 2019",
 		"id": 1137821722701434900,
 		"id_str": "1137821722701434881",
