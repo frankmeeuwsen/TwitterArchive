@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Tue Jun 11 17:28:59 +0000 2019",
+		"id": 1138486870785101800,
+		"id_str": "1138498373449916417",
+		"full_text": "This is what David wrote in his appeal to Twitter. https://t.co/Bqt1y1efPA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1138486766128848900,
+					"id_str": "1138486766128848896",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/D8y3royX4AAhD_e.png",
+					"media_url_https": "https://pbs.twimg.com/media/D8y3royX4AAhD_e.png",
+					"url": "https://t.co/Bqt1y1efPA",
+					"display_url": "pic.twitter.com/Bqt1y1efPA",
+					"expanded_url": "https://twitter.com/MelissaRyan/status/1138486870785101825/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 806,
+							"h": 123,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 806,
+							"h": 123,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 123,
+							"h": 123,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 104,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1138486766128848900,
+					"id_str": "1138486766128848896",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/D8y3royX4AAhD_e.png",
+					"media_url_https": "https://pbs.twimg.com/media/D8y3royX4AAhD_e.png",
+					"url": "https://t.co/Bqt1y1efPA",
+					"display_url": "pic.twitter.com/Bqt1y1efPA",
+					"expanded_url": "https://twitter.com/MelissaRyan/status/1138486870785101825/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 806,
+							"h": 123,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 806,
+							"h": 123,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 123,
+							"h": 123,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 104,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1138483147526553600,
+		"in_reply_to_status_id_str": "1138483147526553602",
+		"in_reply_to_user_id": 10371822,
+		"in_reply_to_user_id_str": "10371822",
+		"in_reply_to_screen_name": "MelissaRyan",
+		"user": {
+			"id": 10371822,
+			"id_str": "10371822",
+			"name": "Melissa Ryan",
+			"screen_name": "MelissaRyan",
+			"location": "Washington, DC",
+			"description": "I organize to combat disinfo & extremism. Ctrl Alt-Right Delete w/@hopenothate. Subscribe: https://t.co/i7HoXLjZsw. Coffee drinker. UK basketball fan.",
+			"url": "https://t.co/PbYCXzFsDW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PbYCXzFsDW",
+							"expanded_url": "http://melissaryan.net",
+							"display_url": "melissaryan.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i7HoXLjZsw",
+							"expanded_url": "http://ctrlaltrightdelete.com",
+							"display_url": "ctrlaltrightdelete.com",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 13429,
+			"friends_count": 2644,
+			"listed_count": 525,
+			"created_at": "Mon Nov 19 03:11:31 +0000 2007",
+			"favourites_count": 10213,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 42635,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112702761550995456/_N2yUN-5_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112702761550995456/_N2yUN-5_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10371822/1549986835",
+			"profile_link_color": "AA00FF",
+			"profile_sidebar_border_color": "694747",
+			"profile_sidebar_fill_color": "E1A8A8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 149,
+		"favorite_count": 390,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is what David wrote in his appeal to Twitter. https://t.co/Bqt1y1efPA"
+	},
+	{
 		"created_at": "Tue Jun 11 16:53:50 +0000 2019",
 		"id": 1138489528690380800,
 		"id_str": "1138489528690380801",
