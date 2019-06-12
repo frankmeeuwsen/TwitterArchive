@@ -1,6 +1,380 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Wed Jun 12 05:30:02 +0000 2019",
+		"id": 1138679832009760800,
+		"id_str": "1138679832009760768",
+		"full_text": "Dit seizoen geen Ome Ed concerten voor me. De merchandise is tot op heden waanzinnig mooi. Dat dan weer wel. https://t.co/1McopGcW7C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1McopGcW7C",
+					"expanded_url": "https://twitter.com/PearlJamHolland/status/1138675349733224448",
+					"display_url": "twitter.com/PearlJamHollan…",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8857,
+			"friends_count": 254,
+			"listed_count": 589,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5382,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60000,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1555103121",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1138675349733224400,
+		"quoted_status_id_str": "1138675349733224448",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1McopGcW7C",
+			"expanded": "https://twitter.com/PearlJamHolland/status/1138675349733224448",
+			"display": "twitter.com/PearlJamHollan…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jun 12 05:12:13 +0000 2019",
+			"id": 1138675349733224400,
+			"id_str": "1138675349733224448",
+			"full_text": "Tonight Eddie Vedder performs in Brussels, our friendly neighbours! Poster art by Paul Jackson!\n#eddievedder #evtour #evtour2019 #pearljam https://t.co/COYoSpVnAV",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				138
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "eddievedder",
+						"indices": [
+							96,
+							108
+						]
+					},
+					{
+						"text": "evtour",
+						"indices": [
+							109,
+							116
+						]
+					},
+					{
+						"text": "evtour2019",
+						"indices": [
+							117,
+							128
+						]
+					},
+					{
+						"text": "pearljam",
+						"indices": [
+							129,
+							138
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1138675342305103900,
+						"id_str": "1138675342305103873",
+						"indices": [
+							139,
+							162
+						],
+						"media_url": "http://pbs.twimg.com/media/D81jMNyXkAElCf4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D81jMNyXkAElCf4.jpg",
+						"url": "https://t.co/COYoSpVnAV",
+						"display_url": "pic.twitter.com/COYoSpVnAV",
+						"expanded_url": "https://twitter.com/PearlJamHolland/status/1138675349733224448/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 656,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 724,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 724,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1138675342305103900,
+						"id_str": "1138675342305103873",
+						"indices": [
+							139,
+							162
+						],
+						"media_url": "http://pbs.twimg.com/media/D81jMNyXkAElCf4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D81jMNyXkAElCf4.jpg",
+						"url": "https://t.co/COYoSpVnAV",
+						"display_url": "pic.twitter.com/COYoSpVnAV",
+						"expanded_url": "https://twitter.com/PearlJamHolland/status/1138675349733224448/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 656,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 724,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 724,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1138675342275747800,
+						"id_str": "1138675342275747840",
+						"indices": [
+							139,
+							162
+						],
+						"media_url": "http://pbs.twimg.com/media/D81jMNrXoAA4F5M.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D81jMNrXoAA4F5M.jpg",
+						"url": "https://t.co/COYoSpVnAV",
+						"display_url": "pic.twitter.com/COYoSpVnAV",
+						"expanded_url": "https://twitter.com/PearlJamHolland/status/1138675349733224448/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 750,
+								"h": 745,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 745,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1138675342292504600,
+						"id_str": "1138675342292504582",
+						"indices": [
+							139,
+							162
+						],
+						"media_url": "http://pbs.twimg.com/media/D81jMNvXUAYF0_Y.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D81jMNvXUAYF0_Y.jpg",
+						"url": "https://t.co/COYoSpVnAV",
+						"display_url": "pic.twitter.com/COYoSpVnAV",
+						"expanded_url": "https://twitter.com/PearlJamHolland/status/1138675349733224448/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 723,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 656,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 723,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2933941318,
+				"id_str": "2933941318",
+				"name": "Pearl Jam Holland",
+				"screen_name": "PearlJamHolland",
+				"location": "",
+				"description": "Troubled souls unite! Dutch PJ-fanaccount. Follow for Pearl Jam news, videos, lyrics, facts & photos. Instagram: pearljamholland.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1889,
+				"friends_count": 259,
+				"listed_count": 24,
+				"created_at": "Sat Dec 20 17:16:58 +0000 2014",
+				"favourites_count": 8536,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3317,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/968918956860985346/u_FxXkMa_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/968918956860985346/u_FxXkMa_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2933941318/1419097641",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Dit seizoen geen Ome Ed concerten voor me. De merchandise is tot op heden waanzinnig mooi. Dat dan weer wel. https://t.co/1McopGcW7C"
+	},
+	{
 		"created_at": "Wed Jun 12 04:48:15 +0000 2019",
 		"id": 1138534578061172700,
 		"id_str": "1138669318785384448",
