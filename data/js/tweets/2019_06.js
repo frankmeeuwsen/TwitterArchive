@@ -1,6 +1,314 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Wed Jun 12 04:48:15 +0000 2019",
+		"id": 1138534578061172700,
+		"id_str": "1138669318785384448",
+		"full_text": "Oh, this is going to be fun to see how it all plays out. https://t.co/h3VvyU7N7u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/h3VvyU7N7u",
+					"expanded_url": "https://twitter.com/josephfcox/status/1138529033094860801",
+					"display_url": "twitter.com/josephfcox/sta…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 397689316,
+			"id_str": "397689316",
+			"name": "Grady Booch",
+			"screen_name": "Grady_Booch",
+			"location": "Maui",
+			"description": "scientist, storyteller, philosopher",
+			"url": "https://t.co/FoLx8K2rs7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FoLx8K2rs7",
+							"expanded_url": "http://computingthehumanexperience.com",
+							"display_url": "computingthehumanexperience.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32814,
+			"friends_count": 1024,
+			"listed_count": 989,
+			"created_at": "Tue Oct 25 01:21:41 +0000 2011",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 43890,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956424432553046016/eHxjBbEw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956424432553046016/eHxjBbEw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/397689316/1412125381",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1138529033094860800,
+		"quoted_status_id_str": "1138529033094860801",
+		"quoted_status_permalink": {
+			"url": "https://t.co/h3VvyU7N7u",
+			"expanded": "https://twitter.com/josephfcox/status/1138529033094860801",
+			"display": "twitter.com/josephfcox/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jun 11 19:30:48 +0000 2019",
+			"id": 1138529033094860800,
+			"id_str": "1138529033094860801",
+			"full_text": "Oh my god. Artists uploaded a deep fake of Mark Zuckerberg to Instagram, saying he's in control of billions of people's stolen data and ready to control the future. Facebook previously said it would not delete similar videos under its policies. We'll see https://t.co/ufwV7zMyed https://t.co/CBfVtGoaQd",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ufwV7zMyed",
+						"expanded_url": "https://www.vice.com/en_us/article/ywyxex/deepfake-of-mark-zuckerberg-facebook-fake-video-policy",
+						"display_url": "vice.com/en_us/article/…",
+						"indices": [
+							255,
+							278
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1138528860906152000,
+						"id_str": "1138528860906151937",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1138528860906151937/pu/img/4U2NeOIpcUCO-lXC.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1138528860906151937/pu/img/4U2NeOIpcUCO-lXC.jpg",
+						"url": "https://t.co/CBfVtGoaQd",
+						"display_url": "pic.twitter.com/CBfVtGoaQd",
+						"expanded_url": "https://twitter.com/josephfcox/status/1138529033094860801/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1138528860906152000,
+						"id_str": "1138528860906151937",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1138528860906151937/pu/img/4U2NeOIpcUCO-lXC.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1138528860906151937/pu/img/4U2NeOIpcUCO-lXC.jpg",
+						"url": "https://t.co/CBfVtGoaQd",
+						"display_url": "pic.twitter.com/CBfVtGoaQd",
+						"expanded_url": "https://twitter.com/josephfcox/status/1138529033094860801/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 17903,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1138528860906151937/pu/vid/480x270/_VFkH3CStFz15lq0.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1138528860906151937/pu/vid/640x360/8nG8kcxHr00-3ZVY.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1138528860906151937/pu/pl/u2yNAI4wq7uf6Mp9.m3u8?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 274991683,
+				"id_str": "274991683",
+				"name": "Joseph Cox",
+				"screen_name": "josephfcox",
+				"location": "",
+				"description": "journalist covering hackers/crime/platforms for @motherboard. Signal ☎️+44 20 8133 5190. Wickr 📳 josephcox. XMPP 🔑 jfcox@jabber.ccc.de 📨joseph.cox@vice.com",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 49366,
+				"friends_count": 2781,
+				"listed_count": 1704,
+				"created_at": "Thu Mar 31 12:29:00 +0000 2011",
+				"favourites_count": 10930,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1062,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/938479632805965825/Butw3_cP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/938479632805965825/Butw3_cP_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4524,
+			"favorite_count": 9608,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 39,
+		"favorite_count": 125,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Oh, this is going to be fun to see how it all plays out. https://t.co/h3VvyU7N7u"
+	},
+	{
 		"created_at": "Tue Jun 11 17:28:59 +0000 2019",
 		"id": 1138486870785101800,
 		"id_str": "1138498373449916417",
