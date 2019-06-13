@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Thu Jun 13 10:55:41 +0000 2019",
+		"id": 1139124175006818300,
+		"id_str": "1139124175006818304",
+		"full_text": "Wat een mooi verhaal toch! https://t.co/LYJxlSw1KS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LYJxlSw1KS",
+					"expanded_url": "https://twitter.com/parool/status/1139107024665530368",
+					"display_url": "twitter.com/parool/status/…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8859,
+			"friends_count": 255,
+			"listed_count": 589,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5383,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60002,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1555103121",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1139107024665530400,
+		"quoted_status_id_str": "1139107024665530368",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LYJxlSw1KS",
+			"expanded": "https://twitter.com/parool/status/1139107024665530368",
+			"display": "twitter.com/parool/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 13 09:47:32 +0000 2019",
+			"id": 1139107024665530400,
+			"id_str": "1139107024665530368",
+			"full_text": "Het sprookje van Pearl Jam-frontman Eddie Vedder en de mysterieuze Nederlandse vrouw die hem in 1992 op de fiets naar zijn hotel bracht, heeft na 27 jaar een happy end gekregen. \n\nhttps://t.co/HuXwpU4Mbh",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				203
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/HuXwpU4Mbh",
+						"expanded_url": "https://www.parool.nl/kunst-media/eddie-vedder-herenigd-met-valeska-je-hebt-nog-dezelfde-glimlach~b1ea3ec6/",
+						"display_url": "parool.nl/kunst-media/ed…",
+						"indices": [
+							180,
+							203
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 32397387,
+				"id_str": "32397387",
+				"name": "Het Parool",
+				"screen_name": "parool",
+				"location": "Amsterdam",
+				"description": "Nieuws | Amsterdam l Opinie l nieuwsdienst@parool.nl l @pshetparool l Webcare: @Webcare_Parool | Tiplijn: https://t.co/WNYqz6mPzO",
+				"url": "http://www.parool.nl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://www.parool.nl",
+								"expanded_url": null,
+								"indices": [
+									0,
+									20
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/WNYqz6mPzO",
+								"expanded_url": "https://api.whatsapp.com/send?phone=31613472701",
+								"display_url": "api.whatsapp.com/send?phone=316…",
+								"indices": [
+									106,
+									129
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 343517,
+				"friends_count": 266,
+				"listed_count": 1282,
+				"created_at": "Fri Apr 17 13:10:24 +0000 2009",
+				"favourites_count": 668,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 107428,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E0ECF9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/894435697414856704/YHj1ykuN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/894435697414856704/YHj1ykuN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/32397387/1477393699",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Wat een mooi verhaal toch! https://t.co/LYJxlSw1KS"
+	},
+	{
 		"created_at": "Wed Jun 12 18:51:10 +0000 2019",
 		"id": 1138881446448390100,
 		"id_str": "1138881446448390144",
