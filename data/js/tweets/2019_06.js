@@ -1,6 +1,179 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Thu Jun 13 15:44:03 +0000 2019",
+		"id": 1139192335672184800,
+		"id_str": "1139196742115713025",
+		"full_text": "Even though we’re still in alpha phase, yesterday we got contacted by Facebook's lawyers in regards to the word “book” in our name.\n\nAn announcement on the matter.\n\nhttps://t.co/OzZHtpo4gG\n\n#openbook #privacy #tech #opensource #techforgood #socialnetworks #socialmedia #facebook",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "openbook",
+					"indices": [
+						190,
+						199
+					]
+				},
+				{
+					"text": "privacy",
+					"indices": [
+						200,
+						208
+					]
+				},
+				{
+					"text": "tech",
+					"indices": [
+						209,
+						214
+					]
+				},
+				{
+					"text": "opensource",
+					"indices": [
+						215,
+						226
+					]
+				},
+				{
+					"text": "techforgood",
+					"indices": [
+						227,
+						239
+					]
+				},
+				{
+					"text": "socialnetworks",
+					"indices": [
+						240,
+						255
+					]
+				},
+				{
+					"text": "socialmedia",
+					"indices": [
+						256,
+						268
+					]
+				},
+				{
+					"text": "facebook",
+					"indices": [
+						269,
+						278
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OzZHtpo4gG",
+					"expanded_url": "https://medium.com/openbook-org/about-the-word-book-in-openbook-ed33b1514e71",
+					"display_url": "medium.com/openbook-org/a…",
+					"indices": [
+						165,
+						188
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 985094873840848900,
+			"id_str": "985094873840848896",
+			"name": "Openbook",
+			"screen_name": "OpenbookSocial",
+			"location": "🇪🇺 🇳🇱 | The Netherlands, Europe",
+			"description": "Privacy-friendly, transparent & community driven social network · 👯‍♂️ Crowd-funded · 🚀 Now in alpha testing · 🎁 Sign up for beta https://t.co/VDNv2zJVda",
+			"url": "https://t.co/VDNv2zJVda",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VDNv2zJVda",
+							"expanded_url": "https://openbook.social",
+							"display_url": "openbook.social",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VDNv2zJVda",
+							"expanded_url": "https://openbook.social",
+							"display_url": "openbook.social",
+							"indices": [
+								130,
+								153
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3702,
+			"friends_count": 251,
+			"listed_count": 45,
+			"created_at": "Sat Apr 14 09:58:14 +0000 2018",
+			"favourites_count": 1641,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 643,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1138821163549900802/KuQPlx0s_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1138821163549900802/KuQPlx0s_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/985094873840848896/1550274333",
+			"profile_link_color": "3E3E3E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Even though we’re still in alpha phase, yesterday we got contacted by Facebook's lawyers in regards to the word “book” in our name.\n\nAn announcement on the matter.\n\nhttps://t.co/OzZHtpo4gG\n\n#openbook #privacy #tech #opensource #techforgood #socialnetworks #socialmedia #facebook"
+	},
+	{
 		"created_at": "Thu Jun 13 13:37:27 +0000 2019",
 		"id": 1139164884900438000,
 		"id_str": "1139164884900438016",
