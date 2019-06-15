@@ -1,6 +1,300 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sat Jun 15 07:15:55 +0000 2019",
+		"id": 1139793642275708900,
+		"id_str": "1139793642275708929",
+		"full_text": "We'll find the dress with this pattern in stores next week! #metameme https://t.co/i9eHQSq43V",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "metameme",
+					"indices": [
+						60,
+						69
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/i9eHQSq43V",
+					"expanded_url": "https://twitter.com/chazfirestone/status/1139533381597847555",
+					"display_url": "twitter.com/chazfirestone/…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8858,
+			"friends_count": 256,
+			"listed_count": 589,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60017,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1555103121",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1139533381597847600,
+		"quoted_status_id_str": "1139533381597847555",
+		"quoted_status_permalink": {
+			"url": "https://t.co/i9eHQSq43V",
+			"expanded": "https://twitter.com/chazfirestone/status/1139533381597847555",
+			"display": "twitter.com/chazfirestone/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jun 14 14:01:44 +0000 2019",
+			"id": 1139533381597847600,
+			"id_str": "1139533381597847555",
+			"full_text": "All the balls are the same color — and that color is *brown*! https://t.co/JriPXHnNYR",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				61
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1139533375096664000,
+						"id_str": "1139533375096664066",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/media/D9BvkTBWsAIjBFB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D9BvkTBWsAIjBFB.jpg",
+						"url": "https://t.co/JriPXHnNYR",
+						"display_url": "pic.twitter.com/JriPXHnNYR",
+						"expanded_url": "https://twitter.com/chazfirestone/status/1139533381597847555/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 756,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 502,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 756,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1139533375096664000,
+						"id_str": "1139533375096664066",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/media/D9BvkTBWsAIjBFB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D9BvkTBWsAIjBFB.jpg",
+						"url": "https://t.co/JriPXHnNYR",
+						"display_url": "pic.twitter.com/JriPXHnNYR",
+						"expanded_url": "https://twitter.com/chazfirestone/status/1139533381597847555/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 756,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 502,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 756,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 29274213,
+				"id_str": "29274213",
+				"name": "Chaz Firestone",
+				"screen_name": "chazfirestone",
+				"location": "Baltimore, MD",
+				"description": "Cognitive scientist studying how we see + think. Asst Prof @JohnsHopkins Psych & Brain Sciences. 🇨🇦",
+				"url": "https://t.co/4MyifyQgjR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4MyifyQgjR",
+								"expanded_url": "http://perception.jhu.edu/chaz",
+								"display_url": "perception.jhu.edu/chaz",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3764,
+				"friends_count": 817,
+				"listed_count": 67,
+				"created_at": "Mon Apr 06 19:37:09 +0000 2009",
+				"favourites_count": 3449,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3156,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/920048909740924928/4l6MvQBH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/920048909740924928/4l6MvQBH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/29274213/1472626300",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10254,
+			"favorite_count": 22597,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We'll find the dress with this pattern in stores next week! #metameme https://t.co/i9eHQSq43V"
+	},
+	{
 		"created_at": "Fri Jun 14 15:02:20 +0000 2019",
 		"id": 1139548633550995500,
 		"id_str": "1139548633550995456",
