@@ -1,6 +1,242 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sat Jun 15 11:39:20 +0000 2019",
+		"id": 1139859932574994400,
+		"id_str": "1139859932574994437",
+		"full_text": "Doen! Blog on! Kort, lang, met of zonder spelfouten. Hit publish and go! 20 tweets is 1 blogpost! 😉😘 https://t.co/nHsglZrw9p",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nHsglZrw9p",
+					"expanded_url": "https://twitter.com/punkmedia/status/1139849270020886528",
+					"display_url": "twitter.com/punkmedia/stat…",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8858,
+			"friends_count": 256,
+			"listed_count": 589,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5392,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60018,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1555103121",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1139849270020886500,
+		"quoted_status_id_str": "1139849270020886528",
+		"quoted_status_permalink": {
+			"url": "https://t.co/nHsglZrw9p",
+			"expanded": "https://twitter.com/punkmedia/status/1139849270020886528",
+			"display": "twitter.com/punkmedia/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jun 15 10:56:58 +0000 2019",
+			"id": 1139849270020886500,
+			"id_str": "1139849270020886528",
+			"full_text": "Ik krijg weer heel veel zin om (weer meer) te gaan bloggen. Briljant stuk Marco! @puur etc lezon. https://t.co/FSihy9a3HB",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				97
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "puur",
+						"name": "puur",
+						"id": 5776422,
+						"id_str": "5776422",
+						"indices": [
+							81,
+							86
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/FSihy9a3HB",
+						"expanded_url": "https://twitter.com/Raaphorst/status/1139820199044157440",
+						"display_url": "twitter.com/Raaphorst/stat…",
+						"indices": [
+							98,
+							121
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5549572,
+				"id_str": "5549572",
+				"name": "PUNKMEDIA",
+				"screen_name": "punkmedia",
+				"location": "Lochem",
+				"description": "Fotograaf, filmer, journalist.\nSony A7III",
+				"url": "https://t.co/sqrWT0NL2U",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sqrWT0NL2U",
+								"expanded_url": "http://www.punkmedia.nl",
+								"display_url": "punkmedia.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4911,
+				"friends_count": 2381,
+				"listed_count": 286,
+				"created_at": "Fri Apr 27 09:53:39 +0000 2007",
+				"favourites_count": 2520,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 33144,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1002148110267813888/4oM-Dgtj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1002148110267813888/4oM-Dgtj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5549572/1411466287",
+				"profile_link_color": "FF0073",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1139820199044157400,
+			"quoted_status_id_str": "1139820199044157440",
+			"quoted_status_permalink": {
+				"url": "https://t.co/FSihy9a3HB",
+				"expanded": "https://twitter.com/Raaphorst/status/1139820199044157440",
+				"display": "twitter.com/Raaphorst/stat…"
+			},
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Doen! Blog on! Kort, lang, met of zonder spelfouten. Hit publish and go! 20 tweets is 1 blogpost! 😉😘 https://t.co/nHsglZrw9p"
+	},
+	{
 		"created_at": "Sat Jun 15 07:15:55 +0000 2019",
 		"id": 1139793642275708900,
 		"id_str": "1139793642275708929",
