@@ -1,6 +1,320 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Mon Jun 17 20:12:34 +0000 2019",
+		"id": 1140713868601241600,
+		"id_str": "1140713868601241600",
+		"full_text": "Ik was 45 jaar en 364 dagen oud toen ik dit leerde.... https://t.co/siprFy3ZHk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/siprFy3ZHk",
+					"expanded_url": "https://twitter.com/VPestilenZ/status/1140437217619390465",
+					"display_url": "twitter.com/VPestilenZ/sta…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8856,
+			"friends_count": 256,
+			"listed_count": 589,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5394,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60024,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1555103121",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1140437217619390500,
+		"quoted_status_id_str": "1140437217619390465",
+		"quoted_status_permalink": {
+			"url": "https://t.co/siprFy3ZHk",
+			"expanded": "https://twitter.com/VPestilenZ/status/1140437217619390465",
+			"display": "twitter.com/VPestilenZ/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 17 01:53:15 +0000 2019",
+			"id": 1140437217619390500,
+			"id_str": "1140437217619390465",
+			"full_text": "As someone who makes a lot of Korean food, this is the best method for getting garlic peeled!\n👌 https://t.co/14GGJDQhRj",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				95
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1140437157401829400,
+						"id_str": "1140437157401829376",
+						"indices": [
+							96,
+							119
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1140437157401829376/pu/img/rYeYjkfLJF6Fx2or.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1140437157401829376/pu/img/rYeYjkfLJF6Fx2or.jpg",
+						"url": "https://t.co/14GGJDQhRj",
+						"display_url": "pic.twitter.com/14GGJDQhRj",
+						"expanded_url": "https://twitter.com/VPestilenZ/status/1140437217619390465/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 480,
+								"h": 854,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 854,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1140437157401829400,
+						"id_str": "1140437157401829376",
+						"indices": [
+							96,
+							119
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1140437157401829376/pu/img/rYeYjkfLJF6Fx2or.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1140437157401829376/pu/img/rYeYjkfLJF6Fx2or.jpg",
+						"url": "https://t.co/14GGJDQhRj",
+						"display_url": "pic.twitter.com/14GGJDQhRj",
+						"expanded_url": "https://twitter.com/VPestilenZ/status/1140437217619390465/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 480,
+								"h": 854,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 854,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								240,
+								427
+							],
+							"duration_millis": 25367,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1140437157401829376/pu/pl/NHwM2n09OmmFDiet.m3u8?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1140437157401829376/pu/vid/480x854/MGTdZjM3gf_SvECB.mp4?tag=10"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1140437157401829376/pu/vid/320x568/1bjgKhROjr6Hmevo.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1140437157401829376/pu/vid/360x640/OTTUnwb9Q3x_4pqu.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4103278697,
+				"id_str": "4103278697",
+				"name": "𝖛𝖆𝖑𝖊𝖓𝖙𝖎𝖓𝖆 ✣ 𝖑𝖔𝖗𝖉 🌑",
+				"screen_name": "VPestilenZ",
+				"location": "Toronto, Canada",
+				"description": "🇧🇾CG/Games Lead @sirtcentre | Unity dev/3D artist/Founder @deadhandgames working on Flowers of the Gallow https://t.co/1OEAOIcOyL",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/1OEAOIcOyL",
+								"expanded_url": "https://youtu.be/beMta5vs0jQ",
+								"display_url": "youtu.be/beMta5vs0jQ",
+								"indices": [
+									106,
+									129
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3476,
+				"friends_count": 1456,
+				"listed_count": 80,
+				"created_at": "Tue Nov 03 08:23:51 +0000 2015",
+				"favourites_count": 10772,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7567,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1127405715864326145/yQVkVtH3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1127405715864326145/yQVkVtH3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4103278697/1548728859",
+				"profile_link_color": "8E4585",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 68829,
+			"favorite_count": 183574,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Ik was 45 jaar en 364 dagen oud toen ik dit leerde.... https://t.co/siprFy3ZHk"
+	},
+	{
 		"created_at": "Mon Jun 17 15:51:33 +0000 2019",
 		"id": 1140648180457050100,
 		"id_str": "1140648180457050114",
