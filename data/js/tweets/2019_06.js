@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Wed Jun 19 04:07:51 +0000 2019",
+		"id": 1141167699864608800,
+		"id_str": "1141195866386178048",
+		"full_text": "How bad is it really in Trump's concentration camps? This bad. Must-read thread. https://t.co/HIxNDi24mL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HIxNDi24mL",
+					"expanded_url": "https://twitter.com/KatzOnEarth/status/1141154299826855936",
+					"display_url": "twitter.com/KatzOnEarth/st…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18655567,
+			"id_str": "18655567",
+			"name": "Steve Silberman",
+			"screen_name": "stevesilberman",
+			"location": "San Francisco",
+			"description": "Author, NeuroTribes: The Legacy of Autism and the Future of Neurodiversity, a NYT bestseller, and The Taste of Salt, a history of cystic fibrosis coming 2022.",
+			"url": "http://t.co/tes6x6HkZf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tes6x6HkZf",
+							"expanded_url": "http://stevesilberman.com",
+							"display_url": "stevesilberman.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 104294,
+			"friends_count": 9069,
+			"listed_count": 3974,
+			"created_at": "Tue Jan 06 01:27:19 +0000 2009",
+			"favourites_count": 24089,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 134164,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/801317729978449920/1ZDKwlMv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/801317729978449920/1ZDKwlMv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18655567/1398227781",
+			"profile_link_color": "8600A1",
+			"profile_sidebar_border_color": "9CCE82",
+			"profile_sidebar_fill_color": "D2FEE4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1141154299826856000,
+		"quoted_status_id_str": "1141154299826855936",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HIxNDi24mL",
+			"expanded": "https://twitter.com/KatzOnEarth/status/1141154299826855936",
+			"display": "twitter.com/KatzOnEarth/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jun 19 01:22:41 +0000 2019",
+			"id": 1141154299826856000,
+			"id_str": "1141154299826855936",
+			"full_text": "There are an incredible number of lies people are trying to sell today to get people to look away from Trump's concentration camps. Let's dispense with one of the big ones: the idea that they can't be camps because the conditions inside are fine.\n\nThat's a lie. People are dying.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 144286635,
+				"id_str": "144286635",
+				"name": "Jonathan M. Katz✍🏻",
+				"screen_name": "KatzOnEarth",
+				"location": "",
+				"description": "Journalist, @NewAmerica fellow, author of THE BIG TRUCK THAT WENT BY. Sign up for my newsletter: https://t.co/5wYr8nKnSc",
+				"url": "https://t.co/3eL5hcdtrJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/3eL5hcdtrJ",
+								"expanded_url": "https://jonathanmkatz.com/about",
+								"display_url": "jonathanmkatz.com/about",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/5wYr8nKnSc",
+								"expanded_url": "http://katz.substack.com",
+								"display_url": "katz.substack.com",
+								"indices": [
+									97,
+									120
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 44949,
+				"friends_count": 993,
+				"listed_count": 1130,
+				"created_at": "Sat May 15 21:20:48 +0000 2010",
+				"favourites_count": 75877,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 1855,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1B35A4",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1136358279892746240/U4ZaEYVF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136358279892746240/U4ZaEYVF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/144286635/1559747500",
+				"profile_link_color": "A41B35",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1632,
+			"favorite_count": 2480,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 235,
+		"favorite_count": 256,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How bad is it really in Trump's concentration camps? This bad. Must-read thread. https://t.co/HIxNDi24mL"
+	},
+	{
 		"created_at": "Tue Jun 18 20:50:28 +0000 2019",
 		"id": 1141085793617887200,
 		"id_str": "1141085793617887233",
