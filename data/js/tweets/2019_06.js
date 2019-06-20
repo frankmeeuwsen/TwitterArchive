@@ -1,6 +1,244 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Thu Jun 20 17:30:11 +0000 2019",
+		"id": 1141760168700600300,
+		"id_str": "1141760168700600320",
+		"full_text": "Een pittig relaas wat er op dit moment gebeurt in de concentratiekampen in de Verenigde Staten. Je weet wel, dat “land of the free, home of the brave”... ja die hebben concentratiekampen. Heftig. https://t.co/2E23KftkR3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2E23KftkR3",
+					"expanded_url": "https://twitter.com/ECMcLaughlin/status/1139192167501484033",
+					"display_url": "twitter.com/ECMcLaughlin/s…",
+					"indices": [
+						196,
+						219
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8855,
+			"friends_count": 258,
+			"listed_count": 588,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5413,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60053,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1555103121",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1139192167501484000,
+		"quoted_status_id_str": "1139192167501484033",
+		"quoted_status_permalink": {
+			"url": "https://t.co/2E23KftkR3",
+			"expanded": "https://twitter.com/ECMcLaughlin/status/1139192167501484033",
+			"display": "twitter.com/ECMcLaughlin/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 13 15:25:52 +0000 2019",
+			"id": 1139192167501484000,
+			"id_str": "1139192167501484033",
+			"full_text": "IF YOU CARE ABOUT WHAT TRUMP IS DOING AT THE BORDER, you need to read and share this thread. \n\n@jacobsoboroff @JuliaEAinsley please read this.\n\nI have just gotten off the phone with a friend who is a legal volunteer in Border Patrol facilities.\n\nDon't look away.\n\n1/",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				266
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "jacobsoboroff",
+						"name": "Jacob Soboroff",
+						"id": 14246088,
+						"id_str": "14246088",
+						"indices": [
+							95,
+							109
+						]
+					},
+					{
+						"screen_name": "JuliaEAinsley",
+						"name": "Julia E. Ainsley",
+						"id": 147467535,
+						"id_str": "147467535",
+						"indices": [
+							110,
+							124
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 335060282,
+				"id_str": "335060282",
+				"name": "Elizabeth C. McLaughlin",
+				"screen_name": "ECMcLaughlin",
+				"location": "LA/NY",
+				"description": "CEO, Gaia Project Consulting | Founder, Gaia Project for Women's Leadership | #ResistanceLive | Attorney | Badass Single Mom | She/Her | https://t.co/MvcsjdFnOD",
+				"url": "https://t.co/fdfGHAy3rn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fdfGHAy3rn",
+								"expanded_url": "http://gaialeadershipproject.com",
+								"display_url": "gaialeadershipproject.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/MvcsjdFnOD",
+								"expanded_url": "http://bit.ly/2E3IcAP",
+								"display_url": "bit.ly/2E3IcAP",
+								"indices": [
+									137,
+									160
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 78978,
+				"friends_count": 975,
+				"listed_count": 521,
+				"created_at": "Thu Jul 14 02:47:43 +0000 2011",
+				"favourites_count": 67835,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 31864,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1060363628631769096/kZHK3BAL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1060363628631769096/kZHK3BAL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/335060282/1559145440",
+				"profile_link_color": "4160C9",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 48472,
+			"favorite_count": 41606,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Een pittig relaas wat er op dit moment gebeurt in de concentratiekampen in de Verenigde Staten. Je weet wel, dat “land of the free, home of the brave”... ja die hebben concentratiekampen. Heftig. https://t.co/2E23KftkR3"
+	},
+	{
 		"created_at": "Thu Jun 20 05:30:13 +0000 2019",
 		"id": 1141578981231210500,
 		"id_str": "1141578981231210496",
