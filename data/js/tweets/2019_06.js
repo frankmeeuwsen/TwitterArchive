@@ -1,6 +1,133 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Fri Jun 21 21:04:03 +0000 2019",
+		"id": 1142174923693133800,
+		"id_str": "1142176374951763973",
+		"full_text": "A story detailing how ICE is planning mass deportations this weekend. This @boingboing post includes a dual-language sheet usefully explaining the rights of people when ICE contacts them: https://t.co/xMw88pfG4A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BoingBoing",
+					"name": "Boing Boing",
+					"id": 5971922,
+					"id_str": "5971922",
+					"indices": [
+						75,
+						86
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xMw88pfG4A",
+					"expanded_url": "https://boingboing.net/2019/06/21/trumpraids-are-coming-ice-ra.html",
+					"display_url": "boingboing.net/2019/06/21/tru…",
+					"indices": [
+						188,
+						211
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 661403,
+			"id_str": "661403",
+			"name": "Clive Thompson",
+			"screen_name": "pomeranian99",
+			"location": "New York, NY",
+			"description": "My new book is \"Coders: The Making of a New Tribe and the Remaking of the World\", out NOW 📖📖 https://t.co/8nNlveL5RZ Also: NYT mag, Wired",
+			"url": "https://t.co/XCtGwciYXe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XCtGwciYXe",
+							"expanded_url": "http://www.clivethompson.net",
+							"display_url": "clivethompson.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8nNlveL5RZ",
+							"expanded_url": "http://amzn.to/2VX1qxC",
+							"display_url": "amzn.to/2VX1qxC",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 37809,
+			"friends_count": 2047,
+			"listed_count": 1994,
+			"created_at": "Thu Jan 18 20:06:49 +0000 2007",
+			"favourites_count": 41806,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 51228,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000407595163/163d76384315dfd651daa13e44b724e4_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000407595163/163d76384315dfd651daa13e44b724e4_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/661403/1547568517",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A story detailing how ICE is planning mass deportations this weekend. This @boingboing post includes a dual-language sheet usefully explaining the rights of people when ICE contacts them: https://t.co/xMw88pfG4A"
+	},
+	{
 		"created_at": "Fri Jun 21 20:09:24 +0000 2019",
 		"id": 1142162622248345600,
 		"id_str": "1142162622248345600",
