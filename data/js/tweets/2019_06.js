@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Tue Jun 25 14:17:49 +0000 2019",
+		"id": 1141912071820517400,
+		"id_str": "1143523695127871488",
+		"full_text": "I might have gone too far. https://t.co/M00hyHWDUl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1141912025343438800,
+					"id_str": "1141912025343438849",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1141912025343438849/pu/img/dxigiu7Hn4vgSAUw.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1141912025343438849/pu/img/dxigiu7Hn4vgSAUw.jpg",
+					"url": "https://t.co/M00hyHWDUl",
+					"display_url": "pic.twitter.com/M00hyHWDUl",
+					"expanded_url": "https://twitter.com/lastcoolname/status/1141912071820517376/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1141912025343438800,
+					"id_str": "1141912025343438849",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1141912025343438849/pu/img/dxigiu7Hn4vgSAUw.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1141912025343438849/pu/img/dxigiu7Hn4vgSAUw.jpg",
+					"url": "https://t.co/M00hyHWDUl",
+					"display_url": "pic.twitter.com/M00hyHWDUl",
+					"expanded_url": "https://twitter.com/lastcoolname/status/1141912071820517376/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 24355,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1141912025343438849/pu/vid/640x360/MIeF-aALY2tTViYf.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1141912025343438849/pu/vid/1280x720/RSqQPpEKz1WzVSxV.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1141912025343438849/pu/pl/KmSuOutO7AVy_D6K.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1141912025343438849/pu/vid/480x270/9sgYdCfBOdhyZjop.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15698589,
+			"id_str": "15698589",
+			"name": "Tommy Falgout",
+			"screen_name": "lastcoolname",
+			"location": "Plano, TX",
+			"description": "Cloud Solution Architect @ Microsoft, ex-Yahoo!, Builder of trebuchets, Enjoyer of life. And amazingly enough, Dad.",
+			"url": "https://t.co/g3Tgn3Rk1c",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/g3Tgn3Rk1c",
+							"expanded_url": "http://lastcoolnameleft.com",
+							"display_url": "lastcoolnameleft.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 902,
+			"friends_count": 389,
+			"listed_count": 22,
+			"created_at": "Sat Aug 02 05:30:09 +0000 2008",
+			"favourites_count": 4872,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1674,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/807278818226413568/B5JSlwOg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/807278818226413568/B5JSlwOg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15698589/1481305328",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5629,
+		"favorite_count": 19754,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I might have gone too far. https://t.co/M00hyHWDUl"
+	},
+	{
 		"created_at": "Tue Jun 25 11:25:29 +0000 2019",
 		"id": 1143480328713060400,
 		"id_str": "1143480328713060352",
