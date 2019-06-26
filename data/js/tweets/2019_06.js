@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Wed Jun 26 20:58:54 +0000 2019",
+		"id": 1143981877541294100,
+		"id_str": "1143987021796597761",
+		"full_text": "We had a wide-ranging and exciting conversation on \"The Oligarchy's Operating System\" Ep. 131 of @rushkoff's Team Human podcast https://t.co/SrkNQAp4xR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rushkoff",
+					"name": "douglas rushkoff",
+					"id": 15085196,
+					"id_str": "15085196",
+					"indices": [
+						97,
+						106
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1143980434872602600,
+					"id_str": "1143980434872602624",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/D-A8JPqUEAARecd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-A8JPqUEAARecd.jpg",
+					"url": "https://t.co/SrkNQAp4xR",
+					"display_url": "pic.twitter.com/SrkNQAp4xR",
+					"expanded_url": "https://twitter.com/doctorow/status/1143981877541294080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1143980434872602600,
+					"id_str": "1143980434872602624",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/D-A8JPqUEAARecd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-A8JPqUEAARecd.jpg",
+					"url": "https://t.co/SrkNQAp4xR",
+					"display_url": "pic.twitter.com/SrkNQAp4xR",
+					"expanded_url": "https://twitter.com/doctorow/status/1143981877541294080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2729061,
+			"id_str": "2729061",
+			"name": "Masque of the Red Death",
+			"screen_name": "doctorow",
+			"location": "Beautiful Downtown Burbank",
+			"description": "Writer, blogger, activist. If you want a reply, use email. Blog suggestions here: https://t.co/rS9kTnTcWs     0BC4 700A 06E2 072D 3A77 F8E2 9026 DBBE 1FC2 37AF",
+			"url": "https://t.co/x4ih0X9WgH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x4ih0X9WgH",
+							"expanded_url": "http://craphound.com",
+							"display_url": "craphound.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/rS9kTnTcWs",
+							"expanded_url": "http://boingboing.net/s",
+							"display_url": "boingboing.net/s",
+							"indices": [
+								82,
+								105
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 420526,
+			"friends_count": 1690,
+			"listed_count": 13070,
+			"created_at": "Wed Mar 28 21:40:55 +0000 2007",
+			"favourites_count": 151,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 197409,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111026520548691971/Thyp3AyA_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111026520548691971/Thyp3AyA_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2729061/1398312817",
+			"profile_link_color": "3F3FC4",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We had a wide-ranging and exciting conversation on \"The Oligarchy's Operating System\" Ep. 131 of @rushkoff's Team Human podcast https://t.co/SrkNQAp4xR"
+	},
+	{
 		"created_at": "Wed Jun 26 19:37:14 +0000 2019",
 		"id": 1143966468427649000,
 		"id_str": "1143966468427649026",
