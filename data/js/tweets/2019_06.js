@@ -1,6 +1,222 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Thu Jun 27 22:54:39 +0000 2019",
+		"id": 1144378535987077100,
+		"id_str": "1144378535987077120",
+		"full_text": "The nudged are de-nudging! https://t.co/CerkXWEIEY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CerkXWEIEY",
+					"expanded_url": "https://twitter.com/mutual_ayyde/status/1144373526729596929",
+					"display_url": "twitter.com/mutual_ayyde/s…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8857,
+			"friends_count": 259,
+			"listed_count": 588,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5430,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60094,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1555103121",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1144373526729596900,
+		"quoted_status_id_str": "1144373526729596929",
+		"quoted_status_permalink": {
+			"url": "https://t.co/CerkXWEIEY",
+			"expanded": "https://twitter.com/mutual_ayyde/status/1144373526729596929",
+			"display": "twitter.com/mutual_ayyde/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 27 22:34:44 +0000 2019",
+			"id": 1144373526729596900,
+			"id_str": "1144373526729596929",
+			"full_text": "red queen effect seen with corporate nudges\n\n@doctorow this tracks with your arguments about people wising up to advertising\nhttps://t.co/SWhkFlTzqa",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				148
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "doctorow",
+						"name": "Masque of the Red Death",
+						"id": 2729061,
+						"id_str": "2729061",
+						"indices": [
+							45,
+							54
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/SWhkFlTzqa",
+						"expanded_url": "https://behavioralscientist.org/consumers-are-becoming-wise-to-your-nudge/",
+						"display_url": "behavioralscientist.org/consumers-are-…",
+						"indices": [
+							125,
+							148
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 832710030818373600,
+				"id_str": "832710030818373632",
+				"name": "nice",
+				"screen_name": "mutual_ayyde",
+				"location": "The US' 53rd State, Australia",
+				"description": "my political ideology is accurate political charts",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1348,
+				"friends_count": 1131,
+				"listed_count": 24,
+				"created_at": "Fri Feb 17 21:55:17 +0000 2017",
+				"favourites_count": 42042,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9586,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1117340808540114945/NHmEmt2h_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1117340808540114945/NHmEmt2h_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/832710030818373632/1555281975",
+				"profile_link_color": "FAB81E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 17,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The nudged are de-nudging! https://t.co/CerkXWEIEY"
+	},
+	{
 		"created_at": "Thu Jun 27 20:08:25 +0000 2019",
 		"id": 1144336703961931800,
 		"id_str": "1144336703961931777",
