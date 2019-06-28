@@ -1,6 +1,280 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Fri Jun 28 14:52:18 +0000 2019",
+		"id": 1144340785246146600,
+		"id_str": "1144619536303448065",
+		"full_text": "When someone you know in real life sees what you do on twitter https://t.co/Auz9Lt2ieK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1143823914918916100,
+					"id_str": "1143823914918916097",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1143823914918916097/pu/img/NOtFLyc7v6D7hCGF.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1143823914918916097/pu/img/NOtFLyc7v6D7hCGF.jpg",
+					"url": "https://t.co/Auz9Lt2ieK",
+					"display_url": "pic.twitter.com/Auz9Lt2ieK",
+					"expanded_url": "https://twitter.com/Soul_Dignified/status/1143825264918650881/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 608,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 608,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 608,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1143825264918650900,
+					"source_status_id_str": "1143825264918650881",
+					"source_user_id": 195524028,
+					"source_user_id_str": "195524028"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1143823914918916100,
+					"id_str": "1143823914918916097",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1143823914918916097/pu/img/NOtFLyc7v6D7hCGF.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1143823914918916097/pu/img/NOtFLyc7v6D7hCGF.jpg",
+					"url": "https://t.co/Auz9Lt2ieK",
+					"display_url": "pic.twitter.com/Auz9Lt2ieK",
+					"expanded_url": "https://twitter.com/Soul_Dignified/status/1143825264918650881/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 608,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 608,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 608,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1143825264918650900,
+					"source_status_id_str": "1143825264918650881",
+					"source_user_id": 195524028,
+					"source_user_id_str": "195524028",
+					"video_info": {
+						"aspect_ratio": [
+							15,
+							19
+						],
+						"duration_millis": 27467,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1143823914918916097/pu/vid/480x608/C2LP1rKTezPxFn9s.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1143823914918916097/pu/vid/320x404/eUOUzSdp_cw0QO8i.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1143823914918916097/pu/pl/hYRxJrdEU8RK_2dp.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1143823914918916097/pu/vid/360x456/biujAx6JU_dFhBXC.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 195524028,
+							"id_str": "195524028",
+							"name": "ℓεεყα ☝🏻️",
+							"screen_name": "Soul_Dignified",
+							"location": "South Africa",
+							"description": "in a perpetual state of liberosis",
+							"url": "https://t.co/Gz2NuCLWeZ",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/Gz2NuCLWeZ",
+											"expanded_url": "http://sujood.co",
+											"display_url": "sujood.co",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 3255,
+							"friends_count": 134,
+							"listed_count": 289,
+							"created_at": "Sun Sep 26 22:56:41 +0000 2010",
+							"favourites_count": 34226,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 72003,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "1A1B1F",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/882376003510607872/MI48fGL8_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/882376003510607872/MI48fGL8_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/195524028/1559631578",
+							"profile_link_color": "2FC2EF",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "252429",
+							"profile_text_color": "666666",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2904913023,
+			"id_str": "2904913023",
+			"name": "James Felton",
+			"screen_name": "JimMFelton",
+			"location": "",
+			"description": "TV and Radio comedy writer: BAFTA winning The Dog Ate My Homework, The Guessing Game, BTN & others. Author of 52 Times Britain Was A Bellend.",
+			"url": "https://t.co/tOglfqGCnz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tOglfqGCnz",
+							"expanded_url": "https://twitter.com/search?q=from%3Ajimmfelton%20-%20exclude%3Areplies%20min_retweets%3A300&src=typd",
+							"display_url": "twitter.com/search?q=from%…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 99634,
+			"friends_count": 3850,
+			"listed_count": 714,
+			"created_at": "Thu Dec 04 11:06:45 +0000 2014",
+			"favourites_count": 124980,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 22643,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/863860130009546754/-2Zr0kqI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/863860130009546754/-2Zr0kqI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2904913023/1560184965",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 39032,
+		"favorite_count": 138201,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "When someone you know in real life sees what you do on twitter https://t.co/Auz9Lt2ieK"
+	},
+	{
 		"created_at": "Fri Jun 28 06:15:59 +0000 2019",
 		"id": 1144489358923194400,
 		"id_str": "1144489603249790981",
