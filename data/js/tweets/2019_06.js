@@ -1,6 +1,130 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Fri Jun 28 06:15:59 +0000 2019",
+		"id": 1144489358923194400,
+		"id_str": "1144489603249790981",
+		"full_text": "#5yrsago Aaron Swartz documentary, The Internet's Own Boy, out today https://t.co/yKGcdbwr2C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "5yrsago",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yKGcdbwr2C",
+					"expanded_url": "https://boingboing.net/2014/06/27/aaron-swartz-documentary-the-2.html",
+					"display_url": "boingboing.net/2014/06/27/aar…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2729061,
+			"id_str": "2729061",
+			"name": "Masque of the Red Death",
+			"screen_name": "doctorow",
+			"location": "Beautiful Downtown Burbank",
+			"description": "Writer, blogger, activist. If you want a reply, use email. Blog suggestions here: https://t.co/rS9kTnTcWs     0BC4 700A 06E2 072D 3A77 F8E2 9026 DBBE 1FC2 37AF",
+			"url": "https://t.co/x4ih0X9WgH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x4ih0X9WgH",
+							"expanded_url": "http://craphound.com",
+							"display_url": "craphound.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/rS9kTnTcWs",
+							"expanded_url": "http://boingboing.net/s",
+							"display_url": "boingboing.net/s",
+							"indices": [
+								82,
+								105
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 420535,
+			"friends_count": 1691,
+			"listed_count": 13068,
+			"created_at": "Wed Mar 28 21:40:55 +0000 2007",
+			"favourites_count": 151,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 197612,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111026520548691971/Thyp3AyA_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111026520548691971/Thyp3AyA_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2729061/1398312817",
+			"profile_link_color": "3F3FC4",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#5yrsago Aaron Swartz documentary, The Internet's Own Boy, out today https://t.co/yKGcdbwr2C"
+	},
+	{
 		"created_at": "Thu Jun 27 22:54:39 +0000 2019",
 		"id": 1144378535987077100,
 		"id_str": "1144378535987077120",
