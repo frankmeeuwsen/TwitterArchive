@@ -1,6 +1,221 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sat Jun 29 17:59:38 +0000 2019",
+		"id": 1145029067885948900,
+		"id_str": "1145029067885948928",
+		"full_text": "Weer zoveel positieve energie op #indiewebsummit, toffe ideeën en nieuwe inzichten. https://t.co/Mu4F2PLkPN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "indiewebsummit",
+					"indices": [
+						33,
+						48
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Mu4F2PLkPN",
+					"expanded_url": "https://twitter.com/cleverdevil/status/1145026357501599745",
+					"display_url": "twitter.com/cleverdevil/st…",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8857,
+			"friends_count": 260,
+			"listed_count": 588,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5433,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60110,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1555103121",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1145026357501599700,
+		"quoted_status_id_str": "1145026357501599745",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Mu4F2PLkPN",
+			"expanded": "https://twitter.com/cleverdevil/status/1145026357501599745",
+			"display": "twitter.com/cleverdevil/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jun 29 17:48:51 +0000 2019",
+			"id": 1145026357501599700,
+			"id_str": "1145026357501599745",
+			"full_text": "Shortcuts in iOS is enabling a huge number of amazing IndieWeb workflows. Its only going to get better in iOS 13. IndieWeb’s focus on building blocks is really paying off!",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				171
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://cleverdevil.io\" rel=\"nofollow\">cleverdevil.io</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 639523,
+				"id_str": "639523",
+				"name": "Jonathan LaCour",
+				"screen_name": "cleverdevil",
+				"location": "Los Angeles, CA",
+				"description": "CTO at @MissionCloud. Formerly, @DreamHost, @ShootQ, elsewhere. Bourbon enthusiast. Foodie. PGP: C756 2813 F881 06E2 6F1F 547B 003F 530D 3859 B702",
+				"url": "https://t.co/fDHDSqzXNQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fDHDSqzXNQ",
+								"expanded_url": "https://cleverdevil.io",
+								"display_url": "cleverdevil.io",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1253,
+				"friends_count": 296,
+				"listed_count": 114,
+				"created_at": "Mon Jan 15 21:49:20 +0000 2007",
+				"favourites_count": 10330,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 26124,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/744804831064317952/W-gMo7AO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/744804831064317952/W-gMo7AO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/639523/1443413081",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Weer zoveel positieve energie op #indiewebsummit, toffe ideeën en nieuwe inzichten. https://t.co/Mu4F2PLkPN"
+	},
+	{
 		"created_at": "Sat Jun 29 16:52:29 +0000 2019",
 		"id": 1145012170989736000,
 		"id_str": "1145012170989735938",
