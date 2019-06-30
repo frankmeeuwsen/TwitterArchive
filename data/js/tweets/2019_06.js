@@ -1,6 +1,292 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sun Jun 30 18:39:28 +0000 2019",
+		"id": 1145401480192696300,
+		"id_str": "1145401480192696320",
+		"full_text": "Social circles colliding... https://t.co/1FfJjlC2y7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1FfJjlC2y7",
+					"expanded_url": "https://twitter.com/katypearce/status/1145072435005284352",
+					"display_url": "twitter.com/katypearce/sta…",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8857,
+			"friends_count": 261,
+			"listed_count": 588,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5433,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60112,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1555103121",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1145072435005284400,
+		"quoted_status_id_str": "1145072435005284352",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1FfJjlC2y7",
+			"expanded": "https://twitter.com/katypearce/status/1145072435005284352",
+			"display": "twitter.com/katypearce/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jun 29 20:51:57 +0000 2019",
+			"id": 1145072435005284400,
+			"id_str": "1145072435005284352",
+			"full_text": "17 year old me does not understand this. https://t.co/R0pq44ou6F",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				40
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1145072429733040100,
+						"id_str": "1145072429733040129",
+						"indices": [
+							41,
+							64
+						],
+						"media_url": "http://pbs.twimg.com/media/D-QdTthU0AEQT0y.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D-QdTthU0AEQT0y.jpg",
+						"url": "https://t.co/R0pq44ou6F",
+						"display_url": "pic.twitter.com/R0pq44ou6F",
+						"expanded_url": "https://twitter.com/katypearce/status/1145072435005284352/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1145072429733040100,
+						"id_str": "1145072429733040129",
+						"indices": [
+							41,
+							64
+						],
+						"media_url": "http://pbs.twimg.com/media/D-QdTthU0AEQT0y.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D-QdTthU0AEQT0y.jpg",
+						"url": "https://t.co/R0pq44ou6F",
+						"display_url": "pic.twitter.com/R0pq44ou6F",
+						"expanded_url": "https://twitter.com/katypearce/status/1145072435005284352/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 93782410,
+				"id_str": "93782410",
+				"name": "Dr. Katy Pearce",
+				"screen_name": "katypearce",
+				"location": "Seattle, WA",
+				"description": "Associate Prof of Communication @uwcomm. I study tech & inequality in Armenia & Azerbaijan. Tweeting research & pop culture & parenting.",
+				"url": "https://t.co/tAqAyb8gYZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/tAqAyb8gYZ",
+								"expanded_url": "http://www.katypearce.net",
+								"display_url": "katypearce.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7221,
+				"friends_count": 2122,
+				"listed_count": 393,
+				"created_at": "Tue Dec 01 03:45:17 +0000 2009",
+				"favourites_count": 20451,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 96195,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/506985389546938368/P8lHZLf7_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/506985389546938368/P8lHZLf7_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/93782410/1400274875",
+				"profile_link_color": "1984AB",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 224,
+			"favorite_count": 1516,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Social circles colliding... https://t.co/1FfJjlC2y7"
+	},
+	{
 		"created_at": "Sat Jun 29 17:59:38 +0000 2019",
 		"id": 1145029067885948900,
 		"id_str": "1145029067885948928",
