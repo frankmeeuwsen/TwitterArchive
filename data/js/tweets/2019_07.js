@@ -1,6 +1,238 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Mon Jul 01 08:33:04 +0000 2019",
+		"id": 1145611262656753700,
+		"id_str": "1145611262656753665",
+		"full_text": "@Oli4K Google Glass? VR Brillen? Daar houden ze zich angstvallig stil over! Onze regering doet weer niets!!!11!!,,!!",
+		"truncated": false,
+		"display_text_range": [
+			7,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Oli4K",
+					"name": "✐ 𝙾𝚕𝚒𝚟𝚒𝚎𝚛 𝚂𝚕𝚊𝚋𝚋𝚎𝚛𝚜",
+					"id": 6091182,
+					"id_str": "6091182",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1145610763748462600,
+		"in_reply_to_status_id_str": "1145610763748462592",
+		"in_reply_to_user_id": 6091182,
+		"in_reply_to_user_id_str": "6091182",
+		"in_reply_to_screen_name": "Oli4K",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8857,
+			"friends_count": 261,
+			"listed_count": 588,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5438,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60120,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1555103121",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@Oli4K Google Glass? VR Brillen? Daar houden ze zich angstvallig stil over! Onze regering doet weer niets!!!11!!,,!!"
+	},
+	{
+		"created_at": "Mon Jul 01 08:32:22 +0000 2019",
+		"id": 1145611090048553000,
+		"id_str": "1145611090048552960",
+		"full_text": "@toontoet @gvenk @boerdeboer Alleen als je op een paard zit als ik de regels goed begrijp...",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "toontoet",
+					"name": "Toon Toetenel",
+					"id": 76908257,
+					"id_str": "76908257",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "gvenk",
+					"name": "Gerard van Enk",
+					"id": 1789221,
+					"id_str": "1789221",
+					"indices": [
+						10,
+						16
+					]
+				},
+				{
+					"screen_name": "boerdeboer",
+					"name": "boerdeboer -",
+					"id": 11798112,
+					"id_str": "11798112",
+					"indices": [
+						17,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1145603505987686400,
+		"in_reply_to_status_id_str": "1145603505987686401",
+		"in_reply_to_user_id": 76908257,
+		"in_reply_to_user_id_str": "76908257",
+		"in_reply_to_screen_name": "toontoet",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8857,
+			"friends_count": 261,
+			"listed_count": 588,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5438,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60120,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1555103121",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@toontoet @gvenk @boerdeboer Alleen als je op een paard zit als ik de regels goed begrijp..."
+	},
+	{
 		"created_at": "Mon Jul 01 07:57:49 +0000 2019",
 		"id": 1145602391305269200,
 		"id_str": "1145602391305269248",
