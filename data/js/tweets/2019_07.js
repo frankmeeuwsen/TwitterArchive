@@ -1,6 +1,130 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Tue Jul 02 11:22:49 +0000 2019",
+		"id": 1146004782588543000,
+		"id_str": "1146016372482347008",
+		"full_text": "Gezocht in Amsterdam: ruimte voor #IndieWebCamp op 28/29 september. Benodigd 3 ruimten (1 max 35, 2 max 10-12), de grotere op beide dagen, de anderen alleen de 1e dag. Budget: liefst gesponsord door gebruiker v.d. ruimte. Bijv. vergaderruimtes… https://t.co/2RteodLUsS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IndieWebCamp",
+					"indices": [
+						34,
+						47
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2RteodLUsS",
+					"expanded_url": "https://www.zylstra.org/blog/2019/07/7723/",
+					"display_url": "zylstra.org/blog/2019/07/7…",
+					"indices": [
+						245,
+						268
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://brid.gy/\" rel=\"nofollow\">Bridgy</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 25049203,
+			"id_str": "25049203",
+			"name": "Ton Zijlstra",
+			"screen_name": "ton_zylstra",
+			"location": "The Netherlands",
+			"description": "https://t.co/llwPkFZf36\n\nChange, complexity, #opendata, #opengov, FabLab, Making, #IoT, learning, communities of practice, philosophy of technology. .eu",
+			"url": "https://t.co/mxPIeEaDtM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mxPIeEaDtM",
+							"expanded_url": "https://www.zylstra.org/blog",
+							"display_url": "zylstra.org/blog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/llwPkFZf36",
+							"expanded_url": "https://m.tzyl.nl/@ton",
+							"display_url": "m.tzyl.nl/@ton",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1564,
+			"friends_count": 451,
+			"listed_count": 193,
+			"created_at": "Wed Mar 18 09:24:58 +0000 2009",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4742,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/659398307081379840/pyAVq5hk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/659398307081379840/pyAVq5hk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/25049203/1446047749",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Gezocht in Amsterdam: ruimte voor #IndieWebCamp op 28/29 september. Benodigd 3 ruimten (1 max 35, 2 max 10-12), de grotere op beide dagen, de anderen alleen de 1e dag. Budget: liefst gesponsord door gebruiker v.d. ruimte. Bijv. vergaderruimtes… https://t.co/2RteodLUsS"
+	},
+	{
 		"created_at": "Tue Jul 02 07:09:16 +0000 2019",
 		"id": 1145952563709263900,
 		"id_str": "1145952563709263872",
