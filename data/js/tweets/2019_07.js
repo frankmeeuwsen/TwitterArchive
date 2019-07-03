@@ -1,6 +1,134 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Wed Jul 03 22:39:11 +0000 2019",
+		"id": 1146547890397110300,
+		"id_str": "1146548971873165312",
+		"full_text": "Vrouw schiet Oranje naar de finale.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17106307,
+			"id_str": "17106307",
+			"name": "Jos Govaart",
+			"screen_name": "josgovaart",
+			"location": "Rotterdam or at home in Breda",
+			"description": "Oprichter @coopr Bestuurslid @veatweet - tweet over marcom, voetbal.",
+			"url": "https://t.co/LM7l41Avp8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LM7l41Avp8",
+							"expanded_url": "http://www.coopr.nl",
+							"display_url": "coopr.nl",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6760,
+			"friends_count": 930,
+			"listed_count": 419,
+			"created_at": "Sat Nov 01 22:26:27 +0000 2008",
+			"favourites_count": 4917,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 96470,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1043234487667187715/VnAmWWFM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1043234487667187715/VnAmWWFM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17106307/1544791485",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "75431660bc651ca9",
+			"url": "https://api.twitter.com/1.1/geo/id/75431660bc651ca9.json",
+			"place_type": "city",
+			"name": "Breda",
+			"full_name": "Breda, Nederland",
+			"country_code": "NL",
+			"country": "Nederland",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							4.658036,
+							51.4767179
+						],
+						[
+							4.8716632,
+							51.4767179
+						],
+						[
+							4.8716632,
+							51.6431374
+						],
+						[
+							4.658036,
+							51.6431374
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "nl",
+		"text": "Vrouw schiet Oranje naar de finale."
+	},
+	{
 		"created_at": "Wed Jul 03 21:23:08 +0000 2019",
 		"id": 1146529833343684600,
 		"id_str": "1146529833343684608",
