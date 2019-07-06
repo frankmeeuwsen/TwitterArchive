@@ -1,6 +1,404 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sat Jul 06 16:38:37 +0000 2019",
+		"id": 1147543846370205700,
+		"id_str": "1147545395742031877",
+		"full_text": "Birds with arms https://t.co/vcZNJYltAk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1147543839680237600,
+					"id_str": "1147543839680237568",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/D-zlCtBUEAAUpxS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-zlCtBUEAAUpxS.jpg",
+					"url": "https://t.co/vcZNJYltAk",
+					"display_url": "pic.twitter.com/vcZNJYltAk",
+					"expanded_url": "https://twitter.com/41Strange/status/1147543846370205696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 780,
+							"h": 999,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 531,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 780,
+							"h": 999,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1147543839680237600,
+					"id_str": "1147543839680237568",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/D-zlCtBUEAAUpxS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-zlCtBUEAAUpxS.jpg",
+					"url": "https://t.co/vcZNJYltAk",
+					"display_url": "pic.twitter.com/vcZNJYltAk",
+					"expanded_url": "https://twitter.com/41Strange/status/1147543846370205696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 780,
+							"h": 999,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 531,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 780,
+							"h": 999,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1147543839692869600,
+					"id_str": "1147543839692869632",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/D-zlCtEU0AAttFe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-zlCtEU0AAttFe.jpg",
+					"url": "https://t.co/vcZNJYltAk",
+					"display_url": "pic.twitter.com/vcZNJYltAk",
+					"expanded_url": "https://twitter.com/41Strange/status/1147543846370205696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 728,
+							"h": 962,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 515,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 728,
+							"h": 962,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1147543839684493300,
+					"id_str": "1147543839684493312",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/D-zlCtCVAAA0pQT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-zlCtCVAAA0pQT.jpg",
+					"url": "https://t.co/vcZNJYltAk",
+					"display_url": "pic.twitter.com/vcZNJYltAk",
+					"expanded_url": "https://twitter.com/41Strange/status/1147543846370205696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 660,
+							"h": 495,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 660,
+							"h": 495,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 660,
+							"h": 495,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1147543839688675300,
+					"id_str": "1147543839688675328",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/D-zlCtDU0AAiY_f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-zlCtDU0AAiY_f.jpg",
+					"url": "https://t.co/vcZNJYltAk",
+					"display_url": "pic.twitter.com/vcZNJYltAk",
+					"expanded_url": "https://twitter.com/41Strange/status/1147543846370205696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 660,
+							"h": 495,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 660,
+							"h": 495,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 660,
+							"h": 495,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2355808260,
+			"id_str": "2355808260",
+			"name": "41 Strange",
+			"screen_name": "41Strange",
+			"location": "Hollywood, CA",
+			"description": "Horror short stories bestseller out now",
+			"url": "https://t.co/lApirIcxFC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lApirIcxFC",
+							"expanded_url": "https://41strange.wordpress.com",
+							"display_url": "41strange.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 557260,
+			"friends_count": 6131,
+			"listed_count": 3811,
+			"created_at": "Sat Feb 22 05:04:53 +0000 2014",
+			"favourites_count": 175737,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 29693,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "080403",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/453318225720123393/zbjvCWzf_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/453318225720123393/zbjvCWzf_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2355808260/1405535968",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 607,
+		"favorite_count": 2195,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Birds with arms https://t.co/vcZNJYltAk"
+	},
+	{
+		"created_at": "Sat Jul 06 16:37:20 +0000 2019",
+		"id": 1147545073908949000,
+		"id_str": "1147545073908948993",
+		"full_text": "@TristanLavender @thomaswensma Niet dat ik ze allemaal ken, ik typ ook gewoon een zoekresultaat over ;-)",
+		"truncated": false,
+		"display_text_range": [
+			31,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TristanLavender",
+					"name": "Tristan Lavender",
+					"id": 27412577,
+					"id_str": "27412577",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "thomaswensma",
+					"name": "Thomas Wensma",
+					"id": 111623095,
+					"id_str": "111623095",
+					"indices": [
+						17,
+						30
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1147544931713605600,
+		"in_reply_to_status_id_str": "1147544931713605638",
+		"in_reply_to_user_id": 816203,
+		"in_reply_to_user_id_str": "816203",
+		"in_reply_to_screen_name": "frankmeeuwsen",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8859,
+			"friends_count": 261,
+			"listed_count": 588,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5460,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60146,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1555103121",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@TristanLavender @thomaswensma Niet dat ik ze allemaal ken, ik typ ook gewoon een zoekresultaat over ;-)"
+	},
+	{
 		"created_at": "Thu Jul 04 10:38:54 +0000 2019",
 		"id": 1146730095006146600,
 		"id_str": "1146730095006146560",
