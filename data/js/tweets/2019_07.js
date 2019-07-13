@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sat Jul 13 12:25:00 +0000 2019",
+		"id": 1149587097390473200,
+		"id_str": "1150018287545311234",
+		"full_text": "上海のショッピングモールにある、この人間UFOキャッチャー、是非とも試してみたい。 https://t.co/eUMpRgrjHn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1149586991626911700,
+					"id_str": "1149586991626911747",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1149586991626911747/pu/img/F5KTWTleLL9_RSrB.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1149586991626911747/pu/img/F5KTWTleLL9_RSrB.jpg",
+					"url": "https://t.co/eUMpRgrjHn",
+					"display_url": "pic.twitter.com/eUMpRgrjHn",
+					"expanded_url": "https://twitter.com/koumikudayo/status/1149587097390473217/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 544,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 385,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 544,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1149586991626911700,
+					"id_str": "1149586991626911747",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1149586991626911747/pu/img/F5KTWTleLL9_RSrB.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1149586991626911747/pu/img/F5KTWTleLL9_RSrB.jpg",
+					"url": "https://t.co/eUMpRgrjHn",
+					"display_url": "pic.twitter.com/eUMpRgrjHn",
+					"expanded_url": "https://twitter.com/koumikudayo/status/1149587097390473217/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 544,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 385,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 544,
+							"h": 960,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							17,
+							30
+						],
+						"duration_millis": 13546,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1149586991626911747/pu/vid/360x634/kPsBj4DaHaSKAibL.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1149586991626911747/pu/vid/544x960/YJkoRuZ3Za4jWJNY.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1149586991626911747/pu/pl/wsbI_KeOzYBzXQBk.m3u8?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1149586991626911747/pu/vid/320x564/4Az4FeooGORgsD74.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 246740214,
+			"id_str": "246740214",
+			"name": "こうみく🇨🇳中国トレンドマーケター",
+			"screen_name": "koumikudayo",
+			"location": "中国トレンド情報局の局長です👩‍🏭👇",
+			"description": "ホットな中国ビジネス、テック、トレンドの最先端を、上海の現場から、お届けします。お問い合わせはDMまで📩上海交通大学MBA在籍中／早稲田大→総合商社→Now ! ／NewsPicksプロピッカー スポンサー📣@sankon_kaku",
+			"url": "https://t.co/NDqnGAXkH4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NDqnGAXkH4",
+							"expanded_url": "https://note.mu/soutaros/n/n2a828ade5873",
+							"display_url": "note.mu/soutaros/n/n2a…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29540,
+			"friends_count": 268,
+			"listed_count": 348,
+			"created_at": "Thu Feb 03 11:13:33 +0000 2011",
+			"favourites_count": 17689,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6330,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027119759140184065/6xrYoq4b_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027119759140184065/6xrYoq4b_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/246740214/1561998862",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7186,
+		"favorite_count": 20988,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "上海のショッピングモールにある、この人間UFOキャッチャー、是非とも試してみたい。 https://t.co/eUMpRgrjHn"
+	},
+	{
 		"created_at": "Fri Jul 12 18:56:12 +0000 2019",
 		"id": 1149754347145838600,
 		"id_str": "1149754347145838592",
