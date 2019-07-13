@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sat Jul 13 17:44:36 +0000 2019",
+		"id": 1150098714855379000,
+		"id_str": "1150098714855378944",
+		"full_text": "IBM leverde ponskaarten in de jaren '30 van de vorige eeuw. Onder andere in Duitsland. Om machinaal bevolkingsgroepen te tellen, categoriseren en later uit te sluiten en op te pakken. Of zoiets nu nog kan? Misschien geen ponskaarten... 👇 https://t.co/yF5NlaNqin",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			237
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yF5NlaNqin",
+					"expanded_url": "https://twitter.com/nandoodles/status/1149551684823085061",
+					"display_url": "twitter.com/nandoodles/sta…",
+					"indices": [
+						238,
+						261
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8858,
+			"friends_count": 264,
+			"listed_count": 590,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5479,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60171,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1555103121",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1149551684823085000,
+		"quoted_status_id_str": "1149551684823085061",
+		"quoted_status_permalink": {
+			"url": "https://t.co/yF5NlaNqin",
+			"expanded": "https://twitter.com/nandoodles/status/1149551684823085061",
+			"display": "twitter.com/nandoodles/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jul 12 05:30:53 +0000 2019",
+			"id": 1149551684823085000,
+			"id_str": "1149551684823085061",
+			"full_text": "No one in the business community is helping ICE separate families and put kids in concentration camps: A thread",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				111
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 971454026,
+				"id_str": "971454026",
+				"name": "Nandini Jammi",
+				"screen_name": "nandoodles",
+				"location": "District of Columbia, USA",
+				"description": "Organizer @slpng_giants / Copywriter / Excessive in person, concise in writing",
+				"url": "https://t.co/NQMZRBFXNc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/NQMZRBFXNc",
+								"expanded_url": "http://www.nandinijammi.com",
+								"display_url": "nandinijammi.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3307,
+				"friends_count": 1301,
+				"listed_count": 182,
+				"created_at": "Mon Nov 26 06:41:59 +0000 2012",
+				"favourites_count": 9277,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7687,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1079456357416345600/_ugBhyep_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1079456357416345600/_ugBhyep_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/971454026/1425238055",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4359,
+			"favorite_count": 6911,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "IBM leverde ponskaarten in de jaren '30 van de vorige eeuw. Onder andere in Duitsland. Om machinaal bevolkingsgroepen te tellen, categoriseren en later uit te sluiten en op te pakken. Of zoiets nu nog kan? Misschien geen ponskaarten... 👇 https://t.co/yF5NlaNqin"
+	},
+	{
 		"created_at": "Sat Jul 13 15:50:18 +0000 2019",
 		"id": 1150069952835178500,
 		"id_str": "1150069952835178498",
