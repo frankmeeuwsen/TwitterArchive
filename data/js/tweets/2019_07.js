@@ -1,6 +1,290 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sat Jul 13 14:02:57 +0000 2019",
+		"id": 1150006574523572200,
+		"id_str": "1150042935112675334",
+		"full_text": "Fascism doesn’t arrive in jackboots. It’s men in suits looking calmly over overcrowded cages full of people, and deciding to turn their backs on human suffering. https://t.co/rhyJcWTqlH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1149839356426743800,
+					"id_str": "1149839356426743808",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1149839356426743808/pu/img/EI3QtmcAnT5kiyY2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1149839356426743808/pu/img/EI3QtmcAnT5kiyY2.jpg",
+					"url": "https://t.co/rhyJcWTqlH",
+					"display_url": "pic.twitter.com/rhyJcWTqlH",
+					"expanded_url": "https://twitter.com/NBCNews/status/1149840135267028992/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1149840135267029000,
+					"source_status_id_str": "1149840135267028992",
+					"source_user_id": 14173315,
+					"source_user_id_str": "14173315"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1149839356426743800,
+					"id_str": "1149839356426743808",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1149839356426743808/pu/img/EI3QtmcAnT5kiyY2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1149839356426743808/pu/img/EI3QtmcAnT5kiyY2.jpg",
+					"url": "https://t.co/rhyJcWTqlH",
+					"display_url": "pic.twitter.com/rhyJcWTqlH",
+					"expanded_url": "https://twitter.com/NBCNews/status/1149840135267028992/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1149840135267029000,
+					"source_status_id_str": "1149840135267028992",
+					"source_user_id": 14173315,
+					"source_user_id_str": "14173315",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 77611,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1149839356426743808/pu/vid/1280x720/0lPTtXI2SyN4jmwC.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1149839356426743808/pu/pl/DmfeX5hng7qMDifY.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1149839356426743808/pu/vid/480x270/hB70Rm9MpL2BMyhK.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1149839356426743808/pu/vid/640x360/-Gn0Q6CohYdXWpPK.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 14173315,
+							"id_str": "14173315",
+							"name": "NBC News",
+							"screen_name": "NBCNews",
+							"location": "New York, NY",
+							"description": "The leading source of global news and info for more than 75 years. https://t.co/Hd7rJQeDzP",
+							"url": "https://t.co/Z73is4fJ3x",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/Z73is4fJ3x",
+											"expanded_url": "http://NBCNews.com",
+											"display_url": "NBCNews.com",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": [
+										{
+											"url": "https://t.co/Hd7rJQeDzP",
+											"expanded_url": "https://www.instagram.com/nbcnews",
+											"display_url": "instagram.com/nbcnews",
+											"indices": [
+												67,
+												90
+											]
+										}
+									]
+								}
+							},
+							"protected": false,
+							"followers_count": 6656575,
+							"friends_count": 1761,
+							"listed_count": 41532,
+							"created_at": "Tue Mar 18 23:19:17 +0000 2008",
+							"favourites_count": 768,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 214332,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "062131",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1108426393287868423/CyLn5GVQ_normal.png",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1108426393287868423/CyLn5GVQ_normal.png",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/14173315/1562085255",
+							"profile_link_color": "5172A0",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "FFFFFF",
+							"profile_text_color": "000000",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 619050616,
+			"id_str": "619050616",
+			"name": "Ash Sarkar",
+			"screen_name": "AyoCaesar",
+			"location": "London",
+			"description": "Senior Editor @novaramedia. Literature bore. Anarcho-fabulous. Muslim. THFC. Walks like a supermodel. Fucks like a champion. Luxury communism now!",
+			"url": "https://t.co/HRtfgxY0Ye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HRtfgxY0Ye",
+							"expanded_url": "http://www.novaramedia.com",
+							"display_url": "novaramedia.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 161112,
+			"friends_count": 1448,
+			"listed_count": 865,
+			"created_at": "Tue Jun 26 12:53:46 +0000 2012",
+			"favourites_count": 12503,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26700,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1108381139595612162/imUw0Y9Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1108381139595612162/imUw0Y9Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/619050616/1535963097",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2563,
+		"favorite_count": 5797,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Fascism doesn’t arrive in jackboots. It’s men in suits looking calmly over overcrowded cages full of people, and deciding to turn their backs on human suffering. https://t.co/rhyJcWTqlH"
+	},
+	{
 		"created_at": "Sat Jul 13 12:25:00 +0000 2019",
 		"id": 1149587097390473200,
 		"id_str": "1150018287545311234",
@@ -136,7 +420,7 @@ Grailbird.data.tweets_2019_07 =
 			"id_str": "246740214",
 			"name": "こうみく🇨🇳中国トレンドマーケター",
 			"screen_name": "koumikudayo",
-			"location": "中国トレンド情報局の局長です👩‍🏭👇",
+			"location": "中国トレンド情報局の局長です👩🏭👇",
 			"description": "ホットな中国ビジネス、テック、トレンドの最先端を、上海の現場から、お届けします。お問い合わせはDMまで📩上海交通大学MBA在籍中／早稲田大→総合商社→Now ! ／NewsPicksプロピッカー スポンサー📣@sankon_kaku",
 			"url": "https://t.co/NDqnGAXkH4",
 			"entities": {
