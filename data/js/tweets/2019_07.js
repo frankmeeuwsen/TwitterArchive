@@ -1,6 +1,270 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sun Jul 14 22:30:01 +0000 2019",
+		"id": 1150066411206824000,
+		"id_str": "1150532930982297601",
+		"full_text": "The only 10x engineer https://t.co/hSOhP1gvzL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1148796142735581200,
+					"id_str": "1148796142735581184",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1148796142735581184/img/gI8bNjL7_5kcZT-c.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1148796142735581184/img/gI8bNjL7_5kcZT-c.jpg",
+					"url": "https://t.co/hSOhP1gvzL",
+					"display_url": "pic.twitter.com/hSOhP1gvzL",
+					"expanded_url": "https://twitter.com/PsychologyDoc/status/1148799029226168320/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1148799029226168300,
+					"source_status_id_str": "1148799029226168320",
+					"source_user_id": 866102366,
+					"source_user_id_str": "866102366"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1148796142735581200,
+					"id_str": "1148796142735581184",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1148796142735581184/img/gI8bNjL7_5kcZT-c.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1148796142735581184/img/gI8bNjL7_5kcZT-c.jpg",
+					"url": "https://t.co/hSOhP1gvzL",
+					"display_url": "pic.twitter.com/hSOhP1gvzL",
+					"expanded_url": "https://twitter.com/PsychologyDoc/status/1148799029226168320/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1148799029226168300,
+					"source_status_id_str": "1148799029226168320",
+					"source_user_id": 866102366,
+					"source_user_id_str": "866102366",
+					"video_info": {
+						"aspect_ratio": [
+							2,
+							3
+						],
+						"duration_millis": 192567,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1148796142735581184/pl/NSZigM27VSGJANVw.m3u8?tag=13"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1148796142735581184/vid/320x480/sPj-wIwqPipEZycI.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1148796142735581184/vid/720x1080/J1UQv5GVPAQudmEb.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1148796142735581184/vid/360x540/EAmJJUtyT952cXov.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false,
+						"source_user": {
+							"id": 866102366,
+							"id_str": "866102366",
+							"name": "۞ ψυχολογία ۩",
+							"screen_name": "PsychologyDoc",
+							"location": "Detroit, MI",
+							"description": "☪爱  ✍ Tweeting on a perilous quest towards becoming a successful Psychiatrist. Focus on Psychology of Religion & Politics. [#History | #Crypto | #AI | #INTP]️",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 114746,
+							"friends_count": 50253,
+							"listed_count": 853,
+							"created_at": "Sun Oct 07 10:18:18 +0000 2012",
+							"favourites_count": 7053,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 11529,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1149942790991810560/_vmioEfb_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149942790991810560/_vmioEfb_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/866102366/1554533580",
+							"profile_link_color": "000000",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "regular"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21204689,
+			"id_str": "21204689",
+			"name": "Helen 侯-Sandí",
+			"screen_name": "helenhousandi",
+			"location": "San José, Costa Rica",
+			"description": "OG and Director of Open Source Initiatives @10up. @WordPress Lead Developer. Collaborative pianist via @EastmanSchool and @VCU. she/her + NYC/VB + 🇺🇸🇨🇳🇨🇷",
+			"url": "https://t.co/MuW82Y2qP2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MuW82Y2qP2",
+							"expanded_url": "https://helen.blog",
+							"display_url": "helen.blog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13796,
+			"friends_count": 504,
+			"listed_count": 748,
+			"created_at": "Wed Feb 18 15:18:07 +0000 2009",
+			"favourites_count": 33916,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41069,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "502D57",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1124848090635173888/LddLPgYg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1124848090635173888/LddLPgYg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21204689/1392523877",
+			"profile_link_color": "663399",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "603D73",
+			"profile_text_color": "FF6647",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4790,
+		"favorite_count": 15600,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The only 10x engineer https://t.co/hSOhP1gvzL"
+	},
+	{
 		"created_at": "Sun Jul 14 10:57:15 +0000 2019",
 		"id": 1150358590223454200,
 		"id_str": "1150358590223454208",
