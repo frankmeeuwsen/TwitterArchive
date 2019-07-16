@@ -1,6 +1,328 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Tue Jul 16 17:25:21 +0000 2019",
+		"id": 1151181033737543700,
+		"id_str": "1151181033737543681",
+		"full_text": "Influencers be influencing. Zonder blauw-licht film op je oogbal. Dat dan weer wel... https://t.co/0TLV77JnMD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0TLV77JnMD",
+					"expanded_url": "https://twitter.com/nxthompson/status/1151135396174036992",
+					"display_url": "twitter.com/nxthompson/sta…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8858,
+			"friends_count": 265,
+			"listed_count": 589,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5485,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60189,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1555103121",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1151135396174037000,
+		"quoted_status_id_str": "1151135396174036992",
+		"quoted_status_permalink": {
+			"url": "https://t.co/0TLV77JnMD",
+			"expanded": "https://twitter.com/nxthompson/status/1151135396174036992",
+			"display": "twitter.com/nxthompson/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jul 16 14:24:00 +0000 2019",
+			"id": 1151135396174037000,
+			"id_str": "1151135396174036992",
+			"full_text": "I totally agree with Grimes that a humidifier is helpful. https://t.co/IAAtWvQPVP",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				57
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1151135388464926700,
+						"id_str": "1151135388464926723",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/media/D_mniW3VUAMrGdz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D_mniW3VUAMrGdz.jpg",
+						"url": "https://t.co/IAAtWvQPVP",
+						"display_url": "pic.twitter.com/IAAtWvQPVP",
+						"expanded_url": "https://twitter.com/nxthompson/status/1151135396174036992/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 744,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1270,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 422,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1151135388464926700,
+						"id_str": "1151135388464926723",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/media/D_mniW3VUAMrGdz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D_mniW3VUAMrGdz.jpg",
+						"url": "https://t.co/IAAtWvQPVP",
+						"display_url": "pic.twitter.com/IAAtWvQPVP",
+						"expanded_url": "https://twitter.com/nxthompson/status/1151135396174036992/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 744,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1270,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 422,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1151135388477427700,
+						"id_str": "1151135388477427712",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/media/D_mniW6UEAAtqGp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D_mniW6UEAAtqGp.jpg",
+						"url": "https://t.co/IAAtWvQPVP",
+						"display_url": "pic.twitter.com/IAAtWvQPVP",
+						"expanded_url": "https://twitter.com/nxthompson/status/1151135396174036992/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1657,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 971,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 550,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16892481,
+				"id_str": "16892481",
+				"name": "Nicholas Thompson",
+				"screen_name": "nxthompson",
+				"location": "New York",
+				"description": "Editor in Chief of @wired. DMs are always open for tips and scoops. Also nxthompson@protonmail",
+				"url": "https://t.co/W3XiTv7Ecq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/W3XiTv7Ecq",
+								"expanded_url": "http://www.nickthompson.com",
+								"display_url": "nickthompson.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 109393,
+				"friends_count": 1810,
+				"listed_count": 3144,
+				"created_at": "Tue Oct 21 19:50:15 +0000 2008",
+				"favourites_count": 25548,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 26520,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/986311858440294400/yQaTvqGK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/986311858440294400/yQaTvqGK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16892481/1561037513",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 253,
+			"favorite_count": 1454,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Influencers be influencing. Zonder blauw-licht film op je oogbal. Dat dan weer wel... https://t.co/0TLV77JnMD"
+	},
+	{
 		"created_at": "Tue Jul 16 15:36:29 +0000 2019",
 		"id": 1151153636954771500,
 		"id_str": "1151153636954771456",
