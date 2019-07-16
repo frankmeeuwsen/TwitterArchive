@@ -1,6 +1,354 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Tue Jul 16 20:54:58 +0000 2019",
+		"id": 1151233786618794000,
+		"id_str": "1151233786618793989",
+		"full_text": "@youdid @mroumen Ah ja ik ken die situatie. Uiteindelijk maakte ik de persoonlijke keuze dat zo'n manier van werken niets voor mij is. En besloot ik iets anders te gaan doen. Tip die ik ooit kreeg: Probeer elke dag 1 meeting af te zeggen waar je niet bij wilt/hoeft te zijn.",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "youdid",
+					"name": "Judith",
+					"id": 12561762,
+					"id_str": "12561762",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "mroumen",
+					"name": "Matthijs Roumen",
+					"id": 5443822,
+					"id_str": "5443822",
+					"indices": [
+						8,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1151231794169045000,
+		"in_reply_to_status_id_str": "1151231794169044998",
+		"in_reply_to_user_id": 12561762,
+		"in_reply_to_user_id_str": "12561762",
+		"in_reply_to_screen_name": "youdid",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8857,
+			"friends_count": 265,
+			"listed_count": 589,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5485,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60193,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1555103121",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@youdid @mroumen Ah ja ik ken die situatie. Uiteindelijk maakte ik de persoonlijke keuze dat zo'n manier van werken niets voor mij is. En besloot ik iets anders te gaan doen. Tip die ik ooit kreeg: Probeer elke dag 1 meeting af te zeggen waar je niet bij wilt/hoeft te zijn."
+	},
+	{
+		"created_at": "Tue Jul 16 20:37:58 +0000 2019",
+		"id": 1151229510815244300,
+		"id_str": "1151229510815244288",
+		"full_text": "@youdid @mroumen Maar goed dat is theoretische blabla. Ik zou proberen automatische filters in te stellen om op basis van merknaam/werkgroep/typische termen mails in labels/mappen te droppen en vanuit daar te lezen als nodig. Om mee te beginnen.",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			245
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "youdid",
+					"name": "Judith",
+					"id": 12561762,
+					"id_str": "12561762",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "mroumen",
+					"name": "Matthijs Roumen",
+					"id": 5443822,
+					"id_str": "5443822",
+					"indices": [
+						8,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1151229174993961000,
+		"in_reply_to_status_id_str": "1151229174993960960",
+		"in_reply_to_user_id": 816203,
+		"in_reply_to_user_id_str": "816203",
+		"in_reply_to_screen_name": "frankmeeuwsen",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8857,
+			"friends_count": 265,
+			"listed_count": 589,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5485,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60193,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1555103121",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@youdid @mroumen Maar goed dat is theoretische blabla. Ik zou proberen automatische filters in te stellen om op basis van merknaam/werkgroep/typische termen mails in labels/mappen te droppen en vanuit daar te lezen als nodig. Om mee te beginnen."
+	},
+	{
+		"created_at": "Tue Jul 16 20:36:38 +0000 2019",
+		"id": 1151229174993961000,
+		"id_str": "1151229174993960960",
+		"full_text": "@youdid @mroumen Dan kun je je afvragen of email het juiste middel is voor dit onderdeel van je werk. Moet het naar je worden gebracht (email) of kies je je eigen momenten om de informatie te halen (bv een wiki, interne blogs etc)",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			230
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "youdid",
+					"name": "Judith",
+					"id": 12561762,
+					"id_str": "12561762",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "mroumen",
+					"name": "Matthijs Roumen",
+					"id": 5443822,
+					"id_str": "5443822",
+					"indices": [
+						8,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1151228552638976000,
+		"in_reply_to_status_id_str": "1151228552638976001",
+		"in_reply_to_user_id": 12561762,
+		"in_reply_to_user_id_str": "12561762",
+		"in_reply_to_screen_name": "youdid",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8857,
+			"friends_count": 265,
+			"listed_count": 589,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5485,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60193,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1555103121",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@youdid @mroumen Dan kun je je afvragen of email het juiste middel is voor dit onderdeel van je werk. Moet het naar je worden gebracht (email) of kies je je eigen momenten om de informatie te halen (bv een wiki, interne blogs etc)"
+	},
+	{
 		"created_at": "Tue Jul 16 17:25:21 +0000 2019",
 		"id": 1151181033737543700,
 		"id_str": "1151181033737543681",
