@@ -1,6 +1,238 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Tue Jul 16 07:11:06 +0000 2019",
+		"id": 1151026455146565600,
+		"id_str": "1151026455146565634",
+		"full_text": "@hellojonnekuyt @Schellevis \"iedereen\" en \"hele privé leven\"? ;-) Is dat echt zo? Of is een afnemende trend? De toekomst wordt steeds meer privé kanalen volgens Le Zuck.",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hellojonnekuyt",
+					"name": "jonne kuyt",
+					"id": 174583801,
+					"id_str": "174583801",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "Schellevis",
+					"name": "Joost Schellevis",
+					"id": 6043092,
+					"id_str": "6043092",
+					"indices": [
+						16,
+						27
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1151017116633653200,
+		"in_reply_to_status_id_str": "1151017116633653249",
+		"in_reply_to_user_id": 174583801,
+		"in_reply_to_user_id_str": "174583801",
+		"in_reply_to_screen_name": "hellojonnekuyt",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8859,
+			"friends_count": 265,
+			"listed_count": 589,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5483,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60184,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1555103121",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@hellojonnekuyt @Schellevis \"iedereen\" en \"hele privé leven\"? ;-) Is dat echt zo? Of is een afnemende trend? De toekomst wordt steeds meer privé kanalen volgens Le Zuck."
+	},
+	{
+		"created_at": "Tue Jul 16 07:08:26 +0000 2019",
+		"id": 1151025782174732300,
+		"id_str": "1151025782174732288",
+		"full_text": "@Schellevis OK. Dus de ophef die nu door o.a. het NOS artikel ontstaat kan lastig worden bewezen met praktische voorbeelden (is dat niet een journalistieke taak?). Laten we hopen dat het geen \"boy cried wolf\" scenario gaat worden in de toekomst met dergelijke berichtgeving. /cc @TadekSolarz",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			291
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Schellevis",
+					"name": "Joost Schellevis",
+					"id": 6043092,
+					"id_str": "6043092",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "TadekSolarz",
+					"name": "Tadek Solarz",
+					"id": 26734588,
+					"id_str": "26734588",
+					"indices": [
+						279,
+						291
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1151012332585324500,
+		"in_reply_to_status_id_str": "1151012332585324544",
+		"in_reply_to_user_id": 6043092,
+		"in_reply_to_user_id_str": "6043092",
+		"in_reply_to_screen_name": "Schellevis",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8859,
+			"friends_count": 265,
+			"listed_count": 589,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5483,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60184,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1555103121",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@Schellevis OK. Dus de ophef die nu door o.a. het NOS artikel ontstaat kan lastig worden bewezen met praktische voorbeelden (is dat niet een journalistieke taak?). Laten we hopen dat het geen \"boy cried wolf\" scenario gaat worden in de toekomst met dergelijke berichtgeving. /cc @TadekSolarz"
+	},
+	{
 		"created_at": "Tue Jul 16 05:36:46 +0000 2019",
 		"id": 1151002715595706400,
 		"id_str": "1151002715595706369",
