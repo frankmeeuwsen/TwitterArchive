@@ -1,6 +1,199 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Thu Jul 18 19:57:56 +0000 2019",
+		"id": 1151860049062400000,
+		"id_str": "1151944208296681473",
+		"full_text": "B R I N G. T H E.  N O I S E . https://t.co/CsOxoqm0Hk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1151860045212110800,
+					"id_str": "1151860045212110854",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/D_w6m7nVUAYB07U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_w6m7nVUAYB07U.jpg",
+					"url": "https://t.co/CsOxoqm0Hk",
+					"display_url": "pic.twitter.com/CsOxoqm0Hk",
+					"expanded_url": "https://twitter.com/MrChuckD/status/1151860049062400000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 932,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1151860045212110800,
+					"id_str": "1151860045212110854",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/D_w6m7nVUAYB07U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_w6m7nVUAYB07U.jpg",
+					"url": "https://t.co/CsOxoqm0Hk",
+					"display_url": "pic.twitter.com/CsOxoqm0Hk",
+					"expanded_url": "https://twitter.com/MrChuckD/status/1151860049062400000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 932,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35831704,
+			"id_str": "35831704",
+			"name": "Chuck D",
+			"screen_name": "MrChuckD",
+			"location": "EarthiZen",
+			"description": "https://t.co/OkwiPUevWe,  Distribution, https://t.co/inUdZdV6bS Internetworks",
+			"url": "https://t.co/KmdwZfx4z7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KmdwZfx4z7",
+							"expanded_url": "http://ChannelZero.net",
+							"display_url": "ChannelZero.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/OkwiPUevWe",
+							"expanded_url": "https://twitter.com/SpitSlamRECORDS",
+							"display_url": "twitter.com/SpitSlamRECORDS",
+							"indices": [
+								0,
+								23
+							]
+						},
+						{
+							"url": "https://t.co/inUdZdV6bS",
+							"expanded_url": "https://twitter.com/RAPstationAIR",
+							"display_url": "twitter.com/RAPstationAIR",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 626501,
+			"friends_count": 73343,
+			"listed_count": 5100,
+			"created_at": "Mon Apr 27 19:21:49 +0000 2009",
+			"favourites_count": 273,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 86423,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/196712160/CHKSHEPfairey_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/196712160/CHKSHEPfairey_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35831704/1497712923",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2227,
+		"favorite_count": 9744,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "B R I N G. T H E.  N O I S E . https://t.co/CsOxoqm0Hk"
+	},
+	{
 		"created_at": "Thu Jul 18 17:58:51 +0000 2019",
 		"id": 1151914243513638900,
 		"id_str": "1151914243513638913",
