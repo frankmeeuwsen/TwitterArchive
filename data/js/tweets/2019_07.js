@@ -1,6 +1,310 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Thu Jul 18 07:17:13 +0000 2019",
+		"id": 1151752768882954200,
+		"id_str": "1151752768882954240",
+		"full_text": "6 weken zomervakantie voor de kids is gestart, ik moet nog werken, het is onduidelijk naar welke school Finn na de vakantie gaat. Hoe dat voelt? Zie onder.... https://t.co/OR0IjN43Q7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OR0IjN43Q7",
+					"expanded_url": "https://twitter.com/YTSunnys/status/1150872752414498816",
+					"display_url": "twitter.com/YTSunnys/statu…",
+					"indices": [
+						159,
+						182
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8857,
+			"friends_count": 265,
+			"listed_count": 589,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5487,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60199,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1555103121",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1150872752414498800,
+		"quoted_status_id_str": "1150872752414498816",
+		"quoted_status_permalink": {
+			"url": "https://t.co/OR0IjN43Q7",
+			"expanded": "https://twitter.com/YTSunnys/status/1150872752414498816",
+			"display": "twitter.com/YTSunnys/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jul 15 21:00:21 +0000 2019",
+			"id": 1150872752414498800,
+			"id_str": "1150872752414498816",
+			"full_text": "i regret nothing https://t.co/G7hSQQAizU",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				16
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1150872436944048100,
+						"id_str": "1150872436944048130",
+						"indices": [
+							17,
+							40
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1150872436944048130/pu/img/giafOKzc_JB_HusD.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1150872436944048130/pu/img/giafOKzc_JB_HusD.jpg",
+						"url": "https://t.co/G7hSQQAizU",
+						"display_url": "pic.twitter.com/G7hSQQAizU",
+						"expanded_url": "https://twitter.com/YTSunnys/status/1150872752414498816/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1150872436944048100,
+						"id_str": "1150872436944048130",
+						"indices": [
+							17,
+							40
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1150872436944048130/pu/img/giafOKzc_JB_HusD.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1150872436944048130/pu/img/giafOKzc_JB_HusD.jpg",
+						"url": "https://t.co/G7hSQQAizU",
+						"display_url": "pic.twitter.com/G7hSQQAizU",
+						"expanded_url": "https://twitter.com/YTSunnys/status/1150872752414498816/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 59083,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1150872436944048130/pu/vid/480x270/P_Ml_oAl-iQ-RiKD.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1150872436944048130/pu/pl/yvn7SZDV288AI3hv.m3u8?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1150872436944048130/pu/vid/640x360/bTcPblU-vaJ3hh8L.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1150872436944048130/pu/vid/1280x720/_kqaIyy-Bqbfv1wH.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2218261077,
+				"id_str": "2218261077",
+				"name": "Sunny ✨",
+				"screen_name": "YTSunnys",
+				"location": "-Ðead Ēnd-",
+				"description": "【26-06-19】 I play games and hang out with friends - or do both at the same time | Mario Maker, Deemo + Project DIVA --【ENG/NL/日本語】 | Private: @SunnyN64",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5344,
+				"friends_count": 193,
+				"listed_count": 32,
+				"created_at": "Tue Dec 10 21:07:16 +0000 2013",
+				"favourites_count": 57503,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 64645,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1145630065268576256/JI1jeNQa_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1145630065268576256/JI1jeNQa_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2218261077/1558948833",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 95576,
+			"favorite_count": 303357,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "6 weken zomervakantie voor de kids is gestart, ik moet nog werken, het is onduidelijk naar welke school Finn na de vakantie gaat. Hoe dat voelt? Zie onder.... https://t.co/OR0IjN43Q7"
+	},
+	{
 		"created_at": "Thu Jul 18 05:16:55 +0000 2019",
 		"id": 886515653368315900,
 		"id_str": "1151722495302623232",
