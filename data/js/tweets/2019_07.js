@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Thu Jul 18 05:16:55 +0000 2019",
+		"id": 886515653368315900,
+		"id_str": "1151722495302623232",
+		"full_text": "in 1997 Crayola made the leap into a cyberpunk future with the release of these internet themed crayons.\nWeb Surfin' Blue is my colour. https://t.co/7eSA1Vit4V",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 886515637346029600,
+					"id_str": "886515637346029568",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/DE2JRnPW0AAmzpS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DE2JRnPW0AAmzpS.jpg",
+					"url": "https://t.co/7eSA1Vit4V",
+					"display_url": "pic.twitter.com/7eSA1Vit4V",
+					"expanded_url": "https://twitter.com/DavidM2000AD/status/886515653368315904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 309,
+							"h": 447,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 309,
+							"h": 447,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 309,
+							"h": 447,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 886515637346029600,
+					"id_str": "886515637346029568",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/DE2JRnPW0AAmzpS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DE2JRnPW0AAmzpS.jpg",
+					"url": "https://t.co/7eSA1Vit4V",
+					"display_url": "pic.twitter.com/7eSA1Vit4V",
+					"expanded_url": "https://twitter.com/DavidM2000AD/status/886515653368315904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 309,
+							"h": 447,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 309,
+							"h": 447,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 309,
+							"h": 447,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 115517546,
+			"id_str": "115517546",
+			"name": "hedgerow devil",
+			"screen_name": "DavidM2000AD",
+			"location": "Worcester",
+			"description": "Fear and loathing in general.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 217,
+			"friends_count": 167,
+			"listed_count": 16,
+			"created_at": "Thu Feb 18 22:58:17 +0000 2010",
+			"favourites_count": 6868,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7119,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925318603616014336/ix-fARle_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925318603616014336/ix-fARle_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/115517546/1552300955",
+			"profile_link_color": "661133",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1e998dc040469e8c",
+			"url": "https://api.twitter.com/1.1/geo/id/1e998dc040469e8c.json",
+			"place_type": "city",
+			"name": "Gloucester",
+			"full_name": "Gloucester, England",
+			"country_code": "GB",
+			"country": "Verenigd Koninkrijk",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-2.28129,
+							51.8219821
+						],
+						[
+							-2.1775451,
+							51.8219821
+						],
+						[
+							-2.1775451,
+							51.8842012
+						],
+						[
+							-2.28129,
+							51.8842012
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9236,
+		"favorite_count": 24678,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "in 1997 Crayola made the leap into a cyberpunk future with the release of these internet themed crayons.\nWeb Surfin' Blue is my colour. https://t.co/7eSA1Vit4V"
+	},
+	{
 		"created_at": "Wed Jul 17 10:23:32 +0000 2019",
 		"id": 1151437269267615700,
 		"id_str": "1151437269267615744",
