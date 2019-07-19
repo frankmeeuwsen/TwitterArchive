@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Fri Jul 19 05:43:26 +0000 2019",
+		"id": 1082836724315639800,
+		"id_str": "1152091555911667712",
+		"full_text": "OG https://t.co/SP88GDeMV9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			2
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1082836715616628700,
+					"id_str": "1082836715616628738",
+					"indices": [
+						3,
+						26
+					],
+					"media_url": "http://pbs.twimg.com/media/DwcCQXgUcAI0BJl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwcCQXgUcAI0BJl.jpg",
+					"url": "https://t.co/SP88GDeMV9",
+					"display_url": "pic.twitter.com/SP88GDeMV9",
+					"expanded_url": "https://twitter.com/Mike_Dougherty/status/1082836724315639809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1082836715616628700,
+					"id_str": "1082836715616628738",
+					"indices": [
+						3,
+						26
+					],
+					"media_url": "http://pbs.twimg.com/media/DwcCQXgUcAI0BJl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwcCQXgUcAI0BJl.jpg",
+					"url": "https://t.co/SP88GDeMV9",
+					"display_url": "pic.twitter.com/SP88GDeMV9",
+					"expanded_url": "https://twitter.com/Mike_Dougherty/status/1082836724315639809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22720855,
+			"id_str": "22720855",
+			"name": "Mike Dougherty",
+			"screen_name": "Mike_Dougherty",
+			"location": "Los Angeles, CA",
+			"description": "Director of @GodzillaMovie, @KrampusMovie & @TrickRTreat.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46893,
+			"friends_count": 942,
+			"listed_count": 547,
+			"created_at": "Wed Mar 04 02:31:25 +0000 2009",
+			"favourites_count": 10229,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2916,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/457027300727324672/gtO1Se_7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/457027300727324672/gtO1Se_7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22720855/1558073863",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "4D5056",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "545454",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1314,
+		"favorite_count": 6771,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "OG https://t.co/SP88GDeMV9"
+	},
+	{
 		"created_at": "Thu Jul 18 19:57:56 +0000 2019",
 		"id": 1151860049062400000,
 		"id_str": "1151944208296681473",
