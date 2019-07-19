@@ -1,6 +1,198 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Fri Jul 19 12:24:07 +0000 2019",
+		"id": 1149755656313794600,
+		"id_str": "1152192390276554752",
+		"full_text": "https://t.co/OYbbgdlpXL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1149755624751677400,
+					"id_str": "1149755624751677441",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1149755624751677441/pu/img/TFJGU8wxgg8yxrhi.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1149755624751677441/pu/img/TFJGU8wxgg8yxrhi.jpg",
+					"url": "https://t.co/OYbbgdlpXL",
+					"display_url": "pic.twitter.com/OYbbgdlpXL",
+					"expanded_url": "https://twitter.com/PerfectlyCutMC/status/1149755656313794560/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1149755624751677400,
+					"id_str": "1149755624751677441",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1149755624751677441/pu/img/TFJGU8wxgg8yxrhi.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1149755624751677441/pu/img/TFJGU8wxgg8yxrhi.jpg",
+					"url": "https://t.co/OYbbgdlpXL",
+					"display_url": "pic.twitter.com/OYbbgdlpXL",
+					"expanded_url": "https://twitter.com/PerfectlyCutMC/status/1149755656313794560/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 22467,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1149755624751677441/pu/vid/640x640/CShWRGynh5MFJMBr.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1149755624751677441/pu/vid/480x480/rdJfidzJo0qMscNJ.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1149755624751677441/pu/vid/320x320/5nKaP7TX7Vxpq1r3.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1149755624751677441/pu/pl/r1YRJoBGX4ZyxBah.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1119849220679196700,
+			"id_str": "1119849220679196672",
+			"name": "PerfectMinecraftCuts",
+			"screen_name": "PerfectlyCutMC",
+			"location": "nether",
+			"description": "and some memes",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40092,
+			"friends_count": 7,
+			"listed_count": 18,
+			"created_at": "Sun Apr 21 06:23:54 +0000 2019",
+			"favourites_count": 100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 120,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136764640623353856/zbs2BQ6V_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136764640623353856/zbs2BQ6V_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1119849220679196672/1559860861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9322,
+		"favorite_count": 32206,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/OYbbgdlpXL"
+	},
+	{
 		"created_at": "Fri Jul 19 05:43:26 +0000 2019",
 		"id": 1082836724315639800,
 		"id_str": "1152091555911667712",
