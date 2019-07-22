@@ -1,6 +1,514 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Mon Jul 22 15:48:33 +0000 2019",
+		"id": 1153331003278147600,
+		"id_str": "1153331003278147584",
+		"full_text": "@kees_klomp_ Net als dit nieuws. Vast ook toeval https://t.co/XpSpayTKFa.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kees_klomp_",
+					"name": "kees klomp",
+					"id": 52997134,
+					"id_str": "52997134",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XpSpayTKFa",
+					"expanded_url": "https://earther.gizmodo.com/satellite-images-show-vast-swaths-of-the-arctic-on-fire-1836500468",
+					"display_url": "earther.gizmodo.com/satellite-imag…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1153324380069486600,
+		"in_reply_to_status_id_str": "1153324380069486594",
+		"in_reply_to_user_id": 52997134,
+		"in_reply_to_user_id_str": "52997134",
+		"in_reply_to_screen_name": "kees_klomp_",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8860,
+			"friends_count": 267,
+			"listed_count": 589,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5495,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60221,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1555103121",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@kees_klomp_ Net als dit nieuws. Vast ook toeval https://t.co/XpSpayTKFa."
+	},
+	{
+		"created_at": "Mon Jul 22 15:46:57 +0000 2019",
+		"id": 1153330601291845600,
+		"id_str": "1153330601291845633",
+		"full_text": "Instant karma https://t.co/LpIjPpAT5P",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LpIjPpAT5P",
+					"expanded_url": "https://twitter.com/eorsl/status/1152302990826639361",
+					"display_url": "twitter.com/eorsl/status/1…",
+					"indices": [
+						14,
+						37
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8860,
+			"friends_count": 267,
+			"listed_count": 589,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5495,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60221,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1555103121",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1152302990826639400,
+		"quoted_status_id_str": "1152302990826639361",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LpIjPpAT5P",
+			"expanded": "https://twitter.com/eorsl/status/1152302990826639361",
+			"display": "twitter.com/eorsl/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jul 19 19:43:36 +0000 2019",
+			"id": 1152302990826639400,
+			"id_str": "1152302990826639361",
+			"full_text": "😭😭😭 https://t.co/869P3P8v5g",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				27
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1152154875532329000,
+						"id_str": "1152154875532328961",
+						"indices": [
+							4,
+							27
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1152154875532328961/pu/img/BV-C4MFFZ3gmdo1B.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1152154875532328961/pu/img/BV-C4MFFZ3gmdo1B.jpg",
+						"url": "https://t.co/869P3P8v5g",
+						"display_url": "pic.twitter.com/869P3P8v5g",
+						"expanded_url": "https://twitter.com/TheRealGLmood/status/1152154916334571520/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1152154916334571500,
+						"source_status_id_str": "1152154916334571520",
+						"source_user_id": 1083170998051110900,
+						"source_user_id_str": "1083170998051110912"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1152154875532329000,
+						"id_str": "1152154875532328961",
+						"indices": [
+							4,
+							27
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1152154875532328961/pu/img/BV-C4MFFZ3gmdo1B.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1152154875532328961/pu/img/BV-C4MFFZ3gmdo1B.jpg",
+						"url": "https://t.co/869P3P8v5g",
+						"display_url": "pic.twitter.com/869P3P8v5g",
+						"expanded_url": "https://twitter.com/TheRealGLmood/status/1152154916334571520/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1152154916334571500,
+						"source_status_id_str": "1152154916334571520",
+						"source_user_id": 1083170998051110900,
+						"source_user_id_str": "1083170998051110912",
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 16500,
+							"variants": [
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1152154875532328961/pu/vid/320x320/lNIc55VmiixlEWHp.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1152154875532328961/pu/pl/JMFlscgoUVEY_jrT.m3u8?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1152154875532328961/pu/vid/480x480/CijCelD1rHJhvEfu.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 1083170998051110900,
+								"id_str": "1083170998051110912",
+								"name": "GLmood1",
+								"screen_name": "TheRealGLmood",
+								"location": "",
+								"description": "13y.o, 4\"2, 300Pounds of muscle, 4.4K Peak Main Tank  (Twitch Prime?) https://t.co/fsu23LWOlj",
+								"url": "https://t.co/YAb4Rs37ny",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/YAb4Rs37ny",
+												"expanded_url": "http://Twitch.tv/GLmood1",
+												"display_url": "Twitch.tv/GLmood1",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": [
+											{
+												"url": "https://t.co/fsu23LWOlj",
+												"expanded_url": "https://curiouscat.me/TheRealGLmood",
+												"display_url": "curiouscat.me/TheRealGLmood",
+												"indices": [
+													70,
+													93
+												]
+											}
+										]
+									}
+								},
+								"protected": false,
+								"followers_count": 302,
+								"friends_count": 89,
+								"listed_count": 0,
+								"created_at": "Thu Jan 10 01:17:45 +0000 2019",
+								"favourites_count": 221,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": false,
+								"verified": false,
+								"statuses_count": 499,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "000000",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1142099198847963137/swLsTrtQ_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1142099198847963137/swLsTrtQ_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/1083170998051110912/1563376464",
+								"profile_link_color": "ABB8C2",
+								"profile_sidebar_border_color": "000000",
+								"profile_sidebar_fill_color": "000000",
+								"profile_text_color": "000000",
+								"profile_use_background_image": false,
+								"has_extended_profile": true,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 876568526265471000,
+				"id_str": "876568526265470979",
+				"name": "Unique",
+				"screen_name": "eorsl",
+				"location": "🎣",
+				"description": "It will not be easy , but it's not impossible @MJled",
+				"url": "https://t.co/n3i1db4IT9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/n3i1db4IT9",
+								"expanded_url": "https://curiouscat.me/Exeove",
+								"display_url": "curiouscat.me/Exeove",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8967,
+				"friends_count": 379,
+				"listed_count": 95,
+				"created_at": "Sun Jun 18 22:33:17 +0000 2017",
+				"favourites_count": 291,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 53225,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1139579982395727874/NMo20vuL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1139579982395727874/NMo20vuL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/876568526265470979/1563501830",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 96225,
+			"favorite_count": 272384,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "et",
+		"text": "Instant karma https://t.co/LpIjPpAT5P"
+	},
+	{
 		"created_at": "Mon Jul 22 13:08:11 +0000 2019",
 		"id": 1153290643239776300,
 		"id_str": "1153290643239776257",
