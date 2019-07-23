@@ -1,6 +1,156 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Tue Jul 23 19:43:01 +0000 2019",
+		"id": 1153432407711744000,
+		"id_str": "1153752395303858184",
+		"full_text": "#ActivityPub gets its own conference. In Prague!\n\nThe 2 day conference is the 7th ad 8th of September\n\n\"present and future of ActivityPub\"\n\npresentations Sat, unconference on Sun\n\nhttps://t.co/CqlX1FHdna\n\n#FLOSSconf #FLOSSevent #federation #OpenStandards\n\nhttps://t.co/TkLfT46TWF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ActivityPub",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"text": "FLOSSconf",
+					"indices": [
+						205,
+						215
+					]
+				},
+				{
+					"text": "FLOSSevent",
+					"indices": [
+						216,
+						227
+					]
+				},
+				{
+					"text": "federation",
+					"indices": [
+						228,
+						239
+					]
+				},
+				{
+					"text": "OpenStandards",
+					"indices": [
+						240,
+						254
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CqlX1FHdna",
+					"expanded_url": "https://dustycloud.org/blog/activitypub-conf-2019/",
+					"display_url": "dustycloud.org/blog/activityp…",
+					"indices": [
+						180,
+						203
+					]
+				},
+				{
+					"url": "https://t.co/TkLfT46TWF",
+					"expanded_url": "https://floss.social/@FLOX_advocate/102487457202635461",
+					"display_url": "floss.social/@FLOX_advocate…",
+					"indices": [
+						256,
+						279
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1107409176169336800,
+			"id_str": "1107409176169336832",
+			"name": "der.hans",
+			"screen_name": "FLOXadvocate",
+			"location": "",
+			"description": "FLOX: everything you think necessary for your personal freedom, privacy and security (even things not yet created)\n\nFLOX: Free Libre Open X(everything)",
+			"url": "https://t.co/aGiDlTXwZn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aGiDlTXwZn",
+							"expanded_url": "https://floss.social/@FLOX_advocate",
+							"display_url": "floss.social/@FLOX_advocate",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16,
+			"friends_count": 259,
+			"listed_count": 0,
+			"created_at": "Sun Mar 17 22:31:37 +0000 2019",
+			"favourites_count": 234,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 302,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1107896427269677056/55h4x60D_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1107896427269677056/55h4x60D_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#ActivityPub gets its own conference. In Prague!\n\nThe 2 day conference is the 7th ad 8th of September\n\n\"present and future of ActivityPub\"\n\npresentations Sat, unconference on Sun\n\nhttps://t.co/CqlX1FHdna\n\n#FLOSSconf #FLOSSevent #federation #OpenStandards\n\nhttps://t.co/TkLfT46TWF"
+	},
+	{
 		"created_at": "Tue Jul 23 18:42:11 +0000 2019",
 		"id": 1153737088086544400,
 		"id_str": "1153737088086544384",
