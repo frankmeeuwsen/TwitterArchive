@@ -1,6 +1,197 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Wed Jul 24 10:02:21 +0000 2019",
+		"id": 1153760532840628200,
+		"id_str": "1153968655639752704",
+		"full_text": "First mistake Boris Johnson made as PM- giving a speech in front of a solid blue background. https://t.co/bkb0UqmEK6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1153760467602382800,
+					"id_str": "1153760467602382848",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1153760467602382848/pu/img/mn0JLgHy270qtstk.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1153760467602382848/pu/img/mn0JLgHy270qtstk.jpg",
+					"url": "https://t.co/bkb0UqmEK6",
+					"display_url": "pic.twitter.com/bkb0UqmEK6",
+					"expanded_url": "https://twitter.com/McJesse/status/1153760532840628224/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1153760467602382800,
+					"id_str": "1153760467602382848",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1153760467602382848/pu/img/mn0JLgHy270qtstk.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1153760467602382848/pu/img/mn0JLgHy270qtstk.jpg",
+					"url": "https://t.co/bkb0UqmEK6",
+					"display_url": "pic.twitter.com/bkb0UqmEK6",
+					"expanded_url": "https://twitter.com/McJesse/status/1153760532840628224/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 14648,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1153760467602382848/pu/vid/640x360/3pHFr5Fp2Cg9bxTa.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1153760467602382848/pu/vid/480x270/HoObu_NnPQkSR0N8.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1153760467602382848/pu/vid/1280x720/7O6N2hx5M6Nnq8bo.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1153760467602382848/pu/pl/UKrALUHYnLqdJtCl.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27782837,
+			"id_str": "27782837",
+			"name": "Jesse McLaren",
+			"screen_name": "McJesse",
+			"location": "",
+			"description": "Late Night TV writer, Emmy loser, future Vine star.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1180701,
+			"friends_count": 1102,
+			"listed_count": 1489,
+			"created_at": "Tue Mar 31 01:38:38 +0000 2009",
+			"favourites_count": 19709,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16910,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/684222363907551232/54R_VAhv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/684222363907551232/54R_VAhv_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4780,
+		"favorite_count": 20981,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "First mistake Boris Johnson made as PM- giving a speech in front of a solid blue background. https://t.co/bkb0UqmEK6"
+	},
+	{
 		"created_at": "Wed Jul 24 05:26:08 +0000 2019",
 		"id": 1153899140088258600,
 		"id_str": "1153899140088258561",
