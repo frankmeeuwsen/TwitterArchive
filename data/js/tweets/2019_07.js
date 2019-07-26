@@ -1,6 +1,252 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Fri Jul 26 11:37:51 +0000 2019",
+		"id": 1154717461406789600,
+		"id_str": "1154717461406789632",
+		"full_text": "Love it! https://t.co/5ccNAiF0zY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			8
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5ccNAiF0zY",
+					"expanded_url": "https://twitter.com/marty/status/1154681755061948417",
+					"display_url": "twitter.com/marty/status/1…",
+					"indices": [
+						9,
+						32
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Beschikbaar voor werk rondom de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8857,
+			"friends_count": 267,
+			"listed_count": 590,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5502,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60251,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1555103121",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1154681755061948400,
+		"quoted_status_id_str": "1154681755061948417",
+		"quoted_status_permalink": {
+			"url": "https://t.co/5ccNAiF0zY",
+			"expanded": "https://twitter.com/marty/status/1154681755061948417",
+			"display": "twitter.com/marty/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jul 26 09:15:58 +0000 2019",
+			"id": 1154681755061948400,
+			"id_str": "1154681755061948417",
+			"full_text": "Did we just drop the hottest website on the interweb? https://t.co/PJvHyZfqyV",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				77
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/PJvHyZfqyV",
+						"expanded_url": "https://poolside.fm",
+						"display_url": "poolside.fm",
+						"indices": [
+							54,
+							77
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20476674,
+				"id_str": "20476674",
+				"name": "marty bell",
+				"screen_name": "marty",
+				"location": "barcelona & scotland",
+				"description": "love to create & grow positive brands • co-founder @tens + https://t.co/XF1dWMWBfi + https://t.co/padYH6qEaW + https://t.co/eeNs2KM2Z5",
+				"url": "https://t.co/ElBjdLreUw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ElBjdLreUw",
+								"expanded_url": "http://tens.co",
+								"display_url": "tens.co",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/XF1dWMWBfi",
+								"expanded_url": "http://poolside.fm",
+								"display_url": "poolside.fm",
+								"indices": [
+									59,
+									82
+								]
+							},
+							{
+								"url": "https://t.co/padYH6qEaW",
+								"expanded_url": "http://jacuzzi.sh",
+								"display_url": "jacuzzi.sh",
+								"indices": [
+									85,
+									108
+								]
+							},
+							{
+								"url": "https://t.co/eeNs2KM2Z5",
+								"expanded_url": "http://foreignrap.com",
+								"display_url": "foreignrap.com",
+								"indices": [
+									111,
+									134
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3556,
+				"friends_count": 729,
+				"listed_count": 125,
+				"created_at": "Mon Feb 09 23:13:35 +0000 2009",
+				"favourites_count": 8543,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 14966,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1118669566807298049/M_hcIYCc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1118669566807298049/M_hcIYCc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20476674/1551981220",
+				"profile_link_color": "C29948",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "5C5C5C",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 88,
+			"favorite_count": 301,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Love it! https://t.co/5ccNAiF0zY"
+	},
+	{
 		"created_at": "Fri Jul 26 10:57:52 +0000 2019",
 		"id": 1154707402496925700,
 		"id_str": "1154707402496925696",
