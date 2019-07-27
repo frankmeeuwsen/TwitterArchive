@@ -1,6 +1,288 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sat Jul 27 15:48:02 +0000 2019",
+		"id": 1155134536302207000,
+		"id_str": "1155142811546804225",
+		"full_text": "Just a few horses wearing onesies https://t.co/JOQQAxpxtf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1155134528337264600,
+					"id_str": "1155134528337264641",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/EAfcu71UwAE-fR3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAfcu71UwAE-fR3.jpg",
+					"url": "https://t.co/JOQQAxpxtf",
+					"display_url": "pic.twitter.com/JOQQAxpxtf",
+					"expanded_url": "https://twitter.com/41Strange/status/1155134536302206977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1082,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 613,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1298,
+							"h": 1170,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1155134528337264600,
+					"id_str": "1155134528337264641",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/EAfcu71UwAE-fR3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAfcu71UwAE-fR3.jpg",
+					"url": "https://t.co/JOQQAxpxtf",
+					"display_url": "pic.twitter.com/JOQQAxpxtf",
+					"expanded_url": "https://twitter.com/41Strange/status/1155134536302206977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1082,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 613,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1298,
+							"h": 1170,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1155134528349802500,
+					"id_str": "1155134528349802508",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/EAfcu74UEAwSlLP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAfcu74UEAwSlLP.jpg",
+					"url": "https://t.co/JOQQAxpxtf",
+					"display_url": "pic.twitter.com/JOQQAxpxtf",
+					"expanded_url": "https://twitter.com/41Strange/status/1155134536302206977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 461,
+							"h": 692,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 461,
+							"h": 692,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1155134528345665500,
+					"id_str": "1155134528345665538",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/EAfcu73U8AIR2Zj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAfcu73U8AIR2Zj.jpg",
+					"url": "https://t.co/JOQQAxpxtf",
+					"display_url": "pic.twitter.com/JOQQAxpxtf",
+					"expanded_url": "https://twitter.com/41Strange/status/1155134536302206977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 490,
+							"h": 456,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 490,
+							"h": 456,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 490,
+							"h": 456,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1155134528354046000,
+					"id_str": "1155134528354045952",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/EAfcu75U0AANWPr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAfcu75U0AANWPr.jpg",
+					"url": "https://t.co/JOQQAxpxtf",
+					"display_url": "pic.twitter.com/JOQQAxpxtf",
+					"expanded_url": "https://twitter.com/41Strange/status/1155134536302206977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 919,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 919,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 651,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2355808260,
+			"id_str": "2355808260",
+			"name": "41 Strange",
+			"screen_name": "41Strange",
+			"location": "Hollywood, CA",
+			"description": "Horror short stories bestseller out now",
+			"url": "https://t.co/lApirIcxFC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lApirIcxFC",
+							"expanded_url": "https://41strange.wordpress.com",
+							"display_url": "41strange.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 609843,
+			"friends_count": 6218,
+			"listed_count": 3932,
+			"created_at": "Sat Feb 22 05:04:53 +0000 2014",
+			"favourites_count": 187382,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30792,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "080403",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/453318225720123393/zbjvCWzf_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/453318225720123393/zbjvCWzf_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2355808260/1405535968",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 781,
+		"favorite_count": 3027,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just a few horses wearing onesies https://t.co/JOQQAxpxtf"
+	},
+	{
 		"created_at": "Fri Jul 26 21:43:35 +0000 2019",
 		"id": 1154776911719145500,
 		"id_str": "1154869902005690368",
