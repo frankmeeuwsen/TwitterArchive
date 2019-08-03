@@ -1,6 +1,514 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sat Aug 03 19:17:33 +0000 2019",
+		"id": 1157566049673457700,
+		"id_str": "1157732254686306305",
+		"full_text": "tamelijk briljant. https://t.co/IH8cTvXEok",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1157566043499520000,
+					"id_str": "1157566043499520000",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/EBCALvrX4AAxEKj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBCALvrX4AAxEKj.jpg",
+					"url": "https://t.co/IH8cTvXEok",
+					"display_url": "pic.twitter.com/IH8cTvXEok",
+					"expanded_url": "https://twitter.com/henrivanveen/status/1157566049673457665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 671,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1184,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2020,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1157566043499520000,
+					"id_str": "1157566043499520000",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/EBCALvrX4AAxEKj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBCALvrX4AAxEKj.jpg",
+					"url": "https://t.co/IH8cTvXEok",
+					"display_url": "pic.twitter.com/IH8cTvXEok",
+					"expanded_url": "https://twitter.com/henrivanveen/status/1157566049673457665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 671,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1184,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2020,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21992455,
+			"id_str": "21992455",
+			"name": "henri van veen",
+			"screen_name": "henrivanveen",
+			"location": "Velp",
+			"description": "| redactie @omroepgld | beetje webcare | kleine letters | wint nooit wat maar overleefde acute leukemie | liep jaren later twee marathons | ❤️ #mrs |",
+			"url": "https://t.co/KLbA77euWR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KLbA77euWR",
+							"expanded_url": "http://www.hardlopenvoordeleuk.blogspot.nl",
+							"display_url": "hardlopenvoordeleuk.blogspot.nl",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2212,
+			"friends_count": 588,
+			"listed_count": 112,
+			"created_at": "Thu Feb 26 09:04:42 +0000 2009",
+			"favourites_count": 15116,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63466,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "5D5F6B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151096816408113152/7ABy7MCL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151096816408113152/7ABy7MCL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21992455/1550183449",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FCFCFC",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 48,
+		"favorite_count": 119,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "tamelijk briljant. https://t.co/IH8cTvXEok"
+	},
+	{
+		"created_at": "Sat Aug 03 18:31:42 +0000 2019",
+		"id": 1157690087532048400,
+		"id_str": "1157720713538801666",
+		"full_text": "#OnThisDay in 1991, the footage for the official \"Alive\" video was shot during #PearlJam's show at Seattle's RCKCNDY. https://t.co/mWhWcJHaO8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OnThisDay",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "PearlJam",
+					"indices": [
+						79,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1156974149065162800,
+					"id_str": "1156974149065162752",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/EA5mGDbXUAAXsnS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EA5mGDbXUAAXsnS.jpg",
+					"url": "https://t.co/mWhWcJHaO8",
+					"display_url": "pic.twitter.com/mWhWcJHaO8",
+					"expanded_url": "https://twitter.com/PearlJam/status/1157690087532048390/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1156974149065162800,
+					"id_str": "1156974149065162752",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/EA5mGDbXUAAXsnS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EA5mGDbXUAAXsnS.jpg",
+					"url": "https://t.co/mWhWcJHaO8",
+					"display_url": "pic.twitter.com/mWhWcJHaO8",
+					"expanded_url": "https://twitter.com/PearlJam/status/1157690087532048390/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"duration_millis": 59553,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1156974149065162752/pl/quWbQN7aiSYiSo82.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1156974149065162752/vid/360x270/CxQF_AYExxqevHad.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1156974149065162752/vid/480x360/McKB9geS_-DSCycz.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "Alive (Official Music Video)",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15155074,
+			"id_str": "15155074",
+			"name": "Pearl Jam",
+			"screen_name": "PearlJam",
+			"location": "Seattle, WA",
+			"description": "Check out the latest news, music, and merch at the official PJ site and become a member of Pearl Jam's official Fan Club! https://t.co/m7RuxVW4F1",
+			"url": "https://t.co/J95aoJ5FKF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/J95aoJ5FKF",
+							"expanded_url": "http://www.PearlJam.com",
+							"display_url": "PearlJam.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/m7RuxVW4F1",
+							"expanded_url": "https://pj.lnk.to/10clubTw",
+							"display_url": "pj.lnk.to/10clubTw",
+							"indices": [
+								122,
+								145
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3579072,
+			"friends_count": 891,
+			"listed_count": 18040,
+			"created_at": "Wed Jun 18 06:59:14 +0000 2008",
+			"favourites_count": 3918,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7759,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1080518633523216385/052VoVS4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080518633523216385/052VoVS4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15155074/1546450710",
+			"profile_link_color": "A17F59",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 836,
+		"favorite_count": 2683,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#OnThisDay in 1991, the footage for the official \"Alive\" video was shot during #PearlJam's show at Seattle's RCKCNDY. https://t.co/mWhWcJHaO8"
+	},
+	{
+		"created_at": "Sat Aug 03 18:29:47 +0000 2019",
+		"id": 1157720231533584400,
+		"id_str": "1157720231533584384",
+		"full_text": "@MarrigtvdValk Breakfast Club",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MarrigtvdValk",
+					"name": "M A R R I G T 💚🏳️‍🌈",
+					"id": 117059950,
+					"id_str": "117059950",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1157706002264969200,
+		"in_reply_to_status_id_str": "1157706002264969217",
+		"in_reply_to_user_id": 117059950,
+		"in_reply_to_user_id_str": "117059950",
+		"in_reply_to_screen_name": "MarrigtvdValk",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8857,
+			"friends_count": 259,
+			"listed_count": 589,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5515,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60265,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MarrigtvdValk Breakfast Club"
+	},
+	{
 		"created_at": "Sat Aug 03 14:46:35 +0000 2019",
 		"id": 1157664061053649000,
 		"id_str": "1157664061053648901",
