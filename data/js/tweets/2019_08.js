@@ -1,6 +1,241 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Thu Aug 08 12:49:30 +0000 2019",
+		"id": 1159446537392533500,
+		"id_str": "1159446537392533504",
+		"full_text": "Ha. Ik ben opgegroeid met Pac-Man. Alsof dat spel zorgde voor een generatie die nietsvermoedend pillen naar binnen hakt, rondrent in een  donker dystopisch doolhof en luistert naar repeterende electronische muziek. \n\nOh wacht... https://t.co/fylSDRHVUX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			228
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fylSDRHVUX",
+					"expanded_url": "https://twitter.com/danielverlaan/status/1159419296604446725",
+					"display_url": "twitter.com/danielverlaan/…",
+					"indices": [
+						229,
+						252
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8857,
+			"friends_count": 260,
+			"listed_count": 589,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5522,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60268,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1159419296604446700,
+		"quoted_status_id_str": "1159419296604446725",
+		"quoted_status_permalink": {
+			"url": "https://t.co/fylSDRHVUX",
+			"expanded": "https://twitter.com/danielverlaan/status/1159419296604446725",
+			"display": "twitter.com/danielverlaan/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Aug 08 11:01:15 +0000 2019",
+			"id": 1159419296604446700,
+			"id_str": "1159419296604446725",
+			"full_text": "Oké mensen retweet als je van kinds af aan al gewelddadige games speelt maar nog nooit mensen hebt vermoord. https://t.co/oHzNDeHp5E",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				108
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/oHzNDeHp5E",
+						"expanded_url": "https://twitter.com/steven_vdijk/status/1159418539410956292",
+						"display_url": "twitter.com/steven_vdijk/s…",
+						"indices": [
+							109,
+							132
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14224500,
+				"id_str": "14224500",
+				"name": "Daniël Verlaan",
+				"screen_name": "danielverlaan",
+				"location": "🚀",
+				"description": "techjournalist @RTLnieuws ☎️ +316 2089 8142 📫 daniel.verlaan@rtl.nl 🏆 Tegel & Loep '18 📕 boek @DasMag 2020 👨🏻‍💻 auteur cybersecuritygids https://t.co/PqsPCI7jbA",
+				"url": "https://t.co/CmkHfPB2GP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/CmkHfPB2GP",
+								"expanded_url": "https://daniel.verlaan.xyz",
+								"display_url": "daniel.verlaan.xyz",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/PqsPCI7jbA",
+								"expanded_url": "https://laatjeniethackmaken.nl",
+								"display_url": "laatjeniethackmaken.nl",
+								"indices": [
+									137,
+									160
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 19071,
+				"friends_count": 577,
+				"listed_count": 271,
+				"created_at": "Wed Mar 26 10:36:54 +0000 2008",
+				"favourites_count": 7364,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 3196,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/990997345759318023/WqfQmLEL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/990997345759318023/WqfQmLEL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14224500/1551799072",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1159418539410956300,
+			"quoted_status_id_str": "1159418539410956292",
+			"quoted_status_permalink": {
+				"url": "https://t.co/oHzNDeHp5E",
+				"expanded": "https://twitter.com/steven_vdijk/status/1159418539410956292",
+				"display": "twitter.com/steven_vdijk/s…"
+			},
+			"retweet_count": 498,
+			"favorite_count": 251,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Ha. Ik ben opgegroeid met Pac-Man. Alsof dat spel zorgde voor een generatie die nietsvermoedend pillen naar binnen hakt, rondrent in een  donker dystopisch doolhof en luistert naar repeterende electronische muziek. \n\nOh wacht... https://t.co/fylSDRHVUX"
+	},
+	{
 		"created_at": "Thu Aug 08 06:50:22 +0000 2019",
 		"id": 1159356158978793500,
 		"id_str": "1159356158978793472",
