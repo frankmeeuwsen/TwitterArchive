@@ -1,6 +1,353 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Tue Aug 27 18:07:40 +0000 2019",
+		"id": 1166411975309561900,
+		"id_str": "1166411975309561859",
+		"full_text": "Ik kan er de vinger niet op leggen, maar ik heb zo'n idee dat @Jessemoerkerk deze op repeat zet. Voor een dag of twee. https://t.co/Ru0zplvewn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Jessemoerkerk",
+					"name": "Jesse Moerkerk",
+					"id": 319033092,
+					"id_str": "319033092",
+					"indices": [
+						62,
+						76
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ru0zplvewn",
+					"expanded_url": "https://twitter.com/mixmag/status/1166065479657672711",
+					"display_url": "twitter.com/mixmag/status/…",
+					"indices": [
+						119,
+						142
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8853,
+			"friends_count": 260,
+			"listed_count": 586,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5310,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60271,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1166065479657672700,
+		"quoted_status_id_str": "1166065479657672711",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Ru0zplvewn",
+			"expanded": "https://twitter.com/mixmag/status/1166065479657672711",
+			"display": "twitter.com/mixmag/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Aug 26 19:10:49 +0000 2019",
+			"id": 1166065479657672700,
+			"id_str": "1166065479657672711",
+			"full_text": "We've all been there before...haven't we? https://t.co/vQ1kh2uYjF",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				41
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1166065293036269600,
+						"id_str": "1166065293036269568",
+						"indices": [
+							42,
+							65
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1166065293036269568/pu/img/QTHFdYzxg1geH_sC.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1166065293036269568/pu/img/QTHFdYzxg1geH_sC.jpg",
+						"url": "https://t.co/vQ1kh2uYjF",
+						"display_url": "pic.twitter.com/vQ1kh2uYjF",
+						"expanded_url": "https://twitter.com/Mixmag/status/1166065479657672711/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1166065293036269600,
+						"id_str": "1166065293036269568",
+						"indices": [
+							42,
+							65
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1166065293036269568/pu/img/QTHFdYzxg1geH_sC.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1166065293036269568/pu/img/QTHFdYzxg1geH_sC.jpg",
+						"url": "https://t.co/vQ1kh2uYjF",
+						"display_url": "pic.twitter.com/vQ1kh2uYjF",
+						"expanded_url": "https://twitter.com/Mixmag/status/1166065479657672711/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 124967,
+							"variants": [
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1166065293036269568/pu/vid/320x320/k4V7inp1Th9RRjii.mp4?tag=10"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1166065293036269568/pu/vid/720x720/hQkeTYgQO-RCFrix.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1166065293036269568/pu/pl/DStylh18IPDVXIez.m3u8?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1166065293036269568/pu/vid/480x480/a21WAqXrna5XXdA6.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18672145,
+				"id_str": "18672145",
+				"name": "Mixmag",
+				"screen_name": "Mixmag",
+				"location": "Worldwide",
+				"description": "Dance music + club culture 🙏\nGet the magazine 👉 https://t.co/qp6aRNWykd\nSubscribe to The Scene 👉 https://t.co/y6CS3CViQV",
+				"url": "https://t.co/xS4dkYYFDJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/xS4dkYYFDJ",
+								"expanded_url": "http://www.mixmag.net",
+								"display_url": "mixmag.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/qp6aRNWykd",
+								"expanded_url": "http://newsstand.co.uk/mixmag",
+								"display_url": "newsstand.co.uk/mixmag",
+								"indices": [
+									48,
+									71
+								]
+							},
+							{
+								"url": "https://t.co/y6CS3CViQV",
+								"expanded_url": "http://m.me/MixmagMagazine",
+								"display_url": "m.me/MixmagMagazine",
+								"indices": [
+									97,
+									120
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 313489,
+				"friends_count": 1136,
+				"listed_count": 3489,
+				"created_at": "Tue Jan 06 12:30:05 +0000 2009",
+				"favourites_count": 3109,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 65733,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1160878299545034752/yaVf7uS6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1160878299545034752/yaVf7uS6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18672145/1541693545",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 68,
+			"favorite_count": 277,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Ik kan er de vinger niet op leggen, maar ik heb zo'n idee dat @Jessemoerkerk deze op repeat zet. Voor een dag of twee. https://t.co/Ru0zplvewn"
+	},
+	{
 		"created_at": "Mon Aug 26 19:15:29 +0000 2019",
 		"id": 1166066654402556000,
 		"id_str": "1166066654402555905",
