@@ -1,6 +1,132 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Fri Aug 30 10:16:27 +0000 2019",
+		"id": 1167380554318274600,
+		"id_str": "1167380554318274560",
+		"full_text": "@toontoet @MishaScholte Is @public_spaces hier geen goede partij voor?",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "toontoet",
+					"name": "Toon Toetenel",
+					"id": 76908257,
+					"id_str": "76908257",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "MishaScholte",
+					"name": "Misha",
+					"id": 25871261,
+					"id_str": "25871261",
+					"indices": [
+						10,
+						23
+					]
+				},
+				{
+					"screen_name": "public_spaces",
+					"name": "PublicSpaces",
+					"id": 999601427768062000,
+					"id_str": "999601427768061952",
+					"indices": [
+						27,
+						41
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1167332357193556000,
+		"in_reply_to_status_id_str": "1167332357193555969",
+		"in_reply_to_user_id": 76908257,
+		"in_reply_to_user_id_str": "76908257",
+		"in_reply_to_screen_name": "toontoet",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8851,
+			"friends_count": 260,
+			"listed_count": 586,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5313,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60281,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@toontoet @MishaScholte Is @public_spaces hier geen goede partij voor?"
+	},
+	{
 		"created_at": "Thu Aug 29 21:44:29 +0000 2019",
 		"id": 1167191314837979100,
 		"id_str": "1167191314837979136",
