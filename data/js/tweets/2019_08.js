@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sat Aug 31 11:09:20 +0000 2019",
+		"id": 1167527862234206200,
+		"id_str": "1167756248512696320",
+		"full_text": "My digichat with @nayafia—an essential writer (imho) of texts, notes and wonderful roundups.: https://t.co/7kImjchtpT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nayafia",
+					"name": "Nadia",
+					"id": 326511843,
+					"id_str": "326511843",
+					"indices": [
+						17,
+						25
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7kImjchtpT",
+					"expanded_url": "https://www.kickscondor.com/nadia-eghbal",
+					"display_url": "kickscondor.com/nadia-eghbal",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://brid.gy/\" rel=\"nofollow\">Bridgy</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2917306868,
+			"id_str": "2917306868",
+			"name": "KICKS CONDOR",
+			"screen_name": "kickscondor",
+			"location": "",
+			"description": "my name and bio could not be less important, even to myself. i will try to find you online at least one more time.",
+			"url": "https://t.co/F30PMtwfwE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/F30PMtwfwE",
+							"expanded_url": "https://www.kickscondor.com/",
+							"display_url": "kickscondor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 70,
+			"friends_count": 97,
+			"listed_count": 3,
+			"created_at": "Wed Dec 03 06:56:56 +0000 2014",
+			"favourites_count": 61,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 263,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1073661258673446912/kf3FPDwH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1073661258673446912/kf3FPDwH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2917306868/1418371413",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My digichat with @nayafia—an essential writer (imho) of texts, notes and wonderful roundups.: https://t.co/7kImjchtpT"
+	},
+	{
 		"created_at": "Fri Aug 30 17:19:02 +0000 2019",
 		"id": 1167262276207857700,
 		"id_str": "1167486901420511233",
