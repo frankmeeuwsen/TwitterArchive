@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Mon Sep 02 13:31:22 +0000 2019",
+		"id": 1168516771315376000,
+		"id_str": "1168516771315376129",
+		"full_text": "@guidoz Je hebt gelijk! Ik ga voortaan wekelijks op een tribune naar 22 mannen/vrouwen kijken die een bal van links naar rechts schieten. En vice versa. En daar dingen van vinden! ;-)",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			183
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "guidoz",
+					"name": "g🎶d▶️z",
+					"id": 7305132,
+					"id_str": "7305132",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1168497279885557800,
+		"in_reply_to_status_id_str": "1168497279885557761",
+		"in_reply_to_user_id": 7305132,
+		"in_reply_to_user_id_str": "7305132",
+		"in_reply_to_screen_name": "guidoz",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8853,
+			"friends_count": 261,
+			"listed_count": 586,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5320,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60289,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@guidoz Je hebt gelijk! Ik ga voortaan wekelijks op een tribune naar 22 mannen/vrouwen kijken die een bal van links naar rechts schieten. En vice versa. En daar dingen van vinden! ;-)"
+	},
+	{
 		"created_at": "Mon Sep 02 07:02:18 +0000 2019",
 		"id": 1168418859294105600,
 		"id_str": "1168418859294105600",
