@@ -1,6 +1,193 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Tue Sep 03 12:30:21 +0000 2019",
+		"id": 1167087999630434300,
+		"id_str": "1168863802173087745",
+		"full_text": "just learned with horror that deleting any of the \"family\" emojis in google slides does not remove the emoji, but rather kills off each individual family member one by one, starting with the children https://t.co/0v2s8Bx91n",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1167087988158947300,
+					"id_str": "1167087988158947329",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EDJUV3vW4AEeO2p.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EDJUV3vW4AEeO2p.jpg",
+					"url": "https://t.co/0v2s8Bx91n",
+					"display_url": "pic.twitter.com/0v2s8Bx91n",
+					"expanded_url": "https://twitter.com/brookLYNevery1/status/1167087999630434304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 422,
+							"h": 254,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 422,
+							"h": 254,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 422,
+							"h": 254,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1167087988158947300,
+					"id_str": "1167087988158947329",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EDJUV3vW4AEeO2p.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EDJUV3vW4AEeO2p.jpg",
+					"url": "https://t.co/0v2s8Bx91n",
+					"display_url": "pic.twitter.com/0v2s8Bx91n",
+					"expanded_url": "https://twitter.com/brookLYNevery1/status/1167087999630434304/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 422,
+							"h": 254,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 422,
+							"h": 254,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 422,
+							"h": 254,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							211,
+							127
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EDJUV3vW4AEeO2p.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 607752311,
+			"id_str": "607752311",
+			"name": "Brooke Watson",
+			"screen_name": "brookLYNevery1",
+			"location": "New York, NY",
+			"description": "she/her. Senior Data Scientist at the @ACLU. @RLadiesNYC organizer, #NASADatanaut, and America’s Next Top Modeler. Views my own.",
+			"url": "https://t.co/zA5TWxJ6eX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zA5TWxJ6eX",
+							"expanded_url": "http://brooke.science",
+							"display_url": "brooke.science",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3695,
+			"friends_count": 530,
+			"listed_count": 81,
+			"created_at": "Thu Jun 14 02:39:48 +0000 2012",
+			"favourites_count": 6413,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2734,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146520953054253056/sNTDigDi_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146520953054253056/sNTDigDi_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/607752311/1564459054",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21958,
+		"favorite_count": 63432,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "just learned with horror that deleting any of the \"family\" emojis in google slides does not remove the emoji, but rather kills off each individual family member one by one, starting with the children https://t.co/0v2s8Bx91n"
+	},
+	{
 		"created_at": "Tue Sep 03 12:09:38 +0000 2019",
 		"id": 1168858590456746000,
 		"id_str": "1168858590456745985",
