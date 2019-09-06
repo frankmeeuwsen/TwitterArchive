@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Fri Sep 06 13:51:41 +0000 2019",
+		"id": 1169971434522841000,
+		"id_str": "1169971434522841088",
+		"full_text": "Veel +1 en unicorn-karma voor Stormy mcStormface! https://t.co/OE9a2lnsF6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OE9a2lnsF6",
+					"expanded_url": "https://twitter.com/msteeman/status/1169961300664967168",
+					"display_url": "twitter.com/msteeman/statu…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8862,
+			"friends_count": 262,
+			"listed_count": 585,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5330,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60304,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1169961300664967200,
+		"quoted_status_id_str": "1169961300664967168",
+		"quoted_status_permalink": {
+			"url": "https://t.co/OE9a2lnsF6",
+			"expanded": "https://twitter.com/msteeman/status/1169961300664967168",
+			"display": "twitter.com/msteeman/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Sep 06 13:11:25 +0000 2019",
+			"id": 1169961300664967200,
+			"id_str": "1169961300664967168",
+			"full_text": "Mogen we namen indienen, @KNMI ? De beste stormnamen tot nu toe:\nTrooper\nStorm\nTrui\nCo de Rood\nIneenglaswater\nStormy mcStormface\nHerman (in de storm op een terras)\nPieter\nRam\nPierre Wind\nShit",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				191
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "KNMI",
+						"name": "KNMI",
+						"id": 333335093,
+						"id_str": "333335093",
+						"indices": [
+							25,
+							30
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19087381,
+				"id_str": "19087381",
+				"name": "Marcel Steeman",
+				"screen_name": "msteeman",
+				"location": "Castricum",
+				"description": "Ouwe weblogkliek. Statenlid D66 Noord-Holland. Stroopwafelenthousiast. Vader. Goeroe. Protector of the realm. #eerlijkeverpakkingen #ophefkalender #kantoorigami",
+				"url": "https://t.co/rg1yhnkTDd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rg1yhnkTDd",
+								"expanded_url": "http://eerlijkeverpakkingen.tumblr.com",
+								"display_url": "eerlijkeverpakkingen.tumblr.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3721,
+				"friends_count": 3615,
+				"listed_count": 94,
+				"created_at": "Fri Jan 16 21:53:51 +0000 2009",
+				"favourites_count": 32217,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 70595,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F96609",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/998857450810851328/UljMrlWV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/998857450810851328/UljMrlWV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19087381/1401992182",
+				"profile_link_color": "F96609",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F4EBDC",
+				"profile_text_color": "95979A",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Veel +1 en unicorn-karma voor Stormy mcStormface! https://t.co/OE9a2lnsF6"
+	},
+	{
 		"created_at": "Fri Sep 06 11:11:53 +0000 2019",
 		"id": 1169931218483368000,
 		"id_str": "1169931218483367936",
