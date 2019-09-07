@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sat Sep 07 05:22:28 +0000 2019",
+		"id": 1170205671079460900,
+		"id_str": "1170205671079460866",
+		"full_text": "Is het geen tijd voor een BatSlack, BatTweet of het veilige BatSignal op zijn BatPhone? https://t.co/oGyyPJ7p4E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oGyyPJ7p4E",
+					"expanded_url": "https://twitter.com/kibblesmith/status/1169744008161234950",
+					"display_url": "twitter.com/kibblesmith/st…",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8861,
+			"friends_count": 262,
+			"listed_count": 585,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5330,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60305,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1169744008161235000,
+		"quoted_status_id_str": "1169744008161234950",
+		"quoted_status_permalink": {
+			"url": "https://t.co/oGyyPJ7p4E",
+			"expanded": "https://twitter.com/kibblesmith/status/1169744008161234950",
+			"display": "twitter.com/kibblesmith/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Sep 05 22:47:58 +0000 2019",
+			"id": 1169744008161235000,
+			"id_str": "1169744008161234950",
+			"full_text": "The Bat Signal is so dumb and I love it\n\nThere’s never NOT crime in Gotham City and also it has to be cloudy and night time and also Batman lives underground and also he has the world’s best computer and it’s all the hell the way on the roof and cops all have phones and radios",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14641347,
+				"id_str": "14641347",
+				"name": "Kibblesmith ☃️",
+				"screen_name": "kibblesmith",
+				"location": "NYC, U.S.A.",
+				"description": "Writer; Television & Comic Books. #Loki for #Marvel. Married to @JenAshleyWright. Owl trapped in car.",
+				"url": "https://t.co/5DsCimZRag",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5DsCimZRag",
+								"expanded_url": "http://Kibblesmith.com",
+								"display_url": "Kibblesmith.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 82735,
+				"friends_count": 4319,
+				"listed_count": 1348,
+				"created_at": "Sat May 03 20:42:01 +0000 2008",
+				"favourites_count": 133169,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 73710,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EFEFEF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1164967715615854593/dvZPz2nl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164967715615854593/dvZPz2nl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14641347/1528767003",
+				"profile_link_color": "ADADAD",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2378,
+			"favorite_count": 20503,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Is het geen tijd voor een BatSlack, BatTweet of het veilige BatSignal op zijn BatPhone? https://t.co/oGyyPJ7p4E"
+	},
+	{
 		"created_at": "Fri Sep 06 13:51:41 +0000 2019",
 		"id": 1169971434522841000,
 		"id_str": "1169971434522841088",
