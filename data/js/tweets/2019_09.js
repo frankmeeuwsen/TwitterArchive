@@ -1,6 +1,310 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Fri Sep 13 11:08:44 +0000 2019",
+		"id": 1172467139304988700,
+		"id_str": "1172467139304988673",
+		"full_text": "Donkey Kong\nPhoenix\nTony Hawk Pro Skater\nRoller Coaster Tycoon\nAbe's Odyssee\n\nThat's 5 but I had a cheatcode 🔼🔼🔽🔽◀️▶️◀️▶️🅱️🅰️ https://t.co/MtP3Fs87zx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MtP3Fs87zx",
+					"expanded_url": "https://twitter.com/brgaming/status/1172223487584264192",
+					"display_url": "twitter.com/brgaming/statu…",
+					"indices": [
+						126,
+						149
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8855,
+			"friends_count": 264,
+			"listed_count": 585,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5339,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60321,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1172223487584264200,
+		"quoted_status_id_str": "1172223487584264192",
+		"quoted_status_permalink": {
+			"url": "https://t.co/MtP3Fs87zx",
+			"expanded": "https://twitter.com/brgaming/status/1172223487584264192",
+			"display": "twitter.com/brgaming/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Sep 12 19:00:32 +0000 2019",
+			"id": 1172223487584264200,
+			"id_str": "1172223487584264192",
+			"full_text": "Happy #NationalVideoGamesDay 🎮\n\nWhat 4 games influenced you the most? https://t.co/rbo4HmI3Zo",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				69
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "NationalVideoGamesDay",
+						"indices": [
+							6,
+							28
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1172221910857461800,
+						"id_str": "1172221910857461763",
+						"indices": [
+							70,
+							93
+						],
+						"media_url": "http://pbs.twimg.com/media/EESRngKWsAMli5F.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EESRngKWsAMli5F.jpg",
+						"url": "https://t.co/rbo4HmI3Zo",
+						"display_url": "pic.twitter.com/rbo4HmI3Zo",
+						"expanded_url": "https://twitter.com/BRGaming/status/1172223487584264192/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1172221910857461800,
+						"id_str": "1172221910857461763",
+						"indices": [
+							70,
+							93
+						],
+						"media_url": "http://pbs.twimg.com/media/EESRngKWsAMli5F.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EESRngKWsAMli5F.jpg",
+						"url": "https://t.co/rbo4HmI3Zo",
+						"display_url": "pic.twitter.com/rbo4HmI3Zo",
+						"expanded_url": "https://twitter.com/BRGaming/status/1172223487584264192/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 730618709593739300,
+				"id_str": "730618709593739264",
+				"name": "B/R Gaming",
+				"screen_name": "BRGaming",
+				"location": "de_bleacher",
+				"description": "News 🎮 Culture 👾 Releases 📆 Download the @BleacherReport app 📱 https://t.co/CFXD5lVqmg",
+				"url": "https://t.co/rSJwB72Rmc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rSJwB72Rmc",
+								"expanded_url": "https://www.instagram.com/brgaming",
+								"display_url": "instagram.com/brgaming",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/CFXD5lVqmg",
+								"expanded_url": "https://br.app.link/get-the-BR-app",
+								"display_url": "br.app.link/get-the-BR-app",
+								"indices": [
+									63,
+									86
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 122233,
+				"friends_count": 628,
+				"listed_count": 273,
+				"created_at": "Thu May 12 04:40:49 +0000 2016",
+				"favourites_count": 359,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 4309,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/854437887856791552/kwG7J7_A_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/854437887856791552/kwG7J7_A_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/730618709593739264/1494349464",
+				"profile_link_color": "33C4B3",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 756,
+			"favorite_count": 4113,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Donkey Kong\nPhoenix\nTony Hawk Pro Skater\nRoller Coaster Tycoon\nAbe's Odyssee\n\nThat's 5 but I had a cheatcode 🔼🔼🔽🔽◀️▶️◀️▶️🅱️🅰️ https://t.co/MtP3Fs87zx"
+	},
+	{
 		"created_at": "Thu Sep 12 21:11:20 +0000 2019",
 		"id": 1172256402150236200,
 		"id_str": "1172256402150236161",
