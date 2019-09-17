@@ -1,6 +1,339 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Tue Sep 17 05:35:50 +0000 2019",
+		"id": 1173832916310384600,
+		"id_str": "1173832916310384640",
+		"full_text": "Killer tune and dance moves by @TooManyZooz https://t.co/crPcgNi5rt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TooManyZooz",
+					"name": "too many zooz",
+					"id": 2205361862,
+					"id_str": "2205361862",
+					"indices": [
+						31,
+						43
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/crPcgNi5rt",
+					"expanded_url": "https://twitter.com/mattwhitlockpm/status/1172364612836237312",
+					"display_url": "twitter.com/mattwhitlockpm…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8852,
+			"friends_count": 264,
+			"listed_count": 584,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5355,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60337,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1172364612836237300,
+		"quoted_status_id_str": "1172364612836237312",
+		"quoted_status_permalink": {
+			"url": "https://t.co/crPcgNi5rt",
+			"expanded": "https://twitter.com/mattwhitlockpm/status/1172364612836237312",
+			"display": "twitter.com/mattwhitlockpm…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Sep 13 04:21:19 +0000 2019",
+			"id": 1172364612836237300,
+			"id_str": "1172364612836237312",
+			"full_text": "i'd miss every train https://t.co/LiyV44hp6W",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				20
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1172364390605164500,
+						"id_str": "1172364390605164544",
+						"indices": [
+							21,
+							44
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1172364390605164544/pu/img/QWZxA-Tfr86ajsxn.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1172364390605164544/pu/img/QWZxA-Tfr86ajsxn.jpg",
+						"url": "https://t.co/LiyV44hp6W",
+						"display_url": "pic.twitter.com/LiyV44hp6W",
+						"expanded_url": "https://twitter.com/mattwhitlockPM/status/1172364612836237312/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 406,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 406,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1172364390605164500,
+						"id_str": "1172364390605164544",
+						"indices": [
+							21,
+							44
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1172364390605164544/pu/img/QWZxA-Tfr86ajsxn.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1172364390605164544/pu/img/QWZxA-Tfr86ajsxn.jpg",
+						"url": "https://t.co/LiyV44hp6W",
+						"display_url": "pic.twitter.com/LiyV44hp6W",
+						"expanded_url": "https://twitter.com/mattwhitlockPM/status/1172364612836237312/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 406,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 406,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								203,
+								360
+							],
+							"duration_millis": 136167,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1172364390605164544/pu/pl/q6gC5zomComPTnfg.m3u8?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1172364390605164544/pu/vid/406x720/2zvkK6OJeYMhRYFj.mp4?tag=10"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1172364390605164544/pu/vid/320x566/Z4-Z-NvzqPqG-MbS.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 23885430,
+				"id_str": "23885430",
+				"name": "lemonade was a popular drink and it still is",
+				"screen_name": "mattwhitlockPM",
+				"location": "Brockton, MA",
+				"description": "i manage a liquor store and listen to rap music | bylines everywhere | all boston everything | 🔊: https://t.co/SPJ4dThGSg",
+				"url": "https://t.co/zSDjW99IJ9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zSDjW99IJ9",
+								"expanded_url": "http://www.instagram.com/mattwhitlockpm",
+								"display_url": "instagram.com/mattwhitlockpm",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/SPJ4dThGSg",
+								"expanded_url": "http://bit.ly/spotifymsfts",
+								"display_url": "bit.ly/spotifymsfts",
+								"indices": [
+									98,
+									121
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 26840,
+				"friends_count": 1343,
+				"listed_count": 745,
+				"created_at": "Thu Mar 12 03:24:25 +0000 2009",
+				"favourites_count": 61108,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 5346,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/974142419376754693/6UPiC4kJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/974142419376754693/6UPiC4kJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/23885430/1442940127",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8014,
+			"favorite_count": 32894,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Killer tune and dance moves by @TooManyZooz https://t.co/crPcgNi5rt"
+	},
+	{
 		"created_at": "Sun Sep 15 15:12:54 +0000 2019",
 		"id": 1173253361463976000,
 		"id_str": "1173253361463975937",
