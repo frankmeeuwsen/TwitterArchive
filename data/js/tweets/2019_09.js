@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Fri Sep 20 07:10:57 +0000 2019",
+		"id": 1174944017294884900,
+		"id_str": "1174944017294884864",
+		"full_text": "Mijn standaard browser is Firefox. Dat wil ik in mijn privé situatie graag zo houden. Maar als ik aan het werk ben is het handiger om Chrome/Chromium als default browser te hebben vanwege de werking van bepaalde apps. En om de datastromen wat gescheiden… https://t.co/Ri4RUbeqR2 https://t.co/k8c3XzR0jY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ri4RUbeqR2",
+					"expanded_url": "https://diggingthedigital.com/?p=4115",
+					"display_url": "diggingthedigital.com/?p=4115",
+					"indices": [
+						255,
+						278
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1174944015818473500,
+					"id_str": "1174944015818473473",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/EE49W3XUwAERkcR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EE49W3XUwAERkcR.jpg",
+					"url": "https://t.co/k8c3XzR0jY",
+					"display_url": "pic.twitter.com/k8c3XzR0jY",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1174944017294884864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 100,
+							"h": 100,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 100,
+							"h": 100,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 100,
+							"h": 100,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 100,
+							"h": 100,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1174944015818473500,
+					"id_str": "1174944015818473473",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/EE49W3XUwAERkcR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EE49W3XUwAERkcR.jpg",
+					"url": "https://t.co/k8c3XzR0jY",
+					"display_url": "pic.twitter.com/k8c3XzR0jY",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1174944017294884864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 100,
+							"h": 100,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 100,
+							"h": 100,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 100,
+							"h": 100,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 100,
+							"h": 100,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://brid.gy/\" rel=\"nofollow\">Bridgy</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8856,
+			"friends_count": 266,
+			"listed_count": 584,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5359,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60351,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Mijn standaard browser is Firefox. Dat wil ik in mijn privé situatie graag zo houden. Maar als ik aan het werk ben is het handiger om Chrome/Chromium als default browser te hebben vanwege de werking van bepaalde apps. En om de datastromen wat gescheiden… https://t.co/Ri4RUbeqR2 https://t.co/k8c3XzR0jY"
+	},
+	{
 		"created_at": "Fri Sep 20 06:04:31 +0000 2019",
 		"id": 1174927297670856700,
 		"id_str": "1174927297670856709",
