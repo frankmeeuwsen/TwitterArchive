@@ -1,6 +1,266 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sat Sep 21 12:54:16 +0000 2019",
+		"id": 1175392802953470000,
+		"id_str": "1175392802953469952",
+		"full_text": "Wie gaat er mee? O.a bitterballen eten met mij en @OpenDictator https://t.co/3kVTl74MEc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OpenDictator",
+					"name": "Stephan Verveen",
+					"id": 6719712,
+					"id_str": "6719712",
+					"indices": [
+						50,
+						63
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3kVTl74MEc",
+					"expanded_url": "https://twitter.com/davidlinssen/status/1175385984936108034",
+					"display_url": "twitter.com/davidlinssen/s…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8856,
+			"friends_count": 267,
+			"listed_count": 584,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5360,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60365,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1175385984936108000,
+		"quoted_status_id_str": "1175385984936108034",
+		"quoted_status_permalink": {
+			"url": "https://t.co/3kVTl74MEc",
+			"expanded": "https://twitter.com/davidlinssen/status/1175385984936108034",
+			"display": "twitter.com/davidlinssen/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Sep 21 12:27:11 +0000 2019",
+			"id": 1175385984936108000,
+			"id_str": "1175385984936108034",
+			"full_text": "Ik heb een kaartje over voor @rushkoff vanavond in @TiVre_Utrecht Gratis voor wie wil, maar je moet wel echt gaan vanavond. https://t.co/TlFpFCqX8m",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				147
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "rushkoff",
+						"name": "douglas rushkoff",
+						"id": 15085196,
+						"id_str": "15085196",
+						"indices": [
+							29,
+							38
+						]
+					},
+					{
+						"screen_name": "TiVre_Utrecht",
+						"name": "TivoliVredenburg",
+						"id": 1354232772,
+						"id_str": "1354232772",
+						"indices": [
+							51,
+							65
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/TlFpFCqX8m",
+						"expanded_url": "https://www.tivolivredenburg.nl/agenda/how-to-stay-human-in-the-digital-age-21-09-2019/",
+						"display_url": "tivolivredenburg.nl/agenda/how-to-…",
+						"indices": [
+							124,
+							147
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14301369,
+				"id_str": "14301369",
+				"name": "David Linssen",
+				"screen_name": "davidlinssen",
+				"location": "Amsterdam",
+				"description": "CEO @ Kirk & Blackbeard. | Recovering techno-utopian | Mapping fan | Co-host of https://t.co/Qqwncqppmm podcast | Energy is my superpower.",
+				"url": "https://t.co/RVErt1RmUs",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/RVErt1RmUs",
+								"expanded_url": "http://kirkandblackbeard.com",
+								"display_url": "kirkandblackbeard.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Qqwncqppmm",
+								"expanded_url": "http://glitch.show",
+								"display_url": "glitch.show",
+								"indices": [
+									80,
+									103
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 838,
+				"friends_count": 697,
+				"listed_count": 50,
+				"created_at": "Fri Apr 04 10:07:31 +0000 2008",
+				"favourites_count": 710,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8496,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "35B2E3",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1120713805829476352/Y7Sgr99A_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1120713805829476352/Y7Sgr99A_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14301369/1538565030",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "72F005",
+				"profile_sidebar_fill_color": "F38F30",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Wie gaat er mee? O.a bitterballen eten met mij en @OpenDictator https://t.co/3kVTl74MEc"
+	},
+	{
 		"created_at": "Fri Sep 20 19:58:26 +0000 2019",
 		"id": 1175137157641638000,
 		"id_str": "1175137157641637888",
