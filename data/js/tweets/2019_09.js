@@ -1,6 +1,243 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Tue Sep 24 16:21:30 +0000 2019",
+		"id": 1176516864274419700,
+		"id_str": "1176532119562149895",
+		"full_text": "When your troll president gets out-trolled \n\nCc:\n@realDonaldTrump https://t.co/MZMoXg6G14",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "realDonaldTrump",
+					"name": "Donald J. Trump",
+					"id": 25073877,
+					"id_str": "25073877",
+					"indices": [
+						49,
+						65
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1176516858784018400,
+					"id_str": "1176516858784018432",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/EFPT2YAUcAA1aXR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFPT2YAUcAA1aXR.jpg",
+					"url": "https://t.co/MZMoXg6G14",
+					"display_url": "pic.twitter.com/MZMoXg6G14",
+					"expanded_url": "https://twitter.com/originalspin/status/1176516864274419714/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 782,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 809,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 443,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1176516858784018400,
+					"id_str": "1176516858784018432",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/EFPT2YAUcAA1aXR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFPT2YAUcAA1aXR.jpg",
+					"url": "https://t.co/MZMoXg6G14",
+					"display_url": "pic.twitter.com/MZMoXg6G14",
+					"expanded_url": "https://twitter.com/originalspin/status/1176516864274419714/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 782,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 809,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 443,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14278608,
+			"id_str": "14278608",
+			"name": "Jeff Yang",
+			"screen_name": "originalspin",
+			"location": "Los Angeles, CA",
+			"description": "@CNNOpinion Skyler & @HudsonDYang's dad #TheyCallUsBruce w/@angryasianman https://t.co/wTvrdMVBcA #BLACKWOMENLEAD👇 https://t.co/0yIQsmhdrW",
+			"url": "https://t.co/CbcVk8JVUm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CbcVk8JVUm",
+							"expanded_url": "http://www.cnn.com/profiles/jeff-yang",
+							"display_url": "cnn.com/profiles/jeff-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/wTvrdMVBcA",
+							"expanded_url": "http://bit.ly/listen2TCUB",
+							"display_url": "bit.ly/listen2TCUB",
+							"indices": [
+								74,
+								97
+							]
+						},
+						{
+							"url": "https://t.co/0yIQsmhdrW",
+							"expanded_url": "http://www.higherheightsforamerica.org",
+							"display_url": "higherheightsforamerica.org",
+							"indices": [
+								115,
+								138
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 33056,
+			"friends_count": 5289,
+			"listed_count": 790,
+			"created_at": "Tue Apr 01 22:28:01 +0000 2008",
+			"favourites_count": 37581,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 62530,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1024828702310330368/HbIftLMQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1024828702310330368/HbIftLMQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14278608/1560470587",
+			"profile_link_color": "6CB8B2",
+			"profile_sidebar_border_color": "02050A",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "B3B3B3",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "a75bc1fb166cd594",
+			"url": "https://api.twitter.com/1.1/geo/id/a75bc1fb166cd594.json",
+			"place_type": "city",
+			"name": "Culver City",
+			"full_name": "Culver City, CA",
+			"country_code": "US",
+			"country": "Verenigde Staten",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.4484512,
+							33.976882
+						],
+						[
+							-118.369529,
+							33.976882
+						],
+						[
+							-118.369529,
+							34.035143
+						],
+						[
+							-118.4484512,
+							34.035143
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4130,
+		"favorite_count": 20311,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "When your troll president gets out-trolled \n\nCc:\n@realDonaldTrump https://t.co/MZMoXg6G14"
+	},
+	{
 		"created_at": "Tue Sep 24 07:16:05 +0000 2019",
 		"id": 1176394860624064500,
 		"id_str": "1176394860624064512",
