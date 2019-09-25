@@ -1,6 +1,331 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Wed Sep 25 18:17:49 +0000 2019",
+		"id": 1176923777835458600,
+		"id_str": "1176923777835458560",
+		"full_text": "Don't it make you smile... ❤️❤️❤️🌀 https://t.co/STpC83lcIV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/STpC83lcIV",
+					"expanded_url": "https://twitter.com/glen_hansard/status/1176895940889853952",
+					"display_url": "twitter.com/glen_hansard/s…",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8852,
+			"friends_count": 267,
+			"listed_count": 583,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5366,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60378,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1176895940889854000,
+		"quoted_status_id_str": "1176895940889853952",
+		"quoted_status_permalink": {
+			"url": "https://t.co/STpC83lcIV",
+			"expanded": "https://twitter.com/glen_hansard/status/1176895940889853952",
+			"display": "twitter.com/glen_hansard/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 25 16:27:12 +0000 2019",
+			"id": 1176895940889854000,
+			"id_str": "1176895940889853952",
+			"full_text": "Surprise guest #EddieVedder made Seattle a night to remember! Thank you for coming out! Heading to Portland tonight to play at Arlene Schnitzer Concert Hall!\n•\n📷 by pearl_jam_touring_girl https://t.co/89VL5Ht6z7",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				187
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "EddieVedder",
+						"indices": [
+							15,
+							27
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1176895871893590000,
+						"id_str": "1176895871893590022",
+						"indices": [
+							188,
+							211
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1176895871893590022/pu/img/3uCKZutlIggc2xr6.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1176895871893590022/pu/img/3uCKZutlIggc2xr6.jpg",
+						"url": "https://t.co/89VL5Ht6z7",
+						"display_url": "pic.twitter.com/89VL5Ht6z7",
+						"expanded_url": "https://twitter.com/Glen_Hansard/status/1176895940889853952/video/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 480,
+								"h": 270,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 480,
+								"h": 270,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 270,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1176895871893590000,
+						"id_str": "1176895871893590022",
+						"indices": [
+							188,
+							211
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1176895871893590022/pu/img/3uCKZutlIggc2xr6.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1176895871893590022/pu/img/3uCKZutlIggc2xr6.jpg",
+						"url": "https://t.co/89VL5Ht6z7",
+						"display_url": "pic.twitter.com/89VL5Ht6z7",
+						"expanded_url": "https://twitter.com/Glen_Hansard/status/1176895940889853952/video/1",
+						"type": "video",
+						"sizes": {
+							"medium": {
+								"w": 480,
+								"h": 270,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 480,
+								"h": 270,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 270,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 60000,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1176895871893590022/pu/vid/480x270/NYAh714N9qQUfQjL.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1176895871893590022/pu/pl/U8y1KKIbPcoA1TPk.m3u8?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 80701402,
+				"id_str": "80701402",
+				"name": "Glen Hansard",
+				"screen_name": "Glen_Hansard",
+				"location": "",
+				"description": "‘This Wild Willing’ out now on ANTI! Buy/Stream links here: https://t.co/oT5SFjNcW6 Tweets by management.",
+				"url": "https://t.co/oY61eiCt6N",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/oY61eiCt6N",
+								"expanded_url": "http://glenhansard.com",
+								"display_url": "glenhansard.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/oT5SFjNcW6",
+								"expanded_url": "https://glenhansard.ffm.to/thiswildwilling",
+								"display_url": "glenhansard.ffm.to/thiswildwilling",
+								"indices": [
+									60,
+									83
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 101447,
+				"friends_count": 402,
+				"listed_count": 1920,
+				"created_at": "Wed Oct 07 22:57:21 +0000 2009",
+				"favourites_count": 72,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 4007,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1085919347359563777/EbZrRI0J_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085919347359563777/EbZrRI0J_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/80701402/1555062331",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 41,
+			"favorite_count": 291,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Don't it make you smile... ❤️❤️❤️🌀 https://t.co/STpC83lcIV"
+	},
+	{
 		"created_at": "Wed Sep 25 16:44:46 +0000 2019",
 		"id": 1176900360541261800,
 		"id_str": "1176900360541261824",
