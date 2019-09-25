@@ -1,6 +1,433 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Wed Sep 25 20:04:46 +0000 2019",
+		"id": 1176950694739415000,
+		"id_str": "1176950694739415041",
+		"full_text": "Morgenochtend om 9 uur fladdert via de internet-airwaves de nieuwe editie van OPEN naar 66 abonnees. Je kunt je nú nog gratis abbelleneren en dan krijg jij hem ook morgen! https://t.co/sUWEQRJEXM https://t.co/jcdGuSiQaL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sUWEQRJEXM",
+					"expanded_url": "http://nieuws.diggingthedigital.com/",
+					"display_url": "nieuws.diggingthedigital.com",
+					"indices": [
+						172,
+						195
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1176950688548610000,
+					"id_str": "1176950688548610053",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/EFVeal0XYAU_i4_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFVeal0XYAU_i4_.jpg",
+					"url": "https://t.co/jcdGuSiQaL",
+					"display_url": "pic.twitter.com/jcdGuSiQaL",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1176950694739415041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 148,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 84,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 253,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1176950688548610000,
+					"id_str": "1176950688548610053",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/EFVeal0XYAU_i4_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFVeal0XYAU_i4_.jpg",
+					"url": "https://t.co/jcdGuSiQaL",
+					"display_url": "pic.twitter.com/jcdGuSiQaL",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1176950694739415041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 148,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 84,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 253,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8852,
+			"friends_count": 267,
+			"listed_count": 583,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5366,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60381,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Morgenochtend om 9 uur fladdert via de internet-airwaves de nieuwe editie van OPEN naar 66 abonnees. Je kunt je nú nog gratis abbelleneren en dan krijg jij hem ook morgen! https://t.co/sUWEQRJEXM https://t.co/jcdGuSiQaL"
+	},
+	{
+		"created_at": "Wed Sep 25 19:59:49 +0000 2019",
+		"id": 1176949445541412900,
+		"id_str": "1176949445541412867",
+		"full_text": "Mis je me als ik niet meer zou schrijven? \n\n(Met dank aan @corhospes nieuwe boek voor deze wezenlijke vraag!) https://t.co/V0RNyhSVC4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "corhospes",
+					"name": "cor hospes",
+					"id": 20230946,
+					"id_str": "20230946",
+					"indices": [
+						58,
+						68
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/V0RNyhSVC4",
+					"expanded_url": "https://twitter.com/blogtrommel/status/1176931607434993665",
+					"display_url": "twitter.com/blogtrommel/st…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8852,
+			"friends_count": 267,
+			"listed_count": 583,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5366,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60381,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1176931607434993700,
+		"quoted_status_id_str": "1176931607434993665",
+		"quoted_status_permalink": {
+			"url": "https://t.co/V0RNyhSVC4",
+			"expanded": "https://twitter.com/blogtrommel/status/1176931607434993665",
+			"display": "twitter.com/blogtrommel/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 25 18:48:56 +0000 2019",
+			"id": 1176931607434993700,
+			"id_str": "1176931607434993665",
+			"full_text": "Beste blogger, wat zou je stiekem aan je lezers willen vragen (maar durf je om een of andere reden niet)? Wat zou je over je lezer willen weten? #dtv #blogpraat",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				160
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "dtv",
+						"indices": [
+							145,
+							149
+						]
+					},
+					{
+						"text": "blogpraat",
+						"indices": [
+							150,
+							160
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 467862255,
+				"id_str": "467862255",
+				"name": "Blogtrommel",
+				"screen_name": "Blogtrommel",
+				"location": "Belgium",
+				"description": "Tips en trucs voor een succesvol blog. Wil je geen enkele blogtip meer missen? Klik de link aan:https://t.co/8ehjvY60Se",
+				"url": "https://t.co/83mJU5O0oh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/83mJU5O0oh",
+								"expanded_url": "http://www.blogtrommel.com/blog-beginnen-de-beste-tips-en-inspiratie/",
+								"display_url": "blogtrommel.com/blog-beginnen-…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/8ehjvY60Se",
+								"expanded_url": "http://eepurl.com/cKY4W5",
+								"display_url": "eepurl.com/cKY4W5",
+								"indices": [
+									96,
+									119
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2080,
+				"friends_count": 1401,
+				"listed_count": 103,
+				"created_at": "Wed Jan 18 22:47:07 +0000 2012",
+				"favourites_count": 1113,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 11976,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "D19E81",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/844483192786685952/bNVESgiv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/844483192786685952/bNVESgiv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/467862255/1541354196",
+				"profile_link_color": "1796DA",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "A4574F",
+				"profile_text_color": "CB674F",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Mis je me als ik niet meer zou schrijven? \n\n(Met dank aan @corhospes nieuwe boek voor deze wezenlijke vraag!) https://t.co/V0RNyhSVC4"
+	},
+	{
 		"created_at": "Wed Sep 25 18:17:49 +0000 2019",
 		"id": 1176923777835458600,
 		"id_str": "1176923777835458560",
