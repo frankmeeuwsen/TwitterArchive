@@ -1,6 +1,275 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Thu Sep 26 12:16:22 +0000 2019",
+		"id": 1177195205537292300,
+		"id_str": "1177195205537292288",
+		"full_text": "@gvenk @marcoderksen @AlexanderNL @ejpfauth Misschien kun jij @hayify wel helpen met zijn \"wat is er te doen in de stad\"-scraper bedenk ik me nu? Zie https://t.co/4raR4OlEEE",
+		"truncated": false,
+		"display_text_range": [
+			44,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gvenk",
+					"name": "Gerard van Enk",
+					"id": 1789221,
+					"id_str": "1789221",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"screen_name": "marcoderksen",
+					"name": "Marco Derksen",
+					"id": 1252681,
+					"id_str": "1252681",
+					"indices": [
+						7,
+						20
+					]
+				},
+				{
+					"screen_name": "AlexanderNL",
+					"name": "Alexander Klöpping",
+					"id": 2239701,
+					"id_str": "2239701",
+					"indices": [
+						21,
+						33
+					]
+				},
+				{
+					"screen_name": "ejpfauth",
+					"name": "Ernst Pfauth",
+					"id": 9472802,
+					"id_str": "9472802",
+					"indices": [
+						34,
+						43
+					]
+				},
+				{
+					"screen_name": "hayify",
+					"name": "Hay Kranen",
+					"id": 6257562,
+					"id_str": "6257562",
+					"indices": [
+						62,
+						69
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4raR4OlEEE",
+					"expanded_url": "https://twitter.com/hayify/status/1173533648550862850?s=20",
+					"display_url": "twitter.com/hayify/status/…",
+					"indices": [
+						150,
+						173
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1177189986233438200,
+		"in_reply_to_status_id_str": "1177189986233438215",
+		"in_reply_to_user_id": 1789221,
+		"in_reply_to_user_id_str": "1789221",
+		"in_reply_to_screen_name": "gvenk",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8853,
+			"friends_count": 267,
+			"listed_count": 583,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5369,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60389,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1173533648550862800,
+		"quoted_status_id_str": "1173533648550862850",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4raR4OlEEE",
+			"expanded": "https://twitter.com/hayify/status/1173533648550862850?s=20",
+			"display": "twitter.com/hayify/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Sep 16 09:46:39 +0000 2019",
+			"id": 1173533648550862800,
+			"id_str": "1173533648550862850",
+			"full_text": "Ik heb een site gebouwd waar je kan zien wat er allemaal in Amsterdam te doen is. Dan hoef je niet meer een miljard sites af te speuren om iets leuks te doen. Vandaag in Amsterdam: https://t.co/pTAUppDMOU",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				204
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/pTAUppDMOU",
+						"expanded_url": "https://projects.haykranen.nl/vandaag/",
+						"display_url": "projects.haykranen.nl/vandaag/",
+						"indices": [
+							181,
+							204
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 6257562,
+				"id_str": "6257562",
+				"name": "Hay Kranen",
+				"screen_name": "hayify",
+				"location": "Amsterdam, the Netherlands",
+				"description": "Creating on the thin line between art, tech and narrative.  🇳🇱🇪🇺🌍",
+				"url": "https://t.co/jUWxyOYTMu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jUWxyOYTMu",
+								"expanded_url": "http://www.haykranen.nl",
+								"display_url": "haykranen.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1893,
+				"friends_count": 801,
+				"listed_count": 133,
+				"created_at": "Wed May 23 10:38:33 +0000 2007",
+				"favourites_count": 2146,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 19166,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1116293834349207552/ygNnelRI_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1116293834349207552/ygNnelRI_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/6257562/1476085555",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 80,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@gvenk @marcoderksen @AlexanderNL @ejpfauth Misschien kun jij @hayify wel helpen met zijn \"wat is er te doen in de stad\"-scraper bedenk ik me nu? Zie https://t.co/4raR4OlEEE"
+	},
+	{
 		"created_at": "Thu Sep 26 10:55:04 +0000 2019",
 		"id": 1177174743230926800,
 		"id_str": "1177174743230926849",
