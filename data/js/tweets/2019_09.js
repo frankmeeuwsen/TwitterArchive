@@ -1,6 +1,531 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Thu Sep 26 10:55:04 +0000 2019",
+		"id": 1177174743230926800,
+		"id_str": "1177174743230926849",
+		"full_text": "@tjarko Al jaren...",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tjarko",
+					"name": "Tjarko Rikkerink",
+					"id": 997804616455770100,
+					"id_str": "997804616455770113",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1177130356018942000,
+		"in_reply_to_status_id_str": "1177130356018941953",
+		"in_reply_to_user_id": 997804616455770100,
+		"in_reply_to_user_id_str": "997804616455770113",
+		"in_reply_to_screen_name": "tjarko",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8853,
+			"friends_count": 267,
+			"listed_count": 583,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5368,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60388,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "eu",
+		"text": "@tjarko Al jaren..."
+	},
+	{
+		"created_at": "Thu Sep 26 10:54:47 +0000 2019",
+		"id": 1177174671713874000,
+		"id_str": "1177174671713873925",
+		"full_text": "@ElviravdGriend Mag ik straks je huiswerk overschrijven als je alle tips hebt geluisterd en beoordeeld? 😉",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ElviravdGriend",
+					"name": "Elvira",
+					"id": 1162807602142728200,
+					"id_str": "1162807602142728198",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1177142971814305800,
+		"in_reply_to_status_id_str": "1177142971814305792",
+		"in_reply_to_user_id": 1162807602142728200,
+		"in_reply_to_user_id_str": "1162807602142728198",
+		"in_reply_to_screen_name": "ElviravdGriend",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8853,
+			"friends_count": 267,
+			"listed_count": 583,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5368,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60388,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@ElviravdGriend Mag ik straks je huiswerk overschrijven als je alle tips hebt geluisterd en beoordeeld? 😉"
+	},
+	{
+		"created_at": "Thu Sep 26 10:53:54 +0000 2019",
+		"id": 1177169838462197800,
+		"id_str": "1177174451017981952",
+		"full_text": "Dutch Minister of Education: Maybe we shouldn’t produce so many sexist toys.\n\nThe Dutch commentariat: THE GOVERNMENT IS COMING TO BURN YOUR BARBIE DOLLS!!! https://t.co/x1w51tQ4z3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1177169831352852500,
+					"id_str": "1177169831352852480",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EFYluYYX4AAlvff.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EFYluYYX4AAlvff.jpg",
+					"url": "https://t.co/x1w51tQ4z3",
+					"display_url": "pic.twitter.com/x1w51tQ4z3",
+					"expanded_url": "https://twitter.com/DanHF/status/1177169838462197761/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 424,
+							"h": 320,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 424,
+							"h": 320,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 424,
+							"h": 320,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1177169831352852500,
+					"id_str": "1177169831352852480",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EFYluYYX4AAlvff.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EFYluYYX4AAlvff.jpg",
+					"url": "https://t.co/x1w51tQ4z3",
+					"display_url": "pic.twitter.com/x1w51tQ4z3",
+					"expanded_url": "https://twitter.com/DanHF/status/1177169838462197761/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 424,
+							"h": 320,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 424,
+							"h": 320,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 424,
+							"h": 320,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							53,
+							40
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EFYluYYX4AAlvff.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1177169094145171500,
+		"in_reply_to_status_id_str": "1177169094145171456",
+		"in_reply_to_user_id": 16191598,
+		"in_reply_to_user_id_str": "16191598",
+		"in_reply_to_screen_name": "DanHF",
+		"user": {
+			"id": 16191598,
+			"id_str": "16191598",
+			"name": "Dan Hassler-Forest",
+			"screen_name": "DanHF",
+			"location": "Amsterdam",
+			"description": "Speaker. Writer. Reader. Professional curmudgeon. Notorious humansplainer. SF scholar. Author of “the stupidest article ever published by the WaPo” (Fox News).",
+			"url": "https://t.co/78JzpWskqa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/78JzpWskqa",
+							"expanded_url": "http://danhf.wordpress.com",
+							"display_url": "danhf.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4124,
+			"friends_count": 2515,
+			"listed_count": 130,
+			"created_at": "Mon Sep 08 20:31:50 +0000 2008",
+			"favourites_count": 17931,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 73017,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1138790861112848386/OPd_aBZw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1138790861112848386/OPd_aBZw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16191598/1560770287",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Dutch Minister of Education: Maybe we shouldn’t produce so many sexist toys.\n\nThe Dutch commentariat: THE GOVERNMENT IS COMING TO BURN YOUR BARBIE DOLLS!!! https://t.co/x1w51tQ4z3"
+	},
+	{
+		"created_at": "Thu Sep 26 10:53:07 +0000 2019",
+		"id": 1177174252983914500,
+		"id_str": "1177174252983914496",
+		"full_text": "@marcoderksen @AlexanderNL @ejpfauth Plus het maakt meer innovatie mogelijk waarmee agenda's op meer plekken zichtbaar zijn dan alleen het afgesloten Facebook en een nieuwsbrief. Kosten om RSS aan te zetten: weinig. Gewoon doen dus.",
+		"truncated": false,
+		"display_text_range": [
+			37,
+			232
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "marcoderksen",
+					"name": "Marco Derksen",
+					"id": 1252681,
+					"id_str": "1252681",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "AlexanderNL",
+					"name": "Alexander Klöpping",
+					"id": 2239701,
+					"id_str": "2239701",
+					"indices": [
+						14,
+						26
+					]
+				},
+				{
+					"screen_name": "ejpfauth",
+					"name": "Ernst Pfauth",
+					"id": 9472802,
+					"id_str": "9472802",
+					"indices": [
+						27,
+						36
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1177173890927403000,
+		"in_reply_to_status_id_str": "1177173890927403008",
+		"in_reply_to_user_id": 816203,
+		"in_reply_to_user_id_str": "816203",
+		"in_reply_to_screen_name": "frankmeeuwsen",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8853,
+			"friends_count": 267,
+			"listed_count": 583,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5368,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60388,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@marcoderksen @AlexanderNL @ejpfauth Plus het maakt meer innovatie mogelijk waarmee agenda's op meer plekken zichtbaar zijn dan alleen het afgesloten Facebook en een nieuwsbrief. Kosten om RSS aan te zetten: weinig. Gewoon doen dus."
+	},
+	{
 		"created_at": "Thu Sep 26 07:00:15 +0000 2019",
 		"id": 1177115650575216600,
 		"id_str": "1177115650575216640",
