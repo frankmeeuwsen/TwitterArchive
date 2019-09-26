@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Thu Sep 26 16:27:50 +0000 2019",
+		"id": 1177258487132360700,
+		"id_str": "1177258487132360704",
+		"full_text": "Het woord van 2019: Kortsluitingsonderwerp. https://t.co/XZ5j49Skr9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XZ5j49Skr9",
+					"expanded_url": "https://twitter.com/joycebrekelmans/status/1177120981489508352",
+					"display_url": "twitter.com/joycebrekelman…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8852,
+			"friends_count": 267,
+			"listed_count": 583,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5369,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60390,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1177120981489508400,
+		"quoted_status_id_str": "1177120981489508352",
+		"quoted_status_permalink": {
+			"url": "https://t.co/XZ5j49Skr9",
+			"expanded": "https://twitter.com/joycebrekelmans/status/1177120981489508352",
+			"display": "twitter.com/joycebrekelman…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Sep 26 07:21:26 +0000 2019",
+			"id": 1177120981489508400,
+			"id_str": "1177120981489508352",
+			"full_text": "@AnneArdon Mensen willen het te graag verkeerd begrijpen. Ik zie alleen maar 'verbod', 'afpakken' en 'extreme overheidsbemoeienis in de opvoeding' voorbijkomen. Blijkbaar is dit een kortsluitingonderwerp.",
+			"truncated": false,
+			"display_text_range": [
+				11,
+				204
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "AnneArdon",
+						"name": "Anne Ardon",
+						"id": 27866412,
+						"id_str": "27866412",
+						"indices": [
+							0,
+							10
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 1177120384006729700,
+			"in_reply_to_status_id_str": "1177120384006729728",
+			"in_reply_to_user_id": 27866412,
+			"in_reply_to_user_id_str": "27866412",
+			"in_reply_to_screen_name": "AnneArdon",
+			"user": {
+				"id": 18074560,
+				"id_str": "18074560",
+				"name": "Joyce Brekelmans",
+				"screen_name": "JoyceBrekelmans",
+				"location": "Amsterdam",
+				"description": "Nieuwsjunk met culinaire neigingen en een zwak voor woordgrappen. Redacteur en af en toe vrouwtje v/d radio @BNNVARA",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2978,
+				"friends_count": 2375,
+				"listed_count": 66,
+				"created_at": "Fri Dec 12 11:35:30 +0000 2008",
+				"favourites_count": 15275,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 16088,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FC002A",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1164519792352661504/l6Y8ptTB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164519792352661504/l6Y8ptTB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18074560/1566478916",
+				"profile_link_color": "990000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 19,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Het woord van 2019: Kortsluitingsonderwerp. https://t.co/XZ5j49Skr9"
+	},
+	{
 		"created_at": "Thu Sep 26 12:16:22 +0000 2019",
 		"id": 1177195205537292300,
 		"id_str": "1177195205537292288",
