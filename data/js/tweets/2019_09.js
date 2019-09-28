@@ -1,6 +1,324 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sat Sep 28 08:05:12 +0000 2019",
+		"id": 1177856772163428400,
+		"id_str": "1177856772163428352",
+		"full_text": "De livestream van IndieWebCamp is gestart op https://t.co/Y5ssifNadm (mss download nodig). Helaas heb ik de ochtend moeten cancellen door familiezaken... https://t.co/0ITbm9wDnA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Y5ssifNadm",
+					"expanded_url": "https://zoom.us/j/4955358768",
+					"display_url": "zoom.us/j/4955358768",
+					"indices": [
+						45,
+						68
+					]
+				},
+				{
+					"url": "https://t.co/0ITbm9wDnA",
+					"expanded_url": "https://twitter.com/t/status/1177855963186913280",
+					"display_url": "twitter.com/t/status/11778…",
+					"indices": [
+						154,
+						177
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8852,
+			"friends_count": 269,
+			"listed_count": 583,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5369,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60396,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1177855963186913300,
+		"quoted_status_id_str": "1177855963186913280",
+		"quoted_status_permalink": {
+			"url": "https://t.co/0ITbm9wDnA",
+			"expanded": "https://twitter.com/t/status/1177855963186913280",
+			"display": "twitter.com/t/status/11778…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Sep 28 08:01:59 +0000 2019",
+			"id": 1177855963186913300,
+			"id_str": "1177855963186913280",
+			"full_text": "going to #IndieWebCamp Amsterdam TODAY 10:00 at Codam Coding College with @aaronpk @ton_zylstra @schmarty @adactio @david_bryant &amp; more!\n\nLooking forward to great #indieweb demos &amp; #barcamp breakout sessions!\n\nabout: https://t.co/d1Wr6LaUGV\nwiki: https://t.co/y2CPji4EBh",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "IndieWebCamp",
+						"indices": [
+							9,
+							22
+						]
+					},
+					{
+						"text": "indieweb",
+						"indices": [
+							167,
+							176
+						]
+					},
+					{
+						"text": "barcamp",
+						"indices": [
+							189,
+							197
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "aaronpk",
+						"name": "Aaron Parecki",
+						"id": 14447132,
+						"id_str": "14447132",
+						"indices": [
+							74,
+							82
+						]
+					},
+					{
+						"screen_name": "ton_zylstra",
+						"name": "Ton Zijlstra",
+						"id": 25049203,
+						"id_str": "25049203",
+						"indices": [
+							83,
+							95
+						]
+					},
+					{
+						"screen_name": "schmarty",
+						"name": "martymcgui.re (he/him)",
+						"id": 6016212,
+						"id_str": "6016212",
+						"indices": [
+							96,
+							105
+						]
+					},
+					{
+						"screen_name": "adactio",
+						"name": "Jeremy Keith",
+						"id": 11250,
+						"id_str": "11250",
+						"indices": [
+							106,
+							114
+						]
+					},
+					{
+						"screen_name": "david_bryant",
+						"name": "David Bryant",
+						"id": 14232682,
+						"id_str": "14232682",
+						"indices": [
+							115,
+							128
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/d1Wr6LaUGV",
+						"expanded_url": "https://indiewebcamp.nl/",
+						"display_url": "indiewebcamp.nl",
+						"indices": [
+							225,
+							248
+						]
+					},
+					{
+						"url": "https://t.co/y2CPji4EBh",
+						"expanded_url": "https://tantek.com/t52n1",
+						"display_url": "tantek.com/t52n1",
+						"indices": [
+							255,
+							278
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://tantek.com/w/Falcon\" rel=\"nofollow\">Falcon</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 11628,
+				"id_str": "11628",
+				"name": "Tantek Çelik",
+				"screen_name": "t",
+				"location": "Pacific Time Zone",
+				"description": "Cofounder #indiewebcamp https://t.co/6QVHJC5Eh4 #barcamp #microformats. #Webstandards @Mozilla @csswg. Code @Falcon #openweb @cassisjs #write #trailrun #yoga #xoxo",
+				"url": "https://t.co/oZ5QB1oEQE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/oZ5QB1oEQE",
+								"expanded_url": "https://tantek.com/",
+								"display_url": "tantek.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/6QVHJC5Eh4",
+								"expanded_url": "https://indieweb.org",
+								"display_url": "indieweb.org",
+								"indices": [
+									24,
+									47
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 66638,
+				"friends_count": 1886,
+				"listed_count": 2064,
+				"created_at": "Tue Nov 07 02:26:19 +0000 2006",
+				"favourites_count": 32123,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9681,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/423350922408767488/nlA_m2WH_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/423350922408767488/nlA_m2WH_normal.jpeg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "De livestream van IndieWebCamp is gestart op https://t.co/Y5ssifNadm (mss download nodig). Helaas heb ik de ochtend moeten cancellen door familiezaken... https://t.co/0ITbm9wDnA"
+	},
+	{
 		"created_at": "Fri Sep 27 20:01:10 +0000 2019",
 		"id": 1177674563813032000,
 		"id_str": "1177674563813031936",
