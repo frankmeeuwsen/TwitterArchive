@@ -1,6 +1,578 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sun Sep 29 07:53:11 +0000 2019",
+		"id": 1178216136195879000,
+		"id_str": "1178216136195878912",
+		"full_text": "@merchandise @erwblo Weinig. Indieweb gaat daarnaast nog over \"own your identity\" en \"own your conversations\". Zie ook https://t.co/74TA9L2szb (waarschuwing, veel ongeordende tekst...)",
+		"truncated": false,
+		"display_text_range": [
+			21,
+			184
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "merchandise",
+					"name": "Richard Theuws",
+					"id": 7167342,
+					"id_str": "7167342",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "erwblo",
+					"name": "erwin blom",
+					"id": 713333,
+					"id_str": "713333",
+					"indices": [
+						13,
+						20
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/74TA9L2szb",
+					"expanded_url": "https://indieweb.org/why",
+					"display_url": "indieweb.org/why",
+					"indices": [
+						119,
+						142
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1178215454277550000,
+		"in_reply_to_status_id_str": "1178215454277550080",
+		"in_reply_to_user_id": 7167342,
+		"in_reply_to_user_id_str": "7167342",
+		"in_reply_to_screen_name": "merchandise",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8854,
+			"friends_count": 271,
+			"listed_count": 583,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5374,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60410,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@merchandise @erwblo Weinig. Indieweb gaat daarnaast nog over \"own your identity\" en \"own your conversations\". Zie ook https://t.co/74TA9L2szb (waarschuwing, veel ongeordende tekst...)"
+	},
+	{
+		"created_at": "Sun Sep 29 07:41:59 +0000 2019",
+		"id": 1178213315224277000,
+		"id_str": "1178213315224276992",
+		"full_text": "@erwblo Hoe zou je dat willen zien? Voorbeelden van URL's? Soort usecases?",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "erwblo",
+					"name": "erwin blom",
+					"id": 713333,
+					"id_str": "713333",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1178209483522285600,
+		"in_reply_to_status_id_str": "1178209483522285568",
+		"in_reply_to_user_id": 713333,
+		"in_reply_to_user_id_str": "713333",
+		"in_reply_to_screen_name": "erwblo",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8854,
+			"friends_count": 271,
+			"listed_count": 583,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5374,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60410,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@erwblo Hoe zou je dat willen zien? Voorbeelden van URL's? Soort usecases?"
+	},
+	{
+		"created_at": "Sun Sep 29 07:39:52 +0000 2019",
+		"id": 1178212781931319300,
+		"id_str": "1178212781931319296",
+		"full_text": "@ronvrn Kun je die pagina niet vanuit je browser als PDF opslaan?",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ronvrn",
+					"name": "Ronald Voorn",
+					"id": 246830361,
+					"id_str": "246830361",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1178209900566122500,
+		"in_reply_to_status_id_str": "1178209900566122496",
+		"in_reply_to_user_id": 246830361,
+		"in_reply_to_user_id_str": "246830361",
+		"in_reply_to_screen_name": "ronvrn",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8854,
+			"friends_count": 271,
+			"listed_count": 583,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5374,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60410,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@ronvrn Kun je die pagina niet vanuit je browser als PDF opslaan?"
+	},
+	{
+		"created_at": "Sun Sep 29 07:22:56 +0000 2019",
+		"id": 1178208523458666500,
+		"id_str": "1178208523458666496",
+		"full_text": "@merchandise @ronvrn En deze! https://t.co/TiyQY3MMkI",
+		"truncated": false,
+		"display_text_range": [
+			21,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "merchandise",
+					"name": "Richard Theuws",
+					"id": 7167342,
+					"id_str": "7167342",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "ronvrn",
+					"name": "Ronald Voorn",
+					"id": 246830361,
+					"id_str": "246830361",
+					"indices": [
+						13,
+						20
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TiyQY3MMkI",
+					"expanded_url": "https://diggingthedigital.com/threads-versus-posts/",
+					"display_url": "diggingthedigital.com/threads-versus…",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1178208244671684600,
+		"in_reply_to_status_id_str": "1178208244671684609",
+		"in_reply_to_user_id": 7167342,
+		"in_reply_to_user_id_str": "7167342",
+		"in_reply_to_screen_name": "merchandise",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8854,
+			"friends_count": 271,
+			"listed_count": 583,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5374,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60410,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@merchandise @ronvrn En deze! https://t.co/TiyQY3MMkI"
+	},
+	{
+		"created_at": "Sun Sep 29 07:21:37 +0000 2019",
+		"id": 1178208191907336200,
+		"id_str": "1178208191907336192",
+		"full_text": "@erwblo We kunnen niet allemaal 100% heilig zijn he... ;-)",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "erwblo",
+					"name": "erwin blom",
+					"id": 713333,
+					"id_str": "713333",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1178208029273145300,
+		"in_reply_to_status_id_str": "1178208029273145344",
+		"in_reply_to_user_id": 713333,
+		"in_reply_to_user_id_str": "713333",
+		"in_reply_to_screen_name": "erwblo",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8854,
+			"friends_count": 271,
+			"listed_count": 583,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5374,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60410,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@erwblo We kunnen niet allemaal 100% heilig zijn he... ;-)"
+	},
+	{
 		"created_at": "Sun Sep 29 07:19:55 +0000 2019",
 		"id": 1178207764826321000,
 		"id_str": "1178207764826320896",
