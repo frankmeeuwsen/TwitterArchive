@@ -1,6 +1,274 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sun Sep 29 20:55:38 +0000 2019",
+		"id": 1178394628464070700,
+		"id_str": "1178413043224592384",
+		"full_text": "You misspelled \"Fraud.\"\n#GoForceYourself https://t.co/ORY6eeyGgj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoForceYourself",
+					"indices": [
+						24,
+						40
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ORY6eeyGgj",
+					"expanded_url": "https://twitter.com/IvankaTrump/status/1178127374078140416",
+					"display_url": "twitter.com/IvankaTrump/st…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 304679484,
+			"id_str": "304679484",
+			"name": "Mark Hamill",
+			"screen_name": "HamillHimself",
+			"location": "",
+			"description": "Believe in yourself! Work hard, never give up & anything's possible! OR: Kick back, relax & aim low: You'll never be disappointed...😜 NO DMs!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3298811,
+			"friends_count": 528,
+			"listed_count": 12480,
+			"created_at": "Tue May 24 22:52:49 +0000 2011",
+			"favourites_count": 304392,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15943,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113897557883670528/FhKwWDvp_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113897557883670528/FhKwWDvp_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/304679484/1559428517",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1178127374078140400,
+		"quoted_status_id_str": "1178127374078140416",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ORY6eeyGgj",
+			"expanded": "https://twitter.com/IvankaTrump/status/1178127374078140416",
+			"display": "twitter.com/IvankaTrump/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Sep 29 02:00:29 +0000 2019",
+			"id": 1178127374078140400,
+			"id_str": "1178127374078140416",
+			"full_text": "The Force is strong in my family. ⭐️ https://t.co/oT0jFfy5Lb",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				36
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1178127368579375000,
+						"id_str": "1178127368579375105",
+						"indices": [
+							37,
+							60
+						],
+						"media_url": "http://pbs.twimg.com/media/EFmMmYhW4AEgGSb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EFmMmYhW4AEgGSb.jpg",
+						"url": "https://t.co/oT0jFfy5Lb",
+						"display_url": "pic.twitter.com/oT0jFfy5Lb",
+						"expanded_url": "https://twitter.com/IvankaTrump/status/1178127374078140416/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1440,
+								"h": 1440,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1178127368579375000,
+						"id_str": "1178127368579375105",
+						"indices": [
+							37,
+							60
+						],
+						"media_url": "http://pbs.twimg.com/media/EFmMmYhW4AEgGSb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EFmMmYhW4AEgGSb.jpg",
+						"url": "https://t.co/oT0jFfy5Lb",
+						"display_url": "pic.twitter.com/oT0jFfy5Lb",
+						"expanded_url": "https://twitter.com/IvankaTrump/status/1178127374078140416/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1440,
+								"h": 1440,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 52544275,
+				"id_str": "52544275",
+				"name": "Ivanka Trump",
+				"screen_name": "IvankaTrump",
+				"location": "Washington, DC",
+				"description": "Wife, mother, sister, daughter. Advisor to POTUS on job creation + economic empowerment, workforce development & entrepreneurship. Personal Pg. Views are my own",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7027937,
+				"friends_count": 1406,
+				"listed_count": 21455,
+				"created_at": "Tue Jun 30 22:32:03 +0000 2009",
+				"favourites_count": 2093,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 15910,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1054179226100908032/i5ZXfFdE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1054179226100908032/i5ZXfFdE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/52544275/1482433261",
+				"profile_link_color": "FF6872",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3400,
+			"favorite_count": 34687,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 21689,
+		"favorite_count": 113779,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You misspelled \"Fraud.\"\n#GoForceYourself https://t.co/ORY6eeyGgj"
+	},
+	{
 		"created_at": "Sun Sep 29 18:40:35 +0000 2019",
 		"id": 1178379058696118300,
 		"id_str": "1178379058696118272",
