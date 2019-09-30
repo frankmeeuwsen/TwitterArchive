@@ -1,6 +1,279 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Mon Sep 30 17:55:04 +0000 2019",
+		"id": 1178724511547613200,
+		"id_str": "1178729991938424832",
+		"full_text": "Voor iedereen die beweert dat bloggen 'dood' is: er zijn nog een heleboel leuke blogs over. Zie het lijstje in volgende tweet, en vul aan als je nog een leuke blog weet!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52821825,
+			"id_str": "52821825",
+			"name": "Marlous v/d Hoogen",
+			"screen_name": "ldosblog",
+			"location": "Antwerpen, België",
+			"description": "Freelance online/social media en communicatie specialist & lifestyle blogger 👩🏽‍💻 🇳🇱 in 🇧🇪",
+			"url": "https://t.co/g6XaNLhcL0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/g6XaNLhcL0",
+							"expanded_url": "http://lastdaysofspring.com",
+							"display_url": "lastdaysofspring.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1538,
+			"friends_count": 413,
+			"listed_count": 37,
+			"created_at": "Wed Jul 01 19:21:33 +0000 2009",
+			"favourites_count": 8127,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14903,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E3F4EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1080910740545040384/2SZe_E3p_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080910740545040384/2SZe_E3p_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52821825/1475065496",
+			"profile_link_color": "648F7E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FCEAEA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "nl",
+		"text": "Voor iedereen die beweert dat bloggen 'dood' is: er zijn nog een heleboel leuke blogs over. Zie het lijstje in volgende tweet, en vul aan als je nog een leuke blog weet!"
+	},
+	{
+		"created_at": "Mon Sep 30 17:55:01 +0000 2019",
+		"id": 1178724646205739000,
+		"id_str": "1178729978554400780",
+		"full_text": "https://t.co/QiCNUDljhh\nhttps://t.co/qByxo2GwDv\nhttps://t.co/4QfXpPeGlY\nhttps://t.co/8cjPOJJeFW\nhttps://t.co/sMTrHwXu3c\nhttps://t.co/Ufvm4cOgeb\nhttps://t.co/DmBQ8wf8Ze\nhttps://t.co/GAyCFOk4Gj\n\nEn m'n eigen blog: https://t.co/5RYj26lZMk is ook nog hartstikke levend!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			265
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QiCNUDljhh",
+					"expanded_url": "https://littlebitofsunshine.nl/",
+					"display_url": "littlebitofsunshine.nl",
+					"indices": [
+						0,
+						23
+					]
+				},
+				{
+					"url": "https://t.co/qByxo2GwDv",
+					"expanded_url": "http://www.sannetimmermans.nl/",
+					"display_url": "sannetimmermans.nl",
+					"indices": [
+						24,
+						47
+					]
+				},
+				{
+					"url": "https://t.co/4QfXpPeGlY",
+					"expanded_url": "https://tussenmarsenjupiter.be/",
+					"display_url": "tussenmarsenjupiter.be",
+					"indices": [
+						48,
+						71
+					]
+				},
+				{
+					"url": "https://t.co/8cjPOJJeFW",
+					"expanded_url": "https://www.jenniefromtheblog.com/",
+					"display_url": "jenniefromtheblog.com",
+					"indices": [
+						72,
+						95
+					]
+				},
+				{
+					"url": "https://t.co/sMTrHwXu3c",
+					"expanded_url": "https://desandwichformule.nl/",
+					"display_url": "desandwichformule.nl",
+					"indices": [
+						96,
+						119
+					]
+				},
+				{
+					"url": "https://t.co/Ufvm4cOgeb",
+					"expanded_url": "https://www.thelifefactory.be/",
+					"display_url": "thelifefactory.be",
+					"indices": [
+						120,
+						143
+					]
+				},
+				{
+					"url": "https://t.co/DmBQ8wf8Ze",
+					"expanded_url": "https://blackbirdsandblossom.com/",
+					"display_url": "blackbirdsandblossom.com",
+					"indices": [
+						144,
+						167
+					]
+				},
+				{
+					"url": "https://t.co/GAyCFOk4Gj",
+					"expanded_url": "https://gidsvoorhetzuiden.nl",
+					"display_url": "gidsvoorhetzuiden.nl",
+					"indices": [
+						168,
+						191
+					]
+				},
+				{
+					"url": "https://t.co/5RYj26lZMk",
+					"expanded_url": "http://www.lastdaysofspring.com",
+					"display_url": "lastdaysofspring.com",
+					"indices": [
+						212,
+						235
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1178724511547613200,
+		"in_reply_to_status_id_str": "1178724511547613186",
+		"in_reply_to_user_id": 52821825,
+		"in_reply_to_user_id_str": "52821825",
+		"in_reply_to_screen_name": "ldosblog",
+		"user": {
+			"id": 52821825,
+			"id_str": "52821825",
+			"name": "Marlous v/d Hoogen",
+			"screen_name": "ldosblog",
+			"location": "Antwerpen, België",
+			"description": "Freelance online/social media en communicatie specialist & lifestyle blogger 👩🏽‍💻 🇳🇱 in 🇧🇪",
+			"url": "https://t.co/g6XaNLhcL0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/g6XaNLhcL0",
+							"expanded_url": "http://lastdaysofspring.com",
+							"display_url": "lastdaysofspring.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1538,
+			"friends_count": 413,
+			"listed_count": 37,
+			"created_at": "Wed Jul 01 19:21:33 +0000 2009",
+			"favourites_count": 8127,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14903,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E3F4EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1080910740545040384/2SZe_E3p_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080910740545040384/2SZe_E3p_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52821825/1475065496",
+			"profile_link_color": "648F7E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FCEAEA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "https://t.co/QiCNUDljhh\nhttps://t.co/qByxo2GwDv\nhttps://t.co/4QfXpPeGlY\nhttps://t.co/8cjPOJJeFW\nhttps://t.co/sMTrHwXu3c\nhttps://t.co/Ufvm4cOgeb\nhttps://t.co/DmBQ8wf8Ze\nhttps://t.co/GAyCFOk4Gj\n\nEn m'n eigen blog: https://t.co/5RYj26lZMk is ook nog hartstikke levend!"
+	},
+	{
 		"created_at": "Sun Sep 29 20:55:38 +0000 2019",
 		"id": 1178394628464070700,
 		"id_str": "1178413043224592384",
