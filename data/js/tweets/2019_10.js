@@ -1,6 +1,151 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Tue Oct 01 18:29:49 +0000 2019",
+		"id": 1179084963188297700,
+		"id_str": "1179101123656990720",
+		"full_text": "IndieWeb Nederland heeft nu een meet-up groep, om meer mensen bij het onafhankelijke web te betrekken. Meld je aan op https://t.co/Ls5pQF2bLG , volg @IndiewebN , en check https://t.co/U2J3Lczt2x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IndiewebN",
+					"name": "IndieWeb NL",
+					"id": 1179002061305852000,
+					"id_str": "1179002061305851904",
+					"indices": [
+						149,
+						159
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ls5pQF2bLG",
+					"expanded_url": "https://www.meetup.com/IndieWeb-NL/",
+					"display_url": "meetup.com/IndieWeb-NL/",
+					"indices": [
+						118,
+						141
+					]
+				},
+				{
+					"url": "https://t.co/U2J3Lczt2x",
+					"expanded_url": "http://indiewebcamp.nl",
+					"display_url": "indiewebcamp.nl",
+					"indices": [
+						171,
+						194
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 25049203,
+			"id_str": "25049203",
+			"name": "Ton Zijlstra",
+			"screen_name": "ton_zylstra",
+			"location": "The Netherlands",
+			"description": "https://t.co/MRVMotNfWT\n\nComplex change, #opendata, #opengov, FabLab, ethics, IoT, learning, communities, philosophy of technology. .eu Signed https://t.co/4ltlqZnngQ",
+			"url": "https://t.co/mxPIeEaDtM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mxPIeEaDtM",
+							"expanded_url": "https://www.zylstra.org/blog",
+							"display_url": "zylstra.org/blog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/MRVMotNfWT",
+							"expanded_url": "http://m.tzyl.nl/@ton",
+							"display_url": "m.tzyl.nl/@ton",
+							"indices": [
+								0,
+								23
+							]
+						},
+						{
+							"url": "https://t.co/4ltlqZnngQ",
+							"expanded_url": "http://techpledge.org",
+							"display_url": "techpledge.org",
+							"indices": [
+								143,
+								166
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1594,
+			"friends_count": 503,
+			"listed_count": 193,
+			"created_at": "Wed Mar 18 09:24:58 +0000 2009",
+			"favourites_count": 248,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4884,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/659398307081379840/pyAVq5hk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/659398307081379840/pyAVq5hk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/25049203/1446047749",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "IndieWeb Nederland heeft nu een meet-up groep, om meer mensen bij het onafhankelijke web te betrekken. Meld je aan op https://t.co/Ls5pQF2bLG , volg @IndiewebN , en check https://t.co/U2J3Lczt2x"
+	},
+	{
 		"created_at": "Tue Oct 01 16:51:36 +0000 2019",
 		"id": 1178693703621398500,
 		"id_str": "1179076406506131457",
