@@ -1,6 +1,259 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Wed Oct 02 18:48:12 +0000 2019",
+		"id": 1179468140255891500,
+		"id_str": "1179468140255891457",
+		"full_text": "Zo. De nieuwsbrief voor morgen staat klaar (gratis abberoneren kan nog op https://t.co/sUWEQRJEXM), er is een nieuw Twitter account @indiewebnl en er is een Meetup voor komende Indiewebcamps (https://t.co/E8PWOlmGSI). Tijd om nu even Apple Arcade te gaan proberen.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			264
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "indiewebnl",
+					"name": "indiewebnl",
+					"id": 1179434477694673000,
+					"id_str": "1179434477694672896",
+					"indices": [
+						132,
+						143
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sUWEQRJEXM",
+					"expanded_url": "http://nieuws.diggingthedigital.com/",
+					"display_url": "nieuws.diggingthedigital.com",
+					"indices": [
+						74,
+						97
+					]
+				},
+				{
+					"url": "https://t.co/E8PWOlmGSI",
+					"expanded_url": "https://www.meetup.com/nl-NL/IndieWeb-NL/",
+					"display_url": "meetup.com/nl-NL/IndieWeb…",
+					"indices": [
+						192,
+						215
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8858,
+			"friends_count": 273,
+			"listed_count": 583,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5386,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60429,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Zo. De nieuwsbrief voor morgen staat klaar (gratis abberoneren kan nog op https://t.co/sUWEQRJEXM), er is een nieuw Twitter account @indiewebnl en er is een Meetup voor komende Indiewebcamps (https://t.co/E8PWOlmGSI). Tijd om nu even Apple Arcade te gaan proberen."
+	},
+	{
+		"created_at": "Wed Oct 02 18:29:38 +0000 2019",
+		"id": 1179462979848458200,
+		"id_str": "1179463466605785088",
+		"full_text": "Hello World! Daar zijn we hoor! Een Twitter account voor het Nederlandse deel van de indieweb community. \n\nUw moderatoren ^FM (@frankmeeuwsen) en ^TZ (@ton_zylstra) zijn er voor elke indieweb vraag, zolang het maar niet op webcare gaat lijken 😉\n\n➡️ https://t.co/Qui1aPmhsQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "frankmeeuwsen",
+					"name": "Frank Meeuwsen",
+					"id": 816203,
+					"id_str": "816203",
+					"indices": [
+						127,
+						141
+					]
+				},
+				{
+					"screen_name": "ton_zylstra",
+					"name": "Ton Zijlstra",
+					"id": 25049203,
+					"id_str": "25049203",
+					"indices": [
+						151,
+						163
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Qui1aPmhsQ",
+					"expanded_url": "https://www.meetup.com/nl-NL/IndieWeb-NL/",
+					"display_url": "meetup.com/nl-NL/IndieWeb…",
+					"indices": [
+						249,
+						272
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1179434477694673000,
+			"id_str": "1179434477694672896",
+			"name": "indiewebnl",
+			"screen_name": "indiewebnl",
+			"location": "Internet",
+			"description": "Jij en het Web kunnen meer dan je denkt. \n\n👉 It's the Dutch IndieWeb Community on Twitter.",
+			"url": "https://t.co/ge92jHqM0a",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ge92jHqM0a",
+							"expanded_url": "http://indiewebcamp.nl",
+							"display_url": "indiewebcamp.nl",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11,
+			"friends_count": 39,
+			"listed_count": 0,
+			"created_at": "Wed Oct 02 16:35:20 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1179435288587898881/PHDhMeR1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1179435288587898881/PHDhMeR1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1179434477694672896/1570041406",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Hello World! Daar zijn we hoor! Een Twitter account voor het Nederlandse deel van de indieweb community. \n\nUw moderatoren ^FM (@frankmeeuwsen) en ^TZ (@ton_zylstra) zijn er voor elke indieweb vraag, zolang het maar niet op webcare gaat lijken 😉\n\n➡️ https://t.co/Qui1aPmhsQ"
+	},
+	{
 		"created_at": "Wed Oct 02 18:16:52 +0000 2019",
 		"id": 1179460254196752400,
 		"id_str": "1179460254196752386",
