@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Wed Oct 02 18:16:52 +0000 2019",
+		"id": 1179460254196752400,
+		"id_str": "1179460254196752386",
+		"full_text": "@gvenk @ton_zylstra @IndiewebN @indiewebnl @VincentSnijder @remkusdevries @JWvdPol @toontoet @jpagroenen @erwblo Oh is dat zo? Ack... ik maak even de nieuwsbrief af en dan kijk ik er naar!",
+		"truncated": false,
+		"display_text_range": [
+			113,
+			188
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gvenk",
+					"name": "Gerard van Enk",
+					"id": 1789221,
+					"id_str": "1789221",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"screen_name": "ton_zylstra",
+					"name": "Ton Zijlstra",
+					"id": 25049203,
+					"id_str": "25049203",
+					"indices": [
+						7,
+						19
+					]
+				},
+				{
+					"screen_name": "IndiewebN",
+					"name": "IndieWeb NL",
+					"id": 1179002061305852000,
+					"id_str": "1179002061305851904",
+					"indices": [
+						20,
+						30
+					]
+				},
+				{
+					"screen_name": "indiewebnl",
+					"name": "indiewebnl",
+					"id": 1179434477694673000,
+					"id_str": "1179434477694672896",
+					"indices": [
+						31,
+						42
+					]
+				},
+				{
+					"screen_name": "VincentSnijder",
+					"name": "Vincent Snijder",
+					"id": 27284694,
+					"id_str": "27284694",
+					"indices": [
+						43,
+						58
+					]
+				},
+				{
+					"screen_name": "remkusdevries",
+					"name": "Remkus de Vries",
+					"id": 14264386,
+					"id_str": "14264386",
+					"indices": [
+						59,
+						73
+					]
+				},
+				{
+					"screen_name": "JWvdPol",
+					"name": "Jan-Willem v/d Pol",
+					"id": 13089612,
+					"id_str": "13089612",
+					"indices": [
+						74,
+						82
+					]
+				},
+				{
+					"screen_name": "toontoet",
+					"name": "Toon Toetenel",
+					"id": 76908257,
+					"id_str": "76908257",
+					"indices": [
+						83,
+						92
+					]
+				},
+				{
+					"screen_name": "jpagroenen",
+					"name": "Johan Groenen",
+					"id": 153201482,
+					"id_str": "153201482",
+					"indices": [
+						93,
+						104
+					]
+				},
+				{
+					"screen_name": "erwblo",
+					"name": "erwin blom",
+					"id": 713333,
+					"id_str": "713333",
+					"indices": [
+						105,
+						112
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1179457968217231400,
+		"in_reply_to_status_id_str": "1179457968217231360",
+		"in_reply_to_user_id": 1789221,
+		"in_reply_to_user_id_str": "1789221",
+		"in_reply_to_screen_name": "gvenk",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8858,
+			"friends_count": 272,
+			"listed_count": 583,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5386,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60426,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@gvenk @ton_zylstra @IndiewebN @indiewebnl @VincentSnijder @remkusdevries @JWvdPol @toontoet @jpagroenen @erwblo Oh is dat zo? Ack... ik maak even de nieuwsbrief af en dan kijk ik er naar!"
+	},
+	{
 		"created_at": "Wed Oct 02 17:01:07 +0000 2019",
 		"id": 1179441189617127400,
 		"id_str": "1179441189617127424",
