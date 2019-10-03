@@ -1,6 +1,453 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Thu Oct 03 19:46:46 +0000 2019",
+		"id": 1179845264741458000,
+		"id_str": "1179845264741457920",
+		"full_text": "Kom d'r maar in @wilbertleering... #oddlysatisfying https://t.co/Hs45vTEKKb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "oddlysatisfying",
+					"indices": [
+						35,
+						51
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wilbertleering",
+					"name": "Wilbert Leering",
+					"id": 11021172,
+					"id_str": "11021172",
+					"indices": [
+						16,
+						31
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Hs45vTEKKb",
+					"expanded_url": "https://twitter.com/mashable/status/1178546766779691008",
+					"display_url": "twitter.com/mashable/statu…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8857,
+			"friends_count": 273,
+			"listed_count": 583,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5389,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60440,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1178546766779691000,
+		"quoted_status_id_str": "1178546766779691008",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Hs45vTEKKb",
+			"expanded": "https://twitter.com/mashable/status/1178546766779691008",
+			"display": "twitter.com/mashable/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Sep 30 05:47:00 +0000 2019",
+			"id": 1178546766779691000,
+			"id_str": "1178546766779691008",
+			"full_text": "We're not quite sure how we feel about these videos https://t.co/NvZD1ookTD",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				51
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 986708429531054100,
+						"id_str": "986708429531054080",
+						"indices": [
+							52,
+							75
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/986708429531054080/img/gOlnJqBawhb3bey8.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/986708429531054080/img/gOlnJqBawhb3bey8.jpg",
+						"url": "https://t.co/NvZD1ookTD",
+						"display_url": "pic.twitter.com/NvZD1ookTD",
+						"expanded_url": "https://twitter.com/mashable/status/1178546766779691008/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 986708429531054100,
+						"id_str": "986708429531054080",
+						"indices": [
+							52,
+							75
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/986708429531054080/img/gOlnJqBawhb3bey8.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/986708429531054080/img/gOlnJqBawhb3bey8.jpg",
+						"url": "https://t.co/NvZD1ookTD",
+						"display_url": "pic.twitter.com/NvZD1ookTD",
+						"expanded_url": "https://twitter.com/mashable/status/1178546766779691008/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 58959,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/986708429531054080/vid/1280x720/79_zY4HpWybKFnka.mp4?tag=6"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/986708429531054080/pl/kij80p659qVj9Dqs.m3u8?tag=6"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/986708429531054080/vid/640x360/3sBPGY5oHsGUSnPE.mp4?tag=6"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/986708429531054080/vid/320x180/btn-LDz_HaJEO4B_.mp4?tag=6"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "Sit back, relax, and take a trip through these psychedelic videos",
+							"description": "Rémi Cabarrou is an art director and motion designer that specializes in realistic CGI. His trippy animations will make you watch for hours.",
+							"call_to_actions": {
+								"watch_now": {
+									"url": "https://www.youtube.com/watch?v=iGdPEuDlXoA"
+								}
+							},
+							"embeddable": true,
+							"monetizable": true
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 972651,
+				"id_str": "972651",
+				"name": "Mashable",
+				"screen_name": "mashable",
+				"location": "",
+				"description": "Mashable is for superfans. We're not for the casually curious. Obsess with us.",
+				"url": "http://t.co/1Gm8aVACKn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/1Gm8aVACKn",
+								"expanded_url": "http://mashable.com",
+								"display_url": "mashable.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9816662,
+				"friends_count": 2783,
+				"listed_count": 126952,
+				"created_at": "Mon Mar 12 01:28:01 +0000 2007",
+				"favourites_count": 1132,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 354833,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "00AEEF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1145679135873933312/OF0s1_Pe_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1145679135873933312/OF0s1_Pe_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/972651/1401484849",
+				"profile_link_color": "00AEEF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "88DBF4",
+				"profile_text_color": "3B3B3B",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 45,
+			"favorite_count": 132,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Kom d'r maar in @wilbertleering... #oddlysatisfying https://t.co/Hs45vTEKKb"
+	},
+	{
+		"created_at": "Thu Oct 03 19:40:38 +0000 2019",
+		"id": 1179818442167332900,
+		"id_str": "1179843722537832449",
+		"full_text": "It's #Foxtober. Why aren't you using Firefox? Seriously, why not? It's not run by a giant corporation. It's got a cool community. It promotes browser diversity. [taps foot, irritably]",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Foxtober",
+					"indices": [
+						5,
+						14
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://brid.gy/\" rel=\"nofollow\">Bridgy</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160687830,
+			"id_str": "160687830",
+			"name": "Charlie Don't Surf",
+			"screen_name": "sonniesedge",
+			"location": "Sitting on the Berlin wall",
+			"description": "People before code. Kindness before capitalism. \"One of those #a11y cultists\". #Indieweb lover. #Simplicity aficionado. She/her. 🏳️‍🌈 Pisces as fuck. ♓",
+			"url": "https://t.co/L4TaNjGmbv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L4TaNjGmbv",
+							"expanded_url": "https://www.sonniesedge.net",
+							"display_url": "sonniesedge.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6396,
+			"friends_count": 1166,
+			"listed_count": 219,
+			"created_at": "Mon Jun 28 21:49:23 +0000 2010",
+			"favourites_count": 10621,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65957,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1142767192448131072/NV9bOm-Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1142767192448131072/NV9bOm-Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160687830/1503058037",
+			"profile_link_color": "56AF61",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 62,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "It's #Foxtober. Why aren't you using Firefox? Seriously, why not? It's not run by a giant corporation. It's got a cool community. It promotes browser diversity. [taps foot, irritably]"
+	},
+	{
 		"created_at": "Thu Oct 03 17:41:19 +0000 2019",
 		"id": 1179813697306419200,
 		"id_str": "1179813697306419200",
