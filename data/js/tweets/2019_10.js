@@ -1,6 +1,302 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Thu Oct 03 05:30:58 +0000 2019",
+		"id": 1179629897054072800,
+		"id_str": "1179629897054072833",
+		"full_text": "Commodore printadvertentie it 1984. https://t.co/uyUnaz8KBS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uyUnaz8KBS",
+					"expanded_url": "https://twitter.com/decafjedi/status/1179052097200738309",
+					"display_url": "twitter.com/decafjedi/stat…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8857,
+			"friends_count": 273,
+			"listed_count": 583,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5386,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60431,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1179052097200738300,
+		"quoted_status_id_str": "1179052097200738309",
+		"quoted_status_permalink": {
+			"url": "https://t.co/uyUnaz8KBS",
+			"expanded": "https://twitter.com/decafjedi/status/1179052097200738309",
+			"display": "twitter.com/decafjedi/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 01 15:15:00 +0000 2019",
+			"id": 1179052097200738300,
+			"id_str": "1179052097200738309",
+			"full_text": "Seriously, how many shades of amazing is this 1984 print ad for a BASIC tutorial software package?\n\n\"Street talk of the future.\" https://t.co/mI50Az6TPI",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				128
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1179018893739737000,
+						"id_str": "1179018893739737088",
+						"indices": [
+							129,
+							152
+						],
+						"media_url": "http://pbs.twimg.com/media/EFy3b-jUwAAVkZ9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EFy3b-jUwAAVkZ9.jpg",
+						"url": "https://t.co/mI50Az6TPI",
+						"display_url": "pic.twitter.com/mI50Az6TPI",
+						"expanded_url": "https://twitter.com/decafjedi/status/1179052097200738309/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 706,
+								"h": 947,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 507,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 706,
+								"h": 947,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1179018893739737000,
+						"id_str": "1179018893739737088",
+						"indices": [
+							129,
+							152
+						],
+						"media_url": "http://pbs.twimg.com/media/EFy3b-jUwAAVkZ9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EFy3b-jUwAAVkZ9.jpg",
+						"url": "https://t.co/mI50Az6TPI",
+						"display_url": "pic.twitter.com/mI50Az6TPI",
+						"expanded_url": "https://twitter.com/decafjedi/status/1179052097200738309/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 706,
+								"h": 947,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 507,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 706,
+								"h": 947,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 574758331,
+				"id_str": "574758331",
+				"name": "Jess Morrissette",
+				"screen_name": "decafjedi",
+				"location": "West Virginia, USA",
+				"description": "Professor at Marshall University, studying the politics of games and pop culture. He/him. Visit the Video Game Soda Machine Project: https://t.co/lPwBb9yZ1E!",
+				"url": "https://t.co/18FuEwXsax",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/18FuEwXsax",
+								"expanded_url": "http://jessmorrissette.net",
+								"display_url": "jessmorrissette.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/lPwBb9yZ1E",
+								"expanded_url": "http://vgsmproject.com",
+								"display_url": "vgsmproject.com",
+								"indices": [
+									133,
+									156
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3848,
+				"friends_count": 792,
+				"listed_count": 88,
+				"created_at": "Tue May 08 20:09:18 +0000 2012",
+				"favourites_count": 21126,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 26904,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/813852858231689216/CnAUs7Ex_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/813852858231689216/CnAUs7Ex_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/574758331/1520548781",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 673,
+			"favorite_count": 1873,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "Commodore printadvertentie it 1984. https://t.co/uyUnaz8KBS"
+	},
+	{
 		"created_at": "Wed Oct 02 19:32:07 +0000 2019",
 		"id": 1179479189965156400,
 		"id_str": "1179479189965156354",
