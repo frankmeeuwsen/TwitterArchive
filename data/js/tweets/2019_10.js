@@ -1,6 +1,208 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Thu Oct 03 17:41:19 +0000 2019",
+		"id": 1179813697306419200,
+		"id_str": "1179813697306419200",
+		"full_text": "Heeft iemand in #Utrecht de film Death Proof van Quentin #Tarantino te leen voor morgenavond? DVD of Blu-ray, maar een goede digitale versie wordt ook gewaardeerd! (Hashtags for reach) https://t.co/U5LxKVuDti",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Utrecht",
+					"indices": [
+						16,
+						24
+					]
+				},
+				{
+					"text": "Tarantino",
+					"indices": [
+						57,
+						67
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1179813690150936600,
+					"id_str": "1179813690150936576",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EF-KTN6W4AAgIqf.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EF-KTN6W4AAgIqf.jpg",
+					"url": "https://t.co/U5LxKVuDti",
+					"display_url": "pic.twitter.com/U5LxKVuDti",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1179813697306419200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 550,
+							"h": 232,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 550,
+							"h": 232,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 550,
+							"h": 232,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1179813690150936600,
+					"id_str": "1179813690150936576",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EF-KTN6W4AAgIqf.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EF-KTN6W4AAgIqf.jpg",
+					"url": "https://t.co/U5LxKVuDti",
+					"display_url": "pic.twitter.com/U5LxKVuDti",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1179813697306419200/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 550,
+							"h": 232,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 550,
+							"h": 232,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 550,
+							"h": 232,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							275,
+							116
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EF-KTN6W4AAgIqf.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8857,
+			"friends_count": 273,
+			"listed_count": 583,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5387,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60437,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Heeft iemand in #Utrecht de film Death Proof van Quentin #Tarantino te leen voor morgenavond? DVD of Blu-ray, maar een goede digitale versie wordt ook gewaardeerd! (Hashtags for reach) https://t.co/U5LxKVuDti"
+	},
+	{
 		"created_at": "Thu Oct 03 17:10:12 +0000 2019",
 		"id": 1179805862694674400,
 		"id_str": "1179805862694674432",
