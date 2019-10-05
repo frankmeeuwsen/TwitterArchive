@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Sat Oct 05 06:55:36 +0000 2019",
+		"id": 1180375972736053200,
+		"id_str": "1180375972736053249",
+		"full_text": "@FZelders Ik zie een 3,8 in de iOS store. Het kan slechter. En ik zie replies van de ontwikkelaars. Mijn eigen ervaring met appreviews bij Olisto, je doet het nooit goed en je hebt altijd mensen die iets niet (willen) snappen. https://t.co/CKWn2pomBP",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			226
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FZelders",
+					"name": "FredZ",
+					"id": 8511492,
+					"id_str": "8511492",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1180375968403329000,
+					"id_str": "1180375968403329024",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/media/EGGJsHoWkAAiJ1n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGGJsHoWkAAiJ1n.jpg",
+					"url": "https://t.co/CKWn2pomBP",
+					"display_url": "pic.twitter.com/CKWn2pomBP",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1180375972736053249/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1180375968403329000,
+					"id_str": "1180375968403329024",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/media/EGGJsHoWkAAiJ1n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGGJsHoWkAAiJ1n.jpg",
+					"url": "https://t.co/CKWn2pomBP",
+					"display_url": "pic.twitter.com/CKWn2pomBP",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1180375972736053249/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1180121963479650300,
+		"in_reply_to_status_id_str": "1180121963479650305",
+		"in_reply_to_user_id": 8511492,
+		"in_reply_to_user_id_str": "8511492",
+		"in_reply_to_screen_name": "FZelders",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8857,
+			"friends_count": 274,
+			"listed_count": 583,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5390,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60445,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@FZelders Ik zie een 3,8 in de iOS store. Het kan slechter. En ik zie replies van de ontwikkelaars. Mijn eigen ervaring met appreviews bij Olisto, je doet het nooit goed en je hebt altijd mensen die iets niet (willen) snappen. https://t.co/CKWn2pomBP"
+	},
+	{
 		"created_at": "Fri Oct 04 16:46:53 +0000 2019",
 		"id": 1180162383618150400,
 		"id_str": "1180162383618150400",
