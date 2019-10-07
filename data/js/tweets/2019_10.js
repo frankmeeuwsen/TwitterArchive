@@ -1,6 +1,204 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Mon Oct 07 19:45:45 +0000 2019",
+		"id": 1181294561634771000,
+		"id_str": "1181294561634770946",
+		"full_text": "@davewiner There you go! Congrats! https://t.co/spMR2U7NEq",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "davewiner",
+					"name": "Dave Winer",
+					"id": 3839,
+					"id_str": "3839",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1181294487890350000,
+					"id_str": "1181294487890350081",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EGTNE_XU0AErCmH.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EGTNE_XU0AErCmH.jpg",
+					"url": "https://t.co/spMR2U7NEq",
+					"display_url": "pic.twitter.com/spMR2U7NEq",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1181294561634770946/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 329,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1266,
+							"h": 612,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 580,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1181294487890350000,
+					"id_str": "1181294487890350081",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EGTNE_XU0AErCmH.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EGTNE_XU0AErCmH.jpg",
+					"url": "https://t.co/spMR2U7NEq",
+					"display_url": "pic.twitter.com/spMR2U7NEq",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1181294561634770946/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 329,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1266,
+							"h": 612,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 580,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							211,
+							102
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EGTNE_XU0AErCmH.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1181293023776235500,
+		"in_reply_to_status_id_str": "1181293023776235521",
+		"in_reply_to_user_id": 3839,
+		"in_reply_to_user_id_str": "3839",
+		"in_reply_to_screen_name": "davewiner",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8860,
+			"friends_count": 274,
+			"listed_count": 583,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5417,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60469,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@davewiner There you go! Congrats! https://t.co/spMR2U7NEq"
+	},
+	{
 		"created_at": "Mon Oct 07 19:06:31 +0000 2019",
 		"id": 1181284335254753300,
 		"id_str": "1181284688532520960",
@@ -257,7 +455,7 @@ Grailbird.data.tweets_2019_10 =
 			"user_mentions": [
 				{
 					"screen_name": "emmaspreekt",
-					"name": "Emma Voerman she/her 🏳️‍🌈 wit",
+					"name": "Emma Voerman she/her 🏳️🌈 wit",
 					"id": 33482539,
 					"id_str": "33482539",
 					"indices": [
@@ -996,7 +1194,7 @@ Grailbird.data.tweets_2019_10 =
 			"user_mentions": [
 				{
 					"screen_name": "RheaFlohr",
-					"name": "𝑅𝒽𝑒𝒶 𝐹𝓁𝑜𝒽𝓇👩‍💻",
+					"name": "𝑅𝒽𝑒𝒶 𝐹𝓁𝑜𝒽𝓇👩💻",
 					"id": 418127872,
 					"id_str": "418127872",
 					"indices": [
