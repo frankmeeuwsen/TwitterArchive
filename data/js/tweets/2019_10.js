@@ -1,6 +1,1614 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Mon Oct 07 19:06:31 +0000 2019",
+		"id": 1181284335254753300,
+		"id_str": "1181284688532520960",
+		"full_text": "Ik doe een kleine enquête onder blogliefhebbers. Deed jij al mee? https://t.co/4Nr8qo1jMj #blogpraat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "blogpraat",
+					"indices": [
+						90,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4Nr8qo1jMj",
+					"expanded_url": "https://forms.gle/NCeCSPmmHKb9B89o6",
+					"display_url": "forms.gle/NCeCSPmmHKb9B8…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 467862255,
+			"id_str": "467862255",
+			"name": "Blogtrommel",
+			"screen_name": "Blogtrommel",
+			"location": "Belgium",
+			"description": "Tips en trucs voor een succesvol blog. Wil je geen enkele blogtip meer missen? Klik de link aan:https://t.co/8ehjvY60Se",
+			"url": "https://t.co/83mJU5O0oh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/83mJU5O0oh",
+							"expanded_url": "http://www.blogtrommel.com/blog-beginnen-de-beste-tips-en-inspiratie/",
+							"display_url": "blogtrommel.com/blog-beginnen-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8ehjvY60Se",
+							"expanded_url": "http://eepurl.com/cKY4W5",
+							"display_url": "eepurl.com/cKY4W5",
+							"indices": [
+								96,
+								119
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2074,
+			"friends_count": 1403,
+			"listed_count": 103,
+			"created_at": "Wed Jan 18 22:47:07 +0000 2012",
+			"favourites_count": 1121,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12016,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D19E81",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/844483192786685952/bNVESgiv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/844483192786685952/bNVESgiv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/467862255/1541354196",
+			"profile_link_color": "1796DA",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A4574F",
+			"profile_text_color": "CB674F",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Ik doe een kleine enquête onder blogliefhebbers. Deed jij al mee? https://t.co/4Nr8qo1jMj #blogpraat"
+	},
+	{
+		"created_at": "Mon Oct 07 19:01:42 +0000 2019",
+		"id": 1181283474088644600,
+		"id_str": "1181283474088644608",
+		"full_text": "Congratulations @davewiner! The  OG Blogfather is 25 years online! https://t.co/nx6gLPFlRc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "davewiner",
+					"name": "Dave Winer",
+					"id": 3839,
+					"id_str": "3839",
+					"indices": [
+						16,
+						26
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nx6gLPFlRc",
+					"expanded_url": "https://diggingthedigital.com/thanks-dave/",
+					"display_url": "diggingthedigital.com/thanks-dave/",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8860,
+			"friends_count": 274,
+			"listed_count": 583,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5417,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60468,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Congratulations @davewiner! The  OG Blogfather is 25 years online! https://t.co/nx6gLPFlRc"
+	},
+	{
+		"created_at": "Mon Oct 07 18:59:01 +0000 2019",
+		"id": 1181282801120956400,
+		"id_str": "1181282801120956421",
+		"full_text": "@emmaspreekt @eljadaae Wat tof!",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "emmaspreekt",
+					"name": "Emma Voerman she/her 🏳️‍🌈 wit",
+					"id": 33482539,
+					"id_str": "33482539",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "eljadaae",
+					"name": "Elja Daae",
+					"id": 111704957,
+					"id_str": "111704957",
+					"indices": [
+						13,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1181282645633720300,
+		"in_reply_to_status_id_str": "1181282645633720320",
+		"in_reply_to_user_id": 33482539,
+		"in_reply_to_user_id_str": "33482539",
+		"in_reply_to_screen_name": "emmaspreekt",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8860,
+			"friends_count": 274,
+			"listed_count": 583,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5417,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60468,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@emmaspreekt @eljadaae Wat tof!"
+	},
+	{
+		"created_at": "Mon Oct 07 18:46:50 +0000 2019",
+		"id": 1181279735281787000,
+		"id_str": "1181279735281786882",
+		"full_text": "@eljadaae @LisanneLeeft Ja die heb ik wel geinstalleerd en alles draait op mijn eigen server. Ik weet niet zo goed of daar posities uit te halen zijn...",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eljadaae",
+					"name": "Elja Daae",
+					"id": 111704957,
+					"id_str": "111704957",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "LisanneLeeft",
+					"name": "Lisanne",
+					"id": 23123587,
+					"id_str": "23123587",
+					"indices": [
+						10,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1181279328014721000,
+		"in_reply_to_status_id_str": "1181279328014721025",
+		"in_reply_to_user_id": 111704957,
+		"in_reply_to_user_id_str": "111704957",
+		"in_reply_to_screen_name": "eljadaae",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8860,
+			"friends_count": 274,
+			"listed_count": 583,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5417,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60468,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@eljadaae @LisanneLeeft Ja die heb ik wel geinstalleerd en alles draait op mijn eigen server. Ik weet niet zo goed of daar posities uit te halen zijn..."
+	},
+	{
+		"created_at": "Mon Oct 07 18:43:54 +0000 2019",
+		"id": 1181278995695825000,
+		"id_str": "1181278995695824899",
+		"full_text": "@eljadaae @LisanneLeeft Hmm... Ik vertik het om Google Analytics op mijn domein te gebruiken, maar dit soort data is wel interessant natuurlijk. Ik heb echt geen idee hoe ik scoor op wat voor keywords dan ook...Maar ja, dat is ook geen doel. Dus ach.  #blogpraat",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			262
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "blogpraat",
+					"indices": [
+						252,
+						262
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eljadaae",
+					"name": "Elja Daae",
+					"id": 111704957,
+					"id_str": "111704957",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "LisanneLeeft",
+					"name": "Lisanne",
+					"id": 23123587,
+					"id_str": "23123587",
+					"indices": [
+						10,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1181278449534587000,
+		"in_reply_to_status_id_str": "1181278449534586880",
+		"in_reply_to_user_id": 111704957,
+		"in_reply_to_user_id_str": "111704957",
+		"in_reply_to_screen_name": "eljadaae",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8860,
+			"friends_count": 274,
+			"listed_count": 583,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5417,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60468,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@eljadaae @LisanneLeeft Hmm... Ik vertik het om Google Analytics op mijn domein te gebruiken, maar dit soort data is wel interessant natuurlijk. Ik heb echt geen idee hoe ik scoor op wat voor keywords dan ook...Maar ja, dat is ook geen doel. Dus ach.  #blogpraat"
+	},
+	{
+		"created_at": "Mon Oct 07 18:41:38 +0000 2019",
+		"id": 1181278425236926500,
+		"id_str": "1181278425236926465",
+		"full_text": "@eljadaae ik weet dat je dat doet en ik vind dat echt bijzonder. Ik loop al maanden te hikken tegen een blogpost over het verlaten van Facebook omdat ik daar goed op wordt gevonden 🤣 Ik heb er ooit over geschreven maar het is niet echt een uitleg hóe je dat doet. #blogpraat",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			274
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "blogpraat",
+					"indices": [
+						264,
+						274
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eljadaae",
+					"name": "Elja Daae",
+					"id": 111704957,
+					"id_str": "111704957",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1181278011586273300,
+		"in_reply_to_status_id_str": "1181278011586273280",
+		"in_reply_to_user_id": 111704957,
+		"in_reply_to_user_id_str": "111704957",
+		"in_reply_to_screen_name": "eljadaae",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8860,
+			"friends_count": 274,
+			"listed_count": 583,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5417,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60468,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@eljadaae ik weet dat je dat doet en ik vind dat echt bijzonder. Ik loop al maanden te hikken tegen een blogpost over het verlaten van Facebook omdat ik daar goed op wordt gevonden 🤣 Ik heb er ooit over geschreven maar het is niet echt een uitleg hóe je dat doet. #blogpraat"
+	},
+	{
+		"created_at": "Mon Oct 07 18:39:38 +0000 2019",
+		"id": 1181277924596412400,
+		"id_str": "1181277924596412419",
+		"full_text": "@eljadaae @LisanneLeeft Bekijk je later ook of die ideeën uit de cijfers succes hebben gehad? #blogpraat",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "blogpraat",
+					"indices": [
+						94,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eljadaae",
+					"name": "Elja Daae",
+					"id": 111704957,
+					"id_str": "111704957",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "LisanneLeeft",
+					"name": "Lisanne",
+					"id": 23123587,
+					"id_str": "23123587",
+					"indices": [
+						10,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1181277458659569700,
+		"in_reply_to_status_id_str": "1181277458659569668",
+		"in_reply_to_user_id": 111704957,
+		"in_reply_to_user_id_str": "111704957",
+		"in_reply_to_screen_name": "eljadaae",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8860,
+			"friends_count": 274,
+			"listed_count": 583,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5417,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60468,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@eljadaae @LisanneLeeft Bekijk je later ook of die ideeën uit de cijfers succes hebben gehad? #blogpraat"
+	},
+	{
+		"created_at": "Mon Oct 07 18:38:44 +0000 2019",
+		"id": 1181277695184760800,
+		"id_str": "1181277695184760832",
+		"full_text": "@maaikegulden @eljadaae @CharlottesLaw Dank je wel. Ik heb mijn blogjaren ooit eens op een rij gezet. Ik heb nooit lang op 1 domein geschreven. Daarom is alles wat versplinterd. #blogpraat https://t.co/qpXFZz8Ys7",
+		"truncated": false,
+		"display_text_range": [
+			39,
+			212
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "blogpraat",
+					"indices": [
+						178,
+						188
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "maaikegulden",
+					"name": "Maaike Gulden | Social Media & Online Marketing",
+					"id": 220818356,
+					"id_str": "220818356",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "eljadaae",
+					"name": "Elja Daae",
+					"id": 111704957,
+					"id_str": "111704957",
+					"indices": [
+						14,
+						23
+					]
+				},
+				{
+					"screen_name": "CharlottesLaw",
+					"name": "Charlotte Meindersma",
+					"id": 337207549,
+					"id_str": "337207549",
+					"indices": [
+						24,
+						38
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qpXFZz8Ys7",
+					"expanded_url": "https://diggingthedigital.com/blogjaren/",
+					"display_url": "diggingthedigital.com/blogjaren/",
+					"indices": [
+						189,
+						212
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1181276282329403400,
+		"in_reply_to_status_id_str": "1181276282329403392",
+		"in_reply_to_user_id": 220818356,
+		"in_reply_to_user_id_str": "220818356",
+		"in_reply_to_screen_name": "maaikegulden",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8860,
+			"friends_count": 274,
+			"listed_count": 583,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5417,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60468,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@maaikegulden @eljadaae @CharlottesLaw Dank je wel. Ik heb mijn blogjaren ooit eens op een rij gezet. Ik heb nooit lang op 1 domein geschreven. Daarom is alles wat versplinterd. #blogpraat https://t.co/qpXFZz8Ys7"
+	},
+	{
+		"created_at": "Mon Oct 07 18:37:08 +0000 2019",
+		"id": 1181277294037332000,
+		"id_str": "1181277294037331971",
+		"full_text": "@RheaFlohr @eljadaae Dat is een mooie term, dank je wel!",
+		"truncated": false,
+		"display_text_range": [
+			21,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RheaFlohr",
+					"name": "𝑅𝒽𝑒𝒶 𝐹𝓁𝑜𝒽𝓇👩‍💻",
+					"id": 418127872,
+					"id_str": "418127872",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "eljadaae",
+					"name": "Elja Daae",
+					"id": 111704957,
+					"id_str": "111704957",
+					"indices": [
+						11,
+						20
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1181277102177284000,
+		"in_reply_to_status_id_str": "1181277102177284097",
+		"in_reply_to_user_id": 418127872,
+		"in_reply_to_user_id_str": "418127872",
+		"in_reply_to_screen_name": "RheaFlohr",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8860,
+			"friends_count": 274,
+			"listed_count": 583,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5417,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60468,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@RheaFlohr @eljadaae Dat is een mooie term, dank je wel!"
+	},
+	{
+		"created_at": "Mon Oct 07 18:32:52 +0000 2019",
+		"id": 1181276218928308200,
+		"id_str": "1181276218928308226",
+		"full_text": "@eljadaae V3 Ik gooi tegenwoordig ook kleine, losse gedachten op mijn blog. Geen volle blogposts, maar soort tweets. Brainfarts. Ik wil nog de koppeling met Twitter beter maken. https://t.co/1hBlzW0bkt #blogpraat",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			212
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "blogpraat",
+					"indices": [
+						202,
+						212
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eljadaae",
+					"name": "Elja Daae",
+					"id": 111704957,
+					"id_str": "111704957",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1hBlzW0bkt",
+					"expanded_url": "https://diggingthedigital.com/kind/note/",
+					"display_url": "diggingthedigital.com/kind/note/",
+					"indices": [
+						178,
+						201
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1181275874018123800,
+		"in_reply_to_status_id_str": "1181275874018123776",
+		"in_reply_to_user_id": 111704957,
+		"in_reply_to_user_id_str": "111704957",
+		"in_reply_to_screen_name": "eljadaae",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8860,
+			"friends_count": 274,
+			"listed_count": 583,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5417,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60468,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@eljadaae V3 Ik gooi tegenwoordig ook kleine, losse gedachten op mijn blog. Geen volle blogposts, maar soort tweets. Brainfarts. Ik wil nog de koppeling met Twitter beter maken. https://t.co/1hBlzW0bkt #blogpraat"
+	},
+	{
+		"created_at": "Mon Oct 07 18:30:03 +0000 2019",
+		"id": 1181275509096878000,
+		"id_str": "1181275509096878082",
+		"full_text": "@maaikegulden @eljadaae @CharlottesLaw Hahaha... ja, volgend jaar is mijn jubileum. Ik begon in juli 2000. https://t.co/yCzyhyOmeV. Die link laat niet alles zien, er zit ergens een rare bug in de datumarchieven.",
+		"truncated": false,
+		"display_text_range": [
+			39,
+			211
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "maaikegulden",
+					"name": "Maaike Gulden | Social Media & Online Marketing",
+					"id": 220818356,
+					"id_str": "220818356",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "eljadaae",
+					"name": "Elja Daae",
+					"id": 111704957,
+					"id_str": "111704957",
+					"indices": [
+						14,
+						23
+					]
+				},
+				{
+					"screen_name": "CharlottesLaw",
+					"name": "Charlotte Meindersma",
+					"id": 337207549,
+					"id_str": "337207549",
+					"indices": [
+						24,
+						38
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/yCzyhyOmeV",
+					"expanded_url": "http://old.punkey.com/archives/archive_2000-m07.php",
+					"display_url": "old.punkey.com/archives/archi…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1181275143517196300,
+		"in_reply_to_status_id_str": "1181275143517196288",
+		"in_reply_to_user_id": 220818356,
+		"in_reply_to_user_id_str": "220818356",
+		"in_reply_to_screen_name": "maaikegulden",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8860,
+			"friends_count": 274,
+			"listed_count": 583,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5417,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60468,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@maaikegulden @eljadaae @CharlottesLaw Hahaha... ja, volgend jaar is mijn jubileum. Ik begon in juli 2000. https://t.co/yCzyhyOmeV. Die link laat niet alles zien, er zit ergens een rare bug in de datumarchieven."
+	},
+	{
+		"created_at": "Mon Oct 07 18:28:24 +0000 2019",
+		"id": 1181275096280965000,
+		"id_str": "1181275096280965121",
+		"full_text": "@rsnijders @eljadaae V2 mijn doel...ik heb geen kwantitatieve doelen. Ik hoop dat door mijn schrijverij anderen gaan inzien dat het hebben van een eigen moederschip zoals een blog enorm waardevol kan zijn. Wat die waarde voor je persoonlijk ook mag zijn.  #blogpraat",
+		"truncated": false,
+		"display_text_range": [
+			21,
+			266
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "blogpraat",
+					"indices": [
+						256,
+						266
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rsnijders",
+					"name": "Raymond Snijders",
+					"id": 7844012,
+					"id_str": "7844012",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "eljadaae",
+					"name": "Elja Daae",
+					"id": 111704957,
+					"id_str": "111704957",
+					"indices": [
+						11,
+						20
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1181274512249237500,
+		"in_reply_to_status_id_str": "1181274512249237505",
+		"in_reply_to_user_id": 7844012,
+		"in_reply_to_user_id_str": "7844012",
+		"in_reply_to_screen_name": "rsnijders",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8860,
+			"friends_count": 274,
+			"listed_count": 583,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5417,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60468,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@rsnijders @eljadaae V2 mijn doel...ik heb geen kwantitatieve doelen. Ik hoop dat door mijn schrijverij anderen gaan inzien dat het hebben van een eigen moederschip zoals een blog enorm waardevol kan zijn. Wat die waarde voor je persoonlijk ook mag zijn.  #blogpraat"
+	},
+	{
+		"created_at": "Mon Oct 07 18:26:50 +0000 2019",
+		"id": 1181274701211021300,
+		"id_str": "1181274701211021313",
+		"full_text": "@eljadaae @rsnijders @CharlottesLaw O ja zeker. Ik gebruik het daar nog té weinig voor al verbaas ik me wat ik af en toe terugvindt in zoekopdrachten op mijn site. Ik mis nog wel de eerste jaren (2000 - 2009) die ik nog moet importeren....",
+		"truncated": false,
+		"display_text_range": [
+			36,
+			239
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eljadaae",
+					"name": "Elja Daae",
+					"id": 111704957,
+					"id_str": "111704957",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "rsnijders",
+					"name": "Raymond Snijders",
+					"id": 7844012,
+					"id_str": "7844012",
+					"indices": [
+						10,
+						20
+					]
+				},
+				{
+					"screen_name": "CharlottesLaw",
+					"name": "Charlotte Meindersma",
+					"id": 337207549,
+					"id_str": "337207549",
+					"indices": [
+						21,
+						35
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1181270683948585000,
+		"in_reply_to_status_id_str": "1181270683948584960",
+		"in_reply_to_user_id": 111704957,
+		"in_reply_to_user_id_str": "111704957",
+		"in_reply_to_screen_name": "eljadaae",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8860,
+			"friends_count": 274,
+			"listed_count": 583,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5417,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60468,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@eljadaae @rsnijders @CharlottesLaw O ja zeker. Ik gebruik het daar nog té weinig voor al verbaas ik me wat ik af en toe terugvindt in zoekopdrachten op mijn site. Ik mis nog wel de eerste jaren (2000 - 2009) die ik nog moet importeren...."
+	},
+	{
 		"created_at": "Mon Oct 07 18:01:47 +0000 2019",
 		"id": 1181268396954079200,
 		"id_str": "1181268396954079234",
