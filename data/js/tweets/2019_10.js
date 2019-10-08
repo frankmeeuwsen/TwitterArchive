@@ -1,6 +1,308 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Tue Oct 08 20:39:18 +0000 2019",
+		"id": 1181670426428227600,
+		"id_str": "1181670426428227584",
+		"full_text": "De borrel met @guidoz en @JeroenMirck maakte veel goed voor de verloren verwachtingen over Transmedia Storytelling in advertising. Jammer dat het onderwerp deze invulling kreeg. Ik had na 10+ jaar Online Tuesdays hogere verwachtingen. https://t.co/8gNLuFawSU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			234
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "guidoz",
+					"name": "g🎶d▶️z",
+					"id": 7305132,
+					"id_str": "7305132",
+					"indices": [
+						14,
+						21
+					]
+				},
+				{
+					"screen_name": "JeroenMirck",
+					"name": "Jeroen Mirck",
+					"id": 5567782,
+					"id_str": "5567782",
+					"indices": [
+						25,
+						37
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8gNLuFawSU",
+					"expanded_url": "https://twitter.com/guidoz/status/1181648622083018753",
+					"display_url": "twitter.com/guidoz/status/…",
+					"indices": [
+						235,
+						258
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8864,
+			"friends_count": 274,
+			"listed_count": 585,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5421,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60481,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1181648622083018800,
+		"quoted_status_id_str": "1181648622083018753",
+		"quoted_status_permalink": {
+			"url": "https://t.co/8gNLuFawSU",
+			"expanded": "https://twitter.com/guidoz/status/1181648622083018753",
+			"display": "twitter.com/guidoz/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 08 19:12:40 +0000 2019",
+			"id": 1181648622083018800,
+			"id_str": "1181648622083018753",
+			"full_text": "Het is voorbij. Bier dan maar. #OnlineTuesday https://t.co/M50MLLTmjY",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				45
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OnlineTuesday",
+						"indices": [
+							31,
+							45
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1181648613916762000,
+						"id_str": "1181648613916762112",
+						"indices": [
+							46,
+							69
+						],
+						"media_url": "http://pbs.twimg.com/media/EGYPJ1nXYAAfaA4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EGYPJ1nXYAAfaA4.jpg",
+						"url": "https://t.co/M50MLLTmjY",
+						"display_url": "pic.twitter.com/M50MLLTmjY",
+						"expanded_url": "https://twitter.com/guidoz/status/1181648622083018753/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1181648613916762000,
+						"id_str": "1181648613916762112",
+						"indices": [
+							46,
+							69
+						],
+						"media_url": "http://pbs.twimg.com/media/EGYPJ1nXYAAfaA4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EGYPJ1nXYAAfaA4.jpg",
+						"url": "https://t.co/M50MLLTmjY",
+						"display_url": "pic.twitter.com/M50MLLTmjY",
+						"expanded_url": "https://twitter.com/guidoz/status/1181648622083018753/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 7305132,
+				"id_str": "7305132",
+				"name": "g🎶d▶️z",
+				"screen_name": "guidoz",
+				"location": "Amsterdam Centrum/West",
+				"description": "nosy, Rijk, Provincie & gemeenten matcht vragen aan kennis #Ajax fan #SingularityUNL #InfraNL #StartUps #PBF; claimt hashtag #AjaFey; startte na 1e TwiBo 7/7/07",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3891,
+				"friends_count": 4577,
+				"listed_count": 405,
+				"created_at": "Sat Jul 07 01:26:52 +0000 2007",
+				"favourites_count": 19428,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 141194,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1D4B4E",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1204068716/161820_100001281718673_6381260_q_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1204068716/161820_100001281718673_6381260_q_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/7305132/1371506400",
+				"profile_link_color": "0000F1",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "De borrel met @guidoz en @JeroenMirck maakte veel goed voor de verloren verwachtingen over Transmedia Storytelling in advertising. Jammer dat het onderwerp deze invulling kreeg. Ik had na 10+ jaar Online Tuesdays hogere verwachtingen. https://t.co/8gNLuFawSU"
+	},
+	{
 		"created_at": "Tue Oct 08 19:08:20 +0000 2019",
 		"id": 1181647533023649800,
 		"id_str": "1181647533023649792",
