@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Fri Oct 11 16:46:21 +0000 2019",
+		"id": 1182697640770723800,
+		"id_str": "1182698963562045444",
+		"full_text": "Good morning Facebook employees. Your labor is being used to KNOWINGLY deceive and manipulate voters. Have a good day. TGIF, right? https://t.co/zZQw8L7USe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zZQw8L7USe",
+					"expanded_url": "https://twitter.com/chrisinsilico/status/1182643923782688768",
+					"display_url": "twitter.com/chrisinsilico/…",
+					"indices": [
+						132,
+						155
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2426,
+			"id_str": "2426",
+			"name": "Mike Monteiro",
+			"screen_name": "monteiro",
+			"location": "SF",
+			"description": "This is a personal account and does not reflect the opinions of my boss, who is an asshole.\n\nhe/him",
+			"url": "https://t.co/YA0MFLQFpO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YA0MFLQFpO",
+							"expanded_url": "http://ruinedby.design",
+							"display_url": "ruinedby.design",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 69573,
+			"friends_count": 1186,
+			"listed_count": 3430,
+			"created_at": "Tue Jul 18 21:14:20 +0000 2006",
+			"favourites_count": 11674,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 84819,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/803718083864989696/HmANkE-1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/803718083864989696/HmANkE-1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2426/1555008516",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1182643923782688800,
+		"quoted_status_id_str": "1182643923782688768",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zZQw8L7USe",
+			"expanded": "https://twitter.com/chrisinsilico/status/1182643923782688768",
+			"display": "twitter.com/chrisinsilico/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 11 13:07:38 +0000 2019",
+			"id": 1182643923782688800,
+			"id_str": "1182643923782688768",
+			"full_text": "Facebook has chosen to be a knowing collaborator to scaled disinformation that deceives and manipulates voters. https://t.co/fbe4CEBGgN",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				135
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/fbe4CEBGgN",
+						"expanded_url": "https://www.cnn.com/2019/10/10/tech/facebook-false-trump-ads-analysis/index.html",
+						"display_url": "cnn.com/2019/10/10/tec…",
+						"indices": [
+							112,
+							135
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 787149253302812700,
+				"id_str": "787149253302812672",
+				"name": "Christopher Wylie 🏳️‍🌈",
+				"screen_name": "chrisinsilico",
+				"location": "London, England",
+				"description": "MINDF*CK is out on Oct 8th | Whistleblower. Immigrant. Queer. | Speaking: CSpadafore[at]wmeentertainment[dot]com | Book: rrokicki[at]penguinrandomhouse[dot]com",
+				"url": "https://t.co/qwCjT2AdRR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/qwCjT2AdRR",
+								"expanded_url": "http://www.randomhousebooks.com/books/604375/",
+								"display_url": "randomhousebooks.com/books/604375/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 149803,
+				"friends_count": 1556,
+				"listed_count": 1101,
+				"created_at": "Sat Oct 15 04:33:01 +0000 2016",
+				"favourites_count": 537,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 1299,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1015405378648068096/5aS8kNKm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1015405378648068096/5aS8kNKm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/787149253302812672/1570374670",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 564,
+			"favorite_count": 985,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 13,
+		"favorite_count": 45,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Good morning Facebook employees. Your labor is being used to KNOWINGLY deceive and manipulate voters. Have a good day. TGIF, right? https://t.co/zZQw8L7USe"
+	},
+	{
 		"created_at": "Thu Oct 10 20:19:13 +0000 2019",
 		"id": 1182390145875677200,
 		"id_str": "1182390145875677192",
