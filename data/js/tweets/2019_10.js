@@ -1,6 +1,292 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Mon Oct 14 20:17:04 +0000 2019",
+		"id": 1183839155773759500,
+		"id_str": "1183839155773759490",
+		"full_text": "This should be a public blogpost but nonetheless a worthwhile thread about the lies and scams of Facebook. https://t.co/Z7CCuVbNFU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Z7CCuVbNFU",
+					"expanded_url": "https://twitter.com/jason_kint/status/1154061557376135169",
+					"display_url": "twitter.com/jason_kint/sta…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8867,
+			"friends_count": 273,
+			"listed_count": 585,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5440,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60501,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1154061557376135200,
+		"quoted_status_id_str": "1154061557376135169",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Z7CCuVbNFU",
+			"expanded": "https://twitter.com/jason_kint/status/1154061557376135169",
+			"display": "twitter.com/jason_kint/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jul 24 16:11:31 +0000 2019",
+			"id": 1154061557376135200,
+			"id_str": "1154061557376135169",
+			"full_text": "Finally. Here in SEC docs is what Facebook has painfully avoided public knowing and press has mostly missed documenting. Facebook data was ****SOLD**** to Cambridge Analytica. Can everyone please now say that Facebook personal data was sold rather than captured, transferred, etc? https://t.co/h9pjSSA6V8",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1154061529878290400,
+						"id_str": "1154061529878290432",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/media/EAQM2NFW4AASF9W.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EAQM2NFW4AASF9W.jpg",
+						"url": "https://t.co/h9pjSSA6V8",
+						"display_url": "pic.twitter.com/h9pjSSA6V8",
+						"expanded_url": "https://twitter.com/jason_kint/status/1154061557376135169/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1718,
+								"h": 922,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 365,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 644,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1154061529878290400,
+						"id_str": "1154061529878290432",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/media/EAQM2NFW4AASF9W.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EAQM2NFW4AASF9W.jpg",
+						"url": "https://t.co/h9pjSSA6V8",
+						"display_url": "pic.twitter.com/h9pjSSA6V8",
+						"expanded_url": "https://twitter.com/jason_kint/status/1154061557376135169/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1718,
+								"h": 922,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 365,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 644,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 75209239,
+				"id_str": "75209239",
+				"name": "Jason Kint",
+				"screen_name": "jason_kint",
+				"location": "DC, NYC, Hyperloop",
+				"description": "CEO of Digital Content Next @DCNorg - Advancing the Future of Trusted Content. Media strategy, occasional Buckeyes, Yanks, dad, #EV banter. CBS alum.",
+				"url": "https://t.co/ZNfiLqUK4R",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ZNfiLqUK4R",
+								"expanded_url": "https://digitalcontentnext.org/about/overview/",
+								"display_url": "digitalcontentnext.org/about/overview/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 21608,
+				"friends_count": 2587,
+				"listed_count": 885,
+				"created_at": "Fri Sep 18 05:34:39 +0000 2009",
+				"favourites_count": 21968,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 105573,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFF7",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/478151430508142592/TQwD0G8A_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/478151430508142592/TQwD0G8A_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/75209239/1411097012",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2420,
+			"favorite_count": 2923,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This should be a public blogpost but nonetheless a worthwhile thread about the lies and scams of Facebook. https://t.co/Z7CCuVbNFU"
+	},
+	{
 		"created_at": "Mon Oct 14 17:23:17 +0000 2019",
 		"id": 1183795424332861400,
 		"id_str": "1183795424332861448",
