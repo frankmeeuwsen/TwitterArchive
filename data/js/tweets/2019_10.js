@@ -1,6 +1,310 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Mon Oct 14 20:54:19 +0000 2019",
+		"id": 1183848533658689500,
+		"id_str": "1183848533658689538",
+		"full_text": "Zo wordt Meetup een kostbare aangelegenheid om te gebruiken... https://t.co/nRdlYhiZiJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nRdlYhiZiJ",
+					"expanded_url": "https://twitter.com/securestep9/status/1183798804371386369",
+					"display_url": "twitter.com/securestep9/st…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8867,
+			"friends_count": 273,
+			"listed_count": 585,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5440,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1183798804371386400,
+		"quoted_status_id_str": "1183798804371386369",
+		"quoted_status_permalink": {
+			"url": "https://t.co/nRdlYhiZiJ",
+			"expanded": "https://twitter.com/securestep9/status/1183798804371386369",
+			"display": "twitter.com/securestep9/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 14 17:36:43 +0000 2019",
+			"id": 1183798804371386400,
+			"id_str": "1183798804371386369",
+			"full_text": "If you are using #MeetUp it's time to look for an alternative provider: from November they will charge you $1 per RSVP of a FREE event, so if you have 1000 attendees RSVP-ing to your FREE meetup you as the organiser will be charged $1000 per meetup \n\nhttps://t.co/eq78hPRW2b https://t.co/HSaBFTXYOY",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				274
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MeetUp",
+						"indices": [
+							17,
+							24
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/eq78hPRW2b",
+						"expanded_url": "https://www.meetup.com/lp/paymentchanges?mpId=9038",
+						"display_url": "meetup.com/lp/paymentchan…",
+						"indices": [
+							251,
+							274
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1183798799719895000,
+						"id_str": "1183798799719895040",
+						"indices": [
+							275,
+							298
+						],
+						"media_url": "http://pbs.twimg.com/media/EG2yvH7WkAAVSLI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EG2yvH7WkAAVSLI.jpg",
+						"url": "https://t.co/HSaBFTXYOY",
+						"display_url": "pic.twitter.com/HSaBFTXYOY",
+						"expanded_url": "https://twitter.com/securestep9/status/1183798804371386369/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 437,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1346,
+								"h": 490,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 248,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1183798799719895000,
+						"id_str": "1183798799719895040",
+						"indices": [
+							275,
+							298
+						],
+						"media_url": "http://pbs.twimg.com/media/EG2yvH7WkAAVSLI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EG2yvH7WkAAVSLI.jpg",
+						"url": "https://t.co/HSaBFTXYOY",
+						"display_url": "pic.twitter.com/HSaBFTXYOY",
+						"expanded_url": "https://twitter.com/securestep9/status/1183798804371386369/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 437,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1346,
+								"h": 490,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 248,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1725879830,
+				"id_str": "1725879830",
+				"name": "Sam Stepanyan",
+				"screen_name": "securestep9",
+				"location": "London, UK",
+				"description": "@OWASPLondon Chapter Leader (#OWASP #OWASPLondon). Application Security (#appsec) Consultant. WAF specialist. #CISSP",
+				"url": "https://t.co/IY3prqFoBI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IY3prqFoBI",
+								"expanded_url": "https://medium.com/@securestep9",
+								"display_url": "medium.com/@securestep9",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3833,
+				"friends_count": 4996,
+				"listed_count": 110,
+				"created_at": "Tue Sep 03 15:40:27 +0000 2013",
+				"favourites_count": 5634,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2375,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1114515035865399296/V6nLLbjK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1114515035865399296/V6nLLbjK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1725879830/1467664387",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 390,
+			"favorite_count": 344,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Zo wordt Meetup een kostbare aangelegenheid om te gebruiken... https://t.co/nRdlYhiZiJ"
+	},
+	{
 		"created_at": "Mon Oct 14 20:17:04 +0000 2019",
 		"id": 1183839155773759500,
 		"id_str": "1183839155773759490",
