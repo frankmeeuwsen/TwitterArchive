@@ -1,6 +1,455 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Tue Oct 15 20:42:03 +0000 2019",
+		"id": 1184207834084458500,
+		"id_str": "1184207834084458496",
+		"full_text": "@mackaaij @arjanbroere @resourcerer @NielsGouman @jplattel Daar staat in wat ik zojuist hier al heb gezegd. Voor de rest niets over auteursrecht of andersoortige afspraken. Ik ga niet eenzijdig een contract met een uitgever beschikbaar stellen.",
+		"truncated": false,
+		"display_text_range": [
+			59,
+			244
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mackaaij",
+					"name": "Patrick Mackaaij",
+					"id": 16212528,
+					"id_str": "16212528",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "arjanbroere",
+					"name": "arjan broere",
+					"id": 2087771,
+					"id_str": "2087771",
+					"indices": [
+						10,
+						22
+					]
+				},
+				{
+					"screen_name": "resourcerer",
+					"name": " martijn aslander",
+					"id": 3051761,
+					"id_str": "3051761",
+					"indices": [
+						23,
+						35
+					]
+				},
+				{
+					"screen_name": "NielsGouman",
+					"name": "Niels Gouman",
+					"id": 25689874,
+					"id_str": "25689874",
+					"indices": [
+						36,
+						48
+					]
+				},
+				{
+					"screen_name": "jplattel",
+					"name": "Joost Plattel",
+					"id": 16376925,
+					"id_str": "16376925",
+					"indices": [
+						49,
+						58
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1184207143140057000,
+		"in_reply_to_status_id_str": "1184207143140057088",
+		"in_reply_to_user_id": 16212528,
+		"in_reply_to_user_id_str": "16212528",
+		"in_reply_to_screen_name": "mackaaij",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8869,
+			"friends_count": 273,
+			"listed_count": 585,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5442,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60513,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@mackaaij @arjanbroere @resourcerer @NielsGouman @jplattel Daar staat in wat ik zojuist hier al heb gezegd. Voor de rest niets over auteursrecht of andersoortige afspraken. Ik ga niet eenzijdig een contract met een uitgever beschikbaar stellen."
+	},
+	{
+		"created_at": "Tue Oct 15 20:38:12 +0000 2019",
+		"id": 1184206864185221000,
+		"id_str": "1184206864185221125",
+		"full_text": "@mackaaij @arjanbroere @resourcerer @NielsGouman @jplattel Ik zie dat er al op andere manieren contact wordt gezocht door o.a. Martijn. Als ik iets kan doen dan hoor ik het wel.",
+		"truncated": false,
+		"display_text_range": [
+			59,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mackaaij",
+					"name": "Patrick Mackaaij",
+					"id": 16212528,
+					"id_str": "16212528",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "arjanbroere",
+					"name": "arjan broere",
+					"id": 2087771,
+					"id_str": "2087771",
+					"indices": [
+						10,
+						22
+					]
+				},
+				{
+					"screen_name": "resourcerer",
+					"name": " martijn aslander",
+					"id": 3051761,
+					"id_str": "3051761",
+					"indices": [
+						23,
+						35
+					]
+				},
+				{
+					"screen_name": "NielsGouman",
+					"name": "Niels Gouman",
+					"id": 25689874,
+					"id_str": "25689874",
+					"indices": [
+						36,
+						48
+					]
+				},
+				{
+					"screen_name": "jplattel",
+					"name": "Joost Plattel",
+					"id": 16376925,
+					"id_str": "16376925",
+					"indices": [
+						49,
+						58
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1184206063098388500,
+		"in_reply_to_status_id_str": "1184206063098388482",
+		"in_reply_to_user_id": 16212528,
+		"in_reply_to_user_id_str": "16212528",
+		"in_reply_to_screen_name": "mackaaij",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8869,
+			"friends_count": 273,
+			"listed_count": 585,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5442,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60513,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@mackaaij @arjanbroere @resourcerer @NielsGouman @jplattel Ik zie dat er al op andere manieren contact wordt gezocht door o.a. Martijn. Als ik iets kan doen dan hoor ik het wel."
+	},
+	{
+		"created_at": "Tue Oct 15 20:30:14 +0000 2019",
+		"id": 1184204857768579000,
+		"id_str": "1184204857768579072",
+		"full_text": "@mackaaij @arjanbroere @resourcerer @NielsGouman @jplattel Op dit moment ligt de site plat, dus wie weet wat er sowieso staat te gebeuren. https://t.co/yOC8VYCh0R",
+		"truncated": false,
+		"display_text_range": [
+			59,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mackaaij",
+					"name": "Patrick Mackaaij",
+					"id": 16212528,
+					"id_str": "16212528",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "arjanbroere",
+					"name": "arjan broere",
+					"id": 2087771,
+					"id_str": "2087771",
+					"indices": [
+						10,
+						22
+					]
+				},
+				{
+					"screen_name": "resourcerer",
+					"name": " martijn aslander",
+					"id": 3051761,
+					"id_str": "3051761",
+					"indices": [
+						23,
+						35
+					]
+				},
+				{
+					"screen_name": "NielsGouman",
+					"name": "Niels Gouman",
+					"id": 25689874,
+					"id_str": "25689874",
+					"indices": [
+						36,
+						48
+					]
+				},
+				{
+					"screen_name": "jplattel",
+					"name": "Joost Plattel",
+					"id": 16376925,
+					"id_str": "16376925",
+					"indices": [
+						49,
+						58
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/yOC8VYCh0R",
+					"expanded_url": "https://www.isitdownrightnow.com/lifehacking.nl.html",
+					"display_url": "isitdownrightnow.com/lifehacking.nl…",
+					"indices": [
+						139,
+						162
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1184203228856107000,
+		"in_reply_to_status_id_str": "1184203228856107008",
+		"in_reply_to_user_id": 16212528,
+		"in_reply_to_user_id_str": "16212528",
+		"in_reply_to_screen_name": "mackaaij",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8869,
+			"friends_count": 273,
+			"listed_count": 585,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5442,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60513,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@mackaaij @arjanbroere @resourcerer @NielsGouman @jplattel Op dit moment ligt de site plat, dus wie weet wat er sowieso staat te gebeuren. https://t.co/yOC8VYCh0R"
+	},
+	{
 		"created_at": "Tue Oct 15 20:18:44 +0000 2019",
 		"id": 1184201964344791000,
 		"id_str": "1184201964344791052",
