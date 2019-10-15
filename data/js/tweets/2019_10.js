@@ -1,6 +1,216 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Tue Oct 15 06:01:29 +0000 2019",
+		"id": 1154132911836106800,
+		"id_str": "1183986231937503234",
+		"full_text": "\"Amazon does private label!\" https://t.co/uDN4cMdEun",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1154132899676872700,
+					"id_str": "1154132899676872704",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/EARNweTU4AAwwna.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EARNweTU4AAwwna.jpg",
+					"url": "https://t.co/uDN4cMdEun",
+					"display_url": "pic.twitter.com/uDN4cMdEun",
+					"expanded_url": "https://twitter.com/benedictevans/status/1154132911836106752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 911,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 516,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1555,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1154132899676872700,
+					"id_str": "1154132899676872704",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/EARNweTU4AAwwna.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EARNweTU4AAwwna.jpg",
+					"url": "https://t.co/uDN4cMdEun",
+					"display_url": "pic.twitter.com/uDN4cMdEun",
+					"expanded_url": "https://twitter.com/benedictevans/status/1154132911836106752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 911,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 516,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1555,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1154132899718766600,
+					"id_str": "1154132899718766592",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/EARNwedUIAAMx3a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EARNwedUIAAMx3a.jpg",
+					"url": "https://t.co/uDN4cMdEun",
+					"display_url": "pic.twitter.com/uDN4cMdEun",
+					"expanded_url": "https://twitter.com/benedictevans/status/1154132911836106752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 524,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1578,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 925,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1236101,
+			"id_str": "1236101",
+			"name": "Benedict Evans",
+			"screen_name": "benedictevans",
+			"location": "",
+			"description": "Trying to work out what's going on, and what happens next. Curious. Easily bored. Single parent. Expat in San Francisco. @a16z.",
+			"url": "https://t.co/Xn2lah7w1L",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Xn2lah7w1L",
+							"expanded_url": "http://www.ben-evans.com/newsletter",
+							"display_url": "ben-evans.com/newsletter",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275193,
+			"friends_count": 988,
+			"listed_count": 7102,
+			"created_at": "Thu Mar 15 17:33:00 +0000 2007",
+			"favourites_count": 10863,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 146492,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E5E5E5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/845396356579508224/1ruiOPLI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/845396356579508224/1ruiOPLI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1236101/1533856951",
+			"profile_link_color": "336699",
+			"profile_sidebar_border_color": "5D5D5D",
+			"profile_sidebar_fill_color": "E5E5E5",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 42,
+		"favorite_count": 224,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Amazon does private label!\" https://t.co/uDN4cMdEun"
+	},
+	{
 		"created_at": "Mon Oct 14 20:54:19 +0000 2019",
 		"id": 1183848533658689500,
 		"id_str": "1183848533658689538",
