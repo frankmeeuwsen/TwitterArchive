@@ -1,6 +1,424 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Wed Oct 16 07:54:27 +0000 2019",
+		"id": 1184377045746368500,
+		"id_str": "1184377045746368513",
+		"full_text": "@gvenk Living on the edge!",
+		"truncated": false,
+		"display_text_range": [
+			7,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gvenk",
+					"name": "Gerard van Enk",
+					"id": 1789221,
+					"id_str": "1789221",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1184376730032791600,
+		"in_reply_to_status_id_str": "1184376730032791552",
+		"in_reply_to_user_id": 1789221,
+		"in_reply_to_user_id_str": "1789221",
+		"in_reply_to_screen_name": "gvenk",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8869,
+			"friends_count": 273,
+			"listed_count": 585,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5442,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60519,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@gvenk Living on the edge!"
+	},
+	{
+		"created_at": "Wed Oct 16 07:54:03 +0000 2019",
+		"id": 1184376947104727000,
+		"id_str": "1184376947104727040",
+		"full_text": "@mackaaij @CharlottesLaw @arjanbroere @resourcerer @NielsGouman @jplattel \"een van het groepje\"? Je bedoelt de eigenaar van de site? Wat zorgvuldigheid kan geen kwaad Patrick. (PS, wie uit deze thread wil, laat maar weten)",
+		"truncated": false,
+		"display_text_range": [
+			74,
+			222
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mackaaij",
+					"name": "Patrick Mackaaij",
+					"id": 16212528,
+					"id_str": "16212528",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "CharlottesLaw",
+					"name": "Charlotte Meindersma",
+					"id": 337207549,
+					"id_str": "337207549",
+					"indices": [
+						10,
+						24
+					]
+				},
+				{
+					"screen_name": "arjanbroere",
+					"name": "arjan broere",
+					"id": 2087771,
+					"id_str": "2087771",
+					"indices": [
+						25,
+						37
+					]
+				},
+				{
+					"screen_name": "resourcerer",
+					"name": " martijn aslander",
+					"id": 3051761,
+					"id_str": "3051761",
+					"indices": [
+						38,
+						50
+					]
+				},
+				{
+					"screen_name": "NielsGouman",
+					"name": "Niels Gouman",
+					"id": 25689874,
+					"id_str": "25689874",
+					"indices": [
+						51,
+						63
+					]
+				},
+				{
+					"screen_name": "jplattel",
+					"name": "Joost Plattel",
+					"id": 16376925,
+					"id_str": "16376925",
+					"indices": [
+						64,
+						73
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1184356167973253000,
+		"in_reply_to_status_id_str": "1184356167973253121",
+		"in_reply_to_user_id": 16212528,
+		"in_reply_to_user_id_str": "16212528",
+		"in_reply_to_screen_name": "mackaaij",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8869,
+			"friends_count": 273,
+			"listed_count": 585,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5442,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60519,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@mackaaij @CharlottesLaw @arjanbroere @resourcerer @NielsGouman @jplattel \"een van het groepje\"? Je bedoelt de eigenaar van de site? Wat zorgvuldigheid kan geen kwaad Patrick. (PS, wie uit deze thread wil, laat maar weten)"
+	},
+	{
+		"created_at": "Wed Oct 16 07:52:21 +0000 2019",
+		"id": 1184376519357075500,
+		"id_str": "1184376519357075456",
+		"full_text": "@CharlottesLaw @mackaaij @arjanbroere @resourcerer @NielsGouman @jplattel Laat mij aub meelezen. Er zit wel wat nuance in het verhaal dan wat nu allemaal op Twitter wordt gezet.",
+		"truncated": false,
+		"display_text_range": [
+			74,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CharlottesLaw",
+					"name": "Charlotte Meindersma",
+					"id": 337207549,
+					"id_str": "337207549",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "mackaaij",
+					"name": "Patrick Mackaaij",
+					"id": 16212528,
+					"id_str": "16212528",
+					"indices": [
+						15,
+						24
+					]
+				},
+				{
+					"screen_name": "arjanbroere",
+					"name": "arjan broere",
+					"id": 2087771,
+					"id_str": "2087771",
+					"indices": [
+						25,
+						37
+					]
+				},
+				{
+					"screen_name": "resourcerer",
+					"name": " martijn aslander",
+					"id": 3051761,
+					"id_str": "3051761",
+					"indices": [
+						38,
+						50
+					]
+				},
+				{
+					"screen_name": "NielsGouman",
+					"name": "Niels Gouman",
+					"id": 25689874,
+					"id_str": "25689874",
+					"indices": [
+						51,
+						63
+					]
+				},
+				{
+					"screen_name": "jplattel",
+					"name": "Joost Plattel",
+					"id": 16376925,
+					"id_str": "16376925",
+					"indices": [
+						64,
+						73
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1184357164577677300,
+		"in_reply_to_status_id_str": "1184357164577677313",
+		"in_reply_to_user_id": 337207549,
+		"in_reply_to_user_id_str": "337207549",
+		"in_reply_to_screen_name": "CharlottesLaw",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8869,
+			"friends_count": 273,
+			"listed_count": 585,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5442,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60519,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@CharlottesLaw @mackaaij @arjanbroere @resourcerer @NielsGouman @jplattel Laat mij aub meelezen. Er zit wel wat nuance in het verhaal dan wat nu allemaal op Twitter wordt gezet."
+	},
+	{
 		"created_at": "Wed Oct 16 06:09:36 +0000 2019",
 		"id": 1184350661871321000,
 		"id_str": "1184350661871321088",
