@@ -1,6 +1,323 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Wed Oct 16 20:32:25 +0000 2019",
+		"id": 1184567795398447000,
+		"id_str": "1184567795398447106",
+		"full_text": "Onbegrijpelijk om zo'n enorme collectie internetgeschiedenis gewoon weg te gooien. Natuurlijk zal er via Wayback Machine iets terug zijn te vinden, maar het zal nooit zo'n levend archief zijn. Eeuwig zonde. /cc @silvertje https://t.co/z7xeYNAmIY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "silvertje",
+					"name": "Anne Helmond",
+					"id": 8273852,
+					"id_str": "8273852",
+					"indices": [
+						211,
+						221
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/z7xeYNAmIY",
+					"expanded_url": "https://twitter.com/textfiles/status/1184461099237814273",
+					"display_url": "twitter.com/textfiles/stat…",
+					"indices": [
+						222,
+						245
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8868,
+			"friends_count": 273,
+			"listed_count": 585,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5449,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60526,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1184461099237814300,
+		"quoted_status_id_str": "1184461099237814273",
+		"quoted_status_permalink": {
+			"url": "https://t.co/z7xeYNAmIY",
+			"expanded": "https://twitter.com/textfiles/status/1184461099237814273",
+			"display": "twitter.com/textfiles/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 16 13:28:26 +0000 2019",
+			"id": 1184461099237814300,
+			"id_str": "1184461099237814273",
+			"full_text": "So OF COURSE Yahoo! is going to stop allowing use of Yahoo! Groups in exactly one week, and OF COURSE Yahoo! is going to delete/wipe ALL content in ALL Yahoo! Groups in 3 months. And OF COURSE the front page says NOTHING about it. https://t.co/2tNGpt9WoX https://t.co/2U52mPK2ej",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				254
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/2tNGpt9WoX",
+						"expanded_url": "https://help.yahoo.com/kb/SLN31010.html",
+						"display_url": "help.yahoo.com/kb/SLN31010.ht…",
+						"indices": [
+							231,
+							254
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1184461084104761300,
+						"id_str": "1184461084104761345",
+						"indices": [
+							255,
+							278
+						],
+						"media_url": "http://pbs.twimg.com/media/EHANFJhWoAEVXDu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EHANFJhWoAEVXDu.jpg",
+						"url": "https://t.co/2U52mPK2ej",
+						"display_url": "pic.twitter.com/2U52mPK2ej",
+						"expanded_url": "https://twitter.com/textfiles/status/1184461099237814273/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1697,
+								"h": 1378,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 974,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 552,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1184461084104761300,
+						"id_str": "1184461084104761345",
+						"indices": [
+							255,
+							278
+						],
+						"media_url": "http://pbs.twimg.com/media/EHANFJhWoAEVXDu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EHANFJhWoAEVXDu.jpg",
+						"url": "https://t.co/2U52mPK2ej",
+						"display_url": "pic.twitter.com/2U52mPK2ej",
+						"expanded_url": "https://twitter.com/textfiles/status/1184461099237814273/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1697,
+								"h": 1378,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 974,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 552,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1465481,
+				"id_str": "1465481",
+				"name": "Jason Scott",
+				"screen_name": "textfiles",
+				"location": "The 1980s",
+				"description": "Proprietor of https://t.co/45hn0aMmeO, historian, filmmaker, archivist, famous cat maintenance staff. Works on/for the Internet Archive. Rank Amateur. Problematic Guy.",
+				"url": "https://t.co/1f0N0J6W33",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1f0N0J6W33",
+								"expanded_url": "http://ascii.textfiles.com",
+								"display_url": "ascii.textfiles.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/45hn0aMmeO",
+								"expanded_url": "http://TEXTFILES.COM",
+								"display_url": "TEXTFILES.COM",
+								"indices": [
+									14,
+									37
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 31959,
+				"friends_count": 709,
+				"listed_count": 1196,
+				"created_at": "Mon Mar 19 02:55:22 +0000 2007",
+				"favourites_count": 1397,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 90551,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/955293255159042048/z1ihB0QT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/955293255159042048/z1ihB0QT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1465481/1398239070",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 397,
+			"favorite_count": 365,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Onbegrijpelijk om zo'n enorme collectie internetgeschiedenis gewoon weg te gooien. Natuurlijk zal er via Wayback Machine iets terug zijn te vinden, maar het zal nooit zo'n levend archief zijn. Eeuwig zonde. /cc @silvertje https://t.co/z7xeYNAmIY"
+	},
+	{
 		"created_at": "Wed Oct 16 18:29:54 +0000 2019",
 		"id": 1184536964235698200,
 		"id_str": "1184536964235698179",
