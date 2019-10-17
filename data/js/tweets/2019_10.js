@@ -1,6 +1,250 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Thu Oct 17 09:48:33 +0000 2019",
+		"id": 1184675585722704000,
+		"id_str": "1184768151243968512",
+		"full_text": "An awesome video of @bitfixer's PETpix: full motion video playback on a Commodore PET! \n\nhttps://t.co/xjlNsQD7LS https://t.co/RJsX3laZzN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bitfixer",
+					"name": "Michael Hill",
+					"id": 253816450,
+					"id_str": "253816450",
+					"indices": [
+						20,
+						29
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xjlNsQD7LS",
+					"expanded_url": "https://hutchins1.tumblr.com/post/188398899626/michael-hill-aka-bitfixer-showed-his",
+					"display_url": "hutchins1.tumblr.com/post/188398899…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1184675538004168700,
+					"id_str": "1184675538004168706",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1184675538004168706/pu/img/Am7rKDQOphZ5vTu_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1184675538004168706/pu/img/Am7rKDQOphZ5vTu_.jpg",
+					"url": "https://t.co/RJsX3laZzN",
+					"display_url": "pic.twitter.com/RJsX3laZzN",
+					"expanded_url": "https://twitter.com/Foone/status/1184675585722703873/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 852,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 852,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1184675538004168700,
+					"id_str": "1184675538004168706",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1184675538004168706/pu/img/Am7rKDQOphZ5vTu_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1184675538004168706/pu/img/Am7rKDQOphZ5vTu_.jpg",
+					"url": "https://t.co/RJsX3laZzN",
+					"display_url": "pic.twitter.com/RJsX3laZzN",
+					"expanded_url": "https://twitter.com/Foone/status/1184675585722703873/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 852,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 852,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							40,
+							71
+						],
+						"duration_millis": 24734,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1184675538004168706/pu/vid/320x568/e7cnboa-gXtBvJKW.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1184675538004168706/pu/vid/480x852/ENFxY1w8FtoYbh1n.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1184675538004168706/pu/pl/q4PlfLQvoLrZTDnv.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1184675538004168706/pu/vid/360x638/gvFAvsZQF7RYQiRj.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13502732,
+			"id_str": "13502732",
+			"name": "foone",
+			"screen_name": "Foone",
+			"location": "Milpitas, CA",
+			"description": "Hardware / software necromancer, collector of Weird Stuff, maker of Death Generators.\nPatreon: https://t.co/YZYV7eeX9y\nko-fi: https://t.co/judH4AWINA",
+			"url": "https://t.co/2PlYsHBSvH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2PlYsHBSvH",
+							"expanded_url": "http://floppy.foone.org",
+							"display_url": "floppy.foone.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YZYV7eeX9y",
+							"expanded_url": "https://patreon.com/foone",
+							"display_url": "patreon.com/foone",
+							"indices": [
+								95,
+								118
+							]
+						},
+						{
+							"url": "https://t.co/judH4AWINA",
+							"expanded_url": "https://ko-fi.com/fooneturing",
+							"display_url": "ko-fi.com/fooneturing",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 45115,
+			"friends_count": 534,
+			"listed_count": 469,
+			"created_at": "Fri Feb 15 03:51:09 +0000 2008",
+			"favourites_count": 51022,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 106654,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/880340410333143040/-s_buYC0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/880340410333143040/-s_buYC0_normal.jpg",
+			"profile_link_color": "008080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 35,
+		"favorite_count": 196,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "An awesome video of @bitfixer's PETpix: full motion video playback on a Commodore PET! \n\nhttps://t.co/xjlNsQD7LS https://t.co/RJsX3laZzN"
+	},
+	{
 		"created_at": "Thu Oct 17 07:40:51 +0000 2019",
 		"id": 1184736014956408800,
 		"id_str": "1184736014956408832",
