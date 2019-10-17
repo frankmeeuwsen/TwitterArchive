@@ -1,6 +1,264 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Thu Oct 17 18:02:37 +0000 2019",
+		"id": 1184892485899903000,
+		"id_str": "1184892485899902976",
+		"full_text": "Dit vuurwerk zie ik liever de komende jaren dan de idioterie die we gewend zijn in Nederland. https://t.co/9dKNB5pYuy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9dKNB5pYuy",
+					"expanded_url": "https://twitter.com/ManuKumar/status/1184837530711015426",
+					"display_url": "twitter.com/ManuKumar/stat…",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8867,
+			"friends_count": 274,
+			"listed_count": 585,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5452,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60533,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1184837530711015400,
+		"quoted_status_id_str": "1184837530711015426",
+		"quoted_status_permalink": {
+			"url": "https://t.co/9dKNB5pYuy",
+			"expanded": "https://twitter.com/ManuKumar/status/1184837530711015426",
+			"display": "twitter.com/ManuKumar/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 17 14:24:15 +0000 2019",
+			"id": 1184837530711015400,
+			"id_str": "1184837530711015426",
+			"full_text": "This is the future of fireworks. Choreographed music, with a amazing visual display to light up the sky with no pollution and without bothering the dogs! https://t.co/WGied9o97d",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				153
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/WGied9o97d",
+						"expanded_url": "https://twitter.com/machinepix/status/1184830194323984389",
+						"display_url": "twitter.com/machinepix/sta…",
+						"indices": [
+							154,
+							177
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14474225,
+				"id_str": "14474225",
+				"name": "Manu Kumar",
+				"screen_name": "ManuKumar",
+				"location": "Palo Alto, CA",
+				"description": "🐕 Human, Founder, Investor. Chief Firestarter at @K9Ventures. The O.G. for PreSeed. @lyft, @twilio, @playosmo, @CartaInc, @lucidchart, @auth0, @HiHello & more.",
+				"url": "https://t.co/4lomDzCGbE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4lomDzCGbE",
+								"expanded_url": "http://www.k9ventures.com",
+								"display_url": "k9ventures.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 32961,
+				"friends_count": 2070,
+				"listed_count": 1346,
+				"created_at": "Tue Apr 22 13:08:40 +0000 2008",
+				"favourites_count": 20507,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 24205,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "303030",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/790237151132692480/v3Zt1svL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/790237151132692480/v3Zt1svL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14474225/1472246377",
+				"profile_link_color": "F6901E",
+				"profile_sidebar_border_color": "999999",
+				"profile_sidebar_fill_color": "626465",
+				"profile_text_color": "303030",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "3ad0f706b3fa62a8",
+				"url": "https://api.twitter.com/1.1/geo/id/3ad0f706b3fa62a8.json",
+				"place_type": "city",
+				"name": "Palo Alto",
+				"full_name": "Palo Alto, CA",
+				"country_code": "US",
+				"country": "Verenigde Staten",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-122.190523,
+								37.362824
+							],
+							[
+								-122.097537,
+								37.362824
+							],
+							[
+								-122.097537,
+								37.465918
+							],
+							[
+								-122.190523,
+								37.465918
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1184830194323984400,
+			"quoted_status_id_str": "1184830194323984389",
+			"quoted_status_permalink": {
+				"url": "https://t.co/WGied9o97d",
+				"expanded": "https://twitter.com/machinepix/status/1184830194323984389",
+				"display": "twitter.com/machinepix/sta…"
+			},
+			"retweet_count": 21,
+			"favorite_count": 111,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Dit vuurwerk zie ik liever de komende jaren dan de idioterie die we gewend zijn in Nederland. https://t.co/9dKNB5pYuy"
+	},
+	{
 		"created_at": "Thu Oct 17 11:53:18 +0000 2019",
 		"id": 1184799542778220500,
 		"id_str": "1184799542778220549",
