@@ -1,6 +1,235 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Fri Oct 18 18:41:31 +0000 2019",
+		"id": 1185264663942041600,
+		"id_str": "1185264663942041600",
+		"full_text": "Ha @Wilbert! We staan niet alleen in de strijd! https://t.co/EupOKU5oI8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Wilbert",
+					"name": "Wilbert Pot",
+					"id": 2286901,
+					"id_str": "2286901",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EupOKU5oI8",
+					"expanded_url": "https://twitter.com/julienalt/status/1185259390544371715",
+					"display_url": "twitter.com/julienalt/stat…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8866,
+			"friends_count": 275,
+			"listed_count": 585,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5457,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60542,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1185259390544371700,
+		"quoted_status_id_str": "1185259390544371715",
+		"quoted_status_permalink": {
+			"url": "https://t.co/EupOKU5oI8",
+			"expanded": "https://twitter.com/julienalt/status/1185259390544371715",
+			"display": "twitter.com/julienalt/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 18 18:20:34 +0000 2019",
+			"id": 1185259390544371700,
+			"id_str": "1185259390544371715",
+			"full_text": "Het is weer mijn beurt me op winden over een hedendaags verschijnsel. Dit weekend: bellen met je telefoon in cracker-stand. \n\nhttps://t.co/KHI26KOTov",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				149
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/KHI26KOTov",
+						"expanded_url": "https://www.volkskrant.nl/ts-bbf78a8b",
+						"display_url": "volkskrant.nl/ts-bbf78a8b",
+						"indices": [
+							126,
+							149
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 154496277,
+				"id_str": "154496277",
+				"name": "Julien Althuisius",
+				"screen_name": "julienalt",
+				"location": "",
+				"description": "de Volkskrant | Volkskrant Magazine | Ambo Anthos | Hard Gras",
+				"url": "https://t.co/nRqDiXZf9Z",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/nRqDiXZf9Z",
+								"expanded_url": "https://journa.com/julien-althuisius",
+								"display_url": "journa.com/julien-althuis…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1870,
+				"friends_count": 224,
+				"listed_count": 51,
+				"created_at": "Fri Jun 11 11:27:38 +0000 2010",
+				"favourites_count": 1661,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5029,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1178761852735705088/OEHpIwxA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1178761852735705088/OEHpIwxA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/154496277/1569873858",
+				"profile_link_color": "91D2FA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Ha @Wilbert! We staan niet alleen in de strijd! https://t.co/EupOKU5oI8"
+	},
+	{
 		"created_at": "Fri Oct 18 15:00:03 +0000 2019",
 		"id": 1185208930110189600,
 		"id_str": "1185208930110189568",
