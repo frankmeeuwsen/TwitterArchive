@@ -1,6 +1,491 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Fri Oct 18 05:48:01 +0000 2019",
+		"id": 1184907469719593000,
+		"id_str": "1185070004166909953",
+		"full_text": "I heard #MarkZuckerberg's ‘free expression’ speech, in which he referenced my father. I'd like to help Facebook better understand the challenges #MLK faced from disinformation campaigns launched by politicians. These campaigns created an atmosphere for his assassination. https://t.co/h97gvVmtSZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MarkZuckerberg",
+					"indices": [
+						8,
+						23
+					]
+				},
+				{
+					"text": "MLK",
+					"indices": [
+						145,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1184907458814398500,
+					"id_str": "1184907458814398464",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/EHGjDk5X0AAlmGx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHGjDk5X0AAlmGx.jpg",
+					"url": "https://t.co/h97gvVmtSZ",
+					"display_url": "pic.twitter.com/h97gvVmtSZ",
+					"expanded_url": "https://twitter.com/BerniceKing/status/1184907469719592960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 422,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 359,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 422,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1184907458814398500,
+					"id_str": "1184907458814398464",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/EHGjDk5X0AAlmGx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHGjDk5X0AAlmGx.jpg",
+					"url": "https://t.co/h97gvVmtSZ",
+					"display_url": "pic.twitter.com/h97gvVmtSZ",
+					"expanded_url": "https://twitter.com/BerniceKing/status/1184907469719592960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 422,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 359,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 422,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 54617733,
+			"id_str": "54617733",
+			"name": "Be A King",
+			"screen_name": "BerniceKing",
+			"location": "Atlanta, GA",
+			"description": "Bernice A. King is a connector, communicator, community builder, CEO of @TheKingCenter, and child of great global influencers.",
+			"url": "https://t.co/zq0VeoIg6H",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zq0VeoIg6H",
+							"expanded_url": "http://www.BerniceKing.com",
+							"display_url": "BerniceKing.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 260361,
+			"friends_count": 402,
+			"listed_count": 1709,
+			"created_at": "Tue Jul 07 17:30:48 +0000 2009",
+			"favourites_count": 18352,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13766,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/747222048674570240/yLROOX6u_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/747222048674570240/yLROOX6u_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/54617733/1563665816",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "65B0DA",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12017,
+		"favorite_count": 32250,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I heard #MarkZuckerberg's ‘free expression’ speech, in which he referenced my father. I'd like to help Facebook better understand the challenges #MLK faced from disinformation campaigns launched by politicians. These campaigns created an atmosphere for his assassination. https://t.co/h97gvVmtSZ"
+	},
+	{
+		"created_at": "Fri Oct 18 05:46:40 +0000 2019",
+		"id": 1185069664818385000,
+		"id_str": "1185069664818384897",
+		"full_text": "Maar..maar...maar.... Was it him? De headlines schrijven zichzelf... https://t.co/yI61rgtMvU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yI61rgtMvU",
+					"expanded_url": "https://twitter.com/dailydot/status/1184987204642312193",
+					"display_url": "twitter.com/dailydot/statu…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8867,
+			"friends_count": 275,
+			"listed_count": 585,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5455,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60537,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1184987204642312200,
+		"quoted_status_id_str": "1184987204642312193",
+		"quoted_status_permalink": {
+			"url": "https://t.co/yI61rgtMvU",
+			"expanded": "https://twitter.com/dailydot/status/1184987204642312193",
+			"display": "twitter.com/dailydot/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 18 00:19:00 +0000 2019",
+			"id": 1184987204642312200,
+			"id_str": "1184987204642312193",
+			"full_text": "Shaggy says an online scammer is impersonating him: https://t.co/tfLeqLz7bE https://t.co/suwFRpAZZf",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				75
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/tfLeqLz7bE",
+						"expanded_url": "https://www.dailydot.com/upstream/shaggy-impersonator-scamming-fans/?tw=dd",
+						"display_url": "dailydot.com/upstream/shagg…",
+						"indices": [
+							52,
+							75
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1184981196104749000,
+						"id_str": "1184981196104749056",
+						"indices": [
+							76,
+							99
+						],
+						"media_url": "http://pbs.twimg.com/media/EHHmHptXUAALc0z.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EHHmHptXUAALc0z.jpg",
+						"url": "https://t.co/suwFRpAZZf",
+						"display_url": "pic.twitter.com/suwFRpAZZf",
+						"expanded_url": "https://twitter.com/dailydot/status/1184987204642312193/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 500,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1000,
+								"h": 500,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1184981196104749000,
+						"id_str": "1184981196104749056",
+						"indices": [
+							76,
+							99
+						],
+						"media_url": "http://pbs.twimg.com/media/EHHmHptXUAALc0z.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EHHmHptXUAALc0z.jpg",
+						"url": "https://t.co/suwFRpAZZf",
+						"display_url": "pic.twitter.com/suwFRpAZZf",
+						"expanded_url": "https://twitter.com/dailydot/status/1184987204642312193/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 500,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1000,
+								"h": 500,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 211620426,
+				"id_str": "211620426",
+				"name": "The Daily Dot",
+				"screen_name": "dailydot",
+				"location": "Online/IRL",
+				"description": "Bringing you the best and worst of the internet since 2011. Tweets by @dailydot staff. Send us tips: tips@dailydot.com",
+				"url": "http://t.co/7sRrlbhNPT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/7sRrlbhNPT",
+								"expanded_url": "http://dailydot.com/",
+								"display_url": "dailydot.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 173242,
+				"friends_count": 17559,
+				"listed_count": 3584,
+				"created_at": "Wed Nov 03 19:41:32 +0000 2010",
+				"favourites_count": 19047,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 253940,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FBFBFB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/880916613230350336/n7zR7n-L_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/880916613230350336/n7zR7n-L_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/211620426/1547044223",
+				"profile_link_color": "1EBCC2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Maar..maar...maar.... Was it him? De headlines schrijven zichzelf... https://t.co/yI61rgtMvU"
+	},
+	{
 		"created_at": "Thu Oct 17 20:25:35 +0000 2019",
 		"id": 1184928466325721000,
 		"id_str": "1184928466325721093",
