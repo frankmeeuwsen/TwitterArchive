@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Sun Oct 20 05:51:42 +0000 2019",
+		"id": 1185596493232607200,
+		"id_str": "1185795706075975680",
+		"full_text": "Hi! That’s extremely kind of you to say. Thank you!\n\nSince we’re talking about this, here’s a short story about this feature… https://t.co/wvrZLENb36",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wvrZLENb36",
+					"expanded_url": "https://twitter.com/kyro/status/1185272866650181632",
+					"display_url": "twitter.com/kyro/status/11…",
+					"indices": [
+						126,
+						149
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 901371,
+			"id_str": "901371",
+			"name": "Ricky Mondello",
+			"screen_name": "rmondello",
+			"location": "Santa Clara, CA",
+			"description": "💚 They/them, nonbinary, friend. Working at Apple, trying to make authentication a little bit better. Still loves Safari.",
+			"url": "https://t.co/VzU9DTNLjM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VzU9DTNLjM",
+							"expanded_url": "https://rmondello.com/",
+							"display_url": "rmondello.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10181,
+			"friends_count": 554,
+			"listed_count": 403,
+			"created_at": "Sun Mar 11 05:27:51 +0000 2007",
+			"favourites_count": 22906,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34571,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "AAD9AC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1172517477491695616/3ftOKAMt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1172517477491695616/3ftOKAMt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/901371/1566071407",
+			"profile_link_color": "587F5E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "C3F991",
+			"profile_text_color": "111111",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1185272866650181600,
+		"quoted_status_id_str": "1185272866650181632",
+		"quoted_status_permalink": {
+			"url": "https://t.co/wvrZLENb36",
+			"expanded": "https://twitter.com/kyro/status/1185272866650181632",
+			"display": "twitter.com/kyro/status/11…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 18 19:14:07 +0000 2019",
+			"id": 1185272866650181600,
+			"id_str": "1185272866650181632",
+			"full_text": "the pm at apple who came up with sms verification code auto-fill deserves a nobel prize",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				87
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 10478722,
+				"id_str": "10478722",
+				"name": "kyro ❁",
+				"screen_name": "kyro",
+				"location": "bkln",
+				"description": "designing a healthier world maybe",
+				"url": "https://t.co/smv1ZdTI0r",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/smv1ZdTI0r",
+								"expanded_url": "https://kyrobeshay.com/",
+								"display_url": "kyrobeshay.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1803,
+				"friends_count": 1363,
+				"listed_count": 120,
+				"created_at": "Thu Nov 22 23:36:35 +0000 2007",
+				"favourites_count": 1799,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 119,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E4E9ED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1182090448334196742/ovBKBuau_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182090448334196742/ovBKBuau_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/10478722/1570708435",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C7C7C7",
+				"profile_text_color": "3D3D3D",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 758,
+			"favorite_count": 7544,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 432,
+		"favorite_count": 2764,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hi! That’s extremely kind of you to say. Thank you!\n\nSince we’re talking about this, here’s a short story about this feature… https://t.co/wvrZLENb36"
+	},
+	{
 		"created_at": "Sat Oct 19 10:40:09 +0000 2019",
 		"id": 1185505911210725400,
 		"id_str": "1185505911210725377",
