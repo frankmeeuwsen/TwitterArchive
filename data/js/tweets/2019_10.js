@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Mon Oct 21 17:39:31 +0000 2019",
+		"id": 1186241729529307100,
+		"id_str": "1186336223578734595",
+		"full_text": "Design Twitter, how do you structure your Sketch files?\nLet's say you have one project with multiple flows in multiple markets (= they differ).\n\n(Answers assume you use pages for the other aspect, so file per flow + pages per market)\n\nPlease retweet, I lack followers 😅",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 23211333,
+			"id_str": "23211333",
+			"name": "Noukka 🐨",
+			"screen_name": "noukkasigne",
+			"location": "Stockholm, Sweden",
+			"description": "Designer for @Klarna Card by day, and photographer some other time during the day. 🇳🇱",
+			"url": "https://t.co/vGKSxbIRRP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGKSxbIRRP",
+							"expanded_url": "https://www.noukka.com",
+							"display_url": "noukka.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 782,
+			"friends_count": 645,
+			"listed_count": 32,
+			"created_at": "Sat Mar 07 17:07:00 +0000 2009",
+			"favourites_count": 9934,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3858,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1153921751342034944/0zUFcYwB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1153921751342034944/0zUFcYwB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/23211333/1560629045",
+			"profile_link_color": "5599BB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Design Twitter, how do you structure your Sketch files?\nLet's say you have one project with multiple flows in multiple markets (= they differ).\n\n(Answers assume you use pages for the other aspect, so file per flow + pages per market)\n\nPlease retweet, I lack followers 😅"
+	},
+	{
 		"created_at": "Mon Oct 21 08:56:42 +0000 2019",
 		"id": 1186204654616625200,
 		"id_str": "1186204654616625152",
