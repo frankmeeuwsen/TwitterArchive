@@ -1,6 +1,232 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Wed Oct 23 18:25:45 +0000 2019",
+		"id": 1187072635202687000,
+		"id_str": "1187072635202686977",
+		"full_text": "Het gesprek begint goed maar Peek is inderdaad wel een pedante mooiprater zonder concrete plannen als ik het zo lees. En met een nare sneer naar Van Rossem waardoor het uit de hand loopt. Dus hup #TeamVanRossem! https://t.co/HjtJbodmmh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TeamVanRossem",
+					"indices": [
+						196,
+						210
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HjtJbodmmh",
+					"expanded_url": "https://twitter.com/HPdeTijdNL/status/1186937555951841280",
+					"display_url": "twitter.com/HPdeTijdNL/sta…",
+					"indices": [
+						212,
+						235
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8866,
+			"friends_count": 280,
+			"listed_count": 585,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5468,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60560,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1186937555951841300,
+		"quoted_status_id_str": "1186937555951841280",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HjtJbodmmh",
+			"expanded": "https://twitter.com/HPdeTijdNL/status/1186937555951841280",
+			"display": "twitter.com/HPdeTijdNL/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 23 09:29:00 +0000 2019",
+			"id": 1186937555951841300,
+			"id_str": "1186937555951841280",
+			"full_text": "Het interview met Maarten van Rossem en rooie rakker Gustaaf Peek loopt uit in slaande ruzie; Van Rossem stormt uiteindelijk boos weg. https://t.co/rohcktAwiM",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				158
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/rohcktAwiM",
+						"expanded_url": "https://www.hpdetijd.nl/2019-10-01/maarten-van-rossem-jij-bent-gewoon-een-ijdele-luiwammes-gustaaf/?share_code=LT1w80e4m0ch",
+						"display_url": "hpdetijd.nl/2019-10-01/maa…",
+						"indices": [
+							135,
+							158
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 36374099,
+				"id_str": "36374099",
+				"name": "HP/De Tijd",
+				"screen_name": "HPdeTijdNL",
+				"location": "Amsterdam",
+				"description": "HP/De Tijd is een maandblad en verzorgt online dagelijks achtergrond, opinie en inspiratie",
+				"url": "http://t.co/PsAeJk0Qqc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/PsAeJk0Qqc",
+								"expanded_url": "http://www.hpdetijd.nl",
+								"display_url": "hpdetijd.nl",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 42834,
+				"friends_count": 8976,
+				"listed_count": 795,
+				"created_at": "Wed Apr 29 14:46:56 +0000 2009",
+				"favourites_count": 83,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 36754,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/824913624338722821/Zbv5qoVB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/824913624338722821/Zbv5qoVB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/36374099/1569933784",
+				"profile_link_color": "6F0611",
+				"profile_sidebar_border_color": "DFDFDF",
+				"profile_sidebar_fill_color": "FFF5F5",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 19,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Het gesprek begint goed maar Peek is inderdaad wel een pedante mooiprater zonder concrete plannen als ik het zo lees. En met een nare sneer naar Van Rossem waardoor het uit de hand loopt. Dus hup #TeamVanRossem! https://t.co/HjtJbodmmh"
+	},
+	{
 		"created_at": "Wed Oct 23 17:55:17 +0000 2019",
 		"id": 1187064968052723700,
 		"id_str": "1187064968052723712",
