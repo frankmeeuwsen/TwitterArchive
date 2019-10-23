@@ -1,6 +1,506 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Wed Oct 23 16:19:44 +0000 2019",
+		"id": 1187040922799874000,
+		"id_str": "1187040922799874049",
+		"full_text": "Deel 3 staat nu ook live. Met de Micropub plugin in WordPress heb je meer keuzevrijheid waar je mee publiceert en je kunt leuke koppelingen maken. Ik leg je uit hoe het werkt. https://t.co/sHX6uhB7Fq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sHX6uhB7Fq",
+					"expanded_url": "https://diggingthedigital.com/wordpress-en-micropub/",
+					"display_url": "diggingthedigital.com/wordpress-en-m…",
+					"indices": [
+						176,
+						199
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8865,
+			"friends_count": 280,
+			"listed_count": 585,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5466,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60556,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Deel 3 staat nu ook live. Met de Micropub plugin in WordPress heb je meer keuzevrijheid waar je mee publiceert en je kunt leuke koppelingen maken. Ik leg je uit hoe het werkt. https://t.co/sHX6uhB7Fq"
+	},
+	{
+		"created_at": "Wed Oct 23 15:41:07 +0000 2019",
+		"id": 1187031201330221000,
+		"id_str": "1187031201330221057",
+		"full_text": "Heerlijke thread! https://t.co/Cirfoi8WgJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Cirfoi8WgJ",
+					"expanded_url": "https://twitter.com/nathanwpyle/status/1187019116764454914",
+					"display_url": "twitter.com/nathanwpyle/st…",
+					"indices": [
+						18,
+						41
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8865,
+			"friends_count": 280,
+			"listed_count": 585,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5466,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60556,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1187019116764455000,
+		"quoted_status_id_str": "1187019116764454914",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Cirfoi8WgJ",
+			"expanded": "https://twitter.com/nathanwpyle/status/1187019116764454914",
+			"display": "twitter.com/nathanwpyle/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 23 14:53:05 +0000 2019",
+			"id": 1187019116764455000,
+			"id_str": "1187019116764454914",
+			"full_text": "what’s your favorite law of \n ✨cartoon physics✨?\n\nMine is that glasses are always the last thing to fall. https://t.co/NSoAGtzyax",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				105
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1187018993649049600,
+						"id_str": "1187018993649049600",
+						"indices": [
+							106,
+							129
+						],
+						"media_url": "http://pbs.twimg.com/media/EHkjfFIX4AAVqOq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EHkjfFIX4AAVqOq.jpg",
+						"url": "https://t.co/NSoAGtzyax",
+						"display_url": "pic.twitter.com/NSoAGtzyax",
+						"expanded_url": "https://twitter.com/nathanwpyle/status/1187019116764454914/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 523,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1440,
+								"h": 1108,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 923,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1187018993649049600,
+						"id_str": "1187018993649049600",
+						"indices": [
+							106,
+							129
+						],
+						"media_url": "http://pbs.twimg.com/media/EHkjfFIX4AAVqOq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EHkjfFIX4AAVqOq.jpg",
+						"url": "https://t.co/NSoAGtzyax",
+						"display_url": "pic.twitter.com/NSoAGtzyax",
+						"expanded_url": "https://twitter.com/nathanwpyle/status/1187019116764454914/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 523,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1440,
+								"h": 1108,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 923,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1187018993682538500,
+						"id_str": "1187018993682538497",
+						"indices": [
+							106,
+							129
+						],
+						"media_url": "http://pbs.twimg.com/media/EHkjfFQW4AEfDlH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EHkjfFQW4AEfDlH.jpg",
+						"url": "https://t.co/NSoAGtzyax",
+						"display_url": "pic.twitter.com/NSoAGtzyax",
+						"expanded_url": "https://twitter.com/nathanwpyle/status/1187019116764454914/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1286,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 933,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 529,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1187018996358566000,
+						"id_str": "1187018996358565888",
+						"indices": [
+							106,
+							129
+						],
+						"media_url": "http://pbs.twimg.com/media/EHkjfPOX0AA_7TP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EHkjfPOX0AA_7TP.jpg",
+						"url": "https://t.co/NSoAGtzyax",
+						"display_url": "pic.twitter.com/NSoAGtzyax",
+						"expanded_url": "https://twitter.com/nathanwpyle/status/1187019116764454914/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 543,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1248,
+								"h": 996,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 958,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1187018996618596400,
+						"id_str": "1187018996618596353",
+						"indices": [
+							106,
+							129
+						],
+						"media_url": "http://pbs.twimg.com/media/EHkjfQMXkAELq3h.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EHkjfQMXkAELq3h.jpg",
+						"url": "https://t.co/NSoAGtzyax",
+						"display_url": "pic.twitter.com/NSoAGtzyax",
+						"expanded_url": "https://twitter.com/nathanwpyle/status/1187019116764454914/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1296,
+								"h": 992,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 919,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 520,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 41148474,
+				"id_str": "41148474",
+				"name": "Nathan W. Pyle",
+				"screen_name": "nathanwpyle",
+				"location": "New York City",
+				"description": "Married to @tayloralexypyle / NYT Bestseller: NYC Basic Tips and Etiquette / ✨Strange Planet✨ / formerly @BuzzFeed / I follow Jesus",
+				"url": "https://t.co/5rnOqgZDtI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5rnOqgZDtI",
+								"expanded_url": "https://www.harpercollins.com/9780062970701/strange-planet/",
+								"display_url": "harpercollins.com/9780062970701/…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 212863,
+				"friends_count": 2427,
+				"listed_count": 997,
+				"created_at": "Tue May 19 16:22:18 +0000 2009",
+				"favourites_count": 15529,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 12152,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1094356867906760704/SrZcPcOC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1094356867906760704/SrZcPcOC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/41148474/1551312176",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 177,
+			"favorite_count": 1575,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Heerlijke thread! https://t.co/Cirfoi8WgJ"
+	},
+	{
 		"created_at": "Wed Oct 23 15:14:39 +0000 2019",
 		"id": 1187024542293737500,
 		"id_str": "1187024542293737473",
