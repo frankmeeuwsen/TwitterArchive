@@ -1,6 +1,336 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Sat Oct 26 20:59:04 +0000 2019",
+		"id": 1188198382348787700,
+		"id_str": "1188198382348787713",
+		"full_text": "Oliegiganten zijn al 40 jaar op de hoogte welke klimaatverandering aan staat te komen. En ze hebben actief gelobbied om twijfel te zaaien bij het publiek. Bij ons. https://t.co/4vsTeOA0hQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4vsTeOA0hQ",
+					"expanded_url": "https://twitter.com/independent/status/1187719206562910209",
+					"display_url": "twitter.com/independent/st…",
+					"indices": [
+						164,
+						187
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam. Doet verhalen bij Kaliber",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8865,
+			"friends_count": 281,
+			"listed_count": 585,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5478,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60572,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1187719206562910200,
+		"quoted_status_id_str": "1187719206562910209",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4vsTeOA0hQ",
+			"expanded": "https://twitter.com/independent/status/1187719206562910209",
+			"display": "twitter.com/independent/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 25 13:15:00 +0000 2019",
+			"id": 1187719206562910200,
+			"id_str": "1187719206562910209",
+			"full_text": "Alexandria Ocasio-Cortez grills former Exxon scientists on oil giant's climate change denial https://t.co/uW6OFrHow2",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				92
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1187711309493735400,
+						"id_str": "1187711309493735426",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1187711309493735426/img/6oZiZTl_-7Xj9BhB.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1187711309493735426/img/6oZiZTl_-7Xj9BhB.jpg",
+						"url": "https://t.co/uW6OFrHow2",
+						"display_url": "pic.twitter.com/uW6OFrHow2",
+						"expanded_url": "https://twitter.com/Independent/status/1187719206562910209/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1187711309493735400,
+						"id_str": "1187711309493735426",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1187711309493735426/img/6oZiZTl_-7Xj9BhB.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1187711309493735426/img/6oZiZTl_-7Xj9BhB.jpg",
+						"url": "https://t.co/uW6OFrHow2",
+						"display_url": "pic.twitter.com/uW6OFrHow2",
+						"expanded_url": "https://twitter.com/Independent/status/1187719206562910209/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 232960,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1187711309493735426/pl/-0H8yNagfu-GhPyR.m3u8?tag=13"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1187711309493735426/vid/480x480/H3TTLBGuh7YOy5yJ.mp4?tag=13"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1187711309493735426/vid/320x320/GvopHFXRmElZy3p2.mp4?tag=13"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1187711309493735426/vid/720x720/Ok9mFMyC6ai2BWJB.mp4?tag=13"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "AOC grills former Exxon scientists on oil giant's climate denial",
+							"description": "Follow @Independent for more US news",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16973333,
+				"id_str": "16973333",
+				"name": "The Independent",
+				"screen_name": "Independent",
+				"location": "London, England",
+				"description": "News, comment and features from The Independent. \n\nTry an ad-free experience with access to premium articles with our app: https://t.co/XGI8DtCR6B",
+				"url": "https://t.co/ENon5VCZ03",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ENon5VCZ03",
+								"expanded_url": "http://independent.co.uk",
+								"display_url": "independent.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/XGI8DtCR6B",
+								"expanded_url": "http://independent.onelink.me/wgiA/cfc",
+								"display_url": "independent.onelink.me/wgiA/cfc",
+								"indices": [
+									123,
+									146
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2907341,
+				"friends_count": 1195,
+				"listed_count": 23549,
+				"created_at": "Sun Oct 26 00:00:29 +0000 2008",
+				"favourites_count": 21,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 912934,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1148561910134202369/DRu4DQGV_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1148561910134202369/DRu4DQGV_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16973333/1569833834",
+				"profile_link_color": "FC051A",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4852,
+			"favorite_count": 9710,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Oliegiganten zijn al 40 jaar op de hoogte welke klimaatverandering aan staat te komen. En ze hebben actief gelobbied om twijfel te zaaien bij het publiek. Bij ons. https://t.co/4vsTeOA0hQ"
+	},
+	{
 		"created_at": "Sat Oct 26 17:39:22 +0000 2019",
 		"id": 1188148125564846000,
 		"id_str": "1188148125564846085",
