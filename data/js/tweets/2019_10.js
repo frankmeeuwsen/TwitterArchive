@@ -1,6 +1,289 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Sat Oct 26 17:39:22 +0000 2019",
+		"id": 1188148125564846000,
+		"id_str": "1188148125564846085",
+		"full_text": "Hardoplachen om de barcade en unicycle dude. Heeft Uuuuuu al een axe-throwing bar? https://t.co/hNccgGlm19",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hNccgGlm19",
+					"expanded_url": "https://twitter.com/atrubek/status/1188123999613706241",
+					"display_url": "twitter.com/atrubek/status…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam. Doet verhalen bij Kaliber",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8866,
+			"friends_count": 281,
+			"listed_count": 585,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5477,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60571,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1188123999613706200,
+		"quoted_status_id_str": "1188123999613706241",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hNccgGlm19",
+			"expanded": "https://twitter.com/atrubek/status/1188123999613706241",
+			"display": "twitter.com/atrubek/status…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Oct 26 16:03:30 +0000 2019",
+			"id": 1188123999613706200,
+			"id_str": "1188123999613706241",
+			"full_text": "holy genius https://t.co/riNZDyhZJL",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				11
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1188123992210759700,
+						"id_str": "1188123992210759687",
+						"indices": [
+							12,
+							35
+						],
+						"media_url": "http://pbs.twimg.com/media/EH0QedjXYAch88F.png",
+						"media_url_https": "https://pbs.twimg.com/media/EH0QedjXYAch88F.png",
+						"url": "https://t.co/riNZDyhZJL",
+						"display_url": "pic.twitter.com/riNZDyhZJL",
+						"expanded_url": "https://twitter.com/atrubek/status/1188123999613706241/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 534,
+								"h": 553,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 534,
+								"h": 553,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 534,
+								"h": 553,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1188123992210759700,
+						"id_str": "1188123992210759687",
+						"indices": [
+							12,
+							35
+						],
+						"media_url": "http://pbs.twimg.com/media/EH0QedjXYAch88F.png",
+						"media_url_https": "https://pbs.twimg.com/media/EH0QedjXYAch88F.png",
+						"url": "https://t.co/riNZDyhZJL",
+						"display_url": "pic.twitter.com/riNZDyhZJL",
+						"expanded_url": "https://twitter.com/atrubek/status/1188123999613706241/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 534,
+								"h": 553,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 534,
+								"h": 553,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 534,
+								"h": 553,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 25105016,
+				"id_str": "25105016",
+				"name": "Anne Trubek",
+				"screen_name": "atrubek",
+				"location": "Cleveland",
+				"description": "Founder of @belt_publishing and @belt_magazine. Author of books. Writer of newsletters: https://t.co/lSzlorv9LL",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/lSzlorv9LL",
+								"expanded_url": "https://notesfromasmallpress.substack.com",
+								"display_url": "notesfromasmallpress.substack.com",
+								"indices": [
+									88,
+									111
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 5705,
+				"friends_count": 1939,
+				"listed_count": 296,
+				"created_at": "Wed Mar 18 16:50:21 +0000 2009",
+				"favourites_count": 17228,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 60670,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1132303248633864192/bBqHSfZv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1132303248633864192/bBqHSfZv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/25105016/1558797110",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 64,
+			"favorite_count": 182,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Hardoplachen om de barcade en unicycle dude. Heeft Uuuuuu al een axe-throwing bar? https://t.co/hNccgGlm19"
+	},
+	{
 		"created_at": "Fri Oct 25 18:45:55 +0000 2019",
 		"id": 1187802485672554500,
 		"id_str": "1187802485672554498",
