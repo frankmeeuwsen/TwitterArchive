@@ -1,6 +1,299 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Tue Oct 29 06:16:18 +0000 2019",
+		"id": 1189063389869478000,
+		"id_str": "1189063389869477888",
+		"full_text": "Wat een klassieker is dit. Ik heb hem ooit aan een zaal studenten laten zien in een copresentatie met @campodipace. Het bleef nog lang onrustig in Utrecht. https://t.co/wtqJQHORkb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "campodipace",
+					"name": "Laurens Vreekamp",
+					"id": 2636081,
+					"id_str": "2636081",
+					"indices": [
+						102,
+						114
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wtqJQHORkb",
+					"expanded_url": "https://twitter.com/delrayser/status/1188866577967566848",
+					"display_url": "twitter.com/delrayser/stat…",
+					"indices": [
+						156,
+						179
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam. Doet verhalen bij Kaliber",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8865,
+			"friends_count": 282,
+			"listed_count": 584,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5485,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60578,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1188866577967566800,
+		"quoted_status_id_str": "1188866577967566848",
+		"quoted_status_permalink": {
+			"url": "https://t.co/wtqJQHORkb",
+			"expanded": "https://twitter.com/delrayser/status/1188866577967566848",
+			"display": "twitter.com/delrayser/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 28 17:14:14 +0000 2019",
+			"id": 1188866577967566800,
+			"id_str": "1188866577967566848",
+			"full_text": "Five years ago today, at 4AM, Adult Swim aired one of the greatest comedy bits of all time: https://t.co/t8vzvsTeWB https://t.co/oGPSp0Bmv0",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				115
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/t8vzvsTeWB",
+						"expanded_url": "https://www.youtube.com/watch?v=QrGrOK8oZG8",
+						"display_url": "youtube.com/watch?v=QrGrOK…",
+						"indices": [
+							92,
+							115
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1188866193400184800,
+						"id_str": "1188866193400184832",
+						"indices": [
+							116,
+							139
+						],
+						"media_url": "http://pbs.twimg.com/media/EH-zgQcWwAA8RsY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EH-zgQcWwAA8RsY.jpg",
+						"url": "https://t.co/oGPSp0Bmv0",
+						"display_url": "pic.twitter.com/oGPSp0Bmv0",
+						"expanded_url": "https://twitter.com/delrayser/status/1188866577967566848/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 300,
+								"h": 168,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 300,
+								"h": 168,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 300,
+								"h": 168,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1188866193400184800,
+						"id_str": "1188866193400184832",
+						"indices": [
+							116,
+							139
+						],
+						"media_url": "http://pbs.twimg.com/media/EH-zgQcWwAA8RsY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EH-zgQcWwAA8RsY.jpg",
+						"url": "https://t.co/oGPSp0Bmv0",
+						"display_url": "pic.twitter.com/oGPSp0Bmv0",
+						"expanded_url": "https://twitter.com/delrayser/status/1188866577967566848/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 300,
+								"h": 168,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 300,
+								"h": 168,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 300,
+								"h": 168,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20094105,
+				"id_str": "20094105",
+				"name": "delrayser",
+				"screen_name": "delrayser",
+				"location": "Austin, TX",
+				"description": "very legal and very cool",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10686,
+				"friends_count": 397,
+				"listed_count": 506,
+				"created_at": "Wed Feb 04 21:11:39 +0000 2009",
+				"favourites_count": 745,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 38468,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1084820887575191552/jbHakghy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084820887575191552/jbHakghy_normal.jpg",
+				"profile_link_color": "5B6529",
+				"profile_sidebar_border_color": "212535",
+				"profile_sidebar_fill_color": "1A243D",
+				"profile_text_color": "87A0BD",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2774,
+			"favorite_count": 7476,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Wat een klassieker is dit. Ik heb hem ooit aan een zaal studenten laten zien in een copresentatie met @campodipace. Het bleef nog lang onrustig in Utrecht. https://t.co/wtqJQHORkb"
+	},
+	{
 		"created_at": "Mon Oct 28 20:56:21 +0000 2019",
 		"id": 1188922474211299300,
 		"id_str": "1188922474211299328",
