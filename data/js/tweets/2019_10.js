@@ -1,6 +1,144 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Wed Oct 30 04:38:03 +0000 2019",
+		"id": 1189306889454178300,
+		"id_str": "1189401052220739584",
+		"full_text": "@kenli729 @RichLightShed @ballmatthew HBO Max launches May 2020",
+		"truncated": false,
+		"display_text_range": [
+			38,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kenli729",
+					"name": "Kenneth Li",
+					"id": 11831752,
+					"id_str": "11831752",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "RichLightShed",
+					"name": "Rich Greenfield",
+					"id": 14992263,
+					"id_str": "14992263",
+					"indices": [
+						10,
+						24
+					]
+				},
+				{
+					"screen_name": "ballmatthew",
+					"name": "Matthew Boo👻",
+					"id": 2434397022,
+					"id_str": "2434397022",
+					"indices": [
+						25,
+						37
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1189306417179701200,
+		"in_reply_to_status_id_str": "1189306417179701248",
+		"in_reply_to_user_id": 202003,
+		"in_reply_to_user_id_str": "202003",
+		"in_reply_to_screen_name": "pkafka",
+		"user": {
+			"id": 202003,
+			"id_str": "202003",
+			"name": "Peter Kafka",
+			"screen_name": "pkafka",
+			"location": "nyc",
+			"description": "Verbose, concise. Host of Recode Media. https://t.co/LPjdIrAklE peter@recode.net,  Monkey via @andybyday",
+			"url": "http://t.co/QtNr5qQEsH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/QtNr5qQEsH",
+							"expanded_url": "http://recode.net",
+							"display_url": "recode.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/LPjdIrAklE",
+							"expanded_url": "http://applepodcasts.com/peterkafka",
+							"display_url": "applepodcasts.com/peterkafka",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 86214,
+			"friends_count": 1109,
+			"listed_count": 3434,
+			"created_at": "Sat Dec 23 18:51:51 +0000 2006",
+			"favourites_count": 11940,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 59825,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/432503235/monkey_types_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/432503235/monkey_types_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/202003/1348013345",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@kenli729 @RichLightShed @ballmatthew HBO Max launches May 2020"
+	},
+	{
 		"created_at": "Tue Oct 29 18:51:16 +0000 2019",
 		"id": 1189232958655340500,
 		"id_str": "1189253383145840646",
