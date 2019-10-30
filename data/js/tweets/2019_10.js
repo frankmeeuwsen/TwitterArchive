@@ -1,6 +1,261 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Wed Oct 30 22:27:55 +0000 2019",
+		"id": 1189495089111937000,
+		"id_str": "1189670293314441216",
+		"full_text": "Follow us here to be kept informed of our forthcoming comic #1nf0bomb! https://t.co/NjzmZi0aXt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "1nf0bomb",
+					"indices": [
+						60,
+						69
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1189495080865992700,
+					"id_str": "1189495080865992704",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/EIHveU0XkAAQG8k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIHveU0XkAAQG8k.jpg",
+					"url": "https://t.co/NjzmZi0aXt",
+					"display_url": "pic.twitter.com/NjzmZi0aXt",
+					"expanded_url": "https://twitter.com/1NF0BOMB/status/1189495089111937030/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 950,
+							"h": 421,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 950,
+							"h": 421,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 301,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 251,
+									"y": 96,
+									"h": 242,
+									"w": 242
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 251,
+									"y": 96,
+									"h": 242,
+									"w": 242
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 251,
+									"y": 96,
+									"h": 242,
+									"w": 242
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 179,
+									"y": 68,
+									"h": 173,
+									"w": 173
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1189495080865992700,
+					"id_str": "1189495080865992704",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/EIHveU0XkAAQG8k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIHveU0XkAAQG8k.jpg",
+					"url": "https://t.co/NjzmZi0aXt",
+					"display_url": "pic.twitter.com/NjzmZi0aXt",
+					"expanded_url": "https://twitter.com/1NF0BOMB/status/1189495089111937030/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 950,
+							"h": 421,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 950,
+							"h": 421,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 301,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 251,
+									"y": 96,
+									"h": 242,
+									"w": 242
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 251,
+									"y": 96,
+									"h": 242,
+									"w": 242
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 251,
+									"y": 96,
+									"h": 242,
+									"w": 242
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 179,
+									"y": 68,
+									"h": 173,
+									"w": 173
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1188454825740193800,
+			"id_str": "1188454825740193798",
+			"name": "Jim & JAKe ©",
+			"screen_name": "1NF0BOMB",
+			"location": "",
+			"description": "A Graphic History of the Internet by @jim_boulton and @JAKeDetonator",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4,
+			"friends_count": 0,
+			"listed_count": 0,
+			"created_at": "Sun Oct 27 13:58:14 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1189494603310915585/fqM5juVZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1189494603310915585/fqM5juVZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1188454825740193798/1572432589",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Follow us here to be kept informed of our forthcoming comic #1nf0bomb! https://t.co/NjzmZi0aXt"
+	},
+	{
 		"created_at": "Wed Oct 30 16:00:07 +0000 2019",
 		"id": 1189572698436972500,
 		"id_str": "1189572698436972544",
