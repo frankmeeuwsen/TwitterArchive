@@ -1,6 +1,215 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sat Nov 02 22:25:49 +0000 2019",
+		"id": 1190516390903632000,
+		"id_str": "1190756927392890880",
+		"full_text": "Name: After Dark: Totally Twisted\nAuthor: Berkeley Systems\nSettings: Module: Phlegm Boy, Behavior: 70%, Mess: 25% https://t.co/NSXe801lVw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1190516007208706000,
+					"id_str": "1190516007208706048",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1190516007208706048/pu/img/IHmoqKhoeFr3-2-7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1190516007208706048/pu/img/IHmoqKhoeFr3-2-7.jpg",
+					"url": "https://t.co/NSXe801lVw",
+					"display_url": "pic.twitter.com/NSXe801lVw",
+					"expanded_url": "https://twitter.com/dot_scr/status/1190516390903631873/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1190516007208706000,
+					"id_str": "1190516007208706048",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1190516007208706048/pu/img/IHmoqKhoeFr3-2-7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1190516007208706048/pu/img/IHmoqKhoeFr3-2-7.jpg",
+					"url": "https://t.co/NSXe801lVw",
+					"display_url": "pic.twitter.com/NSXe801lVw",
+					"expanded_url": "https://twitter.com/dot_scr/status/1190516390903631873/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"duration_millis": 138805,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1190516007208706048/pu/vid/360x270/9PjwM1LH_DDKuseF.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1190516007208706048/pu/vid/480x360/03dksdXoiSarbzxt.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1190516007208706048/pu/pl/yLOGoYTAzLeajua7.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1190516007208706048/pu/vid/960x720/tlKZiUJxbRKQqGED.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://greg-kennedy.com\" rel=\"nofollow\">SlowDemoArchive</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 966460140424712200,
+			"id_str": "966460140424712199",
+			"name": "Windows 3.1 Screensavers",
+			"screen_name": "dot_scr",
+			"location": "",
+			"description": "Classic Windows 3.1 screensavers, posted three times a day.  Made by @greg_p_kennedy.",
+			"url": "https://t.co/3Tb0XSVmwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3Tb0XSVmwM",
+							"expanded_url": "https://github.com/greg-kennedy/dot_scr",
+							"display_url": "github.com/greg-kennedy/d…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 960,
+			"friends_count": 1,
+			"listed_count": 14,
+			"created_at": "Wed Feb 21 23:50:28 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 152,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1170523597959512066/tkk_j4bJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1170523597959512066/tkk_j4bJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/966460140424712199/1567909690",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 32,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "Name: After Dark: Totally Twisted\nAuthor: Berkeley Systems\nSettings: Module: Phlegm Boy, Behavior: 70%, Mess: 25% https://t.co/NSXe801lVw"
+	},
+	{
 		"created_at": "Sat Nov 02 17:50:29 +0000 2019",
 		"id": 1190687638434590700,
 		"id_str": "1190687638434590720",
