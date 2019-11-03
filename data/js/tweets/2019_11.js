@@ -1,6 +1,215 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sun Nov 03 20:50:16 +0000 2019",
+		"id": 1190989654251712500,
+		"id_str": "1191095271943487489",
+		"full_text": "https://t.co/GW90oicGIi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1190989649038192600,
+					"id_str": "1190989649038192640",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EIc-xpIWsAA-NgI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIc-xpIWsAA-NgI.jpg",
+					"url": "https://t.co/GW90oicGIi",
+					"display_url": "pic.twitter.com/GW90oicGIi",
+					"expanded_url": "https://twitter.com/tariqrauf/status/1190989654251712513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 337,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1241,
+							"h": 349,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1190989649038192600,
+					"id_str": "1190989649038192640",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EIc-xpIWsAA-NgI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIc-xpIWsAA-NgI.jpg",
+					"url": "https://t.co/GW90oicGIi",
+					"display_url": "pic.twitter.com/GW90oicGIi",
+					"expanded_url": "https://twitter.com/tariqrauf/status/1190989654251712513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 337,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1241,
+							"h": 349,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 754010610,
+			"id_str": "754010610",
+			"name": "Tariq Rauf",
+			"screen_name": "tariqrauf",
+			"location": "London, England",
+			"description": "Building things. Previously Product @Amazon, @Transferwise • https://t.co/R0hfRoIWjV • https://t.co/byrqEYwWI1",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/R0hfRoIWjV",
+							"expanded_url": "http://tariq.co",
+							"display_url": "tariq.co",
+							"indices": [
+								61,
+								84
+							]
+						},
+						{
+							"url": "https://t.co/byrqEYwWI1",
+							"expanded_url": "http://Instagram.com/tariqrauf",
+							"display_url": "Instagram.com/tariqrauf",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2222,
+			"friends_count": 188,
+			"listed_count": 51,
+			"created_at": "Sun Aug 12 23:46:54 +0000 2012",
+			"favourites_count": 7332,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4367,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1003222493816086528/d-Nypdv2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1003222493816086528/d-Nypdv2_normal.jpg",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 119,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/GW90oicGIi"
+	},
+	{
 		"created_at": "Sat Nov 02 22:25:49 +0000 2019",
 		"id": 1190516390903632000,
 		"id_str": "1190756927392890880",
