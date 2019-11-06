@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Wed Nov 06 14:31:52 +0000 2019",
+		"id": 1192087205797384200,
+		"id_str": "1192087205797384192",
+		"full_text": "In een film zet de hoofdrolspeler precies op het juiste moment de TV aan op de juiste zender om het juiste nieuws te horen. Op het juiste volume. https://t.co/zyMduXPtki",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zyMduXPtki",
+					"expanded_url": "https://twitter.com/evahoefsloot/status/1191666792944590848",
+					"display_url": "twitter.com/evahoefsloot/s…",
+					"indices": [
+						146,
+						169
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam. Doet verhalen bij Kaliber",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8867,
+			"friends_count": 284,
+			"listed_count": 584,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5498,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60621,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1191666792944590800,
+		"quoted_status_id_str": "1191666792944590848",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zyMduXPtki",
+			"expanded": "https://twitter.com/evahoefsloot/status/1191666792944590848",
+			"display": "twitter.com/evahoefsloot/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Nov 05 10:41:18 +0000 2019",
+			"id": 1191666792944590800,
+			"id_str": "1191666792944590848",
+			"full_text": "Wat is jouw grootste ergernis tijdens het kijken van films en/of series? \nMijn top 3:\n1. Koffie kopjes die overduidelijk leeg zijn\n2. Berichtjes die altijd het eerste bericht zijn in een messaging app\n3. Acteurs die een andere nationaliteit moeten spelen, neppe accenten dus",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				274
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 25716134,
+				"id_str": "25716134",
+				"name": "Eva 👩🏻‍🍳",
+				"screen_name": "EvaHoefsloot",
+				"location": "Berlin",
+				"description": "Liefde voor films, series, bakken en lezen. Het liefst alles tegelijkertijd maardatgaatnatuurlijkweerniet.",
+				"url": "https://t.co/0fEVyvPwWB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0fEVyvPwWB",
+								"expanded_url": "http://blackbirdsandblossom.com",
+								"display_url": "blackbirdsandblossom.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1489,
+				"friends_count": 267,
+				"listed_count": 80,
+				"created_at": "Sat Mar 21 19:31:47 +0000 2009",
+				"favourites_count": 7403,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 33414,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1044223120452800512/cTzvGq_r_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1044223120452800512/cTzvGq_r_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/25716134/1520692737",
+				"profile_link_color": "EE645C",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 37,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "In een film zet de hoofdrolspeler precies op het juiste moment de TV aan op de juiste zender om het juiste nieuws te horen. Op het juiste volume. https://t.co/zyMduXPtki"
+	},
+	{
 		"created_at": "Wed Nov 06 08:55:12 +0000 2019",
 		"id": 1192002479774425000,
 		"id_str": "1192002479774425088",
