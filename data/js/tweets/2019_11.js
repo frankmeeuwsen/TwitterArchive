@@ -1,6 +1,125 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sat Nov 09 07:30:39 +0000 2019",
+		"id": 1192951517285736400,
+		"id_str": "1193068368582127616",
+		"full_text": "A must-read from @ow, which shows that with Apple making these recent moves, they're basically killing the web. https://t.co/8GxQB2BFki",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ow",
+					"name": "Owen Williams ⚡",
+					"id": 14767730,
+					"id_str": "14767730",
+					"indices": [
+						17,
+						20
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8GxQB2BFki",
+					"expanded_url": "http://bit.ly/36KYWHT",
+					"display_url": "bit.ly/36KYWHT",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 45456280,
+			"id_str": "45456280",
+			"name": "Joe Ortiz",
+			"screen_name": "LeoJTravis10",
+			"location": "New York (The State Side)",
+			"description": "Employed in the IT/Marketing fields, a Culture Vulture at heart, and a all-rounder in geek/tech among others. Moving forward.",
+			"url": "https://t.co/faF7LcEq0G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/faF7LcEq0G",
+							"expanded_url": "http://about.me/leotravis10",
+							"display_url": "about.me/leotravis10",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1031,
+			"friends_count": 1454,
+			"listed_count": 158,
+			"created_at": "Mon Jun 08 00:06:08 +0000 2009",
+			"favourites_count": 3851,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 73985,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1153311267106578432/fLkfQY-j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1153311267106578432/fLkfQY-j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45456280/1400890674",
+			"profile_link_color": "000D99",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A must-read from @ow, which shows that with Apple making these recent moves, they're basically killing the web. https://t.co/8GxQB2BFki"
+	},
+	{
 		"created_at": "Fri Nov 08 10:16:41 +0000 2019",
 		"id": 1192747764410650600,
 		"id_str": "1192747764410650624",
