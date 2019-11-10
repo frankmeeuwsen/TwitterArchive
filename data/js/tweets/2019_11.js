@@ -1,6 +1,324 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sun Nov 10 21:18:04 +0000 2019",
+		"id": 1193638979112984600,
+		"id_str": "1193638979112984578",
+		"full_text": "Hier is maar 1 reactiemail op mogelijk. Twee woorden, 2+6 letters. https://t.co/70dOWYmuqu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/70dOWYmuqu",
+					"expanded_url": "https://twitter.com/rrpre/status/1192862490348179456",
+					"display_url": "twitter.com/rrpre/status/1…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam. Doet verhalen bij Kaliber",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8871,
+			"friends_count": 286,
+			"listed_count": 583,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5501,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60635,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1192862490348179500,
+		"quoted_status_id_str": "1192862490348179456",
+		"quoted_status_permalink": {
+			"url": "https://t.co/70dOWYmuqu",
+			"expanded": "https://twitter.com/rrpre/status/1192862490348179456",
+			"display": "twitter.com/rrpre/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Nov 08 17:52:34 +0000 2019",
+			"id": 1192862490348179500,
+			"id_str": "1192862490348179456",
+			"full_text": "inbox: https://t.co/DigRLc3BIy",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				6
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1192862458765074400,
+						"id_str": "1192862458765074432",
+						"indices": [
+							7,
+							30
+						],
+						"media_url": "http://pbs.twimg.com/media/EI3mFhCXYAAmh0z.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EI3mFhCXYAAmh0z.jpg",
+						"url": "https://t.co/DigRLc3BIy",
+						"display_url": "pic.twitter.com/DigRLc3BIy",
+						"expanded_url": "https://twitter.com/rrpre/status/1192862490348179456/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 775,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 439,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1241,
+								"h": 1921,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"medium": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1192862458765074400,
+						"id_str": "1192862458765074432",
+						"indices": [
+							7,
+							30
+						],
+						"media_url": "http://pbs.twimg.com/media/EI3mFhCXYAAmh0z.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EI3mFhCXYAAmh0z.jpg",
+						"url": "https://t.co/DigRLc3BIy",
+						"display_url": "pic.twitter.com/DigRLc3BIy",
+						"expanded_url": "https://twitter.com/rrpre/status/1192862490348179456/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 775,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 439,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1241,
+								"h": 1921,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"medium": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1117857733,
+				"id_str": "1117857733",
+				"name": "Rachel Premack",
+				"screen_name": "rrpre",
+				"location": "New York, USA",
+				"description": "senior transportation reporter @businessinsider covering logistics. before: @chicagobooth journalist-in-residence, correspondent in Seoul, @umich.",
+				"url": "https://t.co/iDmySmjslt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/iDmySmjslt",
+								"expanded_url": "http://businessinsider.com/author/rachel-premack",
+								"display_url": "businessinsider.com/author/rachel-…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6100,
+				"friends_count": 974,
+				"listed_count": 80,
+				"created_at": "Thu Jan 24 22:02:01 +0000 2013",
+				"favourites_count": 11129,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 6672,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1098562248249929728/njR4d6m__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1098562248249929728/njR4d6m__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1117857733/1573408079",
+				"profile_link_color": "D0C4C5",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8502,
+			"favorite_count": 51607,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Hier is maar 1 reactiemail op mogelijk. Twee woorden, 2+6 letters. https://t.co/70dOWYmuqu"
+	},
+	{
 		"created_at": "Sat Nov 09 22:20:48 +0000 2019",
 		"id": 1193243322225180700,
 		"id_str": "1193292379261943808",
