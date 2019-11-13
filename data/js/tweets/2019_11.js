@@ -1,6 +1,678 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Wed Nov 13 16:38:17 +0000 2019",
+		"id": 1194655735982043100,
+		"id_str": "1194655735982043136",
+		"full_text": "Dit is geweldig. https://t.co/oMV8gyE1Nb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oMV8gyE1Nb",
+					"expanded_url": "https://twitter.com/benedictevans/status/1194648781284757505",
+					"display_url": "twitter.com/benedictevans/…",
+					"indices": [
+						17,
+						40
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam. Doet verhalen bij Kaliber",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8871,
+			"friends_count": 287,
+			"listed_count": 583,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5505,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60646,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1194648781284757500,
+		"quoted_status_id_str": "1194648781284757505",
+		"quoted_status_permalink": {
+			"url": "https://t.co/oMV8gyE1Nb",
+			"expanded": "https://twitter.com/benedictevans/status/1194648781284757505",
+			"display": "twitter.com/benedictevans/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Nov 13 16:10:39 +0000 2019",
+			"id": 1194648781284757500,
+			"id_str": "1194648781284757505",
+			"full_text": "I had heard that Rod Stewart was ‘into model railways’ but that didn’t really capture the reality 😲 https://t.co/vvT72hafRv",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				99
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1194648764809527300,
+						"id_str": "1194648764809527297",
+						"indices": [
+							100,
+							123
+						],
+						"media_url": "http://pbs.twimg.com/media/EJQ-uNnUwAEg8Ee.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EJQ-uNnUwAEg8Ee.jpg",
+						"url": "https://t.co/vvT72hafRv",
+						"display_url": "pic.twitter.com/vvT72hafRv",
+						"expanded_url": "https://twitter.com/benedictevans/status/1194648781284757505/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1125,
+								"h": 1682,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 803,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 455,
+								"h": 680,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": [
+									{
+										"x": 413,
+										"y": 272,
+										"h": 59,
+										"w": 59
+									},
+									{
+										"x": 412,
+										"y": 537,
+										"h": 55,
+										"w": 55
+									},
+									{
+										"x": 436,
+										"y": 1373,
+										"h": 67,
+										"w": 67
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 294,
+										"y": 194,
+										"h": 42,
+										"w": 42
+									},
+									{
+										"x": 294,
+										"y": 383,
+										"h": 39,
+										"w": 39
+									},
+									{
+										"x": 311,
+										"y": 980,
+										"h": 47,
+										"w": 47
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 167,
+										"y": 110,
+										"h": 23,
+										"w": 23
+									},
+									{
+										"x": 166,
+										"y": 217,
+										"h": 22,
+										"w": 22
+									},
+									{
+										"x": 176,
+										"y": 555,
+										"h": 27,
+										"w": 27
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 413,
+										"y": 272,
+										"h": 59,
+										"w": 59
+									},
+									{
+										"x": 412,
+										"y": 537,
+										"h": 55,
+										"w": 55
+									},
+									{
+										"x": 436,
+										"y": 1373,
+										"h": 67,
+										"w": 67
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1194648764809527300,
+						"id_str": "1194648764809527297",
+						"indices": [
+							100,
+							123
+						],
+						"media_url": "http://pbs.twimg.com/media/EJQ-uNnUwAEg8Ee.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EJQ-uNnUwAEg8Ee.jpg",
+						"url": "https://t.co/vvT72hafRv",
+						"display_url": "pic.twitter.com/vvT72hafRv",
+						"expanded_url": "https://twitter.com/benedictevans/status/1194648781284757505/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1125,
+								"h": 1682,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 803,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 455,
+								"h": 680,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": [
+									{
+										"x": 413,
+										"y": 272,
+										"h": 59,
+										"w": 59
+									},
+									{
+										"x": 412,
+										"y": 537,
+										"h": 55,
+										"w": 55
+									},
+									{
+										"x": 436,
+										"y": 1373,
+										"h": 67,
+										"w": 67
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 294,
+										"y": 194,
+										"h": 42,
+										"w": 42
+									},
+									{
+										"x": 294,
+										"y": 383,
+										"h": 39,
+										"w": 39
+									},
+									{
+										"x": 311,
+										"y": 980,
+										"h": 47,
+										"w": 47
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 167,
+										"y": 110,
+										"h": 23,
+										"w": 23
+									},
+									{
+										"x": 166,
+										"y": 217,
+										"h": 22,
+										"w": 22
+									},
+									{
+										"x": 176,
+										"y": 555,
+										"h": 27,
+										"w": 27
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 413,
+										"y": 272,
+										"h": 59,
+										"w": 59
+									},
+									{
+										"x": 412,
+										"y": 537,
+										"h": 55,
+										"w": 55
+									},
+									{
+										"x": 436,
+										"y": 1373,
+										"h": 67,
+										"w": 67
+									}
+								]
+							}
+						}
+					},
+					{
+						"id": 1194648764813738000,
+						"id_str": "1194648764813737984",
+						"indices": [
+							100,
+							123
+						],
+						"media_url": "http://pbs.twimg.com/media/EJQ-uNoVAAAoo_3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EJQ-uNoVAAAoo_3.jpg",
+						"url": "https://t.co/vvT72hafRv",
+						"display_url": "pic.twitter.com/vvT72hafRv",
+						"expanded_url": "https://twitter.com/benedictevans/status/1194648781284757505/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 826,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 468,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1567,
+								"h": 1079,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"orig": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							}
+						}
+					},
+					{
+						"id": 1194648764809502700,
+						"id_str": "1194648764809502720",
+						"indices": [
+							100,
+							123
+						],
+						"media_url": "http://pbs.twimg.com/media/EJQ-uNnUYAAO_Re.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EJQ-uNnUYAAO_Re.jpg",
+						"url": "https://t.co/vvT72hafRv",
+						"display_url": "pic.twitter.com/vvT72hafRv",
+						"expanded_url": "https://twitter.com/benedictevans/status/1194648781284757505/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1590,
+								"h": 1051,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 449,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 793,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							}
+						}
+					},
+					{
+						"id": 1194648764805312500,
+						"id_str": "1194648764805312515",
+						"indices": [
+							100,
+							123
+						],
+						"media_url": "http://pbs.twimg.com/media/EJQ-uNmUcAM4RD7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EJQ-uNmUcAM4RD7.jpg",
+						"url": "https://t.co/vvT72hafRv",
+						"display_url": "pic.twitter.com/vvT72hafRv",
+						"expanded_url": "https://twitter.com/benedictevans/status/1194648781284757505/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 799,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1564,
+								"h": 1041,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"small": {
+								"faces": [
+									{
+										"x": 140,
+										"y": 31,
+										"h": 23,
+										"w": 23
+									},
+									{
+										"x": 580,
+										"y": 118,
+										"h": 30,
+										"w": 30
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 247,
+										"y": 56,
+										"h": 40,
+										"w": 40
+									},
+									{
+										"x": 1025,
+										"y": 209,
+										"h": 54,
+										"w": 54
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 322,
+										"y": 73,
+										"h": 53,
+										"w": 53
+									},
+									{
+										"x": 1336,
+										"y": 273,
+										"h": 71,
+										"w": 71
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 322,
+										"y": 73,
+										"h": 53,
+										"w": 53
+									},
+									{
+										"x": 1336,
+										"y": 273,
+										"h": 71,
+										"w": 71
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1236101,
+				"id_str": "1236101",
+				"name": "Benedict Evans",
+				"screen_name": "benedictevans",
+				"location": "",
+				"description": "Trying to work out what's going on, and what happens next. Curious. Easily bored. Single parent. Expat in San Francisco. @a16z.",
+				"url": "https://t.co/Xn2lah7w1L",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Xn2lah7w1L",
+								"expanded_url": "http://www.ben-evans.com/newsletter",
+								"display_url": "ben-evans.com/newsletter",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 276571,
+				"friends_count": 988,
+				"listed_count": 7129,
+				"created_at": "Thu Mar 15 17:33:00 +0000 2007",
+				"favourites_count": 10978,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 147601,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E5E5E5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/845396356579508224/1ruiOPLI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/845396356579508224/1ruiOPLI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1236101/1533856951",
+				"profile_link_color": "336699",
+				"profile_sidebar_border_color": "5D5D5D",
+				"profile_sidebar_fill_color": "E5E5E5",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 21,
+			"favorite_count": 132,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Dit is geweldig. https://t.co/oMV8gyE1Nb"
+	},
+	{
 		"created_at": "Wed Nov 13 12:42:55 +0000 2019",
 		"id": 1194596504687857700,
 		"id_str": "1194596504687857664",
