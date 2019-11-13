@@ -1,6 +1,340 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Wed Nov 13 10:07:56 +0000 2019",
+		"id": 1194557499485102000,
+		"id_str": "1194557499485102082",
+		"full_text": "Ik heb het ultieme kerstcadeau voor @Roh gevonden! https://t.co/uwpXxXdPVw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Roh",
+					"name": "Ronald van Schaik",
+					"id": 1447551,
+					"id_str": "1447551",
+					"indices": [
+						36,
+						40
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/uwpXxXdPVw",
+					"expanded_url": "https://twitter.com/Wilbert/status/1194550080319172608",
+					"display_url": "twitter.com/Wilbert/status…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam. Doet verhalen bij Kaliber",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8871,
+			"friends_count": 287,
+			"listed_count": 583,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5504,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60643,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1194550080319172600,
+		"quoted_status_id_str": "1194550080319172608",
+		"quoted_status_permalink": {
+			"url": "https://t.co/uwpXxXdPVw",
+			"expanded": "https://twitter.com/Wilbert/status/1194550080319172608",
+			"display": "twitter.com/Wilbert/status…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Nov 13 09:38:27 +0000 2019",
+			"id": 1194550080319172600,
+			"id_str": "1194550080319172608",
+			"full_text": "Als je wilt investeren in een startup doe dat in deze... Dit wil toch iedereen! https://t.co/I83YR3P5xl",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				79
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1194550029014442000,
+						"id_str": "1194550029014441984",
+						"indices": [
+							80,
+							103
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1194550029014441984/pu/img/75vw9eOUYeV0iVtW.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1194550029014441984/pu/img/75vw9eOUYeV0iVtW.jpg",
+						"url": "https://t.co/I83YR3P5xl",
+						"display_url": "pic.twitter.com/I83YR3P5xl",
+						"expanded_url": "https://twitter.com/Wilbert/status/1194550080319172608/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						},
+						"features": {}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1194550029014442000,
+						"id_str": "1194550029014441984",
+						"indices": [
+							80,
+							103
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1194550029014441984/pu/img/75vw9eOUYeV0iVtW.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1194550029014441984/pu/img/75vw9eOUYeV0iVtW.jpg",
+						"url": "https://t.co/I83YR3P5xl",
+						"display_url": "pic.twitter.com/I83YR3P5xl",
+						"expanded_url": "https://twitter.com/Wilbert/status/1194550080319172608/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 25433,
+							"variants": [
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1194550029014441984/pu/vid/320x320/qtiCKO8jrt5NqFl9.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1194550029014441984/pu/pl/3WVKVKDt2wp7RHIu.m3u8?tag=10"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1194550029014441984/pu/vid/720x720/-UkJVu3bwjpCFZm9.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1194550029014441984/pu/vid/480x480/gJayUKNx1J74Semx.mp4?tag=10"
+								}
+							]
+						},
+						"features": {},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2286901,
+				"id_str": "2286901",
+				"name": "Wilbert Pot",
+				"screen_name": "Wilbert",
+				"location": "Utrecht",
+				"description": "Freelance Digital Analyst, Business Strategist & Optimization Expert | #Data #UserResearch #WebAnalytics #Psychology #CRO #digitaltransformation #Marketing #UX",
+				"url": "https://t.co/JiopVV2Lb5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JiopVV2Lb5",
+								"expanded_url": "https://www.linkedin.com/in/wilbertpot",
+								"display_url": "linkedin.com/in/wilbertpot",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4865,
+				"friends_count": 3537,
+				"listed_count": 420,
+				"created_at": "Mon Mar 26 12:03:57 +0000 2007",
+				"favourites_count": 28770,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12539,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "2B221D",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1629255396/Wilbert_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1629255396/Wilbert_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2286901/1420209958",
+				"profile_link_color": "4B4D4B",
+				"profile_sidebar_border_color": "0E1625",
+				"profile_sidebar_fill_color": "EDEDED",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Ik heb het ultieme kerstcadeau voor @Roh gevonden! https://t.co/uwpXxXdPVw"
+	},
+	{
 		"created_at": "Tue Nov 12 11:59:54 +0000 2019",
 		"id": 1194223288412786700,
 		"id_str": "1194223288412786688",
