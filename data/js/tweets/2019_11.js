@@ -1,6 +1,267 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Thu Nov 14 20:22:09 +0000 2019",
+		"id": 1195074458790301700,
+		"id_str": "1195074458790301696",
+		"full_text": "@chckstrk Het bleek in scène te zijn gezet. https://t.co/n1T899a6Jp",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "chckstrk",
+					"name": "Chuck Sterk",
+					"id": 18474218,
+					"id_str": "18474218",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/n1T899a6Jp",
+					"expanded_url": "https://twitter.com/netsecfocus/status/1194672988320411648?s=21",
+					"display_url": "twitter.com/netsecfocus/st…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1194976008987955200,
+		"in_reply_to_status_id_str": "1194976008987955204",
+		"in_reply_to_user_id": 18474218,
+		"in_reply_to_user_id_str": "18474218",
+		"in_reply_to_screen_name": "chckstrk",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam. Doet verhalen bij Kaliber",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8871,
+			"friends_count": 290,
+			"listed_count": 583,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5508,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60655,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1194672988320411600,
+		"quoted_status_id_str": "1194672988320411648",
+		"quoted_status_permalink": {
+			"url": "https://t.co/n1T899a6Jp",
+			"expanded": "https://twitter.com/netsecfocus/status/1194672988320411648?s=21",
+			"display": "twitter.com/netsecfocus/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Nov 13 17:46:51 +0000 2019",
+			"id": 1194672988320411600,
+			"id_str": "1194672988320411648",
+			"full_text": "I've learned a harsh lesson from Occam today. @GossiTheDog you were right - @matiasojedam was nearby and it was a controlled descent. https://t.co/V4jONVaU6z",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				133
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "GossiTheDog",
+						"name": "Kevin Beaumont",
+						"id": 19767495,
+						"id_str": "19767495",
+						"indices": [
+							46,
+							58
+						]
+					},
+					{
+						"screen_name": "matiasojedam",
+						"name": "#FuerzaPri Matias",
+						"id": 118353120,
+						"id_str": "118353120",
+						"indices": [
+							76,
+							89
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/V4jONVaU6z",
+						"expanded_url": "https://twitter.com/matiasojedam/status/1194665625278468096",
+						"display_url": "twitter.com/matiasojedam/s…",
+						"indices": [
+							134,
+							157
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1090604167062786000,
+				"id_str": "1090604167062786048",
+				"name": "NetSec Focus",
+				"screen_name": "netsecfocus",
+				"location": "",
+				"description": "A security community for professionals & enthusiasts to collaborate & have fun. #OSCP #OSCE #OSWE\nThe official MatterMost home for @hackthebox_eu & @hackmethod",
+				"url": "https://t.co/NqTGVx5D3J",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/NqTGVx5D3J",
+								"expanded_url": "https://mm.netsecfocus.com/join/",
+								"display_url": "mm.netsecfocus.com/join/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4380,
+				"friends_count": 1186,
+				"listed_count": 45,
+				"created_at": "Wed Jan 30 13:34:30 +0000 2019",
+				"favourites_count": 14019,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6368,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1090638409608187911/tQW2sS06_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1090638409608187911/tQW2sS06_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1090604167062786048/1548863931",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1194665625278468000,
+			"quoted_status_id_str": "1194665625278468096",
+			"quoted_status_permalink": {
+				"url": "https://t.co/V4jONVaU6z",
+				"expanded": "https://twitter.com/matiasojedam/status/1194665625278468096",
+				"display": "twitter.com/matiasojedam/s…"
+			},
+			"retweet_count": 11,
+			"favorite_count": 42,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@chckstrk Het bleek in scène te zijn gezet. https://t.co/n1T899a6Jp"
+	},
+	{
 		"created_at": "Thu Nov 14 13:46:16 +0000 2019",
 		"id": 1194974831961419800,
 		"id_str": "1194974831961419778",
