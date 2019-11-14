@@ -1,6 +1,329 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Thu Nov 14 13:46:16 +0000 2019",
+		"id": 1194974831961419800,
+		"id_str": "1194974831961419778",
+		"full_text": "Awesome. https://t.co/29tstkLyiR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			8
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/29tstkLyiR",
+					"expanded_url": "https://twitter.com/netsecfocus/status/1194574626761904128",
+					"display_url": "twitter.com/netsecfocus/st…",
+					"indices": [
+						9,
+						32
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam. Doet verhalen bij Kaliber",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8871,
+			"friends_count": 288,
+			"listed_count": 583,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5507,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60653,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1194574626761904000,
+		"quoted_status_id_str": "1194574626761904128",
+		"quoted_status_permalink": {
+			"url": "https://t.co/29tstkLyiR",
+			"expanded": "https://twitter.com/netsecfocus/status/1194574626761904128",
+			"display": "twitter.com/netsecfocus/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Nov 13 11:15:59 +0000 2019",
+			"id": 1194574626761904000,
+			"id_str": "1194574626761904128",
+			"full_text": "This is the most cyberpunk thing I've seen for a while: Chilean protesters using lasers to take down a drone. https://t.co/tLSgj7YSB6",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				109
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1194574525750493200,
+						"id_str": "1194574525750493185",
+						"indices": [
+							110,
+							133
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1194574525750493185/pu/img/kQDaMXiZnHdOJUQ_.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1194574525750493185/pu/img/kQDaMXiZnHdOJUQ_.jpg",
+						"url": "https://t.co/tLSgj7YSB6",
+						"display_url": "pic.twitter.com/tLSgj7YSB6",
+						"expanded_url": "https://twitter.com/netsecfocus/status/1194574626761904128/video/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 640,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 480,
+								"resize": "fit"
+							}
+						},
+						"features": {}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1194574525750493200,
+						"id_str": "1194574525750493185",
+						"indices": [
+							110,
+							133
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1194574525750493185/pu/img/kQDaMXiZnHdOJUQ_.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1194574525750493185/pu/img/kQDaMXiZnHdOJUQ_.jpg",
+						"url": "https://t.co/tLSgj7YSB6",
+						"display_url": "pic.twitter.com/tLSgj7YSB6",
+						"expanded_url": "https://twitter.com/netsecfocus/status/1194574626761904128/video/1",
+						"type": "video",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 640,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 480,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								4,
+								3
+							],
+							"duration_millis": 45000,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1194574525750493185/pu/vid/640x480/NCeBPQ2NAhvYsjmY.mp4?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1194574525750493185/pu/vid/360x270/iEvo7sL3xdvzulnI.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1194574525750493185/pu/pl/8t4eGLkb9e1fMKaz.m3u8?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1194574525750493185/pu/vid/480x360/Y2PD2C4ru6cul9Fh.mp4?tag=10"
+								}
+							]
+						},
+						"features": {},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1090604167062786000,
+				"id_str": "1090604167062786048",
+				"name": "NetSec Focus",
+				"screen_name": "netsecfocus",
+				"location": "",
+				"description": "A security community for professionals & enthusiasts to collaborate & have fun. #OSCP #OSCE #OSWE\nThe official MatterMost home for @hackthebox_eu & @hackmethod",
+				"url": "https://t.co/NqTGVx5D3J",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/NqTGVx5D3J",
+								"expanded_url": "https://mm.netsecfocus.com/join/",
+								"display_url": "mm.netsecfocus.com/join/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4243,
+				"friends_count": 1186,
+				"listed_count": 43,
+				"created_at": "Wed Jan 30 13:34:30 +0000 2019",
+				"favourites_count": 14001,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6359,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1090638409608187911/tQW2sS06_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1090638409608187911/tQW2sS06_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1090604167062786048/1548863931",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9624,
+			"favorite_count": 27005,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Awesome. https://t.co/29tstkLyiR"
+	},
+	{
 		"created_at": "Thu Nov 14 10:06:58 +0000 2019",
 		"id": 1194919645398159400,
 		"id_str": "1194919645398159360",
