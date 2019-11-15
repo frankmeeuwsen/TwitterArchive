@@ -1,6 +1,319 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Fri Nov 15 18:23:47 +0000 2019",
+		"id": 1195407059417780200,
+		"id_str": "1195407059417780224",
+		"full_text": "Natuurlijk te laat maar kom:\n- So Whatcha Want\n- Shake Your Rump\n- Lee Majors Come Again https://t.co/fckanzx1kB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fckanzx1kB",
+					"expanded_url": "https://twitter.com/timophetbroek/status/1195399417618141184",
+					"display_url": "twitter.com/timophetbroek/…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam. Doet verhalen bij Kaliber",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8870,
+			"friends_count": 290,
+			"listed_count": 583,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5510,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60660,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1195399417618141200,
+		"quoted_status_id_str": "1195399417618141184",
+		"quoted_status_permalink": {
+			"url": "https://t.co/fckanzx1kB",
+			"expanded": "https://twitter.com/timophetbroek/status/1195399417618141184",
+			"display": "twitter.com/timophetbroek/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Nov 15 17:53:25 +0000 2019",
+			"id": 1195399417618141200,
+			"id_str": "1195399417618141184",
+			"full_text": "INTERNATIONALE BEASTIE BOYS DAG! \nBedacht ik me net. Welke 3 tracks moet ik straks na 19:00 draaien? @KINKpuntnl https://t.co/tkM4TstQ34",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				112
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "KINKpuntnl",
+						"name": "KINK",
+						"id": 36077942,
+						"id_str": "36077942",
+						"indices": [
+							101,
+							112
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1195399405496623000,
+						"id_str": "1195399405496623104",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EJbpbQFW4AANhVl.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EJbpbQFW4AANhVl.jpg",
+						"url": "https://t.co/tkM4TstQ34",
+						"display_url": "pic.twitter.com/tkM4TstQ34",
+						"expanded_url": "https://twitter.com/TimOphetBroek/status/1195399417618141184/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 320,
+								"h": 240,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 320,
+								"h": 240,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 320,
+								"h": 240,
+								"resize": "fit"
+							}
+						},
+						"features": {}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1195399405496623000,
+						"id_str": "1195399405496623104",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EJbpbQFW4AANhVl.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EJbpbQFW4AANhVl.jpg",
+						"url": "https://t.co/tkM4TstQ34",
+						"display_url": "pic.twitter.com/tkM4TstQ34",
+						"expanded_url": "https://twitter.com/TimOphetBroek/status/1195399417618141184/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 320,
+								"h": 240,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 320,
+								"h": 240,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 320,
+								"h": 240,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								4,
+								3
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/EJbpbQFW4AANhVl.mp4"
+								}
+							]
+						},
+						"features": {}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 49320577,
+				"id_str": "49320577",
+				"name": "Tim Op het Broek",
+				"screen_name": "TimOphetBroek",
+				"location": "Hilversum. Dag & nacht geopend",
+				"description": "DJ @KINKpuntnl \n\nKink Rush Hour Ma/Do 16-19\nKink Kafe Vrij 18-21\nKINK Golden Shower Vrij 17-18\n\nMusic Director KINK DNA\n\n\nhttps://t.co/HuL0BYztV7…",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/HuL0BYztV7",
+								"expanded_url": "http://instagram.com/tim_op_het_bro",
+								"display_url": "instagram.com/tim_op_het_bro",
+								"indices": [
+									122,
+									145
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2547,
+				"friends_count": 1680,
+				"listed_count": 66,
+				"created_at": "Sun Jun 21 14:02:22 +0000 2009",
+				"favourites_count": 2314,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 24397,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1172656828334977024/jOIpz5O9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1172656828334977024/jOIpz5O9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/49320577/1557899126",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Natuurlijk te laat maar kom:\n- So Whatcha Want\n- Shake Your Rump\n- Lee Majors Come Again https://t.co/fckanzx1kB"
+	},
+	{
 		"created_at": "Fri Nov 15 16:05:34 +0000 2019",
 		"id": 1195372275605921800,
 		"id_str": "1195372275605921792",
