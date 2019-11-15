@@ -1,6 +1,114 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Fri Nov 15 06:01:52 +0000 2019",
+		"id": 1195066781846720500,
+		"id_str": "1195220350088429569",
+		"full_text": "first they came for the boomers and i said nothing... https://t.co/tUsTyR0Bkz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tUsTyR0Bkz",
+					"expanded_url": "https://www.buzzfeednews.com/article/laurenstrapagiel/gen-z-is-calling-gen-x-the-karen-generation",
+					"display_url": "buzzfeednews.com/article/lauren…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 31319241,
+			"id_str": "31319241",
+			"name": "Delia Cai",
+			"screen_name": "delia_cai",
+			"location": "New York",
+			"description": "growth & trends editor @BuzzFeed. PLUS I write a daily media newsletter called Deez Links wowww lucky you!!",
+			"url": "https://t.co/FwHTFIC1i8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FwHTFIC1i8",
+							"expanded_url": "http://deezlinks.substack.com",
+							"display_url": "deezlinks.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4555,
+			"friends_count": 1669,
+			"listed_count": 42,
+			"created_at": "Wed Apr 15 02:58:45 +0000 2009",
+			"favourites_count": 9919,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 18880,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "89C9FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1181036183742230529/Ox0oHM6y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1181036183742230529/Ox0oHM6y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/31319241/1439589231",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 61,
+		"favorite_count": 350,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "first they came for the boomers and i said nothing... https://t.co/tUsTyR0Bkz"
+	},
+	{
 		"created_at": "Thu Nov 14 20:22:09 +0000 2019",
 		"id": 1195074458790301700,
 		"id_str": "1195074458790301696",
