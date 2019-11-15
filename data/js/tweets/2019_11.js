@@ -1,6 +1,277 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Fri Nov 15 11:02:50 +0000 2019",
+		"id": 1195296090368696300,
+		"id_str": "1195296090368696320",
+		"full_text": "@Marjolijn Algorithmic (see what I did there...“rhythmic”) Timeline Takeover! https://t.co/5PqKf6CDIg",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Marjolijn",
+					"name": "Marjolijn",
+					"id": 1610571,
+					"id_str": "1610571",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1195296084769353700,
+					"id_str": "1195296084769353729",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/EJaLdMYXsAEdQ4y.png",
+					"media_url_https": "https://pbs.twimg.com/media/EJaLdMYXsAEdQ4y.png",
+					"url": "https://t.co/5PqKf6CDIg",
+					"display_url": "pic.twitter.com/5PqKf6CDIg",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1195296090368696320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 641,
+							"h": 736,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 641,
+							"h": 736,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 592,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 86,
+									"y": 74,
+									"h": 103,
+									"w": 103
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 86,
+									"y": 74,
+									"h": 103,
+									"w": 103
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 86,
+									"y": 74,
+									"h": 103,
+									"w": 103
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 79,
+									"y": 68,
+									"h": 95,
+									"w": 95
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1195296084769353700,
+					"id_str": "1195296084769353729",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/EJaLdMYXsAEdQ4y.png",
+					"media_url_https": "https://pbs.twimg.com/media/EJaLdMYXsAEdQ4y.png",
+					"url": "https://t.co/5PqKf6CDIg",
+					"display_url": "pic.twitter.com/5PqKf6CDIg",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1195296090368696320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 641,
+							"h": 736,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 641,
+							"h": 736,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 592,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 86,
+									"y": 74,
+									"h": 103,
+									"w": 103
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 86,
+									"y": 74,
+									"h": 103,
+									"w": 103
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 86,
+									"y": 74,
+									"h": 103,
+									"w": 103
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 79,
+									"y": 68,
+									"h": 95,
+									"w": 95
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1195243290087612400,
+		"in_reply_to_status_id_str": "1195243290087612416",
+		"in_reply_to_user_id": 1610571,
+		"in_reply_to_user_id_str": "1610571",
+		"in_reply_to_screen_name": "Marjolijn",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam. Doet verhalen bij Kaliber",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8871,
+			"friends_count": 290,
+			"listed_count": 583,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5509,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60658,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@Marjolijn Algorithmic (see what I did there...“rhythmic”) Timeline Takeover! https://t.co/5PqKf6CDIg"
+	},
+	{
 		"created_at": "Fri Nov 15 06:01:52 +0000 2019",
 		"id": 1195066781846720500,
 		"id_str": "1195220350088429569",
