@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sat Nov 16 10:03:45 +0000 2019",
+		"id": 1195087759700103200,
+		"id_str": "1195643611687337984",
+		"full_text": "When cats meet cat filters... https://t.co/BKC1OFzHQO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1195064554188935200,
+					"id_str": "1195064554188935168",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1195064554188935168/pu/img/_cahIl4GWyle_R2j.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1195064554188935168/pu/img/_cahIl4GWyle_R2j.jpg",
+					"url": "https://t.co/BKC1OFzHQO",
+					"display_url": "pic.twitter.com/BKC1OFzHQO",
+					"expanded_url": "https://twitter.com/PDChina/status/1195087759700103169/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 852,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 852,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1195064554188935200,
+					"id_str": "1195064554188935168",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1195064554188935168/pu/img/_cahIl4GWyle_R2j.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1195064554188935168/pu/img/_cahIl4GWyle_R2j.jpg",
+					"url": "https://t.co/BKC1OFzHQO",
+					"display_url": "pic.twitter.com/BKC1OFzHQO",
+					"expanded_url": "https://twitter.com/PDChina/status/1195087759700103169/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 852,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 852,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							40,
+							71
+						],
+						"duration_millis": 52467,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1195064554188935168/pu/vid/360x638/QjBqDVjjUleB6P4p.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1195064554188935168/pu/vid/480x852/t5jFKVk3laNRwGJi.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1195064554188935168/pu/pl/alcSJ2yw2l3BiLOe.m3u8?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1195064554188935168/pu/vid/320x568/6iJ4uSjbU1_8v4N6.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 303862998,
+			"id_str": "303862998",
+			"name": "People's Daily, China",
+			"screen_name": "PDChina",
+			"location": "Beijing, China",
+			"description": "The largest newspaper group in China; Timely updates https://t.co/k0koJEObUQ https://t.co/nCvfm8gTgr",
+			"url": "https://t.co/rWsij70zc8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rWsij70zc8",
+							"expanded_url": "http://www.people.cn",
+							"display_url": "people.cn",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k0koJEObUQ",
+							"expanded_url": "https://www.youtube.com/peoplesdaily",
+							"display_url": "youtube.com/peoplesdaily",
+							"indices": [
+								53,
+								76
+							]
+						},
+						{
+							"url": "https://t.co/nCvfm8gTgr",
+							"expanded_url": "https://fb.me/PeoplesDaily",
+							"display_url": "fb.me/PeoplesDaily",
+							"indices": [
+								77,
+								100
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7056073,
+			"friends_count": 5230,
+			"listed_count": 7345,
+			"created_at": "Mon May 23 15:00:26 +0000 2011",
+			"favourites_count": 1073,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 78147,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1192192614847729666/oWR5P6p2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192192614847729666/oWR5P6p2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/303862998/1566339468",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34258,
+		"favorite_count": 82085,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "When cats meet cat filters... https://t.co/BKC1OFzHQO"
+	},
+	{
 		"created_at": "Fri Nov 15 23:18:03 +0000 2019",
 		"id": 1195481114774851600,
 		"id_str": "1195481114774851585",
