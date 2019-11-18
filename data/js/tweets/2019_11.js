@@ -1,6 +1,205 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Mon Nov 18 15:08:15 +0000 2019",
+		"id": 1196445016375386000,
+		"id_str": "1196445016375386113",
+		"full_text": "Oei. Op de #Kink1500 begint Rage Against The Machine's Guerilla Radio en mijn vingers kregen meteen de muscle memory flashback naar Tony Hawk Pro Skater 2! https://t.co/NKVkomHRwP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Kink1500",
+					"indices": [
+						11,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1196445008997552000,
+					"id_str": "1196445008997552128",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EJqgZYqWkAABitQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EJqgZYqWkAABitQ.jpg",
+					"url": "https://t.co/NKVkomHRwP",
+					"display_url": "pic.twitter.com/NKVkomHRwP",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1196445016375386113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 250,
+							"h": 158,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 250,
+							"h": 158,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 250,
+							"h": 158,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1196445008997552000,
+					"id_str": "1196445008997552128",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EJqgZYqWkAABitQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EJqgZYqWkAABitQ.jpg",
+					"url": "https://t.co/NKVkomHRwP",
+					"display_url": "pic.twitter.com/NKVkomHRwP",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1196445016375386113/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 250,
+							"h": 158,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 250,
+							"h": 158,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 250,
+							"h": 158,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							125,
+							79
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EJqgZYqWkAABitQ.mp4"
+							}
+						]
+					},
+					"features": {}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam. Doet verhalen bij Kaliber",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8870,
+			"friends_count": 293,
+			"listed_count": 583,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5527,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60688,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Oei. Op de #Kink1500 begint Rage Against The Machine's Guerilla Radio en mijn vingers kregen meteen de muscle memory flashback naar Tony Hawk Pro Skater 2! https://t.co/NKVkomHRwP"
+	},
+	{
 		"created_at": "Mon Nov 18 11:29:47 +0000 2019",
 		"id": 1196390038600376300,
 		"id_str": "1196390038600376322",
