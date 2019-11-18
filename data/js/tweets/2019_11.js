@@ -1,6 +1,309 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Mon Nov 18 21:20:24 +0000 2019",
+		"id": 1196538669261131800,
+		"id_str": "1196538669261131776",
+		"full_text": "You out-MarcelSteemanned @msteeman himself. Dat is een prestatie van formaat. https://t.co/ryCNFgdLiu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "msteeman",
+					"name": "Marcel Steeman",
+					"id": 19087381,
+					"id_str": "19087381",
+					"indices": [
+						25,
+						34
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ryCNFgdLiu",
+					"expanded_url": "https://twitter.com/Pascaldegier/status/1196457869618688001",
+					"display_url": "twitter.com/Pascaldegier/s…",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam. Doet verhalen bij Kaliber",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8871,
+			"friends_count": 293,
+			"listed_count": 583,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5530,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60690,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1196457869618688000,
+		"quoted_status_id_str": "1196457869618688001",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ryCNFgdLiu",
+			"expanded": "https://twitter.com/Pascaldegier/status/1196457869618688001",
+			"display": "twitter.com/Pascaldegier/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Nov 18 15:59:19 +0000 2019",
+			"id": 1196457869618688000,
+			"id_str": "1196457869618688001",
+			"full_text": "Vandaag worden er thuis stopcontacten in de muur gefreesd.\n\nMijn vrouw: ‘dat geeft een hoop troep zeker?’\n\nIk: ...\n\nMijn vrouw: ‘je gaat het echt zeggen hè?’\n\nIk: Ik frees het wel. https://t.co/ZpsaeRA69L",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				180
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1196457860995129300,
+						"id_str": "1196457860995129344",
+						"indices": [
+							181,
+							204
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EJqsFeFWoAA2DCN.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EJqsFeFWoAA2DCN.jpg",
+						"url": "https://t.co/ZpsaeRA69L",
+						"display_url": "pic.twitter.com/ZpsaeRA69L",
+						"expanded_url": "https://twitter.com/Pascaldegier/status/1196457869618688001/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 360,
+								"h": 240,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 360,
+								"h": 240,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 360,
+								"h": 240,
+								"resize": "fit"
+							}
+						},
+						"features": {}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1196457860995129300,
+						"id_str": "1196457860995129344",
+						"indices": [
+							181,
+							204
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EJqsFeFWoAA2DCN.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EJqsFeFWoAA2DCN.jpg",
+						"url": "https://t.co/ZpsaeRA69L",
+						"display_url": "pic.twitter.com/ZpsaeRA69L",
+						"expanded_url": "https://twitter.com/Pascaldegier/status/1196457869618688001/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 360,
+								"h": 240,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 360,
+								"h": 240,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 360,
+								"h": 240,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								3,
+								2
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/EJqsFeFWoAA2DCN.mp4"
+								}
+							]
+						},
+						"features": {}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 335881135,
+				"id_str": "335881135",
+				"name": "Pascal 🧷",
+				"screen_name": "Pascaldegier",
+				"location": "Westland, Nederland",
+				"description": "Fietst meestal tegen de wind in. #teamslappebasilicum",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4009,
+				"friends_count": 863,
+				"listed_count": 23,
+				"created_at": "Fri Jul 15 11:48:55 +0000 2011",
+				"favourites_count": 52835,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 32523,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1099782247236943873/2Vjifw47_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1099782247236943873/2Vjifw47_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/335881135/1520539567",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 344,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "You out-MarcelSteemanned @msteeman himself. Dat is een prestatie van formaat. https://t.co/ryCNFgdLiu"
+	},
+	{
 		"created_at": "Mon Nov 18 18:09:17 +0000 2019",
 		"id": 1196490577010921500,
 		"id_str": "1196490577010921475",
