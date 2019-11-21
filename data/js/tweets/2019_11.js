@@ -1,6 +1,318 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Thu Nov 21 19:14:17 +0000 2019",
+		"id": 1197594094530371600,
+		"id_str": "1197594094530371586",
+		"full_text": "Ik krijg via Keybase maandelijks gratis geld toegeworpen vanwege een \"The Big Stellar Space Drop\". Dus nu ga ik eens uitzoeken hoe ik dat cryptogeld kan omzetten naar geld-voor-de-bakker geld. Daniel Verlaan heeft wel wat op Twitter geroepen hoe dat aan… https://t.co/ukPQYwmPug",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ukPQYwmPug",
+					"expanded_url": "https://diggingthedigital.com/?p=4477",
+					"display_url": "diggingthedigital.com/?p=4477",
+					"indices": [
+						255,
+						278
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://brid.gy/\" rel=\"nofollow\">Bridgy</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam. Doet verhalen bij Kaliber",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8867,
+			"friends_count": 293,
+			"listed_count": 583,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5537,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60710,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Ik krijg via Keybase maandelijks gratis geld toegeworpen vanwege een \"The Big Stellar Space Drop\". Dus nu ga ik eens uitzoeken hoe ik dat cryptogeld kan omzetten naar geld-voor-de-bakker geld. Daniel Verlaan heeft wel wat op Twitter geroepen hoe dat aan… https://t.co/ukPQYwmPug"
+	},
+	{
+		"created_at": "Thu Nov 21 18:49:18 +0000 2019",
+		"id": 1196789671977726000,
+		"id_str": "1197587809068081152",
+		"full_text": "Marie Kondo opening an online shop that sells dumb crap you don’t need is my favorite heel turn of 2019. https://t.co/4lFa28NadS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1196789665602379800,
+					"id_str": "1196789665602379777",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/EJvZ3CkWoAE6IRV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJvZ3CkWoAE6IRV.jpg",
+					"url": "https://t.co/4lFa28NadS",
+					"display_url": "pic.twitter.com/4lFa28NadS",
+					"expanded_url": "https://twitter.com/PJVogt/status/1196789671977725953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 426,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1984,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 751,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1196789665602379800,
+					"id_str": "1196789665602379777",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/EJvZ3CkWoAE6IRV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJvZ3CkWoAE6IRV.jpg",
+					"url": "https://t.co/4lFa28NadS",
+					"display_url": "pic.twitter.com/4lFa28NadS",
+					"expanded_url": "https://twitter.com/PJVogt/status/1196789671977725953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 426,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1984,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 751,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 48569578,
+			"id_str": "48569578",
+			"name": "PJ Vogt",
+			"screen_name": "PJVogt",
+			"location": "⚡️",
+			"description": "editorial director @replyall",
+			"url": "https://t.co/kTvNqZSKUb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kTvNqZSKUb",
+							"expanded_url": "http://replyall.limo",
+							"display_url": "replyall.limo",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 100567,
+			"friends_count": 1034,
+			"listed_count": 941,
+			"created_at": "Fri Jun 19 01:46:37 +0000 2009",
+			"favourites_count": 30247,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16058,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136333489152749574/SRrgUZF-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136333489152749574/SRrgUZF-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/48569578/1569345596",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8777,
+		"favorite_count": 46981,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Marie Kondo opening an online shop that sells dumb crap you don’t need is my favorite heel turn of 2019. https://t.co/4lFa28NadS"
+	},
+	{
 		"created_at": "Thu Nov 21 15:42:35 +0000 2019",
 		"id": 1197540820292972500,
 		"id_str": "1197540820292972546",
