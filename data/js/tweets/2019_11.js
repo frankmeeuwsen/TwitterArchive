@@ -1,6 +1,390 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Fri Nov 22 17:17:28 +0000 2019",
+		"id": 1197927088059244500,
+		"id_str": "1197927088059244547",
+		"full_text": "At Fame Records Amsterdam for a pre-listen party. Where I met the Bugs posse from the Netherlands for the first time! https://t.co/evLLVQxqr4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/evLLVQxqr4",
+					"expanded_url": "https://twitter.com/pearljam/status/1197908849119911936",
+					"display_url": "twitter.com/pearljam/statu…",
+					"indices": [
+						118,
+						141
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam. Doet verhalen bij Kaliber",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8865,
+			"friends_count": 294,
+			"listed_count": 584,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5561,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60725,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1197908849119912000,
+		"quoted_status_id_str": "1197908849119911936",
+		"quoted_status_permalink": {
+			"url": "https://t.co/evLLVQxqr4",
+			"expanded": "https://twitter.com/pearljam/status/1197908849119911936",
+			"display": "twitter.com/pearljam/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Nov 22 16:05:00 +0000 2019",
+			"id": 1197908849119912000,
+			"id_str": "1197908849119911936",
+			"full_text": "Vitalogy is a quarter-century old today! Where were you when you first heard the album? https://t.co/KW6Ufnscdp",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				87
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1197892328041652200,
+						"id_str": "1197892328041652224",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/media/EJ_EucQWoAAB3Fy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EJ_EucQWoAAB3Fy.jpg",
+						"url": "https://t.co/KW6Ufnscdp",
+						"display_url": "pic.twitter.com/KW6Ufnscdp",
+						"expanded_url": "https://twitter.com/PearlJam/status/1197908849119911936/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1395,
+								"h": 1402,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1194,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 677,
+								"h": 680,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"orig": {
+								"faces": [
+									{
+										"x": 531,
+										"y": 228,
+										"h": 91,
+										"w": 91
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 531,
+										"y": 228,
+										"h": 91,
+										"w": 91
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 454,
+										"y": 195,
+										"h": 77,
+										"w": 77
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 257,
+										"y": 110,
+										"h": 44,
+										"w": 44
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1197892328041652200,
+						"id_str": "1197892328041652224",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/media/EJ_EucQWoAAB3Fy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EJ_EucQWoAAB3Fy.jpg",
+						"url": "https://t.co/KW6Ufnscdp",
+						"display_url": "pic.twitter.com/KW6Ufnscdp",
+						"expanded_url": "https://twitter.com/PearlJam/status/1197908849119911936/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1395,
+								"h": 1402,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1194,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 677,
+								"h": 680,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"orig": {
+								"faces": [
+									{
+										"x": 531,
+										"y": 228,
+										"h": 91,
+										"w": 91
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 531,
+										"y": 228,
+										"h": 91,
+										"w": 91
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 454,
+										"y": 195,
+										"h": 77,
+										"w": 77
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 257,
+										"y": 110,
+										"h": 44,
+										"w": 44
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15155074,
+				"id_str": "15155074",
+				"name": "Pearl Jam",
+				"screen_name": "PearlJam",
+				"location": "Seattle, WA",
+				"description": "Check out the latest news, music, and merch at the official PJ site and become a member of Pearl Jam's official Fan Club! https://t.co/m7RuxVW4F1",
+				"url": "https://t.co/J95aoJ5FKF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/J95aoJ5FKF",
+								"expanded_url": "http://www.PearlJam.com",
+								"display_url": "PearlJam.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/m7RuxVW4F1",
+								"expanded_url": "https://pj.lnk.to/10clubTw",
+								"display_url": "pj.lnk.to/10clubTw",
+								"indices": [
+									122,
+									145
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3580585,
+				"friends_count": 889,
+				"listed_count": 17905,
+				"created_at": "Wed Jun 18 06:59:14 +0000 2008",
+				"favourites_count": 4080,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 8001,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1080518633523216385/052VoVS4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080518633523216385/052VoVS4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15155074/1546450710",
+				"profile_link_color": "A17F59",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 120,
+			"favorite_count": 1031,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "At Fame Records Amsterdam for a pre-listen party. Where I met the Bugs posse from the Netherlands for the first time! https://t.co/evLLVQxqr4"
+	},
+	{
 		"created_at": "Fri Nov 22 15:11:29 +0000 2019",
 		"id": 1197895383894110200,
 		"id_str": "1197895383894110208",
