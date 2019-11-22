@@ -1,6 +1,364 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Fri Nov 22 06:07:39 +0000 2019",
+		"id": 1197758520948600800,
+		"id_str": "1197758520948600832",
+		"full_text": "Lieve Twittermensen, als je de afgelopen tijd al moe werd van mijn hosanna gejubel over de #kink1500, mute me vandaag. https://t.co/jpB55CLadV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "kink1500",
+					"indices": [
+						91,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jpB55CLadV",
+					"expanded_url": "https://twitter.com/michielveenstra/status/1197755632285294593",
+					"display_url": "twitter.com/michielveenstr…",
+					"indices": [
+						119,
+						142
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam. Doet verhalen bij Kaliber",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8866,
+			"friends_count": 293,
+			"listed_count": 583,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5540,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60715,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1197755632285294600,
+		"quoted_status_id_str": "1197755632285294593",
+		"quoted_status_permalink": {
+			"url": "https://t.co/jpB55CLadV",
+			"expanded": "https://twitter.com/michielveenstra/status/1197755632285294593",
+			"display": "twitter.com/michielveenstr…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Nov 22 05:56:10 +0000 2019",
+			"id": 1197755632285294600,
+			"id_str": "1197755632285294593",
+			"full_text": "Vandaag is het zover: de laatste dag van de #Kink1500 op @KINKpuntnl! Om 8u beginnen we aan de 125 beste alternatieve tracks ooit gemaakt! Waar luister jij vandaag (en hoe hard kan je radio)? #kinkpuntnl https://t.co/pOUI4aPtMg",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				203
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Kink1500",
+						"indices": [
+							44,
+							53
+						]
+					},
+					{
+						"text": "kinkpuntnl",
+						"indices": [
+							192,
+							203
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "KINKpuntnl",
+						"name": "KINK",
+						"id": 36077942,
+						"id_str": "36077942",
+						"indices": [
+							57,
+							68
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1197755582985449500,
+						"id_str": "1197755582985449472",
+						"indices": [
+							204,
+							227
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EJ9IW1OWsAAz6CP.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EJ9IW1OWsAAz6CP.jpg",
+						"url": "https://t.co/pOUI4aPtMg",
+						"display_url": "pic.twitter.com/pOUI4aPtMg",
+						"expanded_url": "https://twitter.com/michielveenstra/status/1197755632285294593/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 320,
+								"h": 218,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 320,
+								"h": 218,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 320,
+								"h": 218,
+								"resize": "fit"
+							}
+						},
+						"features": {}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1197755582985449500,
+						"id_str": "1197755582985449472",
+						"indices": [
+							204,
+							227
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EJ9IW1OWsAAz6CP.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EJ9IW1OWsAAz6CP.jpg",
+						"url": "https://t.co/pOUI4aPtMg",
+						"display_url": "pic.twitter.com/pOUI4aPtMg",
+						"expanded_url": "https://twitter.com/michielveenstra/status/1197755632285294593/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"large": {
+								"w": 320,
+								"h": 218,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 320,
+								"h": 218,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 320,
+								"h": 218,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								160,
+								109
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/EJ9IW1OWsAAz6CP.mp4"
+								}
+							]
+						},
+						"features": {}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14242065,
+				"id_str": "14242065",
+				"name": "Michiel Veenstra || ꓘINK",
+				"screen_name": "michielveenstra",
+				"location": "Hilversum, The Netherlands",
+				"description": "Elke ochtend op het nieuwe KINK /// Check https://t.co/az1vgYRp6R /// Podcasts & playlists /// Boekingen: https://t.co/fvR4qkQHyR",
+				"url": "https://t.co/BWV68PZIee",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/BWV68PZIee",
+								"expanded_url": "http://www.michielveenstra.nl",
+								"display_url": "michielveenstra.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/az1vgYRp6R",
+								"expanded_url": "http://KINK.nl",
+								"display_url": "KINK.nl",
+								"indices": [
+									42,
+									65
+								]
+							},
+							{
+								"url": "https://t.co/fvR4qkQHyR",
+								"expanded_url": "http://deboeker.nl/",
+								"display_url": "deboeker.nl",
+								"indices": [
+									106,
+									129
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 154218,
+				"friends_count": 1089,
+				"listed_count": 1085,
+				"created_at": "Fri Mar 28 07:13:39 +0000 2008",
+				"favourites_count": 38633,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 76415,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1046840294673661953/6dbbB51O_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1046840294673661953/6dbbB51O_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14242065/1547756318",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Lieve Twittermensen, als je de afgelopen tijd al moe werd van mijn hosanna gejubel over de #kink1500, mute me vandaag. https://t.co/jpB55CLadV"
+	},
+	{
 		"created_at": "Thu Nov 21 21:10:43 +0000 2019",
 		"id": 1197623396596621300,
 		"id_str": "1197623396596621337",
