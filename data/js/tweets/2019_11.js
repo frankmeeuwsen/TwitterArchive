@@ -1,6 +1,409 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Mon Nov 25 18:44:41 +0000 2019",
+		"id": 1199034775782252500,
+		"id_str": "1199036199912058881",
+		"full_text": "The Dutch pre-blogosphere in 1999 originated among others in #XS4ALL homepages, according to the researc of @silvertje and @esthr See: https://t.co/WUHfVOzME8 https://t.co/3KCoMZ9oNd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "XS4ALL",
+					"indices": [
+						61,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "silvertje",
+					"name": "Anne Helmond",
+					"id": 8273852,
+					"id_str": "8273852",
+					"indices": [
+						108,
+						118
+					]
+				},
+				{
+					"screen_name": "esthr",
+					"name": "esther weltevrede",
+					"id": 8104332,
+					"id_str": "8104332",
+					"indices": [
+						123,
+						129
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WUHfVOzME8",
+					"expanded_url": "https://firstmonday.org/ojs/index.php/fm/article/view/3775/3142",
+					"display_url": "firstmonday.org/ojs/index.php/…",
+					"indices": [
+						135,
+						158
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1199034766940688400,
+					"id_str": "1199034766940688384",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/EKPTxIzX0AAc-js.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKPTxIzX0AAc-js.jpg",
+					"url": "https://t.co/3KCoMZ9oNd",
+					"display_url": "pic.twitter.com/3KCoMZ9oNd",
+					"expanded_url": "https://twitter.com/keesone/status/1199034775782252544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 474,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 697,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 697,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1199034766940688400,
+					"id_str": "1199034766940688384",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/EKPTxIzX0AAc-js.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKPTxIzX0AAc-js.jpg",
+					"url": "https://t.co/3KCoMZ9oNd",
+					"display_url": "pic.twitter.com/3KCoMZ9oNd",
+					"expanded_url": "https://twitter.com/keesone/status/1199034775782252544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 474,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 697,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 697,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1199034766944854000,
+					"id_str": "1199034766944854016",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/EKPTxI0XYAAOg_m.png",
+					"media_url_https": "https://pbs.twimg.com/media/EKPTxI0XYAAOg_m.png",
+					"url": "https://t.co/3KCoMZ9oNd",
+					"display_url": "pic.twitter.com/3KCoMZ9oNd",
+					"expanded_url": "https://twitter.com/keesone/status/1199034775782252544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 579,
+							"h": 315,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 579,
+							"h": 315,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 579,
+							"h": 315,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1199034766944821200,
+					"id_str": "1199034766944821249",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/EKPTxI0W4AESNUV.png",
+					"media_url_https": "https://pbs.twimg.com/media/EKPTxI0W4AESNUV.png",
+					"url": "https://t.co/3KCoMZ9oNd",
+					"display_url": "pic.twitter.com/3KCoMZ9oNd",
+					"expanded_url": "https://twitter.com/keesone/status/1199034775782252544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1250,
+							"h": 495,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 475,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 269,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1199034766940659700,
+					"id_str": "1199034766940659712",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/EKPTxIzXYAAVw-d.png",
+					"media_url_https": "https://pbs.twimg.com/media/EKPTxIzXYAAVw-d.png",
+					"url": "https://t.co/3KCoMZ9oNd",
+					"display_url": "pic.twitter.com/3KCoMZ9oNd",
+					"expanded_url": "https://twitter.com/keesone/status/1199034775782252544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1150,
+							"h": 197,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1150,
+							"h": 197,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 116,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15970999,
+			"id_str": "15970999",
+			"name": "Kees Teszelszky",
+			"screen_name": "keesone",
+			"location": "The Hague, The Netherlands",
+			"description": "Curator Digital Collections @KB_Nederland library | born digital heritage| web archaeology | https://t.co/pIaH8D1n1O | earlymodern history→@teszelszky |",
+			"url": "https://t.co/pIaH8D1n1O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pIaH8D1n1O",
+							"expanded_url": "http://lab.kb.nl/person/dr-kees-teszelszky",
+							"display_url": "lab.kb.nl/person/dr-kees…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pIaH8D1n1O",
+							"expanded_url": "http://lab.kb.nl/person/dr-kees-teszelszky",
+							"display_url": "lab.kb.nl/person/dr-kees…",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 972,
+			"friends_count": 1548,
+			"listed_count": 34,
+			"created_at": "Sun Aug 24 18:05:00 +0000 2008",
+			"favourites_count": 4996,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4623,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1020417469243166721/IyKx41sW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1020417469243166721/IyKx41sW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15970999/1551707142",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Dutch pre-blogosphere in 1999 originated among others in #XS4ALL homepages, according to the researc of @silvertje and @esthr See: https://t.co/WUHfVOzME8 https://t.co/3KCoMZ9oNd"
+	},
+	{
 		"created_at": "Mon Nov 25 09:42:50 +0000 2019",
 		"id": 1198899836923318300,
 		"id_str": "1198899836923318274",
