@@ -1,6 +1,451 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Tue Nov 26 15:21:09 +0000 2019",
+		"id": 1199347367738101800,
+		"id_str": "1199347367738101760",
+		"full_text": "@henk038 @elborro @phil1ppa @studiopolkadot @gbartling @arjanknaap @re_mark_er @lydiavdbrink @arjaan @andyhoek Een Path opvolger? https://t.co/li3aA5AGKI",
+		"truncated": false,
+		"display_text_range": [
+			111,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "henk038",
+					"name": "Henk Boshove 🧩",
+					"id": 17979484,
+					"id_str": "17979484",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "elborro",
+					"name": "Rob Verseijden",
+					"id": 22194709,
+					"id_str": "22194709",
+					"indices": [
+						9,
+						17
+					]
+				},
+				{
+					"screen_name": "phil1ppa",
+					"name": "pwadsworth",
+					"id": 30213954,
+					"id_str": "30213954",
+					"indices": [
+						18,
+						27
+					]
+				},
+				{
+					"screen_name": "studiopolkadot",
+					"name": "bianca spierenburg",
+					"id": 19760316,
+					"id_str": "19760316",
+					"indices": [
+						28,
+						43
+					]
+				},
+				{
+					"screen_name": "gbartling",
+					"name": "Gitta Bartling",
+					"id": 19545819,
+					"id_str": "19545819",
+					"indices": [
+						44,
+						54
+					]
+				},
+				{
+					"screen_name": "arjanknaap",
+					"name": "Arjan van der Knaap",
+					"id": 19703385,
+					"id_str": "19703385",
+					"indices": [
+						55,
+						66
+					]
+				},
+				{
+					"screen_name": "re_mark_er",
+					"name": "Mark Aarts",
+					"id": 41169631,
+					"id_str": "41169631",
+					"indices": [
+						67,
+						78
+					]
+				},
+				{
+					"screen_name": "lydiavdbrink",
+					"name": "Lydia van den Brink",
+					"id": 50375776,
+					"id_str": "50375776",
+					"indices": [
+						79,
+						92
+					]
+				},
+				{
+					"screen_name": "arjaan",
+					"name": "Arjaan ☕🌱",
+					"id": 5711642,
+					"id_str": "5711642",
+					"indices": [
+						93,
+						100
+					]
+				},
+				{
+					"screen_name": "andyhoek",
+					"name": "Andy Hoek",
+					"id": 55297430,
+					"id_str": "55297430",
+					"indices": [
+						101,
+						110
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/li3aA5AGKI",
+					"expanded_url": "https://twitter.com/alexcornell/status/1198990663758442497?s=20",
+					"display_url": "twitter.com/alexcornell/st…",
+					"indices": [
+						130,
+						153
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1198018336669479000,
+		"in_reply_to_status_id_str": "1198018336669478916",
+		"in_reply_to_user_id": 17979484,
+		"in_reply_to_user_id_str": "17979484",
+		"in_reply_to_screen_name": "henk038",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam. Doet verhalen bij Kaliber",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8865,
+			"friends_count": 301,
+			"listed_count": 584,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5572,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60738,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1198990663758442500,
+		"quoted_status_id_str": "1198990663758442497",
+		"quoted_status_permalink": {
+			"url": "https://t.co/li3aA5AGKI",
+			"expanded": "https://twitter.com/alexcornell/status/1198990663758442497?s=20",
+			"display": "twitter.com/alexcornell/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Nov 25 15:43:45 +0000 2019",
+			"id": 1198990663758442500,
+			"id_str": "1198990663758442497",
+			"full_text": "1/ It's been a year since @SachinMonga and I left Facebook. Since then, we've been working on a new app, Cocoon, which is launching today: https://t.co/oln3T2GJHN\n\nCocoon is a private space for the most important people in your life. You can see an overview here: https://t.co/WDoADBMbJh",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				263
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "SachinMonga",
+						"name": "Sachin Monga",
+						"id": 90806689,
+						"id_str": "90806689",
+						"indices": [
+							26,
+							38
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/oln3T2GJHN",
+						"expanded_url": "http://cocoon.com",
+						"display_url": "cocoon.com",
+						"indices": [
+							139,
+							162
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1198990422158143500,
+						"id_str": "1198990422158143490",
+						"indices": [
+							264,
+							287
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1198990422158143490/pu/img/kd9AoXHw3CAmNMBY.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1198990422158143490/pu/img/kd9AoXHw3CAmNMBY.jpg",
+						"url": "https://t.co/WDoADBMbJh",
+						"display_url": "pic.twitter.com/WDoADBMbJh",
+						"expanded_url": "https://twitter.com/alexcornell/status/1198990663758442497/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"features": {}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1198990422158143500,
+						"id_str": "1198990422158143490",
+						"indices": [
+							264,
+							287
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1198990422158143490/pu/img/kd9AoXHw3CAmNMBY.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1198990422158143490/pu/img/kd9AoXHw3CAmNMBY.jpg",
+						"url": "https://t.co/WDoADBMbJh",
+						"display_url": "pic.twitter.com/WDoADBMbJh",
+						"expanded_url": "https://twitter.com/alexcornell/status/1198990663758442497/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 105805,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1198990422158143490/pu/vid/480x270/MufsHl2HLqJ_Mr4k.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1198990422158143490/pu/vid/640x360/d60qf4aXgdefzfEG.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1198990422158143490/pu/pl/ewql-De0qkn2YJHH.m3u8?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1198990422158143490/pu/vid/1280x720/hRs2HZbwzzs8vOg_.mp4?tag=10"
+								}
+							]
+						},
+						"features": {},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15528431,
+				"id_str": "15528431",
+				"name": "Alex Cornell",
+				"screen_name": "alexcornell",
+				"location": "San Francisco",
+				"description": "Cofounder, Design @Cocoon_HQ. Previously: Facebook, Moonbase, UberConference, ISO50.",
+				"url": "https://t.co/AJxTvqglHp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/AJxTvqglHp",
+								"expanded_url": "http://www.alexcornell.com",
+								"display_url": "alexcornell.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13197,
+				"friends_count": 550,
+				"listed_count": 448,
+				"created_at": "Tue Jul 22 09:01:02 +0000 2008",
+				"favourites_count": 5084,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 7123,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1A1A",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/608303118468661248/D6wkPQqa_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/608303118468661248/D6wkPQqa_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15528431/1423770254",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "363636",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 453,
+			"favorite_count": 3068,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@henk038 @elborro @phil1ppa @studiopolkadot @gbartling @arjanknaap @re_mark_er @lydiavdbrink @arjaan @andyhoek Een Path opvolger? https://t.co/li3aA5AGKI"
+	},
+	{
 		"created_at": "Mon Nov 25 18:44:41 +0000 2019",
 		"id": 1199034775782252500,
 		"id_str": "1199036199912058881",
