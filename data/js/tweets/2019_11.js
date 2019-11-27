@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Wed Nov 27 15:20:57 +0000 2019",
+		"id": 1199709703166713900,
+		"id_str": "1199709703166713856",
+		"full_text": "Kan iemand mij deze meme uitleggen? Ik zie hem al een paar dagen in diverse vormen langskomen. https://t.co/fRZWDsC4CB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fRZWDsC4CB",
+					"expanded_url": "https://twitter.com/mozdevnet/status/1199708467499601920",
+					"display_url": "twitter.com/mozdevnet/stat…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam. Doet verhalen bij Kaliber",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8866,
+			"friends_count": 303,
+			"listed_count": 584,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5572,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60740,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1199708467499602000,
+		"quoted_status_id_str": "1199708467499601920",
+		"quoted_status_permalink": {
+			"url": "https://t.co/fRZWDsC4CB",
+			"expanded": "https://twitter.com/mozdevnet/status/1199708467499601920",
+			"display": "twitter.com/mozdevnet/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Nov 27 15:16:02 +0000 2019",
+			"id": 1199708467499602000,
+			"id_str": "1199708467499601920",
+			"full_text": "Flight attendant: Is there a doctor onboard?\n\nDad: *nudging me* that should've been you\n\nMe: Not now Dad\n\nDad: Not asking for a Developer to help, are they?\n\nMe: Dad, it's a medical emergency\n\nDad: Go and see if “Debugging\" helps.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				230
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1317739632,
+				"id_str": "1317739632",
+				"name": "MDN Web Docs",
+				"screen_name": "MozDevNet",
+				"location": "Worldwide!",
+				"description": "The official MDN account. We deliver the best web docs around (with your help!).\nOur newsletter: https://t.co/hz5h3NLfFK",
+				"url": "http://t.co/UwwcG4lY0Y",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/UwwcG4lY0Y",
+								"expanded_url": "http://developer.mozilla.org",
+								"display_url": "developer.mozilla.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/hz5h3NLfFK",
+								"expanded_url": "https://www.mozilla.org/en-US/newsletter/developer/",
+								"display_url": "mozilla.org/en-US/newslett…",
+								"indices": [
+									97,
+									120
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 22816,
+				"friends_count": 961,
+				"listed_count": 668,
+				"created_at": "Sun Mar 31 05:09:49 +0000 2013",
+				"favourites_count": 4351,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 4415,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/880614604115775489/LNPwoiWi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/880614604115775489/LNPwoiWi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1317739632/1498789845",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Kan iemand mij deze meme uitleggen? Ik zie hem al een paar dagen in diverse vormen langskomen. https://t.co/fRZWDsC4CB"
+	},
+	{
 		"created_at": "Tue Nov 26 16:51:57 +0000 2019",
 		"id": 1199370216435802000,
 		"id_str": "1199370216435802112",
