@@ -1,6 +1,134 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Thu Nov 28 15:45:56 +0000 2019",
+		"id": 1200078376649842700,
+		"id_str": "1200078376649842689",
+		"full_text": "@SanneW Spotify’s uitleg van hun bedrijfscultuur? De video van o.a. @lykle en @patrickloonstra over wat de Blockchain nu eigenlijk is? Zoiets?",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SanneW",
+					"name": "Sanne W",
+					"id": 2547771,
+					"id_str": "2547771",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "lykle",
+					"name": "Lykle de Vries",
+					"id": 5146031,
+					"id_str": "5146031",
+					"indices": [
+						68,
+						74
+					]
+				},
+				{
+					"screen_name": "patrickloonstra",
+					"name": "Patrick (official) 🕶",
+					"id": 9647022,
+					"id_str": "9647022",
+					"indices": [
+						78,
+						94
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1200071747699126300,
+		"in_reply_to_status_id_str": "1200071747699126277",
+		"in_reply_to_user_id": 2547771,
+		"in_reply_to_user_id_str": "2547771",
+		"in_reply_to_screen_name": "SanneW",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam. Doet verhalen bij Kaliber",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8870,
+			"friends_count": 305,
+			"listed_count": 584,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5578,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60750,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@SanneW Spotify’s uitleg van hun bedrijfscultuur? De video van o.a. @lykle en @patrickloonstra over wat de Blockchain nu eigenlijk is? Zoiets?"
+	},
+	{
 		"created_at": "Thu Nov 28 14:30:03 +0000 2019",
 		"id": 1200059281543966700,
 		"id_str": "1200059281543966726",
