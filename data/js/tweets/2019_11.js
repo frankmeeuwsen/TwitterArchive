@@ -1,6 +1,249 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Thu Nov 28 21:34:25 +0000 2019",
+		"id": 1200166078284009500,
+		"id_str": "1200166078284009478",
+		"full_text": "Hoor je het ook eens van een ander! ;-) https://t.co/2eIFK6oypC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2eIFK6oypC",
+					"expanded_url": "https://twitter.com/fzelders/status/1200157796249079808",
+					"display_url": "twitter.com/fzelders/statu…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam. Doet verhalen bij Kaliber",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8871,
+			"friends_count": 304,
+			"listed_count": 584,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5579,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60752,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1200157796249079800,
+		"quoted_status_id_str": "1200157796249079808",
+		"quoted_status_permalink": {
+			"url": "https://t.co/2eIFK6oypC",
+			"expanded": "https://twitter.com/fzelders/status/1200157796249079808",
+			"display": "twitter.com/fzelders/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Nov 28 21:01:31 +0000 2019",
+			"id": 1200157796249079800,
+			"id_str": "1200157796249079808",
+			"full_text": "Ik heb mij net aangemeld voor deze nieuwsbrief. Zou je ook moeten doen! 👀 https://t.co/7jlv5G4lmZ via @revue",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				108
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "revue",
+						"name": "Revue",
+						"id": 3001165942,
+						"id_str": "3001165942",
+						"indices": [
+							102,
+							108
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/7jlv5G4lmZ",
+						"expanded_url": "http://nieuws.diggingthedigital.com/",
+						"display_url": "nieuws.diggingthedigital.com",
+						"indices": [
+							74,
+							97
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 8511492,
+				"id_str": "8511492",
+				"name": "FredZ",
+				"screen_name": "FZelders",
+				"location": "Son en Breugel, Nederland (NL)",
+				"description": "♥ Wilma | ♥ Brabant | Son en Breugel | Geeft @MacLessen | Mac | iPad | iPhone | Fotografeert met iPhone | Instagram-fredzelders | https://t.co/wdmryVpiso",
+				"url": "https://t.co/BidetFNho8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/BidetFNho8",
+								"expanded_url": "https://fredzelders.nl",
+								"display_url": "fredzelders.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/wdmryVpiso",
+								"expanded_url": "http://fredzelders.nl",
+								"display_url": "fredzelders.nl",
+								"indices": [
+									130,
+									153
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 620,
+				"friends_count": 377,
+				"listed_count": 62,
+				"created_at": "Wed Aug 29 14:03:32 +0000 2007",
+				"favourites_count": 2158,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 24701,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1156597707152207873/vxiEwEA1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1156597707152207873/vxiEwEA1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/8511492/1449332412",
+				"profile_link_color": "29A0CC",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Hoor je het ook eens van een ander! ;-) https://t.co/2eIFK6oypC"
+	},
+	{
 		"created_at": "Thu Nov 28 17:05:35 +0000 2019",
 		"id": 1200098422914715600,
 		"id_str": "1200098422914715654",
