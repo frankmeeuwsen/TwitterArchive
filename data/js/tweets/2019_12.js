@@ -1,6 +1,228 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Tue Dec 03 11:46:07 +0000 2019",
+		"id": 1201829964234006500,
+		"id_str": "1201829964234006528",
+		"full_text": "Kan 2020 een kanteljaar worden voor de gebruikelijke online (data-surveillance) diensten en services? https://t.co/Ip4524Omze",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ip4524Omze",
+					"expanded_url": "https://twitter.com/dhh/status/1201637965757206528",
+					"display_url": "twitter.com/dhh/status/120…",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam. Doet verhalen bij Kaliber",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8872,
+			"friends_count": 308,
+			"listed_count": 584,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5595,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60769,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1201637965757206500,
+		"quoted_status_id_str": "1201637965757206528",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Ip4524Omze",
+			"expanded": "https://twitter.com/dhh/status/1201637965757206528",
+			"display": "twitter.com/dhh/status/120…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 02 23:03:11 +0000 2019",
+			"id": 1201637965757206500,
+			"id_str": "1201637965757206528",
+			"full_text": "\"I had, based on zero evidence, convinced myself that finding things on the internet was hard and, inevitably, involved a fair amount of tracking. After two years of not being tracked and targeted, I have slowly come to realize that this is nonsense.\", https://t.co/uc1m6dxOeB",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				276
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/uc1m6dxOeB",
+						"expanded_url": "https://www.wired.com/story/i-ditched-google-for-duckduckgo-heres-why-you-should-too/",
+						"display_url": "wired.com/story/i-ditche…",
+						"indices": [
+							253,
+							276
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14561327,
+				"id_str": "14561327",
+				"name": "DHH",
+				"screen_name": "dhh",
+				"location": "",
+				"description": "Creator of Ruby on Rails, Founder & CTO at Basecamp, NYT best-selling author, and Le Mans 24h class-winning racing driver.",
+				"url": "https://t.co/472m0ihZkH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/472m0ihZkH",
+								"expanded_url": "https://dhh.dk",
+								"display_url": "dhh.dk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 362957,
+				"friends_count": 134,
+				"listed_count": 9747,
+				"created_at": "Sun Apr 27 20:19:25 +0000 2008",
+				"favourites_count": 11021,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 45598,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/975876868455809024/eK7mDppU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/975876868455809024/eK7mDppU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14561327/1539031099",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 313,
+			"favorite_count": 1064,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Kan 2020 een kanteljaar worden voor de gebruikelijke online (data-surveillance) diensten en services? https://t.co/Ip4524Omze"
+	},
+	{
 		"created_at": "Tue Dec 03 11:16:16 +0000 2019",
 		"id": 1201822455570075600,
 		"id_str": "1201822455570075649",
