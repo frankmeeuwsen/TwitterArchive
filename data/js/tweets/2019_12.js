@@ -1,6 +1,210 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Tue Dec 03 19:40:48 +0000 2019",
+		"id": 1201524194552565800,
+		"id_str": "1201949423875563520",
+		"full_text": "intitle:\"index of\" \"id_rsa\" https://t.co/VhXPlVwstd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1201524186310729700,
+					"id_str": "1201524186310729731",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/EKyr4aoXYAMZyX4.png",
+					"media_url_https": "https://pbs.twimg.com/media/EKyr4aoXYAMZyX4.png",
+					"url": "https://t.co/VhXPlVwstd",
+					"display_url": "pic.twitter.com/VhXPlVwstd",
+					"expanded_url": "https://twitter.com/_sp0re/status/1201524194552565761/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 149,
+							"h": 149,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 287,
+							"h": 149,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 287,
+							"h": 149,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 287,
+							"h": 149,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1201524186310729700,
+					"id_str": "1201524186310729731",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/EKyr4aoXYAMZyX4.png",
+					"media_url_https": "https://pbs.twimg.com/media/EKyr4aoXYAMZyX4.png",
+					"url": "https://t.co/VhXPlVwstd",
+					"display_url": "pic.twitter.com/VhXPlVwstd",
+					"expanded_url": "https://twitter.com/_sp0re/status/1201524194552565761/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 149,
+							"h": 149,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 287,
+							"h": 149,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 287,
+							"h": 149,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 287,
+							"h": 149,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1065926495904956400,
+			"id_str": "1065926495904956416",
+			"name": "sp0re",
+			"screen_name": "_sp0re",
+			"location": "~",
+			"description": "Click shit get hit",
+			"url": "https://t.co/usMI7vysa0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/usMI7vysa0",
+							"expanded_url": "https://sp0re.sh",
+							"display_url": "sp0re.sh",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 475,
+			"friends_count": 198,
+			"listed_count": 6,
+			"created_at": "Fri Nov 23 11:14:15 +0000 2018",
+			"favourites_count": 187,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 160,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1172563118322540544/NHNDLvyI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1172563118322540544/NHNDLvyI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1065926495904956416/1568962289",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 71,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "intitle:\"index of\" \"id_rsa\" https://t.co/VhXPlVwstd"
+	},
+	{
 		"created_at": "Tue Dec 03 11:46:07 +0000 2019",
 		"id": 1201829964234006500,
 		"id_str": "1201829964234006528",
