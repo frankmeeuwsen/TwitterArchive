@@ -1,6 +1,408 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Wed Dec 04 18:55:35 +0000 2019",
+		"id": 1202300431172558800,
+		"id_str": "1202300431172558848",
+		"full_text": "Mijn eerste Ten Club single die ik destijds kreeg. Nog altijd een magische song. https://t.co/0k3Q4sKyQg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0k3Q4sKyQg",
+					"expanded_url": "https://twitter.com/pearljam/status/1202294158112829441",
+					"display_url": "twitter.com/pearljam/statu…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam. Doet verhalen bij Kaliber",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8871,
+			"friends_count": 308,
+			"listed_count": 584,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5592,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60776,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1202294158112829400,
+		"quoted_status_id_str": "1202294158112829441",
+		"quoted_status_permalink": {
+			"url": "https://t.co/0k3Q4sKyQg",
+			"expanded": "https://twitter.com/pearljam/status/1202294158112829441",
+			"display": "twitter.com/pearljam/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 04 18:30:39 +0000 2019",
+			"id": 1202294158112829400,
+			"id_str": "1202294158112829441",
+			"full_text": "It's Day 3 of #12DaysOfPJ! \"Angel\" is today's vinyl single from 1993. These copies were given to the members of the then three-year old Ten Club. Stream \"Angel\" now: https://t.co/nF5ZNHWfBE https://t.co/nbesbxEXzT",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				189
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "12DaysOfPJ",
+						"indices": [
+							14,
+							25
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/nF5ZNHWfBE",
+						"expanded_url": "http://pj.lnk.to/12Days_2019Tw",
+						"display_url": "pj.lnk.to/12Days_2019Tw",
+						"indices": [
+							166,
+							189
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1202294153691971600,
+						"id_str": "1202294153691971585",
+						"indices": [
+							190,
+							213
+						],
+						"media_url": "http://pbs.twimg.com/media/EK9oKapWwAE3qhR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EK9oKapWwAE3qhR.jpg",
+						"url": "https://t.co/nbesbxEXzT",
+						"display_url": "pic.twitter.com/nbesbxEXzT",
+						"expanded_url": "https://twitter.com/PearlJam/status/1202294158112829441/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 600,
+								"h": 601,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 600,
+								"h": 601,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 601,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"small": {
+								"faces": [
+									{
+										"x": 10,
+										"y": 487,
+										"h": 64,
+										"w": 64
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 10,
+										"y": 487,
+										"h": 64,
+										"w": 64
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 10,
+										"y": 487,
+										"h": 64,
+										"w": 64
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 10,
+										"y": 487,
+										"h": 64,
+										"w": 64
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1202294153691971600,
+						"id_str": "1202294153691971585",
+						"indices": [
+							190,
+							213
+						],
+						"media_url": "http://pbs.twimg.com/media/EK9oKapWwAE3qhR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EK9oKapWwAE3qhR.jpg",
+						"url": "https://t.co/nbesbxEXzT",
+						"display_url": "pic.twitter.com/nbesbxEXzT",
+						"expanded_url": "https://twitter.com/PearlJam/status/1202294158112829441/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 600,
+								"h": 601,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 600,
+								"h": 601,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 601,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"small": {
+								"faces": [
+									{
+										"x": 10,
+										"y": 487,
+										"h": 64,
+										"w": 64
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 10,
+										"y": 487,
+										"h": 64,
+										"w": 64
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 10,
+										"y": 487,
+										"h": 64,
+										"w": 64
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 10,
+										"y": 487,
+										"h": 64,
+										"w": 64
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15155074,
+				"id_str": "15155074",
+				"name": "Pearl Jam",
+				"screen_name": "PearlJam",
+				"location": "Seattle, WA",
+				"description": "Check out the latest news, music, and merch at the official PJ site and become a member of Pearl Jam's official Fan Club! https://t.co/m7RuxVW4F1",
+				"url": "https://t.co/J95aoJ5FKF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/J95aoJ5FKF",
+								"expanded_url": "http://www.PearlJam.com",
+								"display_url": "PearlJam.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/m7RuxVW4F1",
+								"expanded_url": "https://pj.lnk.to/10clubTw",
+								"display_url": "pj.lnk.to/10clubTw",
+								"indices": [
+									122,
+									145
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3579378,
+				"friends_count": 893,
+				"listed_count": 17908,
+				"created_at": "Wed Jun 18 06:59:14 +0000 2008",
+				"favourites_count": 4097,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 8028,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1080518633523216385/052VoVS4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080518633523216385/052VoVS4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15155074/1546450710",
+				"profile_link_color": "A17F59",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 33,
+			"favorite_count": 219,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Mijn eerste Ten Club single die ik destijds kreeg. Nog altijd een magische song. https://t.co/0k3Q4sKyQg"
+	},
+	{
 		"created_at": "Wed Dec 04 15:50:30 +0000 2019",
 		"id": 1202253856731803600,
 		"id_str": "1202253856731803648",
