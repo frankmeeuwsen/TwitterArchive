@@ -1,6 +1,281 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Thu Dec 05 04:33:09 +0000 2019",
+		"id": 1202290088333496300,
+		"id_str": "1202445782961537024",
+		"full_text": "Watching the Muppet performers at work always brings a smile to my face ❤️ https://t.co/lqhhUdwziH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1141479620006555600,
+					"id_str": "1141479620006555648",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1141479620006555648/pu/img/TZXN_zomQi8LioQC.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1141479620006555648/pu/img/TZXN_zomQi8LioQC.jpg",
+					"url": "https://t.co/lqhhUdwziH",
+					"display_url": "pic.twitter.com/lqhhUdwziH",
+					"expanded_url": "https://twitter.com/HistoryMuppet/status/1141479684561133568/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1141479684561133600,
+					"source_status_id_str": "1141479684561133568",
+					"source_user_id": 1049365727705288700,
+					"source_user_id_str": "1049365727705288704",
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1141479620006555600,
+					"id_str": "1141479620006555648",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1141479620006555648/pu/img/TZXN_zomQi8LioQC.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1141479620006555648/pu/img/TZXN_zomQi8LioQC.jpg",
+					"url": "https://t.co/lqhhUdwziH",
+					"display_url": "pic.twitter.com/lqhhUdwziH",
+					"expanded_url": "https://twitter.com/HistoryMuppet/status/1141479684561133568/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1141479684561133600,
+					"source_status_id_str": "1141479684561133568",
+					"source_user_id": 1049365727705288700,
+					"source_user_id_str": "1049365727705288704",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 27685,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1141479620006555648/pu/vid/640x360/4YmCbtk2dt8unBWX.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1141479620006555648/pu/vid/480x270/_kcUJ28yGaRs95gu.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1141479620006555648/pu/pl/0JtBXFlc5zLBD2Yb.m3u8?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 1049365727705288700,
+							"id_str": "1049365727705288704",
+							"name": "🎄Muppet History 🕎",
+							"screen_name": "HistoryMuppet",
+							"location": "",
+							"description": "Classic clips, fun facts, and continuing the spirit of Jim Henson. Not affiliated with Henson or Disney. (He/Him) Created by @HalfHearted_JG",
+							"url": "https://t.co/vT7glYwzDK",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/vT7glYwzDK",
+											"expanded_url": "http://muppethistory.blogspot.com/",
+											"display_url": "muppethistory.blogspot.com",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 96609,
+							"friends_count": 774,
+							"listed_count": 268,
+							"created_at": "Mon Oct 08 18:27:40 +0000 2018",
+							"favourites_count": 24334,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 9752,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1202032934242439169/xhzzUsPA_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1202032934242439169/xhzzUsPA_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1049365727705288704/1575136423",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": true,
+							"default_profile_image": false,
+							"can_media_tag": true,
+							"followed_by": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1049365727705288700,
+			"id_str": "1049365727705288704",
+			"name": "🎄Muppet History 🕎",
+			"screen_name": "HistoryMuppet",
+			"location": "",
+			"description": "Classic clips, fun facts, and continuing the spirit of Jim Henson. Not affiliated with Henson or Disney. (He/Him) Created by @HalfHearted_JG",
+			"url": "https://t.co/vT7glYwzDK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vT7glYwzDK",
+							"expanded_url": "http://muppethistory.blogspot.com/",
+							"display_url": "muppethistory.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 96609,
+			"friends_count": 774,
+			"listed_count": 268,
+			"created_at": "Mon Oct 08 18:27:40 +0000 2018",
+			"favourites_count": 24334,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9752,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1202032934242439169/xhzzUsPA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1202032934242439169/xhzzUsPA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1049365727705288704/1575136423",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 530,
+		"favorite_count": 2432,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Watching the Muppet performers at work always brings a smile to my face ❤️ https://t.co/lqhhUdwziH"
+	},
+	{
 		"created_at": "Wed Dec 04 18:55:35 +0000 2019",
 		"id": 1202300431172558800,
 		"id_str": "1202300431172558848",
