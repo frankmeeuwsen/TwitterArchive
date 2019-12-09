@@ -1,6 +1,215 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Mon Dec 09 16:01:44 +0000 2019",
+		"id": 1204068622433476600,
+		"id_str": "1204068622433476608",
+		"full_text": "Wie heeft ervaring met het automatiseren van PDF export en email van Google Sheets en wil mij helpen met een privé projectje om een declaratieproces te vereenvoudigen? Zie https://t.co/tUQpzei8oX voor de details. #lifehacking https://t.co/pMa3bLzh2e",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "lifehacking",
+					"indices": [
+						213,
+						225
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tUQpzei8oX",
+					"expanded_url": "https://diggingthedigital.com/4522-2/",
+					"display_url": "diggingthedigital.com/4522-2/",
+					"indices": [
+						172,
+						195
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1204068613927456800,
+					"id_str": "1204068613927456768",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ELW2BmJX0AARzr7.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ELW2BmJX0AARzr7.jpg",
+					"url": "https://t.co/pMa3bLzh2e",
+					"display_url": "pic.twitter.com/pMa3bLzh2e",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1204068622433476608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1204068613927456800,
+					"id_str": "1204068613927456768",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ELW2BmJX0AARzr7.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ELW2BmJX0AARzr7.jpg",
+					"url": "https://t.co/pMa3bLzh2e",
+					"display_url": "pic.twitter.com/pMa3bLzh2e",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1204068622433476608/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/ELW2BmJX0AARzr7.mp4"
+							}
+						]
+					},
+					"features": {}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam. Doet verhalen bij Kaliber",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8868,
+			"friends_count": 309,
+			"listed_count": 584,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5608,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60800,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Wie heeft ervaring met het automatiseren van PDF export en email van Google Sheets en wil mij helpen met een privé projectje om een declaratieproces te vereenvoudigen? Zie https://t.co/tUQpzei8oX voor de details. #lifehacking https://t.co/pMa3bLzh2e"
+	},
+	{
 		"created_at": "Sun Dec 08 18:02:29 +0000 2019",
 		"id": 1203736622589792300,
 		"id_str": "1203736622589792264",
