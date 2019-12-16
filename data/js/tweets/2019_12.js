@@ -1,6 +1,462 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Mon Dec 16 07:57:28 +0000 2019",
+		"id": 1206308502349779000,
+		"id_str": "1206483466466058246",
+		"full_text": "Baking hack: Chop off Angel head for a homemade Baby Yoda cookie cutter. https://t.co/468STyeXrT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1206308495856824300,
+					"id_str": "1206308495856824320",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/EL2rL4kU8AAcFeg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL2rL4kU8AAcFeg.jpg",
+					"url": "https://t.co/468STyeXrT",
+					"display_url": "pic.twitter.com/468STyeXrT",
+					"expanded_url": "https://twitter.com/JRMcGrail/status/1206308502349778947/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 853,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 853,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 431,
+									"y": 258,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 50,
+									"y": 170,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 44,
+									"y": 317,
+									"h": 95,
+									"w": 95
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 542,
+									"y": 325,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 63,
+									"y": 214,
+									"h": 106,
+									"w": 106
+								},
+								{
+									"x": 56,
+									"y": 399,
+									"h": 120,
+									"w": 120
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 542,
+									"y": 325,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 63,
+									"y": 214,
+									"h": 106,
+									"w": 106
+								},
+								{
+									"x": 56,
+									"y": 399,
+									"h": 120,
+									"w": 120
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 542,
+									"y": 325,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 63,
+									"y": 214,
+									"h": 106,
+									"w": 106
+								},
+								{
+									"x": 56,
+									"y": 399,
+									"h": 120,
+									"w": 120
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1206308495856824300,
+					"id_str": "1206308495856824320",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/EL2rL4kU8AAcFeg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL2rL4kU8AAcFeg.jpg",
+					"url": "https://t.co/468STyeXrT",
+					"display_url": "pic.twitter.com/468STyeXrT",
+					"expanded_url": "https://twitter.com/JRMcGrail/status/1206308502349778947/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 853,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 853,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 431,
+									"y": 258,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 50,
+									"y": 170,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 44,
+									"y": 317,
+									"h": 95,
+									"w": 95
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 542,
+									"y": 325,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 63,
+									"y": 214,
+									"h": 106,
+									"w": 106
+								},
+								{
+									"x": 56,
+									"y": 399,
+									"h": 120,
+									"w": 120
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 542,
+									"y": 325,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 63,
+									"y": 214,
+									"h": 106,
+									"w": 106
+								},
+								{
+									"x": 56,
+									"y": 399,
+									"h": 120,
+									"w": 120
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 542,
+									"y": 325,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 63,
+									"y": 214,
+									"h": 106,
+									"w": 106
+								},
+								{
+									"x": 56,
+									"y": 399,
+									"h": 120,
+									"w": 120
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1206308498214027300,
+					"id_str": "1206308498214027264",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/EL2rMBWVAAAkdq0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL2rMBWVAAAkdq0.jpg",
+					"url": "https://t.co/468STyeXrT",
+					"display_url": "pic.twitter.com/468STyeXrT",
+					"expanded_url": "https://twitter.com/JRMcGrail/status/1206308502349778947/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 853,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 853,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1206308500504055800,
+					"id_str": "1206308500504055808",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/EL2rMJ4UEAA78BN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL2rMJ4UEAA78BN.jpg",
+					"url": "https://t.co/468STyeXrT",
+					"display_url": "pic.twitter.com/468STyeXrT",
+					"expanded_url": "https://twitter.com/JRMcGrail/status/1206308502349778947/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 853,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 853,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 25809254,
+			"id_str": "25809254",
+			"name": "J.R. McGrail 📎",
+			"screen_name": "JRMcGrail",
+			"location": " ¯\\_(ツ)_/¯  NYC, NY USA",
+			"description": "I'm far too outspoken. It's one of my worst faults. Ad Guy/Ski Bum. Not everyone's cup of tea. Besides, most of you bastards drink coffee.",
+			"url": "https://t.co/AzrUPfVipR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AzrUPfVipR",
+							"expanded_url": "http://www.Facebook.com/jrmcgrail",
+							"display_url": "Facebook.com/jrmcgrail",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1755,
+			"friends_count": 4978,
+			"listed_count": 96,
+			"created_at": "Sun Mar 22 11:54:08 +0000 2009",
+			"favourites_count": 12736,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 203421,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983771953675849728/ibrR_gnf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983771953675849728/ibrR_gnf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/25809254/1407777079",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2633,
+		"favorite_count": 12432,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Baking hack: Chop off Angel head for a homemade Baby Yoda cookie cutter. https://t.co/468STyeXrT"
+	},
+	{
 		"created_at": "Sat Dec 14 16:22:50 +0000 2019",
 		"id": 1205885872069058600,
 		"id_str": "1205885872069058566",
