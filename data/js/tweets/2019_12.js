@@ -1,6 +1,588 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Mon Dec 16 14:18:33 +0000 2019",
+		"id": 1206579369831010300,
+		"id_str": "1206579369831010305",
+		"full_text": "@noukkasigne Geen puppie. Geen kitten. Maar euh... Dit. https://t.co/JQZ0xHkfHi",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "noukkasigne",
+					"name": "Noukka 🐨",
+					"id": 23211333,
+					"id_str": "23211333",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1206579363501793300,
+					"id_str": "1206579363501793280",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/EL6hidLXYAAjOYR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL6hidLXYAAjOYR.jpg",
+					"url": "https://t.co/JQZ0xHkfHi",
+					"display_url": "pic.twitter.com/JQZ0xHkfHi",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1206579369831010305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 597,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 659,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 659,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1206579363501793300,
+					"id_str": "1206579363501793280",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/EL6hidLXYAAjOYR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL6hidLXYAAjOYR.jpg",
+					"url": "https://t.co/JQZ0xHkfHi",
+					"display_url": "pic.twitter.com/JQZ0xHkfHi",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1206579369831010305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 597,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 659,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 659,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1206537073169256400,
+		"in_reply_to_status_id_str": "1206537073169256448",
+		"in_reply_to_user_id": 23211333,
+		"in_reply_to_user_id_str": "23211333",
+		"in_reply_to_screen_name": "noukkasigne",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam. Doet verhalen bij Kaliber",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8871,
+			"friends_count": 315,
+			"listed_count": 584,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5633,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60843,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@noukkasigne Geen puppie. Geen kitten. Maar euh... Dit. https://t.co/JQZ0xHkfHi"
+	},
+	{
+		"created_at": "Mon Dec 16 14:07:23 +0000 2019",
+		"id": 1206576558619672600,
+		"id_str": "1206576558619672578",
+		"full_text": "Een stukje Eddie \"Happy little accidents\" Ross/Vedder voor de likes en LOLs. #12DaydOfPJ #PearlJam https://t.co/wUYjqZuwdq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "12DaydOfPJ",
+					"indices": [
+						77,
+						88
+					]
+				},
+				{
+					"text": "PearlJam",
+					"indices": [
+						89,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1206576553905283000,
+					"id_str": "1206576553905283072",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/EL6e-6nW4AAgmyg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL6e-6nW4AAgmyg.jpg",
+					"url": "https://t.co/wUYjqZuwdq",
+					"display_url": "pic.twitter.com/wUYjqZuwdq",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1206576558619672578/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 399,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 399,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 377,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "21687228",
+									"screen_name": "roosvanvugt",
+									"name": "Roos van Vugt"
+								},
+								{
+									"type": "user",
+									"user_id": "10153142",
+									"screen_name": "pvdp",
+									"name": "Peter van der Ploeg"
+								},
+								{
+									"type": "user",
+									"user_id": "1858541",
+									"screen_name": "Markies",
+									"name": "Mark de Kock"
+								},
+								{
+									"type": "user",
+									"user_id": "14264386",
+									"screen_name": "remkusdevries",
+									"name": "Remkus de Vries"
+								},
+								{
+									"type": "user",
+									"user_id": "26492815",
+									"screen_name": "ChristaRomp",
+									"name": "Christa Romp"
+								},
+								{
+									"type": "user",
+									"user_id": "2933941318",
+									"screen_name": "PearlJamHolland",
+									"name": "Pearl Jam Holland"
+								},
+								{
+									"type": "user",
+									"user_id": "6294872",
+									"screen_name": "Scheer",
+									"name": "Maarten Scheer"
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 467,
+									"y": 50,
+									"h": 197,
+									"w": 197
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 467,
+									"y": 50,
+									"h": 197,
+									"w": 197
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 467,
+									"y": 50,
+									"h": 197,
+									"w": 197
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 441,
+									"y": 47,
+									"h": 186,
+									"w": 186
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1206576553905283000,
+					"id_str": "1206576553905283072",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/EL6e-6nW4AAgmyg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL6e-6nW4AAgmyg.jpg",
+					"url": "https://t.co/wUYjqZuwdq",
+					"display_url": "pic.twitter.com/wUYjqZuwdq",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1206576558619672578/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 399,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 399,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 377,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "21687228",
+									"screen_name": "roosvanvugt",
+									"name": "Roos van Vugt"
+								},
+								{
+									"type": "user",
+									"user_id": "10153142",
+									"screen_name": "pvdp",
+									"name": "Peter van der Ploeg"
+								},
+								{
+									"type": "user",
+									"user_id": "1858541",
+									"screen_name": "Markies",
+									"name": "Mark de Kock"
+								},
+								{
+									"type": "user",
+									"user_id": "14264386",
+									"screen_name": "remkusdevries",
+									"name": "Remkus de Vries"
+								},
+								{
+									"type": "user",
+									"user_id": "26492815",
+									"screen_name": "ChristaRomp",
+									"name": "Christa Romp"
+								},
+								{
+									"type": "user",
+									"user_id": "2933941318",
+									"screen_name": "PearlJamHolland",
+									"name": "Pearl Jam Holland"
+								},
+								{
+									"type": "user",
+									"user_id": "6294872",
+									"screen_name": "Scheer",
+									"name": "Maarten Scheer"
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 467,
+									"y": 50,
+									"h": 197,
+									"w": 197
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 467,
+									"y": 50,
+									"h": 197,
+									"w": 197
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 467,
+									"y": 50,
+									"h": 197,
+									"w": 197
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 441,
+									"y": 47,
+									"h": 186,
+									"w": 186
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam. Doet verhalen bij Kaliber",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8871,
+			"friends_count": 315,
+			"listed_count": 584,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5633,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60843,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Een stukje Eddie \"Happy little accidents\" Ross/Vedder voor de likes en LOLs. #12DaydOfPJ #PearlJam https://t.co/wUYjqZuwdq"
+	},
+	{
 		"created_at": "Mon Dec 16 07:57:28 +0000 2019",
 		"id": 1206308502349779000,
 		"id_str": "1206483466466058246",
