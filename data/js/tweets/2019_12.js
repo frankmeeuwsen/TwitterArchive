@@ -1,6 +1,412 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Wed Dec 18 18:48:32 +0000 2019",
+		"id": 1207131192555909000,
+		"id_str": "1207372089637920774",
+		"full_text": "Explaining your new crypto startup https://t.co/xYF6Myze4a",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1207131127019921400,
+					"id_str": "1207131127019921408",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1207131127019921408/pu/img/dq1ZGquaEmExn55E.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1207131127019921408/pu/img/dq1ZGquaEmExn55E.jpg",
+					"url": "https://t.co/xYF6Myze4a",
+					"display_url": "pic.twitter.com/xYF6Myze4a",
+					"expanded_url": "https://twitter.com/ReformedBroker/status/1207131192555909127/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 460,
+							"h": 460,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 460,
+							"h": 460,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 460,
+							"h": 460,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1207131127019921400,
+					"id_str": "1207131127019921408",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1207131127019921408/pu/img/dq1ZGquaEmExn55E.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1207131127019921408/pu/img/dq1ZGquaEmExn55E.jpg",
+					"url": "https://t.co/xYF6Myze4a",
+					"display_url": "pic.twitter.com/xYF6Myze4a",
+					"expanded_url": "https://twitter.com/ReformedBroker/status/1207131192555909127/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 460,
+							"h": 460,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 460,
+							"h": 460,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 460,
+							"h": 460,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 51967,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1207131127019921408/pu/vid/460x460/V3xlt77_6eQWwqPe.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1207131127019921408/pu/pl/V7b37NfZSGaIqo60.m3u8?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1207131127019921408/pu/vid/320x320/XCErr3lI3Augka01.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22522178,
+			"id_str": "22522178",
+			"name": "Downtown Josh Brown",
+			"screen_name": "ReformedBroker",
+			"location": "New York City / Long Island",
+			"description": "Chairman of the Twitter Federal Reserve, star of CNBC’s The Halftime Report, CEO of Ritholtz Wealth Management",
+			"url": "https://t.co/YofkVINQDf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YofkVINQDf",
+							"expanded_url": "https://www.youtube.com/thecompoundrwm?sub_confirmation=1",
+							"display_url": "youtube.com/thecompoundrwm…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1091601,
+			"friends_count": 3683,
+			"listed_count": 6869,
+			"created_at": "Mon Mar 02 19:19:35 +0000 2009",
+			"favourites_count": 205112,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 94612,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BADFCD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3510014701/6dfc231a5c790c6595fe1bd135a92013_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3510014701/6dfc231a5c790c6595fe1bd135a92013_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22522178/1547397172",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "F2E195",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "E16009",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1156,
+		"favorite_count": 5973,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Explaining your new crypto startup https://t.co/xYF6Myze4a"
+	},
+	{
+		"created_at": "Wed Dec 18 18:44:54 +0000 2019",
+		"id": 1207371174319136800,
+		"id_str": "1207371174319136769",
+		"full_text": "Is @Wilbert al weer gesignaleerd na een dagje Star Wars? https://t.co/z5up15nkHp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Wilbert",
+					"name": "Wilbert Pot",
+					"id": 2286901,
+					"id_str": "2286901",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1207371166668722200,
+					"id_str": "1207371166668722176",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EMFxrd1WkAAO1oc.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EMFxrd1WkAAO1oc.jpg",
+					"url": "https://t.co/z5up15nkHp",
+					"display_url": "pic.twitter.com/z5up15nkHp",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1207371174319136769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1207371166668722200,
+					"id_str": "1207371166668722176",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EMFxrd1WkAAO1oc.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EMFxrd1WkAAO1oc.jpg",
+					"url": "https://t.co/z5up15nkHp",
+					"display_url": "pic.twitter.com/z5up15nkHp",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1207371174319136769/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							140
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EMFxrd1WkAAO1oc.mp4"
+							}
+						]
+					},
+					"features": {}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam. Doet verhalen bij Kaliber",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8869,
+			"friends_count": 317,
+			"listed_count": 584,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5640,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60856,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Is @Wilbert al weer gesignaleerd na een dagje Star Wars? https://t.co/z5up15nkHp"
+	},
+	{
 		"created_at": "Wed Dec 18 17:38:33 +0000 2019",
 		"id": 1206247215292801000,
 		"id_str": "1207354478581747713",
