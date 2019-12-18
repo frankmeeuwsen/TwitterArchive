@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Wed Dec 18 17:38:33 +0000 2019",
+		"id": 1206247215292801000,
+		"id_str": "1207354478581747713",
+		"full_text": "Last night I saw one of the craziest damn things I’ve ever seen in all my days. This guy rides solo up into the arcade, walks up to TIME CRISIS II, and plays the game start to finish on one coin — using both guns. That means he’s players 1 and 2 at the same time. https://t.co/GyiDYiPE1y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			263
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1206247051870105600,
+					"id_str": "1206247051870105600",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1206247051870105600/pu/img/MRqLhL9FCNHQpdd-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1206247051870105600/pu/img/MRqLhL9FCNHQpdd-.jpg",
+					"url": "https://t.co/GyiDYiPE1y",
+					"display_url": "pic.twitter.com/GyiDYiPE1y",
+					"expanded_url": "https://twitter.com/andykhouri/status/1206247215292801024/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1206247051870105600,
+					"id_str": "1206247051870105600",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1206247051870105600/pu/img/MRqLhL9FCNHQpdd-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1206247051870105600/pu/img/MRqLhL9FCNHQpdd-.jpg",
+					"url": "https://t.co/GyiDYiPE1y",
+					"display_url": "pic.twitter.com/GyiDYiPE1y",
+					"expanded_url": "https://twitter.com/andykhouri/status/1206247215292801024/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 35072,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1206247051870105600/pu/pl/kHeB8yCVcWhgOyi0.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1206247051870105600/pu/vid/1280x720/HzgNk7_aMof57tfB.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1206247051870105600/pu/vid/480x270/eQOHASAhoxi65bCA.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1206247051870105600/pu/vid/640x360/HDkoL-FOuIucrK2n.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14912587,
+			"id_str": "14912587",
+			"name": "Andy Khouri",
+			"screen_name": "andykhouri",
+			"location": "Hollywood, CA",
+			"description": "DC Comics editor: Far Sector. Harleen. Wonder Woman: Dead Earth. Doom Patrol: Weight of the Worlds. Collapser. Lucifer. High Level. Opinions are my own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14847,
+			"friends_count": 683,
+			"listed_count": 382,
+			"created_at": "Mon May 26 19:55:36 +0000 2008",
+			"favourites_count": 46912,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 96138,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F2F2F2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1190163819840049152/S_hHi9qg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1190163819840049152/S_hHi9qg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14912587/1575450646",
+			"profile_link_color": "0192BE",
+			"profile_sidebar_border_color": "F2F2F2",
+			"profile_sidebar_fill_color": "F2F2F2",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31871,
+		"favorite_count": 122780,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Last night I saw one of the craziest damn things I’ve ever seen in all my days. This guy rides solo up into the arcade, walks up to TIME CRISIS II, and plays the game start to finish on one coin — using both guns. That means he’s players 1 and 2 at the same time. https://t.co/GyiDYiPE1y"
+	},
+	{
 		"created_at": "Wed Dec 18 13:56:12 +0000 2019",
 		"id": 1207298520467808300,
 		"id_str": "1207298520467808259",
