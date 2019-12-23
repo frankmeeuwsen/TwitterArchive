@@ -1,6 +1,132 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Mon Dec 23 20:24:58 +0000 2019",
+		"id": 1209206745484030000,
+		"id_str": "1209208296554536960",
+		"full_text": "Join @evernote’s Beta Program to get in line to try out our new mobile client as we expand our testing pool over the coming months https://t.co/HjzdF3Y65x #everbetter",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "everbetter",
+					"indices": [
+						155,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "evernote",
+					"name": "Evernote",
+					"id": 13837292,
+					"id_str": "13837292",
+					"indices": [
+						5,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HjzdF3Y65x",
+					"expanded_url": "https://evernote.com/betaprogram",
+					"display_url": "evernote.com/betaprogram",
+					"indices": [
+						131,
+						154
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1208828861690990600,
+		"in_reply_to_status_id_str": "1208828861690990592",
+		"in_reply_to_user_id": 23703833,
+		"in_reply_to_user_id_str": "23703833",
+		"in_reply_to_screen_name": "iansmall",
+		"user": {
+			"id": 23703833,
+			"id_str": "23703833",
+			"name": "Ian Small",
+			"screen_name": "iansmall",
+			"location": "San Francisco, CA",
+			"description": "CEO Evernote, board Lumentum & Alpha, advisor Loon; former gCDO Telefónica. Tweets on leadership, tech, food, Canada, dogs, and other amusements.",
+			"url": "http://t.co/3HVq4MdHhZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/3HVq4MdHhZ",
+							"expanded_url": "http://about.me/iansmall",
+							"display_url": "about.me/iansmall",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1719,
+			"friends_count": 235,
+			"listed_count": 58,
+			"created_at": "Wed Mar 11 02:04:31 +0000 2009",
+			"favourites_count": 233,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2797,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/345050833/s28110539_46577312_1423_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/345050833/s28110539_46577312_1423_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Join @evernote’s Beta Program to get in line to try out our new mobile client as we expand our testing pool over the coming months https://t.co/HjzdF3Y65x #everbetter"
+	},
+	{
 		"created_at": "Mon Dec 23 19:39:15 +0000 2019",
 		"id": 1209196793407451100,
 		"id_str": "1209196793407451142",
