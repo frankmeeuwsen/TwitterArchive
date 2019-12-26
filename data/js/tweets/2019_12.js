@@ -1,6 +1,476 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Thu Dec 26 19:30:19 +0000 2019",
+		"id": 1210281706160304000,
+		"id_str": "1210281706160304133",
+		"full_text": "“Co,2”... https://t.co/1MS084wYwV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1MS084wYwV",
+					"expanded_url": "https://twitter.com/saskianoort/status/1210165705116663808",
+					"display_url": "twitter.com/saskianoort/st…",
+					"indices": [
+						10,
+						33
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam. Doet verhalen bij Kaliber",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8869,
+			"friends_count": 314,
+			"listed_count": 584,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5669,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60888,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1210165705116663800,
+		"quoted_status_id_str": "1210165705116663808",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1MS084wYwV",
+			"expanded": "https://twitter.com/saskianoort/status/1210165705116663808",
+			"display": "twitter.com/saskianoort/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Dec 26 11:49:22 +0000 2019",
+			"id": 1210165705116663800,
+			"id_str": "1210165705116663808",
+			"full_text": "O God jongens, Sjoerd Postma gaat me boycotten. https://t.co/8v6m0Hi2Rf",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				47
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1210165700104462300,
+						"id_str": "1210165700104462336",
+						"indices": [
+							48,
+							71
+						],
+						"media_url": "http://pbs.twimg.com/media/EMtfSuIWoAAHYd6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EMtfSuIWoAAHYd6.jpg",
+						"url": "https://t.co/8v6m0Hi2Rf",
+						"display_url": "pic.twitter.com/8v6m0Hi2Rf",
+						"expanded_url": "https://twitter.com/saskianoort/status/1210165705116663808/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 520,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 828,
+								"h": 1082,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 828,
+								"h": 1082,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"small": {
+								"faces": [
+									{
+										"x": 158,
+										"y": 56,
+										"h": 69,
+										"w": 69
+									},
+									{
+										"x": 63,
+										"y": 408,
+										"h": 70,
+										"w": 70
+									},
+									{
+										"x": 62,
+										"y": 256,
+										"h": 71,
+										"w": 71
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 253,
+										"y": 90,
+										"h": 110,
+										"w": 110
+									},
+									{
+										"x": 101,
+										"y": 651,
+										"h": 112,
+										"w": 112
+									},
+									{
+										"x": 99,
+										"y": 409,
+										"h": 114,
+										"w": 114
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 253,
+										"y": 90,
+										"h": 110,
+										"w": 110
+									},
+									{
+										"x": 101,
+										"y": 651,
+										"h": 112,
+										"w": 112
+									},
+									{
+										"x": 99,
+										"y": 409,
+										"h": 114,
+										"w": 114
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 253,
+										"y": 90,
+										"h": 110,
+										"w": 110
+									},
+									{
+										"x": 101,
+										"y": 651,
+										"h": 112,
+										"w": 112
+									},
+									{
+										"x": 99,
+										"y": 409,
+										"h": 114,
+										"w": 114
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1210165700104462300,
+						"id_str": "1210165700104462336",
+						"indices": [
+							48,
+							71
+						],
+						"media_url": "http://pbs.twimg.com/media/EMtfSuIWoAAHYd6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EMtfSuIWoAAHYd6.jpg",
+						"url": "https://t.co/8v6m0Hi2Rf",
+						"display_url": "pic.twitter.com/8v6m0Hi2Rf",
+						"expanded_url": "https://twitter.com/saskianoort/status/1210165705116663808/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 520,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 828,
+								"h": 1082,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 828,
+								"h": 1082,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"small": {
+								"faces": [
+									{
+										"x": 158,
+										"y": 56,
+										"h": 69,
+										"w": 69
+									},
+									{
+										"x": 63,
+										"y": 408,
+										"h": 70,
+										"w": 70
+									},
+									{
+										"x": 62,
+										"y": 256,
+										"h": 71,
+										"w": 71
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 253,
+										"y": 90,
+										"h": 110,
+										"w": 110
+									},
+									{
+										"x": 101,
+										"y": 651,
+										"h": 112,
+										"w": 112
+									},
+									{
+										"x": 99,
+										"y": 409,
+										"h": 114,
+										"w": 114
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 253,
+										"y": 90,
+										"h": 110,
+										"w": 110
+									},
+									{
+										"x": 101,
+										"y": 651,
+										"h": 112,
+										"w": 112
+									},
+									{
+										"x": 99,
+										"y": 409,
+										"h": 114,
+										"w": 114
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 253,
+										"y": 90,
+										"h": 110,
+										"w": 110
+									},
+									{
+										"x": 101,
+										"y": 651,
+										"h": 112,
+										"w": 112
+									},
+									{
+										"x": 99,
+										"y": 409,
+										"h": 114,
+										"w": 114
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 105103709,
+				"id_str": "105103709",
+				"name": "Saskia Noort",
+				"screen_name": "saskianoort",
+				"location": "Amsterdam",
+				"description": "Schrijver, columnist van LINDA. en AD, Ambassadeur AMREF Flying Doctors.",
+				"url": "https://t.co/0smxqi4aTF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0smxqi4aTF",
+								"expanded_url": "http://www.saskianoort.nl",
+								"display_url": "saskianoort.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 39817,
+				"friends_count": 738,
+				"listed_count": 431,
+				"created_at": "Fri Jan 15 11:03:58 +0000 2010",
+				"favourites_count": 9923,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 13962,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/981165536938618882/MAA4EuGX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/981165536938618882/MAA4EuGX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/105103709/1522759320",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 103,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "“Co,2”... https://t.co/1MS084wYwV"
+	},
+	{
 		"created_at": "Thu Dec 26 12:31:04 +0000 2019",
 		"id": 1210176200225808400,
 		"id_str": "1210176200225808385",
