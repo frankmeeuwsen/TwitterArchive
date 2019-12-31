@@ -1,6 +1,244 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Mon Dec 30 23:42:23 +0000 2019",
+		"id": 1211748760688058400,
+		"id_str": "1211794693819908096",
+		"full_text": "I've been building a Facebook Events style system for decentralized social media based on the simple, open source, privacy-respecting event organizing tool https://t.co/XZxxgEMga7. The video shows compatibility w/ Mastodon.\n\nFull vid &amp; post at my Patreon: https://t.co/VBYetXtJMe https://t.co/4PBAVg7AJ6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			283
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XZxxgEMga7",
+					"expanded_url": "http://gath.io",
+					"display_url": "gath.io",
+					"indices": [
+						156,
+						179
+					]
+				},
+				{
+					"url": "https://t.co/VBYetXtJMe",
+					"expanded_url": "https://www.patreon.com/posts/organizing-on-32729070?utm_medium=social&utm_source=twitter&utm_campaign=postshare",
+					"display_url": "patreon.com/posts/organizi…",
+					"indices": [
+						260,
+						283
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1211748702529835000,
+					"id_str": "1211748702529835008",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1211748702529835008/pu/img/Jcwf-Iw6Coz74HkZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1211748702529835008/pu/img/Jcwf-Iw6Coz74HkZ.jpg",
+					"url": "https://t.co/4PBAVg7AJ6",
+					"display_url": "pic.twitter.com/4PBAVg7AJ6",
+					"expanded_url": "https://twitter.com/tinysubversions/status/1211748760688058368/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1211748702529835000,
+					"id_str": "1211748702529835008",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1211748702529835008/pu/img/Jcwf-Iw6Coz74HkZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1211748702529835008/pu/img/Jcwf-Iw6Coz74HkZ.jpg",
+					"url": "https://t.co/4PBAVg7AJ6",
+					"display_url": "pic.twitter.com/4PBAVg7AJ6",
+					"expanded_url": "https://twitter.com/tinysubversions/status/1211748760688058368/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 123290,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1211748702529835008/pu/pl/fo4kdFD01UIuzRq9.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1211748702529835008/pu/vid/640x360/7MSxarq9W7y4dNaE.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1211748702529835008/pu/vid/1280x720/EetW9-S48vMmDU88.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1211748702529835008/pu/vid/480x270/K3qgE4Er8S5ilo0u.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14475298,
+			"id_str": "14475298",
+			"name": "Darius Kazemi",
+			"screen_name": "tinysubversions",
+			"location": "Portland, OR",
+			"description": "I'm trying to make social media better: https://t.co/PqyLU4eX7n. I've mostly left Twitter. Former Mozilla Fellow. #WHNBM he/him",
+			"url": "https://t.co/tbPIbXPf4M",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tbPIbXPf4M",
+							"expanded_url": "https://tinysubversions.com",
+							"display_url": "tinysubversions.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PqyLU4eX7n",
+							"expanded_url": "https://runyourown.social",
+							"display_url": "runyourown.social",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 22467,
+			"friends_count": 2358,
+			"listed_count": 1003,
+			"created_at": "Tue Apr 22 14:41:58 +0000 2008",
+			"favourites_count": 49143,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 80337,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF6921",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1204800150939435008/Qk7oX7db_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1204800150939435008/Qk7oX7db_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14475298/1524158062",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 52,
+		"favorite_count": 158,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I've been building a Facebook Events style system for decentralized social media based on the simple, open source, privacy-respecting event organizing tool https://t.co/XZxxgEMga7. The video shows compatibility w/ Mastodon.\n\nFull vid &amp; post at my Patreon: https://t.co/VBYetXtJMe https://t.co/4PBAVg7AJ6"
+	},
+	{
 		"created_at": "Mon Dec 30 21:21:32 +0000 2019",
 		"id": 1211758034587922400,
 		"id_str": "1211759248906096641",
