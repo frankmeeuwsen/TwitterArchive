@@ -1,6 +1,103 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 02 18:08:13 +0000 2020",
+		"id": 1212773530309464000,
+		"id_str": "1212797758681362432",
+		"full_text": "The 2000s made us marvel in awe from the progress brought by Facebook, Google, and Amazon. \n\nThe 2010s made us recoil in horror as they consumed our attention, sanity, and markets. \n\nThe 2020s is when we finally gather the courage to fight back.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			245
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14561327,
+			"id_str": "14561327",
+			"name": "DHH",
+			"screen_name": "dhh",
+			"location": "",
+			"description": "Creator of Ruby on Rails, Founder & CTO at Basecamp, NYT best-selling author, and Le Mans 24h class-winning racing driver.",
+			"url": "https://t.co/472m0ihZkH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/472m0ihZkH",
+							"expanded_url": "https://dhh.dk",
+							"display_url": "dhh.dk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 375218,
+			"friends_count": 139,
+			"listed_count": 9832,
+			"created_at": "Sun Apr 27 20:19:25 +0000 2008",
+			"favourites_count": 12086,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 46514,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975876868455809024/eK7mDppU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975876868455809024/eK7mDppU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14561327/1539031099",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 108,
+		"favorite_count": 594,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "The 2000s made us marvel in awe from the progress brought by Facebook, Google, and Amazon. \n\nThe 2010s made us recoil in horror as they consumed our attention, sanity, and markets. \n\nThe 2020s is when we finally gather the courage to fight back."
+	},
+	{
 		"created_at": "Thu Jan 02 17:04:09 +0000 2020",
 		"id": 1212781638880563200,
 		"id_str": "1212781638880563200",
