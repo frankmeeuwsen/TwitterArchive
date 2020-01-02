@@ -1,6 +1,125 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 02 20:37:18 +0000 2020",
+		"id": 1212835278236389400,
+		"id_str": "1212835278236389376",
+		"full_text": "@Heimerik Meer: https://t.co/xZawCAd1qd \n\n“The Wonder Years aired from 1988 and 1993 and depicted the years between 1968 and 1973. When I watched the show, it felt like it was set in a time long ago. If a new Wonder Years premiered today, it would cover the years between 2000 and 2005”",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			286
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Heimerik",
+					"name": "Rik toe Water",
+					"id": 27025735,
+					"id_str": "27025735",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xZawCAd1qd",
+					"expanded_url": "https://waitbutwhy.com/2020/01/its-2020-and-youre-in-the-future.html",
+					"display_url": "waitbutwhy.com/2020/01/its-20…",
+					"indices": [
+						16,
+						39
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1212464824577380400,
+		"in_reply_to_status_id_str": "1212464824577380352",
+		"in_reply_to_user_id": 27025735,
+		"in_reply_to_user_id_str": "27025735",
+		"in_reply_to_screen_name": "Heimerik",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam. Doet verhalen bij Kaliber",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8870,
+			"friends_count": 316,
+			"listed_count": 584,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5706,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60939,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@Heimerik Meer: https://t.co/xZawCAd1qd \n\n“The Wonder Years aired from 1988 and 1993 and depicted the years between 1968 and 1973. When I watched the show, it felt like it was set in a time long ago. If a new Wonder Years premiered today, it would cover the years between 2000 and 2005”"
+	},
+	{
 		"created_at": "Thu Jan 02 19:41:59 +0000 2020",
 		"id": 1212821356234072000,
 		"id_str": "1212821356234072064",
