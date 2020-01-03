@@ -1,6 +1,386 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 03 12:45:52 +0000 2020",
+		"id": 1213074277337047000,
+		"id_str": "1213079025398276097",
+		"full_text": "THIS IS NOT A WARNING, IT IS A THREAT!! HAPPY NEW YEAR!!!\n\n#PresidentSupervillain https://t.co/oSu2agz5T7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PresidentSupervillain",
+					"indices": [
+						59,
+						81
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1213039044411773000,
+					"id_str": "1213039044411772928",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/ENWUlXzX0AAt-Zy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENWUlXzX0AAt-Zy.jpg",
+					"url": "https://t.co/oSu2agz5T7",
+					"display_url": "pic.twitter.com/oSu2agz5T7",
+					"expanded_url": "https://twitter.com/PresVillain/status/1213074277337047041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 494,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 872,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1488,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 380,
+									"y": 444,
+									"h": 77,
+									"w": 77
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 672,
+									"y": 784,
+									"h": 136,
+									"w": 136
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1147,
+									"y": 1339,
+									"h": 233,
+									"w": 233
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1225,
+									"y": 1430,
+									"h": 249,
+									"w": 249
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1213039044411773000,
+					"id_str": "1213039044411772928",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/ENWUlXzX0AAt-Zy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENWUlXzX0AAt-Zy.jpg",
+					"url": "https://t.co/oSu2agz5T7",
+					"display_url": "pic.twitter.com/oSu2agz5T7",
+					"expanded_url": "https://twitter.com/PresVillain/status/1213074277337047041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 494,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 872,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1488,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 380,
+									"y": 444,
+									"h": 77,
+									"w": 77
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 672,
+									"y": 784,
+									"h": 136,
+									"w": 136
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1147,
+									"y": 1339,
+									"h": 233,
+									"w": 233
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1225,
+									"y": 1430,
+									"h": 249,
+									"w": 249
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1213039083162939400,
+					"id_str": "1213039083162939392",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/ENWUnoKXsAA7jKJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENWUnoKXsAA7jKJ.jpg",
+					"url": "https://t.co/oSu2agz5T7",
+					"display_url": "pic.twitter.com/oSu2agz5T7",
+					"expanded_url": "https://twitter.com/PresVillain/status/1213074277337047041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 860,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 806,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 457,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 100,
+									"y": 28,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 935,
+									"y": 380,
+									"h": 235,
+									"w": 235
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 93,
+									"y": 26,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 876,
+									"y": 356,
+									"h": 220,
+									"w": 220
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 53,
+									"y": 14,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 496,
+									"y": 201,
+									"h": 124,
+									"w": 124
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 100,
+									"y": 28,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 935,
+									"y": 380,
+									"h": 235,
+									"w": 235
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 830896623689547800,
+			"id_str": "830896623689547776",
+			"name": "President Supervillain",
+			"screen_name": "PresVillain",
+			"location": "Secret Lair",
+			"description": "I take real Trump quotes and photoshop them into comics. Consider some QUID PRO QUO: https://t.co/yBtt4sGHE3. Created by D.M. Higgins.",
+			"url": "https://t.co/Ynl4azZGkl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ynl4azZGkl",
+							"expanded_url": "http://patreon.com/presvillain",
+							"display_url": "patreon.com/presvillain",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/yBtt4sGHE3",
+							"expanded_url": "http://paypal.me/presvillain",
+							"display_url": "paypal.me/presvillain",
+							"indices": [
+								85,
+								108
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 81517,
+			"friends_count": 3,
+			"listed_count": 674,
+			"created_at": "Sun Feb 12 21:49:27 +0000 2017",
+			"favourites_count": 434,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 300,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/830897848908730368/5eRgG_LY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/830897848908730368/5eRgG_LY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/830896623689547776/1573203983",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 340,
+		"favorite_count": 600,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "THIS IS NOT A WARNING, IT IS A THREAT!! HAPPY NEW YEAR!!!\n\n#PresidentSupervillain https://t.co/oSu2agz5T7"
+	},
+	{
 		"created_at": "Fri Jan 03 10:04:21 +0000 2020",
 		"id": 1213038378624716800,
 		"id_str": "1213038378624716800",
