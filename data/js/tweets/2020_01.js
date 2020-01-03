@@ -1,6 +1,257 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 03 08:37:19 +0000 2020",
+		"id": 1213016477466595300,
+		"id_str": "1213016477466595328",
+		"full_text": "Wooha! Weekendplezier! https://t.co/xVmUfDTezB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xVmUfDTezB",
+					"expanded_url": "https://twitter.com/bertboerland/status/1212816699889729536",
+					"display_url": "twitter.com/bertboerland/s…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam. Doet verhalen bij Kaliber",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8869,
+			"friends_count": 316,
+			"listed_count": 584,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5708,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60942,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1212816699889729500,
+		"quoted_status_id_str": "1212816699889729536",
+		"quoted_status_permalink": {
+			"url": "https://t.co/xVmUfDTezB",
+			"expanded": "https://twitter.com/bertboerland/status/1212816699889729536",
+			"display": "twitter.com/bertboerland/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 02 19:23:28 +0000 2020",
+			"id": 1212816699889729500,
+			"id_str": "1212816699889729536",
+			"full_text": "Never knew, Yahoo! pipes functionality is back!\n\nhttps://t.co/15GeXy2GC4 \n\n#nocode cc @erwblo",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				93
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "nocode",
+						"indices": [
+							75,
+							82
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "erwblo",
+						"name": "erwin blom",
+						"id": 713333,
+						"id_str": "713333",
+						"indices": [
+							86,
+							93
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/15GeXy2GC4",
+						"expanded_url": "https://www.pipes.digital/",
+						"display_url": "pipes.digital",
+						"indices": [
+							49,
+							72
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3218781,
+				"id_str": "3218781",
+				"name": "bert boerland",
+				"screen_name": "bertboerland",
+				"location": "Netherlands",
+				"description": "https://t.co/S2eSS2FdNa | I seem to be a verb | Founder @DrupalNL, @DrupalJam, @splashawards and @wunderkraut_nl. Now located @triforkams.",
+				"url": "https://t.co/QCPLUYYFwW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/QCPLUYYFwW",
+								"expanded_url": "http://boerland.com/",
+								"display_url": "boerland.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/S2eSS2FdNa",
+								"expanded_url": "http://www.linkedin.com/in/bertboerland",
+								"display_url": "linkedin.com/in/bertboerland",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3308,
+				"friends_count": 2272,
+				"listed_count": 373,
+				"created_at": "Mon Apr 02 14:40:11 +0000 2007",
+				"favourites_count": 11130,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 144079,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/481438510415880193/in0aHI4T_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/481438510415880193/in0aHI4T_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3218781/1415638748",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "04F127",
+				"profile_text_color": "191715",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": true,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Wooha! Weekendplezier! https://t.co/xVmUfDTezB"
+	},
+	{
 		"created_at": "Fri Jan 03 07:37:02 +0000 2020",
 		"id": 1213001307021287400,
 		"id_str": "1213001307021287424",
