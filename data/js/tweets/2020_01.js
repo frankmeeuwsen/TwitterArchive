@@ -1,6 +1,204 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sun Jan 05 07:42:43 +0000 2020",
+		"id": 1213634803892920300,
+		"id_str": "1213727510103502849",
+		"full_text": "Ha! Exactly? Social media is the new: music stopped being good in 1994... https://t.co/qUEF22T2DZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qUEF22T2DZ",
+					"expanded_url": "https://twitter.com/juiceboxca/status/1213535693693079552",
+					"display_url": "twitter.com/juiceboxca/sta…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1502,
+			"id_str": "1502",
+			"name": "Brian McCullough",
+			"screen_name": "brianmcc",
+			"location": "Brooklyn, NY",
+			"description": "Techmeme Ride Home (podcast) guy. Internet History Podcast guy. 2016 TED Resident. Author: How The Internet Happened.  Co-founder of Ride Home Media.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5783,
+			"friends_count": 1418,
+			"listed_count": 177,
+			"created_at": "Sun Jul 16 18:50:09 +0000 2006",
+			"favourites_count": 6484,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3896,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/518548571054804993/0T2MZPWt_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/518548571054804993/0T2MZPWt_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1502/1380501853",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1213535693693079600,
+		"quoted_status_id_str": "1213535693693079552",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qUEF22T2DZ",
+			"expanded": "https://twitter.com/juiceboxca/status/1213535693693079552",
+			"display": "twitter.com/juiceboxca/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jan 04 19:00:30 +0000 2020",
+			"id": 1213535693693079600,
+			"id_str": "1213535693693079552",
+			"full_text": "My parents have Instagram,\nbut they don’t post.\n\n“We don’t know what to post!\nWe just like to watch!”\n\nI toss low-hanging millennial jokes\n&amp; call them old.\n\nThen I realize.\n\nI watch TikTok daily, but don’t post. Because I don’t know what to post. I just like to watch.\n\nOh no.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19904963,
+				"id_str": "19904963",
+				"name": "Jack Appleby",
+				"screen_name": "JuiceboxCA",
+				"location": "Hollywood, CA",
+				"description": "Strategy Director, @RGA | Work: Activision, Riot, Beats By Dre, Microsoft, Spotify | Rebel Scum | campaign + content expert | 🏀🎧🎮🥃🍽",
+				"url": "https://t.co/7SUgauknRh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7SUgauknRh",
+								"expanded_url": "https://www.linkedin.com/in/jackappleby",
+								"display_url": "linkedin.com/in/jackappleby",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 17257,
+				"friends_count": 1050,
+				"listed_count": 366,
+				"created_at": "Mon Feb 02 12:56:46 +0000 2009",
+				"favourites_count": 116232,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 85352,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "A6A6A6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1198766938458968064/Ezmph3KL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1198766938458968064/Ezmph3KL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19904963/1501738978",
+				"profile_link_color": "5A5500",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 507,
+			"favorite_count": 6220,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ha! Exactly? Social media is the new: music stopped being good in 1994... https://t.co/qUEF22T2DZ"
+	},
+	{
 		"created_at": "Sat Jan 04 20:35:38 +0000 2020",
 		"id": 1213559636865028000,
 		"id_str": "1213559636865028097",
