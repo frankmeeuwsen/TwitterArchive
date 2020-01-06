@@ -1,6 +1,340 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Mon Jan 06 17:18:59 +0000 2020",
+		"id": 1214234921100873700,
+		"id_str": "1214234921100873729",
+		"full_text": "6 januari, start van de nieuwe Pietendiscussie in Nederland. \nWaNt SpAnjE eN De SinT! \n\n(Paging @msteeman qua Ophefkalender) https://t.co/3uXolCfi34",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "msteeman",
+					"name": "Marcel Steeman",
+					"id": 19087381,
+					"id_str": "19087381",
+					"indices": [
+						96,
+						105
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3uXolCfi34",
+					"expanded_url": "https://twitter.com/redfishstream/status/1214211269407969288",
+					"display_url": "twitter.com/redfishstream/…",
+					"indices": [
+						125,
+						148
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam. Doet verhalen bij Kaliber",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8866,
+			"friends_count": 317,
+			"listed_count": 584,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5710,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60958,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1214211269407969300,
+		"quoted_status_id_str": "1214211269407969288",
+		"quoted_status_permalink": {
+			"url": "https://t.co/3uXolCfi34",
+			"expanded": "https://twitter.com/redfishstream/status/1214211269407969288",
+			"display": "twitter.com/redfishstream/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jan 06 15:45:00 +0000 2020",
+			"id": 1214211269407969300,
+			"id_str": "1214211269407969288",
+			"full_text": "Yesterday up to 450 Spanish teenagers donned offensive Blackface as part of their end of Christmas \"tradition\". 🤦‍♀️\n\nFrom Spain to the U.S., Canada to the Netherlands, the legacies of slavery and colonialism are alive and celebrated. https://t.co/110GbKeaZH",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				234
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1214196253715656700,
+						"id_str": "1214196253715656704",
+						"indices": [
+							235,
+							258
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1214196253715656704/pu/img/WCK3ESlc4uj7Mm22.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1214196253715656704/pu/img/WCK3ESlc4uj7Mm22.jpg",
+						"url": "https://t.co/110GbKeaZH",
+						"display_url": "pic.twitter.com/110GbKeaZH",
+						"expanded_url": "https://twitter.com/redfishstream/status/1214211269407969288/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"features": {}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1214196253715656700,
+						"id_str": "1214196253715656704",
+						"indices": [
+							235,
+							258
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1214196253715656704/pu/img/WCK3ESlc4uj7Mm22.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1214196253715656704/pu/img/WCK3ESlc4uj7Mm22.jpg",
+						"url": "https://t.co/110GbKeaZH",
+						"display_url": "pic.twitter.com/110GbKeaZH",
+						"expanded_url": "https://twitter.com/redfishstream/status/1214211269407969288/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 50867,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1214196253715656704/pu/vid/480x480/UYjDeEvBbJ8mRyfi.mp4?tag=10"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1214196253715656704/pu/vid/720x720/aXYJqzzLqdcpHhng.mp4?tag=10"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1214196253715656704/pu/vid/320x320/HKzd03QnKdKJxCxv.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1214196253715656704/pu/pl/_9xCM5foW9YdV5Gi.m3u8?tag=10"
+								}
+							]
+						},
+						"features": {},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 913063871681835000,
+				"id_str": "913063871681835008",
+				"name": "redfish",
+				"screen_name": "redfishstream",
+				"location": "Berlin, Germany",
+				"description": "",
+				"url": "https://t.co/c6EZJZBX29",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/c6EZJZBX29",
+								"expanded_url": "http://redfish.media",
+								"display_url": "redfish.media",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 46105,
+				"friends_count": 467,
+				"listed_count": 373,
+				"created_at": "Wed Sep 27 15:32:45 +0000 2017",
+				"favourites_count": 142,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1363,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/928545401434669056/RO2Chva7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/928545401434669056/RO2Chva7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/913063871681835008/1561383034",
+				"profile_link_color": "AC232C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 173,
+			"favorite_count": 250,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "6 januari, start van de nieuwe Pietendiscussie in Nederland. \nWaNt SpAnjE eN De SinT! \n\n(Paging @msteeman qua Ophefkalender) https://t.co/3uXolCfi34"
+	},
+	{
 		"created_at": "Mon Jan 06 07:57:56 +0000 2020",
 		"id": 1214093729692299300,
 		"id_str": "1214093729692299264",
