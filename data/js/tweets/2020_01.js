@@ -1,6 +1,340 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Mon Jan 06 18:35:10 +0000 2020",
+		"id": 1214254095512612900,
+		"id_str": "1214254095512612864",
+		"full_text": "Ik wilde dit retweeten voor @Jessemoerkerk omdat hij zulks cultuur en sportieve inzet kan waarderen. Toen zag ik langs welke retweet dit in mijn tijdlijn was gekomen. Zo voorspelbaar, die Jesse 😀 https://t.co/6uTTj7ixLg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Jessemoerkerk",
+					"name": "Jesse Moerkerk",
+					"id": 319033092,
+					"id_str": "319033092",
+					"indices": [
+						28,
+						42
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6uTTj7ixLg",
+					"expanded_url": "https://twitter.com/bloozchickenz/status/1214132019996844038",
+					"display_url": "twitter.com/bloozchickenz/…",
+					"indices": [
+						196,
+						219
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam. Doet verhalen bij Kaliber",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8866,
+			"friends_count": 317,
+			"listed_count": 584,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5710,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60959,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1214132019996844000,
+		"quoted_status_id_str": "1214132019996844038",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6uTTj7ixLg",
+			"expanded": "https://twitter.com/bloozchickenz/status/1214132019996844038",
+			"display": "twitter.com/bloozchickenz/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jan 06 10:30:05 +0000 2020",
+			"id": 1214132019996844000,
+			"id_str": "1214132019996844038",
+			"full_text": "Netflix: Are you still watching?\n\nUs: https://t.co/ezVStHJjCs",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				37
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1214131864505651200,
+						"id_str": "1214131864505651200",
+						"indices": [
+							38,
+							61
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1214131864505651200/pu/img/4CtyClz5A3nuTQGx.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1214131864505651200/pu/img/4CtyClz5A3nuTQGx.jpg",
+						"url": "https://t.co/ezVStHJjCs",
+						"display_url": "pic.twitter.com/ezVStHJjCs",
+						"expanded_url": "https://twitter.com/bloozchickenz/status/1214132019996844038/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"features": {}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1214131864505651200,
+						"id_str": "1214131864505651200",
+						"indices": [
+							38,
+							61
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1214131864505651200/pu/img/4CtyClz5A3nuTQGx.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1214131864505651200/pu/img/4CtyClz5A3nuTQGx.jpg",
+						"url": "https://t.co/ezVStHJjCs",
+						"display_url": "pic.twitter.com/ezVStHJjCs",
+						"expanded_url": "https://twitter.com/bloozchickenz/status/1214132019996844038/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 15045,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1214131864505651200/pu/pl/bE8wxHZRwBMXD9vm.m3u8?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1214131864505651200/pu/vid/640x360/3eqyH_w5P2S-GwRt.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1214131864505651200/pu/vid/1280x720/OenIZL7gurhksAVv.mp4?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1214131864505651200/pu/vid/480x270/hyoMysIl_J4Sdo0a.mp4?tag=10"
+								}
+							]
+						},
+						"features": {},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1116084344030990300,
+				"id_str": "1116084344030990337",
+				"name": "Bloozchicken",
+				"screen_name": "bloozchickenz",
+				"location": "NYC",
+				"description": "Illustrator | Nerd | Clown",
+				"url": "https://t.co/JmxYqlF68T",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JmxYqlF68T",
+								"expanded_url": "https://linktr.ee/bloozchicken",
+								"display_url": "linktr.ee/bloozchicken",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 338,
+				"friends_count": 382,
+				"listed_count": 1,
+				"created_at": "Wed Apr 10 21:03:38 +0000 2019",
+				"favourites_count": 952,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 437,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1138026370611798016/eQ-oZz0i_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1138026370611798016/eQ-oZz0i_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1116084344030990337/1573433794",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 19,
+			"favorite_count": 51,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": true,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Ik wilde dit retweeten voor @Jessemoerkerk omdat hij zulks cultuur en sportieve inzet kan waarderen. Toen zag ik langs welke retweet dit in mijn tijdlijn was gekomen. Zo voorspelbaar, die Jesse 😀 https://t.co/6uTTj7ixLg"
+	},
+	{
 		"created_at": "Mon Jan 06 17:18:59 +0000 2020",
 		"id": 1214234921100873700,
 		"id_str": "1214234921100873729",
@@ -122,7 +456,7 @@ Grailbird.data.tweets_2020_01 =
 			"created_at": "Mon Jan 06 15:45:00 +0000 2020",
 			"id": 1214211269407969300,
 			"id_str": "1214211269407969288",
-			"full_text": "Yesterday up to 450 Spanish teenagers donned offensive Blackface as part of their end of Christmas \"tradition\". 🤦‍♀️\n\nFrom Spain to the U.S., Canada to the Netherlands, the legacies of slavery and colonialism are alive and celebrated. https://t.co/110GbKeaZH",
+			"full_text": "Yesterday up to 450 Spanish teenagers donned offensive Blackface as part of their end of Christmas \"tradition\". 🤦♀️\n\nFrom Spain to the U.S., Canada to the Netherlands, the legacies of slavery and colonialism are alive and celebrated. https://t.co/110GbKeaZH",
 			"truncated": false,
 			"display_text_range": [
 				0,
