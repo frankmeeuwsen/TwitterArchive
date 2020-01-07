@@ -1,6 +1,458 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Tue Jan 07 17:05:49 +0000 2020",
+		"id": 1214593996179280000,
+		"id_str": "1214593996179279872",
+		"full_text": "Thierry Baudets victoriedansje Meets Steve Ballmer/Bill Gates tijdens de Windows 95 launch. (look it up fellow young people) https://t.co/le8o46IPom",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/le8o46IPom",
+					"expanded_url": "https://twitter.com/business/status/1214576860375535617",
+					"display_url": "twitter.com/business/statu…",
+					"indices": [
+						125,
+						148
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam. Doet verhalen bij Kaliber",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8866,
+			"friends_count": 317,
+			"listed_count": 584,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5712,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60964,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1214576860375535600,
+		"quoted_status_id_str": "1214576860375535617",
+		"quoted_status_permalink": {
+			"url": "https://t.co/le8o46IPom",
+			"expanded": "https://twitter.com/business/status/1214576860375535617",
+			"display": "twitter.com/business/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 07 15:57:43 +0000 2020",
+			"id": 1214576860375535600,
+			"id_str": "1214576860375535617",
+			"full_text": "Tesla just hit a big milestone in China and Elon Musk just couldn't contain his excitement 🕺https://t.co/8pW2iZwOJB (via @QuickTake) https://t.co/wJJkHEJkCA",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				132
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "QuickTake",
+						"name": "QuickTake by Bloomberg",
+						"id": 252751061,
+						"id_str": "252751061",
+						"indices": [
+							121,
+							131
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/8pW2iZwOJB",
+						"expanded_url": "https://trib.al/C3D1J71",
+						"display_url": "trib.al/C3D1J71",
+						"indices": [
+							92,
+							115
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1214570340371910700,
+						"id_str": "1214570340371910661",
+						"indices": [
+							133,
+							156
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1214570340371910661/img/2jNVqdIjOw_lWk89.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1214570340371910661/img/2jNVqdIjOw_lWk89.jpg",
+						"url": "https://t.co/wJJkHEJkCA",
+						"display_url": "pic.twitter.com/wJJkHEJkCA",
+						"expanded_url": "https://twitter.com/business/status/1214576860375535617/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"features": {}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1214570340371910700,
+						"id_str": "1214570340371910661",
+						"indices": [
+							133,
+							156
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1214570340371910661/img/2jNVqdIjOw_lWk89.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1214570340371910661/img/2jNVqdIjOw_lWk89.jpg",
+						"url": "https://t.co/wJJkHEJkCA",
+						"display_url": "pic.twitter.com/wJJkHEJkCA",
+						"expanded_url": "https://twitter.com/business/status/1214576860375535617/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 87955,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1214570340371910661/vid/480x480/JJTnoenAtBoRWihv.mp4?tag=13"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1214570340371910661/vid/320x320/rqeSm-iysMLJ2Tsj.mp4?tag=13"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1214570340371910661/pl/s5OIiQoGecG1eq8J.m3u8?tag=13"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1214570340371910661/vid/720x720/aEa1zItfxDRlj3o1.mp4?tag=13"
+								}
+							]
+						},
+						"features": {},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 34713362,
+				"id_str": "34713362",
+				"name": "Bloomberg",
+				"screen_name": "business",
+				"location": "New York and the World",
+				"description": "The first word in business news.",
+				"url": "http://t.co/YFISwy1upH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/YFISwy1upH",
+								"expanded_url": "http://www.bloomberg.com",
+								"display_url": "bloomberg.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5787436,
+				"friends_count": 1268,
+				"listed_count": 54053,
+				"created_at": "Thu Apr 23 20:05:17 +0000 2009",
+				"favourites_count": 516,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 530706,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "101112",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/991818020233404416/alrBF_dr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/991818020233404416/alrBF_dr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/34713362/1503349279",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "DADADA",
+				"profile_sidebar_fill_color": "EEEEEE",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 217,
+			"favorite_count": 712,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thierry Baudets victoriedansje Meets Steve Ballmer/Bill Gates tijdens de Windows 95 launch. (look it up fellow young people) https://t.co/le8o46IPom"
+	},
+	{
+		"created_at": "Tue Jan 07 17:04:16 +0000 2020",
+		"id": 1214580139314569200,
+		"id_str": "1214593607014981634",
+		"full_text": "New Year, new release - Firefox 72 has landed!🎉\n\n✅: Picture in picture video for Mac and Linux\n✅: Fingerprinting blocked by default\n✅: Debugger watchpoints \n\nhttps://t.co/xIUzv36qYr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xIUzv36qYr",
+					"expanded_url": "https://hacks.mozilla.org/2020/01/firefox-72-our-first-song-of-2020/",
+					"display_url": "hacks.mozilla.org/2020/01/firefo…",
+					"indices": [
+						158,
+						181
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 45496942,
+			"id_str": "45496942",
+			"name": "Mozilla Developer",
+			"screen_name": "mozhacks",
+			"location": "Global",
+			"description": "Official Mozilla account for people who make the web. Learn about web platform development and emerging technologies. News from @Firefox @Mozilla @MozDevNet",
+			"url": "https://t.co/3APxgKy7Ms",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3APxgKy7Ms",
+							"expanded_url": "http://hacks.mozilla.org",
+							"display_url": "hacks.mozilla.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 93168,
+			"friends_count": 6139,
+			"listed_count": 2989,
+			"created_at": "Mon Jun 08 04:08:40 +0000 2009",
+			"favourites_count": 347,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6964,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "454545",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207926352852267008/knPzcQ6p_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207926352852267008/knPzcQ6p_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45496942/1576827211",
+			"profile_link_color": "999999",
+			"profile_sidebar_border_color": "454545",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "444444",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 46,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New Year, new release - Firefox 72 has landed!🎉\n\n✅: Picture in picture video for Mac and Linux\n✅: Fingerprinting blocked by default\n✅: Debugger watchpoints \n\nhttps://t.co/xIUzv36qYr"
+	},
+	{
 		"created_at": "Tue Jan 07 16:06:59 +0000 2020",
 		"id": 1214579189963251700,
 		"id_str": "1214579189963251718",
