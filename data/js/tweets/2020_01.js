@@ -1,6 +1,348 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Wed Jan 08 19:57:26 +0000 2020",
+		"id": 1214999571807580200,
+		"id_str": "1214999571807580160",
+		"full_text": "Oh ja! Nieuwsbrief tijd! Morgen om 9 uur in je (Stoop)Inbox als je je nu nog inschrijft via https://t.co/sUWEQRJEXM, links en diepte over het open en decentrale web. Meer dan 100 abonnees kunnen geen ongelijk hebben! https://t.co/F6zgip1ef0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sUWEQRJEXM",
+					"expanded_url": "http://nieuws.diggingthedigital.com/",
+					"display_url": "nieuws.diggingthedigital.com",
+					"indices": [
+						92,
+						115
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1214999565864243200,
+					"id_str": "1214999565864243203",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/ENyLqvWXkAMd6ni.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENyLqvWXkAMd6ni.jpg",
+					"url": "https://t.co/F6zgip1ef0",
+					"display_url": "pic.twitter.com/F6zgip1ef0",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1214999571807580160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1290,
+							"h": 782,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 412,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 727,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1214999565864243200,
+					"id_str": "1214999565864243203",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/ENyLqvWXkAMd6ni.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENyLqvWXkAMd6ni.jpg",
+					"url": "https://t.co/F6zgip1ef0",
+					"display_url": "pic.twitter.com/F6zgip1ef0",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1214999571807580160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1290,
+							"h": 782,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 412,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 727,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam. Doet verhalen bij Kaliber",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8869,
+			"friends_count": 319,
+			"listed_count": 584,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5712,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60973,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Oh ja! Nieuwsbrief tijd! Morgen om 9 uur in je (Stoop)Inbox als je je nu nog inschrijft via https://t.co/sUWEQRJEXM, links en diepte over het open en decentrale web. Meer dan 100 abonnees kunnen geen ongelijk hebben! https://t.co/F6zgip1ef0"
+	},
+	{
+		"created_at": "Wed Jan 08 19:53:00 +0000 2020",
+		"id": 1214998457813000200,
+		"id_str": "1214998457813000192",
+		"full_text": "@rickpastoor @bramk @nocodemvp Dat is wel een interessante combinatie. Ik denk dat ze ook prima aan elkaar zijn te knopen. Ik heb een paar jaar met Discourse gewerkt en is wat mij betreft een van de beste forumsoftware.",
+		"truncated": false,
+		"display_text_range": [
+			31,
+			219
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rickpastoor",
+					"name": "Rick Pastoor",
+					"id": 14327598,
+					"id_str": "14327598",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "bramk",
+					"name": "Bram Kanstein",
+					"id": 45139007,
+					"id_str": "45139007",
+					"indices": [
+						13,
+						19
+					]
+				},
+				{
+					"screen_name": "nocodemvp",
+					"name": "No-Code MVP 💻🛠",
+					"id": 893043905616379900,
+					"id_str": "893043905616379904",
+					"indices": [
+						20,
+						30
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1214997685276725200,
+		"in_reply_to_status_id_str": "1214997685276725254",
+		"in_reply_to_user_id": 14327598,
+		"in_reply_to_user_id_str": "14327598",
+		"in_reply_to_screen_name": "rickpastoor",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam. Doet verhalen bij Kaliber",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8869,
+			"friends_count": 319,
+			"listed_count": 584,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5712,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60973,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@rickpastoor @bramk @nocodemvp Dat is wel een interessante combinatie. Ik denk dat ze ook prima aan elkaar zijn te knopen. Ik heb een paar jaar met Discourse gewerkt en is wat mij betreft een van de beste forumsoftware."
+	},
+	{
 		"created_at": "Wed Jan 08 09:28:33 +0000 2020",
 		"id": 1214841310458400800,
 		"id_str": "1214841310458400771",
