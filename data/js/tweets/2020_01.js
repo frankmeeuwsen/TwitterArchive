@@ -1,6 +1,114 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 10 19:16:47 +0000 2020",
+		"id": 1215435136491118600,
+		"id_str": "1215714119120314369",
+		"full_text": "\"Look Busy fills your work calendar with realistic-looking (but secretly fake) work events. Your co-workers won’t schedule conference calls and meetings, so you can get actual work done\", productivity self defense!! ❤️ https://t.co/Fpb50PSjsF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			242
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Fpb50PSjsF",
+					"expanded_url": "https://lookbusy.app",
+					"display_url": "lookbusy.app",
+					"indices": [
+						219,
+						242
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14561327,
+			"id_str": "14561327",
+			"name": "DHH",
+			"screen_name": "dhh",
+			"location": "",
+			"description": "Creator of Ruby on Rails, Founder & CTO at Basecamp, NYT best-selling author, and Le Mans 24h class-winning racing driver.",
+			"url": "https://t.co/472m0ihZkH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/472m0ihZkH",
+							"expanded_url": "https://dhh.dk",
+							"display_url": "dhh.dk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 376660,
+			"friends_count": 139,
+			"listed_count": 9847,
+			"created_at": "Sun Apr 27 20:19:25 +0000 2008",
+			"favourites_count": 12333,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 46702,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975876868455809024/eK7mDppU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975876868455809024/eK7mDppU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14561327/1539031099",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 201,
+		"favorite_count": 1200,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Look Busy fills your work calendar with realistic-looking (but secretly fake) work events. Your co-workers won’t schedule conference calls and meetings, so you can get actual work done\", productivity self defense!! ❤️ https://t.co/Fpb50PSjsF"
+	},
+	{
 		"created_at": "Fri Jan 10 06:57:16 +0000 2020",
 		"id": 1215528015028990000,
 		"id_str": "1215528015028989952",
