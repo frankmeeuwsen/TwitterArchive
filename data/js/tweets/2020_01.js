@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sun Jan 12 14:52:27 +0000 2020",
+		"id": 1215845789647261700,
+		"id_str": "1216372374867775494",
+		"full_text": "Pasta being made by machine https://t.co/Emifi7BCMV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1215600878704562200,
+					"id_str": "1215600878704562177",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1215600878704562177/img/i5Ftd6rLDgsdz2GT.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1215600878704562177/img/i5Ftd6rLDgsdz2GT.jpg",
+					"url": "https://t.co/Emifi7BCMV",
+					"display_url": "pic.twitter.com/Emifi7BCMV",
+					"expanded_url": "https://twitter.com/Dave_Iovino/status/1215845789647261696/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215600878704562200,
+					"id_str": "1215600878704562177",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1215600878704562177/img/i5Ftd6rLDgsdz2GT.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1215600878704562177/img/i5Ftd6rLDgsdz2GT.jpg",
+					"url": "https://t.co/Emifi7BCMV",
+					"display_url": "pic.twitter.com/Emifi7BCMV",
+					"expanded_url": "https://twitter.com/Dave_Iovino/status/1215845789647261696/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 12500,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1215600878704562177/vid/480x480/7hFxsozEm7c3P8gP.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1215600878704562177/pl/LlW8fEgp2D_ietXP.m3u8?tag=13"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1215600878704562177/vid/320x320/lb95gXI2JodfpMgL.mp4?tag=13"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2243152898,
+			"id_str": "2243152898",
+			"name": "Dave Iovino",
+			"screen_name": "Dave_Iovino",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1891,
+			"friends_count": 2156,
+			"listed_count": 14,
+			"created_at": "Fri Dec 13 01:12:32 +0000 2013",
+			"favourites_count": 3023,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7149,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/479157155207974914/bxTpt2G4_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/479157155207974914/bxTpt2G4_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2243152898/1542109196",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1148,
+		"favorite_count": 4477,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Pasta being made by machine https://t.co/Emifi7BCMV"
+	},
+	{
 		"created_at": "Sun Jan 12 09:31:14 +0000 2020",
 		"id": 1216291534242492400,
 		"id_str": "1216291534242492419",
