@@ -1,6 +1,297 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sun Jan 12 18:06:44 +0000 2020",
+		"id": 1212436478892134400,
+		"id_str": "1216421267336843264",
+		"full_text": "It's 2020, and I had one goal for 2019, publish @HackCurio a video cabinet of hacker curiosities. Along with capturing bits and bytes of hacker history, it's configured as a resource for teaching. We hope to double the entries in 2020. Check it out here: https://t.co/upVN8tD8qA https://t.co/rdLFGz3Xzs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HackCurio",
+					"name": "Hack_Curio",
+					"id": 1035204166191390700,
+					"id_str": "1035204166191390720",
+					"indices": [
+						48,
+						58
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/upVN8tD8qA",
+					"expanded_url": "https://hackcur.io/",
+					"display_url": "hackcur.io",
+					"indices": [
+						255,
+						278
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1212436468817440800,
+					"id_str": "1212436468817440768",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/ENNwi2yXsAAtP5c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENNwi2yXsAAtP5c.jpg",
+					"url": "https://t.co/rdLFGz3Xzs",
+					"display_url": "pic.twitter.com/rdLFGz3Xzs",
+					"expanded_url": "https://twitter.com/BiellaColeman/status/1212436478892134400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 359,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1082,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 634,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 476,
+									"y": 328,
+									"h": 22,
+									"w": 22
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1646,
+									"y": 1135,
+									"h": 77,
+									"w": 77
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1435,
+									"y": 989,
+									"h": 67,
+									"w": 67
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 841,
+									"y": 580,
+									"h": 39,
+									"w": 39
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1212436468817440800,
+					"id_str": "1212436468817440768",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/ENNwi2yXsAAtP5c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENNwi2yXsAAtP5c.jpg",
+					"url": "https://t.co/rdLFGz3Xzs",
+					"display_url": "pic.twitter.com/rdLFGz3Xzs",
+					"expanded_url": "https://twitter.com/BiellaColeman/status/1212436478892134400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 359,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1082,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 634,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 476,
+									"y": 328,
+									"h": 22,
+									"w": 22
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1646,
+									"y": 1135,
+									"h": 77,
+									"w": 77
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1435,
+									"y": 989,
+									"h": 67,
+									"w": 67
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 841,
+									"y": 580,
+									"h": 39,
+									"w": 39
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 31030273,
+			"id_str": "31030273",
+			"name": "Gabriella “Biella” Coleman",
+			"screen_name": "BiellaColeman",
+			"location": "Montréal, Québec",
+			"description": "👾👾Anthropologist and Wolfe Chair at @McGillU, author of two books on hackers. Curator @HackCurio (https://t.co/noqxWLzz6g) Board member of @torproject 👾👾",
+			"url": "https://t.co/quRjgMzIlS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/quRjgMzIlS",
+							"expanded_url": "http://gabriellacoleman.org/",
+							"display_url": "gabriellacoleman.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/noqxWLzz6g",
+							"expanded_url": "https://hackcur.io/",
+							"display_url": "hackcur.io",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 46781,
+			"friends_count": 2525,
+			"listed_count": 2378,
+			"created_at": "Tue Apr 14 02:14:23 +0000 2009",
+			"favourites_count": 21132,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16252,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1138972096292425734/erl3npJ9_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1138972096292425734/erl3npJ9_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/31030273/1564701943",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 201,
+		"favorite_count": 356,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It's 2020, and I had one goal for 2019, publish @HackCurio a video cabinet of hacker curiosities. Along with capturing bits and bytes of hacker history, it's configured as a resource for teaching. We hope to double the entries in 2020. Check it out here: https://t.co/upVN8tD8qA https://t.co/rdLFGz3Xzs"
+	},
+	{
 		"created_at": "Sun Jan 12 14:52:27 +0000 2020",
 		"id": 1215845789647261700,
 		"id_str": "1216372374867775494",
