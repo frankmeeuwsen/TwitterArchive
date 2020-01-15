@@ -1,6 +1,304 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Wed Jan 15 09:25:28 +0000 2020",
+		"id": 1217377248870916000,
+		"id_str": "1217377248870916097",
+		"full_text": "Oh wow... I wonder how this will effect apps made on @glideapps ... I was just about to release one. Maybe look at @airtable again... https://t.co/8i9RoLGuMo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "glideapps",
+					"name": "Glide",
+					"id": 1045321775930900500,
+					"id_str": "1045321775930900481",
+					"indices": [
+						53,
+						63
+					]
+				},
+				{
+					"screen_name": "airtable",
+					"name": "Airtable",
+					"id": 2786252385,
+					"id_str": "2786252385",
+					"indices": [
+						115,
+						124
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8i9RoLGuMo",
+					"expanded_url": "https://twitter.com/levelsio/status/1217333898985607168",
+					"display_url": "twitter.com/levelsio/statu…",
+					"indices": [
+						134,
+						157
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam. Doet verhalen bij Kaliber",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8868,
+			"friends_count": 326,
+			"listed_count": 584,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5726,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60998,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1217333898985607200,
+		"quoted_status_id_str": "1217333898985607168",
+		"quoted_status_permalink": {
+			"url": "https://t.co/8i9RoLGuMo",
+			"expanded": "https://twitter.com/levelsio/status/1217333898985607168",
+			"display": "twitter.com/levelsio/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jan 15 06:33:13 +0000 2020",
+			"id": 1217333898985607200,
+			"id_str": "1217333898985607168",
+			"full_text": "What the heck is Google doing? I wonder if anyone working there even has a functioning brain. \n\nThey're breaking everyone's app which uses Sheets as a db. If you work at Google please speak out about this.\n\nhttps://t.co/rQ7iM2Q5dP",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				230
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/rQ7iM2Q5dP",
+						"expanded_url": "https://www.gmass.co/blog/google-sheets-api-v4-bullshit/",
+						"display_url": "gmass.co/blog/google-sh…",
+						"indices": [
+							207,
+							230
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1577241403,
+				"id_str": "1577241403",
+				"name": "؜",
+				"screen_name": "levelsio",
+				"location": "",
+				"description": "🌴 https://t.co/dr6IFbxwX1\n👩‍💻 https://t.co/w6AtUy7mcR\n🧔 https://t.co/OkOJ0XagRA\n📚 https://t.co/CTgH9KJLuV\n💰 https://t.co/QC35TZpMyg\n\n\n✉️ Public DM inbox 👉 https://t.co/Mt7mbrqNAy",
+				"url": "https://t.co/JGBshD0TqS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JGBshD0TqS",
+								"expanded_url": "http://nomadlist.com/@levelsio",
+								"display_url": "nomadlist.com/@levelsio",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/dr6IFbxwX1",
+								"expanded_url": "http://nomadlist.com",
+								"display_url": "nomadlist.com",
+								"indices": [
+									2,
+									25
+								]
+							},
+							{
+								"url": "https://t.co/w6AtUy7mcR",
+								"expanded_url": "http://remoteok.io",
+								"display_url": "remoteok.io",
+								"indices": [
+									30,
+									53
+								]
+							},
+							{
+								"url": "https://t.co/OkOJ0XagRA",
+								"expanded_url": "http://hoodmaps.com",
+								"display_url": "hoodmaps.com",
+								"indices": [
+									56,
+									79
+								]
+							},
+							{
+								"url": "https://t.co/CTgH9KJLuV",
+								"expanded_url": "http://makebook.io",
+								"display_url": "makebook.io",
+								"indices": [
+									82,
+									105
+								]
+							},
+							{
+								"url": "https://t.co/QC35TZpMyg",
+								"expanded_url": "http://levels.fund",
+								"display_url": "levels.fund",
+								"indices": [
+									108,
+									131
+								]
+							},
+							{
+								"url": "https://t.co/Mt7mbrqNAy",
+								"expanded_url": "http://levels.io/dm",
+								"display_url": "levels.io/dm",
+								"indices": [
+									155,
+									178
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 78149,
+				"friends_count": 1,
+				"listed_count": 1589,
+				"created_at": "Mon Jul 08 09:31:59 +0000 2013",
+				"favourites_count": 60888,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 76373,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1213156732584652800/n2DmGm6E_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1213156732584652800/n2DmGm6E_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1577241403/1510316261",
+				"profile_link_color": "FF473F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 39,
+			"favorite_count": 145,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Oh wow... I wonder how this will effect apps made on @glideapps ... I was just about to release one. Maybe look at @airtable again... https://t.co/8i9RoLGuMo"
+	},
+	{
 		"created_at": "Tue Jan 14 19:49:17 +0000 2020",
 		"id": 1217171848355623000,
 		"id_str": "1217171848355622913",
