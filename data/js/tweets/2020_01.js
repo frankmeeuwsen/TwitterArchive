@@ -1,6 +1,259 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 17 11:38:57 +0000 2020",
+		"id": 1218135614895333400,
+		"id_str": "1218135614895333378",
+		"full_text": "Even @ElsbethT pingen dan! https://t.co/wxTjFUt8Rh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ElsbethT",
+					"name": "Elsbeth Teeling",
+					"id": 18973787,
+					"id_str": "18973787",
+					"indices": [
+						5,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wxTjFUt8Rh",
+					"expanded_url": "https://twitter.com/humphryjoey/status/1218132565355302912",
+					"display_url": "twitter.com/humphryjoey/st…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam. Doet verhalen bij Kaliber",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8870,
+			"friends_count": 329,
+			"listed_count": 583,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5740,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61024,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1218132565355303000,
+		"quoted_status_id_str": "1218132565355302912",
+		"quoted_status_permalink": {
+			"url": "https://t.co/wxTjFUt8Rh",
+			"expanded": "https://twitter.com/humphryjoey/status/1218132565355302912",
+			"display": "twitter.com/humphryjoey/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 17 11:26:50 +0000 2020",
+			"id": 1218132565355303000,
+			"id_str": "1218132565355302912",
+			"full_text": "@tjarko @frankmeeuwsen @Kevin_Plsm 😂 😂 Nog geen kaarten voor gezien  masr komt nog wel",
+			"truncated": false,
+			"display_text_range": [
+				35,
+				86
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "tjarko",
+						"name": "Tjarko Rikkerink",
+						"id": 997804616455770100,
+						"id_str": "997804616455770113",
+						"indices": [
+							0,
+							7
+						]
+					},
+					{
+						"screen_name": "frankmeeuwsen",
+						"name": "Frank Meeuwsen",
+						"id": 816203,
+						"id_str": "816203",
+						"indices": [
+							8,
+							22
+						]
+					},
+					{
+						"screen_name": "Kevin_Plsm",
+						"name": "Kevin Plasmans",
+						"id": 55181408,
+						"id_str": "55181408",
+						"indices": [
+							23,
+							34
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1218130938896572400,
+			"in_reply_to_status_id_str": "1218130938896572417",
+			"in_reply_to_user_id": 997804616455770100,
+			"in_reply_to_user_id_str": "997804616455770113",
+			"in_reply_to_screen_name": "tjarko",
+			"user": {
+				"id": 54028848,
+				"id_str": "54028848",
+				"name": "Humphry",
+				"screen_name": "HumphryJoey",
+				"location": "Amsterdam",
+				"description": "Werk bij Wannahaves & 433 | \nTrotse zoon van 2 (V71 & M65) |\nHobby's & grapjes maken doe ik graag |\nVrijwilliger @kinderfonds |\nVeel kaartjes voor #Tokyo2020",
+				"url": "https://t.co/U95kSoTr2w",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/U95kSoTr2w",
+								"expanded_url": "http://www.facebook.com/humphrio",
+								"display_url": "facebook.com/humphrio",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1795,
+				"friends_count": 590,
+				"listed_count": 69,
+				"created_at": "Sun Jul 05 22:37:46 +0000 2009",
+				"favourites_count": 17199,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 30350,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1135572839124361216/zR1BaBVv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1135572839124361216/zR1BaBVv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/54028848/1502103913",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Even @ElsbethT pingen dan! https://t.co/wxTjFUt8Rh"
+	},
+	{
 		"created_at": "Fri Jan 17 11:12:47 +0000 2020",
 		"id": 1218129029989052400,
 		"id_str": "1218129029989052416",
