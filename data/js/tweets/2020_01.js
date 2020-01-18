@@ -1,6 +1,254 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sat Jan 18 09:59:56 +0000 2020",
+		"id": 1218473086669992000,
+		"id_str": "1218473086669991936",
+		"full_text": "Thanks For Subscribing is weer wat beter geworden. Een nieuwe startpagina en de mogelijkheid om zelf nieuwsbrieven in te sturen. Installeer de webapp op https://t.co/qXz3aT6DfM of herstart de versie die je al op je telefoon hebt. #nocode #mvp #sidehustle #newsletter https://t.co/HV3aT3d0oy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			266
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "nocode",
+					"indices": [
+						230,
+						237
+					]
+				},
+				{
+					"text": "mvp",
+					"indices": [
+						238,
+						242
+					]
+				},
+				{
+					"text": "sidehustle",
+					"indices": [
+						243,
+						254
+					]
+				},
+				{
+					"text": "newsletter",
+					"indices": [
+						255,
+						266
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qXz3aT6DfM",
+					"expanded_url": "http://bestenieuwsbrieven.glideapp.io/",
+					"display_url": "bestenieuwsbrieven.glideapp.io",
+					"indices": [
+						153,
+						176
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1218472792812859400,
+					"id_str": "1218472792812859392",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1218472792812859392/pu/img/h9Z4pwi9jVtC6I1f.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1218472792812859392/pu/img/h9Z4pwi9jVtC6I1f.jpg",
+					"url": "https://t.co/HV3aT3d0oy",
+					"display_url": "pic.twitter.com/HV3aT3d0oy",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1218473086669991936/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 590,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 553,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 313,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1218472792812859400,
+					"id_str": "1218472792812859392",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1218472792812859392/pu/img/h9Z4pwi9jVtC6I1f.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1218472792812859392/pu/img/h9Z4pwi9jVtC6I1f.jpg",
+					"url": "https://t.co/HV3aT3d0oy",
+					"display_url": "pic.twitter.com/HV3aT3d0oy",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1218473086669991936/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 590,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 553,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 313,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							59,
+							128
+						],
+						"duration_millis": 31665,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1218472792812859392/pu/vid/360x780/RDWM2-L9I3nTfSIj.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1218472792812859392/pu/vid/590x1280/vztwqJz-L0Un-gE5.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1218472792812859392/pu/vid/320x694/BgblbL4_tzm84vWs.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1218472792812859392/pu/pl/MacsGrvVQaCbiXyw.m3u8?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam. Doet verhalen bij Kaliber",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8869,
+			"friends_count": 329,
+			"listed_count": 583,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5745,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61026,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Thanks For Subscribing is weer wat beter geworden. Een nieuwe startpagina en de mogelijkheid om zelf nieuwsbrieven in te sturen. Installeer de webapp op https://t.co/qXz3aT6DfM of herstart de versie die je al op je telefoon hebt. #nocode #mvp #sidehustle #newsletter https://t.co/HV3aT3d0oy"
+	},
+	{
 		"created_at": "Sat Jan 18 08:38:24 +0000 2020",
 		"id": 1218443086038274000,
 		"id_str": "1218452566092210183",
@@ -170,7 +418,7 @@ Grailbird.data.tweets_2020_01 =
 			"user": {
 				"id": 15976705,
 				"id_str": "15976705",
-				"name": "Amy Siskind 🏳️‍🌈",
+				"name": "Amy Siskind 🏳️🌈",
 				"screen_name": "Amy_Siskind",
 				"location": "New York",
 				"description": "Activist, feminist, author. The Weekly List website, podcast https://t.co/tsD5bH0kXa & book. POLITICO 50. Pres @TheNewAgenda. Former Wall St exec. CAA repped.",
