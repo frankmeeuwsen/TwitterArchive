@@ -1,6 +1,266 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sat Jan 18 08:38:24 +0000 2020",
+		"id": 1218443086038274000,
+		"id_str": "1218452566092210183",
+		"full_text": "“Who controls the past controls the future. Who controls the present controls the past.”\n\n– Orwell, 1984. https://t.co/zmWtd7ggyo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zmWtd7ggyo",
+					"expanded_url": "https://twitter.com/Amy_Siskind/status/1218335509182808066",
+					"display_url": "twitter.com/Amy_Siskind/st…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 48903,
+			"id_str": "48903",
+			"name": "Aral Balkan 🕷 (@aral@mastodon.ar.al)",
+			"screen_name": "aral",
+			"location": "Would rather be elsewhere",
+			"description": "Here under protest.\n\nSmall Technology Foundation\nhttps://t.co/tbNC61jYna\n\nRSS: https://t.co/P4oRD4rKOD\nMastodon: https://t.co/C6XykeV5vi",
+			"url": "https://t.co/MH5qjWg2mi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MH5qjWg2mi",
+							"expanded_url": "https://ar.al",
+							"display_url": "ar.al",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/tbNC61jYna",
+							"expanded_url": "http://small-tech.org",
+							"display_url": "small-tech.org",
+							"indices": [
+								49,
+								72
+							]
+						},
+						{
+							"url": "https://t.co/P4oRD4rKOD",
+							"expanded_url": "http://ar.al/index.xml",
+							"display_url": "ar.al/index.xml",
+							"indices": [
+								79,
+								102
+							]
+						},
+						{
+							"url": "https://t.co/C6XykeV5vi",
+							"expanded_url": "http://mastodon.ar.al",
+							"display_url": "mastodon.ar.al",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 44506,
+			"friends_count": 22467,
+			"listed_count": 2639,
+			"created_at": "Thu Dec 07 19:55:38 +0000 2006",
+			"favourites_count": 123613,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 155321,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "AAAAAA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1137974076281163777/vcH7I1I3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1137974076281163777/vcH7I1I3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/48903/1573229369",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1218335509182808000,
+		"quoted_status_id_str": "1218335509182808066",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zmWtd7ggyo",
+			"expanded": "https://twitter.com/Amy_Siskind/status/1218335509182808066",
+			"display": "twitter.com/Amy_Siskind/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jan 18 00:53:15 +0000 2020",
+			"id": 1218335509182808000,
+			"id_str": "1218335509182808066",
+			"full_text": "We are so far down the rabbit hole of authoritarianism:\n“The Archives acknowledged this week that it made multiple alterations to the photo of the 2017 Women’s March showcased at the museum, blurring signs held by marchers that were critical of Trump.” https://t.co/scBuiyQeCc",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				276
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/scBuiyQeCc",
+						"expanded_url": "https://www.washingtonpost.com/local/national-archives-exhibit-blurs-images-critical-of-president-trump/2020/01/17/71d8e80c-37e3-11ea-9541-9107303481a4_story.html",
+						"display_url": "washingtonpost.com/local/national…",
+						"indices": [
+							253,
+							276
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15976705,
+				"id_str": "15976705",
+				"name": "Amy Siskind 🏳️‍🌈",
+				"screen_name": "Amy_Siskind",
+				"location": "New York",
+				"description": "Activist, feminist, author. The Weekly List website, podcast https://t.co/tsD5bH0kXa & book. POLITICO 50. Pres @TheNewAgenda. Former Wall St exec. CAA repped.",
+				"url": "https://t.co/rSgrr8d7ky",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rSgrr8d7ky",
+								"expanded_url": "https://AmySiskind.com",
+								"display_url": "AmySiskind.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/tsD5bH0kXa",
+								"expanded_url": "http://theweeklylist.org",
+								"display_url": "theweeklylist.org",
+								"indices": [
+									61,
+									84
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 400860,
+				"friends_count": 298,
+				"listed_count": 4036,
+				"created_at": "Mon Aug 25 02:52:25 +0000 2008",
+				"favourites_count": 55655,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 64339,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1184904368107245569/xd4-jgzB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184904368107245569/xd4-jgzB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15976705/1577056657",
+				"profile_link_color": "0099B9",
+				"profile_sidebar_border_color": "5ED4DC",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7043,
+			"favorite_count": 9836,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 24,
+		"favorite_count": 29,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“Who controls the past controls the future. Who controls the present controls the past.”\n\n– Orwell, 1984. https://t.co/zmWtd7ggyo"
+	},
+	{
 		"created_at": "Fri Jan 17 15:19:52 +0000 2020",
 		"id": 1218191210411700200,
 		"id_str": "1218191210411700224",
