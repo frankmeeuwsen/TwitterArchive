@@ -1,6 +1,387 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Mon Jan 20 19:35:15 +0000 2020",
+		"id": 1219342644113019000,
+		"id_str": "1219342644113018880",
+		"full_text": "Wat gebeurt hier? Is dit Twitter Bohemian Rhapsody revisited? https://t.co/QKDA558yY9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QKDA558yY9",
+					"expanded_url": "https://twitter.com/twinklingtania/status/1218461128050626561",
+					"display_url": "twitter.com/twinklingtania…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam. Doet verhalen bij Kaliber",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8868,
+			"friends_count": 331,
+			"listed_count": 582,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5742,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61036,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1218461128050626600,
+		"quoted_status_id_str": "1218461128050626561",
+		"quoted_status_permalink": {
+			"url": "https://t.co/QKDA558yY9",
+			"expanded": "https://twitter.com/twinklingtania/status/1218461128050626561",
+			"display": "twitter.com/twinklingtania…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jan 18 09:12:25 +0000 2020",
+			"id": 1218461128050626600,
+			"id_str": "1218461128050626561",
+			"full_text": "This. Is. Fucking. Insane.  https://t.co/sbfgP89lV9",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				51
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1218377566190493700,
+						"id_str": "1218377566190493698",
+						"indices": [
+							28,
+							51
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1218377566190493698/pu/img/B_h9vProuzF5tYGm.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1218377566190493698/pu/img/B_h9vProuzF5tYGm.jpg",
+						"url": "https://t.co/sbfgP89lV9",
+						"display_url": "pic.twitter.com/sbfgP89lV9",
+						"expanded_url": "https://twitter.com/FriskyMikeBloom/status/1218377622855602176/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1218377622855602200,
+						"source_status_id_str": "1218377622855602176",
+						"source_user_id": 1180613639050543000,
+						"source_user_id_str": "1180613639050543104",
+						"features": {}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1218377566190493700,
+						"id_str": "1218377566190493698",
+						"indices": [
+							28,
+							51
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1218377566190493698/pu/img/B_h9vProuzF5tYGm.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1218377566190493698/pu/img/B_h9vProuzF5tYGm.jpg",
+						"url": "https://t.co/sbfgP89lV9",
+						"display_url": "pic.twitter.com/sbfgP89lV9",
+						"expanded_url": "https://twitter.com/FriskyMikeBloom/status/1218377622855602176/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1218377622855602200,
+						"source_status_id_str": "1218377622855602176",
+						"source_user_id": 1180613639050543000,
+						"source_user_id_str": "1180613639050543104",
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 30866,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1218377566190493698/pu/vid/360x640/uYImujeOkWklKFsz.mp4?tag=10"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1218377566190493698/pu/vid/320x568/sxydImewlelxzWoN.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1218377566190493698/pu/pl/0hGEHwXQzKaxjVEE.m3u8?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1218377566190493698/pu/vid/720x1280/9fF6GBRd_1o9_JNg.mp4?tag=10"
+								}
+							]
+						},
+						"features": {},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 1180613639050543000,
+								"id_str": "1180613639050543104",
+								"name": "Mike Bloomberg America’s Beloved Billionaire",
+								"screen_name": "FriskyMikeBloom",
+								"location": "Behind you",
+								"description": "Hey Kiddos it’s me papa Mike I’m here to not only stop you but also frisk you because I’m a cop at heart (parody)Creator:@FauxNewsForDJT @woahitisme778",
+								"url": "https://t.co/xk8TPZHe0l",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/xk8TPZHe0l",
+												"expanded_url": "http://voteForMePlease666.com",
+												"display_url": "voteForMePlease666.com",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 1350,
+								"friends_count": 211,
+								"listed_count": 8,
+								"created_at": "Sat Oct 05 22:40:27 +0000 2019",
+								"favourites_count": 3656,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": false,
+								"verified": false,
+								"statuses_count": 2797,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "F5F8FA",
+								"profile_background_image_url": null,
+								"profile_background_image_url_https": null,
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1202359186463563777/vB7m62AW_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1202359186463563777/vB7m62AW_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/1180613639050543104/1575861205",
+								"profile_link_color": "1DA1F2",
+								"profile_sidebar_border_color": "C0DEED",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": true,
+								"default_profile": true,
+								"default_profile_image": false,
+								"can_media_tag": true,
+								"followed_by": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 298110297,
+				"id_str": "298110297",
+				"name": "Tania Singh",
+				"screen_name": "TwinklingTania",
+				"location": "",
+				"description": "Eboard @CA_Dem AD61 & Labor Organizer but I speak as Tania- cannabis enthusiast, leftist, over sharer of intimate feelings & perpetually experiencing FOMO",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13202,
+				"friends_count": 2929,
+				"listed_count": 59,
+				"created_at": "Fri May 13 18:20:55 +0000 2011",
+				"favourites_count": 57337,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 25604,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1219100610722615296/xBzuUUw8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1219100610722615296/xBzuUUw8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/298110297/1571806496",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 57319,
+			"favorite_count": 187082,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Wat gebeurt hier? Is dit Twitter Bohemian Rhapsody revisited? https://t.co/QKDA558yY9"
+	},
+	{
 		"created_at": "Mon Jan 20 15:43:34 +0000 2020",
 		"id": 1219284341127286800,
 		"id_str": "1219284341127286784",
