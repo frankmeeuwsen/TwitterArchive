@@ -1,6 +1,235 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 23 11:28:48 +0000 2020",
+		"id": 1220307390618357800,
+		"id_str": "1220307390618357760",
+		"full_text": "Frank 2020 - heb je nou weer een muizenkop afgeknaagd? https://t.co/IKBnx0Ptfk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IKBnx0Ptfk",
+					"expanded_url": "https://twitter.com/reneevh/status/1220295667484106752",
+					"display_url": "twitter.com/reneevh/status…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam. Doet verhalen bij Kaliber",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8866,
+			"friends_count": 342,
+			"listed_count": 582,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5751,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61055,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1220295667484106800,
+		"quoted_status_id_str": "1220295667484106752",
+		"quoted_status_permalink": {
+			"url": "https://t.co/IKBnx0Ptfk",
+			"expanded": "https://twitter.com/reneevh/status/1220295667484106752",
+			"display": "twitter.com/reneevh/status…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 23 10:42:13 +0000 2020",
+			"id": 1220295667484106800,
+			"id_str": "1220295667484106752",
+			"full_text": "Renée 2020 — Je ligt in de weg https://t.co/rFfh43qfxy",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				30
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/rFfh43qfxy",
+						"expanded_url": "https://twitter.com/michielveenstra/status/1220293887757115392",
+						"display_url": "twitter.com/michielveenstr…",
+						"indices": [
+							31,
+							54
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 25069966,
+				"id_str": "25069966",
+				"name": "Renée van Holsteijn",
+				"screen_name": "reneevh",
+				"location": "",
+				"description": "Is leuker op insta (@rrenee.nl), helpt met communities, content en popquizzen, lacht veel, luistert de hele dag naar muziek en is altijd inconsequent.",
+				"url": "https://t.co/GxriuaQQki",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/GxriuaQQki",
+								"expanded_url": "http://www.rrenee.nl",
+								"display_url": "rrenee.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1211,
+				"friends_count": 1468,
+				"listed_count": 38,
+				"created_at": "Wed Mar 18 13:18:46 +0000 2009",
+				"favourites_count": 3783,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 14549,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1042114298515005441/AKOyRNBZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1042114298515005441/AKOyRNBZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/25069966/1411139069",
+				"profile_link_color": "909090",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "2C2C2C",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1220293887757115400,
+			"quoted_status_id_str": "1220293887757115392",
+			"quoted_status_permalink": {
+				"url": "https://t.co/rFfh43qfxy",
+				"expanded": "https://twitter.com/michielveenstra/status/1220293887757115392",
+				"display": "twitter.com/michielveenstr…"
+			},
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Frank 2020 - heb je nou weer een muizenkop afgeknaagd? https://t.co/IKBnx0Ptfk"
+	},
+	{
 		"created_at": "Thu Jan 23 08:00:16 +0000 2020",
 		"id": 1220254912296243200,
 		"id_str": "1220254912296243201",
