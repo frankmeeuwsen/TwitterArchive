@@ -1,6 +1,114 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 24 18:08:14 +0000 2020",
+		"id": 1220761021540962300,
+		"id_str": "1220770297701421057",
+		"full_text": "Create a single page of text with a certain brutalist aesthetic, an alternative to pastebins.: https://t.co/mZKT4Ifp29",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mZKT4Ifp29",
+					"expanded_url": "https://www.kickscondor.com/temper",
+					"display_url": "kickscondor.com/temper",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://brid.gy/\" rel=\"nofollow\">Bridgy</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2917306868,
+			"id_str": "2917306868",
+			"name": "KICKS CONDOR",
+			"screen_name": "kickscondor",
+			"location": "",
+			"description": "my name and bio could not be less important, even to myself. i will try to find you online at least one more time.",
+			"url": "https://t.co/F30PMtwfwE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/F30PMtwfwE",
+							"expanded_url": "https://www.kickscondor.com/",
+							"display_url": "kickscondor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 158,
+			"friends_count": 118,
+			"listed_count": 4,
+			"created_at": "Wed Dec 03 06:56:56 +0000 2014",
+			"favourites_count": 65,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 317,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1073661258673446912/kf3FPDwH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1073661258673446912/kf3FPDwH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2917306868/1418371413",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Create a single page of text with a certain brutalist aesthetic, an alternative to pastebins.: https://t.co/mZKT4Ifp29"
+	},
+	{
 		"created_at": "Fri Jan 24 17:20:10 +0000 2020",
 		"id": 1220758201823645700,
 		"id_str": "1220758201823645701",
