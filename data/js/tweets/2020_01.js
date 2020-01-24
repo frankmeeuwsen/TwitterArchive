@@ -1,6 +1,222 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 24 07:17:12 +0000 2020",
+		"id": 1220601726845235200,
+		"id_str": "1220606460918452224",
+		"full_text": "Goedemorgen Twitter!\nWe zoeken een huurder / hurend stel voor het appartement boven ons. 40 m2, 1e verdieping, ongemeubileerd, €1.350 ex, Staatsliedenbuurt, Amsterdam.\nDM bij interesse, dan stuur ik foto’s als de verbouwing klaar is. In de eerste week van feb kan er iemand in.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7677082,
+			"id_str": "7677082",
+			"name": "Gonnie Spijkstra",
+			"screen_name": "gonniespijkstra",
+			"location": "Amsterdam, Staatsliedenbuurt",
+			"description": "#jargonnie | story first | journalistiek strateeg (ofzoiets) | programmamanager a.i. @nos academie | komt uit een krantenfamilie | stopte meta in @volkskrant",
+			"url": "https://t.co/IHWcTxAnvk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IHWcTxAnvk",
+							"expanded_url": "http://volkskrant.nl/terredactie",
+							"display_url": "volkskrant.nl/terredactie",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7722,
+			"friends_count": 1980,
+			"listed_count": 240,
+			"created_at": "Tue Jul 24 07:16:23 +0000 2007",
+			"favourites_count": 6087,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23102,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065260093015494657/wF-ea8Im_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065260093015494657/wF-ea8Im_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7677082/1490293337",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "nl",
+		"text": "Goedemorgen Twitter!\nWe zoeken een huurder / hurend stel voor het appartement boven ons. 40 m2, 1e verdieping, ongemeubileerd, €1.350 ex, Staatsliedenbuurt, Amsterdam.\nDM bij interesse, dan stuur ik foto’s als de verbouwing klaar is. In de eerste week van feb kan er iemand in."
+	},
+	{
+		"created_at": "Fri Jan 24 06:49:43 +0000 2020",
+		"id": 1220599542715908000,
+		"id_str": "1220599542715908097",
+		"full_text": "Als jullie @readwiseio nou leuk vinden, doe me een lol en maak een account met deze link. https://t.co/ujvRAfOfAz\nDan krijg ik weer dertig dagen gratis highlights service!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "readwiseio",
+					"name": "Readwise",
+					"id": 920321515077414900,
+					"id_str": "920321515077414912",
+					"indices": [
+						11,
+						22
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ujvRAfOfAz",
+					"expanded_url": "https://readwise.io/i/frank148",
+					"display_url": "readwise.io/i/frank148",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1220597264923746300,
+		"in_reply_to_status_id_str": "1220597264923746305",
+		"in_reply_to_user_id": 816203,
+		"in_reply_to_user_id_str": "816203",
+		"in_reply_to_screen_name": "frankmeeuwsen",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "schrijft en doet dingen over de impact van tech op mens en maatschappij. #TeamHuman | #technoUtopian aldus The New Yorker. #PearlJam. Doet verhalen bij Kaliber",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8867,
+			"friends_count": 342,
+			"listed_count": 582,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5751,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61059,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Als jullie @readwiseio nou leuk vinden, doe me een lol en maak een account met deze link. https://t.co/ujvRAfOfAz\nDan krijg ik weer dertig dagen gratis highlights service!"
+	},
+	{
 		"created_at": "Thu Jan 23 19:03:59 +0000 2020",
 		"id": 1220421941837869000,
 		"id_str": "1220421941837869057",
