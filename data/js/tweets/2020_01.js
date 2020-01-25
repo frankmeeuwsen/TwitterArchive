@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sat Jan 25 19:12:51 +0000 2020",
+		"id": 1221012495290249200,
+		"id_str": "1221148948368437248",
+		"full_text": "Short song breakdown Gigaton (what we know so far), HERE WE GO:\n\nWho Ever Said (5.11) - Driving rocker\nLine: All the answers will be found in the mistakes we have made  \n#pearljam #gigaton https://t.co/Be1nevaQKN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "pearljam",
+					"indices": [
+						170,
+						179
+					]
+				},
+				{
+					"text": "gigaton",
+					"indices": [
+						180,
+						188
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1221012491347660800,
+					"id_str": "1221012491347660800",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/EPHoZEUXkAABT1w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPHoZEUXkAABT1w.jpg",
+					"url": "https://t.co/Be1nevaQKN",
+					"display_url": "pic.twitter.com/Be1nevaQKN",
+					"expanded_url": "https://twitter.com/PearlJamHolland/status/1221012495290249217/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 878,
+							"h": 462,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 878,
+							"h": 462,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 358,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1221012491347660800,
+					"id_str": "1221012491347660800",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/EPHoZEUXkAABT1w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPHoZEUXkAABT1w.jpg",
+					"url": "https://t.co/Be1nevaQKN",
+					"display_url": "pic.twitter.com/Be1nevaQKN",
+					"expanded_url": "https://twitter.com/PearlJamHolland/status/1221012495290249217/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 878,
+							"h": 462,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 878,
+							"h": 462,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 358,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2933941318,
+			"id_str": "2933941318",
+			"name": "Pearl Jam Holland",
+			"screen_name": "PearlJamHolland",
+			"location": "",
+			"description": "Troubled souls unite! Dutch PJ-fanaccount. Follow for Pearl Jam news, videos, lyrics, facts & photos. Instagram: pearljamholland.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2341,
+			"friends_count": 264,
+			"listed_count": 27,
+			"created_at": "Sat Dec 20 17:16:58 +0000 2014",
+			"favourites_count": 10285,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3801,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/968918956860985346/u_FxXkMa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/968918956860985346/u_FxXkMa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2933941318/1419097641",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 23,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Short song breakdown Gigaton (what we know so far), HERE WE GO:\n\nWho Ever Said (5.11) - Driving rocker\nLine: All the answers will be found in the mistakes we have made  \n#pearljam #gigaton https://t.co/Be1nevaQKN"
+	},
+	{
 		"created_at": "Sat Jan 25 18:05:20 +0000 2020",
 		"id": 1221131956353667000,
 		"id_str": "1221131956353667073",
