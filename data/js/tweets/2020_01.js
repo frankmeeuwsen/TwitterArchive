@@ -1,6 +1,116 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sat Jan 25 11:53:43 +0000 2020",
+		"id": 1220969384153428000,
+		"id_str": "1221038434552184832",
+		"full_text": "“The 12-track “Gigaton” is arguably the band’s strongest and most diverse work since 1998’s “Yield.”  \n\nAWESOME!! #pearljam #gigaton \nEddie Vedder Unveils Pearl Jam’s New Album, ‘Gigaton,’ at Intimate Listening Session https://t.co/m1RbvYBvmC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			242
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "pearljam",
+					"indices": [
+						114,
+						123
+					]
+				},
+				{
+					"text": "gigaton",
+					"indices": [
+						124,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/m1RbvYBvmC",
+					"expanded_url": "https://variety.com/2020/music/news/pearl-jam-eddie-vedder-unveils-new-album-gigaton-1203479780/#utm_medium=social&utm_source=twitter&utm_campaign=social_bar&utm_content=bottom&utm_id=1203479780",
+					"display_url": "variety.com/2020/music/new…",
+					"indices": [
+						219,
+						242
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2933941318,
+			"id_str": "2933941318",
+			"name": "Pearl Jam Holland",
+			"screen_name": "PearlJamHolland",
+			"location": "",
+			"description": "Troubled souls unite! Dutch PJ-fanaccount. Follow for Pearl Jam news, videos, lyrics, facts & photos. Instagram: pearljamholland.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2340,
+			"friends_count": 264,
+			"listed_count": 27,
+			"created_at": "Sat Dec 20 17:16:58 +0000 2014",
+			"favourites_count": 10280,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3799,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/968918956860985346/u_FxXkMa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/968918956860985346/u_FxXkMa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2933941318/1419097641",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 26,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“The 12-track “Gigaton” is arguably the band’s strongest and most diverse work since 1998’s “Yield.”  \n\nAWESOME!! #pearljam #gigaton \nEddie Vedder Unveils Pearl Jam’s New Album, ‘Gigaton,’ at Intimate Listening Session https://t.co/m1RbvYBvmC"
+	},
+	{
 		"created_at": "Fri Jan 24 18:08:14 +0000 2020",
 		"id": 1220761021540962300,
 		"id_str": "1220770297701421057",
