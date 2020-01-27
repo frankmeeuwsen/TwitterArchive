@@ -1,6 +1,377 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Mon Jan 27 17:37:40 +0000 2020",
+		"id": 1221503832074662000,
+		"id_str": "1221849769263403009",
+		"full_text": "After a weekend of @NotionHQ'ing, I'm in a much better spot. \n\n- Improved sidebar! Vector outline icons &gt; Emoji icons don't @-me\n- Have a Tasks database and a Side Projects database that uses the Tasks database\n- Tasks get auto-prioritized\n- Added progress meters for some things https://t.co/Wf0Mm8f0N8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			282
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NotionHQ",
+					"name": "Notion",
+					"id": 708915428454576100,
+					"id_str": "708915428454576128",
+					"indices": [
+						19,
+						28
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1221503822708854800,
+					"id_str": "1221503822708854787",
+					"indices": [
+						283,
+						306
+					],
+					"media_url": "http://pbs.twimg.com/media/EPOnQURX0AM_APv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPOnQURX0AM_APv.jpg",
+					"url": "https://t.co/Wf0Mm8f0N8",
+					"display_url": "pic.twitter.com/Wf0Mm8f0N8",
+					"expanded_url": "https://twitter.com/davatron5000/status/1221503832074661888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 372,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1050,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 656,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 111,
+									"y": 21,
+									"h": 79,
+									"w": 79
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 315,
+									"y": 61,
+									"h": 225,
+									"w": 225
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 196,
+									"y": 38,
+									"h": 140,
+									"w": 140
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 315,
+									"y": 61,
+									"h": 225,
+									"w": 225
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1221503822708854800,
+					"id_str": "1221503822708854787",
+					"indices": [
+						283,
+						306
+					],
+					"media_url": "http://pbs.twimg.com/media/EPOnQURX0AM_APv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPOnQURX0AM_APv.jpg",
+					"url": "https://t.co/Wf0Mm8f0N8",
+					"display_url": "pic.twitter.com/Wf0Mm8f0N8",
+					"expanded_url": "https://twitter.com/davatron5000/status/1221503832074661888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 372,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1050,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 656,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 111,
+									"y": 21,
+									"h": 79,
+									"w": 79
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 315,
+									"y": 61,
+									"h": 225,
+									"w": 225
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 196,
+									"y": 38,
+									"h": 140,
+									"w": 140
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 315,
+									"y": 61,
+									"h": 225,
+									"w": 225
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1221503825288278000,
+					"id_str": "1221503825288278016",
+					"indices": [
+						283,
+						306
+					],
+					"media_url": "http://pbs.twimg.com/media/EPOnQd4WsAAtN7x.png",
+					"media_url_https": "https://pbs.twimg.com/media/EPOnQd4WsAAtN7x.png",
+					"url": "https://t.co/Wf0Mm8f0N8",
+					"display_url": "pic.twitter.com/Wf0Mm8f0N8",
+					"expanded_url": "https://twitter.com/davatron5000/status/1221503832074661888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 477,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 822,
+							"h": 577,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 822,
+							"h": 577,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1221503825300861000,
+					"id_str": "1221503825300860941",
+					"indices": [
+						283,
+						306
+					],
+					"media_url": "http://pbs.twimg.com/media/EPOnQd7WsA02ZGk.png",
+					"media_url_https": "https://pbs.twimg.com/media/EPOnQd7WsA02ZGk.png",
+					"url": "https://t.co/Wf0Mm8f0N8",
+					"display_url": "pic.twitter.com/Wf0Mm8f0N8",
+					"expanded_url": "https://twitter.com/davatron5000/status/1221503832074661888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 546,
+							"h": 422,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 546,
+							"h": 422,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 546,
+							"h": 422,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14839862,
+			"id_str": "14839862",
+			"name": "Dave Rupert",
+			"screen_name": "davatron5000",
+			"location": "Austin, TX",
+			"description": "Developer at @paravelinc, Podcaster at @shoptalkshow, Adventurer at @godaytrip, 日本語ＯＫ, #davegoeswindows, Historical Graphic Novel Otaku, Junkrat Main",
+			"url": "https://t.co/v7oyytCIfP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/v7oyytCIfP",
+							"expanded_url": "http://daverupert.com",
+							"display_url": "daverupert.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22462,
+			"friends_count": 729,
+			"listed_count": 1245,
+			"created_at": "Tue May 20 00:51:25 +0000 2008",
+			"favourites_count": 63251,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32831,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1A1A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/477460555981025280/JUGkf8zv_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/477460555981025280/JUGkf8zv_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14839862/1349735644",
+			"profile_link_color": "FA2600",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EAF6F7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 236,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "After a weekend of @NotionHQ'ing, I'm in a much better spot. \n\n- Improved sidebar! Vector outline icons &gt; Emoji icons don't @-me\n- Have a Tasks database and a Side Projects database that uses the Tasks database\n- Tasks get auto-prioritized\n- Added progress meters for some things https://t.co/Wf0Mm8f0N8"
+	},
+	{
 		"created_at": "Sun Jan 26 20:19:59 +0000 2020",
 		"id": 1221528230286499800,
 		"id_str": "1221528230286499840",
