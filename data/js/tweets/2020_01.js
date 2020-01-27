@@ -1,6 +1,948 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Mon Jan 27 21:49:59 +0000 2020",
+		"id": 1221913264826744800,
+		"id_str": "1221913264826744834",
+		"full_text": "Is wel zo. https://t.co/CowmA67Gey",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1221913254747877400,
+					"id_str": "1221913254747877381",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/EPUboZeWsAUbNgW.png",
+					"media_url_https": "https://pbs.twimg.com/media/EPUboZeWsAUbNgW.png",
+					"url": "https://t.co/CowmA67Gey",
+					"display_url": "pic.twitter.com/CowmA67Gey",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1221913264826744834/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 640,
+							"h": 427,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 427,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 427,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 451,
+									"y": 17,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 414,
+									"y": 113,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 48,
+									"y": 130,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 286,
+									"y": 129,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 379,
+									"y": 17,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 56,
+									"y": 20,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 531,
+									"y": 22,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 274,
+									"y": 14,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 112,
+									"y": 33,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 472,
+									"y": 85,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 571,
+									"y": 207,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 474,
+									"y": 215,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 194,
+									"y": 10,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 542,
+									"y": 92,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 126,
+									"y": 110,
+									"h": 99,
+									"w": 99
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 451,
+									"y": 17,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 414,
+									"y": 113,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 48,
+									"y": 130,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 286,
+									"y": 129,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 379,
+									"y": 17,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 56,
+									"y": 20,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 531,
+									"y": 22,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 274,
+									"y": 14,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 112,
+									"y": 33,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 472,
+									"y": 85,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 571,
+									"y": 207,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 474,
+									"y": 215,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 194,
+									"y": 10,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 542,
+									"y": 92,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 126,
+									"y": 110,
+									"h": 99,
+									"w": 99
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 451,
+									"y": 17,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 414,
+									"y": 113,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 48,
+									"y": 130,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 286,
+									"y": 129,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 379,
+									"y": 17,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 56,
+									"y": 20,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 531,
+									"y": 22,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 274,
+									"y": 14,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 112,
+									"y": 33,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 472,
+									"y": 85,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 571,
+									"y": 207,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 474,
+									"y": 215,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 194,
+									"y": 10,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 542,
+									"y": 92,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 126,
+									"y": 110,
+									"h": 99,
+									"w": 99
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 451,
+									"y": 17,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 414,
+									"y": 113,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 48,
+									"y": 130,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 286,
+									"y": 129,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 379,
+									"y": 17,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 56,
+									"y": 20,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 531,
+									"y": 22,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 274,
+									"y": 14,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 112,
+									"y": 33,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 472,
+									"y": 85,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 571,
+									"y": 207,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 474,
+									"y": 215,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 194,
+									"y": 10,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 542,
+									"y": 92,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 126,
+									"y": 110,
+									"h": 99,
+									"w": 99
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1221913254747877400,
+					"id_str": "1221913254747877381",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/EPUboZeWsAUbNgW.png",
+					"media_url_https": "https://pbs.twimg.com/media/EPUboZeWsAUbNgW.png",
+					"url": "https://t.co/CowmA67Gey",
+					"display_url": "pic.twitter.com/CowmA67Gey",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1221913264826744834/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 640,
+							"h": 427,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 427,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 427,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 451,
+									"y": 17,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 414,
+									"y": 113,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 48,
+									"y": 130,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 286,
+									"y": 129,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 379,
+									"y": 17,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 56,
+									"y": 20,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 531,
+									"y": 22,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 274,
+									"y": 14,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 112,
+									"y": 33,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 472,
+									"y": 85,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 571,
+									"y": 207,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 474,
+									"y": 215,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 194,
+									"y": 10,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 542,
+									"y": 92,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 126,
+									"y": 110,
+									"h": 99,
+									"w": 99
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 451,
+									"y": 17,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 414,
+									"y": 113,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 48,
+									"y": 130,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 286,
+									"y": 129,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 379,
+									"y": 17,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 56,
+									"y": 20,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 531,
+									"y": 22,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 274,
+									"y": 14,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 112,
+									"y": 33,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 472,
+									"y": 85,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 571,
+									"y": 207,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 474,
+									"y": 215,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 194,
+									"y": 10,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 542,
+									"y": 92,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 126,
+									"y": 110,
+									"h": 99,
+									"w": 99
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 451,
+									"y": 17,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 414,
+									"y": 113,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 48,
+									"y": 130,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 286,
+									"y": 129,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 379,
+									"y": 17,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 56,
+									"y": 20,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 531,
+									"y": 22,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 274,
+									"y": 14,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 112,
+									"y": 33,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 472,
+									"y": 85,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 571,
+									"y": 207,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 474,
+									"y": 215,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 194,
+									"y": 10,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 542,
+									"y": 92,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 126,
+									"y": 110,
+									"h": 99,
+									"w": 99
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 451,
+									"y": 17,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 414,
+									"y": 113,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 48,
+									"y": 130,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 286,
+									"y": 129,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 379,
+									"y": 17,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 56,
+									"y": 20,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 531,
+									"y": 22,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 274,
+									"y": 14,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 112,
+									"y": 33,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 472,
+									"y": 85,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 571,
+									"y": 207,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 474,
+									"y": 215,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 194,
+									"y": 10,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 542,
+									"y": 92,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 126,
+									"y": 110,
+									"h": 99,
+									"w": 99
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Schrijft over de impact van tech op mens en maatschappij. @indiewebnl #TeamHuman #PearlJam @kaliberInteract https://t.co/ODgIUUbnBR",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								108,
+								131
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8865,
+			"friends_count": 348,
+			"listed_count": 582,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5759,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61074,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Is wel zo. https://t.co/CowmA67Gey"
+	},
+	{
 		"created_at": "Mon Jan 27 21:12:21 +0000 2020",
 		"id": 1221903794793001000,
 		"id_str": "1221903794793000961",
