@@ -1,6 +1,322 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Tue Jan 28 19:00:18 +0000 2020",
+		"id": 1222216753821835300,
+		"id_str": "1222232951313911808",
+		"full_text": "Happy #DataPrivacyDay2020! https://t.co/z3NjCNjEz5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DataPrivacyDay2020",
+					"indices": [
+						6,
+						25
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1222216750780928000,
+					"id_str": "1222216750780928006",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/media/EPYvqMTUUAYK56g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPYvqMTUUAYK56g.jpg",
+					"url": "https://t.co/z3NjCNjEz5",
+					"display_url": "pic.twitter.com/z3NjCNjEz5",
+					"expanded_url": "https://twitter.com/EFF/status/1222216753821835264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 431,
+									"y": 65,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 546,
+									"y": 159,
+									"h": 55,
+									"w": 55
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 635,
+									"y": 97,
+									"h": 62,
+									"w": 62
+								},
+								{
+									"x": 804,
+									"y": 234,
+									"h": 82,
+									"w": 82
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 635,
+									"y": 97,
+									"h": 62,
+									"w": 62
+								},
+								{
+									"x": 804,
+									"y": 234,
+									"h": 82,
+									"w": 82
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 635,
+									"y": 97,
+									"h": 62,
+									"w": 62
+								},
+								{
+									"x": 804,
+									"y": 234,
+									"h": 82,
+									"w": 82
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1222216750780928000,
+					"id_str": "1222216750780928006",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/media/EPYvqMTUUAYK56g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPYvqMTUUAYK56g.jpg",
+					"url": "https://t.co/z3NjCNjEz5",
+					"display_url": "pic.twitter.com/z3NjCNjEz5",
+					"expanded_url": "https://twitter.com/EFF/status/1222216753821835264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 431,
+									"y": 65,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 546,
+									"y": 159,
+									"h": 55,
+									"w": 55
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 635,
+									"y": 97,
+									"h": 62,
+									"w": 62
+								},
+								{
+									"x": 804,
+									"y": 234,
+									"h": 82,
+									"w": 82
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 635,
+									"y": 97,
+									"h": 62,
+									"w": 62
+								},
+								{
+									"x": 804,
+									"y": 234,
+									"h": 82,
+									"w": 82
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 635,
+									"y": 97,
+									"h": 62,
+									"w": 62
+								},
+								{
+									"x": 804,
+									"y": 234,
+									"h": 82,
+									"w": 82
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4816,
+			"id_str": "4816",
+			"name": "EFF",
+			"screen_name": "EFF",
+			"location": "San Francisco, CA",
+			"description": "We're the Electronic Frontier Foundation. We defend your civil liberties in a digital world.",
+			"url": "https://t.co/1gDghboN0q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1gDghboN0q",
+							"expanded_url": "https://www.eff.org",
+							"display_url": "eff.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 440139,
+			"friends_count": 1006,
+			"listed_count": 14681,
+			"created_at": "Mon Aug 28 14:17:28 +0000 2006",
+			"favourites_count": 1553,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 24928,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E17701",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1109145060929490945/H1RmsjEu_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1109145060929490945/H1RmsjEu_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4816/1577914240",
+			"profile_link_color": "6A3ACB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E8D8DD",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 587,
+		"favorite_count": 808,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Happy #DataPrivacyDay2020! https://t.co/z3NjCNjEz5"
+	},
+	{
 		"created_at": "Tue Jan 28 16:50:42 +0000 2020",
 		"id": 1222200338205356000,
 		"id_str": "1222200338205356032",
