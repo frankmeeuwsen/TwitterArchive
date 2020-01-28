@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Tue Jan 28 10:13:29 +0000 2020",
+		"id": 1222091743727931400,
+		"id_str": "1222100373806120960",
+		"full_text": "Vandaag is het de Dag van de Privacy. Een mooi moment om stil te staan bij de gegevens die je met andere partijen deelt. #nietmeerdannodig #dagvandeprivacy https://t.co/4qKNHuCj30 https://t.co/RQK8etcopz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "nietmeerdannodig",
+					"indices": [
+						121,
+						138
+					]
+				},
+				{
+					"text": "dagvandeprivacy",
+					"indices": [
+						139,
+						155
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4qKNHuCj30",
+					"expanded_url": "https://www.autoriteitpersoonsgegevens.nl/nl/zelf-doen/privacyrechten",
+					"display_url": "autoriteitpersoonsgegevens.nl/nl/zelf-doen/p…",
+					"indices": [
+						156,
+						179
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1222091696395161600,
+					"id_str": "1222091696395161601",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1222091696395161601/pu/img/B1X0b4OWGJs1As6T.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1222091696395161601/pu/img/B1X0b4OWGJs1As6T.jpg",
+					"url": "https://t.co/RQK8etcopz",
+					"display_url": "pic.twitter.com/RQK8etcopz",
+					"expanded_url": "https://twitter.com/toezicht_AP/status/1222091743727931394/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1222091696395161600,
+					"id_str": "1222091696395161601",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1222091696395161601/pu/img/B1X0b4OWGJs1As6T.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1222091696395161601/pu/img/B1X0b4OWGJs1As6T.jpg",
+					"url": "https://t.co/RQK8etcopz",
+					"display_url": "pic.twitter.com/RQK8etcopz",
+					"expanded_url": "https://twitter.com/toezicht_AP/status/1222091743727931394/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 24120,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1222091696395161601/pu/pl/8Oj8nQtjN0XJz3gc.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1222091696395161601/pu/vid/480x270/rBN_SGJg0AxnkX_x.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1222091696395161601/pu/vid/640x360/lEWnBQ4qWsPINwoE.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1222091696395161601/pu/vid/1280x720/w3Y9DuPfh76NYLj-.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 951417120012820500,
+			"id_str": "951417120012820480",
+			"name": "AutPersoonsgegevens",
+			"screen_name": "toezicht_AP",
+			"location": "Den Haag, Nederland",
+			"description": "Autoriteit Persoonsgegevens (AP) - bevordert en bewaakt de bescherming van persoonsgegevens - onafhankelijk toezichthouder - reacties op werkdagen van 9 - 17u.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3006,
+			"friends_count": 297,
+			"listed_count": 54,
+			"created_at": "Thu Jan 11 11:34:52 +0000 2018",
+			"favourites_count": 47,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1070,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952929999140655107/bOThblrC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952929999140655107/bOThblrC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/951417120012820480/1575275983",
+			"profile_link_color": "0F1E3C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Vandaag is het de Dag van de Privacy. Een mooi moment om stil te staan bij de gegevens die je met andere partijen deelt. #nietmeerdannodig #dagvandeprivacy https://t.co/4qKNHuCj30 https://t.co/RQK8etcopz"
+	},
+	{
 		"created_at": "Tue Jan 28 07:12:22 +0000 2020",
 		"id": 1222054793675526100,
 		"id_str": "1222054793675526149",
