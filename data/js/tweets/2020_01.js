@@ -1,6 +1,496 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Wed Jan 29 06:34:59 +0000 2020",
+		"id": 1222407775470473200,
+		"id_str": "1222407775470473216",
+		"full_text": "Benieuwd wat dit is. https://t.co/AHwzD3s6t0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AHwzD3s6t0",
+					"expanded_url": "https://twitter.com/tryscroll/status/1222157508124532737",
+					"display_url": "twitter.com/tryscroll/stat…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Schrijft over de impact van tech op mens en maatschappij. @indiewebnl #TeamHuman #PearlJam @kaliberInteract https://t.co/ODgIUUbnBR",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								108,
+								131
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8864,
+			"friends_count": 348,
+			"listed_count": 582,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5761,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61080,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1222157508124532700,
+		"quoted_status_id_str": "1222157508124532737",
+		"quoted_status_permalink": {
+			"url": "https://t.co/AHwzD3s6t0",
+			"expanded": "https://twitter.com/tryscroll/status/1222157508124532737",
+			"display": "twitter.com/tryscroll/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 28 14:00:31 +0000 2020",
+			"id": 1222157508124532700,
+			"id_str": "1222157508124532737",
+			"full_text": "Scroll is now open to the public! Now you can experience an internet that’s twice as fast, with 80% fewer trackers and completely ad free on a growing network of sites. Your membership directly funds the sites you love. Become a member today! https://t.co/l4ev9bppRg https://t.co/OCMcniSsDz",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				266
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/l4ev9bppRg",
+						"expanded_url": "http://Scroll.com",
+						"display_url": "Scroll.com",
+						"indices": [
+							243,
+							266
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1222157503598932000,
+						"id_str": "1222157503598931974",
+						"indices": [
+							267,
+							290
+						],
+						"media_url": "http://pbs.twimg.com/media/EPX5xjWXsAYDYlS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EPX5xjWXsAYDYlS.jpg",
+						"url": "https://t.co/OCMcniSsDz",
+						"display_url": "pic.twitter.com/OCMcniSsDz",
+						"expanded_url": "https://twitter.com/tryscroll/status/1222157508124532737/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"medium": {
+								"faces": [
+									{
+										"x": 781,
+										"y": 32,
+										"h": 46,
+										"w": 46
+									},
+									{
+										"x": 621,
+										"y": 189,
+										"h": 47,
+										"w": 47
+									},
+									{
+										"x": 386,
+										"y": 107,
+										"h": 59,
+										"w": 59
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 518,
+										"y": 21,
+										"h": 30,
+										"w": 30
+									},
+									{
+										"x": 412,
+										"y": 125,
+										"h": 31,
+										"w": 31
+									},
+									{
+										"x": 256,
+										"y": 71,
+										"h": 39,
+										"w": 39
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 781,
+										"y": 32,
+										"h": 46,
+										"w": 46
+									},
+									{
+										"x": 621,
+										"y": 189,
+										"h": 47,
+										"w": 47
+									},
+									{
+										"x": 386,
+										"y": 107,
+										"h": 59,
+										"w": 59
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 781,
+										"y": 32,
+										"h": 46,
+										"w": 46
+									},
+									{
+										"x": 621,
+										"y": 189,
+										"h": 47,
+										"w": 47
+									},
+									{
+										"x": 386,
+										"y": 107,
+										"h": 59,
+										"w": 59
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1222157503598932000,
+						"id_str": "1222157503598931974",
+						"indices": [
+							267,
+							290
+						],
+						"media_url": "http://pbs.twimg.com/media/EPX5xjWXsAYDYlS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EPX5xjWXsAYDYlS.jpg",
+						"url": "https://t.co/OCMcniSsDz",
+						"display_url": "pic.twitter.com/OCMcniSsDz",
+						"expanded_url": "https://twitter.com/tryscroll/status/1222157508124532737/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"medium": {
+								"faces": [
+									{
+										"x": 781,
+										"y": 32,
+										"h": 46,
+										"w": 46
+									},
+									{
+										"x": 621,
+										"y": 189,
+										"h": 47,
+										"w": 47
+									},
+									{
+										"x": 386,
+										"y": 107,
+										"h": 59,
+										"w": 59
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 518,
+										"y": 21,
+										"h": 30,
+										"w": 30
+									},
+									{
+										"x": 412,
+										"y": 125,
+										"h": 31,
+										"w": 31
+									},
+									{
+										"x": 256,
+										"y": 71,
+										"h": 39,
+										"w": 39
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 781,
+										"y": 32,
+										"h": 46,
+										"w": 46
+									},
+									{
+										"x": 621,
+										"y": 189,
+										"h": 47,
+										"w": 47
+									},
+									{
+										"x": 386,
+										"y": 107,
+										"h": 59,
+										"w": 59
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 781,
+										"y": 32,
+										"h": 46,
+										"w": 46
+									},
+									{
+										"x": 621,
+										"y": 189,
+										"h": 47,
+										"w": 47
+									},
+									{
+										"x": 386,
+										"y": 107,
+										"h": 59,
+										"w": 59
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 783808494470168600,
+				"id_str": "783808494470168577",
+				"name": "Scroll",
+				"screen_name": "tryscroll",
+				"location": "",
+				"description": "Building a better internet, one site at a time.",
+				"url": "https://t.co/SKzxQ7VuZx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/SKzxQ7VuZx",
+								"expanded_url": "http://scroll.com",
+								"display_url": "scroll.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1281,
+				"friends_count": 224,
+				"listed_count": 16,
+				"created_at": "Wed Oct 05 23:18:02 +0000 2016",
+				"favourites_count": 372,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 216,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1095783460424183808/I3pYDeIF_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1095783460424183808/I3pYDeIF_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/783808494470168577/1566416635",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 31,
+			"favorite_count": 84,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Benieuwd wat dit is. https://t.co/AHwzD3s6t0"
+	},
+	{
 		"created_at": "Tue Jan 28 19:00:18 +0000 2020",
 		"id": 1222216753821835300,
 		"id_str": "1222232951313911808",
