@@ -1,6 +1,629 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Wed Jan 29 14:09:22 +0000 2020",
+		"id": 1222522123480109000,
+		"id_str": "1222522123480109059",
+		"full_text": "Het kost wel 24 euro per jaar. Maar als zakelijke gebruiker kun je hier veel tijd en dus geld mee besparen. Ik denk dat @tjarko als Bunq-cheerleader hier vast toffe dingen mee kan bedenken.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tjarko",
+					"name": "Tjarko Rikkerink",
+					"id": 997804616455770100,
+					"id_str": "997804616455770113",
+					"indices": [
+						120,
+						127
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1222520235544273000,
+		"in_reply_to_status_id_str": "1222520235544272902",
+		"in_reply_to_user_id": 816203,
+		"in_reply_to_user_id_str": "816203",
+		"in_reply_to_screen_name": "frankmeeuwsen",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Schrijft over de impact van tech op mens en maatschappij. @indiewebnl #TeamHuman #PearlJam @kaliberInteract https://t.co/ODgIUUbnBR",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								108,
+								131
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8864,
+			"friends_count": 348,
+			"listed_count": 582,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5762,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61086,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "Het kost wel 24 euro per jaar. Maar als zakelijke gebruiker kun je hier veel tijd en dus geld mee besparen. Ik denk dat @tjarko als Bunq-cheerleader hier vast toffe dingen mee kan bedenken."
+	},
+	{
+		"created_at": "Wed Jan 29 14:01:52 +0000 2020",
+		"id": 1222520235544273000,
+		"id_str": "1222520235544272902",
+		"full_text": "Dit is wel mooi hoor. Benieuwd wanneer de andere banken volgen. De API's zijn er, de businesscases in overvloed. Nu nog durven de controle los te laten en sturen op kennis en expertise van de eindgebruiker https://t.co/mPSoFOVZjd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mPSoFOVZjd",
+					"expanded_url": "https://twitter.com/bunq/status/1222246997819887622",
+					"display_url": "twitter.com/bunq/status/12…",
+					"indices": [
+						206,
+						229
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Schrijft over de impact van tech op mens en maatschappij. @indiewebnl #TeamHuman #PearlJam @kaliberInteract https://t.co/ODgIUUbnBR",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								108,
+								131
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8864,
+			"friends_count": 348,
+			"listed_count": 582,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5762,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61086,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1222246997819887600,
+		"quoted_status_id_str": "1222246997819887622",
+		"quoted_status_permalink": {
+			"url": "https://t.co/mPSoFOVZjd",
+			"expanded": "https://twitter.com/bunq/status/1222246997819887622",
+			"display": "twitter.com/bunq/status/12…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 28 19:56:07 +0000 2020",
+			"id": 1222246997819887600,
+			"id_str": "1222246997819887622",
+			"full_text": "Tonight we’re also launching a partnership with Zapier, allowing all of our bunq entrepreneurs to harvest the power of automation, without being a coder. ⚡️ #bunqbusiness  #bunqUpdate13 https://t.co/qO6CJnukaX",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				185
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "bunqbusiness",
+						"indices": [
+							157,
+							170
+						]
+					},
+					{
+						"text": "bunqUpdate13",
+						"indices": [
+							172,
+							185
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1222246991469719600,
+						"id_str": "1222246991469719552",
+						"indices": [
+							186,
+							209
+						],
+						"media_url": "http://pbs.twimg.com/media/EPZLKbpXsAADOjz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EPZLKbpXsAADOjz.jpg",
+						"url": "https://t.co/qO6CJnukaX",
+						"display_url": "pic.twitter.com/qO6CJnukaX",
+						"expanded_url": "https://twitter.com/bunq/status/1222246997819887622/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1365,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": [
+									{
+										"x": 332,
+										"y": 732,
+										"h": 66,
+										"w": 66
+									},
+									{
+										"x": 670,
+										"y": 164,
+										"h": 132,
+										"w": 132
+									},
+									{
+										"x": 382,
+										"y": 1116,
+										"h": 160,
+										"w": 160
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 194,
+										"y": 428,
+										"h": 38,
+										"w": 38
+									},
+									{
+										"x": 392,
+										"y": 96,
+										"h": 77,
+										"w": 77
+									},
+									{
+										"x": 223,
+										"y": 653,
+										"h": 93,
+										"w": 93
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 110,
+										"y": 243,
+										"h": 21,
+										"w": 21
+									},
+									{
+										"x": 222,
+										"y": 54,
+										"h": 43,
+										"w": 43
+									},
+									{
+										"x": 126,
+										"y": 370,
+										"h": 53,
+										"w": 53
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 332,
+										"y": 732,
+										"h": 66,
+										"w": 66
+									},
+									{
+										"x": 670,
+										"y": 164,
+										"h": 132,
+										"w": 132
+									},
+									{
+										"x": 382,
+										"y": 1116,
+										"h": 160,
+										"w": 160
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1222246991469719600,
+						"id_str": "1222246991469719552",
+						"indices": [
+							186,
+							209
+						],
+						"media_url": "http://pbs.twimg.com/media/EPZLKbpXsAADOjz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EPZLKbpXsAADOjz.jpg",
+						"url": "https://t.co/qO6CJnukaX",
+						"display_url": "pic.twitter.com/qO6CJnukaX",
+						"expanded_url": "https://twitter.com/bunq/status/1222246997819887622/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1365,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": [
+									{
+										"x": 332,
+										"y": 732,
+										"h": 66,
+										"w": 66
+									},
+									{
+										"x": 670,
+										"y": 164,
+										"h": 132,
+										"w": 132
+									},
+									{
+										"x": 382,
+										"y": 1116,
+										"h": 160,
+										"w": 160
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 194,
+										"y": 428,
+										"h": 38,
+										"w": 38
+									},
+									{
+										"x": 392,
+										"y": 96,
+										"h": 77,
+										"w": 77
+									},
+									{
+										"x": 223,
+										"y": 653,
+										"h": 93,
+										"w": 93
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 110,
+										"y": 243,
+										"h": 21,
+										"w": 21
+									},
+									{
+										"x": 222,
+										"y": 54,
+										"h": 43,
+										"w": 43
+									},
+									{
+										"x": 126,
+										"y": 370,
+										"h": 53,
+										"w": 53
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 332,
+										"y": 732,
+										"h": 66,
+										"w": 66
+									},
+									{
+										"x": 670,
+										"y": 164,
+										"h": 132,
+										"w": 132
+									},
+									{
+										"x": 382,
+										"y": 1116,
+										"h": 160,
+										"w": 160
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2694904136,
+				"id_str": "2694904136",
+				"name": "bunq",
+				"screen_name": "bunq",
+				"location": "Amsterdam, The Netherlands",
+				"description": "Experience the bank of tomorrow, today. #bankofthefree | A greener world, without any effort. Introducing bunq Green Card: https://t.co/JEPzJsBQtJ 🌳💳",
+				"url": "https://t.co/c3zC2d36wJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/c3zC2d36wJ",
+								"expanded_url": "https://www.bunq.com",
+								"display_url": "bunq.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/JEPzJsBQtJ",
+								"expanded_url": "http://bunq.com/go-green",
+								"display_url": "bunq.com/go-green",
+								"indices": [
+									123,
+									146
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 11347,
+				"friends_count": 201,
+				"listed_count": 118,
+				"created_at": "Thu Jul 31 06:14:59 +0000 2014",
+				"favourites_count": 6482,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 9973,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/849888083973681152/6_sci7Sa_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/849888083973681152/6_sci7Sa_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2694904136/1574951583",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 26,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Dit is wel mooi hoor. Benieuwd wanneer de andere banken volgen. De API's zijn er, de businesscases in overvloed. Nu nog durven de controle los te laten en sturen op kennis en expertise van de eindgebruiker https://t.co/mPSoFOVZjd"
+	},
+	{
 		"created_at": "Wed Jan 29 12:31:56 +0000 2020",
 		"id": 1222497604862431200,
 		"id_str": "1222497604862431232",
