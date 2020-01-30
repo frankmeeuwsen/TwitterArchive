@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 30 15:09:36 +0000 2020",
+		"id": 1222898726273859600,
+		"id_str": "1222899670638182403",
+		"full_text": "WOW!! Unseen Pearl Jam footage!! Alternate video of Even Flow, never been released!! Raw material put together by a fan! Incredible!!\nFull clip: https://t.co/BS7vcITgRY\n#pearljam #evenflow https://t.co/Nfap2PviYN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "pearljam",
+					"indices": [
+						169,
+						178
+					]
+				},
+				{
+					"text": "evenflow",
+					"indices": [
+						179,
+						188
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BS7vcITgRY",
+					"expanded_url": "https://youtu.be/-NYUhgpNtYE",
+					"display_url": "youtu.be/-NYUhgpNtYE",
+					"indices": [
+						145,
+						168
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1222898383628587000,
+					"id_str": "1222898383628587008",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1222898383628587008/pu/img/LMn10X6AFvVvmOpK.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1222898383628587008/pu/img/LMn10X6AFvVvmOpK.jpg",
+					"url": "https://t.co/Nfap2PviYN",
+					"display_url": "pic.twitter.com/Nfap2PviYN",
+					"expanded_url": "https://twitter.com/PearlJamHolland/status/1222898726273859589/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 952,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 514,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 952,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1222898383628587000,
+					"id_str": "1222898383628587008",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1222898383628587008/pu/img/LMn10X6AFvVvmOpK.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1222898383628587008/pu/img/LMn10X6AFvVvmOpK.jpg",
+					"url": "https://t.co/Nfap2PviYN",
+					"display_url": "pic.twitter.com/Nfap2PviYN",
+					"expanded_url": "https://twitter.com/PearlJamHolland/status/1222898726273859589/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 952,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 514,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 952,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							119,
+							90
+						],
+						"duration_millis": 45002,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1222898383628587008/pu/pl/e7Hmp7amIE46Mnma.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1222898383628587008/pu/vid/356x270/803v0UhWM9ytcBeG.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1222898383628587008/pu/vid/476x360/rr3-FUYNKXve6GrF.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1222898383628587008/pu/vid/952x720/m3RvHc2hXlBWtG9s.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2933941318,
+			"id_str": "2933941318",
+			"name": "Pearl Jam Holland",
+			"screen_name": "PearlJamHolland",
+			"location": "",
+			"description": "Troubled souls unite! Dutch PJ-fanaccount. Follow for Pearl Jam news, videos, lyrics, facts & photos. Instagram: pearljamholland.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2376,
+			"friends_count": 264,
+			"listed_count": 28,
+			"created_at": "Sat Dec 20 17:16:58 +0000 2014",
+			"favourites_count": 10317,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3817,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/968918956860985346/u_FxXkMa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/968918956860985346/u_FxXkMa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2933941318/1419097641",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 13,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "WOW!! Unseen Pearl Jam footage!! Alternate video of Even Flow, never been released!! Raw material put together by a fan! Incredible!!\nFull clip: https://t.co/BS7vcITgRY\n#pearljam #evenflow https://t.co/Nfap2PviYN"
+	},
+	{
 		"created_at": "Thu Jan 30 08:00:15 +0000 2020",
 		"id": 1222791623102357500,
 		"id_str": "1222791623102357504",
