@@ -1,6 +1,103 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Mon Feb 03 07:15:33 +0000 2020",
+		"id": 1224060414385889300,
+		"id_str": "1224229922211876866",
+		"full_text": "I’m confused. \n\nHow did we conclude that the best way to prepare kids for the future is to cluster them into a setting where they are organized by age, into grades, and forced to learn the same things, at the same time and pace, 7 hours a day, 5 days a week, for 12 + years?\n\nHuh?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 268408352,
+			"id_str": "268408352",
+			"name": "Ana Lorena Fabrega",
+			"screen_name": "anafabrega11",
+			"location": "Panama",
+			"description": "I get kids, and kids get me. EDUpreneur with a passionate vision for the future of Education. Former Elementary School Teacher.",
+			"url": "https://t.co/BovSh7jANk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BovSh7jANk",
+							"expanded_url": "https://www.analorenafabrega.com/",
+							"display_url": "analorenafabrega.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1413,
+			"friends_count": 448,
+			"listed_count": 12,
+			"created_at": "Fri Mar 18 18:20:20 +0000 2011",
+			"favourites_count": 388,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 111,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1205349244460244992/AIgR1fsc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1205349244460244992/AIgR1fsc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/268408352/1564186893",
+			"profile_link_color": "CC3600",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 473,
+		"favorite_count": 3202,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I’m confused. \n\nHow did we conclude that the best way to prepare kids for the future is to cluster them into a setting where they are organized by age, into grades, and forced to learn the same things, at the same time and pace, 7 hours a day, 5 days a week, for 12 + years?\n\nHuh?"
+	},
+	{
 		"created_at": "Sun Feb 02 11:38:47 +0000 2020",
 		"id": 1223933781507219500,
 		"id_str": "1223933781507219457",
