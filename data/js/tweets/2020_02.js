@@ -1,6 +1,295 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Mon Feb 10 18:49:45 +0000 2020",
+		"id": 1226941341390823400,
+		"id_str": "1226941341390823424",
+		"full_text": "Check die nieuwsbrief! 👇 Zo de moeite waard. Elke week tips voor toffe nieuwsbrieven! https://t.co/H1SnbgAdX4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/H1SnbgAdX4",
+					"expanded_url": "https://twitter.com/ForSubscribing/status/1226940592451657731",
+					"display_url": "twitter.com/ForSubscribing…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Schrijft over de impact van tech op mens en maatschappij \n@indiewebnl \n@kaliberInteract \n@ForSubscribing\n\nhttps://t.co/ODgIUTTMdh\n\n#TeamHuman \n#PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUTTMdh",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8873,
+			"friends_count": 373,
+			"listed_count": 581,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5799,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61128,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1226940592451657700,
+		"quoted_status_id_str": "1226940592451657731",
+		"quoted_status_permalink": {
+			"url": "https://t.co/H1SnbgAdX4",
+			"expanded": "https://twitter.com/ForSubscribing/status/1226940592451657731",
+			"display": "twitter.com/ForSubscribing…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Feb 10 18:46:47 +0000 2020",
+			"id": 1226940592451657700,
+			"id_str": "1226940592451657731",
+			"full_text": "Heyho! 🤩 Issue #4 of the weekly newsletter filled with newsletters is out. 📮\n\nWith shoutouts to @ness_labs, @Boris, @ZinVol, @codrops, @TIStv and @Pocket. \n\nSubscribe to get your own issue at https://t.co/PWpGPJE1gi",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				215
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ness_labs",
+						"name": "Ness Labs",
+						"id": 843778525681344500,
+						"id_str": "843778525681344512",
+						"indices": [
+							96,
+							106
+						]
+					},
+					{
+						"screen_name": "Boris",
+						"name": "Boris Veldhuijzen van Zanten",
+						"id": 17463,
+						"id_str": "17463",
+						"indices": [
+							108,
+							114
+						]
+					},
+					{
+						"screen_name": "ZinVol",
+						"name": "Miranda Apeldoorn",
+						"id": 16402984,
+						"id_str": "16402984",
+						"indices": [
+							116,
+							123
+						]
+					},
+					{
+						"screen_name": "codrops",
+						"name": "Codrops",
+						"id": 70096167,
+						"id_str": "70096167",
+						"indices": [
+							125,
+							133
+						]
+					},
+					{
+						"screen_name": "TIStv",
+						"name": "TIStv",
+						"id": 2989907879,
+						"id_str": "2989907879",
+						"indices": [
+							135,
+							141
+						]
+					},
+					{
+						"screen_name": "Pocket",
+						"name": "Pocket",
+						"id": 27530178,
+						"id_str": "27530178",
+						"indices": [
+							146,
+							153
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/PWpGPJE1gi",
+						"expanded_url": "https://www.getrevue.co/profile/thanksforsubscribing/issues/thanks-for-subscribing-news-4-keep-your-inbox-happy-225069",
+						"display_url": "getrevue.co/profile/thanks…",
+						"indices": [
+							192,
+							215
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1221904161492566000,
+				"id_str": "1221904161492566016",
+				"name": "Thanks for Subscribing",
+				"screen_name": "ForSubscribing",
+				"location": "",
+				"description": "Make your inbox happy again and check out the best newsletters from the Netherlands and elsewhere!",
+				"url": "https://t.co/EUi1JLKpnL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/EUi1JLKpnL",
+								"expanded_url": "https://thanksforsubscribing.app",
+								"display_url": "thanksforsubscribing.app",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4,
+				"friends_count": 26,
+				"listed_count": 0,
+				"created_at": "Mon Jan 27 21:14:06 +0000 2020",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1221904344695656448/Z2Gu1jee_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1221904344695656448/Z2Gu1jee_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1221904161492566016/1580160409",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Check die nieuwsbrief! 👇 Zo de moeite waard. Elke week tips voor toffe nieuwsbrieven! https://t.co/H1SnbgAdX4"
+	},
+	{
 		"created_at": "Mon Feb 10 10:28:38 +0000 2020",
 		"id": 1226815229809565700,
 		"id_str": "1226815229809565697",
