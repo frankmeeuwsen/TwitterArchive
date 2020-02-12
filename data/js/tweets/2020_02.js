@@ -1,6 +1,244 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Wed Feb 12 12:28:20 +0000 2020",
+		"id": 1227570128776241200,
+		"id_str": "1227570128776241153",
+		"full_text": "Help Jeroen! https://t.co/LPsZgHmxUn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LPsZgHmxUn",
+					"expanded_url": "https://twitter.com/halfvet/status/1227547900063805440",
+					"display_url": "twitter.com/halfvet/status…",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Schrijft over de impact van tech op mens en maatschappij \n@indiewebnl \n@kaliberInteract \n@ForSubscribing\n\nhttps://t.co/ODgIUTTMdh\n\n#TeamHuman \n#PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUTTMdh",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8872,
+			"friends_count": 375,
+			"listed_count": 581,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5807,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61137,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1227547900063805400,
+		"quoted_status_id_str": "1227547900063805440",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LPsZgHmxUn",
+			"expanded": "https://twitter.com/halfvet/status/1227547900063805440",
+			"display": "twitter.com/halfvet/status…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 12 11:00:00 +0000 2020",
+			"id": 1227547900063805400,
+			"id_str": "1227547900063805440",
+			"full_text": "Ik ben heel benieuwd hoe ik Halfvet kan verbeteren. Daarom heb ik een super simpele survey gemaakt, die je in een paar minuten anoniem invult. Thanks! https://t.co/SC6IjWaPpl",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				174
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/SC6IjWaPpl",
+						"expanded_url": "https://jeroendisch.typeform.com/to/qxUBsm",
+						"display_url": "jeroendisch.typeform.com/to/qxUBsm",
+						"indices": [
+							151,
+							174
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1101191767238549500,
+				"id_str": "1101191767238549504",
+				"name": "Halfvet",
+				"screen_name": "halfvet",
+				"location": "Amsterdam",
+				"description": "Digital design newsletter, door Jeroen Disch, Design Lead @Grrr_nl. 📬 Subscribe: https://t.co/3hZ9ptu45l",
+				"url": "https://t.co/vrdZPnAeUU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vrdZPnAeUU",
+								"expanded_url": "http://www.halfvet.nl",
+								"display_url": "halfvet.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/3hZ9ptu45l",
+								"expanded_url": "http://halfvet.nl",
+								"display_url": "halfvet.nl",
+								"indices": [
+									81,
+									104
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 82,
+				"friends_count": 217,
+				"listed_count": 0,
+				"created_at": "Thu Feb 28 18:45:51 +0000 2019",
+				"favourites_count": 113,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 212,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1194357897469149185/jV_OYWCr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1194357897469149185/jV_OYWCr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1101191767238549504/1573591867",
+				"profile_link_color": "5145FF",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Help Jeroen! https://t.co/LPsZgHmxUn"
+	},
+	{
 		"created_at": "Wed Feb 12 12:16:06 +0000 2020",
 		"id": 1227567050211680300,
 		"id_str": "1227567050211680259",
