@@ -1,6 +1,389 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Thu Feb 13 17:19:19 +0000 2020",
+		"id": 1228005745964265500,
+		"id_str": "1228005745964265480",
+		"full_text": "Wat mij verbaasd is het Ogenschijnlijk random hoofdletter gebruik in deel 3. Hoe werkt dat dan bij je? Heb je dan ook #last van de #random #hashtag ziekte? Is dat #Gerelateerd? https://t.co/MbxkL2odV8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "last",
+					"indices": [
+						118,
+						123
+					]
+				},
+				{
+					"text": "random",
+					"indices": [
+						131,
+						138
+					]
+				},
+				{
+					"text": "hashtag",
+					"indices": [
+						139,
+						147
+					]
+				},
+				{
+					"text": "Gerelateerd",
+					"indices": [
+						163,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MbxkL2odV8",
+					"expanded_url": "https://twitter.com/stuimigweertje/status/1227724164863320065",
+					"display_url": "twitter.com/stuimigweertje…",
+					"indices": [
+						177,
+						200
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Schrijft over de impact van tech op mens en maatschappij \n@indiewebnl \n@kaliberInteract \n@ForSubscribing\n\nhttps://t.co/ODgIUTTMdh\n\n#TeamHuman \n#PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUTTMdh",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8873,
+			"friends_count": 375,
+			"listed_count": 581,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5809,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61145,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1227724164863320000,
+		"quoted_status_id_str": "1227724164863320065",
+		"quoted_status_permalink": {
+			"url": "https://t.co/MbxkL2odV8",
+			"expanded": "https://twitter.com/stuimigweertje/status/1227724164863320065",
+			"display": "twitter.com/stuimigweertje…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 12 22:40:25 +0000 2020",
+			"id": 1227724164863320000,
+			"id_str": "1227724164863320065",
+			"full_text": "Ik kan niet wachten op deel 4. https://t.co/RNs5lSJg9P",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				30
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1227724139592634400,
+						"id_str": "1227724139592634370",
+						"indices": [
+							31,
+							54
+						],
+						"media_url": "http://pbs.twimg.com/media/EQnAmaaXUAIL3lR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EQnAmaaXUAIL3lR.jpg",
+						"url": "https://t.co/RNs5lSJg9P",
+						"display_url": "pic.twitter.com/RNs5lSJg9P",
+						"expanded_url": "https://twitter.com/StuimigWeertje/status/1227724164863320065/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 1600,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1227724139592634400,
+						"id_str": "1227724139592634370",
+						"indices": [
+							31,
+							54
+						],
+						"media_url": "http://pbs.twimg.com/media/EQnAmaaXUAIL3lR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EQnAmaaXUAIL3lR.jpg",
+						"url": "https://t.co/RNs5lSJg9P",
+						"display_url": "pic.twitter.com/RNs5lSJg9P",
+						"expanded_url": "https://twitter.com/StuimigWeertje/status/1227724164863320065/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 1600,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1227724149063397400,
+						"id_str": "1227724149063397382",
+						"indices": [
+							31,
+							54
+						],
+						"media_url": "http://pbs.twimg.com/media/EQnAm9sXsAYenWR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EQnAm9sXsAYenWR.jpg",
+						"url": "https://t.co/RNs5lSJg9P",
+						"display_url": "pic.twitter.com/RNs5lSJg9P",
+						"expanded_url": "https://twitter.com/StuimigWeertje/status/1227724164863320065/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1227724156453761000,
+						"id_str": "1227724156453761025",
+						"indices": [
+							31,
+							54
+						],
+						"media_url": "http://pbs.twimg.com/media/EQnAnZOXsAEvm5I.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EQnAnZOXsAEvm5I.jpg",
+						"url": "https://t.co/RNs5lSJg9P",
+						"display_url": "pic.twitter.com/RNs5lSJg9P",
+						"expanded_url": "https://twitter.com/StuimigWeertje/status/1227724164863320065/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 460,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1074,
+								"h": 1586,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 813,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 816049073237217300,
+				"id_str": "816049073237217280",
+				"name": "Stuimig Weertje",
+				"screen_name": "StuimigWeertje",
+				"location": "",
+				"description": "Ik kan heel goed delegeren, al zeg ik het zelf. \n#teampositief",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 269,
+				"friends_count": 271,
+				"listed_count": 1,
+				"created_at": "Mon Jan 02 22:30:35 +0000 2017",
+				"favourites_count": 17652,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 12239,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/963448997456367616/HxCcZLtz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/963448997456367616/HxCcZLtz_normal.jpg",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 66,
+			"favorite_count": 441,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Wat mij verbaasd is het Ogenschijnlijk random hoofdletter gebruik in deel 3. Hoe werkt dat dan bij je? Heb je dan ook #last van de #random #hashtag ziekte? Is dat #Gerelateerd? https://t.co/MbxkL2odV8"
+	},
+	{
 		"created_at": "Thu Feb 13 08:20:31 +0000 2020",
 		"id": 1227870151925735400,
 		"id_str": "1227870151925735424",
