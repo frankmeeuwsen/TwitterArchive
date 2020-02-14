@@ -1,6 +1,312 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Fri Feb 14 06:57:09 +0000 2020",
+		"id": 1228211557462528000,
+		"id_str": "1228211557462528001",
+		"full_text": "Toch handig zo'n todo lijst om je kind de goede kant op te sturen qua computeren. https://t.co/JOXlsnjwM7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JOXlsnjwM7",
+					"expanded_url": "https://twitter.com/g_iw/status/1227700420178567170",
+					"display_url": "twitter.com/g_iw/status/12…",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Schrijft over de impact van tech op mens en maatschappij \n@indiewebnl \n@kaliberInteract \n@ForSubscribing\n\nhttps://t.co/ODgIUTTMdh\n\n#TeamHuman \n#PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUTTMdh",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8872,
+			"friends_count": 375,
+			"listed_count": 581,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5811,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61151,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1564177319",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1227700420178567200,
+		"quoted_status_id_str": "1227700420178567170",
+		"quoted_status_permalink": {
+			"url": "https://t.co/JOXlsnjwM7",
+			"expanded": "https://twitter.com/g_iw/status/1227700420178567170",
+			"display": "twitter.com/g_iw/status/12…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 12 21:06:04 +0000 2020",
+			"id": 1227700420178567200,
+			"id_str": "1227700420178567170",
+			"full_text": "This utter crap is being distributed through schools from the 'local authority' so presume @WalsallCouncil today. The level of disinformation is staggering. I'd be proud to find my kids learning to use any of these. Except Discord but that's nothing to do with hacking. https://t.co/9dvrmoPpOp",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				269
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "WalsallCouncil",
+						"name": "Walsall Council",
+						"id": 20706578,
+						"id_str": "20706578",
+						"indices": [
+							91,
+							106
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1227699821315752000,
+						"id_str": "1227699821315751936",
+						"indices": [
+							270,
+							293
+						],
+						"media_url": "http://pbs.twimg.com/media/EQmqe5xWAAAmSJ0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EQmqe5xWAAAmSJ0.jpg",
+						"url": "https://t.co/9dvrmoPpOp",
+						"display_url": "pic.twitter.com/9dvrmoPpOp",
+						"expanded_url": "https://twitter.com/G_IW/status/1227700420178567170/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 496,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 874,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1492,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1227699821315752000,
+						"id_str": "1227699821315751936",
+						"indices": [
+							270,
+							293
+						],
+						"media_url": "http://pbs.twimg.com/media/EQmqe5xWAAAmSJ0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EQmqe5xWAAAmSJ0.jpg",
+						"url": "https://t.co/9dvrmoPpOp",
+						"display_url": "pic.twitter.com/9dvrmoPpOp",
+						"expanded_url": "https://twitter.com/G_IW/status/1227700420178567170/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 496,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 874,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1492,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14594475,
+				"id_str": "14594475",
+				"name": "GarethIllmann-Walker",
+				"screen_name": "G_IW",
+				"location": "Black Country",
+				"description": "YamYam, White Hat open source geek old enough to have used a ZX48 Spectrum, rocker, penchant for penguins loves goths and Minecraft.",
+				"url": "http://t.co/YZQ2neYm8K",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/YZQ2neYm8K",
+								"expanded_url": "http://www.politicalpenguin.org.uk",
+								"display_url": "politicalpenguin.org.uk",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1482,
+				"friends_count": 613,
+				"listed_count": 64,
+				"created_at": "Wed Apr 30 02:05:33 +0000 2008",
+				"favourites_count": 379,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 36974,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2275737851/vyvitczn9y28epk8yo4d_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2275737851/vyvitczn9y28epk8yo4d_normal.jpeg",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3095,
+			"favorite_count": 8902,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Toch handig zo'n todo lijst om je kind de goede kant op te sturen qua computeren. https://t.co/JOXlsnjwM7"
+	},
+	{
 		"created_at": "Thu Feb 13 20:42:41 +0000 2020",
 		"id": 1228056922617786400,
 		"id_str": "1228056922617786372",
