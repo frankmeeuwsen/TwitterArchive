@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sun Feb 16 11:23:19 +0000 2020",
+		"id": 1228980046758629400,
+		"id_str": "1229003316648173568",
+		"full_text": "\"Downloading the software, by that definition, is the end goal. Once you’ve set it up, you’ve democratised publishing, right? Wrong.” – @WebDevLaw \n\nAnd you should read why: https://t.co/bLy6CqXdSp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WebDevLaw",
+					"name": "Heather Burns",
+					"id": 3437929966,
+					"id_str": "3437929966",
+					"indices": [
+						136,
+						146
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bLy6CqXdSp",
+					"expanded_url": "https://webdevlaw.uk/2020/02/15/conference-talk-wordpresss-role-in-a-changing-web/",
+					"display_url": "webdevlaw.uk/2020/02/15/con…",
+					"indices": [
+						174,
+						197
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14264386,
+			"id_str": "14264386",
+			"name": "Remkus de Vries",
+			"screen_name": "remkusdevries",
+			"location": "The Netherlands",
+			"description": "Spiritual being having a human experience ॐ , Uomo Universale wannabe™ –  co-founder #WCEU #WCNL Team @servebolt, #plantbased #PearlJam  #Frysk @burokreas",
+			"url": "https://t.co/DEQKjJenIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DEQKjJenIB",
+							"expanded_url": "https://remk.us/hi",
+							"display_url": "remk.us/hi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6959,
+			"friends_count": 4777,
+			"listed_count": 469,
+			"created_at": "Mon Mar 31 07:58:28 +0000 2008",
+			"favourites_count": 24787,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53415,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BBBBBB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1205487523067289602/LlDKe_7O_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1205487523067289602/LlDKe_7O_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14264386/1348037531",
+			"profile_link_color": "302C2C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "39424D",
+			"profile_text_color": "08D5F0",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Downloading the software, by that definition, is the end goal. Once you’ve set it up, you’ve democratised publishing, right? Wrong.” – @WebDevLaw \n\nAnd you should read why: https://t.co/bLy6CqXdSp"
+	},
+	{
 		"created_at": "Sat Feb 15 20:49:18 +0000 2020",
 		"id": 1228783365983215600,
 		"id_str": "1228783365983215616",
