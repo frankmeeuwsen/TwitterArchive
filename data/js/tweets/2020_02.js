@@ -1,6 +1,241 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sun Feb 23 08:31:13 +0000 2020",
+		"id": 1231496723480051700,
+		"id_str": "1231496723480051712",
+		"full_text": "BBS &gt; DDS &gt; Usenet &gt; IRC https://t.co/ULLdYZenLh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ULLdYZenLh",
+					"expanded_url": "https://twitter.com/carnage4life/status/1231365477856940033",
+					"display_url": "twitter.com/carnage4life/s…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Schrijft over de impact van tech op mens en maatschappij \n@indiewebnl \n@kaliberInteract \n@ForSubscribing\n\nhttps://t.co/ODgIUTTMdh\n\n#TeamHuman \n#PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUTTMdh",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8883,
+			"friends_count": 386,
+			"listed_count": 582,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5855,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61204,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1582409873",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1231365477856940000,
+		"quoted_status_id_str": "1231365477856940033",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ULLdYZenLh",
+			"expanded": "https://twitter.com/carnage4life/status/1231365477856940033",
+			"display": "twitter.com/carnage4life/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Feb 22 23:49:42 +0000 2020",
+			"id": 1231365477856940000,
+			"id_str": "1231365477856940033",
+			"full_text": "Another example of Generation X erasure. My 80s &amp; 90s peeps which app did you start your social media life on?\n1.) AIM\n2.) Yahoo Chat \n3.) LiveJournal \n4.) Orkut\n5.) Friendster\n6.) Xanga\n7.) Bebo \n8.) Blogger/Six Apart/Personal Blog\n9.) IRC\n10.) USENET\n11.) Other https://t.co/UB54mjgPZZ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				267
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/UB54mjgPZZ",
+						"expanded_url": "https://twitter.com/wydsimp/status/1230926828279173120",
+						"display_url": "twitter.com/wydsimp/status…",
+						"indices": [
+							268,
+							291
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 11336782,
+				"id_str": "11336782",
+				"name": "Dare Obasanjo",
+				"screen_name": "Carnage4Life",
+				"location": "Washington, USA",
+				"description": "Opinions about product management, technology news and inclusivity in tech. Diversity is about demographics, inclusion is about creating a sense of belonging.",
+				"url": "https://t.co/ddV1qbVY1B",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ddV1qbVY1B",
+								"expanded_url": "https://medium.com/@dareobasanjo",
+								"display_url": "medium.com/@dareobasanjo",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 20538,
+				"friends_count": 747,
+				"listed_count": 1003,
+				"created_at": "Wed Dec 19 14:55:55 +0000 2007",
+				"favourites_count": 12481,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 19223,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1165282125295190016/h0lTAKvp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1165282125295190016/h0lTAKvp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/11336782/1513005090",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1230926828279173000,
+			"quoted_status_id_str": "1230926828279173120",
+			"quoted_status_permalink": {
+				"url": "https://t.co/UB54mjgPZZ",
+				"expanded": "https://twitter.com/wydsimp/status/1230926828279173120",
+				"display": "twitter.com/wydsimp/status…"
+			},
+			"retweet_count": 41,
+			"favorite_count": 418,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BBS &gt; DDS &gt; Usenet &gt; IRC https://t.co/ULLdYZenLh"
+	},
+	{
 		"created_at": "Sun Feb 23 07:37:08 +0000 2020",
 		"id": 1231483112502198300,
 		"id_str": "1231483112502198272",
