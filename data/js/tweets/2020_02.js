@@ -1,6 +1,132 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Tue Feb 25 13:04:39 +0000 2020",
+		"id": 1232290309914210300,
+		"id_str": "1232290309914210304",
+		"full_text": "@gill_works Working with @revue, curious to see what you're working on...",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gill_works",
+					"name": "Michael Gill 💡🚀💰",
+					"id": 86678551,
+					"id_str": "86678551",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "revue",
+					"name": "Revue",
+					"id": 3001165942,
+					"id_str": "3001165942",
+					"indices": [
+						25,
+						31
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1232281097536491500,
+		"in_reply_to_status_id_str": "1232281097536491520",
+		"in_reply_to_user_id": 86678551,
+		"in_reply_to_user_id_str": "86678551",
+		"in_reply_to_screen_name": "gill_works",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Schrijft over de impact van tech op mens en maatschappij \n@indiewebnl \n@kaliberInteract \n@ForSubscribing\n\nhttps://t.co/ODgIUTTMdh\n\n#TeamHuman \n#PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUTTMdh",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8886,
+			"friends_count": 387,
+			"listed_count": 582,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5859,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61222,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1582409873",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@gill_works Working with @revue, curious to see what you're working on..."
+	},
+	{
 		"created_at": "Tue Feb 25 11:12:13 +0000 2020",
 		"id": 1232262016435441700,
 		"id_str": "1232262016435441664",
@@ -143,7 +269,7 @@ Grailbird.data.tweets_2020_02 =
 				"name": "Daniël Verlaan",
 				"screen_name": "danielverlaan",
 				"location": "🚀",
-				"description": "techjournalist @RTLnieuws ☎️ +316 2089 8142 📫 daniel.verlaan@rtl.nl 🏆 winnaar Tegel & Loep 📕 schrijft boek @DasMag 👨🏻‍💻 auteur https://t.co/MQify0Z4DW",
+				"description": "techjournalist @RTLnieuws ☎️ +316 2089 8142 📫 daniel.verlaan@rtl.nl 🏆 winnaar Tegel & Loep 📕 schrijft boek @DasMag 👨🏻💻 auteur https://t.co/MQify0Z4DW",
 				"url": "https://t.co/CmkHfPB2GP",
 				"entities": {
 					"url": {
