@@ -1,6 +1,109 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sat Feb 29 10:54:41 +0000 2020",
+		"id": 1233374643354062800,
+		"id_str": "1233707153254486016",
+		"full_text": "Friendly reminder that you should have started your #COVID2019 newsletter last week. But it's not too late.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "COVID2019",
+					"indices": [
+						52,
+						62
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 23186390,
+			"id_str": "23186390",
+			"name": "Jarjour || Go buy a news subscription, friend.",
+			"screen_name": "derjarjour",
+			"location": "Amsterdam, The Netherlands",
+			"description": "Head of publisher relations @revue • product + journalism • optimist • none of my opinions are my own • past: @NZZ, @blendle, @srf 🏳️‍🌈• 📸Mirjam Kluka",
+			"url": "https://t.co/jg1SpHZpUr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jg1SpHZpUr",
+							"expanded_url": "https://www.getrevue.co/",
+							"display_url": "getrevue.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2294,
+			"friends_count": 3486,
+			"listed_count": 107,
+			"created_at": "Sat Mar 07 11:48:32 +0000 2009",
+			"favourites_count": 12910,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10383,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CFCECB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1170982952341295106/l1j3_wZa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1170982952341295106/l1j3_wZa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/23186390/1398203608",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Friendly reminder that you should have started your #COVID2019 newsletter last week. But it's not too late."
+	},
+	{
 		"created_at": "Sat Feb 29 09:54:16 +0000 2020",
 		"id": 1233691950047539200,
 		"id_str": "1233691950047539200",
