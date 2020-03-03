@@ -1,6 +1,425 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 03 07:39:59 +0000 2020",
+		"id": 1234745321906999300,
+		"id_str": "1234745321906999297",
+		"full_text": "Wow... een soort Coronapedia. Alle informatie over de besmette personen (enigszins geanonimiseerd). Boeiende vraagstukken over publiek welzijn vs private privacy. https://t.co/l6tFZF8cde",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/l6tFZF8cde",
+					"expanded_url": "https://twitter.com/RyutaroUchiyama/status/1234616723615166465",
+					"display_url": "twitter.com/RyutaroUchiyam…",
+					"indices": [
+						163,
+						186
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Schrijft over de impact van tech op mens en maatschappij \n@indiewebnl \n@kaliberInteract \n@ForSubscribing\n\nhttps://t.co/ODgIUTTMdh\n\n#TeamHuman \n#PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUTTMdh",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8892,
+			"friends_count": 389,
+			"listed_count": 582,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5882,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61251,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1582409873",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1234616723615166500,
+		"quoted_status_id_str": "1234616723615166465",
+		"quoted_status_permalink": {
+			"url": "https://t.co/l6tFZF8cde",
+			"expanded": "https://twitter.com/RyutaroUchiyama/status/1234616723615166465",
+			"display": "twitter.com/RyutaroUchiyam…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Mar 02 23:08:59 +0000 2020",
+			"id": 1234616723615166500,
+			"id_str": "1234616723615166465",
+			"full_text": "I'm stunned by the depth of #coronavirus information being released in #Singapore. On this website you can see every known infection case, where the person lives and works, which hospital they got admitted to, and the network topology of carriers, all laid out on a time-series https://t.co/wckG8KpPDE",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "coronavirus",
+						"indices": [
+							28,
+							40
+						]
+					},
+					{
+						"text": "Singapore",
+						"indices": [
+							71,
+							81
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1234612560164532200,
+						"id_str": "1234612560164532232",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/ESI5lQvXsAgzjDI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ESI5lQvXsAgzjDI.jpg",
+						"url": "https://t.co/wckG8KpPDE",
+						"display_url": "pic.twitter.com/wckG8KpPDE",
+						"expanded_url": "https://twitter.com/RyutaroUchiyama/status/1234616723615166465/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1178,
+								"h": 783,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 452,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1178,
+								"h": 783,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1234612560164532200,
+						"id_str": "1234612560164532232",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/ESI5lQvXsAgzjDI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ESI5lQvXsAgzjDI.jpg",
+						"url": "https://t.co/wckG8KpPDE",
+						"display_url": "pic.twitter.com/wckG8KpPDE",
+						"expanded_url": "https://twitter.com/RyutaroUchiyama/status/1234616723615166465/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1178,
+								"h": 783,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 452,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1178,
+								"h": 783,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1234612560374255600,
+						"id_str": "1234612560374255617",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/ESI5lRhX0AElLLa.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ESI5lRhX0AElLLa.jpg",
+						"url": "https://t.co/wckG8KpPDE",
+						"display_url": "pic.twitter.com/wckG8KpPDE",
+						"expanded_url": "https://twitter.com/RyutaroUchiyama/status/1234616723615166465/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 539,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1072,
+								"h": 849,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1072,
+								"h": 849,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1234612561225666600,
+						"id_str": "1234612561225666565",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/ESI5lUsXUAUQkwV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ESI5lUsXUAUQkwV.jpg",
+						"url": "https://t.co/wckG8KpPDE",
+						"display_url": "pic.twitter.com/wckG8KpPDE",
+						"expanded_url": "https://twitter.com/RyutaroUchiyama/status/1234616723615166465/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 943,
+								"h": 661,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 477,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 943,
+								"h": 661,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1234612700925304800,
+						"id_str": "1234612700925304833",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/ESI5tdHWoAE86cy.png",
+						"media_url_https": "https://pbs.twimg.com/media/ESI5tdHWoAE86cy.png",
+						"url": "https://t.co/wckG8KpPDE",
+						"display_url": "pic.twitter.com/wckG8KpPDE",
+						"expanded_url": "https://twitter.com/RyutaroUchiyama/status/1234616723615166465/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1186,
+								"h": 589,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 338,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1186,
+								"h": 589,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1080275878771388400,
+				"id_str": "1080275878771388416",
+				"name": "📎 ® ¥ ¨ † å ® ø",
+				"screen_name": "RyutaroUchiyama",
+				"location": "London, England",
+				"description": "˚ ˙内山隆太郎です ˚📎 Computational cultural psychology & cognitive evolution º 〜 ˚ PhD candidate at the London School of Economics º˚¨ Japanese sense of reality • ≈",
+				"url": "https://t.co/jAffbNH909",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jAffbNH909",
+								"expanded_url": "http://uchiyamaryutaro.com",
+								"display_url": "uchiyamaryutaro.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 61,
+				"friends_count": 146,
+				"listed_count": 1,
+				"created_at": "Wed Jan 02 01:33:34 +0000 2019",
+				"favourites_count": 24,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 36,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1208543072273010689/CWpHKcTv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1208543072273010689/CWpHKcTv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1080275878771388416/1576974442",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 785,
+			"favorite_count": 1421,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Wow... een soort Coronapedia. Alle informatie over de besmette personen (enigszins geanonimiseerd). Boeiende vraagstukken over publiek welzijn vs private privacy. https://t.co/l6tFZF8cde"
+	},
+	{
 		"created_at": "Tue Mar 03 06:36:23 +0000 2020",
 		"id": 1234729313351749600,
 		"id_str": "1234729313351749632",
