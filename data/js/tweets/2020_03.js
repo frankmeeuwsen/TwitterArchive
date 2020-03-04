@@ -1,6 +1,232 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Wed Mar 04 06:48:30 +0000 2020",
+		"id": 1235094752057610200,
+		"id_str": "1235094752057610240",
+		"full_text": "Well... Show by example! There is an incredible community in the Indieweb which does exactly this! https://t.co/5aBvS9JMwP https://t.co/VDMehTg3gR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5aBvS9JMwP",
+					"expanded_url": "Https://indieweb.org",
+					"display_url": "indieweb.org",
+					"indices": [
+						99,
+						122
+					]
+				},
+				{
+					"url": "https://t.co/VDMehTg3gR",
+					"expanded_url": "https://twitter.com/ow/status/1235031877205053441",
+					"display_url": "twitter.com/ow/status/1235…",
+					"indices": [
+						123,
+						146
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Schrijft over de impact van tech op mens en maatschappij \n@indiewebnl \n@kaliberInteract \n@ForSubscribing\n\nhttps://t.co/ODgIUTTMdh\n\n#TeamHuman \n#PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUTTMdh",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8892,
+			"friends_count": 389,
+			"listed_count": 581,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5885,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61253,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1582409873",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1235031877205053400,
+		"quoted_status_id_str": "1235031877205053441",
+		"quoted_status_permalink": {
+			"url": "https://t.co/VDMehTg3gR",
+			"expanded": "https://twitter.com/ow/status/1235031877205053441",
+			"display": "twitter.com/ow/status/1235…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 04 02:38:39 +0000 2020",
+			"id": 1235031877205053400,
+			"id_str": "1235031877205053441",
+			"full_text": "i miss when made blogs were free, for fun, with no expectation of making money in any way, just because sharing ideas was cool",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				126
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14767730,
+				"id_str": "14767730",
+				"name": "Owen Williams ⚡",
+				"screen_name": "ow",
+				"location": "Toronto, Ontario",
+				"description": "⭐ Making tech friendlier with words \n👋 Content strategy manager on @shopify app platform. \n📢 i dive deep on a topic in tech every Monday for @ozm 👇",
+				"url": "https://t.co/Bwus4Cxn4s",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Bwus4Cxn4s",
+								"expanded_url": "https://medium.com/one-zero/debugger/home",
+								"display_url": "medium.com/one-zero/debug…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 40131,
+				"friends_count": 1765,
+				"listed_count": 1492,
+				"created_at": "Wed May 14 01:48:28 +0000 2008",
+				"favourites_count": 89594,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 34996,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "49717A",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1182010589473849346/f30nGbel_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182010589473849346/f30nGbel_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14767730/1519022539",
+				"profile_link_color": "4C96A2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E1C9AC",
+				"profile_text_color": "A3BFAE",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 139,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Well... Show by example! There is an incredible community in the Indieweb which does exactly this! https://t.co/5aBvS9JMwP https://t.co/VDMehTg3gR"
+	},
+	{
 		"created_at": "Tue Mar 03 07:39:59 +0000 2020",
 		"id": 1234745321906999300,
 		"id_str": "1234745321906999297",
