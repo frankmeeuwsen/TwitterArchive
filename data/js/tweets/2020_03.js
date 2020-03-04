@@ -1,6 +1,464 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Wed Mar 04 17:05:16 +0000 2020",
+		"id": 1235249965087236000,
+		"id_str": "1235249965087236096",
+		"full_text": "Goede wandeling, goede lunch, goed gezelschap! https://t.co/EZyxoNi33g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EZyxoNi33g",
+					"expanded_url": "https://twitter.com/marrigtvdvalk/status/1235225351715983360",
+					"display_url": "twitter.com/marrigtvdvalk/…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Schrijft over de impact van tech op mens en maatschappij \n@indiewebnl \n@kaliberInteract \n@ForSubscribing\n\nhttps://t.co/ODgIUTTMdh\n\n#TeamHuman \n#PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUTTMdh",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8895,
+			"friends_count": 389,
+			"listed_count": 581,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5886,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61265,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1582409873",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1235225351715983400,
+		"quoted_status_id_str": "1235225351715983360",
+		"quoted_status_permalink": {
+			"url": "https://t.co/EZyxoNi33g",
+			"expanded": "https://twitter.com/marrigtvdvalk/status/1235225351715983360",
+			"display": "twitter.com/marrigtvdvalk/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 04 15:27:27 +0000 2020",
+			"id": 1235225351715983400,
+			"id_str": "1235225351715983360",
+			"full_text": "Paar weken geleden deed ik een oproep op LI wie er met mij een wandeling in de natuur wilde maken, om kennis en ervaring met elkaar te delen. @frankmeeuwsen reageerde als eerste en liet mij de Kromme Rijn zien. Hoe leuk dat we @KirstenJassies tegenkwamen, bonus! https://t.co/DtgIzGdySs",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				262
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "frankmeeuwsen",
+						"name": "Frank Meeuwsen",
+						"id": 816203,
+						"id_str": "816203",
+						"indices": [
+							142,
+							156
+						]
+					},
+					{
+						"screen_name": "KirstenJassies",
+						"name": "Kirsten Jassies",
+						"id": 15032299,
+						"id_str": "15032299",
+						"indices": [
+							227,
+							242
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1235225318757224400,
+						"id_str": "1235225318757224448",
+						"indices": [
+							263,
+							286
+						],
+						"media_url": "http://pbs.twimg.com/media/ESRm4gYX0AA-7t0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ESRm4gYX0AA-7t0.jpg",
+						"url": "https://t.co/DtgIzGdySs",
+						"display_url": "pic.twitter.com/DtgIzGdySs",
+						"expanded_url": "https://twitter.com/MarrigtvdValk/status/1235225351715983360/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1235225318757224400,
+						"id_str": "1235225318757224448",
+						"indices": [
+							263,
+							286
+						],
+						"media_url": "http://pbs.twimg.com/media/ESRm4gYX0AA-7t0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ESRm4gYX0AA-7t0.jpg",
+						"url": "https://t.co/DtgIzGdySs",
+						"display_url": "pic.twitter.com/DtgIzGdySs",
+						"expanded_url": "https://twitter.com/MarrigtvdValk/status/1235225351715983360/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1235225319059189800,
+						"id_str": "1235225319059189760",
+						"indices": [
+							263,
+							286
+						],
+						"media_url": "http://pbs.twimg.com/media/ESRm4hgXcAAjJYf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ESRm4hgXcAAjJYf.jpg",
+						"url": "https://t.co/DtgIzGdySs",
+						"display_url": "pic.twitter.com/DtgIzGdySs",
+						"expanded_url": "https://twitter.com/MarrigtvdValk/status/1235225351715983360/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1235225320116162600,
+						"id_str": "1235225320116162561",
+						"indices": [
+							263,
+							286
+						],
+						"media_url": "http://pbs.twimg.com/media/ESRm4lcXkAEPSTx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ESRm4lcXkAEPSTx.jpg",
+						"url": "https://t.co/DtgIzGdySs",
+						"display_url": "pic.twitter.com/DtgIzGdySs",
+						"expanded_url": "https://twitter.com/MarrigtvdValk/status/1235225351715983360/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1235225320153903000,
+						"id_str": "1235225320153903106",
+						"indices": [
+							263,
+							286
+						],
+						"media_url": "http://pbs.twimg.com/media/ESRm4llXcAIvhLZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ESRm4llXcAIvhLZ.jpg",
+						"url": "https://t.co/DtgIzGdySs",
+						"display_url": "pic.twitter.com/DtgIzGdySs",
+						"expanded_url": "https://twitter.com/MarrigtvdValk/status/1235225351715983360/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 117059950,
+				"id_str": "117059950",
+				"name": "M A R R I G T | zoekt freelance klus",
+				"screen_name": "MarrigtvdValk",
+				"location": "Leeuwarden, Nederland",
+				"description": "Beschikbaar | Founder DURF online branding | Social Media | Trainer | Fotografie | Vrijwilliger en werkt freelance @Natuurmonument Friese Weiden & Wadden",
+				"url": "https://t.co/BV6DEjo2ZO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/BV6DEjo2ZO",
+								"expanded_url": "https://www.linkedin.com/in/marrigtvandervalk/",
+								"display_url": "linkedin.com/in/marrigtvand…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3905,
+				"friends_count": 1435,
+				"listed_count": 170,
+				"created_at": "Wed Feb 24 12:07:37 +0000 2010",
+				"favourites_count": 9183,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 91405,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "000504",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1213470305123028998/l2LWONFg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1213470305123028998/l2LWONFg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/117059950/1578301012",
+				"profile_link_color": "E810E8",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "2C1703",
+				"profile_text_color": "E0912A",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "871685aa82f8a489",
+				"url": "https://api.twitter.com/1.1/geo/id/871685aa82f8a489.json",
+				"place_type": "city",
+				"name": "Utrecht",
+				"full_name": "Utrecht, Nederland",
+				"country_code": "NL",
+				"country": "Nederland",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								4.9702867,
+								52.0262429
+							],
+							[
+								5.1952468,
+								52.0262429
+							],
+							[
+								5.1952468,
+								52.142137
+							],
+							[
+								4.9702867,
+								52.142137
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Goede wandeling, goede lunch, goed gezelschap! https://t.co/EZyxoNi33g"
+	},
+	{
 		"created_at": "Wed Mar 04 16:14:26 +0000 2020",
 		"id": 1235237174653706200,
 		"id_str": "1235237174653706243",
