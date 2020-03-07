@@ -1,6 +1,374 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sat Mar 07 15:09:51 +0000 2020",
+		"id": 1236308083648888800,
+		"id_str": "1236308083648888832",
+		"full_text": "Dat was een behoorlijk dagje ontdekkingsdrift! https://t.co/3GwFBSyq3Q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3GwFBSyq3Q",
+					"expanded_url": "https://twitter.com/kaliberinteract/status/1236241954972803076",
+					"display_url": "twitter.com/kaliberinterac…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Schrijft over de impact van tech op mens en maatschappij \n@indiewebnl \n@kaliberInteract \n@ForSubscribing\n\nhttps://t.co/ODgIUTTMdh\n\n#TeamHuman \n#PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUTTMdh",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8898,
+			"friends_count": 391,
+			"listed_count": 578,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5899,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61285,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1582409873",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1236241954972803000,
+		"quoted_status_id_str": "1236241954972803076",
+		"quoted_status_permalink": {
+			"url": "https://t.co/3GwFBSyq3Q",
+			"expanded": "https://twitter.com/kaliberinteract/status/1236241954972803076",
+			"display": "twitter.com/kaliberinterac…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Mar 07 10:47:04 +0000 2020",
+			"id": 1236241954972803000,
+			"id_str": "1236241954972803076",
+			"full_text": "We lieten Tommy in ons los en hielden een #hackathon voor ons nieuwe clubhuis. Een ledwall van 1200 pingpongballen, Mondriaan dashboard wall, interactieve spiegels, een knalgele piano en interactieve meetingrooms waren het resultaat 🤘🏻 https://t.co/JaPAlaS3Yi",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				235
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "hackathon",
+						"indices": [
+							42,
+							52
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1236241770247266300,
+						"id_str": "1236241770247266306",
+						"indices": [
+							236,
+							259
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1236241770247266306/pu/img/QcnpY64cFddzfVFt.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1236241770247266306/pu/img/QcnpY64cFddzfVFt.jpg",
+						"url": "https://t.co/JaPAlaS3Yi",
+						"display_url": "pic.twitter.com/JaPAlaS3Yi",
+						"expanded_url": "https://twitter.com/Kaliberinteract/status/1236241954972803076/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1236241770247266300,
+						"id_str": "1236241770247266306",
+						"indices": [
+							236,
+							259
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1236241770247266306/pu/img/QcnpY64cFddzfVFt.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1236241770247266306/pu/img/QcnpY64cFddzfVFt.jpg",
+						"url": "https://t.co/JaPAlaS3Yi",
+						"display_url": "pic.twitter.com/JaPAlaS3Yi",
+						"expanded_url": "https://twitter.com/Kaliberinteract/status/1236241954972803076/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 91433,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1236241770247266306/pu/vid/480x480/fdPWmecmE-FiAJN7.mp4?tag=10"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1236241770247266306/pu/vid/320x320/n-9jxj-RE8vMc0Wl.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1236241770247266306/pu/pl/DFMgCA1IPWVm8oFz.m3u8?tag=10"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1236241770247266306/pu/vid/720x720/PjpaNFP65cmGQ5lh.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 10932162,
+				"id_str": "10932162",
+				"name": "Kaliber",
+				"screen_name": "Kaliberinteract",
+				"location": "Utrecht",
+				"description": "Kaliber. Digitaal bureau dat strategie, creativiteit en technologie combineert om mensen te activeren.",
+				"url": "http://t.co/0uBteIkGBt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/0uBteIkGBt",
+								"expanded_url": "http://www.kaliber.net",
+								"display_url": "kaliber.net",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2000,
+				"friends_count": 924,
+				"listed_count": 115,
+				"created_at": "Fri Dec 07 10:50:24 +0000 2007",
+				"favourites_count": 353,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3106,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E4E4E4",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1161285822311800834/ZPAmW_UZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1161285822311800834/ZPAmW_UZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/10932162/1553791951",
+				"profile_link_color": "93A644",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "871685aa82f8a489",
+				"url": "https://api.twitter.com/1.1/geo/id/871685aa82f8a489.json",
+				"place_type": "city",
+				"name": "Utrecht",
+				"full_name": "Utrecht, Nederland",
+				"country_code": "NL",
+				"country": "Nederland",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								4.9702867,
+								52.0262429
+							],
+							[
+								5.1952468,
+								52.0262429
+							],
+							[
+								5.1952468,
+								52.142137
+							],
+							[
+								4.9702867,
+								52.142137
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Dat was een behoorlijk dagje ontdekkingsdrift! https://t.co/3GwFBSyq3Q"
+	},
+	{
 		"created_at": "Fri Mar 06 08:00:57 +0000 2020",
 		"id": 1235837759949918200,
 		"id_str": "1235837759949918211",
