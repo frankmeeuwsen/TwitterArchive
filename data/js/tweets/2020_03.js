@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 09 09:20:56 +0000 2020",
+		"id": 1236843001600598000,
+		"id_str": "1236945052808642560",
+		"full_text": "Just deployed Mobile Quick Capture for @RoamResearch \n\nIf you visit from mobile, you now don't need to wait so long for app to load, and will get a quick input field for capturing a note\n\nCan select where to put it, and whether to nest under a tag https://t.co/0GPYvhG66j",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			247
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RoamResearch",
+					"name": "Roam Research",
+					"id": 1190410678273626000,
+					"id_str": "1190410678273626113",
+					"indices": [
+						39,
+						52
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1236842989873315800,
+					"id_str": "1236842989873315840",
+					"indices": [
+						248,
+						271
+					],
+					"media_url": "http://pbs.twimg.com/media/ESomJW5UwAACNHT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESomJW5UwAACNHT.jpg",
+					"url": "https://t.co/0GPYvhG66j",
+					"display_url": "pic.twitter.com/0GPYvhG66j",
+					"expanded_url": "https://twitter.com/Conaw/status/1236843001600598016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 584,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 331,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 996,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1236842989873315800,
+					"id_str": "1236842989873315840",
+					"indices": [
+						248,
+						271
+					],
+					"media_url": "http://pbs.twimg.com/media/ESomJW5UwAACNHT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESomJW5UwAACNHT.jpg",
+					"url": "https://t.co/0GPYvhG66j",
+					"display_url": "pic.twitter.com/0GPYvhG66j",
+					"expanded_url": "https://twitter.com/Conaw/status/1236843001600598016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 584,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 331,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 996,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1236842995137167400,
+					"id_str": "1236842995137167365",
+					"indices": [
+						248,
+						271
+					],
+					"media_url": "http://pbs.twimg.com/media/ESomJqgUwAU3ti8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESomJqgUwAU3ti8.jpg",
+					"url": "https://t.co/0GPYvhG66j",
+					"display_url": "pic.twitter.com/0GPYvhG66j",
+					"expanded_url": "https://twitter.com/Conaw/status/1236843001600598016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 584,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 996,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 331,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17562763,
+			"id_str": "17562763",
+			"name": "Conor is Hiring for Roam (DMs open) Designers esp.",
+			"screen_name": "Conaw",
+			"location": "San Francisco, CA",
+			"description": "Co-founder of @RoamResearch. Believer in tools for thought.",
+			"url": "https://t.co/ONO41xogyY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ONO41xogyY",
+							"expanded_url": "http://roamresearch.com",
+							"display_url": "roamresearch.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5709,
+			"friends_count": 404,
+			"listed_count": 230,
+			"created_at": "Sat Nov 22 20:50:49 +0000 2008",
+			"favourites_count": 16053,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5707,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1209461041525997570/M2nQ4THN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1209461041525997570/M2nQ4THN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17562763/1523429391",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 115,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just deployed Mobile Quick Capture for @RoamResearch \n\nIf you visit from mobile, you now don't need to wait so long for app to load, and will get a quick input field for capturing a note\n\nCan select where to put it, and whether to nest under a tag https://t.co/0GPYvhG66j"
+	},
+	{
 		"created_at": "Sun Mar 08 22:59:08 +0000 2020",
 		"id": 1236788569450131500,
 		"id_str": "1236788569450131456",
