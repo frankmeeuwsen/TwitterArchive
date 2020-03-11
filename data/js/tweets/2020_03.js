@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Wed Mar 11 22:08:31 +0000 2020",
+		"id": 1237862995859918800,
+		"id_str": "1237862995859918849",
+		"full_text": "Dat hele \"liedjes-zingen-met-het-handen-wassen\" moet je ook niet té moeilijk maken... https://t.co/eiTqsMRCee",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1237862885541286000,
+					"id_str": "1237862885541285894",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/ES3FvGVUEAYNynJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES3FvGVUEAYNynJ.jpg",
+					"url": "https://t.co/eiTqsMRCee",
+					"display_url": "pic.twitter.com/eiTqsMRCee",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1237862995859918849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 466,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 870,
+							"h": 1269,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 823,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1237862885541286000,
+					"id_str": "1237862885541285894",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/ES3FvGVUEAYNynJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES3FvGVUEAYNynJ.jpg",
+					"url": "https://t.co/eiTqsMRCee",
+					"display_url": "pic.twitter.com/eiTqsMRCee",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1237862995859918849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 466,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 870,
+							"h": 1269,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 823,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Schrijft over de impact van tech op mens en maatschappij \n@indiewebnl \n@kaliberInteract \n@ForSubscribing\n\nhttps://t.co/ODgIUTTMdh\n\n#TeamHuman \n#PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUTTMdh",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8894,
+			"friends_count": 393,
+			"listed_count": 578,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5906,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61309,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1582409873",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Dat hele \"liedjes-zingen-met-het-handen-wassen\" moet je ook niet té moeilijk maken... https://t.co/eiTqsMRCee"
+	},
+	{
 		"created_at": "Wed Mar 11 21:19:30 +0000 2020",
 		"id": 1237850662630641700,
 		"id_str": "1237850662630641664",
