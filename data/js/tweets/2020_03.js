@@ -1,6 +1,335 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Thu Mar 12 18:30:45 +0000 2020",
+		"id": 1238170581561901000,
+		"id_str": "1238170581561901056",
+		"full_text": "Digging the hashtag #lockdownNL https://t.co/DWhNK52XwN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "lockdownNL",
+					"indices": [
+						20,
+						31
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DWhNK52XwN",
+					"expanded_url": "https://twitter.com/keesone/status/1238168517268115457",
+					"display_url": "twitter.com/keesone/status…",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Schrijft over de impact van tech op mens en maatschappij \n@indiewebnl \n@kaliberInteract \n@ForSubscribing\n\nhttps://t.co/ODgIUTTMdh\n\n#TeamHuman \n#PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUTTMdh",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8897,
+			"friends_count": 393,
+			"listed_count": 578,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5916,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61315,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1582409873",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1238168517268115500,
+		"quoted_status_id_str": "1238168517268115457",
+		"quoted_status_permalink": {
+			"url": "https://t.co/DWhNK52XwN",
+			"expanded": "https://twitter.com/keesone/status/1238168517268115457",
+			"display": "twitter.com/keesone/status…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Mar 12 18:22:33 +0000 2020",
+			"id": 1238168517268115500,
+			"id_str": "1238168517268115457",
+			"full_text": "The #web turned 31 today. Think about it: without internet, most of us cannot work at home during #lockdownNL.  https://t.co/YSxzcNfthx https://t.co/cRgmgcxNJX",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				135
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "web",
+						"indices": [
+							4,
+							8
+						]
+					},
+					{
+						"text": "lockdownNL",
+						"indices": [
+							98,
+							109
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/YSxzcNfthx",
+						"expanded_url": "https://webfoundation.org/2020/03/web-birthday-31/",
+						"display_url": "webfoundation.org/2020/03/web-bi…",
+						"indices": [
+							112,
+							135
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1238167853498499000,
+						"id_str": "1238167853498499072",
+						"indices": [
+							136,
+							159
+						],
+						"media_url": "http://pbs.twimg.com/media/ES7bGkgWAAAZGq1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ES7bGkgWAAAZGq1.jpg",
+						"url": "https://t.co/cRgmgcxNJX",
+						"display_url": "pic.twitter.com/cRgmgcxNJX",
+						"expanded_url": "https://twitter.com/keesone/status/1238168517268115457/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1238167853498499000,
+						"id_str": "1238167853498499072",
+						"indices": [
+							136,
+							159
+						],
+						"media_url": "http://pbs.twimg.com/media/ES7bGkgWAAAZGq1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ES7bGkgWAAAZGq1.jpg",
+						"url": "https://t.co/cRgmgcxNJX",
+						"display_url": "pic.twitter.com/cRgmgcxNJX",
+						"expanded_url": "https://twitter.com/keesone/status/1238168517268115457/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15970999,
+				"id_str": "15970999",
+				"name": "Kees Teszelszky",
+				"screen_name": "keesone",
+				"location": "The Hague, The Netherlands",
+				"description": "Curator Digital Collections @KB_Nederland library / born digital heritage / web archaeology / earlymodern history→@teszelszky",
+				"url": "https://t.co/0d00DlmPxH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0d00DlmPxH",
+								"expanded_url": "https://zenodo.org/search?page=1&size=20&q=teszelszky",
+								"display_url": "zenodo.org/search?page=1&…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1066,
+				"friends_count": 1597,
+				"listed_count": 34,
+				"created_at": "Sun Aug 24 18:05:00 +0000 2008",
+				"favourites_count": 5364,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5103,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1020417469243166721/IyKx41sW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1020417469243166721/IyKx41sW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15970999/1551707142",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Digging the hashtag #lockdownNL https://t.co/DWhNK52XwN"
+	},
+	{
 		"created_at": "Thu Mar 12 18:18:22 +0000 2020",
 		"id": 1238167464376250400,
 		"id_str": "1238167464376250370",
