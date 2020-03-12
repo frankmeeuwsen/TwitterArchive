@@ -1,6 +1,342 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Thu Mar 12 12:12:24 +0000 2020",
+		"id": 1238075367807729700,
+		"id_str": "1238075367807729665",
+		"full_text": "Ga je mee @Wilbert ? https://t.co/JnodMPcmsc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Wilbert",
+					"name": "Wilbert Pot",
+					"id": 2286901,
+					"id_str": "2286901",
+					"indices": [
+						10,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JnodMPcmsc",
+					"expanded_url": "https://twitter.com/benglabs/status/1230862556127997952",
+					"display_url": "twitter.com/benglabs/statu…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Schrijft over de impact van tech op mens en maatschappij \n@indiewebnl \n@kaliberInteract \n@ForSubscribing\n\nhttps://t.co/ODgIUTTMdh\n\n#TeamHuman \n#PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUTTMdh",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8894,
+			"friends_count": 393,
+			"listed_count": 578,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5911,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61313,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1582409873",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1230862556127998000,
+		"quoted_status_id_str": "1230862556127997952",
+		"quoted_status_permalink": {
+			"url": "https://t.co/JnodMPcmsc",
+			"expanded": "https://twitter.com/benglabs/status/1230862556127997952",
+			"display": "twitter.com/benglabs/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Feb 21 14:31:16 +0000 2020",
+			"id": 1230862556127998000,
+			"id_str": "1230862556127997952",
+			"full_text": "Join the Interactive Past Conference from 4 till 6 November 2020 @BeeldenGeluid about #videogames 🤖 and the past. Everybody is welcome! The registration will be open February 29. Check out more: https://t.co/mNXR6gpuJd https://t.co/lQnVRGzdtU",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				218
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "videogames",
+						"indices": [
+							86,
+							97
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BeeldenGeluid",
+						"name": "Beeld en Geluid",
+						"id": 20461916,
+						"id_str": "20461916",
+						"indices": [
+							65,
+							79
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/mNXR6gpuJd",
+						"expanded_url": "http://interactivepasts.com/the-interactive-pasts-conference-3/",
+						"display_url": "interactivepasts.com/the-interactiv…",
+						"indices": [
+							195,
+							218
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1230862363810836500,
+						"id_str": "1230862363810836480",
+						"indices": [
+							219,
+							242
+						],
+						"media_url": "http://pbs.twimg.com/media/ERTmzGpXsAAoyCz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ERTmzGpXsAAoyCz.jpg",
+						"url": "https://t.co/lQnVRGzdtU",
+						"display_url": "pic.twitter.com/lQnVRGzdtU",
+						"expanded_url": "https://twitter.com/benglabs/status/1230862556127997952/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 471,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1419,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 831,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1230862363810836500,
+						"id_str": "1230862363810836480",
+						"indices": [
+							219,
+							242
+						],
+						"media_url": "http://pbs.twimg.com/media/ERTmzGpXsAAoyCz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ERTmzGpXsAAoyCz.jpg",
+						"url": "https://t.co/lQnVRGzdtU",
+						"display_url": "pic.twitter.com/lQnVRGzdtU",
+						"expanded_url": "https://twitter.com/benglabs/status/1230862556127997952/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 471,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1419,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 831,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1308739496,
+				"id_str": "1308739496",
+				"name": "Sound and Vision R&D",
+				"screen_name": "benglabs",
+				"location": "Hilversum, The Netherlands",
+				"description": "Research & development at @beeldengeluid develops programmes to make audiovisual heritage open and searchable",
+				"url": "https://t.co/ImONCsHr5b",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ImONCsHr5b",
+								"expanded_url": "http://labs.beeldengeluid.nl",
+								"display_url": "labs.beeldengeluid.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2293,
+				"friends_count": 1394,
+				"listed_count": 126,
+				"created_at": "Wed Mar 27 22:03:09 +0000 2013",
+				"favourites_count": 3770,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3641,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/661919422433648642/asW8nEZv_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/661919422433648642/asW8nEZv_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1308739496/1446648848",
+				"profile_link_color": "E00034",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Ga je mee @Wilbert ? https://t.co/JnodMPcmsc"
+	},
+	{
 		"created_at": "Thu Mar 12 08:00:14 +0000 2020",
 		"id": 1238011908378243000,
 		"id_str": "1238011908378243072",
