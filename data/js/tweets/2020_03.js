@@ -1,6 +1,119 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Fri Mar 13 05:44:25 +0000 2020",
+		"id": 1238214681182867500,
+		"id_str": "1238340114994073600",
+		"full_text": "Not to be alarmist but if Kevin Bacon tests positive we’re all fucked.  #COVD19",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "COVD19",
+					"indices": [
+						72,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22080646,
+			"id_str": "22080646",
+			"name": "Danny Zuker",
+			"screen_name": "DannyZuker",
+			"location": "Los Angeles, CA",
+			"description": "Exec Producer on ABC's Modern Family. So many flops. Check out my podcast https://t.co/zp3qqRUeDS",
+			"url": "https://t.co/OPEAyrc8JZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OPEAyrc8JZ",
+							"expanded_url": "http://www.imdb.com/name/nm0958521/",
+							"display_url": "imdb.com/name/nm0958521/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/zp3qqRUeDS",
+							"expanded_url": "https://itunes.apple.com/us/podcast/doin-it-with-danny-and-jenny/id1237964898?mt=2",
+							"display_url": "itunes.apple.com/us/podcast/doi…",
+							"indices": [
+								74,
+								97
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 326454,
+			"friends_count": 1579,
+			"listed_count": 4338,
+			"created_at": "Thu Feb 26 23:44:30 +0000 2009",
+			"favourites_count": 36769,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14557,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/546832953230106625/0AnbYmlX_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/546832953230106625/0AnbYmlX_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22080646/1348873962",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4512,
+		"favorite_count": 27511,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Not to be alarmist but if Kevin Bacon tests positive we’re all fucked.  #COVD19"
+	},
+	{
 		"created_at": "Fri Mar 13 00:02:53 +0000 2020",
 		"id": 1238254164490281000,
 		"id_str": "1238254164490280960",
