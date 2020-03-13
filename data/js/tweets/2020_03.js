@@ -1,6 +1,510 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Fri Mar 13 00:02:53 +0000 2020",
+		"id": 1238254164490281000,
+		"id_str": "1238254164490280960",
+		"full_text": "@theblub @FemkeNijboer https://t.co/2zqbKCz2xC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "theblub",
+					"name": "Jelle",
+					"id": 40082913,
+					"id_str": "40082913",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "FemkeNijboer",
+					"name": "Femke Nijboer",
+					"id": 342680228,
+					"id_str": "342680228",
+					"indices": [
+						9,
+						22
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2zqbKCz2xC",
+					"expanded_url": "https://twitter.com/useloom/status/1238150316979175424",
+					"display_url": "twitter.com/useloom/status…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 40082913,
+		"in_reply_to_user_id_str": "40082913",
+		"in_reply_to_screen_name": "theblub",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Schrijft over de impact van tech op mens en maatschappij \n@indiewebnl \n@kaliberInteract \n@ForSubscribing\n\nhttps://t.co/ODgIUTTMdh\n\n#TeamHuman \n#PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUTTMdh",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8897,
+			"friends_count": 394,
+			"listed_count": 578,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5925,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61331,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1582409873",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1238150316979175400,
+		"quoted_status_id_str": "1238150316979175424",
+		"quoted_status_permalink": {
+			"url": "https://t.co/2zqbKCz2xC",
+			"expanded": "https://twitter.com/useloom/status/1238150316979175424",
+			"display": "twitter.com/useloom/status…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Mar 12 17:10:13 +0000 2020",
+			"id": 1238150316979175400,
+			"id_str": "1238150316979175424",
+			"full_text": "It's time to take action. \n\nIn response to the #coronavirus, we're cutting prices, removing limits, and making Loom free for teachers &amp; students.\n\nHere's a short message from our Co-founder &amp; CEO, @yoyo_thomas (more here: https://t.co/wcBXIXEdI0): https://t.co/4OAs7atp8g",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				255
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "coronavirus",
+						"indices": [
+							47,
+							59
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "yoyo_thomas",
+						"name": "Joe",
+						"id": 3010686120,
+						"id_str": "3010686120",
+						"indices": [
+							205,
+							217
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/wcBXIXEdI0",
+						"expanded_url": "http://loom.com/covid-19",
+						"display_url": "loom.com/covid-19",
+						"indices": [
+							230,
+							253
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1238145797742461000,
+						"id_str": "1238145797742460928",
+						"indices": [
+							256,
+							279
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1238145797742460928/pu/img/rDF6ODWP3SBO3eF_.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1238145797742460928/pu/img/rDF6ODWP3SBO3eF_.jpg",
+						"url": "https://t.co/4OAs7atp8g",
+						"display_url": "pic.twitter.com/4OAs7atp8g",
+						"expanded_url": "https://twitter.com/useloom/status/1238150316979175424/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1152,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 425,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1152,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1238145797742461000,
+						"id_str": "1238145797742460928",
+						"indices": [
+							256,
+							279
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1238145797742460928/pu/img/rDF6ODWP3SBO3eF_.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1238145797742460928/pu/img/rDF6ODWP3SBO3eF_.jpg",
+						"url": "https://t.co/4OAs7atp8g",
+						"display_url": "pic.twitter.com/4OAs7atp8g",
+						"expanded_url": "https://twitter.com/useloom/status/1238150316979175424/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1152,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 425,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1152,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								8,
+								5
+							],
+							"duration_millis": 134134,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1238145797742460928/pu/pl/uSfA-nteoYcsKh5r.m3u8?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1238145797742460928/pu/vid/432x270/7U8hHzXCedKIRDZ2.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1238145797742460928/pu/vid/1152x720/utNLU0oBwWQhsJpR.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1238145797742460928/pu/vid/576x360/boL_GoxL718ghAJU.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3661424780,
+				"id_str": "3661424780",
+				"name": "Loom",
+				"screen_name": "useloom",
+				"location": "Worldwide",
+				"description": "A new kind of work communication tool that helps you get your message across through instantly shareable video. 🛎 For questions 💌 email support@loom.com",
+				"url": "https://t.co/LpKJbsg9v3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/LpKJbsg9v3",
+								"expanded_url": "https://www.loom.com",
+								"display_url": "loom.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10002,
+				"friends_count": 385,
+				"listed_count": 170,
+				"created_at": "Wed Sep 23 16:43:09 +0000 2015",
+				"favourites_count": 7962,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2138,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/884112107012145152/nsrbnkc9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/884112107012145152/nsrbnkc9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3661424780/1484643756",
+				"profile_link_color": "63707B",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 133,
+			"favorite_count": 398,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@theblub @FemkeNijboer https://t.co/2zqbKCz2xC"
+	},
+	{
+		"created_at": "Fri Mar 13 00:02:15 +0000 2020",
+		"id": 1238254007841427500,
+		"id_str": "1238254007841427456",
+		"full_text": "@JorisRood Deze had je nog tegoed van me ;-) https://t.co/8DW41ATdS7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JorisRood",
+					"name": "Joris Rood",
+					"id": 28352103,
+					"id_str": "28352103",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8DW41ATdS7",
+					"expanded_url": "https://medium.com/@frankmeeuwsen/nocode-development-newsletter-service-6198023c8757?sk=ba3252834af88112bdb9679b00e0658c",
+					"display_url": "medium.com/@frankmeeuwsen…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 28352103,
+		"in_reply_to_user_id_str": "28352103",
+		"in_reply_to_screen_name": "JorisRood",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Schrijft over de impact van tech op mens en maatschappij \n@indiewebnl \n@kaliberInteract \n@ForSubscribing\n\nhttps://t.co/ODgIUTTMdh\n\n#TeamHuman \n#PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUTTMdh",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8897,
+			"friends_count": 394,
+			"listed_count": 578,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5925,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61331,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1582409873",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@JorisRood Deze had je nog tegoed van me ;-) https://t.co/8DW41ATdS7"
+	},
+	{
 		"created_at": "Thu Mar 12 22:55:54 +0000 2020",
 		"id": 1238237310392696800,
 		"id_str": "1238237310392696832",
