@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Fri Mar 13 23:05:12 +0000 2020",
+		"id": 1238548654547439600,
+		"id_str": "1238602038361145345",
+		"full_text": "Ik moest keihard lachen! https://t.co/dpO9Mhl9eo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1238548644208554000,
+					"id_str": "1238548644208553985",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/ETA1bgcXsAEp7tj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETA1bgcXsAEp7tj.jpg",
+					"url": "https://t.co/dpO9Mhl9eo",
+					"display_url": "pic.twitter.com/dpO9Mhl9eo",
+					"expanded_url": "https://twitter.com/Lichtbolletje/status/1238548654547439617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 882,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 625,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 882,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1238548644208554000,
+					"id_str": "1238548644208553985",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/ETA1bgcXsAEp7tj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETA1bgcXsAEp7tj.jpg",
+					"url": "https://t.co/dpO9Mhl9eo",
+					"display_url": "pic.twitter.com/dpO9Mhl9eo",
+					"expanded_url": "https://twitter.com/Lichtbolletje/status/1238548654547439617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 882,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 625,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 882,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1656106298,
+			"id_str": "1656106298",
+			"name": "Erwin Kouwenaerhe",
+			"screen_name": "Lichtbolletje",
+			"location": "Niet Den Haag.",
+			"description": "Irl advocaat. Hier niet. Niet vrij van ironie. En twijfelaar, denk ik. Koker, geen kok. Soms toch kok. Gifjes met armpjes! Mostly harmless. Niet Edwin.",
+			"url": "https://t.co/ZwcGkNwygZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZwcGkNwygZ",
+							"expanded_url": "https://tinyurl.com/mros9as",
+							"display_url": "tinyurl.com/mros9as",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2202,
+			"friends_count": 1667,
+			"listed_count": 46,
+			"created_at": "Thu Aug 08 20:03:26 +0000 2013",
+			"favourites_count": 61700,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 176076,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1021778203197796353/gv1EII-J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1021778203197796353/gv1EII-J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1656106298/1538908558",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 59,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Ik moest keihard lachen! https://t.co/dpO9Mhl9eo"
+	},
+	{
 		"created_at": "Fri Mar 13 22:05:56 +0000 2020",
 		"id": 1238587123223142400,
 		"id_str": "1238587123223142406",
