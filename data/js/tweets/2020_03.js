@@ -1,6 +1,684 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sat Mar 14 17:14:26 +0000 2020",
+		"id": 1238876154053918700,
+		"id_str": "1238876154053918720",
+		"full_text": "@tjarko @Ome_Jelle *omkatten. Damn You Autocorrupt.",
+		"truncated": false,
+		"display_text_range": [
+			19,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tjarko",
+					"name": "Tjarko Rikkerink",
+					"id": 997804616455770100,
+					"id_str": "997804616455770113",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "Ome_Jelle",
+					"name": "Jelle Dijkstra",
+					"id": 1283191,
+					"id_str": "1283191",
+					"indices": [
+						8,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1238875536430116900,
+		"in_reply_to_status_id_str": "1238875536430116865",
+		"in_reply_to_user_id": 816203,
+		"in_reply_to_user_id_str": "816203",
+		"in_reply_to_screen_name": "frankmeeuwsen",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Schrijft over de impact van tech op mens en maatschappij \n@indiewebnl \n@kaliberInteract \n@ForSubscribing\n\nhttps://t.co/ODgIUTTMdh\n\n#TeamHuman \n#PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUTTMdh",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8897,
+			"friends_count": 395,
+			"listed_count": 578,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5934,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61355,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1582409873",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@tjarko @Ome_Jelle *omkatten. Damn You Autocorrupt."
+	},
+	{
+		"created_at": "Sat Mar 14 17:11:59 +0000 2020",
+		"id": 1238875536430116900,
+		"id_str": "1238875536430116865",
+		"full_text": "@tjarko @Ome_Jelle Ah dus de zorgverleners in hun eigen dagelijkse leven ondersteunen. Duidelijk. Zijn er geen off-the-shelf apps die je kunt omvatten in stijl en bewoordingen?",
+		"truncated": false,
+		"display_text_range": [
+			19,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tjarko",
+					"name": "Tjarko Rikkerink",
+					"id": 997804616455770100,
+					"id_str": "997804616455770113",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "Ome_Jelle",
+					"name": "Jelle Dijkstra",
+					"id": 1283191,
+					"id_str": "1283191",
+					"indices": [
+						8,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1238874695094722600,
+		"in_reply_to_status_id_str": "1238874695094722561",
+		"in_reply_to_user_id": 997804616455770100,
+		"in_reply_to_user_id_str": "997804616455770113",
+		"in_reply_to_screen_name": "tjarko",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Schrijft over de impact van tech op mens en maatschappij \n@indiewebnl \n@kaliberInteract \n@ForSubscribing\n\nhttps://t.co/ODgIUTTMdh\n\n#TeamHuman \n#PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUTTMdh",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8897,
+			"friends_count": 395,
+			"listed_count": 578,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5934,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61355,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1582409873",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@tjarko @Ome_Jelle Ah dus de zorgverleners in hun eigen dagelijkse leven ondersteunen. Duidelijk. Zijn er geen off-the-shelf apps die je kunt omvatten in stijl en bewoordingen?"
+	},
+	{
+		"created_at": "Sat Mar 14 17:08:37 +0000 2020",
+		"id": 1238874688073367600,
+		"id_str": "1238874688073367552",
+		"full_text": "@Jessemoerkerk Will Wheaton is natuurlijk de heftruckchauffeur in een WC-papier loods!",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Jessemoerkerk",
+					"name": "Jesse Moerkerk",
+					"id": 319033092,
+					"id_str": "319033092",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1238874093581226000,
+		"in_reply_to_status_id_str": "1238874093581225984",
+		"in_reply_to_user_id": 319033092,
+		"in_reply_to_user_id_str": "319033092",
+		"in_reply_to_screen_name": "Jessemoerkerk",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Schrijft over de impact van tech op mens en maatschappij \n@indiewebnl \n@kaliberInteract \n@ForSubscribing\n\nhttps://t.co/ODgIUTTMdh\n\n#TeamHuman \n#PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUTTMdh",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8897,
+			"friends_count": 395,
+			"listed_count": 578,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5934,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61355,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1582409873",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@Jessemoerkerk Will Wheaton is natuurlijk de heftruckchauffeur in een WC-papier loods!"
+	},
+	{
+		"created_at": "Sat Mar 14 17:07:00 +0000 2020",
+		"id": 1238874280680738800,
+		"id_str": "1238874280680738818",
+		"full_text": "@tjarko @Ome_Jelle Hoe zie je die marktplaats voor je? Particuliere hulp voor zorg aan huis of vraag/aanbod van handen aan bed?",
+		"truncated": false,
+		"display_text_range": [
+			19,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tjarko",
+					"name": "Tjarko Rikkerink",
+					"id": 997804616455770100,
+					"id_str": "997804616455770113",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "Ome_Jelle",
+					"name": "Jelle Dijkstra",
+					"id": 1283191,
+					"id_str": "1283191",
+					"indices": [
+						8,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1238873173212516400,
+		"in_reply_to_status_id_str": "1238873173212516352",
+		"in_reply_to_user_id": 997804616455770100,
+		"in_reply_to_user_id_str": "997804616455770113",
+		"in_reply_to_screen_name": "tjarko",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Schrijft over de impact van tech op mens en maatschappij \n@indiewebnl \n@kaliberInteract \n@ForSubscribing\n\nhttps://t.co/ODgIUTTMdh\n\n#TeamHuman \n#PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUTTMdh",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8897,
+			"friends_count": 395,
+			"listed_count": 578,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5934,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61355,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1582409873",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@tjarko @Ome_Jelle Hoe zie je die marktplaats voor je? Particuliere hulp voor zorg aan huis of vraag/aanbod van handen aan bed?"
+	},
+	{
+		"created_at": "Sat Mar 14 16:49:08 +0000 2020",
+		"id": 1238869786488189000,
+		"id_str": "1238869786488188935",
+		"full_text": "Uit de Pearl Jam community. https://t.co/GX0k2rgiaq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1238869780494516200,
+					"id_str": "1238869780494516226",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/ETFZgGVXgAI9yKS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETFZgGVXgAI9yKS.jpg",
+					"url": "https://t.co/GX0k2rgiaq",
+					"display_url": "pic.twitter.com/GX0k2rgiaq",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1238869786488188935/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 899,
+							"h": 1599,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1238869780494516200,
+					"id_str": "1238869780494516226",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/ETFZgGVXgAI9yKS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETFZgGVXgAI9yKS.jpg",
+					"url": "https://t.co/GX0k2rgiaq",
+					"display_url": "pic.twitter.com/GX0k2rgiaq",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1238869786488188935/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 899,
+							"h": 1599,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Schrijft over de impact van tech op mens en maatschappij \n@indiewebnl \n@kaliberInteract \n@ForSubscribing\n\nhttps://t.co/ODgIUTTMdh\n\n#TeamHuman \n#PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUTTMdh",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8897,
+			"friends_count": 395,
+			"listed_count": 578,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5934,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61355,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009515918618189826/q3HWxJuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1582409873",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Uit de Pearl Jam community. https://t.co/GX0k2rgiaq"
+	},
+	{
 		"created_at": "Sat Mar 14 11:54:46 +0000 2020",
 		"id": 1238795703742333000,
 		"id_str": "1238795703742332930",
