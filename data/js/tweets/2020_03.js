@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sat Mar 14 19:46:16 +0000 2020",
+		"id": 1238912614266257400,
+		"id_str": "1238914364041764865",
+		"full_text": "Pandemic Advice from Wu Tang Clan https://t.co/Xtuh8WzNrc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Xtuh8WzNrc",
+					"expanded_url": "https://kottke.org/20/03/pandemic-advice-from-wu-tang-clan",
+					"display_url": "kottke.org/20/03/pandemic…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://pragmaticcode.com/linky/\" rel=\"nofollow\">Linky for iOS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16042848,
+			"id_str": "16042848",
+			"name": "Roel Groeneveld",
+			"screen_name": "roelgroeneveld",
+			"location": "The Netherlands",
+			"description": "Product owner online @nhgnieuws. @viadesk alum. Probeert al te bloggen sinds 2002. ;-) Apple, privacy, indieweb. Hello to Jason Isaacs.",
+			"url": "https://t.co/0NG1fnDyew",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0NG1fnDyew",
+							"expanded_url": "http://roel.io",
+							"display_url": "roel.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 713,
+			"friends_count": 661,
+			"listed_count": 89,
+			"created_at": "Fri Aug 29 14:56:21 +0000 2008",
+			"favourites_count": 18042,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31736,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/912012220141375489/WsY9H9VG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/912012220141375489/WsY9H9VG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16042848/1509025786",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Pandemic Advice from Wu Tang Clan https://t.co/Xtuh8WzNrc"
+	},
+	{
 		"created_at": "Sat Mar 14 18:34:06 +0000 2020",
 		"id": 1238896200096637000,
 		"id_str": "1238896200096636928",
