@@ -1,6 +1,198 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 16 15:54:53 +0000 2020",
+		"id": 1239308716555542500,
+		"id_str": "1239580909990543360",
+		"full_text": "Protect Ya Neck against the Coronavirus. We are making a few thousand prints and distributing them across New York City. Feel FREE to do the same in your City.\nShare and RT this to the world. #wutang https://t.co/coS5M3WdiW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "wutang",
+					"indices": [
+						192,
+						199
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1239308686650196000,
+					"id_str": "1239308686650195977",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/ETLorzLXQAkYW8H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETLorzLXQAkYW8H.jpg",
+					"url": "https://t.co/coS5M3WdiW",
+					"display_url": "pic.twitter.com/coS5M3WdiW",
+					"expanded_url": "https://twitter.com/WuTangClan/status/1239308716555542535/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 927,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1583,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1239308686650196000,
+					"id_str": "1239308686650195977",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/ETLorzLXQAkYW8H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETLorzLXQAkYW8H.jpg",
+					"url": "https://t.co/coS5M3WdiW",
+					"display_url": "pic.twitter.com/coS5M3WdiW",
+					"expanded_url": "https://twitter.com/WuTangClan/status/1239308716555542535/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 927,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1583,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 26946348,
+			"id_str": "26946348",
+			"name": "Wu Tang Clan",
+			"screen_name": "WuTangClan",
+			"location": "Worldwide",
+			"description": "Wu Tang Forever -- https://t.co/OSnenZZ3NE",
+			"url": "https://t.co/8puUqtdWxp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8puUqtdWxp",
+							"expanded_url": "http://www.wutangclan.net/events",
+							"display_url": "wutangclan.net/events",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/OSnenZZ3NE",
+							"expanded_url": "http://wutangclan.com",
+							"display_url": "wutangclan.com",
+							"indices": [
+								19,
+								42
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 702417,
+			"friends_count": 60,
+			"listed_count": 2891,
+			"created_at": "Fri Mar 27 04:06:38 +0000 2009",
+			"favourites_count": 1959,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 12631,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1098992070189027329/1_vJQnNo_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1098992070189027329/1_vJQnNo_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/26946348/1577121166",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 39064,
+		"favorite_count": 72077,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Protect Ya Neck against the Coronavirus. We are making a few thousand prints and distributing them across New York City. Feel FREE to do the same in your City.\nShare and RT this to the world. #wutang https://t.co/coS5M3WdiW"
+	},
+	{
 		"created_at": "Mon Mar 16 11:39:23 +0000 2020",
 		"id": 1239516609951252500,
 		"id_str": "1239516609951252481",
