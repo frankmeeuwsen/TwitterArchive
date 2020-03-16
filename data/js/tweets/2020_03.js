@@ -1,6 +1,232 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 16 19:35:01 +0000 2020",
+		"id": 1239636306403172400,
+		"id_str": "1239636306403172354",
+		"full_text": "@elger Ik verwacht een nieuwe podcast serie Elger! We hebben duiding nodig op wat we in dat Torentje zagen!",
+		"truncated": false,
+		"display_text_range": [
+			7,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "elger",
+					"name": "Elger van der Wel",
+					"id": 14142375,
+					"id_str": "14142375",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1239634591654305800,
+		"in_reply_to_status_id_str": "1239634591654305792",
+		"in_reply_to_user_id": 14142375,
+		"in_reply_to_user_id_str": "14142375",
+		"in_reply_to_screen_name": "elger",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Schrijft over de impact van tech op mens en maatschappij \n@indiewebnl \n@kaliberInteract \n@ForSubscribing\n\nhttps://t.co/ODgIUTTMdh\n\n#TeamHuman \n#PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUTTMdh",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8895,
+			"friends_count": 396,
+			"listed_count": 578,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5967,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61391,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1582409873",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@elger Ik verwacht een nieuwe podcast serie Elger! We hebben duiding nodig op wat we in dat Torentje zagen!"
+	},
+	{
+		"created_at": "Mon Mar 16 19:32:02 +0000 2020",
+		"id": 1239632753722826800,
+		"id_str": "1239635557183107072",
+		"full_text": "Goed moment om nu die reviews te schrijven voor de restaurants die je zo goed vindt, maar nooit aan toe was gekomen om ze op die manier te waarderen. Straks als ze weer open zijn kunnen ze die steun heel goed gebruiken. #corona #blijfthuis",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			239
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "corona",
+					"indices": [
+						220,
+						227
+					]
+				},
+				{
+					"text": "blijfthuis",
+					"indices": [
+						228,
+						239
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 11021172,
+			"id_str": "11021172",
+			"name": "Wilbert Leering",
+			"screen_name": "wilbertleering",
+			"location": "Utrecht, The Netherlands",
+			"description": "Playlists & mixtapes (@perfectsnl), advertising (Stick & Link), tegenwindfietsen (NK) & deodorant (@nuud_care)",
+			"url": "https://t.co/Kp7B4gzF9k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Kp7B4gzF9k",
+							"expanded_url": "http://stick.nl",
+							"display_url": "stick.nl",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1700,
+			"friends_count": 1034,
+			"listed_count": 34,
+			"created_at": "Mon Dec 10 15:51:11 +0000 2007",
+			"favourites_count": 1908,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27691,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1194694618807451648/Md34X23q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1194694618807451648/Md34X23q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/11021172/1534610168",
+			"profile_link_color": "0A0A0A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "nl",
+		"text": "Goed moment om nu die reviews te schrijven voor de restaurants die je zo goed vindt, maar nooit aan toe was gekomen om ze op die manier te waarderen. Straks als ze weer open zijn kunnen ze die steun heel goed gebruiken. #corona #blijfthuis"
+	},
+	{
 		"created_at": "Mon Mar 16 15:54:53 +0000 2020",
 		"id": 1239308716555542500,
 		"id_str": "1239580909990543360",
