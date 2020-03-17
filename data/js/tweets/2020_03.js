@@ -1,6 +1,360 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 17 17:15:31 +0000 2020",
+		"id": 1239957598184657000,
+		"id_str": "1239963586945925120",
+		"full_text": "We need more good news to spread too 🤞 https://t.co/3lPiotp2Kb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1239957590811070500,
+					"id_str": "1239957590811070465",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/ETU22_jX0AEd5Pn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETU22_jX0AEd5Pn.jpg",
+					"url": "https://t.co/3lPiotp2Kb",
+					"display_url": "pic.twitter.com/3lPiotp2Kb",
+					"expanded_url": "https://twitter.com/bentossell/status/1239957598184656896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 946,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1239957590811070500,
+					"id_str": "1239957590811070465",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/ETU22_jX0AEd5Pn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETU22_jX0AEd5Pn.jpg",
+					"url": "https://t.co/3lPiotp2Kb",
+					"display_url": "pic.twitter.com/3lPiotp2Kb",
+					"expanded_url": "https://twitter.com/bentossell/status/1239957598184656896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 946,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1239957590785822700,
+					"id_str": "1239957590785822721",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/ETU22_dWkAExvFM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETU22_dWkAExvFM.jpg",
+					"url": "https://t.co/3lPiotp2Kb",
+					"display_url": "pic.twitter.com/3lPiotp2Kb",
+					"expanded_url": "https://twitter.com/bentossell/status/1239957598184656896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 946,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 53175441,
+			"id_str": "53175441",
+			"name": "Ben Tossell",
+			"screen_name": "bentossell",
+			"location": "London, England",
+			"description": "no-code education + showcasing projects https://t.co/i4VSi26fGv | Automate at work: https://t.co/KKt3A9rpwa | need no-code help? https://t.co/MJNnDLMB69",
+			"url": "https://t.co/1XxWulr0Hg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1XxWulr0Hg",
+							"expanded_url": "https://makerpad.co/",
+							"display_url": "makerpad.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i4VSi26fGv",
+							"expanded_url": "http://makerpad.co",
+							"display_url": "makerpad.co",
+							"indices": [
+								40,
+								63
+							]
+						},
+						{
+							"url": "https://t.co/KKt3A9rpwa",
+							"expanded_url": "http://makerpad.co/startups",
+							"display_url": "makerpad.co/startups",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/MJNnDLMB69",
+							"expanded_url": "https://forum.makerpad.co/",
+							"display_url": "forum.makerpad.co",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 26310,
+			"friends_count": 744,
+			"listed_count": 845,
+			"created_at": "Thu Jul 02 20:20:46 +0000 2009",
+			"favourites_count": 81899,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 37220,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/747474443644080128/uJ4UYake_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/747474443644080128/uJ4UYake_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/53175441/1571940821",
+			"profile_link_color": "6C63FF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 25,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We need more good news to spread too 🤞 https://t.co/3lPiotp2Kb"
+	},
+	{
+		"created_at": "Tue Mar 17 17:14:15 +0000 2020",
+		"id": 1239963268187189200,
+		"id_str": "1239963268187189248",
+		"full_text": "“With [...] stores raided, schools cancelled and people confined to their homes, the tide of madness seems to only be rising. And finally, we’ve got a rock record to reflect not just the crisis, but the resolve it’s going to take to get us through.” Wow.  https://t.co/nTz2vMth7L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nTz2vMth7L",
+					"expanded_url": "http://antiquiet.com/reviews/2020/03/pearl-jam-return-with-light-and-fire-on-gigaton/",
+					"display_url": "antiquiet.com/reviews/2020/0…",
+					"indices": [
+						256,
+						279
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Schrijft over de impact van tech op mens en maatschappij \n@indiewebnl \n@kaliberInteract \n@ForSubscribing\n\nhttps://t.co/ODgIUTTMdh\n\n#TeamHuman \n#PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUTTMdh",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8896,
+			"friends_count": 400,
+			"listed_count": 578,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5977,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61406,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1582409873",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“With [...] stores raided, schools cancelled and people confined to their homes, the tide of madness seems to only be rising. And finally, we’ve got a rock record to reflect not just the crisis, but the resolve it’s going to take to get us through.” Wow.  https://t.co/nTz2vMth7L"
+	},
+	{
 		"created_at": "Tue Mar 17 08:54:48 +0000 2020",
 		"id": 1239837580478341000,
 		"id_str": "1239837580478341121",
