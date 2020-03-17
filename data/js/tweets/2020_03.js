@@ -1,6 +1,133 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 17 21:41:29 +0000 2020",
+		"id": 1240030521410846700,
+		"id_str": "1240030521410846720",
+		"full_text": "Mocht je trouwens je eigen prive nieuwsbrief willen maken, gebaseerd het beste wat is te vinden op Twitter, Reddit, Youtube en andere tsunami's van toffe dingen, check @mailbrew! https://t.co/JG5bvXngWp (affiliate link, krijg ik weer extra Mailbrew tijd!)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			255
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mailbrew",
+					"name": "Mailbrew",
+					"id": 1185826789454729200,
+					"id_str": "1185826789454729216",
+					"indices": [
+						168,
+						177
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JG5bvXngWp",
+					"expanded_url": "https://mailbrew.com/?invite=frankmeeuwsen-OytJT0Df",
+					"display_url": "mailbrew.com/?invite=frankm…",
+					"indices": [
+						179,
+						202
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Schrijft over de impact van tech op mens en maatschappij \n@indiewebnl \n@kaliberInteract \n@ForSubscribing\n\nhttps://t.co/ODgIUTTMdh\n\n#TeamHuman \n#PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUTTMdh",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8894,
+			"friends_count": 401,
+			"listed_count": 578,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 5984,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61415,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1582409873",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Mocht je trouwens je eigen prive nieuwsbrief willen maken, gebaseerd het beste wat is te vinden op Twitter, Reddit, Youtube en andere tsunami's van toffe dingen, check @mailbrew! https://t.co/JG5bvXngWp (affiliate link, krijg ik weer extra Mailbrew tijd!)"
+	},
+	{
 		"created_at": "Tue Mar 17 20:59:36 +0000 2020",
 		"id": 1240019978616803300,
 		"id_str": "1240019978616803328",
@@ -371,7 +498,7 @@ Grailbird.data.tweets_2020_03 =
 			"created_at": "Tue Mar 17 12:48:28 +0000 2020",
 			"id": 1239896384955994000,
 			"id_str": "1239896384955994113",
-			"full_text": "It had to happen... 🙋‍♂️ Norwegian TV commentator Cecilie Langum Becker live from her home. Background info: schools are closed. #CoronavirusOutbreak https://t.co/xbTnuW6QLf",
+			"full_text": "It had to happen... 🙋♂️ Norwegian TV commentator Cecilie Langum Becker live from her home. Background info: schools are closed. #CoronavirusOutbreak https://t.co/xbTnuW6QLf",
 			"truncated": false,
 			"display_text_range": [
 				0,
