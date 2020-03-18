@@ -1,6 +1,235 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Wed Mar 18 19:00:18 +0000 2020",
+		"id": 1240349281682423800,
+		"id_str": "1240352345302720513",
+		"full_text": "Een jaar kosteloos Workplace voor hulpdiensten en overheden, omdat interne communicatie en samenwerking juist nu zo belangrijk is. Hulp nodig bij implementatie? Let me know. https://t.co/Z1yKHqATrr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Z1yKHqATrr",
+					"expanded_url": "https://twitter.com/codorniou/status/1240348110963879936",
+					"display_url": "twitter.com/codorniou/stat…",
+					"indices": [
+						174,
+						197
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 25069966,
+			"id_str": "25069966",
+			"name": "Renée van Holsteijn",
+			"screen_name": "reneevh",
+			"location": "",
+			"description": "Is leuker op insta (@rrenee.nl), helpt met communities, content en popquizzen, lacht veel, luistert de hele dag naar muziek en is altijd inconsequent.",
+			"url": "https://t.co/GxriuaQQki",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GxriuaQQki",
+							"expanded_url": "http://www.rrenee.nl",
+							"display_url": "rrenee.nl",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1210,
+			"friends_count": 1467,
+			"listed_count": 38,
+			"created_at": "Wed Mar 18 13:18:46 +0000 2009",
+			"favourites_count": 3884,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14595,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1042114298515005441/AKOyRNBZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1042114298515005441/AKOyRNBZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/25069966/1411139069",
+			"profile_link_color": "909090",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "2C2C2C",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1240348110963880000,
+		"quoted_status_id_str": "1240348110963879936",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Z1yKHqATrr",
+			"expanded": "https://twitter.com/codorniou/status/1240348110963879936",
+			"display": "twitter.com/codorniou/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 18 18:43:28 +0000 2020",
+			"id": 1240348110963880000,
+			"id_str": "1240348110963879936",
+			"full_text": "Starting today, @workplacefromFB  will be giving emergency services and government organizations free access to Workplace for one year. https://t.co/MwBNqlvnSl",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				159
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "workplacefromFB",
+						"name": "Workplace from Facebook",
+						"id": 751054209345347600,
+						"id_str": "751054209345347585",
+						"indices": [
+							16,
+							32
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/MwBNqlvnSl",
+						"expanded_url": "http://ow.ly/cPdL50yPe85",
+						"display_url": "ow.ly/cPdL50yPe85",
+						"indices": [
+							136,
+							159
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 24279106,
+				"id_str": "24279106",
+				"name": "Julien Codorniou",
+				"screen_name": "codorniou",
+				"location": "London",
+				"description": "VP, Workplace @ Facebook. xMSFT. Dad of 2. Opinions are my own.",
+				"url": "https://t.co/smpnhag8X8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/smpnhag8X8",
+								"expanded_url": "http://workplace.com",
+								"display_url": "workplace.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 15421,
+				"friends_count": 2428,
+				"listed_count": 574,
+				"created_at": "Fri Mar 13 23:18:26 +0000 2009",
+				"favourites_count": 7304,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 22807,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1185963215026569216/4Gv4qSFV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1185963215026569216/4Gv4qSFV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/24279106/1545933755",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Een jaar kosteloos Workplace voor hulpdiensten en overheden, omdat interne communicatie en samenwerking juist nu zo belangrijk is. Hulp nodig bij implementatie? Let me know. https://t.co/Z1yKHqATrr"
+	},
+	{
 		"created_at": "Wed Mar 18 16:53:27 +0000 2020",
 		"id": 1240320422991757300,
 		"id_str": "1240320422991757319",
