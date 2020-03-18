@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Wed Mar 18 22:32:27 +0000 2020",
+		"id": 1240307541491495000,
+		"id_str": "1240405735676264452",
+		"full_text": "I've lost my mind.\n\nI wrote Coronavirus Rhapsody:\n\nIs this a sore throat?\nIs this just allergies?\nCaught in a lockdown\nNo escape from reality.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55914766,
+			"id_str": "55914766",
+			"name": "Dana Jay Bein (#DJB)",
+			"screen_name": "danajaybein",
+			"location": "Cambridge, MA",
+			"description": "Comedian | Love yourself, take care of each other and follow your fucking dreams!",
+			"url": "https://t.co/4HjOShx64I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4HjOShx64I",
+							"expanded_url": "http://www.danajaybein.com",
+							"display_url": "danajaybein.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5120,
+			"friends_count": 3892,
+			"listed_count": 149,
+			"created_at": "Sat Jul 11 19:56:43 +0000 2009",
+			"favourites_count": 28059,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 83874,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1174393694117666818/opLn7ThL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1174393694117666818/opLn7ThL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55914766/1577647821",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14592,
+		"favorite_count": 45908,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I've lost my mind.\n\nI wrote Coronavirus Rhapsody:\n\nIs this a sore throat?\nIs this just allergies?\nCaught in a lockdown\nNo escape from reality."
+	},
+	{
 		"created_at": "Wed Mar 18 21:47:57 +0000 2020",
 		"id": 1240394535752077300,
 		"id_str": "1240394535752077317",
