@@ -1,6 +1,173 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Thu Mar 19 08:00:12 +0000 2020",
+		"id": 1240548614784667600,
+		"id_str": "1240548614784667652",
+		"full_text": "Hij is er weer! Mijn wekelijkse nieuwsbrief OPEN. Editie S01E36 ”🧼 Was je handen!” met onder andere @eljadaae, @fastmoving, @inoreader, @5harath en @mozillafestival. Zelfs op 1,5 meter afstand nog te lezen!\n\nhttps://t.co/TJzvDrLUcn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			231
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eljadaae",
+					"name": "Elja Daae",
+					"id": 111704957,
+					"id_str": "111704957",
+					"indices": [
+						100,
+						109
+					]
+				},
+				{
+					"screen_name": "fastmoving",
+					"name": "Fast Moving Targets",
+					"id": 210772544,
+					"id_str": "210772544",
+					"indices": [
+						111,
+						122
+					]
+				},
+				{
+					"screen_name": "Inoreader",
+					"name": "Inoreader",
+					"id": 1536852836,
+					"id_str": "1536852836",
+					"indices": [
+						124,
+						134
+					]
+				},
+				{
+					"screen_name": "5harath",
+					"name": "Sharath Kuruganty",
+					"id": 86964246,
+					"id_str": "86964246",
+					"indices": [
+						136,
+						144
+					]
+				},
+				{
+					"screen_name": "mozillafestival",
+					"name": "Mozilla Festival",
+					"id": 348416778,
+					"id_str": "348416778",
+					"indices": [
+						148,
+						164
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TJzvDrLUcn",
+					"expanded_url": "http://nieuws.diggingthedigital.com/archive/232894",
+					"display_url": "nieuws.diggingthedigital.com/archive/232894",
+					"indices": [
+						208,
+						231
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.getrevue.co\" rel=\"nofollow\">Revue</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Schrijft over de impact van tech op mens en maatschappij \n@indiewebnl \n@kaliberInteract \n@ForSubscribing\n\nhttps://t.co/ODgIUTTMdh\n\n#TeamHuman \n#PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUTTMdh",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8893,
+			"friends_count": 404,
+			"listed_count": 578,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6003,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61435,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1582409873",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Hij is er weer! Mijn wekelijkse nieuwsbrief OPEN. Editie S01E36 ”🧼 Was je handen!” met onder andere @eljadaae, @fastmoving, @inoreader, @5harath en @mozillafestival. Zelfs op 1,5 meter afstand nog te lezen!\n\nhttps://t.co/TJzvDrLUcn"
+	},
+	{
 		"created_at": "Thu Mar 19 05:14:16 +0000 2020",
 		"id": 1240506853739683800,
 		"id_str": "1240506853739683841",
