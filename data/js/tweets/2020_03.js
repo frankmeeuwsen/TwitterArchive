@@ -1,6 +1,141 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Fri Mar 20 05:18:04 +0000 2020",
+		"id": 1240775993176055800,
+		"id_str": "1240870199164887040",
+		"full_text": "Heb je een restaurant en wil je makkelijk afhaal en/of bezorgen mogelijk maken. Kijk even op https://t.co/Tn5OpL4OKb Al vanaf 10,- per maand jouw menukaart online incl betalen met jouw Mollie account op een eigen (sub)domein. #hoale #takeaway #saas #startup",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			257
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "hoale",
+					"indices": [
+						226,
+						232
+					]
+				},
+				{
+					"text": "takeaway",
+					"indices": [
+						233,
+						242
+					]
+				},
+				{
+					"text": "saas",
+					"indices": [
+						243,
+						248
+					]
+				},
+				{
+					"text": "startup",
+					"indices": [
+						249,
+						257
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Tn5OpL4OKb",
+					"expanded_url": "http://hoaleservices.nl",
+					"display_url": "hoaleservices.nl",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 997804616455770100,
+			"id_str": "997804616455770113",
+			"name": "Tjarko Rikkerink",
+			"screen_name": "tjarko",
+			"location": "Oss, Nederland",
+			"description": "Doet dingen, en ook best goed. De vorige @tjarko zat hier van 10/2007 - 10/2017 en begon weer opnieuw. Offline Micro-influencert. #crossfit #fitAFgoals",
+			"url": "https://t.co/OkSNVdxbYH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OkSNVdxbYH",
+							"expanded_url": "https://bunq.me/tjarko/1/zomaar",
+							"display_url": "bunq.me/tjarko/1/zomaar",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 559,
+			"friends_count": 533,
+			"listed_count": 6,
+			"created_at": "Sat May 19 11:42:13 +0000 2018",
+			"favourites_count": 10162,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3152,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234093972483604480/tczOFhCn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234093972483604480/tczOFhCn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/997804616455770113/1576789558",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Heb je een restaurant en wil je makkelijk afhaal en/of bezorgen mogelijk maken. Kijk even op https://t.co/Tn5OpL4OKb Al vanaf 10,- per maand jouw menukaart online incl betalen met jouw Mollie account op een eigen (sub)domein. #hoale #takeaway #saas #startup"
+	},
+	{
 		"created_at": "Thu Mar 19 20:01:33 +0000 2020",
 		"id": 1240730148854468600,
 		"id_str": "1240730148854468609",
