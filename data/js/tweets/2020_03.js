@@ -1,6 +1,372 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sat Mar 21 22:16:48 +0000 2020",
+		"id": 1241362658194047000,
+		"id_str": "1241488961060601859",
+		"full_text": "Buying groceries while staying six feet away from everyone in the store.  https://t.co/res9BWgPAS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1150872436944048100,
+					"id_str": "1150872436944048130",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1150872436944048130/pu/img/giafOKzc_JB_HusD.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1150872436944048130/pu/img/giafOKzc_JB_HusD.jpg",
+					"url": "https://t.co/res9BWgPAS",
+					"display_url": "pic.twitter.com/res9BWgPAS",
+					"expanded_url": "https://twitter.com/YTSunnys/status/1150872752414498816/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1150872752414498800,
+					"source_status_id_str": "1150872752414498816",
+					"source_user_id": 2218261077,
+					"source_user_id_str": "2218261077"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1150872436944048100,
+					"id_str": "1150872436944048130",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1150872436944048130/pu/img/giafOKzc_JB_HusD.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1150872436944048130/pu/img/giafOKzc_JB_HusD.jpg",
+					"url": "https://t.co/res9BWgPAS",
+					"display_url": "pic.twitter.com/res9BWgPAS",
+					"expanded_url": "https://twitter.com/YTSunnys/status/1150872752414498816/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1150872752414498800,
+					"source_status_id_str": "1150872752414498816",
+					"source_user_id": 2218261077,
+					"source_user_id_str": "2218261077",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 59083,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1150872436944048130/pu/vid/480x270/P_Ml_oAl-iQ-RiKD.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1150872436944048130/pu/pl/yvn7SZDV288AI3hv.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1150872436944048130/pu/vid/640x360/bTcPblU-vaJ3hh8L.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1150872436944048130/pu/vid/1280x720/_kqaIyy-Bqbfv1wH.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 2218261077,
+							"id_str": "2218261077",
+							"name": "Sunny ✨",
+							"screen_name": "YTSunnys",
+							"location": "-Ðead Ēnd-",
+							"description": "I am known for making a slightly difficult mario level.\n\nIf you need me I'm mostly on Discord, but I respond to DMs here too.",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 7953,
+							"friends_count": 196,
+							"listed_count": 40,
+							"created_at": "Tue Dec 10 21:07:16 +0000 2013",
+							"favourites_count": 67676,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 72480,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1189980919865716737/c7M2DlDK_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1189980919865716737/c7M2DlDK_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/2218261077/1564767169",
+							"profile_link_color": "9266CC",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 48569578,
+			"id_str": "48569578",
+			"name": "PJ Vogt",
+			"screen_name": "PJVogt",
+			"location": "",
+			"description": "editorial director @replyall",
+			"url": "https://t.co/kTvNqZSKUb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kTvNqZSKUb",
+							"expanded_url": "http://replyall.limo",
+							"display_url": "replyall.limo",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 110699,
+			"friends_count": 1004,
+			"listed_count": 973,
+			"created_at": "Fri Jun 19 01:46:37 +0000 2009",
+			"favourites_count": 31031,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16574,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136333489152749574/SRrgUZF-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136333489152749574/SRrgUZF-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/48569578/1569345596",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2994,
+		"favorite_count": 11473,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Buying groceries while staying six feet away from everyone in the store.  https://t.co/res9BWgPAS"
+	},
+	{
+		"created_at": "Sat Mar 21 22:09:57 +0000 2020",
+		"id": 1241487234504757200,
+		"id_str": "1241487234504757248",
+		"full_text": "Waar ik dan ook wel benieuwd naar ben… Als we allemaal minder forenzen en meer thuiswerken… wat doet dat met de luistercijfers voor podcasts? Ik kan me voorstellen dat die ook een deukje krijgen toch?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://brid.gy/\" rel=\"nofollow\">Bridgy</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Schrijft over de impact van tech op mens en maatschappij \n@indiewebnl \n@kaliberInteract \n@ForSubscribing\n\nhttps://t.co/ODgIUTTMdh\n\n#TeamHuman \n#PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUTTMdh",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8892,
+			"friends_count": 411,
+			"listed_count": 578,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6020,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61453,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1582409873",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "Waar ik dan ook wel benieuwd naar ben… Als we allemaal minder forenzen en meer thuiswerken… wat doet dat met de luistercijfers voor podcasts? Ik kan me voorstellen dat die ook een deukje krijgen toch?"
+	},
+	{
 		"created_at": "Sat Mar 21 19:07:29 +0000 2020",
 		"id": 1241441314987815000,
 		"id_str": "1241441314987814920",
