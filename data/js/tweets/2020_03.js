@@ -1,6 +1,370 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sat Mar 21 23:16:41 +0000 2020",
+		"id": 1241504029940813800,
+		"id_str": "1241504029940813824",
+		"full_text": "Waitwhat? Krijgt zelfs Second Life nu een tweede leven? (see what I did there!) https://t.co/QTOd1g4Vp3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QTOd1g4Vp3",
+					"expanded_url": "https://twitter.com/nancyproctor/status/1241501422899941382",
+					"display_url": "twitter.com/nancyproctor/s…",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Schrijft over de impact van tech op mens en maatschappij \n@indiewebnl \n@kaliberInteract \n@ForSubscribing\n\nhttps://t.co/ODgIUTTMdh\n\n#TeamHuman \n#PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUTTMdh",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8892,
+			"friends_count": 412,
+			"listed_count": 578,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6021,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61455,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1582409873",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1241501422899941400,
+		"quoted_status_id_str": "1241501422899941382",
+		"quoted_status_permalink": {
+			"url": "https://t.co/QTOd1g4Vp3",
+			"expanded": "https://twitter.com/nancyproctor/status/1241501422899941382",
+			"display": "twitter.com/nancyproctor/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Mar 21 23:06:19 +0000 2020",
+			"id": 1241501422899941400,
+			"id_str": "1241501422899941382",
+			"full_text": "This was a trip: @doctorow checking out the #MW20 Online auditorium in @SecondLife. We're both getting new avatars thanks to @draxtor &amp; @VirtualAbility before his keynote on Thu Apr 2, 2pm PDT. Hang out with us on  @museweb Island during Linden Lunches! https://t.co/xK0DikQgRy https://t.co/btoc354n2u",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				281
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MW20",
+						"indices": [
+							44,
+							49
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "doctorow",
+						"name": "Bernie Beats Trump",
+						"id": 2729061,
+						"id_str": "2729061",
+						"indices": [
+							17,
+							26
+						]
+					},
+					{
+						"screen_name": "SecondLife",
+						"name": "Second Life Official",
+						"id": 772844,
+						"id_str": "772844",
+						"indices": [
+							71,
+							82
+						]
+					},
+					{
+						"screen_name": "draxtor",
+						"name": "draxtor™",
+						"id": 5711662,
+						"id_str": "5711662",
+						"indices": [
+							125,
+							133
+						]
+					},
+					{
+						"screen_name": "VirtualAbility",
+						"name": "Virtual Ability, Inc",
+						"id": 33002546,
+						"id_str": "33002546",
+						"indices": [
+							140,
+							155
+						]
+					},
+					{
+						"screen_name": "museweb",
+						"name": "MuseWeb",
+						"id": 14289945,
+						"id_str": "14289945",
+						"indices": [
+							219,
+							227
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/xK0DikQgRy",
+						"expanded_url": "https://mw20.museweb.net/",
+						"display_url": "mw20.museweb.net",
+						"indices": [
+							258,
+							281
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1241499139311128600,
+						"id_str": "1241499139311128576",
+						"indices": [
+							282,
+							305
+						],
+						"media_url": "http://pbs.twimg.com/media/ETqw47OX0AAWTVf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ETqw47OX0AAWTVf.jpg",
+						"url": "https://t.co/btoc354n2u",
+						"display_url": "pic.twitter.com/btoc354n2u",
+						"expanded_url": "https://twitter.com/nancyproctor/status/1241501422899941382/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1918,
+								"h": 1077,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 674,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1241499139311128600,
+						"id_str": "1241499139311128576",
+						"indices": [
+							282,
+							305
+						],
+						"media_url": "http://pbs.twimg.com/media/ETqw47OX0AAWTVf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ETqw47OX0AAWTVf.jpg",
+						"url": "https://t.co/btoc354n2u",
+						"display_url": "pic.twitter.com/btoc354n2u",
+						"expanded_url": "https://twitter.com/nancyproctor/status/1241501422899941382/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1918,
+								"h": 1077,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 674,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15367053,
+				"id_str": "15367053",
+				"name": "Nancy Proctor",
+				"screen_name": "nancyproctor",
+				"location": "Silver Spring, MD",
+				"description": "Director @ThePeale & co-chair @MuseWeb conferences. Mother to 3 young dragons. Inclusive & immersive storytelling #a11y #BhereBmore #MyBaltimore #MuseWomen",
+				"url": "https://t.co/UfTW9BQvI7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UfTW9BQvI7",
+								"expanded_url": "http://www.museumsandtheweb.com/author/nancyproctor/",
+								"display_url": "museumsandtheweb.com/author/nancypr…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 15691,
+				"friends_count": 8518,
+				"listed_count": 944,
+				"created_at": "Wed Jul 09 16:08:14 +0000 2008",
+				"favourites_count": 2805,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 21355,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/737351653641334785/QS8lnRBF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/737351653641334785/QS8lnRBF_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Waitwhat? Krijgt zelfs Second Life nu een tweede leven? (see what I did there!) https://t.co/QTOd1g4Vp3"
+	},
+	{
 		"created_at": "Sat Mar 21 22:16:48 +0000 2020",
 		"id": 1241362658194047000,
 		"id_str": "1241488961060601859",
