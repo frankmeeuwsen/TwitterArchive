@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sat Mar 21 11:13:54 +0000 2020",
+		"id": 1241312099273490400,
+		"id_str": "1241322135777349633",
+		"full_text": "Nog full-stack devs die evt willen helpen met een soort Corona triage tool voor een prominent ziekenhuis? Komt er op neer dat het redelijk snel gehacked moet worden ism een microbioloog.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14918591,
+			"id_str": "14918591",
+			"name": "Martijn de Kuijper",
+			"screen_name": "mdekuijper",
+			"location": "In your inbox",
+			"description": "Founder and CEO at @revue – An editorial newsletter tool for writers and publishers. Previously: Fosbury and Yunoo.",
+			"url": "https://t.co/1e2QEt6mmL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1e2QEt6mmL",
+							"expanded_url": "https://www.getrevue.co",
+							"display_url": "getrevue.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2422,
+			"friends_count": 1629,
+			"listed_count": 140,
+			"created_at": "Tue May 27 08:49:04 +0000 2008",
+			"favourites_count": 9426,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10965,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/652522549549645824/T93YxtBX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/652522549549645824/T93YxtBX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14918591/1439977486",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "nl",
+		"text": "Nog full-stack devs die evt willen helpen met een soort Corona triage tool voor een prominent ziekenhuis? Komt er op neer dat het redelijk snel gehacked moet worden ism een microbioloog."
+	},
+	{
 		"created_at": "Sat Mar 21 09:46:08 +0000 2020",
 		"id": 1241300048446619600,
 		"id_str": "1241300048446619649",
