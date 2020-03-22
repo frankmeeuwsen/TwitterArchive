@@ -1,6 +1,188 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sun Mar 22 05:53:31 +0000 2020",
+		"id": 1241466179438477300,
+		"id_str": "1241603897535467521",
+		"full_text": "Nice Graphic from NZ....   everyone can make a decision to make a difference.   #StayAtHome https://t.co/3xxpWOPExj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "StayAtHome",
+					"indices": [
+						80,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1241466173537034200,
+					"id_str": "1241466173537034241",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/ETqS6EJWoAEbtXv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETqS6EJWoAEbtXv.jpg",
+					"url": "https://t.co/3xxpWOPExj",
+					"display_url": "pic.twitter.com/3xxpWOPExj",
+					"expanded_url": "https://twitter.com/RobinD100/status/1241466179438477313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 768,
+							"h": 461,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 408,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 461,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1241466173537034200,
+					"id_str": "1241466173537034241",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/ETqS6EJWoAEbtXv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETqS6EJWoAEbtXv.jpg",
+					"url": "https://t.co/3xxpWOPExj",
+					"display_url": "pic.twitter.com/3xxpWOPExj",
+					"expanded_url": "https://twitter.com/RobinD100/status/1241466179438477313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 768,
+							"h": 461,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 408,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 461,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3879049943,
+			"id_str": "3879049943",
+			"name": "Robin Davis",
+			"screen_name": "RobinD100",
+			"location": "England, United Kingdom",
+			"description": "Director • NHS Elect • Quality Improvement • Q • Patient Involvement • Leadership • School Governor • Coffee • Sourdough Baker •  🏳️‍🌈 • Views 100% my own",
+			"url": "https://t.co/xTGX1qfr6u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xTGX1qfr6u",
+							"expanded_url": "http://www.nhselect.nhs.uk",
+							"display_url": "nhselect.nhs.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1337,
+			"friends_count": 2400,
+			"listed_count": 13,
+			"created_at": "Tue Oct 06 08:51:21 +0000 2015",
+			"favourites_count": 4288,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2096,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1171405802332151808/1mLpBkRK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1171405802332151808/1mLpBkRK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3879049943/1568873383",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2598,
+		"favorite_count": 4681,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Nice Graphic from NZ....   everyone can make a decision to make a difference.   #StayAtHome https://t.co/3xxpWOPExj"
+	},
+	{
 		"created_at": "Sat Mar 21 23:31:37 +0000 2020",
 		"id": 1241441244921974800,
 		"id_str": "1241507788431507458",
