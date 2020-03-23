@@ -1,6 +1,1733 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 23 19:13:39 +0000 2020",
+		"id": 1242167643446096000,
+		"id_str": "1242167643446095873",
+		"full_text": "Holy shitballs...lekkere oldskool promotie! @roosvanvugt @Markies @remkusdevries @KAFygi @ChristaRomp @BroosB https://t.co/aG6m0wfoqk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "roosvanvugt",
+					"name": "Roos van Vugt",
+					"id": 21687228,
+					"id_str": "21687228",
+					"indices": [
+						44,
+						56
+					]
+				},
+				{
+					"screen_name": "Markies",
+					"name": "Mark de Kock",
+					"id": 1858541,
+					"id_str": "1858541",
+					"indices": [
+						57,
+						65
+					]
+				},
+				{
+					"screen_name": "remkusdevries",
+					"name": "Remkus de Vries",
+					"id": 14264386,
+					"id_str": "14264386",
+					"indices": [
+						66,
+						80
+					]
+				},
+				{
+					"screen_name": "KAFygi",
+					"name": "Kari-Anne Fygi 💬",
+					"id": 8242152,
+					"id_str": "8242152",
+					"indices": [
+						81,
+						88
+					]
+				},
+				{
+					"screen_name": "ChristaRomp",
+					"name": "Christa Romp",
+					"id": 26492815,
+					"id_str": "26492815",
+					"indices": [
+						89,
+						101
+					]
+				},
+				{
+					"screen_name": "BroosB",
+					"name": "Amber",
+					"id": 18234003,
+					"id_str": "18234003",
+					"indices": [
+						102,
+						109
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/aG6m0wfoqk",
+					"expanded_url": "https://twitter.com/antiquiet/status/1242166888085377024",
+					"display_url": "twitter.com/antiquiet/stat…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Schrijft over de impact van tech op mens en maatschappij \n@indiewebnl \n@kaliberInteract \n@ForSubscribing\n\nhttps://t.co/ODgIUTTMdh\n\n#TeamHuman \n#PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUTTMdh",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8894,
+			"friends_count": 412,
+			"listed_count": 578,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6041,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61489,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1582409873",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1242166888085377000,
+		"quoted_status_id_str": "1242166888085377024",
+		"quoted_status_permalink": {
+			"url": "https://t.co/aG6m0wfoqk",
+			"expanded": "https://twitter.com/antiquiet/status/1242166888085377024",
+			"display": "twitter.com/antiquiet/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Mar 23 19:10:39 +0000 2020",
+			"id": 1242166888085377000,
+			"id_str": "1242166888085377024",
+			"full_text": "https://t.co/pCHXv6A2Nk",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				0
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1242166883891073000,
+						"id_str": "1242166883891073024",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/ET0QMxoU0AAi1XY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ET0QMxoU0AAi1XY.jpg",
+						"url": "https://t.co/pCHXv6A2Nk",
+						"display_url": "pic.twitter.com/pCHXv6A2Nk",
+						"expanded_url": "https://twitter.com/antiquiet/status/1242166888085377024/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 994,
+								"h": 1293,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 923,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 523,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1242166883891073000,
+						"id_str": "1242166883891073024",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/ET0QMxoU0AAi1XY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ET0QMxoU0AAi1XY.jpg",
+						"url": "https://t.co/pCHXv6A2Nk",
+						"display_url": "pic.twitter.com/pCHXv6A2Nk",
+						"expanded_url": "https://twitter.com/antiquiet/status/1242166888085377024/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 994,
+								"h": 1293,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 923,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 523,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15140012,
+				"id_str": "15140012",
+				"name": "Antiquiet",
+				"screen_name": "antiquiet",
+				"location": "Los Angeles, CA",
+				"description": "Culture Vulture Extermination Services. and music.",
+				"url": "https://t.co/4L3J7VTYCg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4L3J7VTYCg",
+								"expanded_url": "http://www.antiquiet.com",
+								"display_url": "antiquiet.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5565,
+				"friends_count": 1258,
+				"listed_count": 315,
+				"created_at": "Mon Jun 16 23:35:38 +0000 2008",
+				"favourites_count": 2188,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 23213,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFC336",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/971752276820832256/tl_eq3IG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/971752276820832256/tl_eq3IG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15140012/1430989611",
+				"profile_link_color": "B60000",
+				"profile_sidebar_border_color": "B60000",
+				"profile_sidebar_fill_color": "EEEEEE",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Holy shitballs...lekkere oldskool promotie! @roosvanvugt @Markies @remkusdevries @KAFygi @ChristaRomp @BroosB https://t.co/aG6m0wfoqk"
+	},
+	{
+		"created_at": "Mon Mar 23 19:11:44 +0000 2020",
+		"id": 1242167161579282400,
+		"id_str": "1242167161579282434",
+		"full_text": "@lobidabasi Tot de Netflix Original die uit zal komen in september 2022. Dan wordt het hele verhaal verteld... ;-)",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lobidabasi",
+					"name": "Kees",
+					"id": 753110077029118000,
+					"id_str": "753110077029117953",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1242166777762676700,
+		"in_reply_to_status_id_str": "1242166777762676738",
+		"in_reply_to_user_id": 753110077029118000,
+		"in_reply_to_user_id_str": "753110077029117953",
+		"in_reply_to_screen_name": "lobidabasi",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Schrijft over de impact van tech op mens en maatschappij \n@indiewebnl \n@kaliberInteract \n@ForSubscribing\n\nhttps://t.co/ODgIUTTMdh\n\n#TeamHuman \n#PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUTTMdh",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8894,
+			"friends_count": 412,
+			"listed_count": 578,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6041,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61489,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1582409873",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@lobidabasi Tot de Netflix Original die uit zal komen in september 2022. Dan wordt het hele verhaal verteld... ;-)"
+	},
+	{
+		"created_at": "Mon Mar 23 19:10:46 +0000 2020",
+		"id": 1242166918028591000,
+		"id_str": "1242166918028591105",
+		"full_text": "@theblub @ryhertzberger @FemkeNijboer @WALHALLAb_NL @erjeetjeh @reneewever @yppah @PeHT_UTwente @cfrauenberger @jaspervankuijk @ken0324 @marcelzwiers @Zaga_daga @JoannekeVDNagel @sebastiaanw @m_nagenborg @SpaceKwest @simon_brooke I got this tip from a friend in Germany, a hackathon to help the government. https://t.co/n84YLFdwzm",
+		"truncated": false,
+		"display_text_range": [
+			230,
+			330
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "theblub",
+					"name": "Jelle",
+					"id": 40082913,
+					"id_str": "40082913",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "ryhertzberger",
+					"name": "Rosanne Y. Hertzberger",
+					"id": 34616736,
+					"id_str": "34616736",
+					"indices": [
+						9,
+						23
+					]
+				},
+				{
+					"screen_name": "FemkeNijboer",
+					"name": "Femke Nijboer",
+					"id": 342680228,
+					"id_str": "342680228",
+					"indices": [
+						24,
+						37
+					]
+				},
+				{
+					"screen_name": "WALHALLAb_NL",
+					"name": "WALHALLAb",
+					"id": 792750348624617500,
+					"id_str": "792750348624617473",
+					"indices": [
+						38,
+						51
+					]
+				},
+				{
+					"screen_name": "erjeetjeh",
+					"name": "Robert-Jan den Haan",
+					"id": 124906784,
+					"id_str": "124906784",
+					"indices": [
+						52,
+						62
+					]
+				},
+				{
+					"screen_name": "reneewever",
+					"name": "Renee Wever",
+					"id": 1005113329,
+					"id_str": "1005113329",
+					"indices": [
+						63,
+						74
+					]
+				},
+				{
+					"screen_name": "yppah",
+					"name": "yppah",
+					"id": 13216552,
+					"id_str": "13216552",
+					"indices": [
+						75,
+						81
+					]
+				},
+				{
+					"screen_name": "PeHT_UTwente",
+					"name": "PeHT @ #UTwente",
+					"id": 1088183192853626900,
+					"id_str": "1088183192853626880",
+					"indices": [
+						82,
+						95
+					]
+				},
+				{
+					"screen_name": "cfrauenberger",
+					"name": "Chris Frauenberger",
+					"id": 221895859,
+					"id_str": "221895859",
+					"indices": [
+						96,
+						110
+					]
+				},
+				{
+					"screen_name": "jaspervankuijk",
+					"name": "Jasper van Kuijk",
+					"id": 103808288,
+					"id_str": "103808288",
+					"indices": [
+						111,
+						126
+					]
+				},
+				{
+					"screen_name": "ken0324",
+					"name": "Ken Nakagaki / 中垣 拳",
+					"id": 65360095,
+					"id_str": "65360095",
+					"indices": [
+						127,
+						135
+					]
+				},
+				{
+					"screen_name": "marcelzwiers",
+					"name": "marcel zwiers",
+					"id": 20662630,
+					"id_str": "20662630",
+					"indices": [
+						136,
+						149
+					]
+				},
+				{
+					"screen_name": "Zaga_daga",
+					"name": "Cristina Zaga",
+					"id": 17065584,
+					"id_str": "17065584",
+					"indices": [
+						150,
+						160
+					]
+				},
+				{
+					"screen_name": "JoannekeVDNagel",
+					"name": "Joanneke Van Der Nagel",
+					"id": 974656521106751500,
+					"id_str": "974656521106751490",
+					"indices": [
+						161,
+						177
+					]
+				},
+				{
+					"screen_name": "sebastiaanw",
+					"name": "Sebastiaan Waanders",
+					"id": 29210643,
+					"id_str": "29210643",
+					"indices": [
+						178,
+						190
+					]
+				},
+				{
+					"screen_name": "m_nagenborg",
+					"name": "Michael Nagenborg",
+					"id": 171383691,
+					"id_str": "171383691",
+					"indices": [
+						191,
+						203
+					]
+				},
+				{
+					"screen_name": "SpaceKwest",
+					"name": "Space Quest",
+					"id": 2185811371,
+					"id_str": "2185811371",
+					"indices": [
+						204,
+						215
+					]
+				},
+				{
+					"screen_name": "simon_brooke",
+					"name": "Simon Brooke::🏴󠁧󠁢󠁳󠁣󠁴󠁿🇪🇺🌍::ᛊᛁᛗᛟᚾ",
+					"id": 60855259,
+					"id_str": "60855259",
+					"indices": [
+						216,
+						229
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/n84YLFdwzm",
+					"expanded_url": "https://www.bundesregierung.de/breg-de/themen/coronavirus/wir-vs-virus-1731968",
+					"display_url": "bundesregierung.de/breg-de/themen…",
+					"indices": [
+						307,
+						330
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1242155883410460700,
+		"in_reply_to_status_id_str": "1242155883410460675",
+		"in_reply_to_user_id": 40082913,
+		"in_reply_to_user_id_str": "40082913",
+		"in_reply_to_screen_name": "theblub",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Schrijft over de impact van tech op mens en maatschappij \n@indiewebnl \n@kaliberInteract \n@ForSubscribing\n\nhttps://t.co/ODgIUTTMdh\n\n#TeamHuman \n#PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUTTMdh",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8894,
+			"friends_count": 412,
+			"listed_count": 578,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6041,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61489,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1582409873",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@theblub @ryhertzberger @FemkeNijboer @WALHALLAb_NL @erjeetjeh @reneewever @yppah @PeHT_UTwente @cfrauenberger @jaspervankuijk @ken0324 @marcelzwiers @Zaga_daga @JoannekeVDNagel @sebastiaanw @m_nagenborg @SpaceKwest @simon_brooke I got this tip from a friend in Germany, a hackathon to help the government. https://t.co/n84YLFdwzm"
+	},
+	{
+		"created_at": "Mon Mar 23 19:05:17 +0000 2020",
+		"id": 1242165540308820000,
+		"id_str": "1242165540308819971",
+		"full_text": "@boerdeboer Hou jij ook bij wat er privacy-technisch allemaal gebeurt? Bv Hongarije en Azie? Ik zoek wat voorbeelden voor mijn nieuwsbrief komende week.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "boerdeboer",
+					"name": "boerdeboer -",
+					"id": 11798112,
+					"id_str": "11798112",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1242165047813603300,
+		"in_reply_to_status_id_str": "1242165047813603347",
+		"in_reply_to_user_id": 11798112,
+		"in_reply_to_user_id_str": "11798112",
+		"in_reply_to_screen_name": "boerdeboer",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Schrijft over de impact van tech op mens en maatschappij \n@indiewebnl \n@kaliberInteract \n@ForSubscribing\n\nhttps://t.co/ODgIUTTMdh\n\n#TeamHuman \n#PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUTTMdh",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8894,
+			"friends_count": 412,
+			"listed_count": 578,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6041,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61489,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1582409873",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@boerdeboer Hou jij ook bij wat er privacy-technisch allemaal gebeurt? Bv Hongarije en Azie? Ik zoek wat voorbeelden voor mijn nieuwsbrief komende week."
+	},
+	{
+		"created_at": "Mon Mar 23 19:02:58 +0000 2020",
+		"id": 1242164954364551200,
+		"id_str": "1242164954364551169",
+		"full_text": "Als we allemaal lekker binnen waren gebleven dit weekend, was de 1 juni-maatregel dan niet doorgevoerd? Of lag dit sowieso al klaar?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Schrijft over de impact van tech op mens en maatschappij \n@indiewebnl \n@kaliberInteract \n@ForSubscribing\n\nhttps://t.co/ODgIUTTMdh\n\n#TeamHuman \n#PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUTTMdh",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8894,
+			"friends_count": 412,
+			"listed_count": 578,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6041,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61489,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1582409873",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "Als we allemaal lekker binnen waren gebleven dit weekend, was de 1 juni-maatregel dan niet doorgevoerd? Of lag dit sowieso al klaar?"
+	},
+	{
+		"created_at": "Mon Mar 23 19:02:03 +0000 2020",
+		"id": 1242164723526893600,
+		"id_str": "1242164723526893568",
+		"full_text": "@atzedevrieze \"ophoesten\"... 🤣",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "atzedevrieze",
+					"name": "Atze de Vrieze",
+					"id": 3192511,
+					"id_str": "3192511",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1242162989609955300,
+		"in_reply_to_status_id_str": "1242162989609955335",
+		"in_reply_to_user_id": 3192511,
+		"in_reply_to_user_id_str": "3192511",
+		"in_reply_to_screen_name": "atzedevrieze",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Schrijft over de impact van tech op mens en maatschappij \n@indiewebnl \n@kaliberInteract \n@ForSubscribing\n\nhttps://t.co/ODgIUTTMdh\n\n#TeamHuman \n#PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUTTMdh",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8894,
+			"friends_count": 412,
+			"listed_count": 578,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6041,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61489,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1582409873",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@atzedevrieze \"ophoesten\"... 🤣"
+	},
+	{
+		"created_at": "Mon Mar 23 18:35:15 +0000 2020",
+		"id": 1242157980927352800,
+		"id_str": "1242157980927352838",
+		"full_text": "@awarnach @SenolTapirdamaz Wapperende wijsvingers helpen niet. Teveel koekwauzen in dit land die “het zelf wel bepalen”. Nog heftiger beboeten. Geen 400 euro, minimaal 750 euro.",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "awarnach",
+					"name": "Awarnach Photograpy | Design 📷",
+					"id": 22761497,
+					"id_str": "22761497",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "SenolTapirdamaz",
+					"name": "Senol Tapirdamaz ฿Sc RS",
+					"id": 219452127,
+					"id_str": "219452127",
+					"indices": [
+						10,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1242157454194020400,
+		"in_reply_to_status_id_str": "1242157454194020361",
+		"in_reply_to_user_id": 22761497,
+		"in_reply_to_user_id_str": "22761497",
+		"in_reply_to_screen_name": "awarnach",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Schrijft over de impact van tech op mens en maatschappij \n@indiewebnl \n@kaliberInteract \n@ForSubscribing\n\nhttps://t.co/ODgIUTTMdh\n\n#TeamHuman \n#PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUTTMdh",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8894,
+			"friends_count": 412,
+			"listed_count": 578,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6041,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61489,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1582409873",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@awarnach @SenolTapirdamaz Wapperende wijsvingers helpen niet. Teveel koekwauzen in dit land die “het zelf wel bepalen”. Nog heftiger beboeten. Geen 400 euro, minimaal 750 euro."
+	},
+	{
+		"created_at": "Mon Mar 23 18:33:53 +0000 2020",
+		"id": 1242157637556490200,
+		"id_str": "1242157637556490246",
+		"full_text": "@annikavisser @trouw Joh ik hou hier de economie draaiende op zijn zolderkamer! Nog niet gelezen dus. ;-)",
+		"truncated": false,
+		"display_text_range": [
+			21,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "annikavisser",
+					"name": "Queen of Sheba",
+					"id": 182800113,
+					"id_str": "182800113",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "trouw",
+					"name": "Trouw",
+					"id": 3103511,
+					"id_str": "3103511",
+					"indices": [
+						14,
+						20
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1242157363202842600,
+		"in_reply_to_status_id_str": "1242157363202842630",
+		"in_reply_to_user_id": 182800113,
+		"in_reply_to_user_id_str": "182800113",
+		"in_reply_to_screen_name": "annikavisser",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Schrijft over de impact van tech op mens en maatschappij \n@indiewebnl \n@kaliberInteract \n@ForSubscribing\n\nhttps://t.co/ODgIUTTMdh\n\n#TeamHuman \n#PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUTTMdh",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8894,
+			"friends_count": 412,
+			"listed_count": 578,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6041,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61489,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1582409873",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@annikavisser @trouw Joh ik hou hier de economie draaiende op zijn zolderkamer! Nog niet gelezen dus. ;-)"
+	},
+	{
+		"created_at": "Mon Mar 23 18:30:33 +0000 2020",
+		"id": 1242156798792142800,
+		"id_str": "1242156798792142856",
+		"full_text": "@awarnach @SenolTapirdamaz Voor de duidelijkheid, ik ben meer dan vóór strikte regels en naleving op dit moment. Maar dit voelt op het eerste gezicht als teveel uitzonderingen (bv bruiloften en kerken werden in een bijzin genoemd) en met die grenzen gaan NL’ers klooien.",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			270
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "awarnach",
+					"name": "Awarnach Photograpy | Design 📷",
+					"id": 22761497,
+					"id_str": "22761497",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "SenolTapirdamaz",
+					"name": "Senol Tapirdamaz ฿Sc RS",
+					"id": 219452127,
+					"id_str": "219452127",
+					"indices": [
+						10,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1242156318875680800,
+		"in_reply_to_status_id_str": "1242156318875680768",
+		"in_reply_to_user_id": 816203,
+		"in_reply_to_user_id_str": "816203",
+		"in_reply_to_screen_name": "frankmeeuwsen",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Schrijft over de impact van tech op mens en maatschappij \n@indiewebnl \n@kaliberInteract \n@ForSubscribing\n\nhttps://t.co/ODgIUTTMdh\n\n#TeamHuman \n#PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUTTMdh",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8894,
+			"friends_count": 412,
+			"listed_count": 578,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6041,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61489,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1582409873",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@awarnach @SenolTapirdamaz Voor de duidelijkheid, ik ben meer dan vóór strikte regels en naleving op dit moment. Maar dit voelt op het eerste gezicht als teveel uitzonderingen (bv bruiloften en kerken werden in een bijzin genoemd) en met die grenzen gaan NL’ers klooien."
+	},
+	{
+		"created_at": "Mon Mar 23 18:28:39 +0000 2020",
+		"id": 1242156318875680800,
+		"id_str": "1242156318875680768",
+		"full_text": "@awarnach @SenolTapirdamaz Scholen zijn nog een buitencategorie. Noem het geen feestje. Trust me, hier gaan de grenzen om worden opgezocht.",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "awarnach",
+					"name": "Awarnach Photograpy | Design 📷",
+					"id": 22761497,
+					"id_str": "22761497",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "SenolTapirdamaz",
+					"name": "Senol Tapirdamaz ฿Sc RS",
+					"id": 219452127,
+					"id_str": "219452127",
+					"indices": [
+						10,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1242155938137718800,
+		"in_reply_to_status_id_str": "1242155938137718785",
+		"in_reply_to_user_id": 22761497,
+		"in_reply_to_user_id_str": "22761497",
+		"in_reply_to_screen_name": "awarnach",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Schrijft over de impact van tech op mens en maatschappij \n@indiewebnl \n@kaliberInteract \n@ForSubscribing\n\nhttps://t.co/ODgIUTTMdh\n\n#TeamHuman \n#PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUTTMdh",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8894,
+			"friends_count": 412,
+			"listed_count": 578,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6041,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61489,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1582409873",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@awarnach @SenolTapirdamaz Scholen zijn nog een buitencategorie. Noem het geen feestje. Trust me, hier gaan de grenzen om worden opgezocht."
+	},
+	{
+		"created_at": "Mon Mar 23 18:25:00 +0000 2020",
+		"id": 1242155401904357400,
+		"id_str": "1242155401904357378",
+		"full_text": "@annikavisser Nederlanders be Nederlanders.... “Dat maak ik zélf wel uit”...",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "annikavisser",
+					"name": "Queen of Sheba",
+					"id": 182800113,
+					"id_str": "182800113",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1242155104586944500,
+		"in_reply_to_status_id_str": "1242155104586944517",
+		"in_reply_to_user_id": 182800113,
+		"in_reply_to_user_id_str": "182800113",
+		"in_reply_to_screen_name": "annikavisser",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Schrijft over de impact van tech op mens en maatschappij \n@indiewebnl \n@kaliberInteract \n@ForSubscribing\n\nhttps://t.co/ODgIUTTMdh\n\n#TeamHuman \n#PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUTTMdh",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8894,
+			"friends_count": 412,
+			"listed_count": 578,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6041,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61489,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1582409873",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@annikavisser Nederlanders be Nederlanders.... “Dat maak ik zélf wel uit”..."
+	},
+	{
 		"created_at": "Mon Mar 23 18:18:56 +0000 2020",
 		"id": 1242153875232247800,
 		"id_str": "1242153875232247811",
