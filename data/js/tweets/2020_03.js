@@ -1,6 +1,312 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 23 05:00:14 +0000 2020",
+		"id": 1241952875238035500,
+		"id_str": "1241952875238035456",
+		"full_text": "... iets met karma... https://t.co/rnTA7yK7vF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rnTA7yK7vF",
+					"expanded_url": "https://twitter.com/nypost/status/1241836760235159552",
+					"display_url": "twitter.com/nypost/status/…",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Schrijft over de impact van tech op mens en maatschappij \n@indiewebnl \n@kaliberInteract \n@ForSubscribing\n\nhttps://t.co/ODgIUTTMdh\n\n#TeamHuman \n#PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUTTMdh",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8892,
+			"friends_count": 412,
+			"listed_count": 578,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6032,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61476,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1582409873",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1241836760235159600,
+		"quoted_status_id_str": "1241836760235159552",
+		"quoted_status_permalink": {
+			"url": "https://t.co/rnTA7yK7vF",
+			"expanded": "https://twitter.com/nypost/status/1241836760235159552",
+			"display": "twitter.com/nypost/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Mar 22 21:18:50 +0000 2020",
+			"id": 1241836760235159600,
+			"id_str": "1241836760235159552",
+			"full_text": "JUST IN: Harvey Weinstein tests positive for coronavirus, report says https://t.co/5oE1sBWi5K https://t.co/SHzJKhzdoU",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				93
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/5oE1sBWi5K",
+						"expanded_url": "https://trib.al/LvaXnlB",
+						"display_url": "trib.al/LvaXnlB",
+						"indices": [
+							70,
+							93
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1241836757177503700,
+						"id_str": "1241836757177503744",
+						"indices": [
+							94,
+							117
+						],
+						"media_url": "http://pbs.twimg.com/media/ETvj83yWkAAvAHU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ETvj83yWkAAvAHU.jpg",
+						"url": "https://t.co/SHzJKhzdoU",
+						"display_url": "pic.twitter.com/SHzJKhzdoU",
+						"expanded_url": "https://twitter.com/nypost/status/1241836760235159552/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1241836757177503700,
+						"id_str": "1241836757177503744",
+						"indices": [
+							94,
+							117
+						],
+						"media_url": "http://pbs.twimg.com/media/ETvj83yWkAAvAHU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ETvj83yWkAAvAHU.jpg",
+						"url": "https://t.co/SHzJKhzdoU",
+						"display_url": "pic.twitter.com/SHzJKhzdoU",
+						"expanded_url": "https://twitter.com/nypost/status/1241836760235159552/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17469289,
+				"id_str": "17469289",
+				"name": "New York Post",
+				"screen_name": "nypost",
+				"location": "New York, NY",
+				"description": "Breaking news & features from The New York Post. Follow your favorite sections: @pagesix, @nypmetro, @nypostbiz, @nypostsports, @nypfashion, @nypostopinion",
+				"url": "https://t.co/MwyanWdKnl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MwyanWdKnl",
+								"expanded_url": "http://www.nypost.com",
+								"display_url": "nypost.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1608798,
+				"friends_count": 11670,
+				"listed_count": 19016,
+				"created_at": "Tue Nov 18 19:46:36 +0000 2008",
+				"favourites_count": 2015,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 302555,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/966372680306868224/60wfGe9e_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/966372680306868224/60wfGe9e_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17469289/1444326181",
+				"profile_link_color": "CC3333",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 395,
+			"favorite_count": 1219,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "... iets met karma... https://t.co/rnTA7yK7vF"
+	},
+	{
 		"created_at": "Sun Mar 22 22:51:51 +0000 2020",
 		"id": 1241860166892617700,
 		"id_str": "1241860166892617729",
