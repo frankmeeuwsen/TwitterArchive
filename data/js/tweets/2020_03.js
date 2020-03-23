@@ -1,6 +1,214 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 23 19:54:55 +0000 2020",
+		"id": 1242178028366684200,
+		"id_str": "1242178028366684160",
+		"full_text": "@atzedevrieze We hebben altijd de Fyre movie nog! https://t.co/3dm7bYA25d",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "atzedevrieze",
+					"name": "Atze de Vrieze",
+					"id": 3192511,
+					"id_str": "3192511",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1242178011849425000,
+					"id_str": "1242178011849424896",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ET0aUggWAAA8iZc.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ET0aUggWAAA8iZc.jpg",
+					"url": "https://t.co/3dm7bYA25d",
+					"display_url": "pic.twitter.com/3dm7bYA25d",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1242178028366684160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 450,
+							"h": 300,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 450,
+							"h": 300,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 450,
+							"h": 300,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1242178011849425000,
+					"id_str": "1242178011849424896",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ET0aUggWAAA8iZc.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ET0aUggWAAA8iZc.jpg",
+					"url": "https://t.co/3dm7bYA25d",
+					"display_url": "pic.twitter.com/3dm7bYA25d",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1242178028366684160/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 450,
+							"h": 300,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 450,
+							"h": 300,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 450,
+							"h": 300,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							3,
+							2
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/ET0aUggWAAA8iZc.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1242176838392307700,
+		"in_reply_to_status_id_str": "1242176838392307715",
+		"in_reply_to_user_id": 3192511,
+		"in_reply_to_user_id_str": "3192511",
+		"in_reply_to_screen_name": "atzedevrieze",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Schrijft over de impact van tech op mens en maatschappij \n@indiewebnl \n@kaliberInteract \n@ForSubscribing\n\nhttps://t.co/ODgIUTTMdh\n\n#TeamHuman \n#PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUTTMdh",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8894,
+			"friends_count": 412,
+			"listed_count": 578,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6041,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61490,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1582409873",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@atzedevrieze We hebben altijd de Fyre movie nog! https://t.co/3dm7bYA25d"
+	},
+	{
 		"created_at": "Mon Mar 23 19:13:39 +0000 2020",
 		"id": 1242167643446096000,
 		"id_str": "1242167643446095873",
