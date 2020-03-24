@@ -1,6 +1,328 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 24 06:58:31 +0000 2020",
+		"id": 1242345031496798200,
+		"id_str": "1242345031496798208",
+		"full_text": "Aangezien ik aanhanger ben van de Church Of the Flying Spaghetti Monster... https://t.co/kF0OmUnK6n",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kF0OmUnK6n",
+					"expanded_url": "https://twitter.com/AukevanEijsden/status/1242186897864130563",
+					"display_url": "twitter.com/AukevanEijsden…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Schrijft over de impact van tech op mens en maatschappij \n@indiewebnl \n@kaliberInteract \n@ForSubscribing\n\nhttps://t.co/ODgIUTTMdh\n\n#TeamHuman \n#PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUTTMdh",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8894,
+			"friends_count": 412,
+			"listed_count": 578,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6043,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61493,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1582409873",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1242186897864130600,
+		"quoted_status_id_str": "1242186897864130563",
+		"quoted_status_permalink": {
+			"url": "https://t.co/kF0OmUnK6n",
+			"expanded": "https://twitter.com/AukevanEijsden/status/1242186897864130563",
+			"display": "twitter.com/AukevanEijsden…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Mar 23 20:30:09 +0000 2020",
+			"id": 1242186897864130600,
+			"id_str": "1242186897864130563",
+			"full_text": "Nu ook op de site van de Rijksoverheid\n\nhttps://t.co/noKqP845VI https://t.co/wAx5vEd6Os https://t.co/Z9pHqyiTGg",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				87
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/noKqP845VI",
+						"expanded_url": "https://www.rijksoverheid.nl/onderwerpen/coronavirus-covid-19/documenten/publicaties/2020/03/23/qa-bij-aanscherping-maatregelen-en-handhaving",
+						"display_url": "rijksoverheid.nl/onderwerpen/co…",
+						"indices": [
+							40,
+							63
+						]
+					},
+					{
+						"url": "https://t.co/wAx5vEd6Os",
+						"expanded_url": "https://twitter.com/AukevanEijsden/status/1242170392355143680",
+						"display_url": "twitter.com/AukevanEijsden…",
+						"indices": [
+							64,
+							87
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1242186891551744000,
+						"id_str": "1242186891551744009",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/media/ET0iZX-WoAkljFo.png",
+						"media_url_https": "https://pbs.twimg.com/media/ET0iZX-WoAkljFo.png",
+						"url": "https://t.co/Z9pHqyiTGg",
+						"display_url": "pic.twitter.com/Z9pHqyiTGg",
+						"expanded_url": "https://twitter.com/AukevanEijsden/status/1242186897864130563/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 465,
+								"h": 329,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 465,
+								"h": 329,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 465,
+								"h": 329,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1242186891551744000,
+						"id_str": "1242186891551744009",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/media/ET0iZX-WoAkljFo.png",
+						"media_url_https": "https://pbs.twimg.com/media/ET0iZX-WoAkljFo.png",
+						"url": "https://t.co/Z9pHqyiTGg",
+						"display_url": "pic.twitter.com/Z9pHqyiTGg",
+						"expanded_url": "https://twitter.com/AukevanEijsden/status/1242186897864130563/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 465,
+								"h": 329,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 465,
+								"h": 329,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 465,
+								"h": 329,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 254669649,
+				"id_str": "254669649",
+				"name": "Auke van Eijsden",
+				"screen_name": "AukevanEijsden",
+				"location": "Ede",
+				"description": "schrijft voor @ndnl over asiel, buitenland, defensie en onderwijs | vaneijsden@nd.nl en 06 36561307",
+				"url": "https://t.co/hKb9Kkmp8s",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hKb9Kkmp8s",
+								"expanded_url": "https://www.nd.nl/auteur/auke-van-eijsden",
+								"display_url": "nd.nl/auteur/auke-va…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 814,
+				"friends_count": 329,
+				"listed_count": 16,
+				"created_at": "Sat Feb 19 19:14:10 +0000 2011",
+				"favourites_count": 15937,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2586,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "303030",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1193260738208514050/3PzEPAa4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1193260738208514050/3PzEPAa4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/254669649/1577377880",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "888888",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1242170392355143700,
+			"quoted_status_id_str": "1242170392355143680",
+			"quoted_status_permalink": {
+				"url": "https://t.co/wAx5vEd6Os",
+				"expanded": "https://twitter.com/AukevanEijsden/status/1242170392355143680",
+				"display": "twitter.com/AukevanEijsden…"
+			},
+			"retweet_count": 7,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Aangezien ik aanhanger ben van de Church Of the Flying Spaghetti Monster... https://t.co/kF0OmUnK6n"
+	},
+	{
 		"created_at": "Mon Mar 23 22:40:31 +0000 2020",
 		"id": 1242219703633838000,
 		"id_str": "1242219703633838088",
