@@ -1,6 +1,402 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Wed Mar 25 06:31:31 +0000 2020",
+		"id": 1242700622371205000,
+		"id_str": "1242700622371205120",
+		"full_text": "Grappig en goed in scene gezet. Want wie zit in deze hoek voor een webcam? https://t.co/CRldnBwLy2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CRldnBwLy2",
+					"expanded_url": "https://twitter.com/joshuaray/status/1242441412500525062",
+					"display_url": "twitter.com/joshuaray/stat…",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Schrijft over de impact van tech op mens en maatschappij \n@indiewebnl \n@kaliberInteract \n@ForSubscribing\n\nhttps://t.co/ODgIUTTMdh\n\n#TeamHuman \n#PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUTTMdh",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8896,
+			"friends_count": 412,
+			"listed_count": 578,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6053,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61501,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1582409873",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1242441412500525000,
+		"quoted_status_id_str": "1242441412500525062",
+		"quoted_status_permalink": {
+			"url": "https://t.co/CRldnBwLy2",
+			"expanded": "https://twitter.com/joshuaray/status/1242441412500525062",
+			"display": "twitter.com/joshuaray/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 24 13:21:30 +0000 2020",
+			"id": 1242441412500525000,
+			"id_str": "1242441412500525062",
+			"full_text": "Behind every successful woman is an unsuccessful man not wearing any pants:\n\nhttps://t.co/GZsKPsXhub",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				100
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1242316145677369300,
+						"id_str": "1242316145677369344",
+						"indices": [
+							77,
+							100
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1242316145677369344/pu/img/oen-ZRI3iJeHWYzT.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1242316145677369344/pu/img/oen-ZRI3iJeHWYzT.jpg",
+						"url": "https://t.co/GZsKPsXhub",
+						"display_url": "pic.twitter.com/GZsKPsXhub",
+						"expanded_url": "https://twitter.com/davidbrymer/status/1242316175561773057/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1242316175561773000,
+						"source_status_id_str": "1242316175561773057",
+						"source_user_id": 230223773,
+						"source_user_id_str": "230223773"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1242316145677369300,
+						"id_str": "1242316145677369344",
+						"indices": [
+							77,
+							100
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1242316145677369344/pu/img/oen-ZRI3iJeHWYzT.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1242316145677369344/pu/img/oen-ZRI3iJeHWYzT.jpg",
+						"url": "https://t.co/GZsKPsXhub",
+						"display_url": "pic.twitter.com/GZsKPsXhub",
+						"expanded_url": "https://twitter.com/davidbrymer/status/1242316175561773057/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1242316175561773000,
+						"source_status_id_str": "1242316175561773057",
+						"source_user_id": 230223773,
+						"source_user_id_str": "230223773",
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 16505,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1242316145677369344/pu/vid/360x640/PUCtm5hlausTYMXV.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1242316145677369344/pu/pl/xn9JgaC0fb4jiKSu.m3u8?tag=10"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1242316145677369344/pu/vid/320x568/KKN69fHT1uT0JYnn.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1242316145677369344/pu/vid/720x1280/zM1xgvjxbqJRP3J3.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 230223773,
+								"id_str": "230223773",
+								"name": "David Brymer",
+								"screen_name": "davidbrymer",
+								"location": "dreaming",
+								"description": "I'm the one Jesus loves | artist | songwriter | traveller | builder | worship leader | starter/procrastinator/finisher | friend | lover",
+								"url": "https://t.co/GdXUHgeRa0",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/GdXUHgeRa0",
+												"expanded_url": "http://davidbrymer.com",
+												"display_url": "davidbrymer.com",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 9247,
+								"friends_count": 398,
+								"listed_count": 61,
+								"created_at": "Fri Dec 24 17:11:57 +0000 2010",
+								"favourites_count": 6379,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": false,
+								"verified": true,
+								"statuses_count": 8219,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "709397",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1228225006787690496/qmXlUfTA_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1228225006787690496/qmXlUfTA_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/230223773/1553160772",
+								"profile_link_color": "BF00FF",
+								"profile_sidebar_border_color": "FFFFFF",
+								"profile_sidebar_fill_color": "A0C5C7",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": true,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14105981,
+				"id_str": "14105981",
+				"name": "Joshua Self-QuaRayntine",
+				"screen_name": "joshuaray",
+				"location": "California, USA",
+				"description": "Follower of Jesus. Husband to Lauren. Love LOTR & The Office. #NeverTrump. Go @dodgers! Winner of the Pulitzer Prize for Tweeting. Published in @washingtonpost.",
+				"url": "https://t.co/g9L3jIK8as",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/g9L3jIK8as",
+								"expanded_url": "https://twitter.com/search?q=(from%3Ajoshuaray)%20min_faves%3A50%20-filter%3Areplies&src=typed_query",
+								"display_url": "twitter.com/search?q=(from…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2763,
+				"friends_count": 1092,
+				"listed_count": 38,
+				"created_at": "Sun Mar 09 05:35:53 +0000 2008",
+				"favourites_count": 60656,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 27239,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1198272104791064578/Cfavsoew_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1198272104791064578/Cfavsoew_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14105981/1545332423",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12071,
+			"favorite_count": 52502,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Grappig en goed in scene gezet. Want wie zit in deze hoek voor een webcam? https://t.co/CRldnBwLy2"
+	},
+	{
 		"created_at": "Tue Mar 24 19:46:53 +0000 2020",
 		"id": 1242538397115310000,
 		"id_str": "1242538397115310080",
