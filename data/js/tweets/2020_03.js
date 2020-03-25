@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Wed Mar 25 08:29:18 +0000 2020",
+		"id": 1242730265102954500,
+		"id_str": "1242730265102954496",
+		"full_text": "Oh dit is tof! https://t.co/g5eWlXHd9D",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/g5eWlXHd9D",
+					"expanded_url": "https://twitter.com/_janpostma_/status/1242687657559244801",
+					"display_url": "twitter.com/_janpostma_/st…",
+					"indices": [
+						15,
+						38
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Schrijft over de impact van tech op mens en maatschappij \n@indiewebnl \n@kaliberInteract \n@ForSubscribing\n\nhttps://t.co/ODgIUTTMdh\n\n#TeamHuman \n#PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUTTMdh",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8896,
+			"friends_count": 412,
+			"listed_count": 578,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6053,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61503,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1582409873",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1242687657559244800,
+		"quoted_status_id_str": "1242687657559244801",
+		"quoted_status_permalink": {
+			"url": "https://t.co/g5eWlXHd9D",
+			"expanded": "https://twitter.com/_janpostma_/status/1242687657559244801",
+			"display": "twitter.com/_janpostma_/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 25 05:40:00 +0000 2020",
+			"id": 1242687657559244800,
+			"id_str": "1242687657559244801",
+			"full_text": "Dat is dan wel weer leuk: Door social distancing maakt de drive in bioscoop een comeback in Amerika. https://t.co/H4h1nNNJNt",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				124
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/H4h1nNNJNt",
+						"expanded_url": "https://www.nytimes.com/2020/03/24/style/drive-in-theaters-coronavirus.html?referringSource=articleShare",
+						"display_url": "nytimes.com/2020/03/24/sty…",
+						"indices": [
+							101,
+							124
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22052276,
+				"id_str": "22052276",
+				"name": "Jan Postma",
+				"screen_name": "_janpostma_",
+				"location": "Washington, DC",
+				"description": "US Correspondent for Dutch media | Amerika-correspondent voor @bnr en @telegraaf | Amerika podcast | Auteur De Trump-fluisteraars |Fries om utens",
+				"url": "https://t.co/f1wpnSj5nQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/f1wpnSj5nQ",
+								"expanded_url": "https://www.bol.com/nl/p/de-trump-fluisteraars/9200000079530493/?Referrer=ADVNLGOO002008P-G-41387693",
+								"display_url": "bol.com/nl/p/de-trump-…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5228,
+				"friends_count": 2011,
+				"listed_count": 102,
+				"created_at": "Thu Feb 26 19:51:49 +0000 2009",
+				"favourites_count": 13566,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 27271,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1069801848872296454/ToS2MXfQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1069801848872296454/ToS2MXfQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22052276/1543890439",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 24,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Oh dit is tof! https://t.co/g5eWlXHd9D"
+	},
+	{
 		"created_at": "Wed Mar 25 07:29:41 +0000 2020",
 		"id": 1242710197468086300,
 		"id_str": "1242715262350213120",
