@@ -1,6 +1,230 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Fri Mar 27 17:57:00 +0000 2020",
+		"id": 1243597907472920600,
+		"id_str": "1243597907472920581",
+		"full_text": "In mijn laatste nieuwsbrief meer over deze privacy dilemma’s. En dat telefoondata mogelijk niets bijdraagt aan de strijd tegen het virus. https://t.co/zlOcxGokzN https://t.co/f3yR9vrDxI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zlOcxGokzN",
+					"expanded_url": "http://nieuws.diggingthedigital.com/archive/234422",
+					"display_url": "nieuws.diggingthedigital.com/archive/234422",
+					"indices": [
+						138,
+						161
+					]
+				},
+				{
+					"url": "https://t.co/f3yR9vrDxI",
+					"expanded_url": "https://twitter.com/nunl/status/1243512036845289473",
+					"display_url": "twitter.com/nunl/status/12…",
+					"indices": [
+						162,
+						185
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Schrijft over de impact van tech op mens en maatschappij \n@indiewebnl \n@kaliberInteract \n@ForSubscribing\n\nhttps://t.co/ODgIUTTMdh\n\n#TeamHuman \n#PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUTTMdh",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8896,
+			"friends_count": 413,
+			"listed_count": 578,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6069,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61531,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1582409873",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1243512036845289500,
+		"quoted_status_id_str": "1243512036845289473",
+		"quoted_status_permalink": {
+			"url": "https://t.co/f3yR9vrDxI",
+			"expanded": "https://twitter.com/nunl/status/1243512036845289473",
+			"display": "twitter.com/nunl/status/12…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Mar 27 12:15:47 +0000 2020",
+			"id": 1243512036845289500,
+			"id_str": "1243512036845289473",
+			"full_text": "Overheid kijkt of smartphonedata kunnen helpen in strijd tegen coronavirus: https://t.co/3QQNCznf4c",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				99
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/3QQNCznf4c",
+						"expanded_url": "https://bit.ly/2WMKwoc",
+						"display_url": "bit.ly/2WMKwoc",
+						"indices": [
+							76,
+							99
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.nu.nl/\" rel=\"nofollow\">NU.nl</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2493701,
+				"id_str": "2493701",
+				"name": "NU.nl",
+				"screen_name": "NUnl",
+				"location": "",
+				"description": "NU.nl | laatste nieuws | binnenland | buitenland | politiek | economie | beurskoersen | tech | sport l cultuur | weer | verkeer | entertainment & lifestyle",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1538544,
+				"friends_count": 0,
+				"listed_count": 5596,
+				"created_at": "Tue Mar 27 14:00:15 +0000 2007",
+				"favourites_count": 7,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 152301,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1156489079250440193/GdjFOHoV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1156489079250440193/GdjFOHoV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2493701/1580807272",
+				"profile_link_color": "020051",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E9EFFA",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "In mijn laatste nieuwsbrief meer over deze privacy dilemma’s. En dat telefoondata mogelijk niets bijdraagt aan de strijd tegen het virus. https://t.co/zlOcxGokzN https://t.co/f3yR9vrDxI"
+	},
+	{
 		"created_at": "Fri Mar 27 17:05:16 +0000 2020",
 		"id": 1243584888709800000,
 		"id_str": "1243584888709799936",
