@@ -1,6 +1,203 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sat Mar 28 07:52:42 +0000 2020",
+		"id": 1243808217337073700,
+		"id_str": "1243808217337073665",
+		"full_text": "@theblub @notanautismmom @EdlynPena @DiegoPenaWrites @KieranRose7 @stevesilberman @monadelahooke @PlaygroundEdge Ah....just read these. I'd say take a look at https://t.co/hFoI4xqwtV. Open source, selfhosted forumsoftware. If you need help with setting this stuff up, let me know.",
+		"truncated": false,
+		"display_text_range": [
+			113,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "theblub",
+					"name": "Jelle",
+					"id": 40082913,
+					"id_str": "40082913",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "notanautismmom",
+					"name": "Not an Autism Mom",
+					"id": 892380943566204900,
+					"id_str": "892380943566204928",
+					"indices": [
+						9,
+						24
+					]
+				},
+				{
+					"screen_name": "EdlynPena",
+					"name": "Edlyn Pena",
+					"id": 1059108236,
+					"id_str": "1059108236",
+					"indices": [
+						25,
+						35
+					]
+				},
+				{
+					"screen_name": "DiegoPenaWrites",
+					"name": "Diego M. Peña",
+					"id": 849096152263913500,
+					"id_str": "849096152263913473",
+					"indices": [
+						36,
+						52
+					]
+				},
+				{
+					"screen_name": "KieranRose7",
+					"name": "TheAutisticAdvocate",
+					"id": 931141205794140200,
+					"id_str": "931141205794140160",
+					"indices": [
+						53,
+						65
+					]
+				},
+				{
+					"screen_name": "stevesilberman",
+					"name": "Steve Silberman",
+					"id": 18655567,
+					"id_str": "18655567",
+					"indices": [
+						66,
+						81
+					]
+				},
+				{
+					"screen_name": "monadelahooke",
+					"name": "Dr. Mona Delahooke",
+					"id": 2320332331,
+					"id_str": "2320332331",
+					"indices": [
+						82,
+						96
+					]
+				},
+				{
+					"screen_name": "PlaygroundEdge",
+					"name": "Edge of The Playground",
+					"id": 996604035556937700,
+					"id_str": "996604035556937728",
+					"indices": [
+						97,
+						112
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hFoI4xqwtV",
+					"expanded_url": "http://Discourse.org",
+					"display_url": "Discourse.org",
+					"indices": [
+						159,
+						182
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1243805845965680600,
+		"in_reply_to_status_id_str": "1243805845965680640",
+		"in_reply_to_user_id": 40082913,
+		"in_reply_to_user_id_str": "40082913",
+		"in_reply_to_screen_name": "theblub",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Schrijft over de impact van tech op mens en maatschappij \n@indiewebnl \n@kaliberInteract \n@ForSubscribing\n\nhttps://t.co/ODgIUTTMdh\n\n#TeamHuman \n#PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUTTMdh",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8895,
+			"friends_count": 413,
+			"listed_count": 578,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6071,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61542,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1585350879",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@theblub @notanautismmom @EdlynPena @DiegoPenaWrites @KieranRose7 @stevesilberman @monadelahooke @PlaygroundEdge Ah....just read these. I'd say take a look at https://t.co/hFoI4xqwtV. Open source, selfhosted forumsoftware. If you need help with setting this stuff up, let me know."
+	},
+	{
 		"created_at": "Sat Mar 28 06:51:39 +0000 2020",
 		"id": 1243792852997546000,
 		"id_str": "1243792852997545985",
