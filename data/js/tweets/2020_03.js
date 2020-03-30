@@ -1,10 +1,115 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 30 19:48:50 +0000 2020",
+		"id": 1244710403256524800,
+		"id_str": "1244713214434316288",
+		"full_text": "Is hard gegaan vandaag, ik wilde bij 100 deelnemers stoppen maar had ook vandaag einde dag als deadline beloofd. Daarom open laten staan en nu al 130 deelnemers aan de Maand vh Maken! Nog 2,5 uur kun je je gratis aanmelden: https://t.co/NQSafpYomX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			247
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NQSafpYomX",
+					"expanded_url": "http://www.productschool.nl",
+					"display_url": "productschool.nl",
+					"indices": [
+						224,
+						247
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713333,
+			"id_str": "713333",
+			"name": "erwin blom",
+			"screen_name": "erwblo",
+			"location": "Amsterdam. Netherlands",
+			"description": "Media & Innovation. Co-founder of @fastmoving, @tistv and @stek_io plus: 'different kind of tune vocalist' of Eton Crop.",
+			"url": "http://t.co/GKJTiWaL12",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/GKJTiWaL12",
+							"expanded_url": "http://www.erwinblom.nl",
+							"display_url": "erwinblom.nl",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35850,
+			"friends_count": 6330,
+			"listed_count": 1209,
+			"created_at": "Sat Jan 27 08:39:45 +0000 2007",
+			"favourites_count": 16203,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 200560,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/611811780780625920/2O7Fqt6i_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/611811780780625920/2O7Fqt6i_normal.png",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Is hard gegaan vandaag, ik wilde bij 100 deelnemers stoppen maar had ook vandaag einde dag als deadline beloofd. Daarom open laten staan en nu al 130 deelnemers aan de Maand vh Maken! Nog 2,5 uur kun je je gratis aanmelden: https://t.co/NQSafpYomX"
+	},
+	{
 		"created_at": "Mon Mar 30 19:14:15 +0000 2020",
 		"id": 1244700971340570600,
 		"id_str": "1244704511068864512",
-		"full_text": "A new edition of Thanks For Subscribing News 📮 with byte-sized, funny inspiration from the future 👨‍🚀 delivered by the excellent newsletters of @TheBrowser, @ShuOmi3, @candacevkim and @dancharvey\n\nhttps://t.co/8QyA7kPAby",
+		"full_text": "A new edition of Thanks For Subscribing News 📮 with byte-sized, funny inspiration from the future 👨🚀 delivered by the excellent newsletters of @TheBrowser, @ShuOmi3, @candacevkim and @dancharvey\n\nhttps://t.co/8QyA7kPAby",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -145,7 +250,7 @@ Grailbird.data.tweets_2020_03 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "A new edition of Thanks For Subscribing News 📮 with byte-sized, funny inspiration from the future 👨‍🚀 delivered by the excellent newsletters of @TheBrowser, @ShuOmi3, @candacevkim and @dancharvey\n\nhttps://t.co/8QyA7kPAby"
+		"text": "A new edition of Thanks For Subscribing News 📮 with byte-sized, funny inspiration from the future 👨🚀 delivered by the excellent newsletters of @TheBrowser, @ShuOmi3, @candacevkim and @dancharvey\n\nhttps://t.co/8QyA7kPAby"
 	},
 	{
 		"created_at": "Sun Mar 29 19:45:04 +0000 2020",
