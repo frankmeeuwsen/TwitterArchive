@@ -1,6 +1,153 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 30 19:14:15 +0000 2020",
+		"id": 1244700971340570600,
+		"id_str": "1244704511068864512",
+		"full_text": "A new edition of Thanks For Subscribing News 📮 with byte-sized, funny inspiration from the future 👨‍🚀 delivered by the excellent newsletters of @TheBrowser, @ShuOmi3, @candacevkim and @dancharvey\n\nhttps://t.co/8QyA7kPAby",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheBrowser",
+					"name": "TheBrowser",
+					"id": 21251300,
+					"id_str": "21251300",
+					"indices": [
+						144,
+						155
+					]
+				},
+				{
+					"screen_name": "ShuOmi3",
+					"name": "Shu Omi",
+					"id": 1199725133524545500,
+					"id_str": "1199725133524545536",
+					"indices": [
+						157,
+						165
+					]
+				},
+				{
+					"screen_name": "candacevkim",
+					"name": "candace kim",
+					"id": 252706099,
+					"id_str": "252706099",
+					"indices": [
+						167,
+						179
+					]
+				},
+				{
+					"screen_name": "dancharvey",
+					"name": "Dan fine coffee",
+					"id": 132232120,
+					"id_str": "132232120",
+					"indices": [
+						184,
+						195
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8QyA7kPAby",
+					"expanded_url": "https://www.getrevue.co/profile/thanksforsubscribing/archive/235485",
+					"display_url": "getrevue.co/profile/thanks…",
+					"indices": [
+						197,
+						220
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.getrevue.co\" rel=\"nofollow\">Revue</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1221904161492566000,
+			"id_str": "1221904161492566016",
+			"name": "Thanks for Subscribing",
+			"screen_name": "ForSubscribing",
+			"location": "",
+			"description": "Make your inbox happy again and check out the best newsletters from the Netherlands and elsewhere!",
+			"url": "https://t.co/EUi1JLKpnL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EUi1JLKpnL",
+							"expanded_url": "https://thanksforsubscribing.app",
+							"display_url": "thanksforsubscribing.app",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11,
+			"friends_count": 33,
+			"listed_count": 0,
+			"created_at": "Mon Jan 27 21:14:06 +0000 2020",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 19,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1221904344695656448/Z2Gu1jee_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1221904344695656448/Z2Gu1jee_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1221904161492566016/1583179606",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A new edition of Thanks For Subscribing News 📮 with byte-sized, funny inspiration from the future 👨‍🚀 delivered by the excellent newsletters of @TheBrowser, @ShuOmi3, @candacevkim and @dancharvey\n\nhttps://t.co/8QyA7kPAby"
+	},
+	{
 		"created_at": "Sun Mar 29 19:45:04 +0000 2020",
 		"id": 1244349877871620000,
 		"id_str": "1244349877871620097",
