@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 31 06:17:04 +0000 2020",
+		"id": 1244745153828409300,
+		"id_str": "1244871315829526529",
+		"full_text": "Vint Cerf, the co-creator of the TCP/IP protocol, and essentially one of the inventors of the Internet, and possibly the nicest person ever, has contracted COVID-19. https://t.co/FhCBEXq7DW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1244745127555285000,
+					"id_str": "1244745127555284992",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/EUY5GTvUwAAZIxg.png",
+					"media_url_https": "https://pbs.twimg.com/media/EUY5GTvUwAAZIxg.png",
+					"url": "https://t.co/FhCBEXq7DW",
+					"display_url": "pic.twitter.com/FhCBEXq7DW",
+					"expanded_url": "https://twitter.com/cfarivar/status/1244745153828409344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 504,
+							"h": 203,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 504,
+							"h": 203,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 504,
+							"h": 203,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1244745127555285000,
+					"id_str": "1244745127555284992",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/EUY5GTvUwAAZIxg.png",
+					"media_url_https": "https://pbs.twimg.com/media/EUY5GTvUwAAZIxg.png",
+					"url": "https://t.co/FhCBEXq7DW",
+					"display_url": "pic.twitter.com/FhCBEXq7DW",
+					"expanded_url": "https://twitter.com/cfarivar/status/1244745153828409344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 504,
+							"h": 203,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 504,
+							"h": 203,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 504,
+							"h": 203,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 709313,
+			"id_str": "709313",
+			"name": "Cyrus Farivar",
+			"screen_name": "cfarivar",
+			"location": "Oakland, CA",
+			"description": "\"suh-ROOS\" / Investigative Tech Reporter & Deputized COVID-19 Reporter @nbcnews / ex-@arstechnica / cyrus.farivar@nbcuni.com / +1-646-872-5369 (Signal/WhatsApp)",
+			"url": "https://t.co/0esaAhigfZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0esaAhigfZ",
+							"expanded_url": "https://www.nbcnews.com/pages/author/cyrus-farivar",
+							"display_url": "nbcnews.com/pages/author/c…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25527,
+			"friends_count": 28036,
+			"listed_count": 1372,
+			"created_at": "Fri Jan 26 16:38:14 +0000 2007",
+			"favourites_count": 16606,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 125499,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/940051675116482560/dI-5z8sX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/940051675116482560/dI-5z8sX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/709313/1484291429",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 306,
+		"favorite_count": 539,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Vint Cerf, the co-creator of the TCP/IP protocol, and essentially one of the inventors of the Internet, and possibly the nicest person ever, has contracted COVID-19. https://t.co/FhCBEXq7DW"
+	},
+	{
 		"created_at": "Mon Mar 30 21:01:29 +0000 2020",
 		"id": 1244731498307223600,
 		"id_str": "1244731498307223554",
