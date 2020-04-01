@@ -1,6 +1,259 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 01 21:55:21 +0000 2020",
+		"id": 1245469829672427500,
+		"id_str": "1245469829672427523",
+		"full_text": "@erwblo @ehpo Pierre Kartner!",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "erwblo",
+					"name": "erwin blom",
+					"id": 713333,
+					"id_str": "713333",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "ehpo",
+					"name": "Niels Aalberts",
+					"id": 20199054,
+					"id_str": "20199054",
+					"indices": [
+						8,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1245457808939782100,
+		"in_reply_to_status_id_str": "1245457808939782145",
+		"in_reply_to_user_id": 713333,
+		"in_reply_to_user_id_str": "713333",
+		"in_reply_to_screen_name": "erwblo",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Schrijft over de impact van tech op mens en maatschappij \n@indiewebnl \n@kaliberInteract \n@ForSubscribing\n\nhttps://t.co/ODgIUTTMdh\n\n#TeamHuman \n#PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUTTMdh",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8903,
+			"friends_count": 414,
+			"listed_count": 578,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6097,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61588,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1585350879",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "de",
+		"text": "@erwblo @ehpo Pierre Kartner!"
+	},
+	{
+		"created_at": "Wed Apr 01 21:37:48 +0000 2020",
+		"id": 1245465411363180500,
+		"id_str": "1245465411363180546",
+		"full_text": "Volgens mij vind jij dit tof @Wilbert https://t.co/EppIguKJOD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Wilbert",
+					"name": "Wilbert Pot",
+					"id": 2286901,
+					"id_str": "2286901",
+					"indices": [
+						29,
+						37
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EppIguKJOD",
+					"expanded_url": "https://www.bloomberg.com/features/2020-coronavirus-satellite-photos-before-after/",
+					"display_url": "bloomberg.com/features/2020-…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Schrijft over de impact van tech op mens en maatschappij \n@indiewebnl \n@kaliberInteract \n@ForSubscribing\n\nhttps://t.co/ODgIUTTMdh\n\n#TeamHuman \n#PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUTTMdh",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8903,
+			"friends_count": 414,
+			"listed_count": 578,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6097,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61588,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1585350879",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Volgens mij vind jij dit tof @Wilbert https://t.co/EppIguKJOD"
+	},
+	{
 		"created_at": "Wed Apr 01 21:11:06 +0000 2020",
 		"id": 1245458694789197800,
 		"id_str": "1245458694789197824",
