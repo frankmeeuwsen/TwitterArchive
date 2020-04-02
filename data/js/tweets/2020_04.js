@@ -1,6 +1,332 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 02 09:52:51 +0000 2020",
+		"id": 1245650392769130500,
+		"id_str": "1245650392769130503",
+		"full_text": "Goed initiatief, ik ga later eens zien wat het exact is. Dank @Wilbert voor de tip https://t.co/Te3B5tyw4m",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Wilbert",
+					"name": "Wilbert Pot",
+					"id": 2286901,
+					"id_str": "2286901",
+					"indices": [
+						62,
+						70
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Te3B5tyw4m",
+					"expanded_url": "https://twitter.com/marcelsalathe/status/1245290656010043392",
+					"display_url": "twitter.com/marcelsalathe/…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Schrijft over de impact van tech op mens en maatschappij \n@indiewebnl \n@kaliberInteract \n@ForSubscribing\n\nhttps://t.co/ODgIUTTMdh\n\n#TeamHuman \n#PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUTTMdh",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8928,
+			"friends_count": 414,
+			"listed_count": 579,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6098,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61590,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1585350879",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1245290656010043400,
+		"quoted_status_id_str": "1245290656010043392",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Te3B5tyw4m",
+			"expanded": "https://twitter.com/marcelsalathe/status/1245290656010043392",
+			"display": "twitter.com/marcelsalathe/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 01 10:03:23 +0000 2020",
+			"id": 1245290656010043400,
+			"id_str": "1245290656010043392",
+			"full_text": "I'm so happy to finally be able to talk about PEPP-PT: Pan European Privacy Preserving Proximity Tracing, @PeppPt . It's an international effort to develop proximity tracing technology. Goal is to help to keep #COVID19 in check. I like everything about it. A thread. 1/n https://t.co/QBMekbhef5",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				270
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "COVID19",
+						"indices": [
+							210,
+							218
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "PeppPt",
+						"name": "PEPP-PT",
+						"id": 1245118064057819100,
+						"id_str": "1245118064057819142",
+						"indices": [
+							106,
+							113
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1245290513848324000,
+						"id_str": "1245290513848324101",
+						"indices": [
+							271,
+							294
+						],
+						"media_url": "http://pbs.twimg.com/media/EUgpH-AX0AUaYT8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EUgpH-AX0AUaYT8.jpg",
+						"url": "https://t.co/QBMekbhef5",
+						"display_url": "pic.twitter.com/QBMekbhef5",
+						"expanded_url": "https://twitter.com/marcelsalathe/status/1245290656010043392/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 712,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 404,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1215,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1245290513848324000,
+						"id_str": "1245290513848324101",
+						"indices": [
+							271,
+							294
+						],
+						"media_url": "http://pbs.twimg.com/media/EUgpH-AX0AUaYT8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EUgpH-AX0AUaYT8.jpg",
+						"url": "https://t.co/QBMekbhef5",
+						"display_url": "pic.twitter.com/QBMekbhef5",
+						"expanded_url": "https://twitter.com/marcelsalathe/status/1245290656010043392/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 712,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 404,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1215,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14177696,
+				"id_str": "14177696",
+				"name": "Marcel Salathé",
+				"screen_name": "marcelsalathe",
+				"location": "🇨🇭",
+				"description": "Private account. Many hats: Prof EPFL, Acad. Dir. EPFL Extension School @epfl_exts, co-founder @AIcrowdHQ, organizer @appliedMLdays & @theRemoteCon, YC alumnus",
+				"url": "https://t.co/Ff9riF5YlA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Ff9riF5YlA",
+								"expanded_url": "http://blog.salathe.com",
+								"display_url": "blog.salathe.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11588,
+				"friends_count": 1107,
+				"listed_count": 517,
+				"created_at": "Wed Mar 19 16:19:03 +0000 2008",
+				"favourites_count": 3890,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 191,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1212770152158318592/VNNrEKqy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1212770152158318592/VNNrEKqy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14177696/1577981913",
+				"profile_link_color": "144066",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 342,
+			"favorite_count": 543,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Goed initiatief, ik ga later eens zien wat het exact is. Dank @Wilbert voor de tip https://t.co/Te3B5tyw4m"
+	},
+	{
 		"created_at": "Thu Apr 02 07:00:13 +0000 2020",
 		"id": 1245606947669176300,
 		"id_str": "1245606947669176326",
