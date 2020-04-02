@@ -1,6 +1,320 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 02 20:33:42 +0000 2020",
+		"id": 1245811667088420900,
+		"id_str": "1245811667088420864",
+		"full_text": "Dit is awesome! https://t.co/AMC9GX0pFZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AMC9GX0pFZ",
+					"expanded_url": "https://twitter.com/msteeman/status/1245806412887883776",
+					"display_url": "twitter.com/msteeman/statu…",
+					"indices": [
+						16,
+						39
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Schrijft over de impact van tech op mens en maatschappij \n@indiewebnl \n@kaliberInteract \n@ForSubscribing\n\nhttps://t.co/ODgIUTTMdh\n\n#TeamHuman \n#PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUTTMdh",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8952,
+			"friends_count": 413,
+			"listed_count": 578,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6101,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61594,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1585350879",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1245806412887883800,
+		"quoted_status_id_str": "1245806412887883776",
+		"quoted_status_permalink": {
+			"url": "https://t.co/AMC9GX0pFZ",
+			"expanded": "https://twitter.com/msteeman/status/1245806412887883776",
+			"display": "twitter.com/msteeman/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 02 20:12:49 +0000 2020",
+			"id": 1245806412887883800,
+			"id_str": "1245806412887883776",
+			"full_text": "Pak een schaar (of vier), download dit document, print, knip en speel... de #Coronisten van Quaran (taine) met je hele huishouden! Of stuur hem naar je vrienden en speel het gelijktijdig via videobellen... \nhttps://t.co/XNMqnP3zMg https://t.co/EAynmIbEeE",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				230
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Coronisten",
+						"indices": [
+							76,
+							87
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/XNMqnP3zMg",
+						"expanded_url": "https://drive.google.com/open?id=1E9UERsppECMgQW9LflQwx49WqYJKSqbw",
+						"display_url": "drive.google.com/open?id=1E9UER…",
+						"indices": [
+							207,
+							230
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1245805709276708900,
+						"id_str": "1245805709276708864",
+						"indices": [
+							231,
+							254
+						],
+						"media_url": "http://pbs.twimg.com/media/EUn9sSiXgAAYFul.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EUn9sSiXgAAYFul.jpg",
+						"url": "https://t.co/EAynmIbEeE",
+						"display_url": "pic.twitter.com/EAynmIbEeE",
+						"expanded_url": "https://twitter.com/msteeman/status/1245806412887883776/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 624,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1102,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2000,
+								"h": 1836,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1245805709276708900,
+						"id_str": "1245805709276708864",
+						"indices": [
+							231,
+							254
+						],
+						"media_url": "http://pbs.twimg.com/media/EUn9sSiXgAAYFul.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EUn9sSiXgAAYFul.jpg",
+						"url": "https://t.co/EAynmIbEeE",
+						"display_url": "pic.twitter.com/EAynmIbEeE",
+						"expanded_url": "https://twitter.com/msteeman/status/1245806412887883776/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 624,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1102,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2000,
+								"h": 1836,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19087381,
+				"id_str": "19087381",
+				"name": "Marcel Steeman",
+				"screen_name": "msteeman",
+				"location": "Castricum",
+				"description": "Ouwe weblogkliek. Statenlid D66 Noord-Holland. Stroopwafelenthousiast. Vader. Goeroe. Protector of the realm. #eerlijkeverpakkingen #ophefkalender #kantoorigami",
+				"url": "https://t.co/cDMrt8M38B",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/cDMrt8M38B",
+								"expanded_url": "https://twitter.com/msteeman",
+								"display_url": "twitter.com/msteeman",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4163,
+				"friends_count": 3824,
+				"listed_count": 91,
+				"created_at": "Fri Jan 16 21:53:51 +0000 2009",
+				"favourites_count": 39527,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 76669,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F96609",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/998857450810851328/UljMrlWV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/998857450810851328/UljMrlWV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19087381/1401992182",
+				"profile_link_color": "F96609",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F4EBDC",
+				"profile_text_color": "95979A",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 48,
+			"favorite_count": 133,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Dit is awesome! https://t.co/AMC9GX0pFZ"
+	},
+	{
 		"created_at": "Thu Apr 02 16:33:49 +0000 2020",
 		"id": 1245751298886193200,
 		"id_str": "1245751298886193156",
