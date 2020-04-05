@@ -1,6 +1,393 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sun Apr 05 08:22:16 +0000 2020",
+		"id": 1246714760957169700,
+		"id_str": "1246714760957169664",
+		"full_text": "Simple Minds’ Don’t you forget about me. Hoe toepasselijk. https://t.co/okB2wULUwe https://t.co/EjuPN7YCOa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/okB2wULUwe",
+					"expanded_url": "https://twitter.com/thejeremyvine/status/1246420416819838977",
+					"display_url": "twitter.com/thejeremyvine/…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1246714752551850000,
+					"id_str": "1246714752551849986",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EU04dkoXkAIq3N0.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EU04dkoXkAIq3N0.jpg",
+					"url": "https://t.co/EjuPN7YCOa",
+					"display_url": "pic.twitter.com/EjuPN7YCOa",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1246714760957169664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 244,
+							"h": 160,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 244,
+							"h": 160,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 244,
+							"h": 160,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1246714752551850000,
+					"id_str": "1246714752551849986",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EU04dkoXkAIq3N0.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EU04dkoXkAIq3N0.jpg",
+					"url": "https://t.co/EjuPN7YCOa",
+					"display_url": "pic.twitter.com/EjuPN7YCOa",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1246714760957169664/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 244,
+							"h": 160,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 244,
+							"h": 160,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 244,
+							"h": 160,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							61,
+							40
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EU04dkoXkAIq3N0.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Schrijft over de impact van tech op mens en maatschappij \n@indiewebnl \n@kaliberInteract \n@ForSubscribing\n\nhttps://t.co/ODgIUTTMdh\n\n#TeamHuman \n#PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUTTMdh",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8961,
+			"friends_count": 416,
+			"listed_count": 578,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6111,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61611,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1585350879",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1246420416819839000,
+		"quoted_status_id_str": "1246420416819838977",
+		"quoted_status_permalink": {
+			"url": "https://t.co/okB2wULUwe",
+			"expanded": "https://twitter.com/thejeremyvine/status/1246420416819838977",
+			"display": "twitter.com/thejeremyvine/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Apr 04 12:52:39 +0000 2020",
+			"id": 1246420416819839000,
+			"id_str": "1246420416819838977",
+			"full_text": "I don't want to talk about it. https://t.co/k5s4vLmbQV",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				30
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1246420369986269200,
+						"id_str": "1246420369986269187",
+						"indices": [
+							31,
+							54
+						],
+						"media_url": "http://pbs.twimg.com/media/EUwsuQHXsAMOMY5.png",
+						"media_url_https": "https://pbs.twimg.com/media/EUwsuQHXsAMOMY5.png",
+						"url": "https://t.co/k5s4vLmbQV",
+						"display_url": "pic.twitter.com/k5s4vLmbQV",
+						"expanded_url": "https://twitter.com/theJeremyVine/status/1246420416819838977/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 572,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 606,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 606,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1246420369986269200,
+						"id_str": "1246420369986269187",
+						"indices": [
+							31,
+							54
+						],
+						"media_url": "http://pbs.twimg.com/media/EUwsuQHXsAMOMY5.png",
+						"media_url_https": "https://pbs.twimg.com/media/EUwsuQHXsAMOMY5.png",
+						"url": "https://t.co/k5s4vLmbQV",
+						"display_url": "pic.twitter.com/k5s4vLmbQV",
+						"expanded_url": "https://twitter.com/theJeremyVine/status/1246420416819838977/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 572,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 606,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 606,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 331672974,
+				"id_str": "331672974",
+				"name": "Jeremy Vine",
+				"screen_name": "theJeremyVine",
+				"location": "London, England",
+				"description": "Social media distancing",
+				"url": "https://t.co/Z5nDndwiYq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Z5nDndwiYq",
+								"expanded_url": "https://www.facebook.com/thejeremyvine/",
+								"display_url": "facebook.com/thejeremyvine/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 734831,
+				"friends_count": 11032,
+				"listed_count": 2085,
+				"created_at": "Fri Jul 08 15:01:21 +0000 2011",
+				"favourites_count": 31231,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 61993,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1142826794283913217/uQQUDNN5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1142826794283913217/uQQUDNN5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/331672974/1561280749",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 158,
+			"favorite_count": 1587,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Simple Minds’ Don’t you forget about me. Hoe toepasselijk. https://t.co/okB2wULUwe https://t.co/EjuPN7YCOa"
+	},
+	{
 		"created_at": "Sat Apr 04 17:46:15 +0000 2020",
 		"id": 1246494305923084300,
 		"id_str": "1246494305923084288",
