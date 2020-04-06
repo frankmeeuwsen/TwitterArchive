@@ -1,6 +1,325 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Mon Apr 06 14:32:45 +0000 2020",
+		"id": 1247170384887251000,
+		"id_str": "1247170384887250944",
+		"full_text": "Ik probeer dit te rijmen met Jort Kelder's uitleg over te dikke tachtigers die we proberen te redden van dit virus... https://t.co/Dcl7szzoI0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Dcl7szzoI0",
+					"expanded_url": "https://twitter.com/soapachu/status/1246793653294686208",
+					"display_url": "twitter.com/soapachu/statu…",
+					"indices": [
+						118,
+						141
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Schrijft over de impact van tech op mens en maatschappij \n@indiewebnl \n@kaliberInteract \n@ForSubscribing\n\nhttps://t.co/ODgIUTTMdh\n\n#TeamHuman \n#PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUTTMdh",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8962,
+			"friends_count": 417,
+			"listed_count": 578,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6127,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61623,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1585350879",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1246793653294686200,
+		"quoted_status_id_str": "1246793653294686208",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Dcl7szzoI0",
+			"expanded": "https://twitter.com/soapachu/status/1246793653294686208",
+			"display": "twitter.com/soapachu/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Apr 05 13:35:45 +0000 2020",
+			"id": 1246793653294686200,
+			"id_str": "1246793653294686208",
+			"full_text": "Fear not everyone, Pat Robertson has worked out what caused the Coronavirus; oral sex! With women! Which they didn't have when he was younger! https://t.co/gC41NthO9W",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				142
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1246793634038636500,
+						"id_str": "1246793634038636545",
+						"indices": [
+							143,
+							166
+						],
+						"media_url": "http://pbs.twimg.com/media/EU2ANFEXYAECw9S.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EU2ANFEXYAECw9S.jpg",
+						"url": "https://t.co/gC41NthO9W",
+						"display_url": "pic.twitter.com/gC41NthO9W",
+						"expanded_url": "https://twitter.com/soapachu/status/1246793653294686208/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 601,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 601,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 378,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1246793634038636500,
+						"id_str": "1246793634038636545",
+						"indices": [
+							143,
+							166
+						],
+						"media_url": "http://pbs.twimg.com/media/EU2ANFEXYAECw9S.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EU2ANFEXYAECw9S.jpg",
+						"url": "https://t.co/gC41NthO9W",
+						"display_url": "pic.twitter.com/gC41NthO9W",
+						"expanded_url": "https://twitter.com/soapachu/status/1246793653294686208/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 601,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 601,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 378,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1246793640342630400,
+						"id_str": "1246793640342630401",
+						"indices": [
+							143,
+							166
+						],
+						"media_url": "http://pbs.twimg.com/media/EU2ANcjWsAEsLZg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EU2ANcjWsAEsLZg.jpg",
+						"url": "https://t.co/gC41NthO9W",
+						"display_url": "pic.twitter.com/gC41NthO9W",
+						"expanded_url": "https://twitter.com/soapachu/status/1246793653294686208/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 454,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1619,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21118184,
+				"id_str": "21118184",
+				"name": "self-isolated bee 🐝",
+				"screen_name": "soapachu",
+				"location": "London & Liverpool",
+				"description": "'The worst person on earth' - Guido Fawkes.    \n\n\n   \n\n\n\n\n\n\n\n\n\n\n\n\n\nTall. Shouty. Scuba diver. Mental health advocate. Cis. She/her.\n#BLM #Bi 🌈 🍹👬👭🐱🐙🐝🌏",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11827,
+				"friends_count": 6007,
+				"listed_count": 148,
+				"created_at": "Tue Feb 17 19:05:52 +0000 2009",
+				"favourites_count": 47095,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 118973,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1243825231111823361/JNtD5htU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1243825231111823361/JNtD5htU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21118184/1581843925",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9174,
+			"favorite_count": 37138,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Ik probeer dit te rijmen met Jort Kelder's uitleg over te dikke tachtigers die we proberen te redden van dit virus... https://t.co/Dcl7szzoI0"
+	},
+	{
 		"created_at": "Mon Apr 06 05:17:17 +0000 2020",
 		"id": 1246984737945784300,
 		"id_str": "1247030594661502976",
