@@ -1,6 +1,320 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Mon Apr 06 05:17:17 +0000 2020",
+		"id": 1246984737945784300,
+		"id_str": "1247030594661502976",
+		"full_text": "Happy 22nd Birthday Macromedia Fireworks 1.0. In April 1998, Macromedia released the Macromedia Fireworks 1.0 raster and vector graphics editor. Fireworks 1.0 was the first graphics tool designed specially for web designers. \nhttps://t.co/5XD6V2wmAI\n#Macromedia #Fireworks #90s https://t.co/1WjAHh0R6M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Macromedia",
+					"indices": [
+						250,
+						261
+					]
+				},
+				{
+					"text": "Fireworks",
+					"indices": [
+						262,
+						272
+					]
+				},
+				{
+					"text": "90s",
+					"indices": [
+						273,
+						277
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5XD6V2wmAI",
+					"expanded_url": "https://www.webdesignmuseum.org/old-software/graphic-software/macromedia-fireworks-1-0",
+					"display_url": "webdesignmuseum.org/old-software/g…",
+					"indices": [
+						226,
+						249
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1246984736226136000,
+					"id_str": "1246984736226136065",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EU4uAsMX0AE1l0w.png",
+					"media_url_https": "https://pbs.twimg.com/media/EU4uAsMX0AE1l0w.png",
+					"url": "https://t.co/1WjAHh0R6M",
+					"display_url": "pic.twitter.com/1WjAHh0R6M",
+					"expanded_url": "https://twitter.com/WebDesignMuseum/status/1246984737945784320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 572,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 572,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1246984736226136000,
+					"id_str": "1246984736226136065",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EU4uAsMX0AE1l0w.png",
+					"media_url_https": "https://pbs.twimg.com/media/EU4uAsMX0AE1l0w.png",
+					"url": "https://t.co/1WjAHh0R6M",
+					"display_url": "pic.twitter.com/1WjAHh0R6M",
+					"expanded_url": "https://twitter.com/WebDesignMuseum/status/1246984737945784320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 572,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 572,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1246984735617953800,
+					"id_str": "1246984735617953793",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EU4uAp7XsAEFpdM.png",
+					"media_url_https": "https://pbs.twimg.com/media/EU4uAp7XsAEFpdM.png",
+					"url": "https://t.co/1WjAHh0R6M",
+					"display_url": "pic.twitter.com/1WjAHh0R6M",
+					"expanded_url": "https://twitter.com/WebDesignMuseum/status/1246984737945784320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 572,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 572,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1246984736720945200,
+					"id_str": "1246984736720945152",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EU4uAuCWAAALDd_.png",
+					"media_url_https": "https://pbs.twimg.com/media/EU4uAuCWAAALDd_.png",
+					"url": "https://t.co/1WjAHh0R6M",
+					"display_url": "pic.twitter.com/1WjAHh0R6M",
+					"expanded_url": "https://twitter.com/WebDesignMuseum/status/1246984737945784320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 572,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 572,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1246984736708362200,
+					"id_str": "1246984736708362242",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EU4uAt_WAAIDYn-.png",
+					"media_url_https": "https://pbs.twimg.com/media/EU4uAt_WAAIDYn-.png",
+					"url": "https://t.co/1WjAHh0R6M",
+					"display_url": "pic.twitter.com/1WjAHh0R6M",
+					"expanded_url": "https://twitter.com/WebDesignMuseum/status/1246984737945784320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 572,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 572,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 738019344047845400,
+			"id_str": "738019344047845377",
+			"name": "Web Design Museum",
+			"screen_name": "WebDesignMuseum",
+			"location": "",
+			"description": "Web Design Museum exhibits over 1,600 carefully selected and sorted web sites that show web design trends between the years 1991 and 2006.",
+			"url": "https://t.co/vyFBftWgRB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vyFBftWgRB",
+							"expanded_url": "http://www.webdesignmuseum.org",
+							"display_url": "webdesignmuseum.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2681,
+			"friends_count": 24,
+			"listed_count": 45,
+			"created_at": "Wed Jun 01 14:48:18 +0000 2016",
+			"favourites_count": 14537,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1734,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/860928105975885828/8XLNUZIa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/860928105975885828/8XLNUZIa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/738019344047845377/1541958150",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 21,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Happy 22nd Birthday Macromedia Fireworks 1.0. In April 1998, Macromedia released the Macromedia Fireworks 1.0 raster and vector graphics editor. Fireworks 1.0 was the first graphics tool designed specially for web designers. \nhttps://t.co/5XD6V2wmAI\n#Macromedia #Fireworks #90s https://t.co/1WjAHh0R6M"
+	},
+	{
 		"created_at": "Sun Apr 05 20:52:51 +0000 2020",
 		"id": 1246903650582233000,
 		"id_str": "1246903650582233092",
