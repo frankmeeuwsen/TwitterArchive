@@ -1,6 +1,285 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Mon Apr 06 19:14:35 +0000 2020",
+		"id": 1247241309192142800,
+		"id_str": "1247241309192142848",
+		"full_text": "Hey kijk, nog een nieuwsbrief! Met nieuwsbrieven! Superleuk en supermeta! https://t.co/AdoLJyt83C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AdoLJyt83C",
+					"expanded_url": "https://twitter.com/ForSubscribing/status/1247237399572291587",
+					"display_url": "twitter.com/ForSubscribing…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Schrijft over de impact van tech op mens en maatschappij \n@indiewebnl \n@kaliberInteract \n@ForSubscribing\n\nhttps://t.co/ODgIUTTMdh\n\n#TeamHuman \n#PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUTTMdh",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8962,
+			"friends_count": 417,
+			"listed_count": 578,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6129,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61625,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1585350879",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1247237399572291600,
+		"quoted_status_id_str": "1247237399572291587",
+		"quoted_status_permalink": {
+			"url": "https://t.co/AdoLJyt83C",
+			"expanded": "https://twitter.com/ForSubscribing/status/1247237399572291587",
+			"display": "twitter.com/ForSubscribing…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 06 18:59:03 +0000 2020",
+			"id": 1247237399572291600,
+			"id_str": "1247237399572291587",
+			"full_text": "A new edition of Thanks For Subscribing News 📮 with ideas, slowdown thoughts, wacky humor and influence! Delivered by the excellent newsletters of \n🐶 @b3ta\n🤔 @ToniCowanBrown\n🗣️ @KampHey\n👁️ @slowdownmedia\n\nRead about it on https://t.co/EF62oYllq3 (via @revue)",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				258
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "b3ta",
+						"name": "b3ta",
+						"id": 66637408,
+						"id_str": "66637408",
+						"indices": [
+							150,
+							155
+						]
+					},
+					{
+						"screen_name": "ToniCowanBrown",
+						"name": "Toni Cowan-Brown",
+						"id": 90984732,
+						"id_str": "90984732",
+						"indices": [
+							158,
+							173
+						]
+					},
+					{
+						"screen_name": "Kamphey",
+						"name": "KampheyClaus",
+						"id": 880930110,
+						"id_str": "880930110",
+						"indices": [
+							177,
+							185
+						]
+					},
+					{
+						"screen_name": "slowdownmedia",
+						"name": "The Slowdown",
+						"id": 977718945888206800,
+						"id_str": "977718945888206848",
+						"indices": [
+							189,
+							203
+						]
+					},
+					{
+						"screen_name": "revue",
+						"name": "Revue",
+						"id": 3001165942,
+						"id_str": "3001165942",
+						"indices": [
+							251,
+							257
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/EF62oYllq3",
+						"expanded_url": "https://www.getrevue.co/profile/thanksforsubscribing/archive/237143",
+						"display_url": "getrevue.co/profile/thanks…",
+						"indices": [
+							222,
+							245
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.getrevue.co\" rel=\"nofollow\">Revue</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1221904161492566000,
+				"id_str": "1221904161492566016",
+				"name": "Thanks for Subscribing",
+				"screen_name": "ForSubscribing",
+				"location": "",
+				"description": "Make your inbox happy again and check out the best newsletters from the Netherlands and elsewhere!",
+				"url": "https://t.co/EUi1JLKpnL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/EUi1JLKpnL",
+								"expanded_url": "https://thanksforsubscribing.app",
+								"display_url": "thanksforsubscribing.app",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11,
+				"friends_count": 33,
+				"listed_count": 0,
+				"created_at": "Mon Jan 27 21:14:06 +0000 2020",
+				"favourites_count": 5,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 22,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1221904344695656448/Z2Gu1jee_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1221904344695656448/Z2Gu1jee_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1221904161492566016/1583179606",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Hey kijk, nog een nieuwsbrief! Met nieuwsbrieven! Superleuk en supermeta! https://t.co/AdoLJyt83C"
+	},
+	{
 		"created_at": "Mon Apr 06 16:54:12 +0000 2020",
 		"id": 1247205981999829000,
 		"id_str": "1247205981999828994",
