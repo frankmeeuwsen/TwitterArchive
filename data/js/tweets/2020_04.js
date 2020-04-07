@@ -1,6 +1,368 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Tue Apr 07 21:18:35 +0000 2020",
+		"id": 1247634902432055300,
+		"id_str": "1247634902432055297",
+		"full_text": "@EwoutWolff @Oli4K Wat een impertinente vraag Ewout! ;-)",
+		"truncated": false,
+		"display_text_range": [
+			19,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EwoutWolff",
+					"name": "Ewout Wolff",
+					"id": 7263402,
+					"id_str": "7263402",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "Oli4K",
+					"name": "Olivier ⬅️ 🚧🚧1,5m 🚧🚧 ➡️ Slabbers",
+					"id": 6091182,
+					"id_str": "6091182",
+					"indices": [
+						12,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1247630844514238500,
+		"in_reply_to_status_id_str": "1247630844514238471",
+		"in_reply_to_user_id": 7263402,
+		"in_reply_to_user_id_str": "7263402",
+		"in_reply_to_screen_name": "EwoutWolff",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Schrijft over de impact van tech op mens en maatschappij \n@indiewebnl \n@kaliberInteract \n@ForSubscribing\n\nhttps://t.co/ODgIUTTMdh\n\n#TeamHuman \n#PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUTTMdh",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8962,
+			"friends_count": 417,
+			"listed_count": 578,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6129,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61631,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1585350879",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@EwoutWolff @Oli4K Wat een impertinente vraag Ewout! ;-)"
+	},
+	{
+		"created_at": "Tue Apr 07 20:52:16 +0000 2020",
+		"id": 1247628281815367700,
+		"id_str": "1247628281815367683",
+		"full_text": "Nou dit dus. https://t.co/pvRgNYcIZQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pvRgNYcIZQ",
+					"expanded_url": "https://twitter.com/schellevis/status/1247601920941920256",
+					"display_url": "twitter.com/schellevis/sta…",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Schrijft over de impact van tech op mens en maatschappij \n@indiewebnl \n@kaliberInteract \n@ForSubscribing\n\nhttps://t.co/ODgIUTTMdh\n\n#TeamHuman \n#PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUTTMdh",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8962,
+			"friends_count": 417,
+			"listed_count": 578,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6129,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61631,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1585350879",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1247601920941920300,
+		"quoted_status_id_str": "1247601920941920256",
+		"quoted_status_permalink": {
+			"url": "https://t.co/pvRgNYcIZQ",
+			"expanded": "https://twitter.com/schellevis/status/1247601920941920256",
+			"display": "twitter.com/schellevis/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 07 19:07:31 +0000 2020",
+			"id": 1247601920941920300,
+			"id_str": "1247601920941920256",
+			"full_text": "Hoe ernstig is de privacy-inbreuk van een app die meet of je in de buurt van coronapatiënten bent geweest?\n\nDat hangt sterk af van de onderliggende techniek 👇",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				158
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 6043092,
+				"id_str": "6043092",
+				"name": "Joost Schellevis",
+				"screen_name": "Schellevis",
+				"location": "Thuis",
+				"description": "Techjournalist @NOS: privacy, algoritmes, hacken, wetgeving. joost.schellevis@nos.nl. Veilig tippen: https://t.co/x5xH9o9GCA. https://t.co/TkIaH0LMsw, @metnerdsomtafel",
+				"url": "https://t.co/DIfMxNb297",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/DIfMxNb297",
+								"expanded_url": "http://schellevis.net",
+								"display_url": "schellevis.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/x5xH9o9GCA",
+								"expanded_url": "http://schellevis.net/contact",
+								"display_url": "schellevis.net/contact",
+								"indices": [
+									101,
+									124
+								]
+							},
+							{
+								"url": "https://t.co/TkIaH0LMsw",
+								"expanded_url": "http://Cybernieuwtjes.nl",
+								"display_url": "Cybernieuwtjes.nl",
+								"indices": [
+									126,
+									149
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 17582,
+				"friends_count": 997,
+				"listed_count": 447,
+				"created_at": "Mon May 14 20:54:53 +0000 2007",
+				"favourites_count": 9528,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 23650,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "005A84",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1187373815921291265/blSpkFfZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1187373815921291265/blSpkFfZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/6043092/1468098577",
+				"profile_link_color": "005A84",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 100,
+			"favorite_count": 198,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Nou dit dus. https://t.co/pvRgNYcIZQ"
+	},
+	{
 		"created_at": "Tue Apr 07 18:05:06 +0000 2020",
 		"id": 1247586210886926300,
 		"id_str": "1247586210886926336",
