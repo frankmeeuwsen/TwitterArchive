@@ -1,6 +1,364 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 08 10:53:21 +0000 2020",
+		"id": 1247839945089302500,
+		"id_str": "1247839945089302529",
+		"full_text": "@bramkoster Nare man. #oorwurmnummer",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			36
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "oorwurmnummer",
+					"indices": [
+						22,
+						36
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bramkoster",
+					"name": "Bram Koster",
+					"id": 6893682,
+					"id_str": "6893682",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1247825990157570000,
+		"in_reply_to_status_id_str": "1247825990157570049",
+		"in_reply_to_user_id": 6893682,
+		"in_reply_to_user_id_str": "6893682",
+		"in_reply_to_screen_name": "bramkoster",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Schrijft over de impact van tech op mens en maatschappij \n@indiewebnl \n@kaliberInteract \n@ForSubscribing\n\nhttps://t.co/ODgIUTTMdh\n\n#TeamHuman \n#PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUTTMdh",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8964,
+			"friends_count": 417,
+			"listed_count": 578,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6134,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61635,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1585350879",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@bramkoster Nare man. #oorwurmnummer"
+	},
+	{
+		"created_at": "Wed Apr 08 10:52:46 +0000 2020",
+		"id": 1247811574208831500,
+		"id_str": "1247839801061134338",
+		"full_text": "We added a fresh newsletter to our collection 💌\n🦾Target_is_New by @iskandr. Check it out!\n\nhttps://t.co/cthl3kMlZ5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "iskandr",
+					"name": "Iskander Smit",
+					"id": 1456411,
+					"id_str": "1456411",
+					"indices": [
+						66,
+						74
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cthl3kMlZ5",
+					"expanded_url": "https://thanksforsubscribing.app/newsletter/target_is_new",
+					"display_url": "thanksforsubscribing.app/newsletter/tar…",
+					"indices": [
+						91,
+						114
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.integromat.com\" rel=\"nofollow\">Integromat</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1221904161492566000,
+			"id_str": "1221904161492566016",
+			"name": "Thanks for Subscribing",
+			"screen_name": "ForSubscribing",
+			"location": "",
+			"description": "Make your inbox happy again and check out the best newsletters from the Netherlands and elsewhere!",
+			"url": "https://t.co/EUi1JLKpnL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EUi1JLKpnL",
+							"expanded_url": "https://thanksforsubscribing.app",
+							"display_url": "thanksforsubscribing.app",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11,
+			"friends_count": 31,
+			"listed_count": 0,
+			"created_at": "Mon Jan 27 21:14:06 +0000 2020",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1221904344695656448/Z2Gu1jee_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1221904344695656448/Z2Gu1jee_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1221904161492566016/1583179606",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We added a fresh newsletter to our collection 💌\n🦾Target_is_New by @iskandr. Check it out!\n\nhttps://t.co/cthl3kMlZ5"
+	},
+	{
+		"created_at": "Wed Apr 08 10:51:48 +0000 2020",
+		"id": 1247811536825057300,
+		"id_str": "1247839556159918081",
+		"full_text": "We added a fresh newsletter to our collection 💌\n❓The What by @GinaPell. Check it out!\n\nhttps://t.co/TOsAT3GTLq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GinaPell",
+					"name": "Gina Pell",
+					"id": 19722375,
+					"id_str": "19722375",
+					"indices": [
+						61,
+						70
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TOsAT3GTLq",
+					"expanded_url": "https://thanksforsubscribing.app/newsletter/the-what",
+					"display_url": "thanksforsubscribing.app/newsletter/the…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.integromat.com\" rel=\"nofollow\">Integromat</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1221904161492566000,
+			"id_str": "1221904161492566016",
+			"name": "Thanks for Subscribing",
+			"screen_name": "ForSubscribing",
+			"location": "",
+			"description": "Make your inbox happy again and check out the best newsletters from the Netherlands and elsewhere!",
+			"url": "https://t.co/EUi1JLKpnL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EUi1JLKpnL",
+							"expanded_url": "https://thanksforsubscribing.app",
+							"display_url": "thanksforsubscribing.app",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11,
+			"friends_count": 31,
+			"listed_count": 0,
+			"created_at": "Mon Jan 27 21:14:06 +0000 2020",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1221904344695656448/Z2Gu1jee_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1221904344695656448/Z2Gu1jee_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1221904161492566016/1583179606",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We added a fresh newsletter to our collection 💌\n❓The What by @GinaPell. Check it out!\n\nhttps://t.co/TOsAT3GTLq"
+	},
+	{
 		"created_at": "Tue Apr 07 21:18:35 +0000 2020",
 		"id": 1247634902432055300,
 		"id_str": "1247634902432055297",
