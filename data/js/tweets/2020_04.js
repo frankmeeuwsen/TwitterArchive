@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 09 05:45:37 +0000 2020",
+		"id": 1247577368803319800,
+		"id_str": "1248124890823241730",
+		"full_text": "We weten allemaal wie die app gaat maken. https://t.co/t1hD3vvo8h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1247577361631101000,
+					"id_str": "1247577361631100929",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/EVBJAB3XQAEj5cV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVBJAB3XQAEj5cV.jpg",
+					"url": "https://t.co/t1hD3vvo8h",
+					"display_url": "pic.twitter.com/t1hD3vvo8h",
+					"expanded_url": "https://twitter.com/ZegMaarCJ/status/1247577368803319810/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1247577361631101000,
+					"id_str": "1247577361631100929",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/EVBJAB3XQAEj5cV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVBJAB3XQAEj5cV.jpg",
+					"url": "https://t.co/t1hD3vvo8h",
+					"display_url": "pic.twitter.com/t1hD3vvo8h",
+					"expanded_url": "https://twitter.com/ZegMaarCJ/status/1247577368803319810/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 122978465,
+			"id_str": "122978465",
+			"name": "Христиан",
+			"screen_name": "ZegMaarCJ",
+			"location": "Wuppertal",
+			"description": "Een ontspoord leven op de rails🏳️‍🌈",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1597,
+			"friends_count": 516,
+			"listed_count": 36,
+			"created_at": "Sun Mar 14 15:12:59 +0000 2010",
+			"favourites_count": 55301,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 204880,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175491083196911617/uWrTotw7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175491083196911617/uWrTotw7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/122978465/1535054302",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 474,
+		"favorite_count": 3321,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "We weten allemaal wie die app gaat maken. https://t.co/t1hD3vvo8h"
+	},
+	{
 		"created_at": "Wed Apr 08 21:09:34 +0000 2020",
 		"id": 1247995020323455000,
 		"id_str": "1247995020323454981",
