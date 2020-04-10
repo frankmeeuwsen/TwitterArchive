@@ -1,6 +1,343 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Fri Apr 10 15:49:43 +0000 2020",
+		"id": 1248639306316603400,
+		"id_str": "1248639306316603395",
+		"full_text": "Ik ben gedwee als het hier op aankomt. #TeamFriet https://t.co/lIMWStYJhs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TeamFriet",
+					"indices": [
+						39,
+						49
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lIMWStYJhs",
+					"expanded_url": "https://twitter.com/freelennse/status/1248637513507442689",
+					"display_url": "twitter.com/freelennse/sta…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Schrijft over de impact van tech op mens en maatschappij \n@indiewebnl \n@kaliberInteract \n@ForSubscribing\n\nhttps://t.co/ODgIUTTMdh\n\n#TeamHuman \n#PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUTTMdh",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8971,
+			"friends_count": 418,
+			"listed_count": 578,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6145,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61644,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1585350879",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1248637513507442700,
+		"quoted_status_id_str": "1248637513507442689",
+		"quoted_status_permalink": {
+			"url": "https://t.co/lIMWStYJhs",
+			"expanded": "https://twitter.com/freelennse/status/1248637513507442689",
+			"display": "twitter.com/freelennse/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 10 15:42:36 +0000 2020",
+			"id": 1248637513507442700,
+			"id_str": "1248637513507442689",
+			"full_text": "Ik neem deze crisis wel voor mijn rekening. https://t.co/yepMCOPwQA",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				43
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1248637507463458800,
+						"id_str": "1248637507463458818",
+						"indices": [
+							44,
+							67
+						],
+						"media_url": "http://pbs.twimg.com/media/EVQNMo2WsAIHMV1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EVQNMo2WsAIHMV1.jpg",
+						"url": "https://t.co/yepMCOPwQA",
+						"display_url": "pic.twitter.com/yepMCOPwQA",
+						"expanded_url": "https://twitter.com/freelennse/status/1248637513507442689/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1125,
+								"h": 2000,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1248637507463458800,
+						"id_str": "1248637507463458818",
+						"indices": [
+							44,
+							67
+						],
+						"media_url": "http://pbs.twimg.com/media/EVQNMo2WsAIHMV1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EVQNMo2WsAIHMV1.jpg",
+						"url": "https://t.co/yepMCOPwQA",
+						"display_url": "pic.twitter.com/yepMCOPwQA",
+						"expanded_url": "https://twitter.com/freelennse/status/1248637513507442689/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1125,
+								"h": 2000,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 416956604,
+				"id_str": "416956604",
+				"name": "Lenneke Manschot",
+				"screen_name": "freelennse",
+				"location": "Lobith",
+				"description": "Kan in nuchtere toestand mijn hele vuist in m’n mond stoppen. Tekstschrijver, blogger, influlennser, team @DIWMOTZ — ik geef je tekstuele aantrekkingskracht ✨",
+				"url": "https://t.co/qnuXPQ0jWS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/qnuXPQ0jWS",
+								"expanded_url": "https://freelennse.nl",
+								"display_url": "freelennse.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2439,
+				"friends_count": 44,
+				"listed_count": 32,
+				"created_at": "Sun Nov 20 10:24:08 +0000 2011",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 40998,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F0F5F4",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1118829745863569409/dXfVQsq7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1118829745863569409/dXfVQsq7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/416956604/1505323045",
+				"profile_link_color": "627069",
+				"profile_sidebar_border_color": "B800B8",
+				"profile_sidebar_fill_color": "FFE5FF",
+				"profile_text_color": "9C009C",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "1b241f65d823bae4",
+				"url": "https://api.twitter.com/1.1/geo/id/1b241f65d823bae4.json",
+				"place_type": "city",
+				"name": "Rijnwaarden",
+				"full_name": "Rijnwaarden, Nederland",
+				"country_code": "NL",
+				"country": "Nederland",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								5.9870819,
+								51.84084
+							],
+							[
+								6.167232,
+								51.84084
+							],
+							[
+								6.167232,
+								51.9170259
+							],
+							[
+								5.9870819,
+								51.9170259
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 29,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Ik ben gedwee als het hier op aankomt. #TeamFriet https://t.co/lIMWStYJhs"
+	},
+	{
 		"created_at": "Fri Apr 10 14:17:42 +0000 2020",
 		"id": 1248616147181658000,
 		"id_str": "1248616147181658116",
