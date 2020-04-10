@@ -1,6 +1,313 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Fri Apr 10 10:59:02 +0000 2020",
+		"id": 1248566150994301000,
+		"id_str": "1248566150994300928",
+		"full_text": "Lees en doe je mee @Wilbert ? https://t.co/sJp96D4uJN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Wilbert",
+					"name": "Wilbert Pot",
+					"id": 2286901,
+					"id_str": "2286901",
+					"indices": [
+						19,
+						27
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sJp96D4uJN",
+					"expanded_url": "https://twitter.com/navgmuseum/status/1248551057887825920",
+					"display_url": "twitter.com/navgmuseum/sta…",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Schrijft over de impact van tech op mens en maatschappij \n@indiewebnl \n@kaliberInteract \n@ForSubscribing\n\nhttps://t.co/ODgIUTTMdh\n\n#TeamHuman \n#PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUTTMdh",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8972,
+			"friends_count": 418,
+			"listed_count": 578,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6144,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61642,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1585350879",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1248551057887826000,
+		"quoted_status_id_str": "1248551057887825920",
+		"quoted_status_permalink": {
+			"url": "https://t.co/sJp96D4uJN",
+			"expanded": "https://twitter.com/navgmuseum/status/1248551057887825920",
+			"display": "twitter.com/navgmuseum/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 10 09:59:03 +0000 2020",
+			"id": 1248551057887826000,
+			"id_str": "1248551057887825920",
+			"full_text": "Ondanks de zware tijden probeert het NaVGM er toch zoveel mogelijk de moed in te houden! Daarom hebben we de sluiting aangegrepen om alvast een begin te maken met een aantal aanpassingen die al op ons wensenlijstje stonden. https://t.co/7PQ4Kx39iL",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				223
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1248550240161947600,
+						"id_str": "1248550240161947648",
+						"indices": [
+							224,
+							247
+						],
+						"media_url": "http://pbs.twimg.com/media/EVO91A0U4AAH0K4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EVO91A0U4AAH0K4.jpg",
+						"url": "https://t.co/7PQ4Kx39iL",
+						"display_url": "pic.twitter.com/7PQ4Kx39iL",
+						"expanded_url": "https://twitter.com/NaVGMuseum/status/1248551057887825920/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 747,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 423,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1638,
+								"h": 1019,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1248550240161947600,
+						"id_str": "1248550240161947648",
+						"indices": [
+							224,
+							247
+						],
+						"media_url": "http://pbs.twimg.com/media/EVO91A0U4AAH0K4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EVO91A0U4AAH0K4.jpg",
+						"url": "https://t.co/7PQ4Kx39iL",
+						"display_url": "pic.twitter.com/7PQ4Kx39iL",
+						"expanded_url": "https://twitter.com/NaVGMuseum/status/1248551057887825920/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 747,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 423,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1638,
+								"h": 1019,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 899402523827732500,
+				"id_str": "899402523827732481",
+				"name": "Nationaal Videogame Museum",
+				"screen_name": "NaVGMuseum",
+				"location": "Zoetermeer, Nederland",
+				"description": "Officieel Twitter account van het Nationaal Videogame Museum in Zoetermeer. Waar je de geschiedenis en toekomst van gaming beleeft. #NaVGM Wo-Zo, 12:00 - 17:00",
+				"url": "https://t.co/cCSrc1cq4T",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/cCSrc1cq4T",
+								"expanded_url": "http://www.nationaalvideogamemuseum.nl",
+								"display_url": "nationaalvideogamemuseum.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 280,
+				"friends_count": 256,
+				"listed_count": 4,
+				"created_at": "Sun Aug 20 22:47:26 +0000 2017",
+				"favourites_count": 220,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 214,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/922680973665492992/VMDO2esv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/922680973665492992/VMDO2esv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/899402523827732481/1511725576",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Lees en doe je mee @Wilbert ? https://t.co/sJp96D4uJN"
+	},
+	{
 		"created_at": "Thu Apr 09 07:00:10 +0000 2020",
 		"id": 1248143651806593000,
 		"id_str": "1248143651806593024",
