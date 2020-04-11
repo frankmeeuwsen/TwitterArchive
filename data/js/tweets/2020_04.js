@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sat Apr 11 07:28:30 +0000 2020",
+		"id": 1248875555744817200,
+		"id_str": "1248875555744817152",
+		"full_text": "Hardoplachen in de auto om de eerste “Zei iemand Willy Sommers?” van @elger in de laatste editie van @TrustNobodycast. Heerlijk gast! https://t.co/RgGAgSGdNv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "elger",
+					"name": "Elger van der Wel",
+					"id": 14142375,
+					"id_str": "14142375",
+					"indices": [
+						69,
+						75
+					]
+				},
+				{
+					"screen_name": "TrustNobodycast",
+					"name": "Trust Nobody",
+					"id": 943435303846662100,
+					"id_str": "943435303846662144",
+					"indices": [
+						101,
+						117
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1248875548673282000,
+					"id_str": "1248875548673282050",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EVTlsddXkAIMYqi.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EVTlsddXkAIMYqi.jpg",
+					"url": "https://t.co/RgGAgSGdNv",
+					"display_url": "pic.twitter.com/RgGAgSGdNv",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1248875555744817152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 244,
+							"h": 180,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 244,
+							"h": 180,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 244,
+							"h": 180,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1248875548673282000,
+					"id_str": "1248875548673282050",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EVTlsddXkAIMYqi.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EVTlsddXkAIMYqi.jpg",
+					"url": "https://t.co/RgGAgSGdNv",
+					"display_url": "pic.twitter.com/RgGAgSGdNv",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1248875555744817152/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 244,
+							"h": 180,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 244,
+							"h": 180,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 244,
+							"h": 180,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							61,
+							45
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EVTlsddXkAIMYqi.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Schrijft over de impact van tech op mens en maatschappij \n@indiewebnl \n@kaliberInteract \n@ForSubscribing\n\nhttps://t.co/ODgIUTTMdh\n\n#TeamHuman \n#PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUTTMdh",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8971,
+			"friends_count": 418,
+			"listed_count": 578,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6146,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61646,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1585350879",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Hardoplachen in de auto om de eerste “Zei iemand Willy Sommers?” van @elger in de laatste editie van @TrustNobodycast. Heerlijk gast! https://t.co/RgGAgSGdNv"
+	},
+	{
 		"created_at": "Sat Apr 11 05:23:35 +0000 2020",
 		"id": 1248537067954385000,
 		"id_str": "1248844122045243392",
