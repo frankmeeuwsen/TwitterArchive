@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sat Apr 11 05:23:35 +0000 2020",
+		"id": 1248537067954385000,
+		"id_str": "1248844122045243392",
+		"full_text": "😰😰😰 https://t.co/DUABvQZVYM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			3
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1248537063277785000,
+					"id_str": "1248537063277785088",
+					"indices": [
+						4,
+						27
+					],
+					"media_url": "http://pbs.twimg.com/media/EVOx2BGU8AAulbp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVOx2BGU8AAulbp.jpg",
+					"url": "https://t.co/DUABvQZVYM",
+					"display_url": "pic.twitter.com/DUABvQZVYM",
+					"expanded_url": "https://twitter.com/pearljamisboss/status/1248537067954384897/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1242,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1248537063277785000,
+					"id_str": "1248537063277785088",
+					"indices": [
+						4,
+						27
+					],
+					"media_url": "http://pbs.twimg.com/media/EVOx2BGU8AAulbp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVOx2BGU8AAulbp.jpg",
+					"url": "https://t.co/DUABvQZVYM",
+					"display_url": "pic.twitter.com/DUABvQZVYM",
+					"expanded_url": "https://twitter.com/pearljamisboss/status/1248537067954384897/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1242,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2952339636,
+			"id_str": "2952339636",
+			"name": "☆ ᑭEᗩᖇᒪᒍᗩᗰ🅵🅰🅽④ᒪIᖴE ☆",
+			"screen_name": "pearljamisboss",
+			"location": "",
+			"description": "Life is short play more Pearl Jam ☮",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3836,
+			"friends_count": 3758,
+			"listed_count": 33,
+			"created_at": "Tue Dec 30 16:56:16 +0000 2014",
+			"favourites_count": 18872,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14493,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1248034671901859842/GnpgMyaZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1248034671901859842/GnpgMyaZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2952339636/1586388642",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 79,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "😰😰😰 https://t.co/DUABvQZVYM"
+	},
+	{
 		"created_at": "Fri Apr 10 15:49:43 +0000 2020",
 		"id": 1248639306316603400,
 		"id_str": "1248639306316603395",
