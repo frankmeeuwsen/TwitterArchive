@@ -1,6 +1,275 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Mon Apr 13 16:42:27 +0000 2020",
+		"id": 1249739740640837600,
+		"id_str": "1249739740640837634",
+		"full_text": "De nieuwe Thanks for Subscribing is er weer. Welke Nederlandse nieuwsbrieven moeten nog in de directory? https://t.co/KrTdMRuOcz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KrTdMRuOcz",
+					"expanded_url": "https://twitter.com/ForSubscribing/status/1249739228981932035",
+					"display_url": "twitter.com/ForSubscribing…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Schrijft over de impact van tech op mens en maatschappij \n@indiewebnl \n@kaliberInteract \n@ForSubscribing\n\nhttps://t.co/ODgIUTTMdh\n\n#TeamHuman \n#PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUTTMdh",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8972,
+			"friends_count": 420,
+			"listed_count": 578,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6152,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61655,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1585350879",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1249739228981932000,
+		"quoted_status_id_str": "1249739228981932035",
+		"quoted_status_permalink": {
+			"url": "https://t.co/KrTdMRuOcz",
+			"expanded": "https://twitter.com/ForSubscribing/status/1249739228981932035",
+			"display": "twitter.com/ForSubscribing…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 13 16:40:25 +0000 2020",
+			"id": 1249739228981932000,
+			"id_str": "1249739228981932035",
+			"full_text": "A new edition of Thanks For Subscribing News 📮with design, music, AI and knowing where to go\nDelivered by the excellent newsletters of \n🖼 @halfvet\n🦾 @iskandr\n❓ @GinaPell\n\nRead about it on\nhttps://t.co/dgM9ey01iZ (via @revue)",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				224
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "halfvet",
+						"name": "Halfvet",
+						"id": 1101191767238549500,
+						"id_str": "1101191767238549504",
+						"indices": [
+							138,
+							146
+						]
+					},
+					{
+						"screen_name": "iskandr",
+						"name": "Iskander Smit",
+						"id": 1456411,
+						"id_str": "1456411",
+						"indices": [
+							149,
+							157
+						]
+					},
+					{
+						"screen_name": "GinaPell",
+						"name": "Gina Pell",
+						"id": 19722375,
+						"id_str": "19722375",
+						"indices": [
+							160,
+							169
+						]
+					},
+					{
+						"screen_name": "revue",
+						"name": "Revue",
+						"id": 3001165942,
+						"id_str": "3001165942",
+						"indices": [
+							217,
+							223
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/dgM9ey01iZ",
+						"expanded_url": "https://www.getrevue.co/profile/thanksforsubscribing/archive/238832",
+						"display_url": "getrevue.co/profile/thanks…",
+						"indices": [
+							188,
+							211
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.getrevue.co\" rel=\"nofollow\">Revue</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1221904161492566000,
+				"id_str": "1221904161492566016",
+				"name": "Thanks for Subscribing",
+				"screen_name": "ForSubscribing",
+				"location": "",
+				"description": "Make your inbox happy again and check out the best newsletters from the Netherlands and elsewhere!",
+				"url": "https://t.co/EUi1JLKpnL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/EUi1JLKpnL",
+								"expanded_url": "https://thanksforsubscribing.app",
+								"display_url": "thanksforsubscribing.app",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12,
+				"friends_count": 31,
+				"listed_count": 0,
+				"created_at": "Mon Jan 27 21:14:06 +0000 2020",
+				"favourites_count": 5,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 27,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1221904344695656448/Z2Gu1jee_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1221904344695656448/Z2Gu1jee_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1221904161492566016/1583179606",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "De nieuwe Thanks for Subscribing is er weer. Welke Nederlandse nieuwsbrieven moeten nog in de directory? https://t.co/KrTdMRuOcz"
+	},
+	{
 		"created_at": "Mon Apr 13 15:11:11 +0000 2020",
 		"id": 1249716771650666500,
 		"id_str": "1249716771650666496",
