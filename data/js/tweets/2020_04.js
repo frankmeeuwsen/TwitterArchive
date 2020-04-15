@@ -1,6 +1,374 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 15 17:31:22 +0000 2020",
+		"id": 1250476826243317800,
+		"id_str": "1250476826243317767",
+		"full_text": "Facebook is een shithole met je data maar dit is toch wel grappig. https://t.co/F2ieJjTaD1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/F2ieJjTaD1",
+					"expanded_url": "https://twitter.com/agasramirez/status/1250264279711793153",
+					"display_url": "twitter.com/agasramirez/st…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Schrijft over de impact van tech op mens en maatschappij \n@indiewebnl \n@kaliberInteract \n@ForSubscribing\n\nhttps://t.co/ODgIUTTMdh\n\n#TeamHuman \n#PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUTTMdh",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8978,
+			"friends_count": 422,
+			"listed_count": 578,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6151,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61662,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1585350879",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1250264279711793200,
+		"quoted_status_id_str": "1250264279711793153",
+		"quoted_status_permalink": {
+			"url": "https://t.co/F2ieJjTaD1",
+			"expanded": "https://twitter.com/agasramirez/status/1250264279711793153",
+			"display": "twitter.com/agasramirez/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 15 03:26:47 +0000 2020",
+			"id": 1250264279711793200,
+			"id_str": "1250264279711793153",
+			"full_text": "Quarantine Day 31: I joined a Facebook group where we all pretend to be ants in an ant colony https://t.co/FjIO9vtonl",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				93
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1250263991726702600,
+						"id_str": "1250263991726702593",
+						"indices": [
+							94,
+							117
+						],
+						"media_url": "http://pbs.twimg.com/media/EVnUee5VAAEhuay.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EVnUee5VAAEhuay.jpg",
+						"url": "https://t.co/FjIO9vtonl",
+						"display_url": "pic.twitter.com/FjIO9vtonl",
+						"expanded_url": "https://twitter.com/agasramirez/status/1250264279711793153/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 640,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 706,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 706,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1250263991726702600,
+						"id_str": "1250263991726702593",
+						"indices": [
+							94,
+							117
+						],
+						"media_url": "http://pbs.twimg.com/media/EVnUee5VAAEhuay.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EVnUee5VAAEhuay.jpg",
+						"url": "https://t.co/FjIO9vtonl",
+						"display_url": "pic.twitter.com/FjIO9vtonl",
+						"expanded_url": "https://twitter.com/agasramirez/status/1250264279711793153/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 640,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 706,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 706,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1250264010278101000,
+						"id_str": "1250264010278100993",
+						"indices": [
+							94,
+							117
+						],
+						"media_url": "http://pbs.twimg.com/media/EVnUfkAU4AEL0US.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EVnUfkAU4AEL0US.jpg",
+						"url": "https://t.co/FjIO9vtonl",
+						"display_url": "pic.twitter.com/FjIO9vtonl",
+						"expanded_url": "https://twitter.com/agasramirez/status/1250264279711793153/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 539,
+								"h": 960,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 539,
+								"h": 960,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1250264023804735500,
+						"id_str": "1250264023804735488",
+						"indices": [
+							94,
+							117
+						],
+						"media_url": "http://pbs.twimg.com/media/EVnUgWZU8AAJ93I.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EVnUgWZU8AAJ93I.jpg",
+						"url": "https://t.co/FjIO9vtonl",
+						"display_url": "pic.twitter.com/FjIO9vtonl",
+						"expanded_url": "https://twitter.com/agasramirez/status/1250264279711793153/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 539,
+								"h": 960,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 539,
+								"h": 960,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 932958606806237200,
+				"id_str": "932958606806237185",
+				"name": "Millennial Mangkukulam",
+				"screen_name": "agasramirez",
+				"location": "",
+				"description": "Your manic pixie dream witch | @herstoryseapod",
+				"url": "https://t.co/F81zOp1jsW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/F81zOp1jsW",
+								"expanded_url": "https://bit.ly/herstoryseapodcast",
+								"display_url": "bit.ly/herstoryseapod…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3274,
+				"friends_count": 1288,
+				"listed_count": 18,
+				"created_at": "Tue Nov 21 13:07:20 +0000 2017",
+				"favourites_count": 40971,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 12596,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1181368462758694913/e2RDyA0p_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1181368462758694913/e2RDyA0p_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/932958606806237185/1547953281",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 54615,
+			"favorite_count": 180517,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Facebook is een shithole met je data maar dit is toch wel grappig. https://t.co/F2ieJjTaD1"
+	},
+	{
 		"created_at": "Wed Apr 15 14:39:40 +0000 2020",
 		"id": 1250433615294386200,
 		"id_str": "1250433615294386176",
