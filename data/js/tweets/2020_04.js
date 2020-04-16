@@ -1,6 +1,253 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 16 19:35:56 +0000 2020",
+		"id": 1250870560470569000,
+		"id_str": "1250870560470568965",
+		"full_text": "True. Een van de meest indrukwekkende albums die ik ken. https://t.co/ZAPkNSDVc8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZAPkNSDVc8",
+					"expanded_url": "https://twitter.com/antiquiet/status/1250862160403554305",
+					"display_url": "twitter.com/antiquiet/stat…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Schrijft over de impact van tech op mens en maatschappij \n@indiewebnl \n@kaliberInteract \n@ForSubscribing\n\nhttps://t.co/ODgIUTTMdh\n\n#TeamHuman \n#PearlJam",
+			"url": "https://t.co/GXSndpgrhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXSndpgrhE",
+							"expanded_url": "https://diggingthedigital.com/",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUTTMdh",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8979,
+			"friends_count": 422,
+			"listed_count": 578,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6156,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61665,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1585350879",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1250862160403554300,
+		"quoted_status_id_str": "1250862160403554305",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ZAPkNSDVc8",
+			"expanded": "https://twitter.com/antiquiet/status/1250862160403554305",
+			"display": "twitter.com/antiquiet/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 16 19:02:33 +0000 2020",
+			"id": 1250862160403554300,
+			"id_str": "1250862160403554305",
+			"full_text": "Your #plaguesounds album of the day turns 29 years old today (released April 16, 1991). And like @rtw702 says, it's inarguably the finest musical requiem ever made. https://t.co/ohbjWxGVKq",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				188
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "plaguesounds",
+						"indices": [
+							5,
+							18
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "rtw702",
+						"name": "Rich",
+						"id": 238277505,
+						"id_str": "238277505",
+						"indices": [
+							97,
+							104
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/ohbjWxGVKq",
+						"expanded_url": "https://open.spotify.com/album/1mMy79IOzwQyoD6dg8568p?si=eUF9x1p9TYqu346n1vrUnw",
+						"display_url": "open.spotify.com/album/1mMy79IO…",
+						"indices": [
+							165,
+							188
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15140012,
+				"id_str": "15140012",
+				"name": "Antiquiet",
+				"screen_name": "antiquiet",
+				"location": "Los Angeles, CA",
+				"description": "Culture Vulture Extermination Services. and music.  Email: submissions@antiquiet.com",
+				"url": "https://t.co/4L3J7VTYCg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4L3J7VTYCg",
+								"expanded_url": "http://www.antiquiet.com",
+								"display_url": "antiquiet.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5582,
+				"friends_count": 1262,
+				"listed_count": 314,
+				"created_at": "Mon Jun 16 23:35:38 +0000 2008",
+				"favourites_count": 2305,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 23326,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFC336",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/971752276820832256/tl_eq3IG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/971752276820832256/tl_eq3IG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15140012/1430989611",
+				"profile_link_color": "B60000",
+				"profile_sidebar_border_color": "B60000",
+				"profile_sidebar_fill_color": "EEEEEE",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 17,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "True. Een van de meest indrukwekkende albums die ik ken. https://t.co/ZAPkNSDVc8"
+	},
+	{
 		"created_at": "Thu Apr 16 13:00:25 +0000 2020",
 		"id": 1250771026126016500,
 		"id_str": "1250771026126016512",
