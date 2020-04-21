@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Tue Apr 21 18:29:55 +0000 2020",
+		"id": 1251551799833759700,
+		"id_str": "1252665887867449350",
+		"full_text": "I'm turning 50, come join me for a glass, a song, and a story this Tuesday April 21st at 9pm Irish Time (4pm ET/1pm PT) on my Instagram @thegingerman222 https://t.co/EMBYDWoY3K",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1251551765776019500,
+					"id_str": "1251551765776019456",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/EV5nszEXsAARN1K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EV5nszEXsAARN1K.jpg",
+					"url": "https://t.co/EMBYDWoY3K",
+					"display_url": "pic.twitter.com/EMBYDWoY3K",
+					"expanded_url": "https://twitter.com/Glen_Hansard/status/1251551799833759745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 507,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 894,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1526,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1251551765776019500,
+					"id_str": "1251551765776019456",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/EV5nszEXsAARN1K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EV5nszEXsAARN1K.jpg",
+					"url": "https://t.co/EMBYDWoY3K",
+					"display_url": "pic.twitter.com/EMBYDWoY3K",
+					"expanded_url": "https://twitter.com/Glen_Hansard/status/1251551799833759745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 507,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 894,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1526,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 80701402,
+			"id_str": "80701402",
+			"name": "Glen Hansard",
+			"screen_name": "Glen_Hansard",
+			"location": "",
+			"description": "‘This Wild Willing’ out now on ANTI! Buy/Stream links here: https://t.co/oT5SFjNcW6 Tweets by management.",
+			"url": "https://t.co/oY61eiCt6N",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oY61eiCt6N",
+							"expanded_url": "http://glenhansard.com",
+							"display_url": "glenhansard.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/oT5SFjNcW6",
+							"expanded_url": "https://glenhansard.ffm.to/thiswildwilling",
+							"display_url": "glenhansard.ffm.to/thiswildwilling",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 101744,
+			"friends_count": 399,
+			"listed_count": 1889,
+			"created_at": "Wed Oct 07 22:57:21 +0000 2009",
+			"favourites_count": 92,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4065,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085919347359563777/EbZrRI0J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085919347359563777/EbZrRI0J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/80701402/1555062331",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 415,
+		"favorite_count": 3461,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I'm turning 50, come join me for a glass, a song, and a story this Tuesday April 21st at 9pm Irish Time (4pm ET/1pm PT) on my Instagram @thegingerman222 https://t.co/EMBYDWoY3K"
+	},
+	{
 		"created_at": "Tue Apr 21 18:13:41 +0000 2020",
 		"id": 1252661803143889000,
 		"id_str": "1252661803143888896",
