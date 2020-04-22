@@ -1,6 +1,253 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 22 05:29:11 +0000 2020",
+		"id": 1248763620453834800,
+		"id_str": "1252831798276452359",
+		"full_text": "\"Programming language for productivity!\"\n\nWe would have said \"meta-epistemics\" ourselves.. but hey, productivity sounds good too! https://t.co/n0xUglhfrT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/n0xUglhfrT",
+					"expanded_url": "https://twitter.com/jmj/status/1248761996314464256",
+					"display_url": "twitter.com/jmj/status/124…",
+					"indices": [
+						130,
+						153
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1190410678273626000,
+			"id_str": "1190410678273626113",
+			"name": "Roam Research",
+			"screen_name": "RoamResearch",
+			"location": "",
+			"description": "A notes tool for networked thoughts",
+			"url": "https://t.co/ps6PO2Q1KJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ps6PO2Q1KJ",
+							"expanded_url": "https://roamresearch.com",
+							"display_url": "roamresearch.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11974,
+			"friends_count": 104,
+			"listed_count": 183,
+			"created_at": "Fri Nov 01 23:30:13 +0000 2019",
+			"favourites_count": 3979,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1577,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1190413427602313216/7DPyuacJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1190413427602313216/7DPyuacJ_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1248761996314464300,
+		"quoted_status_id_str": "1248761996314464256",
+		"quoted_status_permalink": {
+			"url": "https://t.co/n0xUglhfrT",
+			"expanded": "https://twitter.com/jmj/status/1248761996314464256",
+			"display": "twitter.com/jmj/status/124…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 10 23:57:15 +0000 2020",
+			"id": 1248761996314464300,
+			"id_str": "1248761996314464256",
+			"full_text": "@nbt @rrhoover @Superhuman @RoamResearch There is a learning curve - but the more time you invest, the more addicting it becomes.\n\nThey’re basically building a programming language for productivity (with a large developer community hacking on it too).",
+			"truncated": false,
+			"display_text_range": [
+				41,
+				251
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "nbt",
+						"name": "Nikhil Basu Trivedi",
+						"id": 24486938,
+						"id_str": "24486938",
+						"indices": [
+							0,
+							4
+						]
+					},
+					{
+						"screen_name": "rrhoover",
+						"name": "Ryan Hoover",
+						"id": 14417215,
+						"id_str": "14417215",
+						"indices": [
+							5,
+							14
+						]
+					},
+					{
+						"screen_name": "Superhuman",
+						"name": "Superhuman",
+						"id": 4780060819,
+						"id_str": "4780060819",
+						"indices": [
+							15,
+							26
+						]
+					},
+					{
+						"screen_name": "RoamResearch",
+						"name": "Roam Research",
+						"id": 1190410678273626000,
+						"id_str": "1190410678273626113",
+						"indices": [
+							27,
+							40
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1248759819743314000,
+			"in_reply_to_status_id_str": "1248759819743313920",
+			"in_reply_to_user_id": 24486938,
+			"in_reply_to_user_id_str": "24486938",
+			"in_reply_to_screen_name": "nbt",
+			"user": {
+				"id": 11922492,
+				"id_str": "11922492",
+				"name": "Jeff Morris Jr.",
+				"screen_name": "jmj",
+				"location": "California",
+				"description": "Founder of @ChapterOne, an early stage product fund. Before led revenue products @Tinder. Built top grossing app. Bay Area born.",
+				"url": "https://t.co/hVPfSsQbv5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hVPfSsQbv5",
+								"expanded_url": "http://www.chapterone.vc",
+								"display_url": "chapterone.vc",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 61339,
+				"friends_count": 1008,
+				"listed_count": 1066,
+				"created_at": "Mon Jan 07 00:06:50 +0000 2008",
+				"favourites_count": 29862,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 20287,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "642D8B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1244839406487228422/DDl6ITM5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1244839406487228422/DDl6ITM5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/11922492/1587095158",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "7AC3EE",
+				"profile_text_color": "3D1957",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 21,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 36,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Programming language for productivity!\"\n\nWe would have said \"meta-epistemics\" ourselves.. but hey, productivity sounds good too! https://t.co/n0xUglhfrT"
+	},
+	{
 		"created_at": "Wed Apr 22 04:27:31 +0000 2020",
 		"id": 1252816275832635400,
 		"id_str": "1252816275832635398",
