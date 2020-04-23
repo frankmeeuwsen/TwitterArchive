@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 23 15:08:04 +0000 2020",
+		"id": 1253294738783993900,
+		"id_str": "1253339864898002944",
+		"full_text": "Even iets anders; nu Merchandise stil ligt (nou ja, stil niet echt, en afhankelijk van hoe dat afloopt reserveer ik er nog 8-16 uur per week voor de komende tijd) heb ik ruimte voor (en behoefte aan) uitdagende opdrachten.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			222
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7167342,
+			"id_str": "7167342",
+			"name": "Richard Theuws",
+			"screen_name": "merchandise",
+			"location": "The Netherlands",
+			"description": "Not your average metalhead. Always trying to keep focus on that one main hey look a squirrel!",
+			"url": "https://t.co/GZJRNY2Bct",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GZJRNY2Bct",
+							"expanded_url": "https://merchandise.nl",
+							"display_url": "merchandise.nl",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2906,
+			"friends_count": 1422,
+			"listed_count": 92,
+			"created_at": "Sat Jun 30 06:18:33 +0000 2007",
+			"favourites_count": 11776,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 40331,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1046046425396785152/Ge2DygRF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1046046425396785152/Ge2DygRF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7167342/1578327157",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "nl",
+		"text": "Even iets anders; nu Merchandise stil ligt (nou ja, stil niet echt, en afhankelijk van hoe dat afloopt reserveer ik er nog 8-16 uur per week voor de komende tijd) heb ik ruimte voor (en behoefte aan) uitdagende opdrachten."
+	},
+	{
+		"created_at": "Thu Apr 23 15:07:08 +0000 2020",
+		"id": 1253339631791280000,
+		"id_str": "1253339631791280128",
+		"full_text": "@gill_works Very!",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gill_works",
+					"name": "Michael Gill 🤖👑",
+					"id": 86678551,
+					"id_str": "86678551",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1253306907076563000,
+		"in_reply_to_status_id_str": "1253306907076562944",
+		"in_reply_to_user_id": 86678551,
+		"in_reply_to_user_id_str": "86678551",
+		"in_reply_to_screen_name": "gill_works",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werkt bij @kaliberInteract\n\nBouwt zonder code aan https://t.co/ODgIUUbnBR en @ForSubscribing\n\nSchrijft de OPEN nieuwsbrief voor nieuwsgierige cybersurfers.",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8976,
+			"friends_count": 427,
+			"listed_count": 578,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6193,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61712,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1585350879",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@gill_works Very!"
+	},
+	{
 		"created_at": "Thu Apr 23 07:15:28 +0000 2020",
 		"id": 1253220929884258300,
 		"id_str": "1253220929884258304",
