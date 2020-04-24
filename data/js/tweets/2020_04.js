@@ -1,6 +1,298 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Fri Apr 24 06:34:03 +0000 2020",
+		"id": 1253572898817802200,
+		"id_str": "1253572898817802240",
+		"full_text": "Prima dagstart. Voor het eerst weer drie keer in 1 week gelopen. Even pittig, wel de moeite waard. Opfrissen en knallen vandaag! https://t.co/nKrdCoT1uy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1253572891146403800,
+					"id_str": "1253572891146403841",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/EWWV5xzXQAE4oux.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWWV5xzXQAE4oux.jpg",
+					"url": "https://t.co/nKrdCoT1uy",
+					"display_url": "pic.twitter.com/nKrdCoT1uy",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1253572898817802240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1212,
+							"h": 1212,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1253572891146403800,
+					"id_str": "1253572891146403841",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/EWWV5xzXQAE4oux.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWWV5xzXQAE4oux.jpg",
+					"url": "https://t.co/nKrdCoT1uy",
+					"display_url": "pic.twitter.com/nKrdCoT1uy",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1253572898817802240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1212,
+							"h": 1212,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1253572891209318400,
+					"id_str": "1253572891209318401",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/EWWV5yCXQAECYF4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWWV5yCXQAECYF4.jpg",
+					"url": "https://t.co/nKrdCoT1uy",
+					"display_url": "pic.twitter.com/nKrdCoT1uy",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1253572898817802240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1253572891121156000,
+					"id_str": "1253572891121156096",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/EWWV5xtWAAAcPcL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWWV5xtWAAAcPcL.jpg",
+					"url": "https://t.co/nKrdCoT1uy",
+					"display_url": "pic.twitter.com/nKrdCoT1uy",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1253572898817802240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1212,
+							"h": 1212,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1253572891154813000,
+					"id_str": "1253572891154812929",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/EWWV5x1XkAECQ9E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWWV5x1XkAECQ9E.jpg",
+					"url": "https://t.co/nKrdCoT1uy",
+					"display_url": "pic.twitter.com/nKrdCoT1uy",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1253572898817802240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1212,
+							"h": 1212,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werkt bij @kaliberInteract\n\nBouwt zonder code aan https://t.co/ODgIUUbnBR en @ForSubscribing\n\nSchrijft de OPEN nieuwsbrief voor nieuwsgierige cybersurfers.",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8978,
+			"friends_count": 430,
+			"listed_count": 578,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6199,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61717,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1587661070",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Prima dagstart. Voor het eerst weer drie keer in 1 week gelopen. Even pittig, wel de moeite waard. Opfrissen en knallen vandaag! https://t.co/nKrdCoT1uy"
+	},
+	{
 		"created_at": "Thu Apr 23 21:44:49 +0000 2020",
 		"id": 1253439709919002600,
 		"id_str": "1253439709919002626",
