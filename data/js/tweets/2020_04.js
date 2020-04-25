@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sat Apr 25 05:23:16 +0000 2020",
+		"id": 1253831394733764600,
+		"id_str": "1253917473189105670",
+		"full_text": "https://t.co/UqWgK5rRnT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1253831392632373200,
+					"id_str": "1253831392632373249",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EWaBAi4WAAE5brF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWaBAi4WAAE5brF.jpg",
+					"url": "https://t.co/UqWgK5rRnT",
+					"display_url": "pic.twitter.com/UqWgK5rRnT",
+					"expanded_url": "https://twitter.com/demetriosns/status/1253831394733764609/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1253831392632373200,
+					"id_str": "1253831392632373249",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EWaBAi4WAAE5brF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWaBAi4WAAE5brF.jpg",
+					"url": "https://t.co/UqWgK5rRnT",
+					"display_url": "pic.twitter.com/UqWgK5rRnT",
+					"expanded_url": "https://twitter.com/demetriosns/status/1253831394733764609/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2445883256,
+			"id_str": "2445883256",
+			"name": "demetrios",
+			"screen_name": "demetriosns",
+			"location": " 🇨🇦",
+			"description": "#pearljam",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3902,
+			"friends_count": 4000,
+			"listed_count": 41,
+			"created_at": "Tue Apr 15 19:14:28 +0000 2014",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23435,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/964089175489351680/xBdqHMwd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/964089175489351680/xBdqHMwd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2445883256/1518692315",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 95,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/UqWgK5rRnT"
+	},
+	{
 		"created_at": "Fri Apr 24 18:29:24 +0000 2020",
 		"id": 1253752921877028900,
 		"id_str": "1253752921877028864",
@@ -252,7 +413,7 @@ Grailbird.data.tweets_2020_04 =
 				"name": "Jackie Singh 😷",
 				"screen_name": "find_evil",
 				"location": "New York, NY",
-				"description": "Cybersecurity Consultant/CEO at Spyglass Security. Iraq Veteran. Mother of 2. Partner to @0xBanana. Founder @HackingJobs. 🏳️‍🌈🏴‍☠️ Neutral Good. She/Her.",
+				"description": "Cybersecurity Consultant/CEO at Spyglass Security. Iraq Veteran. Mother of 2. Partner to @0xBanana. Founder @HackingJobs. 🏳️🌈🏴☠️ Neutral Good. She/Her.",
 				"url": "https://t.co/0u42m3DmvG",
 				"entities": {
 					"url": {
