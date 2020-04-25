@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sat Apr 25 17:43:02 +0000 2020",
+		"id": 1253970567834882000,
+		"id_str": "1254103638227791874",
+		"full_text": "my fave pop culture date, the one i post every year: happy light jacket day! https://t.co/QTlDnDVEfv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1253970563531452400,
+					"id_str": "1253970563531452416",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/EWb_lW4WsAA6Ti8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWb_lW4WsAA6Ti8.jpg",
+					"url": "https://t.co/QTlDnDVEfv",
+					"display_url": "pic.twitter.com/QTlDnDVEfv",
+					"expanded_url": "https://twitter.com/bimadew/status/1253970567834882051/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 543,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 543,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 543,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1253970563531452400,
+					"id_str": "1253970563531452416",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/EWb_lW4WsAA6Ti8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWb_lW4WsAA6Ti8.jpg",
+					"url": "https://t.co/QTlDnDVEfv",
+					"display_url": "pic.twitter.com/QTlDnDVEfv",
+					"expanded_url": "https://twitter.com/bimadew/status/1253970567834882051/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 543,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 543,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 543,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52037007,
+			"id_str": "52037007",
+			"name": "Bim Adewunmi",
+			"screen_name": "bimadew",
+			"location": "New York",
+			"description": "Radio producer @ThisAmerLife. Playwright (rep: @ITG_Ltd). Cohost @ThirstAidKit. British. Funny but—and I can't stress this enough—extremely hot. She/her.",
+			"url": "https://t.co/cTb5oJDBIr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cTb5oJDBIr",
+							"expanded_url": "http://tinyletter.com/bim",
+							"display_url": "tinyletter.com/bim",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 80376,
+			"friends_count": 1381,
+			"listed_count": 1173,
+			"created_at": "Mon Jun 29 12:09:13 +0000 2009",
+			"favourites_count": 414,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 130796,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1239418214397939712/yMnBaJH4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1239418214397939712/yMnBaJH4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52037007/1576551041",
+			"profile_link_color": "670211",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFAFF",
+			"profile_text_color": "140308",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7554,
+		"favorite_count": 20262,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "my fave pop culture date, the one i post every year: happy light jacket day! https://t.co/QTlDnDVEfv"
+	},
+	{
 		"created_at": "Sat Apr 25 14:44:48 +0000 2020",
 		"id": 1254058784860844000,
 		"id_str": "1254058784860844032",
