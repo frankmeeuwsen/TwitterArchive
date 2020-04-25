@@ -1,6 +1,315 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sat Apr 25 22:12:11 +0000 2020",
+		"id": 1254171372936364000,
+		"id_str": "1254171372936364032",
+		"full_text": "“The sky above the port was the color of television, tuned to a dead channel.\nAnd then the dragons arrived”\n\nWorks for me. https://t.co/OeceD5lscT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OeceD5lscT",
+					"expanded_url": "https://twitter.com/jg_writer/status/1253705650011541507",
+					"display_url": "twitter.com/jg_writer/stat…",
+					"indices": [
+						123,
+						146
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werkt bij @kaliberInteract\n\nBouwt zonder code aan https://t.co/ODgIUUbnBR en @ForSubscribing\n\nSchrijft de OPEN nieuwsbrief voor nieuwsgierige cybersurfers.",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8974,
+			"friends_count": 431,
+			"listed_count": 578,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6212,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61735,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1587661070",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1253705650011541500,
+		"quoted_status_id_str": "1253705650011541507",
+		"quoted_status_permalink": {
+			"url": "https://t.co/OeceD5lscT",
+			"expanded": "https://twitter.com/jg_writer/status/1253705650011541507",
+			"display": "twitter.com/jg_writer/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 24 15:21:34 +0000 2020",
+			"id": 1253705650011541500,
+			"id_str": "1253705650011541507",
+			"full_text": "Let's try this. Give me the opening line of a book, but add \"and then the dragons arrived.\" https://t.co/1J8O9ur8sa",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				91
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1253705639286767600,
+						"id_str": "1253705639286767620",
+						"indices": [
+							92,
+							115
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EWYOovKXgAQT0lw.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EWYOovKXgAQT0lw.jpg",
+						"url": "https://t.co/1J8O9ur8sa",
+						"display_url": "pic.twitter.com/1J8O9ur8sa",
+						"expanded_url": "https://twitter.com/JG_Writer/status/1253705650011541507/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 268,
+								"h": 150,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 268,
+								"h": 150,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 268,
+								"h": 150,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1253705639286767600,
+						"id_str": "1253705639286767620",
+						"indices": [
+							92,
+							115
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EWYOovKXgAQT0lw.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EWYOovKXgAQT0lw.jpg",
+						"url": "https://t.co/1J8O9ur8sa",
+						"display_url": "pic.twitter.com/1J8O9ur8sa",
+						"expanded_url": "https://twitter.com/JG_Writer/status/1253705650011541507/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 268,
+								"h": 150,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 268,
+								"h": 150,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 268,
+								"h": 150,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								134,
+								75
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/EWYOovKXgAQT0lw.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2851561402,
+				"id_str": "2851561402",
+				"name": "Josh Gauthier",
+				"screen_name": "JG_Writer",
+				"location": "Maine",
+				"description": "Playwright and speculative fiction writer.\n\nEverything is better with dragons.",
+				"url": "https://t.co/P1kupSmpvi",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/P1kupSmpvi",
+								"expanded_url": "http://joshgauthierwriter.com",
+								"display_url": "joshgauthierwriter.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 507,
+				"friends_count": 433,
+				"listed_count": 8,
+				"created_at": "Thu Oct 30 15:20:41 +0000 2014",
+				"favourites_count": 2879,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1160,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/895304025901551616/1c4ubWKY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/895304025901551616/1c4ubWKY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2851561402/1414685862",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1423,
+			"favorite_count": 6110,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“The sky above the port was the color of television, tuned to a dead channel.\nAnd then the dragons arrived”\n\nWorks for me. https://t.co/OeceD5lscT"
+	},
+	{
 		"created_at": "Sat Apr 25 17:43:02 +0000 2020",
 		"id": 1253970567834882000,
 		"id_str": "1254103638227791874",
