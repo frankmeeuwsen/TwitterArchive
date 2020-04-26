@@ -1,6 +1,214 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sun Apr 26 20:26:30 +0000 2020",
+		"id": 1254507167421476900,
+		"id_str": "1254507167421476866",
+		"full_text": "@TrustNobodycast Ik weet niet of jullie de aflevering al hebben gezien, maar mijn god wat is dit een van de beste seizoenen uit. Wat een mol, wat een serie, wat een ontknoping. Fantastisch. https://t.co/4tbMhJaWaP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TrustNobodycast",
+					"name": "Trust Nobody",
+					"id": 943435303846662100,
+					"id_str": "943435303846662144",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1254507158688981000,
+					"id_str": "1254507158688980999",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EWjnnTnXYAcJnZc.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EWjnnTnXYAcJnZc.jpg",
+					"url": "https://t.co/4tbMhJaWaP",
+					"display_url": "pic.twitter.com/4tbMhJaWaP",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1254507167421476866/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 208,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 208,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 208,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1254507158688981000,
+					"id_str": "1254507158688980999",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EWjnnTnXYAcJnZc.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EWjnnTnXYAcJnZc.jpg",
+					"url": "https://t.co/4tbMhJaWaP",
+					"display_url": "pic.twitter.com/4tbMhJaWaP",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1254507167421476866/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 208,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 208,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 208,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							125,
+							52
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EWjnnTnXYAcJnZc.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 943435303846662100,
+		"in_reply_to_user_id_str": "943435303846662144",
+		"in_reply_to_screen_name": "TrustNobodycast",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werkt bij @kaliberInteract\n\nBouwt zonder code aan https://t.co/ODgIUUbnBR en @ForSubscribing\n\nSchrijft de OPEN nieuwsbrief voor nieuwsgierige cybersurfers.",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8970,
+			"friends_count": 431,
+			"listed_count": 578,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6211,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61736,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1587661070",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@TrustNobodycast Ik weet niet of jullie de aflevering al hebben gezien, maar mijn god wat is dit een van de beste seizoenen uit. Wat een mol, wat een serie, wat een ontknoping. Fantastisch. https://t.co/4tbMhJaWaP"
+	},
+	{
 		"created_at": "Sat Apr 25 22:12:11 +0000 2020",
 		"id": 1254171372936364000,
 		"id_str": "1254171372936364032",
