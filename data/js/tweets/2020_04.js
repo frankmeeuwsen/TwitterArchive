@@ -1,6 +1,265 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Mon Apr 27 19:46:25 +0000 2020",
+		"id": 1254859465586872300,
+		"id_str": "1254859465586872327",
+		"full_text": "Een nieuwe week, een nieuwe nieuwsbrief! https://t.co/nTPEXkI0hh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nTPEXkI0hh",
+					"expanded_url": "https://twitter.com/ForSubscribing/status/1254858352116461568",
+					"display_url": "twitter.com/ForSubscribing…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werkt bij @kaliberInteract\n\nBouwt zonder code aan https://t.co/ODgIUUbnBR en @ForSubscribing\n\nSchrijft de OPEN nieuwsbrief voor nieuwsgierige cybersurfers.",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8971,
+			"friends_count": 431,
+			"listed_count": 578,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6213,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61738,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1587661070",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1254858352116461600,
+		"quoted_status_id_str": "1254858352116461568",
+		"quoted_status_permalink": {
+			"url": "https://t.co/nTPEXkI0hh",
+			"expanded": "https://twitter.com/ForSubscribing/status/1254858352116461568",
+			"display": "twitter.com/ForSubscribing…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 27 19:41:59 +0000 2020",
+			"id": 1254858352116461600,
+			"id_str": "1254858352116461568",
+			"full_text": "There's a new edition of Thanks For Subscribing News 📮\nThis edition is random, curated, interesting. And less is more! Courtesy of \n👾 The Land of Random\n🧭 All Things Curated\n🏹 @jspector\n🍏 @mindermaarbeter\n\nRead about it on https://t.co/ZCd08bzBuV (via @revue)",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				259
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "jspector",
+						"name": "Josh Spector",
+						"id": 15708823,
+						"id_str": "15708823",
+						"indices": [
+							176,
+							185
+						]
+					},
+					{
+						"screen_name": "mindermaarbeter",
+						"name": "Minder Maar Beter",
+						"id": 873879217603313700,
+						"id_str": "873879217603313664",
+						"indices": [
+							188,
+							204
+						]
+					},
+					{
+						"screen_name": "revue",
+						"name": "Revue",
+						"id": 3001165942,
+						"id_str": "3001165942",
+						"indices": [
+							252,
+							258
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/ZCd08bzBuV",
+						"expanded_url": "https://www.getrevue.co/profile/thanksforsubscribing/archive/242389",
+						"display_url": "getrevue.co/profile/thanks…",
+						"indices": [
+							223,
+							246
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.getrevue.co\" rel=\"nofollow\">Revue</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1221904161492566000,
+				"id_str": "1221904161492566016",
+				"name": "Thanks for Subscribing",
+				"screen_name": "ForSubscribing",
+				"location": "",
+				"description": "Make your inbox happy again and check out the best newsletters from the Netherlands and elsewhere!",
+				"url": "https://t.co/EUi1JLKpnL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/EUi1JLKpnL",
+								"expanded_url": "https://thanksforsubscribing.app",
+								"display_url": "thanksforsubscribing.app",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 15,
+				"friends_count": 31,
+				"listed_count": 0,
+				"created_at": "Mon Jan 27 21:14:06 +0000 2020",
+				"favourites_count": 5,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 36,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1221904344695656448/Z2Gu1jee_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1221904344695656448/Z2Gu1jee_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1221904161492566016/1583179606",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Een nieuwe week, een nieuwe nieuwsbrief! https://t.co/nTPEXkI0hh"
+	},
+	{
 		"created_at": "Mon Apr 27 07:52:24 +0000 2020",
 		"id": 1254679777010647000,
 		"id_str": "1254679777010647041",
