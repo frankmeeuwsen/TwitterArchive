@@ -1,6 +1,352 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Tue Apr 28 06:43:20 +0000 2020",
+		"id": 1255024786075455500,
+		"id_str": "1255024786075455489",
+		"full_text": "De dag begint goed! https://t.co/HAIghLoMPx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HAIghLoMPx",
+					"expanded_url": "https://twitter.com/vpro/status/1255013878313807878",
+					"display_url": "twitter.com/vpro/status/12…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werkt bij @kaliberInteract\n\nBouwt zonder code aan https://t.co/ODgIUUbnBR en @ForSubscribing\n\nSchrijft de OPEN nieuwsbrief voor nieuwsgierige cybersurfers.",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8969,
+			"friends_count": 431,
+			"listed_count": 578,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61740,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1587661070",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1255013878313808000,
+		"quoted_status_id_str": "1255013878313807878",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HAIghLoMPx",
+			"expanded": "https://twitter.com/vpro/status/1255013878313807878",
+			"display": "twitter.com/vpro/status/12…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 28 06:00:00 +0000 2020",
+			"id": 1255013878313808000,
+			"id_str": "1255013878313807878",
+			"full_text": "Achterwerk in de kast is terug! De formule is nog even simpel als vroeger: een verhaal in een kast achter een gordijntje. Vandaag vertelt @RubenTerlou over zijn nieuwe puppy Kapitein. Ook iets te vertellen? Stuur dan je eigen #Achterwerkindekast op via https://t.co/PJ9hUF0dSA https://t.co/DRUcw0E04h",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				276
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Achterwerkindekast",
+						"indices": [
+							226,
+							245
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "RubenTerlou",
+						"name": "Ruben Terlou",
+						"id": 3298387058,
+						"id_str": "3298387058",
+						"indices": [
+							138,
+							150
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/PJ9hUF0dSA",
+						"expanded_url": "http://vpro.nl/achterwerk",
+						"display_url": "vpro.nl/achterwerk",
+						"indices": [
+							253,
+							276
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1253259859199484000,
+						"id_str": "1253259859199483904",
+						"indices": [
+							277,
+							300
+						],
+						"media_url": "http://pbs.twimg.com/media/EWR69jgWsAA4qSW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EWR69jgWsAA4qSW.jpg",
+						"url": "https://t.co/DRUcw0E04h",
+						"display_url": "pic.twitter.com/DRUcw0E04h",
+						"expanded_url": "https://twitter.com/vpro/status/1255013878313807878/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1253259859199484000,
+						"id_str": "1253259859199483904",
+						"indices": [
+							277,
+							300
+						],
+						"media_url": "http://pbs.twimg.com/media/EWR69jgWsAA4qSW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EWR69jgWsAA4qSW.jpg",
+						"url": "https://t.co/DRUcw0E04h",
+						"display_url": "pic.twitter.com/DRUcw0E04h",
+						"expanded_url": "https://twitter.com/vpro/status/1255013878313807878/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								4,
+								3
+							],
+							"duration_millis": 212320,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1253259859199483904/pl/3pqYxhdVzn_NKEbC.m3u8?tag=13"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1253259859199483904/vid/960x720/sbFyskJhvtEbWuY_.mp4?tag=13"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1253259859199483904/vid/480x360/R21Bw8pviNa7XiCN.mp4?tag=13"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1253259859199483904/vid/360x270/0SS-gF2J46yK6eA9.mp4?tag=13"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 7348632,
+				"id_str": "7348632",
+				"name": "vpro",
+				"screen_name": "vpro",
+				"location": "Hilversum Netherlands",
+				"description": "#VPRO | Grensverkenners sinds 1926 Bakermat van o.a. @zondagmetlubach #zml, @VPROTegenlicht, #InEuropa, @VPRO_mondo en #100dagenvoordeklas",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 52486,
+				"friends_count": 966,
+				"listed_count": 735,
+				"created_at": "Mon Jul 09 15:02:51 +0000 2007",
+				"favourites_count": 19100,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 21600,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1184030001253011457/P0w4oSLa_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184030001253011457/P0w4oSLa_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/7348632/1571129726",
+				"profile_link_color": "FF0D00",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "00AAFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 26,
+			"favorite_count": 71,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "De dag begint goed! https://t.co/HAIghLoMPx"
+	},
+	{
 		"created_at": "Mon Apr 27 19:46:25 +0000 2020",
 		"id": 1254859465586872300,
 		"id_str": "1254859465586872327",
