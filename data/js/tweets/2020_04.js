@@ -1,6 +1,188 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 29 13:52:41 +0000 2020",
+		"id": 1255454024721223700,
+		"id_str": "1255495223683186695",
+		"full_text": "https://t.co/ViWq6vLk6S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1255454012238966800,
+					"id_str": "1255454012238966786",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1255454012238966786/pu/img/l8fThMWPDyemLILJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1255454012238966786/pu/img/l8fThMWPDyemLILJ.jpg",
+					"url": "https://t.co/ViWq6vLk6S",
+					"display_url": "pic.twitter.com/ViWq6vLk6S",
+					"expanded_url": "https://twitter.com/Shitty_Future/status/1255454024721223680/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 278,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 278,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 278,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1255454012238966800,
+					"id_str": "1255454012238966786",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1255454012238966786/pu/img/l8fThMWPDyemLILJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1255454012238966786/pu/img/l8fThMWPDyemLILJ.jpg",
+					"url": "https://t.co/ViWq6vLk6S",
+					"display_url": "pic.twitter.com/ViWq6vLk6S",
+					"expanded_url": "https://twitter.com/Shitty_Future/status/1255454024721223680/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 278,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 278,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 278,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							250,
+							139
+						],
+						"duration_millis": 1828,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1255454012238966786/pu/pl/u2FIYp6eg0u0lZpK.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1255454012238966786/pu/vid/500x278/rT5EGcQKyciKoyY0.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4727899720,
+			"id_str": "4727899720",
+			"name": "Shitty Future",
+			"screen_name": "Shitty_Future",
+			"location": "",
+			"description": "The future we deserve",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61656,
+			"friends_count": 6,
+			"listed_count": 579,
+			"created_at": "Wed Jan 06 20:18:07 +0000 2016",
+			"favourites_count": 72,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 718,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/684836317553901572/KTsgdTN1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/684836317553901572/KTsgdTN1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4727899720/1487705219",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 145,
+		"favorite_count": 535,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/ViWq6vLk6S"
+	},
+	{
 		"created_at": "Tue Apr 28 22:13:14 +0000 2020",
 		"id": 1255258803387449300,
 		"id_str": "1255258803387449347",
