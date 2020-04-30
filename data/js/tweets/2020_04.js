@@ -1,6 +1,410 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 30 08:25:09 +0000 2020",
+		"id": 1255775181630513200,
+		"id_str": "1255775181630513157",
+		"full_text": "NewRetroWave/Outrun to the fullest! https://t.co/TsEqSEmshD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TsEqSEmshD",
+					"expanded_url": "https://twitter.com/sdbcraig/status/1255662896039686145",
+					"display_url": "twitter.com/sdbcraig/statu…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werkt bij @kaliberInteract\n\nBouwt zonder code aan https://t.co/ODgIUUbnBR en @ForSubscribing\n\nSchrijft de OPEN nieuwsbrief voor nieuwsgierige cybersurfers.",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8971,
+			"friends_count": 433,
+			"listed_count": 579,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6227,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61750,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1587661070",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1255662896039686100,
+		"quoted_status_id_str": "1255662896039686145",
+		"quoted_status_permalink": {
+			"url": "https://t.co/TsEqSEmshD",
+			"expanded": "https://twitter.com/sdbcraig/status/1255662896039686145",
+			"display": "twitter.com/sdbcraig/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 30 00:58:58 +0000 2020",
+			"id": 1255662896039686100,
+			"id_str": "1255662896039686145",
+			"full_text": "These Reuters photos of a strip club in Oregon operating as a drive through takeaway service confirm that we have reached the neon anime sci fi part of our future dystopia. https://t.co/kRKOVz5CWE",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				172
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1255662536982065200,
+						"id_str": "1255662536982065152",
+						"indices": [
+							173,
+							196
+						],
+						"media_url": "http://pbs.twimg.com/media/EW0CbLKU8AAJhHw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EW0CbLKU8AAJhHw.jpg",
+						"url": "https://t.co/kRKOVz5CWE",
+						"display_url": "pic.twitter.com/kRKOVz5CWE",
+						"expanded_url": "https://twitter.com/sdbcraig/status/1255662896039686145/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1974,
+								"h": 1390,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 479,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 845,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1255662536982065200,
+						"id_str": "1255662536982065152",
+						"indices": [
+							173,
+							196
+						],
+						"media_url": "http://pbs.twimg.com/media/EW0CbLKU8AAJhHw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EW0CbLKU8AAJhHw.jpg",
+						"url": "https://t.co/kRKOVz5CWE",
+						"display_url": "pic.twitter.com/kRKOVz5CWE",
+						"expanded_url": "https://twitter.com/sdbcraig/status/1255662896039686145/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1974,
+								"h": 1390,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 479,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 845,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1255662606771052500,
+						"id_str": "1255662606771052545",
+						"indices": [
+							173,
+							196
+						],
+						"media_url": "http://pbs.twimg.com/media/EW0CfPJUYAErJ-_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EW0CfPJUYAErJ-_.jpg",
+						"url": "https://t.co/kRKOVz5CWE",
+						"display_url": "pic.twitter.com/kRKOVz5CWE",
+						"expanded_url": "https://twitter.com/sdbcraig/status/1255662896039686145/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 834,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 473,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1979,
+								"h": 1376,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1255662654586122200,
+						"id_str": "1255662654586122240",
+						"indices": [
+							173,
+							196
+						],
+						"media_url": "http://pbs.twimg.com/media/EW0CiBRUcAAXtkv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EW0CiBRUcAAXtkv.jpg",
+						"url": "https://t.co/kRKOVz5CWE",
+						"display_url": "pic.twitter.com/kRKOVz5CWE",
+						"expanded_url": "https://twitter.com/sdbcraig/status/1255662896039686145/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 835,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1987,
+								"h": 1382,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 473,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1255662699746218000,
+						"id_str": "1255662699746217984",
+						"indices": [
+							173,
+							196
+						],
+						"media_url": "http://pbs.twimg.com/media/EW0CkpgU0AAaf_O.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EW0CkpgU0AAaf_O.jpg",
+						"url": "https://t.co/kRKOVz5CWE",
+						"display_url": "pic.twitter.com/kRKOVz5CWE",
+						"expanded_url": "https://twitter.com/sdbcraig/status/1255662896039686145/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 842,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 477,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1981,
+								"h": 1390,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2937436447,
+				"id_str": "2937436447",
+				"name": "Sean Craig",
+				"screen_name": "sdbcraig",
+				"location": "Vancouver Island",
+				"description": "Reporter at The Capital, a thing that covers politics, business, crime and things in Victoria and the Capital Regional District. sean@capnews.ca",
+				"url": "https://t.co/2pTEoRKY1j",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2pTEoRKY1j",
+								"expanded_url": "https://www.capnews.ca/",
+								"display_url": "capnews.ca",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9009,
+				"friends_count": 1366,
+				"listed_count": 171,
+				"created_at": "Sat Dec 20 19:28:01 +0000 2014",
+				"favourites_count": 21789,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 12938,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1180192804561195008/1ixrZFYd_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1180192804561195008/1ixrZFYd_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2937436447/1569982869",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7342,
+			"favorite_count": 21697,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NewRetroWave/Outrun to the fullest! https://t.co/TsEqSEmshD"
+	},
+	{
 		"created_at": "Thu Apr 30 08:19:48 +0000 2020",
 		"id": 1255773838459179000,
 		"id_str": "1255773838459179008",
