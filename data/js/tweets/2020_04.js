@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 30 19:14:05 +0000 2020",
+		"id": 1255789042555379700,
+		"id_str": "1255938493634826241",
+		"full_text": "Door het coronavirus gaan veel dingen anders dan normaal, zo ook de Dodenherdenking op de Dam. Ieder jaar vormen veteranen een erecouloir van het Paleis tot aan het monument. Dit jaar kan dat helaas niet doorgaan.\nDaarom: een digitale versie op https://t.co/Igoa5xwHp5 (1/2)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Igoa5xwHp5",
+					"expanded_url": "http://veteraneninstituut.nl/erecouloir-2020",
+					"display_url": "veteraneninstituut.nl/erecouloir-2020",
+					"indices": [
+						245,
+						268
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10932162,
+			"id_str": "10932162",
+			"name": "Kaliber",
+			"screen_name": "Kaliberinteract",
+			"location": "Utrecht",
+			"description": "Kaliber. Digitaal bureau dat strategie, creativiteit en technologie combineert om mensen te activeren.",
+			"url": "http://t.co/0uBteIkGBt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/0uBteIkGBt",
+							"expanded_url": "http://www.kaliber.net",
+							"display_url": "kaliber.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1991,
+			"friends_count": 924,
+			"listed_count": 115,
+			"created_at": "Fri Dec 07 10:50:24 +0000 2007",
+			"favourites_count": 353,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3112,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1161285822311800834/ZPAmW_UZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1161285822311800834/ZPAmW_UZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10932162/1553791951",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Door het coronavirus gaan veel dingen anders dan normaal, zo ook de Dodenherdenking op de Dam. Ieder jaar vormen veteranen een erecouloir van het Paleis tot aan het monument. Dit jaar kan dat helaas niet doorgaan.\nDaarom: een digitale versie op https://t.co/Igoa5xwHp5 (1/2)"
+	},
+	{
 		"created_at": "Thu Apr 30 17:28:43 +0000 2020",
 		"id": 1255911977802772500,
 		"id_str": "1255911977802772480",
