@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sun May 03 08:09:13 +0000 2020",
+		"id": 1256858338417086500,
+		"id_str": "1256858338417086464",
+		"full_text": "@ChageNijn Ongeveer hetzelfde:-) https://t.co/NVnPNAZKO6",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ChageNijn",
+					"name": "Chagenijn",
+					"id": 2428444990,
+					"id_str": "2428444990",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1256858334067638300,
+					"id_str": "1256858334067638272",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/EXFB_ucXQAACgRx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXFB_ucXQAACgRx.jpg",
+					"url": "https://t.co/NVnPNAZKO6",
+					"display_url": "pic.twitter.com/NVnPNAZKO6",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1256858338417086464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1212,
+							"h": 1212,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1256858334067638300,
+					"id_str": "1256858334067638272",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/EXFB_ucXQAACgRx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXFB_ucXQAACgRx.jpg",
+					"url": "https://t.co/NVnPNAZKO6",
+					"display_url": "pic.twitter.com/NVnPNAZKO6",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1256858338417086464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1212,
+							"h": 1212,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1256838892386484200,
+		"in_reply_to_status_id_str": "1256838892386484224",
+		"in_reply_to_user_id": 2428444990,
+		"in_reply_to_user_id_str": "2428444990",
+		"in_reply_to_screen_name": "ChageNijn",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werkt bij @kaliberInteract\n\nBouwt zonder code aan https://t.co/ODgIUUbnBR en @ForSubscribing\n\nSchrijft de OPEN nieuwsbrief voor nieuwsgierige cybersurfers.",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8968,
+			"friends_count": 436,
+			"listed_count": 579,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6244,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61764,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1587661070",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@ChageNijn Ongeveer hetzelfde:-) https://t.co/NVnPNAZKO6"
+	},
+	{
 		"created_at": "Sat May 02 19:12:03 +0000 2020",
 		"id": 1256662757270859800,
 		"id_str": "1256662757270859776",
