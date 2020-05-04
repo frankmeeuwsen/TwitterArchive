@@ -1,6 +1,122 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Mon May 04 08:28:00 +0000 2020",
+		"id": 1257225451891802000,
+		"id_str": "1257225451891802112",
+		"full_text": "@boerdeboer Ik kan je er in coachen als je wilt. Of klik hier voor mijn 10-delige ecourse met gratis ebook en community vol gelijkgestemden! ;-)",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "boerdeboer",
+					"name": "boerdeboer -",
+					"id": 11798112,
+					"id_str": "11798112",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1257216189362770000,
+		"in_reply_to_status_id_str": "1257216189362769922",
+		"in_reply_to_user_id": 11798112,
+		"in_reply_to_user_id_str": "11798112",
+		"in_reply_to_screen_name": "boerdeboer",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werkt bij @kaliberInteract\n\nBouwt zonder code aan https://t.co/ODgIUUbnBR en @ForSubscribing\n\nSchrijft de OPEN nieuwsbrief voor nieuwsgierige cybersurfers.",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8964,
+			"friends_count": 436,
+			"listed_count": 579,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6252,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61774,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1587661070",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@boerdeboer Ik kan je er in coachen als je wilt. Of klik hier voor mijn 10-delige ecourse met gratis ebook en community vol gelijkgestemden! ;-)"
+	},
+	{
 		"created_at": "Mon May 04 07:26:03 +0000 2020",
 		"id": 1257209859562516500,
 		"id_str": "1257209859562516481",
