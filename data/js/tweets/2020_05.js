@@ -1,6 +1,352 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Thu May 07 15:40:43 +0000 2020",
+		"id": 1258421512396255200,
+		"id_str": "1258421512396255232",
+		"full_text": "Mediacourant bericht: Lubach heeft zin in een nieuwe omroep. https://t.co/75y4Lgdbe7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/75y4Lgdbe7",
+					"expanded_url": "https://twitter.com/arjenlubach/status/1258396167207075842",
+					"display_url": "twitter.com/arjenlubach/st…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werkt bij @kaliberInteract\n\nBouwt zonder code aan https://t.co/ODgIUUbnBR en @ForSubscribing\n\nSchrijft de OPEN nieuwsbrief voor nieuwsgierige cybersurfers.",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8962,
+			"friends_count": 441,
+			"listed_count": 579,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6265,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61799,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1587661070",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1258396167207075800,
+		"quoted_status_id_str": "1258396167207075842",
+		"quoted_status_permalink": {
+			"url": "https://t.co/75y4Lgdbe7",
+			"expanded": "https://twitter.com/arjenlubach/status/1258396167207075842",
+			"display": "twitter.com/arjenlubach/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 07 14:00:00 +0000 2020",
+			"id": 1258396167207075800,
+			"id_str": "1258396167207075842",
+			"full_text": "Zoveel zin in deze nieuwe omroep. https://t.co/FXZPGvfCJb",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				33
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1258396126979522600,
+						"id_str": "1258396126979522561",
+						"indices": [
+							34,
+							57
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1258396126979522561/pu/img/RlVKKZIu-eCQJMQQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1258396126979522561/pu/img/RlVKKZIu-eCQJMQQ.jpg",
+						"url": "https://t.co/FXZPGvfCJb",
+						"display_url": "pic.twitter.com/FXZPGvfCJb",
+						"expanded_url": "https://twitter.com/arjenlubach/status/1258396167207075842/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1258396126979522600,
+						"id_str": "1258396126979522561",
+						"indices": [
+							34,
+							57
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1258396126979522561/pu/img/RlVKKZIu-eCQJMQQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1258396126979522561/pu/img/RlVKKZIu-eCQJMQQ.jpg",
+						"url": "https://t.co/FXZPGvfCJb",
+						"display_url": "pic.twitter.com/FXZPGvfCJb",
+						"expanded_url": "https://twitter.com/arjenlubach/status/1258396167207075842/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 55261,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1258396126979522561/pu/pl/N4yat292JjTNW3wG.m3u8?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1258396126979522561/pu/vid/640x360/4_MY7RibHN9d--Vf.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1258396126979522561/pu/vid/1280x720/ndVD5QapfQkJrh-V.mp4?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1258396126979522561/pu/vid/480x270/uLfrGV7ZDr6GyRuH.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14210251,
+				"id_str": "14210251",
+				"name": "Arjen H. Lubach | arjenlubach.nl",
+				"screen_name": "arjenlubach",
+				"location": "Amsterdam",
+				"description": "1.85m | Joker on tv | writer | stream my show: https://t.co/UeFJ4TDXUD | https://t.co/JvcKOO8RaH #zml |",
+				"url": "https://t.co/Hxxr8lfBlf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Hxxr8lfBlf",
+								"expanded_url": "https://lubach.lnk.to/BeterInBed",
+								"display_url": "lubach.lnk.to/BeterInBed",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/UeFJ4TDXUD",
+								"expanded_url": "http://ArjenLubach.nl",
+								"display_url": "ArjenLubach.nl",
+								"indices": [
+									47,
+									70
+								]
+							},
+							{
+								"url": "https://t.co/JvcKOO8RaH",
+								"expanded_url": "http://Instagram.com/arjenlubach",
+								"display_url": "Instagram.com/arjenlubach",
+								"indices": [
+									73,
+									96
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 303247,
+				"friends_count": 1380,
+				"listed_count": 698,
+				"created_at": "Mon Mar 24 20:03:01 +0000 2008",
+				"favourites_count": 15029,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 15215,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "739BFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1036205155186814976/BsQjz-gA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1036205155186814976/BsQjz-gA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14210251/1554713161",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 37,
+			"favorite_count": 511,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Mediacourant bericht: Lubach heeft zin in een nieuwe omroep. https://t.co/75y4Lgdbe7"
+	},
+	{
 		"created_at": "Thu May 07 13:35:06 +0000 2020",
 		"id": 1258389899377508400,
 		"id_str": "1258389899377508352",
