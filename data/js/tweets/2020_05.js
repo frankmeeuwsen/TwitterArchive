@@ -1,6 +1,294 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Fri May 08 05:23:06 +0000 2020",
+		"id": 1258628472097947600,
+		"id_str": "1258628472097947650",
+		"full_text": "Dank je @michielrutjes om dit aan te kaarten en een interessant antwoord van Roam. Ik ben benieuwd of het $15 per maand waard gaat zijn... https://t.co/li2st7ddZy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "michielrutjes",
+					"name": "Michiel Rutjes",
+					"id": 39232470,
+					"id_str": "39232470",
+					"indices": [
+						8,
+						22
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/li2st7ddZy",
+					"expanded_url": "https://twitter.com/roamresearch/status/1258546262636294144",
+					"display_url": "twitter.com/roamresearch/s…",
+					"indices": [
+						139,
+						162
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werkt bij @kaliberInteract\n\nBouwt zonder code aan https://t.co/ODgIUUbnBR en @ForSubscribing\n\nSchrijft de OPEN nieuwsbrief voor nieuwsgierige cybersurfers.",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8961,
+			"friends_count": 446,
+			"listed_count": 579,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6268,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61802,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1587661070",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1258546262636294100,
+		"quoted_status_id_str": "1258546262636294144",
+		"quoted_status_permalink": {
+			"url": "https://t.co/li2st7ddZy",
+			"expanded": "https://twitter.com/roamresearch/status/1258546262636294144",
+			"display": "twitter.com/roamresearch/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 07 23:56:26 +0000 2020",
+			"id": 1258546262636294100,
+			"id_str": "1258546262636294144",
+			"full_text": "@michielrutjes @joshcpm @RoamBrain @roamtips @evernote @NotionHQ OCR is definitely on the roadmap.\n\nSo is web clipper.\n\nSo is Evernote Import wizard to help you process the massive dump and restructure it into something useful.",
+			"truncated": false,
+			"display_text_range": [
+				65,
+				227
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "michielrutjes",
+						"name": "Michiel Rutjes",
+						"id": 39232470,
+						"id_str": "39232470",
+						"indices": [
+							0,
+							14
+						]
+					},
+					{
+						"screen_name": "joshcpm",
+						"name": "Joshua",
+						"id": 1036311242,
+						"id_str": "1036311242",
+						"indices": [
+							15,
+							23
+						]
+					},
+					{
+						"screen_name": "RoamBrain",
+						"name": "RoamBrain",
+						"id": 1230855491959632000,
+						"id_str": "1230855491959631872",
+						"indices": [
+							24,
+							34
+						]
+					},
+					{
+						"screen_name": "roamtips",
+						"name": "Roam Tips",
+						"id": 1254512747951394800,
+						"id_str": "1254512747951394816",
+						"indices": [
+							35,
+							44
+						]
+					},
+					{
+						"screen_name": "evernote",
+						"name": "Evernote",
+						"id": 13837292,
+						"id_str": "13837292",
+						"indices": [
+							45,
+							54
+						]
+					},
+					{
+						"screen_name": "NotionHQ",
+						"name": "Notion",
+						"id": 708915428454576100,
+						"id_str": "708915428454576128",
+						"indices": [
+							55,
+							64
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1258331608475676700,
+			"in_reply_to_status_id_str": "1258331608475676673",
+			"in_reply_to_user_id": 39232470,
+			"in_reply_to_user_id_str": "39232470",
+			"in_reply_to_screen_name": "michielrutjes",
+			"user": {
+				"id": 1190410678273626000,
+				"id_str": "1190410678273626113",
+				"name": "Roam Research",
+				"screen_name": "RoamResearch",
+				"location": "",
+				"description": "A notes tool for networked thoughts",
+				"url": "https://t.co/ps6PO2Q1KJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ps6PO2Q1KJ",
+								"expanded_url": "https://roamresearch.com",
+								"display_url": "roamresearch.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 16078,
+				"friends_count": 118,
+				"listed_count": 248,
+				"created_at": "Fri Nov 01 23:30:13 +0000 2019",
+				"favourites_count": 4980,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2017,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1190413427602313216/7DPyuacJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1190413427602313216/7DPyuacJ_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 20,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Dank je @michielrutjes om dit aan te kaarten en een interessant antwoord van Roam. Ik ben benieuwd of het $15 per maand waard gaat zijn... https://t.co/li2st7ddZy"
+	},
+	{
 		"created_at": "Fri May 08 05:16:45 +0000 2020",
 		"id": 1258626873275408400,
 		"id_str": "1258626873275408384",
