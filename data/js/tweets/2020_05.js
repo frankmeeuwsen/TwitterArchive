@@ -1,6 +1,351 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Fri May 08 05:16:45 +0000 2020",
+		"id": 1258626873275408400,
+		"id_str": "1258626873275408384",
+		"full_text": "Mee eens, een aanrader voor nieuwsbrief-auteurs. Tjokvol tips en links naar meer inizchten. https://t.co/JgUZuzV7QJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JgUZuzV7QJ",
+					"expanded_url": "https://twitter.com/revue/status/1258413786777694212",
+					"display_url": "twitter.com/revue/status/1…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werkt bij @kaliberInteract\n\nBouwt zonder code aan https://t.co/ODgIUUbnBR en @ForSubscribing\n\nSchrijft de OPEN nieuwsbrief voor nieuwsgierige cybersurfers.",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8961,
+			"friends_count": 445,
+			"listed_count": 579,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6268,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61801,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1587661070",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1258413786777694200,
+		"quoted_status_id_str": "1258413786777694212",
+		"quoted_status_permalink": {
+			"url": "https://t.co/JgUZuzV7QJ",
+			"expanded": "https://twitter.com/revue/status/1258413786777694212",
+			"display": "twitter.com/revue/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 07 15:10:01 +0000 2020",
+			"id": 1258413786777694200,
+			"id_str": "1258413786777694212",
+			"full_text": "We're big fans of @ryansager's \"Newspackr: For Media Makers\" newsletter. And this week's issue on list growth is definitely a must read for newsletter authors.\n\nhttps://t.co/MneN1UvoYu https://t.co/f5hr9Gouxa",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				184
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ryansager",
+						"name": "Ryan Sager",
+						"id": 15473429,
+						"id_str": "15473429",
+						"indices": [
+							18,
+							28
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/MneN1UvoYu",
+						"expanded_url": "https://www.getrevue.co/profile/newspackr/issues/ok-here-are-5-smart-ways-to-grow-your-email-list-244884",
+						"display_url": "getrevue.co/profile/newspa…",
+						"indices": [
+							161,
+							184
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1258413785339043800,
+						"id_str": "1258413785339043843",
+						"indices": [
+							185,
+							208
+						],
+						"media_url": "http://pbs.twimg.com/media/EXbIq5-WoAMAQCO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EXbIq5-WoAMAQCO.jpg",
+						"url": "https://t.co/f5hr9Gouxa",
+						"display_url": "pic.twitter.com/f5hr9Gouxa",
+						"expanded_url": "https://twitter.com/revue/status/1258413786777694212/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 600,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 600,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1258413785339043800,
+						"id_str": "1258413785339043843",
+						"indices": [
+							185,
+							208
+						],
+						"media_url": "http://pbs.twimg.com/media/EXbIq5-WoAMAQCO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EXbIq5-WoAMAQCO.jpg",
+						"url": "https://t.co/f5hr9Gouxa",
+						"display_url": "pic.twitter.com/f5hr9Gouxa",
+						"expanded_url": "https://twitter.com/revue/status/1258413786777694212/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 600,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 600,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3001165942,
+				"id_str": "3001165942",
+				"name": "Revue",
+				"screen_name": "revue",
+				"location": "Amsterdam, The Netherlands",
+				"description": "An editorial newsletter tool for writers and publishers.\n\nBlog: https://t.co/Z7HNONmzVk\nNewsletter: https://t.co/KbR3DUZDUK\nJoin our team: https://t.co/hL5sooIezn",
+				"url": "https://t.co/2IxuZmOe9A",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2IxuZmOe9A",
+								"expanded_url": "http://www.getrevue.co",
+								"display_url": "getrevue.co",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Z7HNONmzVk",
+								"expanded_url": "http://blog.getrevue.co",
+								"display_url": "blog.getrevue.co",
+								"indices": [
+									64,
+									87
+								]
+							},
+							{
+								"url": "https://t.co/KbR3DUZDUK",
+								"expanded_url": "http://the-week-in-newsletters.getrevue.co",
+								"display_url": "the-week-in-newsletters.getrevue.co",
+								"indices": [
+									100,
+									123
+								]
+							},
+							{
+								"url": "https://t.co/hL5sooIezn",
+								"expanded_url": "http://revue.homerun.co",
+								"display_url": "revue.homerun.co",
+								"indices": [
+									139,
+									162
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 7678,
+				"friends_count": 3947,
+				"listed_count": 327,
+				"created_at": "Tue Jan 27 10:07:33 +0000 2015",
+				"favourites_count": 10843,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3281,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E15718",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/652478352020914176/8tdT4efM_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/652478352020914176/8tdT4efM_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3001165942/1446202117",
+				"profile_link_color": "E15718",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Mee eens, een aanrader voor nieuwsbrief-auteurs. Tjokvol tips en links naar meer inizchten. https://t.co/JgUZuzV7QJ"
+	},
+	{
 		"created_at": "Thu May 07 20:20:18 +0000 2020",
 		"id": 1258491871124471800,
 		"id_str": "1258491871124471809",
