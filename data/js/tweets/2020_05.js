@@ -1,6 +1,353 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sat May 09 19:36:40 +0000 2020",
+		"id": 1259205665744138200,
+		"id_str": "1259205665744138240",
+		"full_text": "Er zou geen seizoen zes van Black Mirror komen zeiden ze. Ze vergaten er bij te vertellen dat het een reality show zou worden... https://t.co/6Bvn0ZaBC5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6Bvn0ZaBC5",
+					"expanded_url": "https://twitter.com/ggreenwald/status/1258797162684653568",
+					"display_url": "twitter.com/ggreenwald/sta…",
+					"indices": [
+						129,
+						152
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werkt bij @kaliberInteract\n\nBouwt zonder code aan https://t.co/ODgIUUbnBR en @ForSubscribing\n\nSchrijft de OPEN nieuwsbrief voor nieuwsgierige cybersurfers.",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8960,
+			"friends_count": 447,
+			"listed_count": 577,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6280,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61814,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1587661070",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1258797162684653600,
+		"quoted_status_id_str": "1258797162684653568",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6Bvn0ZaBC5",
+			"expanded": "https://twitter.com/ggreenwald/status/1258797162684653568",
+			"display": "twitter.com/ggreenwald/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 08 16:33:25 +0000 2020",
+			"id": 1258797162684653600,
+			"id_str": "1258797162684653568",
+			"full_text": "One of the creepiest and most dystopian things I've seen since the pandemic began: a terrifying camera-equipped remote-controlled robot patrols Bishan-Ang Mo Kio Park in Singapore to -- for now -- warn about social distancing. Look at the fear. Story: https://t.co/12QfT1mcyZ https://t.co/hBGUhmC7N7",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				275
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/12QfT1mcyZ",
+						"expanded_url": "https://www.straitstimes.com/singapore/robot-reminds-visitors-about-safe-distancing-measures-in-bishan-ang-mo-kio-park",
+						"display_url": "straitstimes.com/singapore/robo…",
+						"indices": [
+							252,
+							275
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1258796994648322000,
+						"id_str": "1258796994648322054",
+						"indices": [
+							276,
+							299
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1258796994648322054/pu/img/Bp9x08so37Czb_A7.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1258796994648322054/pu/img/Bp9x08so37Czb_A7.jpg",
+						"url": "https://t.co/hBGUhmC7N7",
+						"display_url": "pic.twitter.com/hBGUhmC7N7",
+						"expanded_url": "https://twitter.com/ggreenwald/status/1258797162684653568/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 669,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 714,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 379,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1258796994648322000,
+						"id_str": "1258796994648322054",
+						"indices": [
+							276,
+							299
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1258796994648322054/pu/img/Bp9x08so37Czb_A7.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1258796994648322054/pu/img/Bp9x08so37Czb_A7.jpg",
+						"url": "https://t.co/hBGUhmC7N7",
+						"display_url": "pic.twitter.com/hBGUhmC7N7",
+						"expanded_url": "https://twitter.com/ggreenwald/status/1258797162684653568/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 669,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 714,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 379,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								640,
+								357
+							],
+							"duration_millis": 38966,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1258796994648322054/pu/vid/644x360/PDgtWeiQPe4U21ck.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1258796994648322054/pu/pl/ZvmGVQhbPbiXE1fG.m3u8?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1258796994648322054/pu/vid/1280x714/yfr8_eGidtPU0HC2.mp4?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1258796994648322054/pu/vid/484x270/yV9eENMD5VflzvO8.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16076032,
+				"id_str": "16076032",
+				"name": "Glenn Greenwald",
+				"screen_name": "ggreenwald",
+				"location": "",
+				"description": "Journalist @TheIntercept; author, No Place to Hide; animal fanatic; HOPE (https://t.co/RTpovVrBZ0); vegan; IG: Glenn.11.Greenwald",
+				"url": "https://t.co/uIEpel7tjt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/uIEpel7tjt",
+								"expanded_url": "https://theintercept.com/staff/glenn-greenwald/",
+								"display_url": "theintercept.com/staff/glenn-gr…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/RTpovVrBZ0",
+								"expanded_url": "http://gofundme.com/f/homeless-people-animals-together",
+								"display_url": "gofundme.com/f/homeless-peo…",
+								"indices": [
+									74,
+									97
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1503393,
+				"friends_count": 998,
+				"listed_count": 20613,
+				"created_at": "Mon Sep 01 03:13:32 +0000 2008",
+				"favourites_count": 6363,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 71961,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1092582027994509312/cpYWuYI9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1092582027994509312/cpYWuYI9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16076032/1552437882",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 16158,
+			"favorite_count": 33091,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Er zou geen seizoen zes van Black Mirror komen zeiden ze. Ze vergaten er bij te vertellen dat het een reality show zou worden... https://t.co/6Bvn0ZaBC5"
+	},
+	{
 		"created_at": "Sat May 09 16:26:43 +0000 2020",
 		"id": 1259143254852894700,
 		"id_str": "1259157864934973440",
