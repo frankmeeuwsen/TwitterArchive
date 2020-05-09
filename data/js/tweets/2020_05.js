@@ -1,6 +1,356 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sat May 09 08:10:56 +0000 2020",
+		"id": 1259033097447800800,
+		"id_str": "1259033097447800832",
+		"full_text": "@TadekSolarz Zie https://t.co/4q29uh2OwZ https://t.co/6p8HXXTTYj",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TadekSolarz",
+					"name": "Tadek Solarz",
+					"id": 26734588,
+					"id_str": "26734588",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4q29uh2OwZ",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1257718960860082179?s=21",
+					"display_url": "twitter.com/frankmeeuwsen/…",
+					"indices": [
+						17,
+						40
+					]
+				},
+				{
+					"url": "https://t.co/6p8HXXTTYj",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1257718960860082179",
+					"display_url": "twitter.com/frankmeeuwsen/…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1259016787842211800,
+		"in_reply_to_status_id_str": "1259016787842211840",
+		"in_reply_to_user_id": 26734588,
+		"in_reply_to_user_id_str": "26734588",
+		"in_reply_to_screen_name": "TadekSolarz",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werkt bij @kaliberInteract\n\nBouwt zonder code aan https://t.co/ODgIUUbnBR en @ForSubscribing\n\nSchrijft de OPEN nieuwsbrief voor nieuwsgierige cybersurfers.",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8959,
+			"friends_count": 446,
+			"listed_count": 577,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6275,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61811,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1587661070",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1257718960860082200,
+		"quoted_status_id_str": "1257718960860082179",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6p8HXXTTYj",
+			"expanded": "https://twitter.com/frankmeeuwsen/status/1257718960860082179",
+			"display": "twitter.com/frankmeeuwsen/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 05 17:09:02 +0000 2020",
+			"id": 1257718960860082200,
+			"id_str": "1257718960860082179",
+			"full_text": "@roosvanvugt Als twee werelden zich verenigen: “Quarantaine rockstars”, “Covid Ninja’s”, “10x Curve Flatten Specialists”, “Lockdown Lifehackers”. https://t.co/44IxLU3wg4",
+			"truncated": false,
+			"display_text_range": [
+				13,
+				145
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "roosvanvugt",
+						"name": "Roos van Vugt",
+						"id": 21687228,
+						"id_str": "21687228",
+						"indices": [
+							0,
+							12
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1257718953436164000,
+						"id_str": "1257718953436164096",
+						"indices": [
+							146,
+							169
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EXRQuXbWsAA3YtC.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EXRQuXbWsAA3YtC.jpg",
+						"url": "https://t.co/44IxLU3wg4",
+						"display_url": "pic.twitter.com/44IxLU3wg4",
+						"expanded_url": "https://twitter.com/frankmeeuwsen/status/1257718960860082179/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 480,
+								"h": 200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 480,
+								"h": 200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1257718953436164000,
+						"id_str": "1257718953436164096",
+						"indices": [
+							146,
+							169
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EXRQuXbWsAA3YtC.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EXRQuXbWsAA3YtC.jpg",
+						"url": "https://t.co/44IxLU3wg4",
+						"display_url": "pic.twitter.com/44IxLU3wg4",
+						"expanded_url": "https://twitter.com/frankmeeuwsen/status/1257718960860082179/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"medium": {
+								"w": 480,
+								"h": 200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 480,
+								"h": 200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 200,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								12,
+								5
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/EXRQuXbWsAA3YtC.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1257714428851748900,
+			"in_reply_to_status_id_str": "1257714428851748864",
+			"in_reply_to_user_id": 21687228,
+			"in_reply_to_user_id_str": "21687228",
+			"in_reply_to_screen_name": "roosvanvugt",
+			"user": {
+				"id": 816203,
+				"id_str": "816203",
+				"name": "Frank Meeuwsen",
+				"screen_name": "frankmeeuwsen",
+				"location": "Utrecht, the Netherlands",
+				"description": "Werkt bij @kaliberInteract\n\nBouwt zonder code aan https://t.co/ODgIUUbnBR en @ForSubscribing\n\nSchrijft de OPEN nieuwsbrief voor nieuwsgierige cybersurfers.",
+				"url": "https://t.co/6YB8i11ryl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6YB8i11ryl",
+								"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+								"display_url": "diggingthedigital.com/nieuwsbrief",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/ODgIUUbnBR",
+								"expanded_url": "http://Thanksforsubscribing.app",
+								"display_url": "Thanksforsubscribing.app",
+								"indices": [
+									50,
+									73
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 8959,
+				"friends_count": 446,
+				"listed_count": 577,
+				"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+				"favourites_count": 6275,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 61811,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "709397",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1587661070",
+				"profile_link_color": "FF3300",
+				"profile_sidebar_border_color": "86A4A6",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@TadekSolarz Zie https://t.co/4q29uh2OwZ https://t.co/6p8HXXTTYj"
+	},
+	{
 		"created_at": "Fri May 08 21:00:53 +0000 2020",
 		"id": 1258864470534873000,
 		"id_str": "1258864470534873088",
