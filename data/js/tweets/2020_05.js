@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sat May 09 10:54:11 +0000 2020",
+		"id": 1259074181230190600,
+		"id_str": "1259074181230190592",
+		"full_text": "Als je de livestreams van stranden bekijkt is het er niet druk. Of komt dat later op de middag? https://t.co/2x9U1Aabs9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2x9U1Aabs9",
+					"expanded_url": "https://twitter.com/ns_online/status/1259056521893249025",
+					"display_url": "twitter.com/ns_online/stat…",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werkt bij @kaliberInteract\n\nBouwt zonder code aan https://t.co/ODgIUUbnBR en @ForSubscribing\n\nSchrijft de OPEN nieuwsbrief voor nieuwsgierige cybersurfers.",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8959,
+			"friends_count": 446,
+			"listed_count": 577,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6275,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61812,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1587661070",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1259056521893249000,
+		"quoted_status_id_str": "1259056521893249025",
+		"quoted_status_permalink": {
+			"url": "https://t.co/2x9U1Aabs9",
+			"expanded": "https://twitter.com/ns_online/status/1259056521893249025",
+			"display": "twitter.com/ns_online/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat May 09 09:44:01 +0000 2020",
+			"id": 1259056521893249000,
+			"id_str": "1259056521893249025",
+			"full_text": "Het is erg druk in de treinen naar het strand, we doen een dringend beroep op je om niet met de trein richting Zandvoort te gaan. Samen moeten we grote drukte voorkomen, de trein is even geen uitje. https://t.co/axyyfHaEPO",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				222
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/axyyfHaEPO",
+						"expanded_url": "http://bit.ly/NSinfo",
+						"display_url": "bit.ly/NSinfo",
+						"indices": [
+							199,
+							222
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 121372044,
+				"id_str": "121372044",
+				"name": "NS online",
+				"screen_name": "NS_online",
+				"location": "Utrecht",
+				"description": "Het NS-account waar we je op de hoogte houden van de belangrijkste reisinfo & waar ons webcareteam dag en nacht voor je klaarstaat.",
+				"url": "http://t.co/Sb6nAPhTm2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Sb6nAPhTm2",
+								"expanded_url": "http://www.ns.nl",
+								"display_url": "ns.nl",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 238586,
+				"friends_count": 10240,
+				"listed_count": 1368,
+				"created_at": "Tue Mar 09 08:49:42 +0000 2010",
+				"favourites_count": 19877,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 1523026,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1038000096858841088/oEShj_Jv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1038000096858841088/oEShj_Jv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/121372044/1538121709",
+				"profile_link_color": "000066",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFCC33",
+				"profile_text_color": "000066",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 184,
+			"favorite_count": 160,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Als je de livestreams van stranden bekijkt is het er niet druk. Of komt dat later op de middag? https://t.co/2x9U1Aabs9"
+	},
+	{
 		"created_at": "Sat May 09 08:10:56 +0000 2020",
 		"id": 1259033097447800800,
 		"id_str": "1259033097447800832",
