@@ -1,6 +1,360 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Mon May 11 16:32:22 +0000 2020",
+		"id": 1259884063168639000,
+		"id_str": "1259884063168638983",
+		"full_text": "De #roamcult gaat zelf aan de slag @michielrutjes @martijnaslander https://t.co/uHegeW8UwK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "roamcult",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "michielrutjes",
+					"name": "Michiel Rutjes",
+					"id": 39232470,
+					"id_str": "39232470",
+					"indices": [
+						35,
+						49
+					]
+				},
+				{
+					"screen_name": "martijnaslander",
+					"name": " martijn aslander",
+					"id": 3051761,
+					"id_str": "3051761",
+					"indices": [
+						50,
+						66
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/uHegeW8UwK",
+					"expanded_url": "https://twitter.com/jeremyqho/status/1259569612703674368",
+					"display_url": "twitter.com/jeremyqho/stat…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werkt bij @kaliberInteract\n\nBouwt zonder code aan https://t.co/ODgIUUbnBR en @ForSubscribing\n\nSchrijft de OPEN nieuwsbrief voor nieuwsgierige cybersurfers.",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8962,
+			"friends_count": 449,
+			"listed_count": 574,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6289,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61831,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1587661070",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1259569612703674400,
+		"quoted_status_id_str": "1259569612703674368",
+		"quoted_status_permalink": {
+			"url": "https://t.co/uHegeW8UwK",
+			"expanded": "https://twitter.com/jeremyqho/status/1259569612703674368",
+			"display": "twitter.com/jeremyqho/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sun May 10 19:42:51 +0000 2020",
+			"id": 1259569612703674400,
+			"id_str": "1259569612703674368",
+			"full_text": "I wanted to Quick Capture into @RoamResearch from anywhere on the web, so I built this:\n- Omni-tab notepad/clipper (⌘⇧E)\n- On-page highlighting mode (⌃F)\n- Insert current page url and title with /snippets\n- Jump to Roam to paste notes (⌃⏎) https://t.co/nFrv4dmjUG",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				239
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "RoamResearch",
+						"name": "Roam Research",
+						"id": 1190410678273626000,
+						"id_str": "1190410678273626113",
+						"indices": [
+							31,
+							44
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1259561768424108000,
+						"id_str": "1259561768424108032",
+						"indices": [
+							240,
+							263
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1259561768424108032/pu/img/TUcRESPdl0kjU0vU.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1259561768424108032/pu/img/TUcRESPdl0kjU0vU.jpg",
+						"url": "https://t.co/nFrv4dmjUG",
+						"display_url": "pic.twitter.com/nFrv4dmjUG",
+						"expanded_url": "https://twitter.com/jeremyqho/status/1259569612703674368/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 409,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1196,
+								"h": 720,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1196,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1259561768424108000,
+						"id_str": "1259561768424108032",
+						"indices": [
+							240,
+							263
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1259561768424108032/pu/img/TUcRESPdl0kjU0vU.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1259561768424108032/pu/img/TUcRESPdl0kjU0vU.jpg",
+						"url": "https://t.co/nFrv4dmjUG",
+						"display_url": "pic.twitter.com/nFrv4dmjUG",
+						"expanded_url": "https://twitter.com/jeremyqho/status/1259569612703674368/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 409,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1196,
+								"h": 720,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1196,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								299,
+								180
+							],
+							"duration_millis": 37100,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1259561768424108032/pu/pl/xYfPwImuOpT-vz_v.m3u8?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1259561768424108032/pu/vid/1196x720/Ym3XKM0DXMU8DI_6.mp4?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1259561768424108032/pu/vid/448x270/VTrd8ikwpoOgSgNT.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1259561768424108032/pu/vid/598x360/d_cKWxGI52XTuLSm.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 597293451,
+				"id_str": "597293451",
+				"name": "Jeremy Ho",
+				"screen_name": "jeremyqho",
+				"location": "Taipei, Taiwan",
+				"description": "third culture kid. creativity/cognition. code/no-code. ex-uber eng/product ✏️🏀🌒",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 349,
+				"friends_count": 608,
+				"listed_count": 12,
+				"created_at": "Sat Jun 02 08:18:20 +0000 2012",
+				"favourites_count": 753,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 284,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1186402508484202497/IUdookHv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1186402508484202497/IUdookHv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/597293451/1572980103",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 119,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "De #roamcult gaat zelf aan de slag @michielrutjes @martijnaslander https://t.co/uHegeW8UwK"
+	},
+	{
 		"created_at": "Mon May 11 11:16:34 +0000 2020",
 		"id": 1259804586551976000,
 		"id_str": "1259804586551975936",
