@@ -1,6 +1,238 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Mon May 11 09:52:05 +0000 2020",
+		"id": 1259783325566328800,
+		"id_str": "1259783325566328832",
+		"full_text": "@tjarko Het is ammal communicatie en perceptie van de ontvanger Tjarko. Juist omdat er geen bewijzen zijn of data maar ze wel iets moeten doen om landelijk moraal in stand te houden. Dan kiezen voor een datum in de toekomst en die bijstellen naar dichterbij. En kiezen voor een groep.",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			284
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tjarko",
+					"name": "Tjarko Rikkerink",
+					"id": 997804616455770100,
+					"id_str": "997804616455770113",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1259782872539574300,
+		"in_reply_to_status_id_str": "1259782872539574272",
+		"in_reply_to_user_id": 816203,
+		"in_reply_to_user_id_str": "816203",
+		"in_reply_to_screen_name": "frankmeeuwsen",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werkt bij @kaliberInteract\n\nBouwt zonder code aan https://t.co/ODgIUUbnBR en @ForSubscribing\n\nSchrijft de OPEN nieuwsbrief voor nieuwsgierige cybersurfers.",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8961,
+			"friends_count": 449,
+			"listed_count": 575,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6284,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61826,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1587661070",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@tjarko Het is ammal communicatie en perceptie van de ontvanger Tjarko. Juist omdat er geen bewijzen zijn of data maar ze wel iets moeten doen om landelijk moraal in stand te houden. Dan kiezen voor een datum in de toekomst en die bijstellen naar dichterbij. En kiezen voor een groep."
+	},
+	{
+		"created_at": "Mon May 11 09:50:17 +0000 2020",
+		"id": 1259782872539574300,
+		"id_str": "1259782872539574272",
+		"full_text": "@tjarko Sportscholen gaan eerder open dan nu gezegd. Dan voelt het als een cadeautje en geste naar de maatschappij. Men neemt nu het zekere voor het onzekere en moet ergens een keuze maken. Het had net zo goed andersom kunnen zijn. Eerst sportscholen, dan kappers.",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			264
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tjarko",
+					"name": "Tjarko Rikkerink",
+					"id": 997804616455770100,
+					"id_str": "997804616455770113",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1259741627771469800,
+		"in_reply_to_status_id_str": "1259741627771469824",
+		"in_reply_to_user_id": 997804616455770100,
+		"in_reply_to_user_id_str": "997804616455770113",
+		"in_reply_to_screen_name": "tjarko",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werkt bij @kaliberInteract\n\nBouwt zonder code aan https://t.co/ODgIUUbnBR en @ForSubscribing\n\nSchrijft de OPEN nieuwsbrief voor nieuwsgierige cybersurfers.",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8961,
+			"friends_count": 449,
+			"listed_count": 575,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6284,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61826,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1587661070",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@tjarko Sportscholen gaan eerder open dan nu gezegd. Dan voelt het als een cadeautje en geste naar de maatschappij. Men neemt nu het zekere voor het onzekere en moet ergens een keuze maken. Het had net zo goed andersom kunnen zijn. Eerst sportscholen, dan kappers."
+	},
+	{
 		"created_at": "Mon May 11 05:35:10 +0000 2020",
 		"id": 1259718673448788000,
 		"id_str": "1259718673448787968",
