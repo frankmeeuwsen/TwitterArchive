@@ -1,6 +1,461 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Mon May 11 11:16:34 +0000 2020",
+		"id": 1259804586551976000,
+		"id_str": "1259804586551975936",
+		"full_text": "@Wilbert Ik opende mijn DM, hoorde in de verte een eenhoorn over een 5G-regenboog galopperen en zag de chemtrails zich openbaren in de vorm van Bill Gates’ bril. In een bekend landschap... #verdacht https://t.co/vryvwHRi1B",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			198
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "verdacht",
+					"indices": [
+						189,
+						198
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Wilbert",
+					"name": "Wilbert Pot",
+					"id": 2286901,
+					"id_str": "2286901",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1259804578746380300,
+					"id_str": "1259804578746380290",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EXu5lvKWsAIXrtK.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EXu5lvKWsAIXrtK.jpg",
+					"url": "https://t.co/vryvwHRi1B",
+					"display_url": "pic.twitter.com/vryvwHRi1B",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1259804586551975936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 500,
+							"h": 334,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 334,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 334,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1259804578746380300,
+					"id_str": "1259804578746380290",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EXu5lvKWsAIXrtK.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EXu5lvKWsAIXrtK.jpg",
+					"url": "https://t.co/vryvwHRi1B",
+					"display_url": "pic.twitter.com/vryvwHRi1B",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1259804586551975936/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 500,
+							"h": 334,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 334,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 334,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							250,
+							167
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EXu5lvKWsAIXrtK.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1259802625786237000,
+		"in_reply_to_status_id_str": "1259802625786236928",
+		"in_reply_to_user_id": 2286901,
+		"in_reply_to_user_id_str": "2286901",
+		"in_reply_to_screen_name": "Wilbert",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werkt bij @kaliberInteract\n\nBouwt zonder code aan https://t.co/ODgIUUbnBR en @ForSubscribing\n\nSchrijft de OPEN nieuwsbrief voor nieuwsgierige cybersurfers.",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8962,
+			"friends_count": 449,
+			"listed_count": 574,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6287,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61829,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1587661070",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@Wilbert Ik opende mijn DM, hoorde in de verte een eenhoorn over een 5G-regenboog galopperen en zag de chemtrails zich openbaren in de vorm van Bill Gates’ bril. In een bekend landschap... #verdacht https://t.co/vryvwHRi1B"
+	},
+	{
+		"created_at": "Mon May 11 11:14:08 +0000 2020",
+		"id": 1259803976729591800,
+		"id_str": "1259803976729591809",
+		"full_text": "Hey wat cool! Mijn artikel over de 10 soorten nieuwsbrieven staat op Marketingfacts. Tof dat het van waarde is! https://t.co/sCbfUVVT1N",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sCbfUVVT1N",
+					"expanded_url": "https://twitter.com/marketingfacts/status/1259800424351248385",
+					"display_url": "twitter.com/marketingfacts…",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werkt bij @kaliberInteract\n\nBouwt zonder code aan https://t.co/ODgIUUbnBR en @ForSubscribing\n\nSchrijft de OPEN nieuwsbrief voor nieuwsgierige cybersurfers.",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8962,
+			"friends_count": 449,
+			"listed_count": 574,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6287,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61829,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1587661070",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1259800424351248400,
+		"quoted_status_id_str": "1259800424351248385",
+		"quoted_status_permalink": {
+			"url": "https://t.co/sCbfUVVT1N",
+			"expanded": "https://twitter.com/marketingfacts/status/1259800424351248385",
+			"display": "twitter.com/marketingfacts…"
+		},
+		"quoted_status": {
+			"created_at": "Mon May 11 11:00:01 +0000 2020",
+			"id": 1259800424351248400,
+			"id_str": "1259800424351248385",
+			"full_text": "Nu op M!: Zetten we een eerste stap richting de nieuwe wereld van Yuval Noah Harari? https://t.co/PXCgVpHN7t door @gertkoot",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				123
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "gertkoot",
+						"name": "gert koot",
+						"id": 16200691,
+						"id_str": "16200691",
+						"indices": [
+							114,
+							123
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/PXCgVpHN7t",
+						"expanded_url": "https://www.marketingfacts.nl/berichten/zetten-we-een-eerste-stap-richting-de-nieuwe-wereld-van-yuval-noah-harari?utm_source=twitter.com&utm_medium=tweet",
+						"display_url": "marketingfacts.nl/berichten/zett…",
+						"indices": [
+							85,
+							108
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.marketingfacts.nl\" rel=\"nofollow\">Marketingfacts.nl</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 7536992,
+				"id_str": "7536992",
+				"name": "Marketingfacts",
+				"screen_name": "Marketingfacts",
+				"location": "Woerden, Nederland",
+				"description": "Platform voor marketing, technology en design. Met blogs, stats & research.",
+				"url": "https://t.co/4Ea9JdXiP5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4Ea9JdXiP5",
+								"expanded_url": "http://www.marketingfacts.nl",
+								"display_url": "marketingfacts.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 76937,
+				"friends_count": 16791,
+				"listed_count": 1921,
+				"created_at": "Tue Jul 17 17:29:02 +0000 2007",
+				"favourites_count": 982,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 41290,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000849630860/c38ff785d2a94a14b6cbfb4b17767670_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000849630860/c38ff785d2a94a14b6cbfb4b17767670_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/7536992/1584626487",
+				"profile_link_color": "0099AA",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E5E5E5",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Hey wat cool! Mijn artikel over de 10 soorten nieuwsbrieven staat op Marketingfacts. Tof dat het van waarde is! https://t.co/sCbfUVVT1N"
+	},
+	{
 		"created_at": "Mon May 11 09:52:05 +0000 2020",
 		"id": 1259783325566328800,
 		"id_str": "1259783325566328832",
