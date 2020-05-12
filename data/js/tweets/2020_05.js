@@ -1,6 +1,288 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Tue May 12 04:42:26 +0000 2020",
+		"id": 1259920347278737400,
+		"id_str": "1260067789576044550",
+		"full_text": "https://t.co/0SgzVHjkH6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1259920192706162700,
+					"id_str": "1259920192706162689",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EXwivWuXsAEjZuC.png",
+					"media_url_https": "https://pbs.twimg.com/media/EXwivWuXsAEjZuC.png",
+					"url": "https://t.co/0SgzVHjkH6",
+					"display_url": "pic.twitter.com/0SgzVHjkH6",
+					"expanded_url": "https://twitter.com/sekachov/status/1259920347278737409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1259920192706162700,
+					"id_str": "1259920192706162689",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EXwivWuXsAEjZuC.png",
+					"media_url_https": "https://pbs.twimg.com/media/EXwivWuXsAEjZuC.png",
+					"url": "https://t.co/0SgzVHjkH6",
+					"display_url": "pic.twitter.com/0SgzVHjkH6",
+					"expanded_url": "https://twitter.com/sekachov/status/1259920347278737409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1259920199928725500,
+					"id_str": "1259920199928725506",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EXwivxoXQAIygn6.png",
+					"media_url_https": "https://pbs.twimg.com/media/EXwivxoXQAIygn6.png",
+					"url": "https://t.co/0SgzVHjkH6",
+					"display_url": "pic.twitter.com/0SgzVHjkH6",
+					"expanded_url": "https://twitter.com/sekachov/status/1259920347278737409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1259920207079932000,
+					"id_str": "1259920207079931911",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EXwiwMRWAAcQsyu.png",
+					"media_url_https": "https://pbs.twimg.com/media/EXwiwMRWAAcQsyu.png",
+					"url": "https://t.co/0SgzVHjkH6",
+					"display_url": "pic.twitter.com/0SgzVHjkH6",
+					"expanded_url": "https://twitter.com/sekachov/status/1259920347278737409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1259920214772330500,
+					"id_str": "1259920214772330497",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EXwiwo7WsAEuuwm.png",
+					"media_url_https": "https://pbs.twimg.com/media/EXwiwo7WsAEuuwm.png",
+					"url": "https://t.co/0SgzVHjkH6",
+					"display_url": "pic.twitter.com/0SgzVHjkH6",
+					"expanded_url": "https://twitter.com/sekachov/status/1259920347278737409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 914848333642043400,
+			"id_str": "914848333642043393",
+			"name": "ᴀʟᴇxᴇʏ sᴇᴋᴀᴄʜᴏᴠ",
+			"screen_name": "sekachov",
+			"location": "Amsterdam",
+			"description": "designer at @wetransfer. maker at @haptichq. design jury at @awwwards.",
+			"url": "https://t.co/KYebbwmLKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KYebbwmLKN",
+							"expanded_url": "http://work.asekachov.com",
+							"display_url": "work.asekachov.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 271,
+			"friends_count": 276,
+			"listed_count": 2,
+			"created_at": "Mon Oct 02 13:43:34 +0000 2017",
+			"favourites_count": 325,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 151,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/915612460186521602/F5Nc3gTU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/915612460186521602/F5Nc3gTU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/914848333642043393/1529853002",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 840,
+		"favorite_count": 3219,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/0SgzVHjkH6"
+	},
+	{
 		"created_at": "Mon May 11 21:13:44 +0000 2020",
 		"id": 1259954868623638500,
 		"id_str": "1259954868623638534",
