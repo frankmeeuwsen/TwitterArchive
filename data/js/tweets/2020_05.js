@@ -1,6 +1,297 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Wed May 13 08:03:39 +0000 2020",
+		"id": 1260476829992988700,
+		"id_str": "1260480815445745669",
+		"full_text": "Met #Vuurwerkramp in #Enschede begint online verslaggeving door #bloggers en #burgerjournalistiek. Blog van Iris Geldermans op site @KB_Nederland over #webarchivering ramp in de blogosfeer met citaat @frankmeeuwsen. https://t.co/oo12fwHalL #webarchivingwednesday #toekomstverhalen https://t.co/d5Uekerb4v",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Vuurwerkramp",
+					"indices": [
+						4,
+						17
+					]
+				},
+				{
+					"text": "Enschede",
+					"indices": [
+						21,
+						30
+					]
+				},
+				{
+					"text": "bloggers",
+					"indices": [
+						64,
+						73
+					]
+				},
+				{
+					"text": "burgerjournalistiek",
+					"indices": [
+						77,
+						97
+					]
+				},
+				{
+					"text": "webarchivering",
+					"indices": [
+						151,
+						166
+					]
+				},
+				{
+					"text": "webarchivingwednesday",
+					"indices": [
+						240,
+						262
+					]
+				},
+				{
+					"text": "toekomstverhalen",
+					"indices": [
+						263,
+						280
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KB_Nederland",
+					"name": "Koninklijke Bibliotheek",
+					"id": 52443287,
+					"id_str": "52443287",
+					"indices": [
+						132,
+						145
+					]
+				},
+				{
+					"screen_name": "frankmeeuwsen",
+					"name": "Frank Meeuwsen",
+					"id": 816203,
+					"id_str": "816203",
+					"indices": [
+						200,
+						214
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/oo12fwHalL",
+					"expanded_url": "https://www.kb.nl/blogs/duurzame-toegang/nl-blogosfeer-burgers-verslaan-een-ramp",
+					"display_url": "kb.nl/blogs/duurzame…",
+					"indices": [
+						216,
+						239
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1260472438426656800,
+					"id_str": "1260472438426656770",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EX4ZASWXYAI2wFp.png",
+					"media_url_https": "https://pbs.twimg.com/media/EX4ZASWXYAI2wFp.png",
+					"url": "https://t.co/d5Uekerb4v",
+					"display_url": "pic.twitter.com/d5Uekerb4v",
+					"expanded_url": "https://twitter.com/keesone/status/1260476829992988672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 548,
+							"h": 372,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 548,
+							"h": 372,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 548,
+							"h": 372,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260472438426656800,
+					"id_str": "1260472438426656770",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EX4ZASWXYAI2wFp.png",
+					"media_url_https": "https://pbs.twimg.com/media/EX4ZASWXYAI2wFp.png",
+					"url": "https://t.co/d5Uekerb4v",
+					"display_url": "pic.twitter.com/d5Uekerb4v",
+					"expanded_url": "https://twitter.com/keesone/status/1260476829992988672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 548,
+							"h": 372,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 548,
+							"h": 372,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 548,
+							"h": 372,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1260472590335967200,
+					"id_str": "1260472590335967234",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EX4ZJIQXgAIQrUu.png",
+					"media_url_https": "https://pbs.twimg.com/media/EX4ZJIQXgAIQrUu.png",
+					"url": "https://t.co/d5Uekerb4v",
+					"display_url": "pic.twitter.com/d5Uekerb4v",
+					"expanded_url": "https://twitter.com/keesone/status/1260476829992988672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 786,
+							"h": 422,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 786,
+							"h": 422,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15970999,
+			"id_str": "15970999",
+			"name": "Kees Teszelszky",
+			"screen_name": "keesone",
+			"location": "The Hague, The Netherlands",
+			"description": "Curator Digital Collections @KB_Nederland library / born digital heritage / web archaeology / earlymodern history→@teszelszky",
+			"url": "https://t.co/0d00DlmPxH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0d00DlmPxH",
+							"expanded_url": "https://zenodo.org/search?page=1&size=20&q=teszelszky",
+							"display_url": "zenodo.org/search?page=1&…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1106,
+			"friends_count": 1618,
+			"listed_count": 38,
+			"created_at": "Sun Aug 24 18:05:00 +0000 2008",
+			"favourites_count": 5670,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5378,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1020417469243166721/IyKx41sW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1020417469243166721/IyKx41sW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15970999/1551707142",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Met #Vuurwerkramp in #Enschede begint online verslaggeving door #bloggers en #burgerjournalistiek. Blog van Iris Geldermans op site @KB_Nederland over #webarchivering ramp in de blogosfeer met citaat @frankmeeuwsen. https://t.co/oo12fwHalL #webarchivingwednesday #toekomstverhalen https://t.co/d5Uekerb4v"
+	},
+	{
 		"created_at": "Tue May 12 20:54:28 +0000 2020",
 		"id": 1260312408196894700,
 		"id_str": "1260312408196894722",
