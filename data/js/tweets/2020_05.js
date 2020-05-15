@@ -1,6 +1,251 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Fri May 15 17:55:24 +0000 2020",
+		"id": 1261354509248446500,
+		"id_str": "1261354509248446464",
+		"full_text": "Nou. Wat hij dus zegt. https://t.co/RDy26DgDvj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RDy26DgDvj",
+					"expanded_url": "https://twitter.com/david_perell/status/1261190124429168641",
+					"display_url": "twitter.com/david_perell/s…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werkt bij @kaliberInteract\n\nBouwt zonder code aan https://t.co/ODgIUUbnBR en @ForSubscribing\n\nSchrijft de OPEN nieuwsbrief voor nieuwsgierige cybersurfers.",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8966,
+			"friends_count": 453,
+			"listed_count": 572,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6309,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61861,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1587661070",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1261190124429168600,
+		"quoted_status_id_str": "1261190124429168641",
+		"quoted_status_permalink": {
+			"url": "https://t.co/RDy26DgDvj",
+			"expanded": "https://twitter.com/david_perell/status/1261190124429168641",
+			"display": "twitter.com/david_perell/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 15 07:02:12 +0000 2020",
+			"id": 1261190124429168600,
+			"id_str": "1261190124429168641",
+			"full_text": "Own your distribution. \n\nIf you write online, focus on these two platforms:\n\n1) Email\n\n2) Websites\n\nRemember AOL? Remember MySpace? Remember Yahoo?\n\nCompanies come and go but your email list and personal website will still be valuable in 10 years.\n\nInvest in the long-term.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				273
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 240049622,
+				"id_str": "240049622",
+				"name": "ᴅᴀᴠɪᴅ ᴘᴇʀᴇʟʟ ✌",
+				"screen_name": "david_perell",
+				"location": "New York",
+				"description": "\"The Writing Guy\" | Podcast: https://t.co/tgSDdHBbeS | Writing: https://t.co/gpzaFiHQGE | Teaching at https://t.co/bEFFy6tw2a",
+				"url": "https://t.co/wfo9dVfsYl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wfo9dVfsYl",
+								"expanded_url": "http://www.perell.com/",
+								"display_url": "perell.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/tgSDdHBbeS",
+								"expanded_url": "http://perell.com/podcast",
+								"display_url": "perell.com/podcast",
+								"indices": [
+									29,
+									52
+								]
+							},
+							{
+								"url": "https://t.co/gpzaFiHQGE",
+								"expanded_url": "http://perell.com",
+								"display_url": "perell.com",
+								"indices": [
+									64,
+									87
+								]
+							},
+							{
+								"url": "https://t.co/bEFFy6tw2a",
+								"expanded_url": "http://writeofpassage.school",
+								"display_url": "writeofpassage.school",
+								"indices": [
+									102,
+									125
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 72136,
+				"friends_count": 736,
+				"listed_count": 1156,
+				"created_at": "Wed Jan 19 01:41:27 +0000 2011",
+				"favourites_count": 48776,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 20892,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/913816689892044800/rF7O3Bfz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/913816689892044800/rF7O3Bfz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/240049622/1543613054",
+				"profile_link_color": "129CE6",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 57,
+			"favorite_count": 514,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Nou. Wat hij dus zegt. https://t.co/RDy26DgDvj"
+	},
+	{
 		"created_at": "Fri May 15 14:54:39 +0000 2020",
 		"id": 1261309021275009000,
 		"id_str": "1261309021275009024",
