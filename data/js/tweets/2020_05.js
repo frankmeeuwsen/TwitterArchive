@@ -1,6 +1,427 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Fri May 15 14:54:39 +0000 2020",
+		"id": 1261309021275009000,
+		"id_str": "1261309021275009024",
+		"full_text": "https://t.co/jkT17rWd2F https://t.co/HpaJdqPJWi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jkT17rWd2F",
+					"expanded_url": "https://twitter.com/morningbrew/status/1261304942775676928",
+					"display_url": "twitter.com/morningbrew/st…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1261309013754511400,
+					"id_str": "1261309013754511365",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EYER3YTWAAUMDgj.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EYER3YTWAAUMDgj.jpg",
+					"url": "https://t.co/HpaJdqPJWi",
+					"display_url": "pic.twitter.com/HpaJdqPJWi",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1261309021275009024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 498,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 498,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 498,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1261309013754511400,
+					"id_str": "1261309013754511365",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EYER3YTWAAUMDgj.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EYER3YTWAAUMDgj.jpg",
+					"url": "https://t.co/HpaJdqPJWi",
+					"display_url": "pic.twitter.com/HpaJdqPJWi",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1261309021275009024/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 498,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 498,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 498,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EYER3YTWAAUMDgj.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werkt bij @kaliberInteract\n\nBouwt zonder code aan https://t.co/ODgIUUbnBR en @ForSubscribing\n\nSchrijft de OPEN nieuwsbrief voor nieuwsgierige cybersurfers.",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8966,
+			"friends_count": 453,
+			"listed_count": 572,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6308,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61859,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1587661070",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1261304942775677000,
+		"quoted_status_id_str": "1261304942775676928",
+		"quoted_status_permalink": {
+			"url": "https://t.co/jkT17rWd2F",
+			"expanded": "https://twitter.com/morningbrew/status/1261304942775676928",
+			"display": "twitter.com/morningbrew/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 15 14:38:26 +0000 2020",
+			"id": 1261304942775677000,
+			"id_str": "1261304942775676928",
+			"full_text": "Facebook is buying @GIPHY for a reported $400 million per Axios\n\nDrop your reaction below https://t.co/KeCILjEhqQ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				89
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "GIPHY",
+						"name": "GIPHY",
+						"id": 1020383864,
+						"id_str": "1020383864",
+						"indices": [
+							19,
+							25
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1261304922982830000,
+						"id_str": "1261304922982830081",
+						"indices": [
+							90,
+							113
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EYEOJQ_X0AEzpOO.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EYEOJQ_X0AEzpOO.jpg",
+						"url": "https://t.co/KeCILjEhqQ",
+						"display_url": "pic.twitter.com/KeCILjEhqQ",
+						"expanded_url": "https://twitter.com/MorningBrew/status/1261304942775676928/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 320,
+								"h": 240,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 320,
+								"h": 240,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 320,
+								"h": 240,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1261304922982830000,
+						"id_str": "1261304922982830081",
+						"indices": [
+							90,
+							113
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EYEOJQ_X0AEzpOO.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EYEOJQ_X0AEzpOO.jpg",
+						"url": "https://t.co/KeCILjEhqQ",
+						"display_url": "pic.twitter.com/KeCILjEhqQ",
+						"expanded_url": "https://twitter.com/MorningBrew/status/1261304942775676928/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 320,
+								"h": 240,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 320,
+								"h": 240,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 320,
+								"h": 240,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								4,
+								3
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/EYEOJQ_X0AEzpOO.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3092541736,
+				"id_str": "3092541736",
+				"name": "Morning Brew",
+				"screen_name": "MorningBrew",
+				"location": "New York, NY",
+				"description": "The top business news from Wall Street to Silicon Valley, daily. Let us occupy some space in your inbox ➡️ https://t.co/W6uaYEtCQw",
+				"url": "https://t.co/9jyOEYgGUT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9jyOEYgGUT",
+								"expanded_url": "http://morningbrew.com",
+								"display_url": "morningbrew.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/W6uaYEtCQw",
+								"expanded_url": "http://bit.ly/2wFk7eQ",
+								"display_url": "bit.ly/2wFk7eQ",
+								"indices": [
+									107,
+									130
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 41452,
+				"friends_count": 1412,
+				"listed_count": 334,
+				"created_at": "Mon Mar 16 18:43:25 +0000 2015",
+				"favourites_count": 3094,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 6529,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1177672352588599296/OLUd0Htt_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1177672352588599296/OLUd0Htt_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3092541736/1514928071",
+				"profile_link_color": "005AB6",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 21,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/jkT17rWd2F https://t.co/HpaJdqPJWi"
+	},
+	{
 		"created_at": "Fri May 15 07:00:15 +0000 2020",
 		"id": 1261189635931353000,
 		"id_str": "1261189635931353090",
