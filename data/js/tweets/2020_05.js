@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Fri May 15 05:07:07 +0000 2020",
+		"id": 1261161164937011200,
+		"id_str": "1261161164937011201",
+		"full_text": "Zo’n opmerking waar ik eerst denk “huh? Hoezo”\n\nDan valt het kwartje. “Aaaah!”\n\nGevolgd door het besef dat je zelf uit die periode komt. “Ooeeehhh!” \n\nGefronste-wenkbrauw-emoji.gif https://t.co/g1dQJ4uElG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/g1dQJ4uElG",
+					"expanded_url": "https://twitter.com/sjjphd/status/1260958184979775490",
+					"display_url": "twitter.com/sjjphd/status/…",
+					"indices": [
+						181,
+						204
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werkt bij @kaliberInteract\n\nBouwt zonder code aan https://t.co/ODgIUUbnBR en @ForSubscribing\n\nSchrijft de OPEN nieuwsbrief voor nieuwsgierige cybersurfers.",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8965,
+			"friends_count": 453,
+			"listed_count": 572,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6305,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61856,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1587661070",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1260958184979775500,
+		"quoted_status_id_str": "1260958184979775490",
+		"quoted_status_permalink": {
+			"url": "https://t.co/g1dQJ4uElG",
+			"expanded": "https://twitter.com/sjjphd/status/1260958184979775490",
+			"display": "twitter.com/sjjphd/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 14 15:40:33 +0000 2020",
+			"id": 1260958184979775500,
+			"id_str": "1260958184979775490",
+			"full_text": "One of my students really wrote a sentence that begins, \"In the late 1900s.” I had to re-read it three times to realize what the heck was going on. My feelings are hurt.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				169
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 237119773,
+				"id_str": "237119773",
+				"name": "Sarah J. Jackson",
+				"screen_name": "sjjphd",
+				"location": "Philadelphia, PA",
+				"description": "Presidential Associate Professor @AnnenbergPenn | Fellow @CarnegieCorp | Latest: https://t.co/7UIGRsZohG",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/7UIGRsZohG",
+								"expanded_url": "https://mitpress.mit.edu/books/hashtagactivism",
+								"display_url": "mitpress.mit.edu/books/hashtaga…",
+								"indices": [
+									81,
+									104
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 12719,
+				"friends_count": 1459,
+				"listed_count": 331,
+				"created_at": "Wed Jan 12 03:37:18 +0000 2011",
+				"favourites_count": 9852,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 17819,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1252324498331795457/RicfN4gg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1252324498331795457/RicfN4gg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/237119773/1582553295",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2612,
+			"favorite_count": 25203,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Zo’n opmerking waar ik eerst denk “huh? Hoezo”\n\nDan valt het kwartje. “Aaaah!”\n\nGevolgd door het besef dat je zelf uit die periode komt. “Ooeeehhh!” \n\nGefronste-wenkbrauw-emoji.gif https://t.co/g1dQJ4uElG"
+	},
+	{
 		"created_at": "Thu May 14 14:56:59 +0000 2020",
 		"id": 1260947219785670700,
 		"id_str": "1260947219785670657",
