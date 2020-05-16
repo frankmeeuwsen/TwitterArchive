@@ -1,6 +1,115 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sat May 16 13:57:27 +0000 2020",
+		"id": 1261654299727270000,
+		"id_str": "1261657013492293633",
+		"full_text": "16 mei was de fav-datum voor #weblogmeeting met #oudeweblogkliek. Coronawijs vergeten. Maar wie houdt oldskoolbloggers tegen? Ze internetz iig niet. Wij gaan 24 mei ZOOMen, keihard. Iedereen neemt eigen drank mee naar tuin/balkon/paraplu/park. RT &amp; je bent aangemeld op Whatsapp.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			283
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "weblogmeeting",
+					"indices": [
+						29,
+						43
+					]
+				},
+				{
+					"text": "oudeweblogkliek",
+					"indices": [
+						48,
+						64
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7422352,
+			"id_str": "7422352",
+			"name": "Ton Zijp",
+			"screen_name": "Zijperspace",
+			"location": "Amsterdam",
+			"description": "Maakt zich druk. Iel, breed, laag? & Divers andere onnozeligheid, vooral kleinigheden dus, sorry. Enige maar niet eenzame bewoner van Zijperspace.",
+			"url": "http://t.co/x0uQQeIbPE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/x0uQQeIbPE",
+							"expanded_url": "http://www.zijperspace.nl",
+							"display_url": "zijperspace.nl",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1141,
+			"friends_count": 316,
+			"listed_count": 28,
+			"created_at": "Thu Jul 12 06:47:11 +0000 2007",
+			"favourites_count": 697,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10874,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1133684566/retro_camera_zelfportret-kl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1133684566/retro_camera_zelfportret-kl_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "nl",
+		"text": "16 mei was de fav-datum voor #weblogmeeting met #oudeweblogkliek. Coronawijs vergeten. Maar wie houdt oldskoolbloggers tegen? Ze internetz iig niet. Wij gaan 24 mei ZOOMen, keihard. Iedereen neemt eigen drank mee naar tuin/balkon/paraplu/park. RT &amp; je bent aangemeld op Whatsapp."
+	},
+	{
 		"created_at": "Fri May 15 17:55:24 +0000 2020",
 		"id": 1261354509248446500,
 		"id_str": "1261354509248446464",
