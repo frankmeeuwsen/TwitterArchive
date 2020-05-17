@@ -1,6 +1,203 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sun May 17 04:14:40 +0000 2020",
+		"id": 1261872741579456500,
+		"id_str": "1261872741579456512",
+		"full_text": "@JasonRBradwell @david_perell @annhandley @axios @MorningBrew @KatieMartell @iainbroome @KateBour I keep a growing directory with newsletters of all types. You can find 100+ titles to make your inbox happy 💌 at https://t.co/nnGx9gi7UQ. Don’t forget to subscribe to it’s newsletter to stay in the loop of new titles.",
+		"truncated": false,
+		"display_text_range": [
+			98,
+			315
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JasonRBradwell",
+					"name": "Jason Bradwell 👋",
+					"id": 431796104,
+					"id_str": "431796104",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "david_perell",
+					"name": "ᴅᴀᴠɪᴅ ᴘᴇʀᴇʟʟ ✌",
+					"id": 240049622,
+					"id_str": "240049622",
+					"indices": [
+						16,
+						29
+					]
+				},
+				{
+					"screen_name": "annhandley",
+					"name": "Ann Handley",
+					"id": 14956264,
+					"id_str": "14956264",
+					"indices": [
+						30,
+						41
+					]
+				},
+				{
+					"screen_name": "axios",
+					"name": "Axios",
+					"id": 800707492346925000,
+					"id_str": "800707492346925056",
+					"indices": [
+						42,
+						48
+					]
+				},
+				{
+					"screen_name": "MorningBrew",
+					"name": "Morning Brew",
+					"id": 3092541736,
+					"id_str": "3092541736",
+					"indices": [
+						49,
+						61
+					]
+				},
+				{
+					"screen_name": "KatieMartell",
+					"name": "Katie Martell",
+					"id": 9126042,
+					"id_str": "9126042",
+					"indices": [
+						62,
+						75
+					]
+				},
+				{
+					"screen_name": "iainbroome",
+					"name": "Iain Broome",
+					"id": 14431161,
+					"id_str": "14431161",
+					"indices": [
+						76,
+						87
+					]
+				},
+				{
+					"screen_name": "KateBour",
+					"name": "Katelyn Bourgoin 👓",
+					"id": 2828817653,
+					"id_str": "2828817653",
+					"indices": [
+						88,
+						97
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nnGx9gi7UQ",
+					"expanded_url": "https://thanksforsubscribing.app",
+					"display_url": "thanksforsubscribing.app",
+					"indices": [
+						211,
+						234
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1261700766252904400,
+		"in_reply_to_status_id_str": "1261700766252904454",
+		"in_reply_to_user_id": 431796104,
+		"in_reply_to_user_id_str": "431796104",
+		"in_reply_to_screen_name": "JasonRBradwell",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werkt bij @kaliberInteract\n\nBouwt zonder code aan https://t.co/ODgIUUbnBR en @ForSubscribing\n\nSchrijft de OPEN nieuwsbrief voor nieuwsgierige cybersurfers.",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8964,
+			"friends_count": 464,
+			"listed_count": 572,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6314,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61864,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1587661070",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@JasonRBradwell @david_perell @annhandley @axios @MorningBrew @KatieMartell @iainbroome @KateBour I keep a growing directory with newsletters of all types. You can find 100+ titles to make your inbox happy 💌 at https://t.co/nnGx9gi7UQ. Don’t forget to subscribe to it’s newsletter to stay in the loop of new titles."
+	},
+	{
 		"created_at": "Sat May 16 21:33:21 +0000 2020",
 		"id": 1261771747701018600,
 		"id_str": "1261771747701018627",
