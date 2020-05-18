@@ -1,6 +1,428 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Mon May 18 17:53:10 +0000 2020",
+		"id": 1262441112456831000,
+		"id_str": "1262441112456830983",
+		"full_text": "Instablogging dus. /cc @KirstenJassies https://t.co/7TUmFohyD2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KirstenJassies",
+					"name": "Kirsten Jassies - DIY🤘",
+					"id": 15032299,
+					"id_str": "15032299",
+					"indices": [
+						23,
+						38
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7TUmFohyD2",
+					"expanded_url": "https://twitter.com/adriana_lacy/status/1262436340550909955",
+					"display_url": "twitter.com/adriana_lacy/s…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werkt bij @kaliberInteract\n\nBouwt zonder code aan https://t.co/ODgIUUbnBR en @ForSubscribing\n\nSchrijft de OPEN nieuwsbrief voor nieuwsgierige cybersurfers.",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8964,
+			"friends_count": 464,
+			"listed_count": 572,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6318,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61872,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1587661070",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1262436340550910000,
+		"quoted_status_id_str": "1262436340550909955",
+		"quoted_status_permalink": {
+			"url": "https://t.co/7TUmFohyD2",
+			"expanded": "https://twitter.com/adriana_lacy/status/1262436340550909955",
+			"display": "twitter.com/adriana_lacy/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon May 18 17:34:13 +0000 2020",
+			"id": 1262436340550910000,
+			"id_str": "1262436340550909955",
+			"full_text": "New Instagram feature: Guides — a way to discover recommendations on the platform. \n\nLooks like the guides will appear on your profile page and have the ability to add to Instagram stories https://t.co/ztm3S0e1bR",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				188
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1262436110644338700,
+						"id_str": "1262436110644338688",
+						"indices": [
+							189,
+							212
+						],
+						"media_url": "http://pbs.twimg.com/media/EYUS9DaU4AAMm7p.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EYUS9DaU4AAMm7p.jpg",
+						"url": "https://t.co/ztm3S0e1bR",
+						"display_url": "pic.twitter.com/ztm3S0e1bR",
+						"expanded_url": "https://twitter.com/Adriana_Lacy/status/1262436340550909955/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 789,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 827,
+								"h": 1258,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 447,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1262436110644338700,
+						"id_str": "1262436110644338688",
+						"indices": [
+							189,
+							212
+						],
+						"media_url": "http://pbs.twimg.com/media/EYUS9DaU4AAMm7p.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EYUS9DaU4AAMm7p.jpg",
+						"url": "https://t.co/ztm3S0e1bR",
+						"display_url": "pic.twitter.com/ztm3S0e1bR",
+						"expanded_url": "https://twitter.com/Adriana_Lacy/status/1262436340550909955/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 789,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 827,
+								"h": 1258,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 447,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1262436110640148500,
+						"id_str": "1262436110640148480",
+						"indices": [
+							189,
+							212
+						],
+						"media_url": "http://pbs.twimg.com/media/EYUS9DZU8AACDdn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EYUS9DZU8AACDdn.jpg",
+						"url": "https://t.co/ztm3S0e1bR",
+						"display_url": "pic.twitter.com/ztm3S0e1bR",
+						"expanded_url": "https://twitter.com/Adriana_Lacy/status/1262436340550909955/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 601,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 827,
+								"h": 936,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 827,
+								"h": 936,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1262436110640091100,
+						"id_str": "1262436110640091136",
+						"indices": [
+							189,
+							212
+						],
+						"media_url": "http://pbs.twimg.com/media/EYUS9DZUEAAEida.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EYUS9DZUEAAEida.jpg",
+						"url": "https://t.co/ztm3S0e1bR",
+						"display_url": "pic.twitter.com/ztm3S0e1bR",
+						"expanded_url": "https://twitter.com/Adriana_Lacy/status/1262436340550909955/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 605,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 827,
+								"h": 929,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 827,
+								"h": 929,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 29903031,
+				"id_str": "29903031",
+				"name": "Adriana Lacy 🦅",
+				"screen_name": "Adriana_Lacy",
+				"location": "Los Angeles, CA",
+				"description": "thinking about journalism + tech • 📧 https://t.co/JZxM2sUFQs • audience @latimes • adjunct @uscannenberg • I run @jourinternships • @nytimes has-been",
+				"url": "https://t.co/RYlrRp3V9e",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/RYlrRp3V9e",
+								"expanded_url": "http://adrianalacy.com",
+								"display_url": "adrianalacy.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/JZxM2sUFQs",
+								"expanded_url": "http://adriana.substack.com",
+								"display_url": "adriana.substack.com",
+								"indices": [
+									37,
+									60
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 8080,
+				"friends_count": 2137,
+				"listed_count": 156,
+				"created_at": "Thu Apr 09 02:56:07 +0000 2009",
+				"favourites_count": 43860,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 87299,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EB1D35",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1260055312813264896/bNtn70_s_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1260055312813264896/bNtn70_s_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/29903031/1579761256",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "F6F6F6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "3b77caf94bfc81fe",
+				"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+				"place_type": "city",
+				"name": "Los Angeles",
+				"full_name": "Los Angeles, CA",
+				"country_code": "US",
+				"country": "Verenigde Staten",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-118.668404,
+								33.704538
+							],
+							[
+								-118.155409,
+								33.704538
+							],
+							[
+								-118.155409,
+								34.337041
+							],
+							[
+								-118.668404,
+								34.337041
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Instablogging dus. /cc @KirstenJassies https://t.co/7TUmFohyD2"
+	},
+	{
 		"created_at": "Mon May 18 05:33:01 +0000 2020",
 		"id": 1262254844791980000,
 		"id_str": "1262254844791980032",
