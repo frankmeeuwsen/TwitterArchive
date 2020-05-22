@@ -1,6 +1,414 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Fri May 22 20:37:38 +0000 2020",
+		"id": 1263914759856050200,
+		"id_str": "1263932051218206721",
+		"full_text": "Choose your fighter https://t.co/9KGR5Qgezi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1263914051580592000,
+					"id_str": "1263914051580592128",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/EYpTIicWAAAxlCL.png",
+					"media_url_https": "https://pbs.twimg.com/media/EYpTIicWAAAxlCL.png",
+					"url": "https://t.co/9KGR5Qgezi",
+					"display_url": "pic.twitter.com/9KGR5Qgezi",
+					"expanded_url": "https://twitter.com/MorningBrew/status/1263914759856050176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 584,
+							"h": 584,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 584,
+							"h": 584,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 584,
+							"h": 584,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1263914051580592000,
+					"id_str": "1263914051580592128",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/EYpTIicWAAAxlCL.png",
+					"media_url_https": "https://pbs.twimg.com/media/EYpTIicWAAAxlCL.png",
+					"url": "https://t.co/9KGR5Qgezi",
+					"display_url": "pic.twitter.com/9KGR5Qgezi",
+					"expanded_url": "https://twitter.com/MorningBrew/status/1263914759856050176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 584,
+							"h": 584,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 584,
+							"h": 584,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 584,
+							"h": 584,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1263914237790912500,
+					"id_str": "1263914237790912512",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/EYpTTYIWAAARbGy.png",
+					"media_url_https": "https://pbs.twimg.com/media/EYpTTYIWAAARbGy.png",
+					"url": "https://t.co/9KGR5Qgezi",
+					"display_url": "pic.twitter.com/9KGR5Qgezi",
+					"expanded_url": "https://twitter.com/MorningBrew/status/1263914759856050176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 470,
+							"h": 530,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 470,
+							"h": 530,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 470,
+							"h": 530,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1263914352912019500,
+					"id_str": "1263914352912019460",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/EYpTaE_WsAQGJOM.png",
+					"media_url_https": "https://pbs.twimg.com/media/EYpTaE_WsAQGJOM.png",
+					"url": "https://t.co/9KGR5Qgezi",
+					"display_url": "pic.twitter.com/9KGR5Qgezi",
+					"expanded_url": "https://twitter.com/MorningBrew/status/1263914759856050176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 470,
+							"h": 813,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 470,
+							"h": 813,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 393,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1263914714427461600,
+					"id_str": "1263914714427461632",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/EYpTvHvWkAAFwlV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYpTvHvWkAAFwlV.jpg",
+					"url": "https://t.co/9KGR5Qgezi",
+					"display_url": "pic.twitter.com/9KGR5Qgezi",
+					"expanded_url": "https://twitter.com/MorningBrew/status/1263914759856050176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 1278,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 901,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 511,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3092541736,
+			"id_str": "3092541736",
+			"name": "Morning Brew",
+			"screen_name": "MorningBrew",
+			"location": "New York, NY",
+			"description": "The top business news from Wall Street to Silicon Valley, daily. Let us occupy some space in your inbox ➡️ https://t.co/W6uaYEtCQw",
+			"url": "https://t.co/9jyOEYgGUT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9jyOEYgGUT",
+							"expanded_url": "http://morningbrew.com",
+							"display_url": "morningbrew.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/W6uaYEtCQw",
+							"expanded_url": "http://bit.ly/2wFk7eQ",
+							"display_url": "bit.ly/2wFk7eQ",
+							"indices": [
+								107,
+								130
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 43176,
+			"friends_count": 1420,
+			"listed_count": 343,
+			"created_at": "Mon Mar 16 18:43:25 +0000 2015",
+			"favourites_count": 3384,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 6682,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1177672352588599296/OLUd0Htt_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1177672352588599296/OLUd0Htt_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3092541736/1514928071",
+			"profile_link_color": "005AB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Choose your fighter https://t.co/9KGR5Qgezi"
+	},
+	{
+		"created_at": "Fri May 22 20:33:44 +0000 2020",
+		"id": 1263931068383666200,
+		"id_str": "1263931068383666177",
+		"full_text": "@theblub And with that, why not use Google Doc as your blogposts?",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "theblub",
+					"name": "Jelle ⬅️1.5m➡️🤳",
+					"id": 40082913,
+					"id_str": "40082913",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1263930970601861000,
+		"in_reply_to_status_id_str": "1263930970601861120",
+		"in_reply_to_user_id": 816203,
+		"in_reply_to_user_id_str": "816203",
+		"in_reply_to_screen_name": "frankmeeuwsen",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werkt bij @kaliberInteract\n\nBouwt zonder code aan https://t.co/ODgIUUbnBR en @ForSubscribing\n\nSchrijft de OPEN nieuwsbrief voor nieuwsgierige cybersurfers.",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8965,
+			"friends_count": 470,
+			"listed_count": 571,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6343,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61898,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1587661070",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@theblub And with that, why not use Google Doc as your blogposts?"
+	},
+	{
 		"created_at": "Thu May 21 16:47:27 +0000 2020",
 		"id": 1263511736935755800,
 		"id_str": "1263511736935755776",
