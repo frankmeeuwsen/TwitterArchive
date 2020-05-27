@@ -1,6 +1,270 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Wed May 27 13:53:43 +0000 2020",
+		"id": 1265637929378070500,
+		"id_str": "1265642343643914240",
+		"full_text": "Indie women with a newsletter, add it in here, I'd love to see more of you there - https://t.co/vBYfTDrKUW\n\n@anthilemoon @women_make_ @monicalent",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "anthilemoon",
+					"name": "Anne-Laure Le Cunff",
+					"id": 15996668,
+					"id_str": "15996668",
+					"indices": [
+						108,
+						120
+					]
+				},
+				{
+					"screen_name": "women_make_",
+					"name": "Women Make",
+					"id": 985472847207370800,
+					"id_str": "985472847207370753",
+					"indices": [
+						121,
+						133
+					]
+				},
+				{
+					"screen_name": "monicalent",
+					"name": "Monica Lent",
+					"id": 1158897613,
+					"id_str": "1158897613",
+					"indices": [
+						134,
+						145
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vBYfTDrKUW",
+					"expanded_url": "https://www.indiehackers.com/post/whats-your-newsletter-6f252287ed",
+					"display_url": "indiehackers.com/post/whats-you…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2204961,
+			"id_str": "2204961",
+			"name": "Rosie Sherry",
+			"screen_name": "rosiesherry",
+			"location": "Brighton, UK",
+			"description": "I ❤️ building communities • Leads community @indiehackers • Previously founded @ministryoftest • Mother to (5 unschooling) dragons",
+			"url": "https://t.co/BKTNw47otI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKTNw47otI",
+							"expanded_url": "http://rosie.land",
+							"display_url": "rosie.land",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8144,
+			"friends_count": 1166,
+			"listed_count": 371,
+			"created_at": "Sun Mar 25 20:28:31 +0000 2007",
+			"favourites_count": 10643,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15747,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C94C1",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/961178679996026880/Cqahagt0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/961178679996026880/Cqahagt0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2204961/1578961262",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "F8941D",
+			"profile_sidebar_fill_color": "FEF655",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 9,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Indie women with a newsletter, add it in here, I'd love to see more of you there - https://t.co/vBYfTDrKUW\n\n@anthilemoon @women_make_ @monicalent"
+	},
+	{
+		"created_at": "Wed May 27 13:41:23 +0000 2020",
+		"id": 1265639239691223000,
+		"id_str": "1265639239691223041",
+		"full_text": "@Reinier Hoe vind je deze? https://t.co/BG8hFaOgKg",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Reinier",
+					"name": "Reinier Ladan ⧖",
+					"id": 647393,
+					"id_str": "647393",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BG8hFaOgKg",
+					"expanded_url": "https://www.thanksforsubscribing.app/newsletter/82-percent",
+					"display_url": "thanksforsubscribing.app/newsletter/82-…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1265635498619474000,
+		"in_reply_to_status_id_str": "1265635498619473921",
+		"in_reply_to_user_id": 647393,
+		"in_reply_to_user_id_str": "647393",
+		"in_reply_to_screen_name": "Reinier",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werkt bij @kaliberInteract\n\nBouwt zonder code aan https://t.co/ODgIUUbnBR en @ForSubscribing\n\nSchrijft de OPEN nieuwsbrief voor nieuwsgierige cybersurfers.",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8965,
+			"friends_count": 472,
+			"listed_count": 571,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6358,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61940,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1587661070",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@Reinier Hoe vind je deze? https://t.co/BG8hFaOgKg"
+	},
+	{
 		"created_at": "Wed May 27 13:10:17 +0000 2020",
 		"id": 1265631410066468900,
 		"id_str": "1265631410066468865",
