@@ -1,6 +1,163 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Thu May 28 07:00:12 +0000 2020",
+		"id": 1265900663734767600,
+		"id_str": "1265900663734767617",
+		"full_text": "In je 📮 ligt de nieuwe OPEN met tips over het kiezen van je beste idee (thanks @mijustin), nieuws uit de nieuwsbriefwereld (go @substackinc!) en unhacking de podcasts met @mortenjust! \n\nhttps://t.co/JQmYdVBQBv (via @revue)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			222
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mijustin",
+					"name": "Justin Jackson",
+					"id": 17046072,
+					"id_str": "17046072",
+					"indices": [
+						79,
+						88
+					]
+				},
+				{
+					"screen_name": "SubstackInc",
+					"name": "Substack",
+					"id": 877295296828522500,
+					"id_str": "877295296828522496",
+					"indices": [
+						127,
+						139
+					]
+				},
+				{
+					"screen_name": "mortenjust",
+					"name": "Morten Just",
+					"id": 7173,
+					"id_str": "7173",
+					"indices": [
+						171,
+						182
+					]
+				},
+				{
+					"screen_name": "revue",
+					"name": "Revue",
+					"id": 3001165942,
+					"id_str": "3001165942",
+					"indices": [
+						215,
+						221
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JQmYdVBQBv",
+					"expanded_url": "http://nieuws.diggingthedigital.com/archive/250653",
+					"display_url": "nieuws.diggingthedigital.com/archive/250653",
+					"indices": [
+						186,
+						209
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.getrevue.co\" rel=\"nofollow\">Revue</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werkt bij @kaliberInteract\n\nBouwt zonder code aan https://t.co/ODgIUUbnBR en @ForSubscribing\n\nSchrijft de OPEN nieuwsbrief voor nieuwsgierige cybersurfers.",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8965,
+			"friends_count": 472,
+			"listed_count": 571,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6363,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61942,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1587661070",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "In je 📮 ligt de nieuwe OPEN met tips over het kiezen van je beste idee (thanks @mijustin), nieuws uit de nieuwsbriefwereld (go @substackinc!) en unhacking de podcasts met @mortenjust! \n\nhttps://t.co/JQmYdVBQBv (via @revue)"
+	},
+	{
 		"created_at": "Wed May 27 18:33:56 +0000 2020",
 		"id": 1265712861256523800,
 		"id_str": "1265712861256523776",
