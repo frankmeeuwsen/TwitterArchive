@@ -1,6 +1,889 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Thu May 28 19:09:28 +0000 2020",
+		"id": 1266084190342336500,
+		"id_str": "1266084190342336522",
+		"full_text": "@davenemetz @azeem @BUSlNESSBARISTA @austin_rief @web @theSamParr @brainpicker Here's a growing list of tech newsletters I subscribe to - https://t.co/IxBGQ43yNj",
+		"truncated": false,
+		"display_text_range": [
+			79,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "davenemetz",
+					"name": "Dave Nemetz",
+					"id": 15368076,
+					"id_str": "15368076",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "azeem",
+					"name": "Azeem Azhar",
+					"id": 7640782,
+					"id_str": "7640782",
+					"indices": [
+						12,
+						18
+					]
+				},
+				{
+					"screen_name": "BUSlNESSBARISTA",
+					"name": "Alex Lieberman",
+					"id": 846417084192055300,
+					"id_str": "846417084192055296",
+					"indices": [
+						19,
+						35
+					]
+				},
+				{
+					"screen_name": "austin_rief",
+					"name": "Austin Rief",
+					"id": 158610400,
+					"id_str": "158610400",
+					"indices": [
+						36,
+						48
+					]
+				},
+				{
+					"screen_name": "web",
+					"name": "Web Smith",
+					"id": 44726326,
+					"id_str": "44726326",
+					"indices": [
+						49,
+						53
+					]
+				},
+				{
+					"screen_name": "theSamParr",
+					"name": "Sam Parr ⚪️",
+					"id": 625733783,
+					"id_str": "625733783",
+					"indices": [
+						54,
+						65
+					]
+				},
+				{
+					"screen_name": "brainpicker",
+					"name": "Maria Popova",
+					"id": 9207632,
+					"id_str": "9207632",
+					"indices": [
+						66,
+						78
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/IxBGQ43yNj",
+					"expanded_url": "https://www.thanksforsubscribing.app/categories/tech-2",
+					"display_url": "thanksforsubscribing.app/categories/tec…",
+					"indices": [
+						138,
+						161
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1266017282842669000,
+		"in_reply_to_status_id_str": "1266017282842669062",
+		"in_reply_to_user_id": 15368076,
+		"in_reply_to_user_id_str": "15368076",
+		"in_reply_to_screen_name": "davenemetz",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werkt bij @kaliberInteract\n\nBouwt zonder code aan https://t.co/ODgIUUbnBR en @ForSubscribing\n\nSchrijft de OPEN nieuwsbrief voor nieuwsgierige cybersurfers.",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8964,
+			"friends_count": 472,
+			"listed_count": 571,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6368,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61956,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1587661070",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@davenemetz @azeem @BUSlNESSBARISTA @austin_rief @web @theSamParr @brainpicker Here's a growing list of tech newsletters I subscribe to - https://t.co/IxBGQ43yNj"
+	},
+	{
+		"created_at": "Thu May 28 19:06:08 +0000 2020",
+		"id": 1266083351414390800,
+		"id_str": "1266083351414390784",
+		"full_text": "De nieuwsbrief hype nu in podcasts. Dit wordt wel erg meta @elger https://t.co/CZZHO06Pol",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "elger",
+					"name": "Elger van der Wel",
+					"id": 14142375,
+					"id_str": "14142375",
+					"indices": [
+						59,
+						65
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CZZHO06Pol",
+					"expanded_url": "https://twitter.com/SubstackInc/status/1266078541398994945",
+					"display_url": "twitter.com/SubstackInc/st…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werkt bij @kaliberInteract\n\nBouwt zonder code aan https://t.co/ODgIUUbnBR en @ForSubscribing\n\nSchrijft de OPEN nieuwsbrief voor nieuwsgierige cybersurfers.",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8964,
+			"friends_count": 472,
+			"listed_count": 571,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6368,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61956,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1587661070",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1266078541398995000,
+		"quoted_status_id_str": "1266078541398994945",
+		"quoted_status_permalink": {
+			"url": "https://t.co/CZZHO06Pol",
+			"expanded": "https://twitter.com/SubstackInc/status/1266078541398994945",
+			"display": "twitter.com/SubstackInc/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 28 18:47:01 +0000 2020",
+			"id": 1266078541398995000,
+			"id_str": "1266078541398994945",
+			"full_text": "Greetings. We're bringing back the Substack Podcast. \n\nFirst episode out tomorrow, featuring @tonymecia of The Charlotte Ledger. \n\nhttps://t.co/h7cFB7QSFh",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				154
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "tonymecia",
+						"name": "Tony Mecia",
+						"id": 18401369,
+						"id_str": "18401369",
+						"indices": [
+							93,
+							103
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/h7cFB7QSFh",
+						"expanded_url": "https://on.substack.com/p/announcing-season-2-of-the-substack",
+						"display_url": "on.substack.com/p/announcing-s…",
+						"indices": [
+							131,
+							154
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 877295296828522500,
+				"id_str": "877295296828522496",
+				"name": "Substack",
+				"screen_name": "SubstackInc",
+				"location": "San Francisco",
+				"description": "A place for independent writing. We make it simple for a writer to start a paid newsletter. \n\nPlease send support questions to support@substackinc.com.",
+				"url": "https://t.co/T54ao1ZMpV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/T54ao1ZMpV",
+								"expanded_url": "http://substack.com/about",
+								"display_url": "substack.com/about",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 15626,
+				"friends_count": 2293,
+				"listed_count": 170,
+				"created_at": "Tue Jun 20 22:41:12 +0000 2017",
+				"favourites_count": 3566,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2837,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1121882576774287360/BkSn04Pm_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1121882576774287360/BkSn04Pm_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/877295296828522496/1529182115",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "De nieuwsbrief hype nu in podcasts. Dit wordt wel erg meta @elger https://t.co/CZZHO06Pol"
+	},
+	{
+		"created_at": "Thu May 28 19:05:31 +0000 2020",
+		"id": 1266083195163902000,
+		"id_str": "1266083195163901954",
+		"full_text": "Oef, dit is weer iets om uit te proberen. https://t.co/LPblp63RPX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LPblp63RPX",
+					"expanded_url": "https://twitter.com/NotionHQ/status/1266071117661270018",
+					"display_url": "twitter.com/NotionHQ/statu…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werkt bij @kaliberInteract\n\nBouwt zonder code aan https://t.co/ODgIUUbnBR en @ForSubscribing\n\nSchrijft de OPEN nieuwsbrief voor nieuwsgierige cybersurfers.",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8964,
+			"friends_count": 472,
+			"listed_count": 571,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6368,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61956,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1587661070",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1266071117661270000,
+		"quoted_status_id_str": "1266071117661270018",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LPblp63RPX",
+			"expanded": "https://twitter.com/NotionHQ/status/1266071117661270018",
+			"display": "twitter.com/NotionHQ/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 28 18:17:31 +0000 2020",
+			"id": 1266071117661270000,
+			"id_str": "1266071117661270018",
+			"full_text": "Databases are getting an upgrade today 🚗 → 🏎️\n\nCreate super specific database views with nested filters. Combine AND and OR logic, and nest up to three layers deep!\n\nLearn how here: https://t.co/gYllcuCU2a https://t.co/aMp45YUJyv",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				205
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/gYllcuCU2a",
+						"expanded_url": "https://www.notion.so/notion/Intro-to-databases-fd8cd2d212f74c50954c11086d85997e#6677c44e8d524c8394d9751a8a9de630",
+						"display_url": "notion.so/notion/Intro-t…",
+						"indices": [
+							182,
+							205
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1266070200580882400,
+						"id_str": "1266070200580882434",
+						"indices": [
+							206,
+							229
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EZH8I7ZUwAI5R6I.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EZH8I7ZUwAI5R6I.jpg",
+						"url": "https://t.co/aMp45YUJyv",
+						"display_url": "pic.twitter.com/aMp45YUJyv",
+						"expanded_url": "https://twitter.com/NotionHQ/status/1266071117661270018/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1266070200580882400,
+						"id_str": "1266070200580882434",
+						"indices": [
+							206,
+							229
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EZH8I7ZUwAI5R6I.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EZH8I7ZUwAI5R6I.jpg",
+						"url": "https://t.co/aMp45YUJyv",
+						"display_url": "pic.twitter.com/aMp45YUJyv",
+						"expanded_url": "https://twitter.com/NotionHQ/status/1266071117661270018/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/EZH8I7ZUwAI5R6I.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 708915428454576100,
+				"id_str": "708915428454576128",
+				"name": "Notion",
+				"screen_name": "NotionHQ",
+				"location": "San Francisco, CA",
+				"description": "The all-in-one workspace — for notes, tasks, wikis, and databases.",
+				"url": "https://t.co/bYQzF3Owwn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/bYQzF3Owwn",
+								"expanded_url": "http://www.notion.so",
+								"display_url": "notion.so",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 87861,
+				"friends_count": 3108,
+				"listed_count": 1115,
+				"created_at": "Sun Mar 13 07:19:43 +0000 2016",
+				"favourites_count": 25821,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 28295,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/875782063818809345/cbCR7w5R_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875782063818809345/cbCR7w5R_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/708915428454576128/1584118335",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 44,
+			"favorite_count": 409,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Oef, dit is weer iets om uit te proberen. https://t.co/LPblp63RPX"
+	},
+	{
+		"created_at": "Thu May 28 19:04:03 +0000 2020",
+		"id": 1266082826455220200,
+		"id_str": "1266082826455220225",
+		"full_text": "@MorningBrew Almost 15 years ago I uploaded this video to Youtube during the public beta test . It's still there. https://t.co/V7S6Zun3bd",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MorningBrew",
+					"name": "Morning Brew",
+					"id": 3092541736,
+					"id_str": "3092541736",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/V7S6Zun3bd",
+					"expanded_url": "https://youtu.be/uv1QaBNvIzA",
+					"display_url": "youtu.be/uv1QaBNvIzA",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1266079249007612000,
+		"in_reply_to_status_id_str": "1266079249007611905",
+		"in_reply_to_user_id": 3092541736,
+		"in_reply_to_user_id_str": "3092541736",
+		"in_reply_to_screen_name": "MorningBrew",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werkt bij @kaliberInteract\n\nBouwt zonder code aan https://t.co/ODgIUUbnBR en @ForSubscribing\n\nSchrijft de OPEN nieuwsbrief voor nieuwsgierige cybersurfers.",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8964,
+			"friends_count": 472,
+			"listed_count": 571,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6368,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61956,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1587661070",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@MorningBrew Almost 15 years ago I uploaded this video to Youtube during the public beta test . It's still there. https://t.co/V7S6Zun3bd"
+	},
+	{
 		"created_at": "Thu May 28 17:14:49 +0000 2020",
 		"id": 1266055338899452000,
 		"id_str": "1266055338899451910",
