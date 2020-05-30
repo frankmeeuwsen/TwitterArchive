@@ -1,6 +1,357 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sat May 30 21:14:47 +0000 2020",
+		"id": 1266840503007490000,
+		"id_str": "1266840503007490051",
+		"full_text": "De Suzi Q docu op NPO2 laat zien wat een invloed deze bassiste had en heeft op vrouwelijke rockmuzikanten. En wat een toffe nummers ze maakten. https://t.co/BhfMz1hXKu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BhfMz1hXKu",
+					"expanded_url": "https://twitter.com/hetuurvandewolf/status/1264482267973382145",
+					"display_url": "twitter.com/hetuurvandewol…",
+					"indices": [
+						144,
+						167
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werkt bij @kaliberInteract\n\nBouwt zonder code aan https://t.co/ODgIUUbnBR en @ForSubscribing\n\nSchrijft de OPEN nieuwsbrief voor nieuwsgierige cybersurfers.",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8961,
+			"friends_count": 474,
+			"listed_count": 571,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6377,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61974,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1587661070",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1264482267973382100,
+		"quoted_status_id_str": "1264482267973382145",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BhfMz1hXKu",
+			"expanded": "https://twitter.com/hetuurvandewolf/status/1264482267973382145",
+			"display": "twitter.com/hetuurvandewol…"
+		},
+		"quoted_status": {
+			"created_at": "Sun May 24 09:04:00 +0000 2020",
+			"id": 1264482267973382100,
+			"id_str": "1264482267973382145",
+			"full_text": "Ze was de eerste vrouwelijke bassist in een hardrockband, groeide uit tot een rolmodel voor vrouwen en verkocht 55 miljoen platen over de hele wereld. Geen vrouw is zo baanbrekend geweest in de popmuziek als @Suzi_Quatro. De documentaire Suzi Q: zaterdag, 22.15 uur op NPO 2! https://t.co/hsOZzOEwvt",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				275
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Suzi_Quatro",
+						"name": "Suzi Quatro",
+						"id": 92970923,
+						"id_str": "92970923",
+						"indices": [
+							208,
+							220
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1263859257545556000,
+						"id_str": "1263859257545555970",
+						"indices": [
+							276,
+							299
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1263859257545555970/img/8CFL4YzQJrGRdNA4.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1263859257545555970/img/8CFL4YzQJrGRdNA4.jpg",
+						"url": "https://t.co/hsOZzOEwvt",
+						"display_url": "pic.twitter.com/hsOZzOEwvt",
+						"expanded_url": "https://twitter.com/hetuurvandewolf/status/1264482267973382145/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1263859257545556000,
+						"id_str": "1263859257545555970",
+						"indices": [
+							276,
+							299
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1263859257545555970/img/8CFL4YzQJrGRdNA4.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1263859257545555970/img/8CFL4YzQJrGRdNA4.jpg",
+						"url": "https://t.co/hsOZzOEwvt",
+						"display_url": "pic.twitter.com/hsOZzOEwvt",
+						"expanded_url": "https://twitter.com/hetuurvandewolf/status/1264482267973382145/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 77440,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1263859257545555970/vid/480x480/CJPR5hL-MASkV-EB.mp4?tag=13"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1263859257545555970/vid/320x320/FwTb8Fui9i1Owyjo.mp4?tag=13"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1263859257545555970/pl/2XpGZnzL7vydey4F.m3u8?tag=13"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1263859257545555970/vid/720x720/aXvUnRxH0OZcgbo1.mp4?tag=13"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 94353051,
+				"id_str": "94353051",
+				"name": "Het Uur van de Wolf",
+				"screen_name": "hetuurvandewolf",
+				"location": "Hilversum",
+				"description": "Verrassende documentaires over kunst en cultuur. Komende films: https://t.co/UQVgV68xXg.",
+				"url": "https://t.co/uTaWg4wbpm",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/uTaWg4wbpm",
+								"expanded_url": "https://www.npostart.nl/het-uur-van-de-wolf/POMS_S_VPRO_084025",
+								"display_url": "npostart.nl/het-uur-van-de…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/UQVgV68xXg",
+								"expanded_url": "http://go.ntr.nl/hetuurvandewolf",
+								"display_url": "go.ntr.nl/hetuurvandewolf",
+								"indices": [
+									64,
+									87
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 11882,
+				"friends_count": 34,
+				"listed_count": 211,
+				"created_at": "Thu Dec 03 15:41:04 +0000 2009",
+				"favourites_count": 8315,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4971,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1006490569072398336/DNPE8HXY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1006490569072398336/DNPE8HXY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/94353051/1549963581",
+				"profile_link_color": "A90F09",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 22,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "De Suzi Q docu op NPO2 laat zien wat een invloed deze bassiste had en heeft op vrouwelijke rockmuzikanten. En wat een toffe nummers ze maakten. https://t.co/BhfMz1hXKu"
+	},
+	{
 		"created_at": "Sat May 30 20:11:31 +0000 2020",
 		"id": 1266824581412794400,
 		"id_str": "1266824581412794370",
