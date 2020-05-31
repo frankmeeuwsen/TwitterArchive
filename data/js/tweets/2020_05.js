@@ -1,6 +1,122 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sun May 31 20:40:45 +0000 2020",
+		"id": 1267192549707600000,
+		"id_str": "1267194327165476864",
+		"full_text": "En dit is geen Amerikaans probleem. De toeslagenaffaire bij de belastingdienst, SyRI die mensen met een migratieachtergrond discrimineerde en überhaupt de proliferatie van algoritmen bij de Nederlandse overheidsdiensten is een ernstig en gevaarlijk risico. https://t.co/zCfxti6nCh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zCfxti6nCh",
+					"expanded_url": "https://nos.nl/l/2286848",
+					"display_url": "nos.nl/l/2286848",
+					"indices": [
+						257,
+						280
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1267192546545021000,
+		"in_reply_to_status_id_str": "1267192546545020928",
+		"in_reply_to_user_id": 55914675,
+		"in_reply_to_user_id_str": "55914675",
+		"in_reply_to_screen_name": "bitsoffreedom",
+		"user": {
+			"id": 55914675,
+			"id_str": "55914675",
+			"name": "Bits of Freedom",
+			"screen_name": "bitsoffreedom",
+			"location": "Amsterdam, Nederland",
+			"description": "Bits of Freedom komt op voor jouw internetvrijheid. Volg onze nieuwsbrief voor nieuws & tips https://t.co/LxsIx88kGP",
+			"url": "https://t.co/0iVksIfE3z",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0iVksIfE3z",
+							"expanded_url": "https://www.bitsoffreedom.nl/",
+							"display_url": "bitsoffreedom.nl",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/LxsIx88kGP",
+							"expanded_url": "https://www.bitsoffreedom.nl/volg-ons",
+							"display_url": "bitsoffreedom.nl/volg-ons",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 31658,
+			"friends_count": 1369,
+			"listed_count": 1031,
+			"created_at": "Sat Jul 11 19:56:18 +0000 2009",
+			"favourites_count": 2310,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 27914,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110156754883670019/nS43np_g_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110156754883670019/nS43np_g_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55914675/1588855833",
+			"profile_link_color": "028C9B",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "En dit is geen Amerikaans probleem. De toeslagenaffaire bij de belastingdienst, SyRI die mensen met een migratieachtergrond discrimineerde en überhaupt de proliferatie van algoritmen bij de Nederlandse overheidsdiensten is een ernstig en gevaarlijk risico. https://t.co/zCfxti6nCh"
+	},
+	{
 		"created_at": "Sun May 31 19:50:12 +0000 2020",
 		"id": 1267181604608389000,
 		"id_str": "1267181604608389122",
