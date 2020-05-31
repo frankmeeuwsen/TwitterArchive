@@ -1,6 +1,282 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sun May 31 09:23:02 +0000 2020",
+		"id": 1266994883153277000,
+		"id_str": "1267023772843999232",
+		"full_text": "Meanwhile in Gotham city. https://t.co/tRyJ80JEaq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1266991638347493400,
+					"id_str": "1266991638347493376",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1266991638347493376/pu/img/lggoCdrG39_8zIzW.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1266991638347493376/pu/img/lggoCdrG39_8zIzW.jpg",
+					"url": "https://t.co/tRyJ80JEaq",
+					"display_url": "pic.twitter.com/tRyJ80JEaq",
+					"expanded_url": "https://twitter.com/UnbalancedMemes/status/1266991687437598721/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 400,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 400,
+							"h": 500,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1266991687437598700,
+					"source_status_id_str": "1266991687437598721",
+					"source_user_id": 1000249528820404200,
+					"source_user_id_str": "1000249528820404224"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1266991638347493400,
+					"id_str": "1266991638347493376",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1266991638347493376/pu/img/lggoCdrG39_8zIzW.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1266991638347493376/pu/img/lggoCdrG39_8zIzW.jpg",
+					"url": "https://t.co/tRyJ80JEaq",
+					"display_url": "pic.twitter.com/tRyJ80JEaq",
+					"expanded_url": "https://twitter.com/UnbalancedMemes/status/1266991687437598721/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 400,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 400,
+							"h": 500,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1266991687437598700,
+					"source_status_id_str": "1266991687437598721",
+					"source_user_id": 1000249528820404200,
+					"source_user_id_str": "1000249528820404224",
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 22083,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1266991638347493376/pu/pl/FBBxFQJGsXmpFMH1.m3u8?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1266991638347493376/pu/vid/320x400/FcQgSbL6bw39czvH.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1266991638347493376/pu/vid/400x500/-HxDKaoYfpKwBsZY.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 1000249528820404200,
+							"id_str": "1000249528820404224",
+							"name": "Cʜᴇᴍɪᴄᴀʟʟʏ Uɴʙᴀʟᴀɴᴄᴇᴅ Mᴇᴍᴇs™",
+							"screen_name": "UnbalancedMemes",
+							"location": "Oswestry, England",
+							"description": "𝘋𝘶𝘯𝘥𝘦𝘦 𝘉𝘰𝘳𝘯 𝘌𝘹 𝘈𝘥𝘥𝘪𝘤𝘵 #4𝘺𝘦𝘢𝘳𝘴\n\nUnbalanced Memes 2 is zee back up page @CUMemesTwo\n\nDM4 Unbalanced Mugs👇\nhttps://t.co/bRtwJ8CUQu",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": [
+										{
+											"url": "https://t.co/bRtwJ8CUQu",
+											"expanded_url": "http://paypal.me/UnbalancedMemes",
+											"display_url": "paypal.me/UnbalancedMemes",
+											"indices": [
+												104,
+												127
+											]
+										}
+									]
+								}
+							},
+							"protected": false,
+							"followers_count": 59513,
+							"friends_count": 5793,
+							"listed_count": 221,
+							"created_at": "Sat May 26 05:37:26 +0000 2018",
+							"favourites_count": 128806,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 35484,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1215790934639681537/P7LXYoXq_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1215790934639681537/P7LXYoXq_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1000249528820404224/1569675093",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2989847441,
+			"id_str": "2989847441",
+			"name": "Only in America",
+			"screen_name": "Crazzyintheusa",
+			"location": "",
+			"description": "A normal day in the USA. We are parody/fan of posts we dont own any copyrights. Help support this and my other channels @ https://t.co/nbM7dXfyY9 TY",
+			"url": "https://t.co/Adqm2IgH5K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Adqm2IgH5K",
+							"expanded_url": "https://www.patreon.com/Youhadonejob1",
+							"display_url": "patreon.com/Youhadonejob1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/nbM7dXfyY9",
+							"expanded_url": "https://www.paypal.me/youhadonejob",
+							"display_url": "paypal.me/youhadonejob",
+							"indices": [
+								122,
+								145
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 205272,
+			"friends_count": 170,
+			"listed_count": 1048,
+			"created_at": "Wed Jan 21 13:22:49 +0000 2015",
+			"favourites_count": 1651,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10612,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/717330709027897344/_3vEAGHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/717330709027897344/_3vEAGHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2989847441/1459859943",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 499,
+		"favorite_count": 1666,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "Meanwhile in Gotham city. https://t.co/tRyJ80JEaq"
+	},
+	{
 		"created_at": "Sun May 31 07:26:29 +0000 2020",
 		"id": 1266994442009010200,
 		"id_str": "1266994442009010176",
