@@ -1,6 +1,376 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sun May 31 05:14:37 +0000 2020",
+		"id": 1266961257049006000,
+		"id_str": "1266961257049006080",
+		"full_text": "Het is ongelooflijk wat er op live TV gebeurt. https://t.co/Oz5Xt3IPEh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Oz5Xt3IPEh",
+					"expanded_url": "https://twitter.com/4theculture____/status/1266925095030751233",
+					"display_url": "twitter.com/4theculture___…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werkt bij @kaliberInteract\n\nBouwt zonder code aan https://t.co/ODgIUUbnBR en @ForSubscribing\n\nSchrijft de OPEN nieuwsbrief voor nieuwsgierige cybersurfers.",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8961,
+			"friends_count": 474,
+			"listed_count": 571,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6377,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61978,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1587661070",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1266925095030751200,
+		"quoted_status_id_str": "1266925095030751233",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Oz5Xt3IPEh",
+			"expanded": "https://twitter.com/4theculture____/status/1266925095030751233",
+			"display": "twitter.com/4theculture___…"
+		},
+		"quoted_status": {
+			"created_at": "Sun May 31 02:50:55 +0000 2020",
+			"id": 1266925095030751200,
+			"id_str": "1266925095030751233",
+			"full_text": "WOW This happened in Atlanta on live news’s they don’t care who’s watching https://t.co/LNtQe7NSDt",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				98
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1266912317297614800,
+						"id_str": "1266912317297614851",
+						"indices": [
+							75,
+							98
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1266912317297614851/pu/img/fjsfWhwSSWXnqmWk.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1266912317297614851/pu/img/fjsfWhwSSWXnqmWk.jpg",
+						"url": "https://t.co/LNtQe7NSDt",
+						"display_url": "pic.twitter.com/LNtQe7NSDt",
+						"expanded_url": "https://twitter.com/imactuallynina/status/1266912627193774080/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1266912627193774000,
+						"source_status_id_str": "1266912627193774080",
+						"source_user_id": 2598269095,
+						"source_user_id_str": "2598269095"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1266912317297614800,
+						"id_str": "1266912317297614851",
+						"indices": [
+							75,
+							98
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1266912317297614851/pu/img/fjsfWhwSSWXnqmWk.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1266912317297614851/pu/img/fjsfWhwSSWXnqmWk.jpg",
+						"url": "https://t.co/LNtQe7NSDt",
+						"display_url": "pic.twitter.com/LNtQe7NSDt",
+						"expanded_url": "https://twitter.com/imactuallynina/status/1266912627193774080/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1266912627193774000,
+						"source_status_id_str": "1266912627193774080",
+						"source_user_id": 2598269095,
+						"source_user_id_str": "2598269095",
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 90520,
+							"variants": [
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1266912317297614851/pu/vid/320x568/2Cqn-WVLuVcP5PLA.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1266912317297614851/pu/vid/720x1280/xFH0JI1kMxMszqkc.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1266912317297614851/pu/pl/ryl-A1gZQBE8cAI9.m3u8?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1266912317297614851/pu/vid/360x640/ins7SuEODnAhPoAJ.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 2598269095,
+								"id_str": "2598269095",
+								"name": "nina | blm",
+								"screen_name": "imactuallynina",
+								"location": " cashapp $ninakp",
+								"description": "you’re my medicine || atl photographer",
+								"url": null,
+								"entities": {
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 4590,
+								"friends_count": 356,
+								"listed_count": 26,
+								"created_at": "Tue Jul 01 16:41:48 +0000 2014",
+								"favourites_count": 66897,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": true,
+								"verified": false,
+								"statuses_count": 59290,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "000000",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": true,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1164717673827074049/oGRAitN7_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164717673827074049/oGRAitN7_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/2598269095/1590880967",
+								"profile_link_color": "FF839D",
+								"profile_sidebar_border_color": "000000",
+								"profile_sidebar_fill_color": "000000",
+								"profile_text_color": "000000",
+								"profile_use_background_image": true,
+								"has_extended_profile": true,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "regular"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1169308620129034200,
+				"id_str": "1169308620129034240",
+				"name": "BlackCultureEntertainment🗣",
+				"screen_name": "4TheCulture____",
+				"location": "Paradise ",
+				"description": "Bringing You Daily Media & Breaking News DM: For Video Credit & Business",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 113580,
+				"friends_count": 7804,
+				"listed_count": 89,
+				"created_at": "Wed Sep 04 17:58:02 +0000 2019",
+				"favourites_count": 551,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 26315,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1265844810163855361/LUtR4MR6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265844810163855361/LUtR4MR6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1169308620129034240/1590783080",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2165,
+			"favorite_count": 2854,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": true,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Het is ongelooflijk wat er op live TV gebeurt. https://t.co/Oz5Xt3IPEh"
+	},
+	{
 		"created_at": "Sun May 31 04:02:14 +0000 2020",
 		"id": 1266943041308328000,
 		"id_str": "1266943041308327938",
