@@ -1,6 +1,360 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Mon Jun 01 07:10:31 +0000 2020",
+		"id": 1267154135318761500,
+		"id_str": "1267352814218547202",
+		"full_text": "In New Jersey the police officers are protesting with the people shouting “no justice no peace”.\nThis is how it should be, every police station should be walking with their community. \n\n#WalkWithUs 👏 https://t.co/uzyuRgPcR0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WalkWithUs",
+					"indices": [
+						186,
+						197
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1267154008617205800,
+					"id_str": "1267154008617205762",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1267154008617205762/pu/img/Y1gvCJ_kybUo1gim.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1267154008617205762/pu/img/Y1gvCJ_kybUo1gim.jpg",
+					"url": "https://t.co/uzyuRgPcR0",
+					"display_url": "pic.twitter.com/uzyuRgPcR0",
+					"expanded_url": "https://twitter.com/EnesKanter/status/1267154135318761475/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 888,
+							"h": 956,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 888,
+							"h": 956,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 632,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1267154008617205800,
+					"id_str": "1267154008617205762",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1267154008617205762/pu/img/Y1gvCJ_kybUo1gim.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1267154008617205762/pu/img/Y1gvCJ_kybUo1gim.jpg",
+					"url": "https://t.co/uzyuRgPcR0",
+					"display_url": "pic.twitter.com/uzyuRgPcR0",
+					"expanded_url": "https://twitter.com/EnesKanter/status/1267154135318761475/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 888,
+							"h": 956,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 888,
+							"h": 956,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 632,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							222,
+							239
+						],
+						"duration_millis": 23367,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1267154008617205762/pu/vid/360x386/sXnFtZoOiFrCG4j2.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1267154008617205762/pu/vid/720x774/Qfsjz1HRCpWyGpM8.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1267154008617205762/pu/vid/320x344/55UKx0-m45LukLPI.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1267154008617205762/pu/pl/08mPlay4ZzzXhBUM.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 302111485,
+			"id_str": "302111485",
+			"name": "Enes Kanter",
+			"screen_name": "EnesKanter",
+			"location": "Pennsylvania, USA",
+			"description": "{Hizmetin Hizmetkârı} #Live4Others ❤️ https://t.co/2ff4gWjSdE & https://t.co/OY1rPtavCH | Snapchat & TikTok: eneskanter11 FREEDOM IS NOT FREE 🕊",
+			"url": "https://t.co/Xz8IzrRXOk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Xz8IzrRXOk",
+							"expanded_url": "http://youaremyhope.org",
+							"display_url": "youaremyhope.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/2ff4gWjSdE",
+							"expanded_url": "http://Instagram.com/eneskanter11",
+							"display_url": "Instagram.com/eneskanter11",
+							"indices": [
+								38,
+								61
+							]
+						},
+						{
+							"url": "https://t.co/OY1rPtavCH",
+							"expanded_url": "http://facebook.com/KanterNBA",
+							"display_url": "facebook.com/KanterNBA",
+							"indices": [
+								64,
+								87
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 505176,
+			"friends_count": 270,
+			"listed_count": 1760,
+			"created_at": "Fri May 20 16:29:14 +0000 2011",
+			"favourites_count": 15,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9467,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238592393424797697/zFl8Iswz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238592393424797697/zFl8Iswz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/302111485/1560303093",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": [
+				"TR"
+			]
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"withheld_in_countries": [
+			"TR"
+		],
+		"is_quote_status": false,
+		"retweet_count": 2470,
+		"favorite_count": 8489,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In New Jersey the police officers are protesting with the people shouting “no justice no peace”.\nThis is how it should be, every police station should be walking with their community. \n\n#WalkWithUs 👏 https://t.co/uzyuRgPcR0"
+	},
+	{
+		"created_at": "Mon Jun 01 07:10:05 +0000 2020",
+		"id": 1267352705166725000,
+		"id_str": "1267352705166725121",
+		"full_text": "We hebben Rage Against The Machine weer nodig. Ik zou bijna zeggen, Juist Nu!...\n\nhttps://t.co/qBBC8l4Zuv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qBBC8l4Zuv",
+					"expanded_url": "https://youtu.be/Rm1nCYOZB-s",
+					"display_url": "youtu.be/Rm1nCYOZB-s",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werkt bij @kaliberInteract\n\nBouwt zonder code aan https://t.co/ODgIUUbnBR en @ForSubscribing\n\nSchrijft de OPEN nieuwsbrief voor nieuwsgierige cybersurfers.",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8960,
+			"friends_count": 474,
+			"listed_count": 571,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6379,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61996,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1587661070",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "We hebben Rage Against The Machine weer nodig. Ik zou bijna zeggen, Juist Nu!...\n\nhttps://t.co/qBBC8l4Zuv"
+	},
+	{
 		"created_at": "Mon Jun 01 05:31:57 +0000 2020",
 		"id": 1267328006529351700,
 		"id_str": "1267328006529351681",
