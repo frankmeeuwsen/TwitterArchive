@@ -1,6 +1,140 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 02 15:58:06 +0000 2020",
+		"id": 1267846430191829000,
+		"id_str": "1267847971414183938",
+		"full_text": "If you prefer a newsletter, subscribe to the plura-list, which is also ad- and tracker-free, and is utterly unadorned save a single daily emoji. Today's is \"🙌🏿\". Suggestions solicited for future emojis!\n\nSubscribe here: https://t.co/TwPzz87nAw\n\n11/",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			248
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TwPzz87nAw",
+					"expanded_url": "https://pluralistic.net/plura-list",
+					"display_url": "pluralistic.net/plura-list",
+					"indices": [
+						220,
+						243
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1267846428438573000,
+		"in_reply_to_status_id_str": "1267846428438573058",
+		"in_reply_to_user_id": 2729061,
+		"in_reply_to_user_id_str": "2729061",
+		"in_reply_to_screen_name": "doctorow",
+		"user": {
+			"id": 2729061,
+			"id_str": "2729061",
+			"name": "#BlackLivesMatter",
+			"screen_name": "doctorow",
+			"location": "Beautiful Downtown Burbank",
+			"description": "Writer, activist. If you want a reply, use email.  Blog: https://t.co/ECPLW3AJGU. Newsletter: https://t.co/WWoHcnt5gT Books: https://t.co/x4ih0Xrx8f.",
+			"url": "https://t.co/x4ih0X9WgH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x4ih0X9WgH",
+							"expanded_url": "http://craphound.com",
+							"display_url": "craphound.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ECPLW3AJGU",
+							"expanded_url": "http://pluralistic.net",
+							"display_url": "pluralistic.net",
+							"indices": [
+								57,
+								80
+							]
+						},
+						{
+							"url": "https://t.co/WWoHcnt5gT",
+							"expanded_url": "https://pluralistic.net/plura-list",
+							"display_url": "pluralistic.net/plura-list",
+							"indices": [
+								94,
+								117
+							]
+						},
+						{
+							"url": "https://t.co/x4ih0Xrx8f",
+							"expanded_url": "http://craphound.com",
+							"display_url": "craphound.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 428390,
+			"friends_count": 1860,
+			"listed_count": 12514,
+			"created_at": "Wed Mar 28 21:40:55 +0000 2007",
+			"favourites_count": 149,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 258761,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1212281151676731392/waDhlI-A_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1212281151676731392/waDhlI-A_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2729061/1398312817",
+			"profile_link_color": "3F3FC4",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you prefer a newsletter, subscribe to the plura-list, which is also ad- and tracker-free, and is utterly unadorned save a single daily emoji. Today's is \"🙌🏿\". Suggestions solicited for future emojis!\n\nSubscribe here: https://t.co/TwPzz87nAw\n\n11/"
+	},
+	{
 		"created_at": "Tue Jun 02 13:29:23 +0000 2020",
 		"id": 1267810546155319300,
 		"id_str": "1267810546155319305",
