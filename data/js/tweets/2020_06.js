@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Thu Jun 04 15:12:43 +0000 2020",
+		"id": 1262406208532516900,
+		"id_str": "1268561328052060162",
+		"full_text": "nobody:\n\nme: in the history of disney animated movies there have been exactly 18 types of songs, and i'm going to tell you about each of them",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 121881752,
+			"id_str": "121881752",
+			"name": "Justin McElroy",
+			"screen_name": "j_mcelroy",
+			"location": "Vancouver, B.C.",
+			"description": "Municipal Affairs Reporter for CBC Vancouver. Strives to tell unique stories. Opinions expressed belong to, I don't know, Xenu.\n\njustin.mcelroy@cbc.ca",
+			"url": "https://t.co/7YqrLp27J2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7YqrLp27J2",
+							"expanded_url": "https://www.cbc.ca/bc",
+							"display_url": "cbc.ca/bc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31196,
+			"friends_count": 2606,
+			"listed_count": 414,
+			"created_at": "Wed Mar 10 22:33:24 +0000 2010",
+			"favourites_count": 22745,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 40975,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/982131432331001856/dXeF9Hbh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/982131432331001856/dXeF9Hbh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/121881752/1531244194",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15956,
+		"favorite_count": 60652,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "nobody:\n\nme: in the history of disney animated movies there have been exactly 18 types of songs, and i'm going to tell you about each of them"
+	},
+	{
 		"created_at": "Thu Jun 04 10:03:08 +0000 2020",
 		"id": 1268483415130681300,
 		"id_str": "1268483415130681344",
