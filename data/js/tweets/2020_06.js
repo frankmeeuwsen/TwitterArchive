@@ -1,6 +1,163 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Thu Jun 04 20:11:28 +0000 2020",
+		"id": 1268636509873344500,
+		"id_str": "1268636509873344512",
+		"full_text": "@JWvdPol @mail_poet @Sebsel @automattic Ik heb dat eenmalig gedaan met een Integromat koppeling om een JSON in te lezen met alle oude edities. Daarna dit scenario gemaakt: https://t.co/uSNSqyTniU",
+		"truncated": false,
+		"display_text_range": [
+			40,
+			195
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JWvdPol",
+					"name": "Jan-Willem v/d Pol",
+					"id": 13089612,
+					"id_str": "13089612",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "mail_poet",
+					"name": "MailPoet",
+					"id": 395375443,
+					"id_str": "395375443",
+					"indices": [
+						9,
+						19
+					]
+				},
+				{
+					"screen_name": "Sebsel",
+					"name": "Sebastiaan Andeweg",
+					"id": 32492723,
+					"id_str": "32492723",
+					"indices": [
+						20,
+						27
+					]
+				},
+				{
+					"screen_name": "automattic",
+					"name": "Automattic",
+					"id": 15919116,
+					"id_str": "15919116",
+					"indices": [
+						28,
+						39
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/uSNSqyTniU",
+					"expanded_url": "https://diggingthedigital.com/nieuwsbrief-automatisering-met-integromat-en-revue/",
+					"display_url": "diggingthedigital.com/nieuwsbrief-au…",
+					"indices": [
+						172,
+						195
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1268635878748033000,
+		"in_reply_to_status_id_str": "1268635878748033031",
+		"in_reply_to_user_id": 13089612,
+		"in_reply_to_user_id_str": "13089612",
+		"in_reply_to_screen_name": "JWvdPol",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werkt bij @kaliberInteract\n\nBouwt zonder code aan https://t.co/ODgIUUbnBR en @ForSubscribing\n\nSchrijft de OPEN nieuwsbrief voor nieuwsgierige cybersurfers.",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8960,
+			"friends_count": 475,
+			"listed_count": 571,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6392,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62025,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1587661070",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@JWvdPol @mail_poet @Sebsel @automattic Ik heb dat eenmalig gedaan met een Integromat koppeling om een JSON in te lezen met alle oude edities. Daarna dit scenario gemaakt: https://t.co/uSNSqyTniU"
+	},
+	{
 		"created_at": "Thu Jun 04 16:44:37 +0000 2020",
 		"id": 1268584452034363400,
 		"id_str": "1268584452034363393",
