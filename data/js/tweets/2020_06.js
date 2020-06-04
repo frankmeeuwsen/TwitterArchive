@@ -1,6 +1,283 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Thu Jun 04 15:57:34 +0000 2020",
+		"id": 1268506439431184400,
+		"id_str": "1268572614538203142",
+		"full_text": "life comes at you fast #BlackLivesMatterNL https://t.co/VDAUYfREQA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BlackLivesMatterNL",
+					"indices": [
+						23,
+						42
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1268505976782585900,
+					"id_str": "1268505976782585856",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/EZqjdw2WAAAFgg4.png",
+					"media_url_https": "https://pbs.twimg.com/media/EZqjdw2WAAAFgg4.png",
+					"url": "https://t.co/VDAUYfREQA",
+					"display_url": "pic.twitter.com/VDAUYfREQA",
+					"expanded_url": "https://twitter.com/laatkapitalisme/status/1268506439431184385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 708,
+							"h": 678,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 708,
+							"h": 678,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 651,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1268505976782585900,
+					"id_str": "1268505976782585856",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/EZqjdw2WAAAFgg4.png",
+					"media_url_https": "https://pbs.twimg.com/media/EZqjdw2WAAAFgg4.png",
+					"url": "https://t.co/VDAUYfREQA",
+					"display_url": "pic.twitter.com/VDAUYfREQA",
+					"expanded_url": "https://twitter.com/laatkapitalisme/status/1268506439431184385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 708,
+							"h": 678,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 708,
+							"h": 678,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 651,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1268506195565916200,
+					"id_str": "1268506195565916162",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/EZqjqf4WsAIGaTq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZqjqf4WsAIGaTq.jpg",
+					"url": "https://t.co/VDAUYfREQA",
+					"display_url": "pic.twitter.com/VDAUYfREQA",
+					"expanded_url": "https://twitter.com/laatkapitalisme/status/1268506439431184385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1358,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 796,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 451,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1268506234447069200,
+					"id_str": "1268506234447069185",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/EZqjswuWAAE9Bme.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZqjswuWAAE9Bme.jpg",
+					"url": "https://t.co/VDAUYfREQA",
+					"display_url": "pic.twitter.com/VDAUYfREQA",
+					"expanded_url": "https://twitter.com/laatkapitalisme/status/1268506439431184385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1240,
+							"h": 827,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1268506288310423600,
+					"id_str": "1268506288310423553",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/EZqjv5YXkAECexj.png",
+					"media_url_https": "https://pbs.twimg.com/media/EZqjv5YXkAECexj.png",
+					"url": "https://t.co/VDAUYfREQA",
+					"display_url": "pic.twitter.com/VDAUYfREQA",
+					"expanded_url": "https://twitter.com/laatkapitalisme/status/1268506439431184385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 591,
+							"h": 614,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 591,
+							"h": 614,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 591,
+							"h": 614,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1078384396963586000,
+			"id_str": "1078384396963586048",
+			"name": "laatkapitalisme",
+			"screen_name": "laatkapitalisme",
+			"location": "The Netherlands",
+			"description": "archivaris van het kapitalistische parasitisme",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 616,
+			"friends_count": 3607,
+			"listed_count": 1,
+			"created_at": "Thu Dec 27 20:17:30 +0000 2018",
+			"favourites_count": 140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 455,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084774222768062464/s2EnU5BY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084774222768062464/s2EnU5BY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1078384396963586048/1547465743",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 172,
+		"favorite_count": 375,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "life comes at you fast #BlackLivesMatterNL https://t.co/VDAUYfREQA"
+	},
+	{
 		"created_at": "Thu Jun 04 15:12:43 +0000 2020",
 		"id": 1262406208532516900,
 		"id_str": "1268561328052060162",
