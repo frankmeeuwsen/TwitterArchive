@@ -1,6 +1,332 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Fri Jun 05 15:32:21 +0000 2020",
+		"id": 1268926415799554000,
+		"id_str": "1268928656228974593",
+		"full_text": "This latest hidden camera footage from James O'Keefe is pretty wild. Congrats to Project Veritas for infiltrating a right wing militia! https://t.co/NZHm5DFUgp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NZHm5DFUgp",
+					"expanded_url": "https://twitter.com/Satellit3Heart/status/1268863536299675648",
+					"display_url": "twitter.com/Satellit3Heart…",
+					"indices": [
+						136,
+						159
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16248619,
+			"id_str": "16248619",
+			"name": "Simon Owens",
+			"screen_name": "simonowens",
+			"location": "Washington, DC",
+			"description": "Tech and media journalist. Email me: simonowens@gmail.com. Full bio in link below.",
+			"url": "https://t.co/GRFE1znbsp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GRFE1znbsp",
+							"expanded_url": "https://medium.com/@simonowens/about-simon-owens-75f5cd470f3f",
+							"display_url": "medium.com/@simonowens/ab…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6664,
+			"friends_count": 792,
+			"listed_count": 655,
+			"created_at": "Thu Sep 11 22:10:10 +0000 2008",
+			"favourites_count": 909,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10444,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1206741338106056709/FHNIYphO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1206741338106056709/FHNIYphO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16248619/1412614549",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1268863536299675600,
+		"quoted_status_id_str": "1268863536299675648",
+		"quoted_status_permalink": {
+			"url": "https://t.co/NZHm5DFUgp",
+			"expanded": "https://twitter.com/Satellit3Heart/status/1268863536299675648",
+			"display": "twitter.com/Satellit3Heart…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jun 05 11:13:36 +0000 2020",
+			"id": 1268863536299675600,
+			"id_str": "1268863536299675648",
+			"full_text": "POLICE OFFICER TELLS PROUD BOYS TO HIDE INSIDE BUILDING BECAUSE THEY'RE ABOUT TO TEAR GAS PROTESTERS. THE OFFICER SAID HE WAS WARNING THEM \"DISCRETELY\" BECAUSE HE DIDNT WANT PROTESTERS TO SEE POLICE \"PLAY FAVORITES.\"\n#BLUEFALL #PoliceBrutalityPandemic #PoliceBrutality https://t.co/ri83By2EVy",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				268
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BLUEFALL",
+						"indices": [
+							217,
+							226
+						]
+					},
+					{
+						"text": "PoliceBrutalityPandemic",
+						"indices": [
+							227,
+							251
+						]
+					},
+					{
+						"text": "PoliceBrutality",
+						"indices": [
+							252,
+							268
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1268863504745889800,
+						"id_str": "1268863504745889794",
+						"indices": [
+							269,
+							292
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1268863504745889794/pu/img/940k5va0Ssmzl_o0.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1268863504745889794/pu/img/940k5va0Ssmzl_o0.jpg",
+						"url": "https://t.co/ri83By2EVy",
+						"display_url": "pic.twitter.com/ri83By2EVy",
+						"expanded_url": "https://twitter.com/Satellit3Heart/status/1268863536299675648/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 396,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 576,
+								"h": 988,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 576,
+								"h": 988,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1268863504745889800,
+						"id_str": "1268863504745889794",
+						"indices": [
+							269,
+							292
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1268863504745889794/pu/img/940k5va0Ssmzl_o0.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1268863504745889794/pu/img/940k5va0Ssmzl_o0.jpg",
+						"url": "https://t.co/ri83By2EVy",
+						"display_url": "pic.twitter.com/ri83By2EVy",
+						"expanded_url": "https://twitter.com/Satellit3Heart/status/1268863536299675648/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 396,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 576,
+								"h": 988,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 576,
+								"h": 988,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								144,
+								247
+							],
+							"duration_millis": 20034,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1268863504745889794/pu/pl/Di3AiedkSehKEY37.m3u8?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1268863504745889794/pu/vid/576x988/5SFkcAemsrxzlXan.mp4?tag=10"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1268863504745889794/pu/vid/320x548/d5ea-n9VYGOLmnQX.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1268863504745889794/pu/vid/360x616/RyqH1vukC9A_zVSm.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4179125300,
+				"id_str": "4179125300",
+				"name": "SatelliteHeart",
+				"screen_name": "Satellit3Heart",
+				"location": "",
+				"description": "Dreamer, obsessed dog mom, master procrastinator.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 361,
+				"friends_count": 180,
+				"listed_count": 4,
+				"created_at": "Mon Nov 09 12:24:24 +0000 2015",
+				"favourites_count": 2777,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 647,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1034169617223233537/TJF0_F5b_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1034169617223233537/TJF0_F5b_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4179125300/1535400379",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 58775,
+			"favorite_count": 71281,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This latest hidden camera footage from James O'Keefe is pretty wild. Congrats to Project Veritas for infiltrating a right wing militia! https://t.co/NZHm5DFUgp"
+	},
+	{
 		"created_at": "Fri Jun 05 12:58:54 +0000 2020",
 		"id": 1268851747503640600,
 		"id_str": "1268890039347564545",
