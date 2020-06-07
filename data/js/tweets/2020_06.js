@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sun Jun 07 17:18:31 +0000 2020",
+		"id": 1269674296185483300,
+		"id_str": "1269680146652545025",
+		"full_text": "Q: Why did the chicken cross the road?\nA: To wave a Bible in front of a church.\n—seen by a friend of Facebook",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 28049003,
+			"id_str": "28049003",
+			"name": "William Gibson",
+			"screen_name": "GreatDismal",
+			"location": "Vancouver",
+			"description": "Author of Neuromancer, The Peripheral, Agency. Meticulous detailer, in quarantine, of a convection stovetop etc.",
+			"url": "https://t.co/zgckv4QyDj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zgckv4QyDj",
+							"expanded_url": "http://www.williamgibsonbooks.com",
+							"display_url": "williamgibsonbooks.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 271227,
+			"friends_count": 268,
+			"listed_count": 8368,
+			"created_at": "Wed Apr 01 04:17:37 +0000 2009",
+			"favourites_count": 2550,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 182506,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/941936786841804800/ROWvk1Qs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/941936786841804800/ROWvk1Qs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/28049003/1481775615",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "4AA31A",
+			"profile_sidebar_fill_color": "BFA48D",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 216,
+		"favorite_count": 650,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Q: Why did the chicken cross the road?\nA: To wave a Bible in front of a church.\n—seen by a friend of Facebook"
+	},
+	{
 		"created_at": "Sat Jun 06 17:23:11 +0000 2020",
 		"id": 1269318934060302300,
 		"id_str": "1269318934060302336",
