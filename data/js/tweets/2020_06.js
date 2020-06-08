@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Mon Jun 08 14:04:18 +0000 2020",
+		"id": 1269993659241554000,
+		"id_str": "1269993659241553920",
+		"full_text": "Geen tijd voor je favoriete programma en kijk je liever later een keer?\nDe Nederlandse Publieke Omroep ziet daar wel brood in en start een experiment... https://t.co/0RB2VpVxQM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0RB2VpVxQM",
+					"expanded_url": "https://twitter.com/volkskrant/status/1269986561078243329",
+					"display_url": "twitter.com/volkskrant/sta…",
+					"indices": [
+						153,
+						176
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werkt bij @kaliberInteract\n\nBouwt zonder code aan https://t.co/ODgIUUbnBR en @ForSubscribing\n\nSchrijft de OPEN nieuwsbrief voor nieuwsgierige cybersurfers.",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8955,
+			"friends_count": 475,
+			"listed_count": 571,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6399,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62040,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1587661070",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1269986561078243300,
+		"quoted_status_id_str": "1269986561078243329",
+		"quoted_status_permalink": {
+			"url": "https://t.co/0RB2VpVxQM",
+			"expanded": "https://twitter.com/volkskrant/status/1269986561078243329",
+			"display": "twitter.com/volkskrant/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 08 13:36:06 +0000 2020",
+			"id": 1269986561078243300,
+			"id_str": "1269986561078243329",
+			"full_text": "Met meerdere mensen tegelijk naar een tv-programma kijken en erover chatten? De Nederlandse Publieke Omroep ziet daar wel brood in en start een experiment\nhttps://t.co/bUS7cuV0TN",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				178
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/bUS7cuV0TN",
+						"expanded_url": "https://www.volkskrant.nl/nieuws-achtergrond/npo-samen-laat-mensen-op-afstand-toch-met-elkaar-tv-kijken~b72fc6bd/",
+						"display_url": "volkskrant.nl/nieuws-achterg…",
+						"indices": [
+							155,
+							178
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3103261,
+				"id_str": "3103261",
+				"name": "de Volkskrant",
+				"screen_name": "volkskrant",
+				"location": "Amsterdam",
+				"description": "Onafhankelijk, betrouwbaar, toegankelijk: volg de Volkskrant hier voor actualiteit, opinie, cultuur en meer. \nMail: internet@volkskrant.nl. Webcare: @Webcare_VK",
+				"url": "http://t.co/hK6Jof1Z8i",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/hK6Jof1Z8i",
+								"expanded_url": "http://www.volkskrant.nl",
+								"display_url": "volkskrant.nl",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 760953,
+				"friends_count": 1518,
+				"listed_count": 3911,
+				"created_at": "Sun Apr 01 04:36:17 +0000 2007",
+				"favourites_count": 142,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 301394,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F7F7F7",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/914826679528361984/3F6_hd7T_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/914826679528361984/3F6_hd7T_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3103261/1590415893",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "003566",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Geen tijd voor je favoriete programma en kijk je liever later een keer?\nDe Nederlandse Publieke Omroep ziet daar wel brood in en start een experiment... https://t.co/0RB2VpVxQM"
+	},
+	{
 		"created_at": "Mon Jun 08 09:40:35 +0000 2020",
 		"id": 1269927295382433800,
 		"id_str": "1269927295382433792",
