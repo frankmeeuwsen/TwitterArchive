@@ -1,6 +1,188 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 09 16:04:20 +0000 2020",
+		"id": 1270385171691262000,
+		"id_str": "1270386254350344192",
+		"full_text": "🤣 https://t.co/Q80zBzZxTR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1255317957221265400,
+					"id_str": "1255317957221265409",
+					"indices": [
+						2,
+						25
+					],
+					"media_url": "http://pbs.twimg.com/media/EWvJB_hXsAE-45x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWvJB_hXsAE-45x.jpg",
+					"url": "https://t.co/Q80zBzZxTR",
+					"display_url": "pic.twitter.com/Q80zBzZxTR",
+					"expanded_url": "https://twitter.com/IL0VEthe80s/status/1255317962346635265/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 647,
+							"h": 729,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 647,
+							"h": 729,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 604,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1255317962346635300,
+					"source_status_id_str": "1255317962346635265",
+					"source_user_id": 1198992138,
+					"source_user_id_str": "1198992138"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1255317957221265400,
+					"id_str": "1255317957221265409",
+					"indices": [
+						2,
+						25
+					],
+					"media_url": "http://pbs.twimg.com/media/EWvJB_hXsAE-45x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWvJB_hXsAE-45x.jpg",
+					"url": "https://t.co/Q80zBzZxTR",
+					"display_url": "pic.twitter.com/Q80zBzZxTR",
+					"expanded_url": "https://twitter.com/IL0VEthe80s/status/1255317962346635265/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 647,
+							"h": 729,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 647,
+							"h": 729,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 604,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1255317962346635300,
+					"source_status_id_str": "1255317962346635265",
+					"source_user_id": 1198992138,
+					"source_user_id_str": "1198992138"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1198992138,
+			"id_str": "1198992138",
+			"name": "I❤️80s",
+			"screen_name": "IL0VEthe80s",
+			"location": "United Kingdom",
+			"description": "Let’s just look back fondly on the best decade ever. 😎",
+			"url": "https://t.co/UfbEG3fF8d",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UfbEG3fF8d",
+							"expanded_url": "https://www.facebook.com/il0vethe8Os/",
+							"display_url": "facebook.com/il0vethe8Os/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 222790,
+			"friends_count": 2699,
+			"listed_count": 731,
+			"created_at": "Tue Feb 19 23:48:13 +0000 2013",
+			"favourites_count": 1105,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22714,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1224312714396422146/kCANYjoN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1224312714396422146/kCANYjoN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1198992138/1544175058",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 61,
+		"favorite_count": 265,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "🤣 https://t.co/Q80zBzZxTR"
+	},
+	{
 		"created_at": "Mon Jun 08 21:01:34 +0000 2020",
 		"id": 1270098670323667000,
 		"id_str": "1270098670323666951",
