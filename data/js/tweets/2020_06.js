@@ -1,6 +1,122 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Wed Jun 10 09:54:14 +0000 2020",
+		"id": 1270655502733672400,
+		"id_str": "1270655502733672449",
+		"full_text": "@BigSteals Oef, mooi!",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BigSteals",
+					"name": "Dennis Staals",
+					"id": 28779063,
+					"id_str": "28779063",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1270655210231402500,
+		"in_reply_to_status_id_str": "1270655210231402498",
+		"in_reply_to_user_id": 28779063,
+		"in_reply_to_user_id_str": "28779063",
+		"in_reply_to_screen_name": "BigSteals",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werkt bij @kaliberInteract\n\nBouwt zonder code aan https://t.co/ODgIUUbnBR en @ForSubscribing\n\nSchrijft de OPEN nieuwsbrief voor nieuwsgierige cybersurfers.",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8950,
+			"friends_count": 477,
+			"listed_count": 571,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6407,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62051,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1587661070",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@BigSteals Oef, mooi!"
+	},
+	{
 		"created_at": "Wed Jun 10 07:48:26 +0000 2020",
 		"id": 1270623844966023200,
 		"id_str": "1270623844966023169",
