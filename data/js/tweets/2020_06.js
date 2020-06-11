@@ -1,6 +1,302 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Thu Jun 11 19:06:00 +0000 2020",
+		"id": 1271156750067077000,
+		"id_str": "1271156750067077126",
+		"full_text": "Twitter threads worden echt een conversatievorm op zich. https://t.co/TLNva0lvlo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TLNva0lvlo",
+					"expanded_url": "https://twitter.com/MakeMarketHQ/status/1271100680409939979",
+					"display_url": "twitter.com/MakeMarketHQ/s…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werkt bij @kaliberInteract\n\nBouwt zonder code aan https://t.co/ODgIUUbnBR en @ForSubscribing\n\nSchrijft de OPEN nieuwsbrief voor nieuwsgierige cybersurfers.",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8950,
+			"friends_count": 480,
+			"listed_count": 571,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6411,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62060,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1587661070",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1271100680409940000,
+		"quoted_status_id_str": "1271100680409939979",
+		"quoted_status_permalink": {
+			"url": "https://t.co/TLNva0lvlo",
+			"expanded": "https://twitter.com/MakeMarketHQ/status/1271100680409939979",
+			"display": "twitter.com/MakeMarketHQ/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 11 15:23:12 +0000 2020",
+			"id": 1271100680409940000,
+			"id_str": "1271100680409939979",
+			"full_text": "Permissionless Apprenticeship:\n\nGet help from massive accounts to grow your own audience - by helping them.\n\n[THREAD...] https://t.co/Wey6Y7eOgA",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				120
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1271081551187583000,
+						"id_str": "1271081551187582976",
+						"indices": [
+							121,
+							144
+						],
+						"media_url": "http://pbs.twimg.com/media/EaPJ77MWoAAcRL3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EaPJ77MWoAAcRL3.jpg",
+						"url": "https://t.co/Wey6Y7eOgA",
+						"display_url": "pic.twitter.com/Wey6Y7eOgA",
+						"expanded_url": "https://twitter.com/MakeMarketHQ/status/1271100680409939979/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 800,
+								"h": 400,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 400,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1271081551187583000,
+						"id_str": "1271081551187582976",
+						"indices": [
+							121,
+							144
+						],
+						"media_url": "http://pbs.twimg.com/media/EaPJ77MWoAAcRL3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EaPJ77MWoAAcRL3.jpg",
+						"url": "https://t.co/Wey6Y7eOgA",
+						"display_url": "pic.twitter.com/Wey6Y7eOgA",
+						"expanded_url": "https://twitter.com/MakeMarketHQ/status/1271100680409939979/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 800,
+								"h": 400,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 400,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1252317397056356400,
+				"id_str": "1252317397056356365",
+				"name": "Make&Market",
+				"screen_name": "MakeMarketHQ",
+				"location": "Join the newsletter!  🔥",
+				"description": "Visualized Ideas & Tactics from Makers, Founders and Entrepreneurs.",
+				"url": "https://t.co/9OoI8ZAQhE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9OoI8ZAQhE",
+								"expanded_url": "https://makeand.market/",
+								"display_url": "makeand.market",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 501,
+				"friends_count": 7,
+				"listed_count": 7,
+				"created_at": "Mon Apr 20 19:25:17 +0000 2020",
+				"favourites_count": 49,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 98,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1252319589947621382/4tU4EKX3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1252319589947621382/4tU4EKX3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1252317397056356365/1587411231",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 20,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Twitter threads worden echt een conversatievorm op zich. https://t.co/TLNva0lvlo"
+	},
+	{
 		"created_at": "Thu Jun 11 18:12:50 +0000 2020",
 		"id": 1271143369822044200,
 		"id_str": "1271143369822044163",
