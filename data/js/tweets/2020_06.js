@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Fri Jun 12 14:11:07 +0000 2020",
+		"id": 1271438156622180400,
+		"id_str": "1271444927587799041",
+		"full_text": "Do you run a newsletter? Do you have 1 subscriber or 10,000 subscribers? Newsletter Geeks is accepting new members! \n\nInstructions to join the Telegram group 👇\n\nhttps://t.co/IFsWPJuOdS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IFsWPJuOdS",
+					"expanded_url": "https://nesslabs.com/newsletter-geeks",
+					"display_url": "nesslabs.com/newsletter-gee…",
+					"indices": [
+						161,
+						184
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15996668,
+			"id_str": "15996668",
+			"name": "Anne-Laure Le Cunff",
+			"screen_name": "anthilemoon",
+			"location": "London, UK",
+			"description": "🦋 founder @ness_labs • neuroscience studies @kingscollegelon • metacognition, tools for thought, networked thinking • ex @google • public notes @mentalnodes 🦋",
+			"url": "https://t.co/CJWW2GK9A0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CJWW2GK9A0",
+							"expanded_url": "https://nesslabs.com/newsletter",
+							"display_url": "nesslabs.com/newsletter",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 24429,
+			"friends_count": 2496,
+			"listed_count": 748,
+			"created_at": "Tue Aug 26 14:10:05 +0000 2008",
+			"favourites_count": 166699,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17921,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B6A387",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1232115663315099649/L3uzIyYW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1232115663315099649/L3uzIyYW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15996668/1570109794",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "29180E",
+			"profile_text_color": "C29846",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Do you run a newsletter? Do you have 1 subscriber or 10,000 subscribers? Newsletter Geeks is accepting new members! \n\nInstructions to join the Telegram group 👇\n\nhttps://t.co/IFsWPJuOdS"
+	},
+	{
 		"created_at": "Fri Jun 12 08:28:12 +0000 2020",
 		"id": 1271358628302291000,
 		"id_str": "1271358628302290946",
