@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Fri Jun 12 21:19:04 +0000 2020",
+		"id": 1271552625159426000,
+		"id_str": "1271552625159426049",
+		"full_text": "Het is ook dit nummer waar ik ineens de naam Radio Raheem hoorde. Wat me terugbracht toen ik Do The Right Thing voor het eerst in de bioscoop zag. Waarin Raheem door de NYPD wordt gewurgd. Om niets. Shocking. Toen al. \n\nArt by @DANIELLEBKNYC. She's a queen. Check her Instagram! https://t.co/jpghij7Pnj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DANIELLEBKNYC",
+					"name": "DANIELLE MASTRION",
+					"id": 20578222,
+					"id_str": "20578222",
+					"indices": [
+						227,
+						241
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1271552620931547100,
+					"id_str": "1271552620931547136",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/EaV2XyvXgAA1dwJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaV2XyvXgAA1dwJ.jpg",
+					"url": "https://t.co/jpghij7Pnj",
+					"display_url": "pic.twitter.com/jpghij7Pnj",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1271552625159426049/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 356,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 447,
+							"h": 853,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 447,
+							"h": 853,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1271552620931547100,
+					"id_str": "1271552620931547136",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/EaV2XyvXgAA1dwJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaV2XyvXgAA1dwJ.jpg",
+					"url": "https://t.co/jpghij7Pnj",
+					"display_url": "pic.twitter.com/jpghij7Pnj",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1271552625159426049/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 356,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 447,
+							"h": 853,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 447,
+							"h": 853,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1271550304039899100,
+		"in_reply_to_status_id_str": "1271550304039899136",
+		"in_reply_to_user_id": 816203,
+		"in_reply_to_user_id_str": "816203",
+		"in_reply_to_screen_name": "frankmeeuwsen",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werkt bij @kaliberInteract\n\nBouwt zonder code aan https://t.co/ODgIUUbnBR en @ForSubscribing\n\nSchrijft de OPEN nieuwsbrief voor nieuwsgierige cybersurfers.",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8950,
+			"friends_count": 481,
+			"listed_count": 571,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6412,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62065,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1587661070",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Het is ook dit nummer waar ik ineens de naam Radio Raheem hoorde. Wat me terugbracht toen ik Do The Right Thing voor het eerst in de bioscoop zag. Waarin Raheem door de NYPD wordt gewurgd. Om niets. Shocking. Toen al. \n\nArt by @DANIELLEBKNYC. She's a queen. Check her Instagram! https://t.co/jpghij7Pnj"
+	},
+	{
 		"created_at": "Fri Jun 12 14:11:07 +0000 2020",
 		"id": 1271438156622180400,
 		"id_str": "1271444927587799041",
