@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sun Jun 14 10:20:06 +0000 2020",
+		"id": 1272012722302058500,
+		"id_str": "1272111567329427461",
+		"full_text": "The ramp I descended upon arriving at the Death Star was very long &amp; steep, had no handrail and, most importantly, was very slippery. The last thing I was going to do is “fall” for the FRN (Fake Rebel News) to have fun with. Final ten feet I ran down to level ground. Momentum! https://t.co/ZzahW37Aey",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			281
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1272012704593707000,
+					"id_str": "1272012704593707014",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/media/EacY0L8XgAY6MKL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EacY0L8XgAY6MKL.jpg",
+					"url": "https://t.co/ZzahW37Aey",
+					"display_url": "pic.twitter.com/ZzahW37Aey",
+					"expanded_url": "https://twitter.com/DarthVader/status/1272012722302058498/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 289,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 816,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1272012704593707000,
+					"id_str": "1272012704593707014",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/media/EacY0L8XgAY6MKL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EacY0L8XgAY6MKL.jpg",
+					"url": "https://t.co/ZzahW37Aey",
+					"display_url": "pic.twitter.com/ZzahW37Aey",
+					"expanded_url": "https://twitter.com/DarthVader/status/1272012722302058498/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 289,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 816,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 618593,
+			"id_str": "618593",
+			"name": "Darth Vader",
+			"screen_name": "DarthVader",
+			"location": "Empire, CO",
+			"description": "Evil Orphan Ani. Parody / Satire / Fan-Supported. Not Official & Not Affiliated with Disney, Lucasfilm, Star Wars.",
+			"url": "https://t.co/Xv6F9fHVdB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Xv6F9fHVdB",
+							"expanded_url": "http://starwars.com",
+							"display_url": "starwars.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 449789,
+			"friends_count": 5725,
+			"listed_count": 10790,
+			"created_at": "Tue Jan 09 15:42:04 +0000 2007",
+			"favourites_count": 269,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2119,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "4B4B4B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3103894633/e0d179fc5739a20308331b432e4f3a51_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3103894633/e0d179fc5739a20308331b432e4f3a51_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/618593/1358094393",
+			"profile_link_color": "AA1212",
+			"profile_sidebar_border_color": "AA1212",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "8A8A8A",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1744,
+		"favorite_count": 6713,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The ramp I descended upon arriving at the Death Star was very long &amp; steep, had no handrail and, most importantly, was very slippery. The last thing I was going to do is “fall” for the FRN (Fake Rebel News) to have fun with. Final ten feet I ran down to level ground. Momentum! https://t.co/ZzahW37Aey"
+	},
+	{
 		"created_at": "Sun Jun 14 07:51:26 +0000 2020",
 		"id": 1272074153227665400,
 		"id_str": "1272074153227665408",
