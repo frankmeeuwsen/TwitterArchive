@@ -1,6 +1,587 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Mon Jun 15 20:06:16 +0000 2020",
+		"id": 1272621467432366000,
+		"id_str": "1272621467432366080",
+		"full_text": "Na twee podcasts en een blogpost, dan ook nog een nieuwsbrief. Over nieuwsbrieven. https://t.co/zOhnmdcPgk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zOhnmdcPgk",
+					"expanded_url": "https://twitter.com/ForSubscribing/status/1272621214884823045",
+					"display_url": "twitter.com/ForSubscribing…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werkt bij @kaliberInteract\n\nBouwt zonder code aan https://t.co/ODgIUUbnBR en @ForSubscribing\n\nSchrijft de OPEN nieuwsbrief voor nieuwsgierige cybersurfers.",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8943,
+			"friends_count": 495,
+			"listed_count": 572,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6421,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62095,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1587661070",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1272621214884823000,
+		"quoted_status_id_str": "1272621214884823045",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zOhnmdcPgk",
+			"expanded": "https://twitter.com/ForSubscribing/status/1272621214884823045",
+			"display": "twitter.com/ForSubscribing…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 15 20:05:16 +0000 2020",
+			"id": 1272621214884823000,
+			"id_str": "1272621214884823045",
+			"full_text": "This edition of Thanks for Subscribing News is on 🔥 and includes\n\n@mrtrash757 (💪)\n@dhh/@jasonfried (👋)\n@newslettercrew\n@rad_letters\n@kamphey\n@indiehackers\n@TheFloodDefence\n@nanduanilal\n@ngottliebphoto\n@tylerwince\n@nathanbenaich\n\nPfew...\n\nhttps://t.co/mTeyUwsIpA",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				261
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mrtrash757",
+						"name": "Mr. Trash (Ross) ✈️ 🦝 🍕☁️",
+						"id": 236659920,
+						"id_str": "236659920",
+						"indices": [
+							66,
+							77
+						]
+					},
+					{
+						"screen_name": "dhh",
+						"name": "DHH",
+						"id": 14561327,
+						"id_str": "14561327",
+						"indices": [
+							82,
+							86
+						]
+					},
+					{
+						"screen_name": "jasonfried",
+						"name": "Jason Fried",
+						"id": 14372143,
+						"id_str": "14372143",
+						"indices": [
+							87,
+							98
+						]
+					},
+					{
+						"screen_name": "newslettercrew",
+						"name": "Newsletter Crew",
+						"id": 1108427615877115900,
+						"id_str": "1108427615877115907",
+						"indices": [
+							103,
+							118
+						]
+					},
+					{
+						"screen_name": "rad_letters",
+						"name": "Rad Letters",
+						"id": 1086119521100988400,
+						"id_str": "1086119521100988416",
+						"indices": [
+							119,
+							131
+						]
+					},
+					{
+						"screen_name": "Kamphey",
+						"name": "Kamphey",
+						"id": 880930110,
+						"id_str": "880930110",
+						"indices": [
+							132,
+							140
+						]
+					},
+					{
+						"screen_name": "IndieHackers",
+						"name": "Indie Hackers",
+						"id": 756326958946922500,
+						"id_str": "756326958946922496",
+						"indices": [
+							141,
+							154
+						]
+					},
+					{
+						"screen_name": "TheFloodDefence",
+						"name": "The Flood Defence",
+						"id": 737243691522392000,
+						"id_str": "737243691522392066",
+						"indices": [
+							155,
+							171
+						]
+					},
+					{
+						"screen_name": "nanduanilal",
+						"name": "Nandu Anilal",
+						"id": 971074097106030600,
+						"id_str": "971074097106030593",
+						"indices": [
+							172,
+							184
+						]
+					},
+					{
+						"screen_name": "ngottliebphoto",
+						"name": "Nick Gottlieb",
+						"id": 176246433,
+						"id_str": "176246433",
+						"indices": [
+							185,
+							200
+						]
+					},
+					{
+						"screen_name": "tylerwince",
+						"name": "Tyler Wince",
+						"id": 48242060,
+						"id_str": "48242060",
+						"indices": [
+							201,
+							212
+						]
+					},
+					{
+						"screen_name": "NathanBenaich",
+						"name": "Nathan Benaich",
+						"id": 422388777,
+						"id_str": "422388777",
+						"indices": [
+							213,
+							227
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/mTeyUwsIpA",
+						"expanded_url": "https://www.getrevue.co/profile/thanksforsubscribing/archive/255200",
+						"display_url": "getrevue.co/profile/thanks…",
+						"indices": [
+							238,
+							261
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.getrevue.co\" rel=\"nofollow\">Revue</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1221904161492566000,
+				"id_str": "1221904161492566016",
+				"name": "Thanks for Subscribing",
+				"screen_name": "ForSubscribing",
+				"location": "",
+				"description": "Make your inbox happy again and check out the best newsletters from the Netherlands and elsewhere! Curated by @frankmeeuwsen",
+				"url": "https://t.co/EUi1JLKpnL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/EUi1JLKpnL",
+								"expanded_url": "https://thanksforsubscribing.app",
+								"display_url": "thanksforsubscribing.app",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 25,
+				"friends_count": 34,
+				"listed_count": 1,
+				"created_at": "Mon Jan 27 21:14:06 +0000 2020",
+				"favourites_count": 17,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 91,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1221904344695656448/Z2Gu1jee_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1221904344695656448/Z2Gu1jee_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1221904161492566016/1590584335",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Na twee podcasts en een blogpost, dan ook nog een nieuwsbrief. Over nieuwsbrieven. https://t.co/zOhnmdcPgk"
+	},
+	{
+		"created_at": "Mon Jun 15 19:55:52 +0000 2020",
+		"id": 1272618848546627600,
+		"id_str": "1272618848546627592",
+		"full_text": "@CaseyRomkes Ja weet ik, maar dan moet ik er ook werkuren in blokken en dat vliegt vaak alle kanten op. Maar goed, punt 1 op de agenda is dus al bekend ;-)",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CaseyRomkes",
+					"name": "Casey",
+					"id": 7842092,
+					"id_str": "7842092",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1272617938336526300,
+		"in_reply_to_status_id_str": "1272617938336526344",
+		"in_reply_to_user_id": 7842092,
+		"in_reply_to_user_id_str": "7842092",
+		"in_reply_to_screen_name": "CaseyRomkes",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werkt bij @kaliberInteract\n\nBouwt zonder code aan https://t.co/ODgIUUbnBR en @ForSubscribing\n\nSchrijft de OPEN nieuwsbrief voor nieuwsgierige cybersurfers.",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8943,
+			"friends_count": 495,
+			"listed_count": 572,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6421,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62095,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1587661070",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@CaseyRomkes Ja weet ik, maar dan moet ik er ook werkuren in blokken en dat vliegt vaak alle kanten op. Maar goed, punt 1 op de agenda is dus al bekend ;-)"
+	},
+	{
+		"created_at": "Mon Jun 15 19:55:06 +0000 2020",
+		"id": 1272618655872946200,
+		"id_str": "1272618655872946177",
+		"full_text": "@rickpastoor Ik was even bang dat het een U2 documentaire zou zijn...",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rickpastoor",
+					"name": "Rick Pastoor",
+					"id": 14327598,
+					"id_str": "14327598",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1272611870617280500,
+		"in_reply_to_status_id_str": "1272611870617280513",
+		"in_reply_to_user_id": 14327598,
+		"in_reply_to_user_id_str": "14327598",
+		"in_reply_to_screen_name": "rickpastoor",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werkt bij @kaliberInteract\n\nBouwt zonder code aan https://t.co/ODgIUUbnBR en @ForSubscribing\n\nSchrijft de OPEN nieuwsbrief voor nieuwsgierige cybersurfers.",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8943,
+			"friends_count": 495,
+			"listed_count": 572,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6421,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62095,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1587661070",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@rickpastoor Ik was even bang dat het een U2 documentaire zou zijn..."
+	},
+	{
 		"created_at": "Mon Jun 15 16:12:17 +0000 2020",
 		"id": 1272562582616932400,
 		"id_str": "1272562582616932353",
