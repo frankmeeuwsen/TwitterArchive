@@ -1,6 +1,120 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 16 18:11:42 +0000 2020",
+		"id": 1272594607428247600,
+		"id_str": "1272955024944115713",
+		"full_text": "A few months ago @thisiskp_ sent me an idea to work on. I was meant to do it then. Yesterday I started it &amp; today it's ready! 🚀 Curated Twitter threads sent to your inbox! \n\n👇👇👇\n\nhttps://t.co/DoGXlvO6Gb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thisiskp_",
+					"name": "KP",
+					"id": 4736729423,
+					"id_str": "4736729423",
+					"indices": [
+						17,
+						27
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DoGXlvO6Gb",
+					"expanded_url": "http://www.threadzzz.com",
+					"display_url": "threadzzz.com",
+					"indices": [
+						183,
+						206
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 308772567,
+			"id_str": "308772567",
+			"name": "Steven",
+			"screen_name": "stvngunn",
+			"location": "Middlesbrough",
+			"description": "Designer + Visual Developer + NoCode maker https://t.co/2wfZny0WvI #BlackLivesMatter",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/2wfZny0WvI",
+							"expanded_url": "http://threadzzz.com",
+							"display_url": "threadzzz.com",
+							"indices": [
+								43,
+								66
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 615,
+			"friends_count": 439,
+			"listed_count": 27,
+			"created_at": "Wed Jun 01 00:01:10 +0000 2011",
+			"favourites_count": 2916,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 941,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDEDED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207417113071292417/JwJ9N7CM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207417113071292417/JwJ9N7CM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/308772567/1578231274",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "222222",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 21,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A few months ago @thisiskp_ sent me an idea to work on. I was meant to do it then. Yesterday I started it &amp; today it's ready! 🚀 Curated Twitter threads sent to your inbox! \n\n👇👇👇\n\nhttps://t.co/DoGXlvO6Gb"
+	},
+	{
 		"created_at": "Mon Jun 15 21:21:58 +0000 2020",
 		"id": 1272640515348062200,
 		"id_str": "1272640515348062209",
