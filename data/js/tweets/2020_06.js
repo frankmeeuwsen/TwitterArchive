@@ -1,6 +1,186 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Wed Jun 17 10:59:14 +0000 2020",
+		"id": 1273208578095100000,
+		"id_str": "1273208578095099910",
+		"full_text": "@NinaJuffermans Ik weet niet goed of het #onbenullig is, maar #mensen die in hun tweets van #random woorden #hashtags #maken. Het zijn vaak de #jeukwoorden als #prachtmens en #verbindingzoeker. En het is te correleren aan vouwfietsbezit en ANWB-abonnement #vrees ik.",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			266
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "onbenullig",
+					"indices": [
+						41,
+						52
+					]
+				},
+				{
+					"text": "mensen",
+					"indices": [
+						62,
+						69
+					]
+				},
+				{
+					"text": "random",
+					"indices": [
+						92,
+						99
+					]
+				},
+				{
+					"text": "hashtags",
+					"indices": [
+						108,
+						117
+					]
+				},
+				{
+					"text": "maken",
+					"indices": [
+						118,
+						124
+					]
+				},
+				{
+					"text": "jeukwoorden",
+					"indices": [
+						143,
+						155
+					]
+				},
+				{
+					"text": "prachtmens",
+					"indices": [
+						160,
+						171
+					]
+				},
+				{
+					"text": "verbindingzoeker",
+					"indices": [
+						175,
+						192
+					]
+				},
+				{
+					"text": "vrees",
+					"indices": [
+						256,
+						262
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NinaJuffermans",
+					"name": "Nina Juffermans",
+					"id": 54525614,
+					"id_str": "54525614",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1272898744955084800,
+		"in_reply_to_status_id_str": "1272898744955084804",
+		"in_reply_to_user_id": 54525614,
+		"in_reply_to_user_id_str": "54525614",
+		"in_reply_to_screen_name": "NinaJuffermans",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werkt bij @kaliberInteract\n\nBouwt zonder code aan https://t.co/ODgIUUbnBR en @ForSubscribing\n\nSchrijft de OPEN nieuwsbrief voor nieuwsgierige cybersurfers.",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8943,
+			"friends_count": 503,
+			"listed_count": 572,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6433,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62108,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1587661070",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@NinaJuffermans Ik weet niet goed of het #onbenullig is, maar #mensen die in hun tweets van #random woorden #hashtags #maken. Het zijn vaak de #jeukwoorden als #prachtmens en #verbindingzoeker. En het is te correleren aan vouwfietsbezit en ANWB-abonnement #vrees ik."
+	},
+	{
 		"created_at": "Wed Jun 17 10:14:19 +0000 2020",
 		"id": 1273197273892208600,
 		"id_str": "1273197273892208640",
