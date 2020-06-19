@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Fri Jun 19 20:37:01 +0000 2020",
+		"id": 1274078757800870000,
+		"id_str": "1274078757800869896",
+		"full_text": "Het geschuimbek is ongekend deze dagen. En je mag schuimbekken. Zoveel je wilt. Reken er alleen niet op dat iedereen het met je eens is. Zo werkt vrijheid nu eenmaal. https://t.co/U2hPUYvTPd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/U2hPUYvTPd",
+					"expanded_url": "https://twitter.com/boris/status/1274012834549153792",
+					"display_url": "twitter.com/boris/status/1…",
+					"indices": [
+						167,
+						190
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werkt bij @kaliberInteract\n\nBouwt zonder code aan https://t.co/ODgIUUbnBR en @ForSubscribing\n\nSchrijft de OPEN nieuwsbrief voor nieuwsgierige cybersurfers.",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8940,
+			"friends_count": 504,
+			"listed_count": 572,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6458,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62129,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1587661070",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1274012834549153800,
+		"quoted_status_id_str": "1274012834549153792",
+		"quoted_status_permalink": {
+			"url": "https://t.co/U2hPUYvTPd",
+			"expanded": "https://twitter.com/boris/status/1274012834549153792",
+			"display": "twitter.com/boris/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jun 19 16:15:04 +0000 2020",
+			"id": 1274012834549153800,
+			"id_str": "1274012834549153792",
+			"full_text": "Time for a refresher on what freedom of speech really means: https://t.co/zlGZwavXPW",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				84
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/zlGZwavXPW",
+						"expanded_url": "https://xkcd.com/1357/",
+						"display_url": "xkcd.com/1357/",
+						"indices": [
+							61,
+							84
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17463,
+				"id_str": "17463",
+				"name": "Boris Veldhuijzen van Zanten",
+				"screen_name": "Boris",
+				"location": "Amsterdam, The Netherlands",
+				"description": "TNW founder & CEO. Only 47% of what I say here is true or serious. ❤️ #TNWLife. Also @Boris on Instagram 📸",
+				"url": "https://t.co/cYs8oy8tk2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/cYs8oy8tk2",
+								"expanded_url": "https://thenextweb.com",
+								"display_url": "thenextweb.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 36783,
+				"friends_count": 1059,
+				"listed_count": 2001,
+				"created_at": "Thu Nov 23 08:41:34 +0000 2006",
+				"favourites_count": 4251,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 47841,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/935907447188983808/7lKigQQU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/935907447188983808/7lKigQQU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17463/1583484749",
+				"profile_link_color": "C70000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "614F6E",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 17,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Het geschuimbek is ongekend deze dagen. En je mag schuimbekken. Zoveel je wilt. Reken er alleen niet op dat iedereen het met je eens is. Zo werkt vrijheid nu eenmaal. https://t.co/U2hPUYvTPd"
+	},
+	{
 		"created_at": "Fri Jun 19 14:49:48 +0000 2020",
 		"id": 1273991378113106000,
 		"id_str": "1273991378113105920",
