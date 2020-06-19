@@ -1,6 +1,241 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Fri Jun 19 14:49:48 +0000 2020",
+		"id": 1273991378113106000,
+		"id_str": "1273991378113105920",
+		"full_text": "Dit verhaal komt op zoveel manieren binnen bij mij. Met name vanwege de 8-jarige eindbaas die al een jaar thuiszit omdat we niet blind meegaan in de meningen van scholen en SWV maar een eigen mening en idee hebben. Pittig. https://t.co/qO8GH9DRE3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			222
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qO8GH9DRE3",
+					"expanded_url": "https://twitter.com/miekeroth/status/1273918648789458945",
+					"display_url": "twitter.com/miekeroth/stat…",
+					"indices": [
+						223,
+						246
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werkt bij @kaliberInteract\n\nBouwt zonder code aan https://t.co/ODgIUUbnBR en @ForSubscribing\n\nSchrijft de OPEN nieuwsbrief voor nieuwsgierige cybersurfers.",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8941,
+			"friends_count": 504,
+			"listed_count": 572,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6455,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62128,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1587661070",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1273918648789459000,
+		"quoted_status_id_str": "1273918648789458945",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qO8GH9DRE3",
+			"expanded": "https://twitter.com/miekeroth/status/1273918648789458945",
+			"display": "twitter.com/miekeroth/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jun 19 10:00:48 +0000 2020",
+			"id": 1273918648789459000,
+			"id_str": "1273918648789458945",
+			"full_text": "Hoe langer ik er over nadenk en mijn zoon en vrienden meemaak, hoe absurder ik het vind dat #autisme onder de DSM valt. Het is geen psychische stoornis, het is een neurologische. Draadje:",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				187
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "autisme",
+						"indices": [
+							92,
+							100
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 259871223,
+				"id_str": "259871223",
+				"name": "Mieke Roth",
+				"screen_name": "miekeroth",
+				"location": "The Netherlands",
+				"description": "Animal scientist (MSc, PhD-wish)/scientific visualizer, #sciart amb at https://t.co/KeNkv8WlzE Regular Contest Judge at @Sketchfab #VaccinesWork",
+				"url": "https://t.co/De79nZ3fYD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/De79nZ3fYD",
+								"expanded_url": "https://miekeroth.eu",
+								"display_url": "miekeroth.eu",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/KeNkv8WlzE",
+								"expanded_url": "http://sketchfab.com/miekeroth",
+								"display_url": "sketchfab.com/miekeroth",
+								"indices": [
+									71,
+									94
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 5848,
+				"friends_count": 6335,
+				"listed_count": 207,
+				"created_at": "Wed Mar 02 19:28:59 +0000 2011",
+				"favourites_count": 117911,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 105924,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1141383327619923972/oeBHvpg2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1141383327619923972/oeBHvpg2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/259871223/1591615652",
+				"profile_link_color": "3B3828",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 42,
+			"favorite_count": 115,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Dit verhaal komt op zoveel manieren binnen bij mij. Met name vanwege de 8-jarige eindbaas die al een jaar thuiszit omdat we niet blind meegaan in de meningen van scholen en SWV maar een eigen mening en idee hebben. Pittig. https://t.co/qO8GH9DRE3"
+	},
+	{
 		"created_at": "Fri Jun 19 14:06:45 +0000 2020",
 		"id": 1273980542183264300,
 		"id_str": "1273980542183264257",
