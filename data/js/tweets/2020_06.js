@@ -1,6 +1,289 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sat Jun 20 18:34:14 +0000 2020",
+		"id": 1274410243930361900,
+		"id_str": "1274410243930361857",
+		"full_text": "Godverdomme, moet ik nou echt morgen op mijn vrije weekend vaderdag alsnog op de barricades? Wel met een biertje en spareribs graag. En pas ergens in de middag. Met je verzet. https://t.co/4CkSrG6wuz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4CkSrG6wuz",
+					"expanded_url": "https://twitter.com/lotusfriede/status/1274389427964588037",
+					"display_url": "twitter.com/lotusfriede/st…",
+					"indices": [
+						176,
+						199
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werkt bij @kaliberInteract\n\nBouwt zonder code aan https://t.co/ODgIUUbnBR en @ForSubscribing\n\nSchrijft de OPEN nieuwsbrief voor nieuwsgierige cybersurfers.",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8938,
+			"friends_count": 504,
+			"listed_count": 572,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6461,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62130,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1587661070",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1274389427964588000,
+		"quoted_status_id_str": "1274389427964588037",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4CkSrG6wuz",
+			"expanded": "https://twitter.com/lotusfriede/status/1274389427964588037",
+			"display": "twitter.com/lotusfriede/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jun 20 17:11:31 +0000 2020",
+			"id": 1274389427964588000,
+			"id_str": "1274389427964588037",
+			"full_text": "Vaderdag vieren is vanaf heden een daad van nationalistisch verzet. https://t.co/w1iX3FmAPK",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				67
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1274389420343427000,
+						"id_str": "1274389420343427073",
+						"indices": [
+							68,
+							91
+						],
+						"media_url": "http://pbs.twimg.com/media/Ea-KbQEWAAEH0G7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ea-KbQEWAAEH0G7.jpg",
+						"url": "https://t.co/w1iX3FmAPK",
+						"display_url": "pic.twitter.com/w1iX3FmAPK",
+						"expanded_url": "https://twitter.com/lotusfriede/status/1274389427964588037/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 307,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 542,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 925,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1274389420343427000,
+						"id_str": "1274389420343427073",
+						"indices": [
+							68,
+							91
+						],
+						"media_url": "http://pbs.twimg.com/media/Ea-KbQEWAAEH0G7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ea-KbQEWAAEH0G7.jpg",
+						"url": "https://t.co/w1iX3FmAPK",
+						"display_url": "pic.twitter.com/w1iX3FmAPK",
+						"expanded_url": "https://twitter.com/lotusfriede/status/1274389427964588037/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 307,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 542,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 925,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 793892760621289500,
+				"id_str": "793892760621289472",
+				"name": "Lotus Friede",
+				"screen_name": "lotusfriede",
+				"location": "Amsterdam, Nederland",
+				"description": "Filosofe in wording. Schrijft soms liedjes. @festivaldrift",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 437,
+				"friends_count": 2010,
+				"listed_count": 1,
+				"created_at": "Wed Nov 02 19:09:18 +0000 2016",
+				"favourites_count": 1845,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 650,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1266421622237511680/il5-wpqJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1266421622237511680/il5-wpqJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/793892760621289472/1585177605",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Godverdomme, moet ik nou echt morgen op mijn vrije weekend vaderdag alsnog op de barricades? Wel met een biertje en spareribs graag. En pas ergens in de middag. Met je verzet. https://t.co/4CkSrG6wuz"
+	},
+	{
 		"created_at": "Fri Jun 19 20:37:01 +0000 2020",
 		"id": 1274078757800870000,
 		"id_str": "1274078757800869896",
