@@ -1,6 +1,330 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sun Jun 21 18:13:52 +0000 2020",
+		"id": 1274767508466262000,
+		"id_str": "1274767508466262022",
+		"full_text": "Laat het aan Doctorow om een cultureel-digitale duiding te geven aan de acties van KPop/Tiktok communities de afgelopen tijd. Heel inzichtelijk!\n\n(wat zijn \"stans\"?) https://t.co/iSdTo18Pdd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iSdTo18Pdd",
+					"expanded_url": "https://twitter.com/doctorow/status/1274741763878424581",
+					"display_url": "twitter.com/doctorow/statu…",
+					"indices": [
+						166,
+						189
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werkt bij @kaliberInteract\n\nBouwt zonder code aan https://t.co/ODgIUUbnBR en @ForSubscribing\n\nSchrijft de OPEN nieuwsbrief voor nieuwsgierige cybersurfers.",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8938,
+			"friends_count": 504,
+			"listed_count": 572,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6463,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62139,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1587661070",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1274741763878424600,
+		"quoted_status_id_str": "1274741763878424581",
+		"quoted_status_permalink": {
+			"url": "https://t.co/iSdTo18Pdd",
+			"expanded": "https://twitter.com/doctorow/status/1274741763878424581",
+			"display": "twitter.com/doctorow/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jun 21 16:31:34 +0000 2020",
+			"id": 1274741763878424600,
+			"id_str": "1274741763878424581",
+			"full_text": "The politicization of online fandoms is always weird. Most fandoms (usually) have no intrinsic political valence, and indeed, a common strong affinity for an apolitical genre can make strange allies, bringing together people of very different politics.\n\n1/ https://t.co/DcUu0b4svt",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				256
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1274730782121029600,
+						"id_str": "1274730782121029632",
+						"indices": [
+							257,
+							280
+						],
+						"media_url": "http://pbs.twimg.com/media/EbDA5HyUcAA-xv1.png",
+						"media_url_https": "https://pbs.twimg.com/media/EbDA5HyUcAA-xv1.png",
+						"url": "https://t.co/DcUu0b4svt",
+						"display_url": "pic.twitter.com/DcUu0b4svt",
+						"expanded_url": "https://twitter.com/doctorow/status/1274741763878424581/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 598,
+								"h": 424,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 598,
+								"h": 424,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 598,
+								"h": 424,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1274730782121029600,
+						"id_str": "1274730782121029632",
+						"indices": [
+							257,
+							280
+						],
+						"media_url": "http://pbs.twimg.com/media/EbDA5HyUcAA-xv1.png",
+						"media_url_https": "https://pbs.twimg.com/media/EbDA5HyUcAA-xv1.png",
+						"url": "https://t.co/DcUu0b4svt",
+						"display_url": "pic.twitter.com/DcUu0b4svt",
+						"expanded_url": "https://twitter.com/doctorow/status/1274741763878424581/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 598,
+								"h": 424,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 598,
+								"h": 424,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 598,
+								"h": 424,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2729061,
+				"id_str": "2729061",
+				"name": "Cory Doctorow #BLM",
+				"screen_name": "doctorow",
+				"location": "Beautiful Downtown Burbank",
+				"description": "Writer, activist. My tweets are your employer's views, not mine. Blog: https://t.co/ECPLW3AJGU. Newsletter: https://t.co/5Z1HXMY6Cp Books: https://t.co/x4ih0Xrx8f.",
+				"url": "https://t.co/x4ih0Xrx8f",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/x4ih0Xrx8f",
+								"expanded_url": "http://craphound.com",
+								"display_url": "craphound.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/ECPLW3AJGU",
+								"expanded_url": "http://pluralistic.net",
+								"display_url": "pluralistic.net",
+								"indices": [
+									71,
+									94
+								]
+							},
+							{
+								"url": "https://t.co/5Z1HXMY6Cp",
+								"expanded_url": "http://pluralistic.net/plura-list",
+								"display_url": "pluralistic.net/plura-list",
+								"indices": [
+									108,
+									131
+								]
+							},
+							{
+								"url": "https://t.co/x4ih0Xrx8f",
+								"expanded_url": "http://craphound.com",
+								"display_url": "craphound.com",
+								"indices": [
+									139,
+									162
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 430191,
+				"friends_count": 1886,
+				"listed_count": 12511,
+				"created_at": "Wed Mar 28 21:40:55 +0000 2007",
+				"favourites_count": 150,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 262690,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1212281151676731392/waDhlI-A_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1212281151676731392/waDhlI-A_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2729061/1398312817",
+				"profile_link_color": "3F3FC4",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 85,
+			"favorite_count": 195,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Laat het aan Doctorow om een cultureel-digitale duiding te geven aan de acties van KPop/Tiktok communities de afgelopen tijd. Heel inzichtelijk!\n\n(wat zijn \"stans\"?) https://t.co/iSdTo18Pdd"
+	},
+	{
 		"created_at": "Sun Jun 21 16:42:24 +0000 2020",
 		"id": 1274744490725650400,
 		"id_str": "1274744490725650433",
