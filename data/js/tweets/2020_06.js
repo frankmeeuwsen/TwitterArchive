@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sun Jun 21 14:45:41 +0000 2020",
+		"id": 1274714291107778600,
+		"id_str": "1274715115871444993",
+		"full_text": "\"Tyranny is the deliberate removal of nuance.\" — Albert Maysles https://t.co/btVp4regDC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1274714081954607000,
+					"id_str": "1274714081954607105",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1274714081954607105/pu/img/-idRFA_cVG4xQyeW.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1274714081954607105/pu/img/-idRFA_cVG4xQyeW.jpg",
+					"url": "https://t.co/btVp4regDC",
+					"display_url": "pic.twitter.com/btVp4regDC",
+					"expanded_url": "https://twitter.com/visualizevalue/status/1274714291107778560/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1274714081954607000,
+					"id_str": "1274714081954607105",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1274714081954607105/pu/img/-idRFA_cVG4xQyeW.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1274714081954607105/pu/img/-idRFA_cVG4xQyeW.jpg",
+					"url": "https://t.co/btVp4regDC",
+					"display_url": "pic.twitter.com/btVp4regDC",
+					"expanded_url": "https://twitter.com/visualizevalue/status/1274714291107778560/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 9009,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1274714081954607105/pu/vid/320x320/iEo9gklQpMPUH-2k.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1274714081954607105/pu/vid/480x480/Xf-lGCCgFnrp1rpy.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1274714081954607105/pu/pl/8T4WATkX33v4Ued_.m3u8?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1274714081954607105/pu/vid/720x720/kCF1ZwdlR2iElSTU.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1086480695428567000,
+			"id_str": "1086480695428567041",
+			"name": "Visualize Value",
+			"screen_name": "visualizevalue",
+			"location": "New York, NY",
+			"description": "Mental Wealth Service.",
+			"url": "https://t.co/W2m6RtemsO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W2m6RtemsO",
+							"expanded_url": "http://howto.visualizevalue.com",
+							"display_url": "howto.visualizevalue.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38822,
+			"friends_count": 1,
+			"listed_count": 410,
+			"created_at": "Sat Jan 19 04:29:18 +0000 2019",
+			"favourites_count": 3215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 772,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1094365086221774848/z1PyksBl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1094365086221774848/z1PyksBl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1086480695428567041/1588104811",
+			"profile_link_color": "19FFAB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 42,
+		"favorite_count": 146,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Tyranny is the deliberate removal of nuance.\" — Albert Maysles https://t.co/btVp4regDC"
+	},
+	{
 		"created_at": "Sun Jun 21 11:52:52 +0000 2020",
 		"id": 1274671627754709000,
 		"id_str": "1274671627754708994",
