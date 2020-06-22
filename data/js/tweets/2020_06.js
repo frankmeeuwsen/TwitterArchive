@@ -1,6 +1,413 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Mon Jun 22 13:58:32 +0000 2020",
+		"id": 1275065639011446800,
+		"id_str": "1275065639011446787",
+		"full_text": "Daniel was eigenlijk de slechterik in de film. En nu wacht ik op @Jessemoerkerk om me het tegendeel te bewijzen. https://t.co/rZMIkrg5pq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Jessemoerkerk",
+					"name": "Jesse Moerkerk",
+					"id": 319033092,
+					"id_str": "319033092",
+					"indices": [
+						65,
+						79
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rZMIkrg5pq",
+					"expanded_url": "https://twitter.com/il0vethe80s/status/1275052163677523970",
+					"display_url": "twitter.com/il0vethe80s/st…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werkt bij @kaliberInteract\n\nBouwt zonder code aan https://t.co/ODgIUUbnBR en @ForSubscribing\n\nSchrijft de OPEN nieuwsbrief voor nieuwsgierige cybersurfers.",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8936,
+			"friends_count": 510,
+			"listed_count": 572,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6469,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62140,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1587661070",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1275052163677524000,
+		"quoted_status_id_str": "1275052163677523970",
+		"quoted_status_permalink": {
+			"url": "https://t.co/rZMIkrg5pq",
+			"expanded": "https://twitter.com/il0vethe80s/status/1275052163677523970",
+			"display": "twitter.com/il0vethe80s/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 22 13:04:59 +0000 2020",
+			"id": 1275052163677524000,
+			"id_str": "1275052163677523970",
+			"full_text": "36 years ago today on 22 June 1984 'The Karate Kid' was first released in cinemas.\n\nIm sure you’ll agree it is an 80s clasic...\nhttps://t.co/3PFyiJXktF",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				151
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 877805362505711600,
+						"id_str": "877805362505711616",
+						"indices": [
+							128,
+							151
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/877805362505711616/pu/img/K0yO1fqIXIK7AWz8.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/877805362505711616/pu/img/K0yO1fqIXIK7AWz8.jpg",
+						"url": "https://t.co/3PFyiJXktF",
+						"display_url": "pic.twitter.com/3PFyiJXktF",
+						"expanded_url": "https://twitter.com/IL0VEthe80s/status/877825786602020864/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 877825786602020900,
+						"source_status_id_str": "877825786602020864",
+						"source_user_id": 1198992138,
+						"source_user_id_str": "1198992138"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 877805362505711600,
+						"id_str": "877805362505711616",
+						"indices": [
+							128,
+							151
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/877805362505711616/pu/img/K0yO1fqIXIK7AWz8.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/877805362505711616/pu/img/K0yO1fqIXIK7AWz8.jpg",
+						"url": "https://t.co/3PFyiJXktF",
+						"display_url": "pic.twitter.com/3PFyiJXktF",
+						"expanded_url": "https://twitter.com/IL0VEthe80s/status/877825786602020864/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 877825786602020900,
+						"source_status_id_str": "877825786602020864",
+						"source_user_id": 1198992138,
+						"source_user_id_str": "1198992138",
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 126268,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/877805362505711616/pu/vid/320x180/90w32jYbVkK6T-S4.mp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/877805362505711616/pu/vid/1280x720/QCE6CicaU19cl_80.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/877805362505711616/pu/vid/640x360/g5BlR1SQawhyqJVs.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/877805362505711616/pu/pl/mqicw5W1GOsQkEVH.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 1198992138,
+								"id_str": "1198992138",
+								"name": "I❤️80s",
+								"screen_name": "IL0VEthe80s",
+								"location": "United Kingdom",
+								"description": "Let’s just look back fondly on the best decade ever. 😎",
+								"url": "https://t.co/UfbEG3fF8d",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/UfbEG3fF8d",
+												"expanded_url": "https://www.facebook.com/il0vethe8Os/",
+												"display_url": "facebook.com/il0vethe8Os/",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 223729,
+								"friends_count": 2708,
+								"listed_count": 734,
+								"created_at": "Tue Feb 19 23:48:13 +0000 2013",
+								"favourites_count": 1132,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": false,
+								"verified": false,
+								"statuses_count": 22811,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "C0DEED",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": true,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1224312714396422146/kCANYjoN_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1224312714396422146/kCANYjoN_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/1198992138/1544175058",
+								"profile_link_color": "FF0000",
+								"profile_sidebar_border_color": "000000",
+								"profile_sidebar_fill_color": "000000",
+								"profile_text_color": "000000",
+								"profile_use_background_image": true,
+								"has_extended_profile": true,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": true,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1198992138,
+				"id_str": "1198992138",
+				"name": "I❤️80s",
+				"screen_name": "IL0VEthe80s",
+				"location": "United Kingdom",
+				"description": "Let’s just look back fondly on the best decade ever. 😎",
+				"url": "https://t.co/UfbEG3fF8d",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UfbEG3fF8d",
+								"expanded_url": "https://www.facebook.com/il0vethe8Os/",
+								"display_url": "facebook.com/il0vethe8Os/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 223729,
+				"friends_count": 2708,
+				"listed_count": 734,
+				"created_at": "Tue Feb 19 23:48:13 +0000 2013",
+				"favourites_count": 1132,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 22811,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1224312714396422146/kCANYjoN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1224312714396422146/kCANYjoN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1198992138/1544175058",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 180,
+			"favorite_count": 719,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Daniel was eigenlijk de slechterik in de film. En nu wacht ik op @Jessemoerkerk om me het tegendeel te bewijzen. https://t.co/rZMIkrg5pq"
+	},
+	{
 		"created_at": "Sun Jun 21 18:13:52 +0000 2020",
 		"id": 1274767508466262000,
 		"id_str": "1274767508466262022",
