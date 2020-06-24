@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Wed Jun 24 06:15:50 +0000 2020",
+		"id": 1275654397335351300,
+		"id_str": "1275673970906456064",
+		"full_text": "This will be a tiny part of tomorrow’s newsletter, I promise, but still: there’s a world where Android Instant Apps and iOS App Clips wouldn’t be necessary or burdening developers with more work 1/\n\nhttps://t.co/eQoSjfnBa4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			222
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eQoSjfnBa4",
+					"expanded_url": "http://www.theverge.com/newsletters",
+					"display_url": "theverge.com/newsletters",
+					"indices": [
+						199,
+						222
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1090141,
+			"id_str": "1090141",
+			"name": "Dieter Bohn",
+			"screen_name": "backlon",
+			"location": "San Francisco, CA",
+			"description": "Executive Editor, The Verge. Tech commentary. Typos are intentional jokes I mean obviously.",
+			"url": "https://t.co/DY1lIa4P2a",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DY1lIa4P2a",
+							"expanded_url": "http://theverge.com",
+							"display_url": "theverge.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 148945,
+			"friends_count": 1255,
+			"listed_count": 3322,
+			"created_at": "Tue Mar 13 14:29:47 +0000 2007",
+			"favourites_count": 19641,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5819,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1258868483636383744/-CJizwPg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1258868483636383744/-CJizwPg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1090141/1461611018",
+			"profile_link_color": "0A3057",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 46,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This will be a tiny part of tomorrow’s newsletter, I promise, but still: there’s a world where Android Instant Apps and iOS App Clips wouldn’t be necessary or burdening developers with more work 1/\n\nhttps://t.co/eQoSjfnBa4"
+	},
+	{
 		"created_at": "Tue Jun 23 18:56:42 +0000 2020",
 		"id": 1275503064007483400,
 		"id_str": "1275503064007483393",
