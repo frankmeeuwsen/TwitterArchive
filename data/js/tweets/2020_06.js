@@ -1,6 +1,532 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Thu Jun 25 17:57:30 +0000 2020",
+		"id": 1276212938647486500,
+		"id_str": "1276212938647486464",
+		"full_text": "https://t.co/puEWx52lYb https://t.co/8IGcROBUM4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/puEWx52lYb",
+					"expanded_url": "https://twitter.com/airtable/status/1276204785662742529",
+					"display_url": "twitter.com/airtable/statu…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1276212930724446200,
+					"id_str": "1276212930724446211",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EbYE5hmXQAMwPDI.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EbYE5hmXQAMwPDI.jpg",
+					"url": "https://t.co/8IGcROBUM4",
+					"display_url": "pic.twitter.com/8IGcROBUM4",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1276212938647486464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 498,
+							"h": 372,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 372,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 372,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1276212930724446200,
+					"id_str": "1276212930724446211",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EbYE5hmXQAMwPDI.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EbYE5hmXQAMwPDI.jpg",
+					"url": "https://t.co/8IGcROBUM4",
+					"display_url": "pic.twitter.com/8IGcROBUM4",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1276212938647486464/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 498,
+							"h": 372,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 372,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 372,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							83,
+							62
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EbYE5hmXQAMwPDI.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8940,
+			"friends_count": 518,
+			"listed_count": 573,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6483,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62168,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1276204785662742500,
+		"quoted_status_id_str": "1276204785662742529",
+		"quoted_status_permalink": {
+			"url": "https://t.co/puEWx52lYb",
+			"expanded": "https://twitter.com/airtable/status/1276204785662742529",
+			"display": "twitter.com/airtable/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 25 17:25:06 +0000 2020",
+			"id": 1276204785662742500,
+			"id_str": "1276204785662742529",
+			"full_text": "Introducing our newest field type: button field 🎉 Schedule a calendar event, send an email, create a custom invoice, generate a report, find stock images, or open a prefilled Airtable form—with just the click of a custom button. https://t.co/BE1ahQ1AL1",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				252
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/BE1ahQ1AL1",
+						"expanded_url": "https://blog.airtable.com/now-available-button-field/",
+						"display_url": "blog.airtable.com/now-available-…",
+						"indices": [
+							229,
+							252
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2786252385,
+				"id_str": "2786252385",
+				"name": "Airtable",
+				"screen_name": "airtable",
+				"location": "San Francisco, CA",
+				"description": "Create, your way.  Follow @airtablestatus for service status updates, @airtabledev for API and platform news, and visit https://t.co/hv2dEZwFSt for help.",
+				"url": "https://t.co/IQvMkr4Psw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IQvMkr4Psw",
+								"expanded_url": "http://airtable.com",
+								"display_url": "airtable.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/hv2dEZwFSt",
+								"expanded_url": "http://support.airtable.com",
+								"display_url": "support.airtable.com",
+								"indices": [
+									120,
+									143
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 29256,
+				"friends_count": 693,
+				"listed_count": 750,
+				"created_at": "Fri Sep 26 20:46:35 +0000 2014",
+				"favourites_count": 3150,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 2247,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "428BF7",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/913790926950096896/xt2OyAdt_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/913790926950096896/xt2OyAdt_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2786252385/1535661994",
+				"profile_link_color": "3276DC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 44,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/puEWx52lYb https://t.co/8IGcROBUM4"
+	},
+	{
+		"created_at": "Thu Jun 25 17:54:53 +0000 2020",
+		"id": 1276212280322031600,
+		"id_str": "1276212280322031616",
+		"full_text": "Vanavond mijn artikel afronden over het groeiende ecosysteem rondom nieuwsbrieven. Binnenkort op een website bij jouw internet! https://t.co/P8ogu6fUdA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1276212272667467800,
+					"id_str": "1276212272667467776",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EbYETOJWoAAJH4d.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EbYETOJWoAAJH4d.jpg",
+					"url": "https://t.co/P8ogu6fUdA",
+					"display_url": "pic.twitter.com/P8ogu6fUdA",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1276212280322031616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 500,
+							"h": 350,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 350,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1276212272667467800,
+					"id_str": "1276212272667467776",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EbYETOJWoAAJH4d.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EbYETOJWoAAJH4d.jpg",
+					"url": "https://t.co/P8ogu6fUdA",
+					"display_url": "pic.twitter.com/P8ogu6fUdA",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1276212280322031616/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 500,
+							"h": 350,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 350,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 350,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							10,
+							7
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EbYETOJWoAAJH4d.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8940,
+			"friends_count": 518,
+			"listed_count": 573,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6483,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62168,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238895651896860672/UOuWcVZz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Vanavond mijn artikel afronden over het groeiende ecosysteem rondom nieuwsbrieven. Binnenkort op een website bij jouw internet! https://t.co/P8ogu6fUdA"
+	},
+	{
 		"created_at": "Thu Jun 25 12:04:57 +0000 2020",
 		"id": 1276124219416461300,
 		"id_str": "1276124219416461312",
@@ -16,7 +542,7 @@ Grailbird.data.tweets_2020_06 =
 			"user_mentions": [
 				{
 					"screen_name": "IndiraReynaert",
-					"name": "Indira Reynaert👩🏻‍🎓",
+					"name": "Indira Reynaert👩🏻🎓",
 					"id": 3408191,
 					"id_str": "3408191",
 					"indices": [
