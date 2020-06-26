@@ -1,6 +1,122 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Fri Jun 26 16:54:08 +0000 2020",
+		"id": 1276471391110348800,
+		"id_str": "1276559383145721856",
+		"full_text": "What it actually is: a guide to 👁👄👁 https://t.co/MBHSXiVmc8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MBHSXiVmc8",
+					"expanded_url": "https://constine.substack.com/p/what-does-mean-well",
+					"display_url": "constine.substack.com/p/what-does-me…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19563366,
+			"id_str": "19563366",
+			"name": "Josh Constine -SignalFire",
+			"screen_name": "JoshConstine",
+			"location": "Mission SF, CA",
+			"description": "Principal & Head Of Content at @SignalFire. Ex-editor at @TechCrunch. Now writing on my newsletter at https://t.co/zhljWDJFoa",
+			"url": "https://t.co/zhljWDJFoa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zhljWDJFoa",
+							"expanded_url": "http://constine.substack.com",
+							"display_url": "constine.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/zhljWDJFoa",
+							"expanded_url": "http://constine.substack.com",
+							"display_url": "constine.substack.com",
+							"indices": [
+								102,
+								125
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 77306,
+			"friends_count": 2437,
+			"listed_count": 2545,
+			"created_at": "Mon Jan 26 22:41:23 +0000 2009",
+			"favourites_count": 52682,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 36669,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "469CFB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1253034434216919040/oiMQKhyy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1253034434216919040/oiMQKhyy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19563366/1588654758",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "C3F4D4",
+			"profile_sidebar_fill_color": "FBC67E",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 92,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What it actually is: a guide to 👁👄👁 https://t.co/MBHSXiVmc8"
+	},
+	{
 		"created_at": "Fri Jun 26 15:35:09 +0000 2020",
 		"id": 1276539503725940700,
 		"id_str": "1276539503725940738",
