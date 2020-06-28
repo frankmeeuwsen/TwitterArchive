@@ -1,6 +1,280 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sun Jun 28 20:06:16 +0000 2020",
+		"id": 1277135563473158100,
+		"id_str": "1277332507046838278",
+		"full_text": "DC police are now doing this every night when they think the cameras are gone.\n\nTrashing food and medical supplies, hitting people in the face, using mace.\n\nThe police brutality. Has. Not. Stopped. \n\n https://t.co/hNeFuMHJI7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			224
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1277097467952222200,
+					"id_str": "1277097467952222209",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1277097467952222209/img/35TIb7I0TFvrr2LV.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1277097467952222209/img/35TIb7I0TFvrr2LV.jpg",
+					"url": "https://t.co/hNeFuMHJI7",
+					"display_url": "pic.twitter.com/hNeFuMHJI7",
+					"expanded_url": "https://twitter.com/wyattreed13/status/1277105206355021824/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1277105206355021800,
+					"source_status_id_str": "1277105206355021824",
+					"source_user_id": 908943769981956100,
+					"source_user_id_str": "908943769981956097"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1277097467952222200,
+					"id_str": "1277097467952222209",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1277097467952222209/img/35TIb7I0TFvrr2LV.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1277097467952222209/img/35TIb7I0TFvrr2LV.jpg",
+					"url": "https://t.co/hNeFuMHJI7",
+					"display_url": "pic.twitter.com/hNeFuMHJI7",
+					"expanded_url": "https://twitter.com/wyattreed13/status/1277105206355021824/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1277105206355021800,
+					"source_status_id_str": "1277105206355021824",
+					"source_user_id": 908943769981956100,
+					"source_user_id_str": "908943769981956097",
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 110888,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1277097467952222209/vid/320x568/8n0clFyYTRSKQvAR.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1277097467952222209/pl/HZzazuo9YeB6LlcW.m3u8?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1277097467952222209/vid/720x1280/HgK2qnrAUx5pdE3N.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1277097467952222209/vid/360x640/ag3iyHloxic394uA.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false,
+						"source_user": {
+							"id": 908943769981956100,
+							"id_str": "908943769981956097",
+							"name": "Wyatt Reed",
+							"screen_name": "wyattreed13",
+							"location": "",
+							"description": "journalist / anti-imperialist / focus on Latin America\n@roanoketimes @mintpressnews @thegrayzonenews @sputnikint\n             \nhttps://t.co/INvnI2tEnS",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": [
+										{
+											"url": "https://t.co/INvnI2tEnS",
+											"expanded_url": "https://www.paypal.me/wyattreed13",
+											"display_url": "paypal.me/wyattreed13",
+											"indices": [
+												127,
+												150
+											]
+										}
+									]
+								}
+							},
+							"protected": false,
+							"followers_count": 8514,
+							"friends_count": 762,
+							"listed_count": 102,
+							"created_at": "Sat Sep 16 06:40:56 +0000 2017",
+							"favourites_count": 13684,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 2156,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1210512292179316737/NwprACJ8_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210512292179316737/NwprACJ8_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/908943769981956097/1577465895",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1090715513586679800,
+			"id_str": "1090715513586679813",
+			"name": "Joshua Potash",
+			"screen_name": "JoshuaPotash",
+			"location": "Queens, NY",
+			"description": "Trump is the biggest threat to Democracy that the U.S. has ever seen. We need to get him out. 🆘 #BlackLivesMatter",
+			"url": "https://t.co/5rJyMk1xtZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5rJyMk1xtZ",
+							"expanded_url": "https://transformharm.org/",
+							"display_url": "transformharm.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 96689,
+			"friends_count": 587,
+			"listed_count": 469,
+			"created_at": "Wed Jan 30 20:56:57 +0000 2019",
+			"favourites_count": 105041,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15221,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267117596542930949/ja591xA4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267117596542930949/ja591xA4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1090715513586679813/1549834444",
+			"profile_link_color": "14171A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21728,
+		"favorite_count": 21703,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "DC police are now doing this every night when they think the cameras are gone.\n\nTrashing food and medical supplies, hitting people in the face, using mace.\n\nThe police brutality. Has. Not. Stopped. \n\n https://t.co/hNeFuMHJI7"
+	},
+	{
 		"created_at": "Sun Jun 28 17:23:43 +0000 2020",
 		"id": 1277291603644858400,
 		"id_str": "1277291603644858369",
