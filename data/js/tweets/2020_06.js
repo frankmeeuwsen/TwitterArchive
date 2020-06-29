@@ -1,6 +1,274 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Mon Jun 29 21:49:05 +0000 2020",
+		"id": 1277720773524967400,
+		"id_str": "1277720773524967426",
+		"full_text": "@HumphryJoey @roosvanvugt @RogerBloem Of ze volgen deze lijn... https://t.co/XWItRPSPaw https://t.co/EbJ5SnQhMs",
+		"truncated": false,
+		"display_text_range": [
+			38,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HumphryJoey",
+					"name": "Humphry",
+					"id": 54028848,
+					"id_str": "54028848",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "roosvanvugt",
+					"name": "Roos van Vugt",
+					"id": 21687228,
+					"id_str": "21687228",
+					"indices": [
+						13,
+						25
+					]
+				},
+				{
+					"screen_name": "RogerBloem",
+					"name": "Roger Bloem 🍔🍟",
+					"id": 253752128,
+					"id_str": "253752128",
+					"indices": [
+						26,
+						37
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XWItRPSPaw",
+					"expanded_url": "https://twitter.com/reckless/status/1276667254109810688?s=21",
+					"display_url": "twitter.com/reckless/statu…",
+					"indices": [
+						64,
+						87
+					]
+				},
+				{
+					"url": "https://t.co/EbJ5SnQhMs",
+					"expanded_url": "https://twitter.com/reckless/status/1276667254109810688",
+					"display_url": "twitter.com/reckless/statu…",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1277690698628767700,
+		"in_reply_to_status_id_str": "1277690698628767746",
+		"in_reply_to_user_id": 54028848,
+		"in_reply_to_user_id_str": "54028848",
+		"in_reply_to_screen_name": "HumphryJoey",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8941,
+			"friends_count": 522,
+			"listed_count": 575,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6490,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62203,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1276667254109810700,
+		"quoted_status_id_str": "1276667254109810688",
+		"quoted_status_permalink": {
+			"url": "https://t.co/EbJ5SnQhMs",
+			"expanded": "https://twitter.com/reckless/status/1276667254109810688",
+			"display": "twitter.com/reckless/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jun 27 00:02:47 +0000 2020",
+			"id": 1276667254109810700,
+			"id_str": "1276667254109810688",
+			"full_text": "CEO: The pandemic has wrecked our forecasts for the year\nCMO: Uh oh\nCEO: As you know, the first thing to get cut is advertising\nCMO: What if I take the social media line to zero and turn that into a gigantic earned media win https://t.co/AsjjRCbiBc",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				248
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/AsjjRCbiBc",
+						"expanded_url": "https://www.theverge.com/2020/6/26/21305065/coca-cola-pause-ads-facebook-social-platforms-july-boycott",
+						"display_url": "theverge.com/2020/6/26/2130…",
+						"indices": [
+							225,
+							248
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3496641,
+				"id_str": "3496641",
+				"name": "nilay patel",
+				"screen_name": "reckless",
+				"location": "Brooklyn, NY",
+				"description": "Editor-in-chief of The Verge. CNBC contributor. Host of The Vergecast, everywhere good podcasts are served. I am in love with spectacle.",
+				"url": "https://t.co/DY1lIa4P2a",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/DY1lIa4P2a",
+								"expanded_url": "http://theverge.com",
+								"display_url": "theverge.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 141393,
+				"friends_count": 1981,
+				"listed_count": 4939,
+				"created_at": "Thu Apr 05 06:32:55 +0000 2007",
+				"favourites_count": 32467,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 4639,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/548935852051533824/r9MxISa-_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/548935852051533824/r9MxISa-_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3496641/1412390971",
+				"profile_link_color": "91D2FA",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 229,
+			"favorite_count": 1185,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@HumphryJoey @roosvanvugt @RogerBloem Of ze volgen deze lijn... https://t.co/XWItRPSPaw https://t.co/EbJ5SnQhMs"
+	},
+	{
 		"created_at": "Mon Jun 29 20:36:27 +0000 2020",
 		"id": 1277702490880905200,
 		"id_str": "1277702490880905218",
