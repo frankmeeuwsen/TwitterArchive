@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 30 10:43:13 +0000 2020",
+		"id": 1277893587016040400,
+		"id_str": "1277915590049648640",
+		"full_text": "Ik heb de afgelopen tijd een boekje geschreven, een zine. De eerste in een reeks over het opstarten van je eigen persoonlijke besturingssysteem: hoe je je todolijstje upgrade naar heldere instructies.\n\nWaarover het gaat, wat een zine is en hoe het te kopen lees je in dit draadje. https://t.co/fd7lyt9Umj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1277891036308783000,
+					"id_str": "1277891036308783104",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/Ebv7IIDXQAA-BQn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ebv7IIDXQAA-BQn.jpg",
+					"url": "https://t.co/fd7lyt9Umj",
+					"display_url": "pic.twitter.com/fd7lyt9Umj",
+					"expanded_url": "https://twitter.com/Reinier/status/1277893587016040448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 506,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 506,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1277891036308783000,
+					"id_str": "1277891036308783104",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/Ebv7IIDXQAA-BQn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ebv7IIDXQAA-BQn.jpg",
+					"url": "https://t.co/fd7lyt9Umj",
+					"display_url": "pic.twitter.com/fd7lyt9Umj",
+					"expanded_url": "https://twitter.com/Reinier/status/1277893587016040448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 506,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 506,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 647393,
+			"id_str": "647393",
+			"name": "Reinier Ladan ⧖",
+			"screen_name": "Reinier",
+			"location": "The Netherlands",
+			"description": "Te horen en te lezen op: @appelsperenshow, @snuggerezaken en @mindermaarbeter. Freelance te huren als Product Owner en Designer. Remote workshops en lezingen.",
+			"url": "https://t.co/Jtp8kUwmHV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Jtp8kUwmHV",
+							"expanded_url": "https://reinierladan.nl",
+							"display_url": "reinierladan.nl",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3015,
+			"friends_count": 1281,
+			"listed_count": 152,
+			"created_at": "Tue Jan 16 16:59:15 +0000 2007",
+			"favourites_count": 20052,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 40546,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210661337640132609/MM0rtcSU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210661337640132609/MM0rtcSU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/647393/1487759229",
+			"profile_link_color": "0393D6",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Ik heb de afgelopen tijd een boekje geschreven, een zine. De eerste in een reeks over het opstarten van je eigen persoonlijke besturingssysteem: hoe je je todolijstje upgrade naar heldere instructies.\n\nWaarover het gaat, wat een zine is en hoe het te kopen lees je in dit draadje. https://t.co/fd7lyt9Umj"
+	},
+	{
 		"created_at": "Tue Jun 30 07:45:32 +0000 2020",
 		"id": 1277870873735843800,
 		"id_str": "1277870873735843840",
