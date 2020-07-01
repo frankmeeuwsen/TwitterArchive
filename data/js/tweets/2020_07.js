@@ -1,6 +1,637 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Wed Jul 01 18:54:51 +0000 2020",
+		"id": 1278401699653267500,
+		"id_str": "1278401699653267456",
+		"full_text": "@Scheer Fantastische nummers maar het schuurt allemaal nog iets te weinig...",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Scheer",
+					"name": "Maarten Scheer",
+					"id": 6294872,
+					"id_str": "6294872",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1278397938323120000,
+		"in_reply_to_status_id_str": "1278397938323120135",
+		"in_reply_to_user_id": 6294872,
+		"in_reply_to_user_id_str": "6294872",
+		"in_reply_to_screen_name": "Scheer",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8944,
+			"friends_count": 530,
+			"listed_count": 574,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6500,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62234,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@Scheer Fantastische nummers maar het schuurt allemaal nog iets te weinig..."
+	},
+	{
+		"created_at": "Wed Jul 01 18:49:35 +0000 2020",
+		"id": 1278400373179498500,
+		"id_str": "1278400373179498496",
+		"full_text": "@PhotoJeanique @Oli4K Dan ben je me net voor ;-)",
+		"truncated": false,
+		"display_text_range": [
+			22,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PhotoJeanique",
+					"name": "Jeanique. ✊🏽✊🏾✊🏿",
+					"id": 14224758,
+					"id_str": "14224758",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "Oli4K",
+					"name": "Olivier Slabbers ► –◉––– hello.mp3",
+					"id": 6091182,
+					"id_str": "6091182",
+					"indices": [
+						15,
+						21
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1278400149899919400,
+		"in_reply_to_status_id_str": "1278400149899919372",
+		"in_reply_to_user_id": 14224758,
+		"in_reply_to_user_id_str": "14224758",
+		"in_reply_to_screen_name": "PhotoJeanique",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8944,
+			"friends_count": 530,
+			"listed_count": 574,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6500,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62234,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@PhotoJeanique @Oli4K Dan ben je me net voor ;-)"
+	},
+	{
+		"created_at": "Wed Jul 01 18:48:44 +0000 2020",
+		"id": 1278400162579320800,
+		"id_str": "1278400162579320832",
+		"full_text": "@PhotoJeanique @Oli4K Ik wil daarbij niet zeggen dat zus en ouders ongelijk hebben. Ik vind echter de berichtgeving op Facebook eenzijdig en toonzettend over het boek. Wat het niet verdient.",
+		"truncated": false,
+		"display_text_range": [
+			22,
+			190
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PhotoJeanique",
+					"name": "Jeanique. ✊🏽✊🏾✊🏿",
+					"id": 14224758,
+					"id_str": "14224758",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "Oli4K",
+					"name": "Olivier Slabbers ► –◉––– hello.mp3",
+					"id": 6091182,
+					"id_str": "6091182",
+					"indices": [
+						15,
+						21
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1278396260425306000,
+		"in_reply_to_status_id_str": "1278396260425306116",
+		"in_reply_to_user_id": 14224758,
+		"in_reply_to_user_id_str": "14224758",
+		"in_reply_to_screen_name": "PhotoJeanique",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8944,
+			"friends_count": 530,
+			"listed_count": 574,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6500,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62234,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@PhotoJeanique @Oli4K Ik wil daarbij niet zeggen dat zus en ouders ongelijk hebben. Ik vind echter de berichtgeving op Facebook eenzijdig en toonzettend over het boek. Wat het niet verdient."
+	},
+	{
+		"created_at": "Wed Jul 01 18:47:20 +0000 2020",
+		"id": 1278399808437276700,
+		"id_str": "1278399808437276672",
+		"full_text": "@PhotoJeanique @Oli4K Mijn persoonlijke mening is dat het lastig is om van één bron uit te gaan bij zulke precaire onderwerpen. Juist omdat het een boek op school gaat. Dat staat daar niet voor niets. Een voorbeeld van iets meer achtergrond: https://t.co/U3sIKrQZ2m",
+		"truncated": false,
+		"display_text_range": [
+			22,
+			265
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PhotoJeanique",
+					"name": "Jeanique. ✊🏽✊🏾✊🏿",
+					"id": 14224758,
+					"id_str": "14224758",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "Oli4K",
+					"name": "Olivier Slabbers ► –◉––– hello.mp3",
+					"id": 6091182,
+					"id_str": "6091182",
+					"indices": [
+						15,
+						21
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/U3sIKrQZ2m",
+					"expanded_url": "https://www.jaapleest.nl/een-onaangenaam-verhaal-de-herkansing/",
+					"display_url": "jaapleest.nl/een-onaangenaa…",
+					"indices": [
+						242,
+						265
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1278396260425306000,
+		"in_reply_to_status_id_str": "1278396260425306116",
+		"in_reply_to_user_id": 14224758,
+		"in_reply_to_user_id_str": "14224758",
+		"in_reply_to_screen_name": "PhotoJeanique",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8944,
+			"friends_count": 530,
+			"listed_count": 574,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6500,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62234,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@PhotoJeanique @Oli4K Mijn persoonlijke mening is dat het lastig is om van één bron uit te gaan bij zulke precaire onderwerpen. Juist omdat het een boek op school gaat. Dat staat daar niet voor niets. Een voorbeeld van iets meer achtergrond: https://t.co/U3sIKrQZ2m"
+	},
+	{
+		"created_at": "Wed Jul 01 18:32:31 +0000 2020",
+		"id": 1278396080158314500,
+		"id_str": "1278396080158314499",
+		"full_text": "@PhotoJeanique @Oli4K Het is heftig voor een kind van 9 om dit zonder begeleiding, uitleg en duiding van een leerkracht te lezen. Maar zoek bronnen die over dit boek praten (onderwijsrecensies etc) en dan merk je dat het allemaal wel iets genuanceerder ligt wát dit voor boek is.",
+		"truncated": false,
+		"display_text_range": [
+			22,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PhotoJeanique",
+					"name": "Jeanique. ✊🏽✊🏾✊🏿",
+					"id": 14224758,
+					"id_str": "14224758",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "Oli4K",
+					"name": "Olivier Slabbers ► –◉––– hello.mp3",
+					"id": 6091182,
+					"id_str": "6091182",
+					"indices": [
+						15,
+						21
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1278382385793568800,
+		"in_reply_to_status_id_str": "1278382385793568770",
+		"in_reply_to_user_id": 14224758,
+		"in_reply_to_user_id_str": "14224758",
+		"in_reply_to_screen_name": "PhotoJeanique",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8944,
+			"friends_count": 530,
+			"listed_count": 574,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6500,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62234,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@PhotoJeanique @Oli4K Het is heftig voor een kind van 9 om dit zonder begeleiding, uitleg en duiding van een leerkracht te lezen. Maar zoek bronnen die over dit boek praten (onderwijsrecensies etc) en dan merk je dat het allemaal wel iets genuanceerder ligt wát dit voor boek is."
+	},
+	{
 		"created_at": "Wed Jul 01 17:31:55 +0000 2020",
 		"id": 1278380828708475000,
 		"id_str": "1278380828708474880",
