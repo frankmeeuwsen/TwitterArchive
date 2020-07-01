@@ -1,6 +1,111 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Wed Jul 01 14:26:43 +0000 2020",
+		"id": 1278315310312034300,
+		"id_str": "1278334220088348672",
+		"full_text": "I’m still looking for more newsletters to sponsor (to promote my new course ‘Profitable Newsletters').\n\nIf you have a newsletter with over 1,000 subscribers, please send me a DM 🤓",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14853133,
+			"id_str": "14853133",
+			"name": "Chris ✈️",
+			"screen_name": "KintuLabs",
+			"location": "Remote",
+			"description": "I built and sold 2 large newsletters and now teach others how to do it here: https://t.co/nBWv9FMG5D",
+			"url": "https://t.co/1KX6N0Lqxc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1KX6N0Lqxc",
+							"expanded_url": "https://Kintu.co",
+							"display_url": "Kintu.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/nBWv9FMG5D",
+							"expanded_url": "https://kintu.co/profitable-newsletters/",
+							"display_url": "kintu.co/profitable-new…",
+							"indices": [
+								77,
+								100
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3931,
+			"friends_count": 622,
+			"listed_count": 240,
+			"created_at": "Wed May 21 06:27:08 +0000 2008",
+			"favourites_count": 9476,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12866,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1256531954603888640/WJIkpoNF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1256531954603888640/WJIkpoNF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14853133/1442989463",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I’m still looking for more newsletters to sponsor (to promote my new course ‘Profitable Newsletters').\n\nIf you have a newsletter with over 1,000 subscribers, please send me a DM 🤓"
+	},
+	{
 		"created_at": "Wed Jul 01 06:07:57 +0000 2020",
 		"id": 1278208703380979700,
 		"id_str": "1278208703380979712",
@@ -1065,7 +1170,7 @@ Grailbird.data.tweets_2020_07 =
 		"created_at": "Wed Jul 01 06:07:54 +0000 2020",
 		"id": 1278208688864575500,
 		"id_str": "1278208688864575488",
-		"full_text": "👨‍🎤 Persoonlijkheid: De grootste bewegingen zien we op dit moment in nieuwsbrieven die een directe relatie zijn tussen de schrijver en de lezer. Die wordt steeds belangrijker om de relatie te bouwen en te houden. \n\n5/14",
+		"full_text": "👨🎤 Persoonlijkheid: De grootste bewegingen zien we op dit moment in nieuwsbrieven die een directe relatie zijn tussen de schrijver en de lezer. Die wordt steeds belangrijker om de relatie te bouwen en te houden. \n\n5/14",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1164,7 +1269,7 @@ Grailbird.data.tweets_2020_07 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "nl",
-		"text": "👨‍🎤 Persoonlijkheid: De grootste bewegingen zien we op dit moment in nieuwsbrieven die een directe relatie zijn tussen de schrijver en de lezer. Die wordt steeds belangrijker om de relatie te bouwen en te houden. \n\n5/14"
+		"text": "👨🎤 Persoonlijkheid: De grootste bewegingen zien we op dit moment in nieuwsbrieven die een directe relatie zijn tussen de schrijver en de lezer. Die wordt steeds belangrijker om de relatie te bouwen en te houden. \n\n5/14"
 	},
 	{
 		"created_at": "Wed Jul 01 06:07:53 +0000 2020",
