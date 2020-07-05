@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Sun Jul 05 17:29:28 +0000 2020",
+		"id": 1279142402624610300,
+		"id_str": "1279829762597359616",
+		"full_text": "Jerry: He offered you a red pill and a blue pill?\nGeorge: Two pills, no water\nJerry: No water?\nGeorge: No water\nJerry: Cant take a pill without water\nGeorge: Never could\nJerry: So what’d you do?\nGeorge: I left. I’m not choking down a dry pill\nKramer enters in a leather coat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 42314531,
+			"id_str": "42314531",
+			"name": "Jamie “Guys Being Dudes” Carbone",
+			"screen_name": "ThiccSonic",
+			"location": "Portland, OR",
+			"description": "BLM, They/Him",
+			"url": "https://t.co/55IaK6a8cv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/55IaK6a8cv",
+							"expanded_url": "https://medium.com/@jamiecarbone",
+							"display_url": "medium.com/@jamiecarbone",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1546,
+			"friends_count": 535,
+			"listed_count": 19,
+			"created_at": "Mon May 25 00:40:53 +0000 2009",
+			"favourites_count": 15109,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20959,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1153786164442042369/nzK3hGja_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1153786164442042369/nzK3hGja_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/42314531/1512877298",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "829D5E",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5935,
+		"favorite_count": 35479,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Jerry: He offered you a red pill and a blue pill?\nGeorge: Two pills, no water\nJerry: No water?\nGeorge: No water\nJerry: Cant take a pill without water\nGeorge: Never could\nJerry: So what’d you do?\nGeorge: I left. I’m not choking down a dry pill\nKramer enters in a leather coat"
+	},
+	{
 		"created_at": "Sat Jul 04 17:21:57 +0000 2020",
 		"id": 1279462461524119600,
 		"id_str": "1279465482802921474",
