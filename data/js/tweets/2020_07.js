@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Mon Jul 06 12:22:03 +0000 2020",
+		"id": 1280075890349793300,
+		"id_str": "1280114788446752769",
+		"full_text": "The last edition of the Maker Mind newsletter was the 50th!\n\nHere are the top lessons I learned from writing and sending a weekly newsletter for a year 🙌\n\nhttps://t.co/Cic6Fk6Bpv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Cic6Fk6Bpv",
+					"expanded_url": "https://nesslabs.com/50-lessons-50-newsletters",
+					"display_url": "nesslabs.com/50-lessons-50-…",
+					"indices": [
+						155,
+						178
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15996668,
+			"id_str": "15996668",
+			"name": "Anne-Laure Le Cunff",
+			"screen_name": "anthilemoon",
+			"location": "London, UK",
+			"description": "founder @ness_labs • neuroscience studies @kingscollegelon • metacognition, tools for thought, networked thinking • ex @google • public notes @mentalnodes",
+			"url": "https://t.co/CJWW2GK9A0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CJWW2GK9A0",
+							"expanded_url": "https://nesslabs.com/newsletter",
+							"display_url": "nesslabs.com/newsletter",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25886,
+			"friends_count": 2572,
+			"listed_count": 812,
+			"created_at": "Tue Aug 26 14:10:05 +0000 2008",
+			"favourites_count": 168203,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18367,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B6A387",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1232115663315099649/L3uzIyYW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1232115663315099649/L3uzIyYW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15996668/1570109794",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "29180E",
+			"profile_text_color": "C29846",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 102,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The last edition of the Maker Mind newsletter was the 50th!\n\nHere are the top lessons I learned from writing and sending a weekly newsletter for a year 🙌\n\nhttps://t.co/Cic6Fk6Bpv"
+	},
+	{
 		"created_at": "Mon Jul 06 09:49:02 +0000 2020",
 		"id": 1280060997772902400,
 		"id_str": "1280076281330221056",
