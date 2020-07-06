@@ -1,6 +1,236 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Mon Jul 06 09:49:02 +0000 2020",
+		"id": 1280060997772902400,
+		"id_str": "1280076281330221056",
+		"full_text": "The CyberPunk Culture Conference 2020 is now officially open for business. The presentations have been uploaded and can be viewed/read. Discussions start on Thursday (see timetable). Please join us https://t.co/8x3WTKV9py #cpcc20 #cyberpunk #conference #sciencefiction #digital https://t.co/2N0Xj3qrmI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "cpcc20",
+					"indices": [
+						222,
+						229
+					]
+				},
+				{
+					"text": "cyberpunk",
+					"indices": [
+						230,
+						240
+					]
+				},
+				{
+					"text": "conference",
+					"indices": [
+						241,
+						252
+					]
+				},
+				{
+					"text": "sciencefiction",
+					"indices": [
+						253,
+						268
+					]
+				},
+				{
+					"text": "digital",
+					"indices": [
+						269,
+						277
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8x3WTKV9py",
+					"expanded_url": "http://www.cyberpunkculture.com",
+					"display_url": "cyberpunkculture.com",
+					"indices": [
+						198,
+						221
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1280060825055694800,
+					"id_str": "1280060825055694848",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EcOwidBWkAAfhEY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcOwidBWkAAfhEY.jpg",
+					"url": "https://t.co/2N0Xj3qrmI",
+					"display_url": "pic.twitter.com/2N0Xj3qrmI",
+					"expanded_url": "https://twitter.com/CyberpunkCult/status/1280060997772902401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 317,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 560,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 956,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1280060825055694800,
+					"id_str": "1280060825055694848",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EcOwidBWkAAfhEY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcOwidBWkAAfhEY.jpg",
+					"url": "https://t.co/2N0Xj3qrmI",
+					"display_url": "pic.twitter.com/2N0Xj3qrmI",
+					"expanded_url": "https://twitter.com/CyberpunkCult/status/1280060997772902401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 317,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 560,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 956,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1251094417638854700,
+			"id_str": "1251094417638854658",
+			"name": "Cyberpunk Culture Conference",
+			"screen_name": "CyberpunkCult",
+			"location": "online only",
+			"description": "CyberPunk Culture Conference, taking place online from July 9th to July 10th, 2020 - visit https://t.co/0xUrZ5qQ8j",
+			"url": "https://t.co/0xUrZ5qQ8j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0xUrZ5qQ8j",
+							"expanded_url": "http://www.cyberpunkculture.com",
+							"display_url": "cyberpunkculture.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/0xUrZ5qQ8j",
+							"expanded_url": "http://www.cyberpunkculture.com",
+							"display_url": "cyberpunkculture.com",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 219,
+			"friends_count": 193,
+			"listed_count": 2,
+			"created_at": "Fri Apr 17 10:25:35 +0000 2020",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 19,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1251094535532433408/ed7aOPfo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1251094535532433408/ed7aOPfo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1251094417638854658/1587283375",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The CyberPunk Culture Conference 2020 is now officially open for business. The presentations have been uploaded and can be viewed/read. Discussions start on Thursday (see timetable). Please join us https://t.co/8x3WTKV9py #cpcc20 #cyberpunk #conference #sciencefiction #digital https://t.co/2N0Xj3qrmI"
+	},
+	{
 		"created_at": "Sun Jul 05 20:19:41 +0000 2020",
 		"id": 1279872600647315500,
 		"id_str": "1279872600647315456",
