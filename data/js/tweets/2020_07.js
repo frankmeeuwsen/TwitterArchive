@@ -1,6 +1,264 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Tue Jul 07 08:04:17 +0000 2020",
+		"id": 1280173160843935700,
+		"id_str": "1280412307475124225",
+		"full_text": "Got to love a bit of #Amiga Bubble Bobble. #commodore https://t.co/UJQ0R2Oewq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Amiga",
+					"indices": [
+						21,
+						27
+					]
+				},
+				{
+					"text": "commodore",
+					"indices": [
+						43,
+						53
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1280173087057678300,
+					"id_str": "1280173087057678341",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1280173087057678341/pu/img/NxeySgDv0LBfWvTv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1280173087057678341/pu/img/NxeySgDv0LBfWvTv.jpg",
+					"url": "https://t.co/UJQ0R2Oewq",
+					"display_url": "pic.twitter.com/UJQ0R2Oewq",
+					"expanded_url": "https://twitter.com/theretrobyte/status/1280173160843935750/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 554,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 554,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 554,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1280173087057678300,
+					"id_str": "1280173087057678341",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1280173087057678341/pu/img/NxeySgDv0LBfWvTv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1280173087057678341/pu/img/NxeySgDv0LBfWvTv.jpg",
+					"url": "https://t.co/UJQ0R2Oewq",
+					"display_url": "pic.twitter.com/UJQ0R2Oewq",
+					"expanded_url": "https://twitter.com/theretrobyte/status/1280173160843935750/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 554,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 554,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 554,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							277,
+							180
+						],
+						"duration_millis": 82520,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1280173087057678341/pu/pl/qna47b_7EwSE_m38.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1280173087057678341/pu/vid/554x360/-N-VRaSb2M6eo_ux.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1280173087057678341/pu/vid/414x270/pokmS-OMm_2r2xa-.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1094591847597523000,
+			"id_str": "1094591847597522946",
+			"name": "The Retro Byte",
+			"screen_name": "theretrobyte",
+			"location": "Sheffield, England",
+			"description": "Gen 1 gamer, collector & video creator. Unhealthy interest in all kinds of retro video games & nostalgia.\n#Atari #Commodore/Modern\nhttps://t.co/4WPXOGaXUv",
+			"url": "https://t.co/9f9LryPNyy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9f9LryPNyy",
+							"expanded_url": "https://www.youtube.com/channel/UCWFVqwYQkcrINOpAS99kCLA",
+							"display_url": "youtube.com/channel/UCWFVq…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/4WPXOGaXUv",
+							"expanded_url": "http://ko-fi.com/theretrobyte",
+							"display_url": "ko-fi.com/theretrobyte",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1762,
+			"friends_count": 614,
+			"listed_count": 11,
+			"created_at": "Sun Feb 10 13:40:07 +0000 2019",
+			"favourites_count": 11366,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6702,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1256943322385526786/-UOSMAW7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1256943322385526786/-UOSMAW7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1094591847597522946/1550695703",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "07e9c7d1954fff64",
+			"url": "https://api.twitter.com/1.1/geo/id/07e9c7d1954fff64.json",
+			"place_type": "city",
+			"name": "Sheffield",
+			"full_name": "Sheffield, England",
+			"country_code": "GB",
+			"country": "Verenigd Koninkrijk",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-1.573648,
+							53.309898
+						],
+						[
+							-1.325576,
+							53.309898
+						],
+						[
+							-1.325576,
+							53.4564311
+						],
+						[
+							-1.573648,
+							53.4564311
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 31,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Got to love a bit of #Amiga Bubble Bobble. #commodore https://t.co/UJQ0R2Oewq"
+	},
+	{
 		"created_at": "Tue Jul 07 05:45:50 +0000 2020",
 		"id": 1280377465077215200,
 		"id_str": "1280377465077215232",
