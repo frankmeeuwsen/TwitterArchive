@@ -1,6 +1,533 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Fri Jul 10 17:38:18 +0000 2020",
+		"id": 1281643927452278800,
+		"id_str": "1281643927452278789",
+		"full_text": "Nieuw leesvoer. @offscreenmag is altijd 💪 https://t.co/2L53BTW2fU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "offscreenmag",
+					"name": "Offscreen Magazine",
+					"id": 345882217,
+					"id_str": "345882217",
+					"indices": [
+						16,
+						29
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1281643922331242500,
+					"id_str": "1281643922331242496",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/EclQW18XkAAfwP6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EclQW18XkAAfwP6.jpg",
+					"url": "https://t.co/2L53BTW2fU",
+					"display_url": "pic.twitter.com/2L53BTW2fU",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1281643927452278789/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1281643922331242500,
+					"id_str": "1281643922331242496",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/EclQW18XkAAfwP6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EclQW18XkAAfwP6.jpg",
+					"url": "https://t.co/2L53BTW2fU",
+					"display_url": "pic.twitter.com/2L53BTW2fU",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1281643927452278789/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8945,
+			"friends_count": 535,
+			"listed_count": 571,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6524,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62272,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Nieuw leesvoer. @offscreenmag is altijd 💪 https://t.co/2L53BTW2fU"
+	},
+	{
+		"created_at": "Fri Jul 10 17:36:05 +0000 2020",
+		"id": 1280865825222729700,
+		"id_str": "1281643368481722375",
+		"full_text": "Remember when cops found and arrested a protestor by tracking down her Etsy review of the t shirt she was wearing https://t.co/AE4ifLfxD4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AE4ifLfxD4",
+					"expanded_url": "https://twitter.com/YDSABloomington/status/1280726818807521280",
+					"display_url": "twitter.com/YDSABloomingto…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15299943,
+			"id_str": "15299943",
+			"name": "Ursula",
+			"screen_name": "blearyeyedduty",
+			"location": "",
+			"description": "Bandwagon-hopper, bad at branding",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 181,
+			"friends_count": 277,
+			"listed_count": 5,
+			"created_at": "Wed Jul 02 17:42:45 +0000 2008",
+			"favourites_count": 8001,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5218,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378522294/baby_brain_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378522294/baby_brain_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15299943/1432700102",
+			"profile_link_color": "747576",
+			"profile_sidebar_border_color": "C9CAC9",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "929090",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1280726818807521300,
+		"quoted_status_id_str": "1280726818807521280",
+		"quoted_status_permalink": {
+			"url": "https://t.co/AE4ifLfxD4",
+			"expanded": "https://twitter.com/YDSABloomington/status/1280726818807521280",
+			"display": "twitter.com/YDSABloomingto…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jul 08 04:54:03 +0000 2020",
+			"id": 1280726818807521300,
+			"id_str": "1280726818807521280",
+			"full_text": "Bloomington Police Department says the registration on the car who plowed through protests leads nowhere. Shoutout to the @idsnews for coverage. https://t.co/91Mh4wmtLH",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				168
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "idsnews",
+						"name": "Indiana Daily Student",
+						"id": 21922584,
+						"id_str": "21922584",
+						"indices": [
+							122,
+							130
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/91Mh4wmtLH",
+						"expanded_url": "https://www.idsnews.com/article/2020/07/police-have-not-yet-found-driver-who-hit-protesters-due-to-invalid-address-on-registration",
+						"display_url": "idsnews.com/article/2020/0…",
+						"indices": [
+							145,
+							168
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1280726816223871000,
+			"in_reply_to_status_id_str": "1280726816223870976",
+			"in_reply_to_user_id": 819359128489521200,
+			"in_reply_to_user_id_str": "819359128489521153",
+			"in_reply_to_screen_name": "YDSABloomington",
+			"user": {
+				"id": 819359128489521200,
+				"id_str": "819359128489521153",
+				"name": "𝗬𝗗𝗦𝗔 𝗕𝗹𝗼𝗼𝗺𝗶𝗻𝗴𝘁𝗼𝗻",
+				"screen_name": "YDSABloomington",
+				"location": "Indiana University",
+				"description": "Bloomington, IN chapter of @YDSA_ 🌹Contact: demsocialistsbloomington@gmail.com 🌹#AbolishICE",
+				"url": "https://t.co/yYCPzm29Zx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/yYCPzm29Zx",
+								"expanded_url": "http://ydsusa.org",
+								"display_url": "ydsusa.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2455,
+				"friends_count": 1557,
+				"listed_count": 30,
+				"created_at": "Thu Jan 12 01:43:34 +0000 2017",
+				"favourites_count": 3947,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1329,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/953110784330014720/2WKFh7NC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/953110784330014720/2WKFh7NC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/819359128489521153/1504547930",
+				"profile_link_color": "C40000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 258,
+			"favorite_count": 809,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 53523,
+		"favorite_count": 140564,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Remember when cops found and arrested a protestor by tracking down her Etsy review of the t shirt she was wearing https://t.co/AE4ifLfxD4"
+	},
+	{
+		"created_at": "Fri Jul 10 17:34:55 +0000 2020",
+		"id": 1281643076377735200,
+		"id_str": "1281643076377735169",
+		"full_text": "@Hermaniak Alle andere sociale apps inc Twitter zijn inderdaad vrij van risico’s mbt privacy en datatracking... 😉",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Hermaniak",
+					"name": "Herman Couwenbergh",
+					"id": 6438442,
+					"id_str": "6438442",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1281642259776249900,
+		"in_reply_to_status_id_str": "1281642259776249856",
+		"in_reply_to_user_id": 6438442,
+		"in_reply_to_user_id_str": "6438442",
+		"in_reply_to_screen_name": "Hermaniak",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8945,
+			"friends_count": 535,
+			"listed_count": 571,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6524,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62272,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@Hermaniak Alle andere sociale apps inc Twitter zijn inderdaad vrij van risico’s mbt privacy en datatracking... 😉"
+	},
+	{
 		"created_at": "Fri Jul 10 16:38:23 +0000 2020",
 		"id": 1281628846626873300,
 		"id_str": "1281628846626873345",
