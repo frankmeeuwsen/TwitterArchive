@@ -1,6 +1,340 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Sun Jul 12 13:35:13 +0000 2020",
+		"id": 1282307529112944600,
+		"id_str": "1282307529112944643",
+		"full_text": "Maybe @keesone @NaVGMuseum @hangman3d can help? https://t.co/kw0KJK14M1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "keesone",
+					"name": "Kees Teszelszky",
+					"id": 15970999,
+					"id_str": "15970999",
+					"indices": [
+						6,
+						14
+					]
+				},
+				{
+					"screen_name": "NaVGMuseum",
+					"name": "Nationaal Videogame Museum",
+					"id": 899402523827732500,
+					"id_str": "899402523827732481",
+					"indices": [
+						15,
+						26
+					]
+				},
+				{
+					"screen_name": "hangman3d",
+					"name": "Anne Bras (PC-King)",
+					"id": 243391346,
+					"id_str": "243391346",
+					"indices": [
+						27,
+						37
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kw0KJK14M1",
+					"expanded_url": "https://twitter.com/mwichary/status/1280677531553640448",
+					"display_url": "twitter.com/mwichary/statu…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8944,
+			"friends_count": 537,
+			"listed_count": 571,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6525,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62278,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1280677531553640400,
+		"quoted_status_id_str": "1280677531553640448",
+		"quoted_status_permalink": {
+			"url": "https://t.co/kw0KJK14M1",
+			"expanded": "https://twitter.com/mwichary/status/1280677531553640448",
+			"display": "twitter.com/mwichary/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jul 08 01:38:12 +0000 2020",
+			"id": 1280677531553640400,
+			"id_str": "1280677531553640448",
+			"full_text": "I’ve been trying to find a good photo of a 1970s/1980s microcomputer store for my book and I haven’t had great luck – but sharing what I found so far could make for an interesting thread!\n\nThis is 1983 in Sunnyvale, CA: https://t.co/CeXwYEhE1n https://t.co/ANQFQPb0ik",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				243
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/CeXwYEhE1n",
+						"expanded_url": "https://www.gettyimages.com/detail/news-photo/sunnyvale-ca-this-year-should-tell-if-video-game-giant-news-photo/515185352?adppopup=true",
+						"display_url": "gettyimages.com/detail/news-ph…",
+						"indices": [
+							220,
+							243
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1280677059241468000,
+						"id_str": "1280677059241467908",
+						"indices": [
+							244,
+							267
+						],
+						"media_url": "http://pbs.twimg.com/media/EcXhAAQUYAQxKSZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EcXhAAQUYAQxKSZ.jpg",
+						"url": "https://t.co/ANQFQPb0ik",
+						"display_url": "pic.twitter.com/ANQFQPb0ik",
+						"expanded_url": "https://twitter.com/mwichary/status/1280677531553640448/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 455,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 802,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1369,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1280677059241468000,
+						"id_str": "1280677059241467908",
+						"indices": [
+							244,
+							267
+						],
+						"media_url": "http://pbs.twimg.com/media/EcXhAAQUYAQxKSZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EcXhAAQUYAQxKSZ.jpg",
+						"url": "https://t.co/ANQFQPb0ik",
+						"display_url": "pic.twitter.com/ANQFQPb0ik",
+						"expanded_url": "https://twitter.com/mwichary/status/1280677531553640448/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 455,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 802,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1369,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 86239754,
+				"id_str": "86239754",
+				"name": "Marcin Wichary",
+				"screen_name": "mwichary",
+				"location": "San Francisco, Calif.",
+				"description": "Writing a book about the history of keyboards: https://t.co/tmhDTNR0nL · Design manager @figmadesign · Typographer · Occasional speaker · He/him",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/tmhDTNR0nL",
+								"expanded_url": "http://aresluna.org/shift-happens",
+								"display_url": "aresluna.org/shift-happens",
+								"indices": [
+									47,
+									70
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 15584,
+				"friends_count": 3070,
+				"listed_count": 469,
+				"created_at": "Fri Oct 30 04:28:51 +0000 2009",
+				"favourites_count": 5636,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 35278,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1254510263128084480/nX7Bf2Jz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1254510263128084480/nX7Bf2Jz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/86239754/1437445368",
+				"profile_link_color": "3F3F3F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 137,
+			"favorite_count": 452,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Maybe @keesone @NaVGMuseum @hangman3d can help? https://t.co/kw0KJK14M1"
+	},
+	{
 		"created_at": "Sun Jul 12 10:12:09 +0000 2020",
 		"id": 1282256423389261800,
 		"id_str": "1282256423389261824",
