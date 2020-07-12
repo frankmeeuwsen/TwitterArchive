@@ -1,6 +1,497 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Sun Jul 12 17:33:54 +0000 2020",
+		"id": 1282367595581255700,
+		"id_str": "1282367595581255680",
+		"full_text": "@wilbertleering https://t.co/NEixYX8lJj",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wilbertleering",
+					"name": "Wilbert Leering",
+					"id": 11021172,
+					"id_str": "11021172",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1282367588094419000,
+					"id_str": "1282367588094418948",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Ecvihu_XoAQI0Xv.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Ecvihu_XoAQI0Xv.jpg",
+					"url": "https://t.co/NEixYX8lJj",
+					"display_url": "pic.twitter.com/NEixYX8lJj",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1282367595581255680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 320,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 320,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 320,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1282367588094419000,
+					"id_str": "1282367588094418948",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Ecvihu_XoAQI0Xv.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Ecvihu_XoAQI0Xv.jpg",
+					"url": "https://t.co/NEixYX8lJj",
+					"display_url": "pic.twitter.com/NEixYX8lJj",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1282367595581255680/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 320,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 320,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 320,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							160
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Ecvihu_XoAQI0Xv.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1282365819276722200,
+		"in_reply_to_status_id_str": "1282365819276722177",
+		"in_reply_to_user_id": 11021172,
+		"in_reply_to_user_id_str": "11021172",
+		"in_reply_to_screen_name": "wilbertleering",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8944,
+			"friends_count": 537,
+			"listed_count": 571,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6526,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62283,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@wilbertleering https://t.co/NEixYX8lJj"
+	},
+	{
+		"created_at": "Sun Jul 12 17:32:31 +0000 2020",
+		"id": 1282367247042871300,
+		"id_str": "1282367247042871297",
+		"full_text": "I still have this one, along with many others from Wave. The Dutch Wired... https://t.co/KODq9CBaGE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KODq9CBaGE",
+					"expanded_url": "https://twitter.com/pulplibrarian/status/1282006097755353093",
+					"display_url": "twitter.com/pulplibrarian/…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8944,
+			"friends_count": 537,
+			"listed_count": 571,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6526,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62283,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1282006097755353000,
+		"quoted_status_id_str": "1282006097755353093",
+		"quoted_status_permalink": {
+			"url": "https://t.co/KODq9CBaGE",
+			"expanded": "https://twitter.com/pulplibrarian/status/1282006097755353093",
+			"display": "twitter.com/pulplibrarian/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jul 11 17:37:26 +0000 2020",
+			"id": 1282006097755353000,
+			"id_str": "1282006097755353093",
+			"full_text": "And that's it for my look at 1995. Look, at least they tried... https://t.co/PCUdIfVvxe",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				63
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1282006091308699600,
+						"id_str": "1282006091308699648",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/media/EcqZv2hXkAADH6Z.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EcqZv2hXkAADH6Z.jpg",
+						"url": "https://t.co/PCUdIfVvxe",
+						"display_url": "pic.twitter.com/PCUdIfVvxe",
+						"expanded_url": "https://twitter.com/PulpLibrarian/status/1282006097755353093/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 670,
+								"h": 864,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 670,
+								"h": 864,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 527,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1282006091308699600,
+						"id_str": "1282006091308699648",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/media/EcqZv2hXkAADH6Z.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EcqZv2hXkAADH6Z.jpg",
+						"url": "https://t.co/PCUdIfVvxe",
+						"display_url": "pic.twitter.com/PCUdIfVvxe",
+						"expanded_url": "https://twitter.com/PulpLibrarian/status/1282006097755353093/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 670,
+								"h": 864,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 670,
+								"h": 864,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 527,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2928209793,
+				"id_str": "2928209793",
+				"name": "Pulp Librarian",
+				"screen_name": "PulpLibrarian",
+				"location": "A library of the mind",
+				"description": "Curator of the art, history and fiction of old dreams.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 118170,
+				"friends_count": 3860,
+				"listed_count": 1925,
+				"created_at": "Wed Dec 17 22:09:14 +0000 2014",
+				"favourites_count": 11376,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 45711,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1281989097486200832/S64vkEEi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1281989097486200832/S64vkEEi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2928209793/1594484896",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 75,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I still have this one, along with many others from Wave. The Dutch Wired... https://t.co/KODq9CBaGE"
+	},
+	{
 		"created_at": "Sun Jul 12 16:16:48 +0000 2020",
 		"id": 1282348191137112000,
 		"id_str": "1282348191137112064",
