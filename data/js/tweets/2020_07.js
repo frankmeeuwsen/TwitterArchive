@@ -1,6 +1,122 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Thu Jul 16 06:16:10 +0000 2020",
+		"id": 1283634994439749600,
+		"id_str": "1283646590507454464",
+		"full_text": "That Twitter admin hack shows how important it is to own our own online content and even our own platforms for posting on the Web. Want to learn more? Make yourself a cup of your favorite drink and have a look at https://t.co/7cAvv33YkJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			236
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7cAvv33YkJ",
+					"expanded_url": "https://indieweb.org/Getting_Started",
+					"display_url": "indieweb.org/Getting_Started",
+					"indices": [
+						213,
+						236
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://social.johanbove.info\" rel=\"nofollow\">social.johanbove.info</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 231445532,
+			"id_str": "231445532",
+			"name": "Johan Bové",
+			"screen_name": "johanbove",
+			"location": "Düsseldorf",
+			"description": "Front-End Developer, Web Enthusiast, Biker, and constant learner. Builds web apps @DeloitteDigi_DE  and also on https://t.co/xI213hMDVE\nPronouns: he/him",
+			"url": "https://t.co/55NZQGCNvf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/55NZQGCNvf",
+							"expanded_url": "https://social.johanbove.info",
+							"display_url": "social.johanbove.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/xI213hMDVE",
+							"expanded_url": "http://johanbove.info",
+							"display_url": "johanbove.info",
+							"indices": [
+								112,
+								135
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 458,
+			"friends_count": 1847,
+			"listed_count": 49,
+			"created_at": "Tue Dec 28 15:01:38 +0000 2010",
+			"favourites_count": 6709,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5898,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0E0D02",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1141318931258511360/bVEu69td_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1141318931258511360/bVEu69td_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/231445532/1546231818",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "0E0D02",
+			"profile_text_color": "39BD91",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "That Twitter admin hack shows how important it is to own our own online content and even our own platforms for posting on the Web. Want to learn more? Make yourself a cup of your favorite drink and have a look at https://t.co/7cAvv33YkJ"
+	},
+	{
 		"created_at": "Wed Jul 15 21:56:37 +0000 2020",
 		"id": 1283520871836070000,
 		"id_str": "1283520871836069892",
