@@ -1,6 +1,214 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Fri Jul 17 07:09:38 +0000 2020",
+		"id": 1283359233866637300,
+		"id_str": "1284022432311975936",
+		"full_text": "Uighurs sitting, bound and blindfolded, waiting to be loaded onto train cars and taken — somewhere.\n\nDrone footage from an unknown hero in China.\n\n#Uighur https://t.co/l9CTfyM2iT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Uighur",
+					"indices": [
+						147,
+						154
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1283359059480121300,
+					"id_str": "1283359059480121345",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1283359059480121345/pu/img/cVjmSOwNvjfaBOBc.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1283359059480121345/pu/img/cVjmSOwNvjfaBOBc.jpg",
+					"url": "https://t.co/l9CTfyM2iT",
+					"display_url": "pic.twitter.com/l9CTfyM2iT",
+					"expanded_url": "https://twitter.com/PDog119/status/1283359233866637314/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1283359059480121300,
+					"id_str": "1283359059480121345",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1283359059480121345/pu/img/cVjmSOwNvjfaBOBc.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1283359059480121345/pu/img/cVjmSOwNvjfaBOBc.jpg",
+					"url": "https://t.co/l9CTfyM2iT",
+					"display_url": "pic.twitter.com/l9CTfyM2iT",
+					"expanded_url": "https://twitter.com/PDog119/status/1283359233866637314/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 60027,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1283359059480121345/pu/vid/480x270/SX6-Gurqm_UKdlI_.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1283359059480121345/pu/pl/8hI8Lj8gWJJTkKi9.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1283359059480121345/pu/vid/640x360/npganwf5qOQ1BDog.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 995048082063659000,
+			"id_str": "995048082063659016",
+			"name": "PariahDog1312🗽⚖️☭⃠ 卐⃠",
+			"screen_name": "PDog119",
+			"location": "@MCOhioLP",
+			"description": "Classically liberal.\nPolitically nonbinary.\nDon't tread on anybody.\nMod at r/Classical_Liberals and r/ExCons.\nPrison Abolitionist.\nI write Liberty inJustice.",
+			"url": "https://t.co/XKYfsL8ozq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XKYfsL8ozq",
+							"expanded_url": "http://LibertyinJustice.blogspot.com",
+							"display_url": "LibertyinJustice.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2746,
+			"friends_count": 1021,
+			"listed_count": 14,
+			"created_at": "Fri May 11 21:08:44 +0000 2018",
+			"favourites_count": 78315,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 57671,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265439558935740419/q7wWwQis_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265439558935740419/q7wWwQis_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/995048082063659016/1591199278",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19901,
+		"favorite_count": 25378,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Uighurs sitting, bound and blindfolded, waiting to be loaded onto train cars and taken — somewhere.\n\nDrone footage from an unknown hero in China.\n\n#Uighur https://t.co/l9CTfyM2iT"
+	},
+	{
 		"created_at": "Fri Jul 17 05:49:42 +0000 2020",
 		"id": 1284002315645706200,
 		"id_str": "1284002315645706240",
