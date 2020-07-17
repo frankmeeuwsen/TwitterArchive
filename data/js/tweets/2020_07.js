@@ -1,6 +1,597 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Fri Jul 17 13:51:22 +0000 2020",
+		"id": 1284121928547147800,
+		"id_str": "1284123530561490946",
+		"full_text": "Vanaf 16:00 uur hoor je @michielveenstra in de #KINKAlbumTop1000. We zijn bijna bij die nummer 1! @PearlJam's Ten hoor je straks van begin tot eind op KINK! https://t.co/QPJf26NyrA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KINKAlbumTop1000",
+					"indices": [
+						47,
+						64
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "michielveenstra",
+					"name": "Michiel Veenstra || ꓘINK",
+					"id": 14242065,
+					"id_str": "14242065",
+					"indices": [
+						24,
+						40
+					]
+				},
+				{
+					"screen_name": "PearlJam",
+					"name": "Pearl Jam",
+					"id": 15155074,
+					"id_str": "15155074",
+					"indices": [
+						98,
+						107
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1283769923509133300,
+					"id_str": "1283769923509133313",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/EdDd8ZgXoAEBhCN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdDd8ZgXoAEBhCN.jpg",
+					"url": "https://t.co/QPJf26NyrA",
+					"display_url": "pic.twitter.com/QPJf26NyrA",
+					"expanded_url": "https://twitter.com/KINKpuntnl/status/1284121928547147776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1283769923509133300,
+					"id_str": "1283769923509133313",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/EdDd8ZgXoAEBhCN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdDd8ZgXoAEBhCN.jpg",
+					"url": "https://t.co/QPJf26NyrA",
+					"display_url": "pic.twitter.com/QPJf26NyrA",
+					"expanded_url": "https://twitter.com/KINKpuntnl/status/1284121928547147776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 36077942,
+			"id_str": "36077942",
+			"name": "KINK",
+			"screen_name": "KINKpuntnl",
+			"location": "Netherlands",
+			"description": "Te beluisteren via DAB+ en onze apps: https://t.co/DknTZthtHi",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/DknTZthtHi",
+							"expanded_url": "http://www.kink.nl/app",
+							"display_url": "kink.nl/app",
+							"indices": [
+								38,
+								61
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8344,
+			"friends_count": 108,
+			"listed_count": 127,
+			"created_at": "Tue Apr 28 14:27:54 +0000 2009",
+			"favourites_count": 3514,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12870,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278354430317015046/dL176owe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278354430317015046/dL176owe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/36077942/1559040565",
+			"profile_link_color": "040000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "8A8A8A",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 13,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Vanaf 16:00 uur hoor je @michielveenstra in de #KINKAlbumTop1000. We zijn bijna bij die nummer 1! @PearlJam's Ten hoor je straks van begin tot eind op KINK! https://t.co/QPJf26NyrA"
+	},
+	{
+		"created_at": "Fri Jul 17 13:49:01 +0000 2020",
+		"id": 1284122939101773800,
+		"id_str": "1284122939101773828",
+		"full_text": "Je denkt toch steeds dat het immersive advertising voor een dystopische Netflix serie kan zijn. Of eigenlijk, je zou willen dat het zoiets onschuldigs is... https://t.co/xpZvX75nDe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xpZvX75nDe",
+					"expanded_url": "https://twitter.com/eleven_films/status/1283967750981873670",
+					"display_url": "twitter.com/eleven_films/s…",
+					"indices": [
+						157,
+						180
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8955,
+			"friends_count": 546,
+			"listed_count": 571,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6551,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62320,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1283967750981873700,
+		"quoted_status_id_str": "1283967750981873670",
+		"quoted_status_permalink": {
+			"url": "https://t.co/xpZvX75nDe",
+			"expanded": "https://twitter.com/eleven_films/status/1283967750981873670",
+			"display": "twitter.com/eleven_films/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jul 17 03:32:21 +0000 2020",
+			"id": 1283967750981873700,
+			"id_str": "1283967750981873670",
+			"full_text": "This is happening on the streets of our hometown of Portland, OR. \n\nWe will continue to resist. They are fucking with the wrong city 👊\n\n#TheResistance\n\n https://t.co/byOUkcp5iZ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				176
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TheResistance",
+						"indices": [
+							136,
+							150
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1283328066362552300,
+						"id_str": "1283328066362552320",
+						"indices": [
+							153,
+							176
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1283328066362552320/pu/img/ppowWWoHYdCoKiMe.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1283328066362552320/pu/img/ppowWWoHYdCoKiMe.jpg",
+						"url": "https://t.co/byOUkcp5iZ",
+						"display_url": "pic.twitter.com/byOUkcp5iZ",
+						"expanded_url": "https://twitter.com/matcha_chai/status/1283328232033411072/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1283328232033411000,
+						"source_status_id_str": "1283328232033411072",
+						"source_user_id": 1100537752796377100,
+						"source_user_id_str": "1100537752796377088"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1283328066362552300,
+						"id_str": "1283328066362552320",
+						"indices": [
+							153,
+							176
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1283328066362552320/pu/img/ppowWWoHYdCoKiMe.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1283328066362552320/pu/img/ppowWWoHYdCoKiMe.jpg",
+						"url": "https://t.co/byOUkcp5iZ",
+						"display_url": "pic.twitter.com/byOUkcp5iZ",
+						"expanded_url": "https://twitter.com/matcha_chai/status/1283328232033411072/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1283328232033411000,
+						"source_status_id_str": "1283328232033411072",
+						"source_user_id": 1100537752796377100,
+						"source_user_id_str": "1100537752796377088",
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 39744,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1283328066362552320/pu/vid/1280x720/Sx4if8VHEVf6uYHY.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1283328066362552320/pu/vid/640x360/pHDK1BsUT039jdRD.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1283328066362552320/pu/pl/qRREZvL87w9HMR1R.m3u8?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1283328066362552320/pu/vid/480x270/b778jKMkKuGTM-5w.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 1100537752796377100,
+								"id_str": "1100537752796377088",
+								"name": "Matcha chai",
+								"screen_name": "matcha_chai",
+								"location": "Pdx",
+								"description": "She/her \nChinga la migra 🔥",
+								"url": null,
+								"entities": {
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 2389,
+								"friends_count": 694,
+								"listed_count": 31,
+								"created_at": "Tue Feb 26 23:27:02 +0000 2019",
+								"favourites_count": 7398,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": true,
+								"verified": false,
+								"statuses_count": 5160,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "000000",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1266806178580819968/dh-OgUcu_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1266806178580819968/dh-OgUcu_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/1100537752796377088/1593366431",
+								"profile_link_color": "19CF86",
+								"profile_sidebar_border_color": "000000",
+								"profile_sidebar_fill_color": "000000",
+								"profile_text_color": "000000",
+								"profile_use_background_image": false,
+								"has_extended_profile": false,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2570178294,
+				"id_str": "2570178294",
+				"name": "Eleven Films",
+				"screen_name": "Eleven_Films",
+				"location": "Portland, OR",
+				"description": "2020 Webby Award Honoree (News & Politics) “Midnight In Washington”. Eleven Films is a Portland based media team. Powered by the Resistance. #Resist",
+				"url": "https://t.co/w64n7Pb2PL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/w64n7Pb2PL",
+								"expanded_url": "https://eleven-films.com",
+								"display_url": "eleven-films.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 115588,
+				"friends_count": 10436,
+				"listed_count": 410,
+				"created_at": "Mon Jun 16 04:13:17 +0000 2014",
+				"favourites_count": 28150,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5441,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1133209040241094656/DH-KTlne_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1133209040241094656/DH-KTlne_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2570178294/1588131822",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6250,
+			"favorite_count": 10197,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Je denkt toch steeds dat het immersive advertising voor een dystopische Netflix serie kan zijn. Of eigenlijk, je zou willen dat het zoiets onschuldigs is... https://t.co/xpZvX75nDe"
+	},
+	{
 		"created_at": "Fri Jul 17 07:09:38 +0000 2020",
 		"id": 1283359233866637300,
 		"id_str": "1284022432311975936",
