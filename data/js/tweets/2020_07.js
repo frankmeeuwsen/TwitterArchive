@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Tue Jul 21 11:13:41 +0000 2020",
+		"id": 1285526053839147000,
+		"id_str": "1285533400707850243",
+		"full_text": "A Goodreads for newsletter creators to browse the best quotes and subscribe / join a creators membership program.\n\n- New whodunits \n- Praised articles \n- Movers &amp; shakers \n... \n\nBrands paying to use / feature the best quotes in ads because \"they ❤️creators\" \n\nNL Pulse.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 54333244,
+			"id_str": "54333244",
+			"name": "👩🏼‍💻 Marie Dollé",
+			"screen_name": "MarieDOLLE",
+			"location": "Paris, baby!",
+			"description": "French-american curious mind with an eager eye for emerging game-changers  🧠 Quadrilingual. Substacker, link here👇 Views are mine.",
+			"url": "https://t.co/JGGMesDrni",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JGGMesDrni",
+							"expanded_url": "https://linktr.ee/Mariedolle",
+							"display_url": "linktr.ee/Mariedolle",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6568,
+			"friends_count": 2977,
+			"listed_count": 431,
+			"created_at": "Mon Jul 06 21:07:25 +0000 2009",
+			"favourites_count": 8095,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12711,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277993716322615297/7WbmO4Du_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277993716322615297/7WbmO4Du_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/54333244/1586580510",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "A Goodreads for newsletter creators to browse the best quotes and subscribe / join a creators membership program.\n\n- New whodunits \n- Praised articles \n- Movers &amp; shakers \n... \n\nBrands paying to use / feature the best quotes in ads because \"they ❤️creators\" \n\nNL Pulse."
+	},
+	{
 		"created_at": "Tue Jul 21 08:06:23 +0000 2020",
 		"id": 1285486266704945200,
 		"id_str": "1285486266704945152",
