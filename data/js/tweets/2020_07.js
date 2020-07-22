@@ -1,6 +1,406 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Wed Jul 22 05:04:07 +0000 2020",
+		"id": 1285802784630149000,
+		"id_str": "1285802784630149120",
+		"full_text": "OK Pearl Jam fans, welke deep cuts moet @KINKpuntnl vandaag draaien? Ik stem op Sleight of Hand (Binaural) en Strangest Tribe (fanclub single 1999). De laatste als hart onder de riem voor alle fans die net als ik de concertreeks maar vooral de verhalen en unieke setlists missen. https://t.co/P4UpuYnV8O",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KINKpuntnl",
+					"name": "KINK",
+					"id": 36077942,
+					"id_str": "36077942",
+					"indices": [
+						40,
+						51
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/P4UpuYnV8O",
+					"expanded_url": "https://twitter.com/michielveenstra/status/1285800789550739456",
+					"display_url": "twitter.com/michielveenstr…",
+					"indices": [
+						280,
+						303
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8947,
+			"friends_count": 543,
+			"listed_count": 571,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6561,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62343,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1285800789550739500,
+		"quoted_status_id_str": "1285800789550739456",
+		"quoted_status_permalink": {
+			"url": "https://t.co/P4UpuYnV8O",
+			"expanded": "https://twitter.com/michielveenstra/status/1285800789550739456",
+			"display": "twitter.com/michielveenstr…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jul 22 04:56:11 +0000 2020",
+			"id": 1285800789550739500,
+			"id_str": "1285800789550739456",
+			"full_text": "Vandaag is @PearlJam dag op @KINKpuntnl! Vanavond om half acht hoor je hun @pinkpopfest 2018 show integraal op de radio - en de hele dag maak je kans op hun meest recente album Gigaton op vinyl - ook in de KINKSTART! Verder muziek van oa @KingsOfLeon, @remhq, @bmthofficial! https://t.co/dlnIC6tdze",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				274
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "PearlJam",
+						"name": "Pearl Jam",
+						"id": 15155074,
+						"id_str": "15155074",
+						"indices": [
+							11,
+							20
+						]
+					},
+					{
+						"screen_name": "KINKpuntnl",
+						"name": "KINK",
+						"id": 36077942,
+						"id_str": "36077942",
+						"indices": [
+							28,
+							39
+						]
+					},
+					{
+						"screen_name": "pinkpopfest",
+						"name": "Pinkpop festival",
+						"id": 82294405,
+						"id_str": "82294405",
+						"indices": [
+							75,
+							87
+						]
+					},
+					{
+						"screen_name": "KingsOfLeon",
+						"name": "Kings Of Leon",
+						"id": 101858534,
+						"id_str": "101858534",
+						"indices": [
+							238,
+							250
+						]
+					},
+					{
+						"screen_name": "remhq",
+						"name": "R.E.M. HQ",
+						"id": 14100619,
+						"id_str": "14100619",
+						"indices": [
+							252,
+							258
+						]
+					},
+					{
+						"screen_name": "bmthofficial",
+						"name": "Bring Me The Horizon",
+						"id": 23748448,
+						"id_str": "23748448",
+						"indices": [
+							260,
+							273
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1285800743803531300,
+						"id_str": "1285800743803531264",
+						"indices": [
+							275,
+							298
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EdgU9spXsAA_q0I.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EdgU9spXsAA_q0I.jpg",
+						"url": "https://t.co/dlnIC6tdze",
+						"display_url": "pic.twitter.com/dlnIC6tdze",
+						"expanded_url": "https://twitter.com/michielveenstra/status/1285800789550739456/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 480,
+								"h": 270,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 480,
+								"h": 270,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 270,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1285800743803531300,
+						"id_str": "1285800743803531264",
+						"indices": [
+							275,
+							298
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EdgU9spXsAA_q0I.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EdgU9spXsAA_q0I.jpg",
+						"url": "https://t.co/dlnIC6tdze",
+						"display_url": "pic.twitter.com/dlnIC6tdze",
+						"expanded_url": "https://twitter.com/michielveenstra/status/1285800789550739456/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"medium": {
+								"w": 480,
+								"h": 270,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 480,
+								"h": 270,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 270,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/EdgU9spXsAA_q0I.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14242065,
+				"id_str": "14242065",
+				"name": "Michiel Veenstra || ꓘINK",
+				"screen_name": "michielveenstra",
+				"location": "Hilversum, The Netherlands",
+				"description": "Elke ochtend op KINK /// Check https://t.co/az1vgYRp6R /// Boekingen: https://t.co/fvR4qkQHyR",
+				"url": "https://t.co/BWV68PZIee",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/BWV68PZIee",
+								"expanded_url": "http://www.michielveenstra.nl",
+								"display_url": "michielveenstra.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/az1vgYRp6R",
+								"expanded_url": "http://KINK.nl",
+								"display_url": "KINK.nl",
+								"indices": [
+									31,
+									54
+								]
+							},
+							{
+								"url": "https://t.co/fvR4qkQHyR",
+								"expanded_url": "http://deboeker.nl/",
+								"display_url": "deboeker.nl",
+								"indices": [
+									70,
+									93
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 151812,
+				"friends_count": 1107,
+				"listed_count": 1047,
+				"created_at": "Fri Mar 28 07:13:39 +0000 2008",
+				"favourites_count": 42033,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 79004,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1232309588764000256/uHvcLi5N_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1232309588764000256/uHvcLi5N_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14242065/1577455428",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "OK Pearl Jam fans, welke deep cuts moet @KINKpuntnl vandaag draaien? Ik stem op Sleight of Hand (Binaural) en Strangest Tribe (fanclub single 1999). De laatste als hart onder de riem voor alle fans die net als ik de concertreeks maar vooral de verhalen en unieke setlists missen. https://t.co/P4UpuYnV8O"
+	},
+	{
 		"created_at": "Tue Jul 21 21:02:32 +0000 2020",
 		"id": 1285671162006196200,
 		"id_str": "1285681588538232833",
