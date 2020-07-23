@@ -1,6 +1,264 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Thu Jul 23 14:58:50 +0000 2020",
+		"id": 1286314839581876200,
+		"id_str": "1286314839581876229",
+		"full_text": "Dat is geen misselijke omzet voor een email nieuwsbrief... https://t.co/Ne7CcRzKWk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ne7CcRzKWk",
+					"expanded_url": "https://twitter.com/anthony/status/1286312700314824709",
+					"display_url": "twitter.com/anthony/status…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8948,
+			"friends_count": 544,
+			"listed_count": 569,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6569,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62358,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1286312700314824700,
+		"quoted_status_id_str": "1286312700314824709",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Ne7CcRzKWk",
+			"expanded": "https://twitter.com/anthony/status/1286312700314824709",
+			"display": "twitter.com/anthony/status…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jul 23 14:50:20 +0000 2020",
+			"id": 1286312700314824700,
+			"id_str": "1286312700314824709",
+			"full_text": "5 years, 2 million subs, $20 million in revenue. That's @morningbrew, a smart business newsletter I read every morning: https://t.co/uLr1kgM2V9",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				143
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MorningBrew",
+						"name": "Morning Brew ☕️",
+						"id": 3092541736,
+						"id_str": "3092541736",
+						"indices": [
+							56,
+							68
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/uLr1kgM2V9",
+						"expanded_url": "https://medianut.substack.com/p/the-morning-brew-newsletter-will",
+						"display_url": "medianut.substack.com/p/the-morning-…",
+						"indices": [
+							120,
+							143
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1140451,
+				"id_str": "1140451",
+				"name": "Anthony DeRosa 🗽",
+				"screen_name": "Anthony",
+				"location": "Signal: 773-658-9986",
+				"description": "Strategy Editor at @WSJ - U.S. News, Investigations and Special Projects https://t.co/d3Znnkmhht / https://t.co/ib3ognxqN3",
+				"url": "https://t.co/zZEL7uCkKx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zZEL7uCkKx",
+								"expanded_url": "http://www.antderosa.com/bio/",
+								"display_url": "antderosa.com/bio/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/d3Znnkmhht",
+								"expanded_url": "http://anthony.substack.com",
+								"display_url": "anthony.substack.com",
+								"indices": [
+									73,
+									96
+								]
+							},
+							{
+								"url": "https://t.co/ib3ognxqN3",
+								"expanded_url": "https://keybase.io/anthonyderosa",
+								"display_url": "keybase.io/anthonyderosa",
+								"indices": [
+									99,
+									122
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 103399,
+				"friends_count": 7022,
+				"listed_count": 4576,
+				"created_at": "Wed Mar 14 05:45:24 +0000 2007",
+				"favourites_count": 49745,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 72485,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/989547404742414336/bLylop7j_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/989547404742414336/bLylop7j_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1140451/1547474454",
+				"profile_link_color": "2A70A6",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F0F0F0",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 24,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Dat is geen misselijke omzet voor een email nieuwsbrief... https://t.co/Ne7CcRzKWk"
+	},
+	{
 		"created_at": "Thu Jul 23 07:02:22 +0000 2020",
 		"id": 1286194931569234000,
 		"id_str": "1286194931569233933",
