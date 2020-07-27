@@ -1,6 +1,141 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Mon Jul 27 16:47:47 +0000 2020",
+		"id": 1287777257050841000,
+		"id_str": "1287791806609084423",
+		"full_text": "Launching my landing page for BrainPint, my newsletter today!\n\nIt's not 100% done, but hey, #buildinpublic\n\nI created it in @carrd by @ajlkn \n\nhttps://t.co/Cxk5g8iMoC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "buildinpublic",
+					"indices": [
+						92,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "carrd",
+					"name": "Carrd",
+					"id": 1230546225491062800,
+					"id_str": "1230546225491062784",
+					"indices": [
+						124,
+						130
+					]
+				},
+				{
+					"screen_name": "ajlkn",
+					"name": "aj",
+					"id": 55303867,
+					"id_str": "55303867",
+					"indices": [
+						134,
+						140
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Cxk5g8iMoC",
+					"expanded_url": "http://www.brainpint.com",
+					"display_url": "brainpint.com",
+					"indices": [
+						143,
+						166
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1688823739,
+			"id_str": "1688823739",
+			"name": "Janel",
+			"screen_name": "JanelSGM",
+			"location": "Barcelona, Spain",
+			"description": "Marketer & Maker. Exploring my curiosity at the intersection of business and tech. I read a book a week and dabble in no code. Sub to my newsletter below! 👇🏼",
+			"url": "https://t.co/welCrY72dr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/welCrY72dr",
+							"expanded_url": "http://brainpint.com",
+							"display_url": "brainpint.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 274,
+			"friends_count": 224,
+			"listed_count": 11,
+			"created_at": "Wed Aug 21 17:13:36 +0000 2013",
+			"favourites_count": 627,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 432,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1281644754040696832/kOqgYgKQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1281644754040696832/kOqgYgKQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1688823739/1447203274",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Launching my landing page for BrainPint, my newsletter today!\n\nIt's not 100% done, but hey, #buildinpublic\n\nI created it in @carrd by @ajlkn \n\nhttps://t.co/Cxk5g8iMoC"
+	},
+	{
 		"created_at": "Mon Jul 27 11:28:05 +0000 2020",
 		"id": 1287711350630887400,
 		"id_str": "1287711350630887425",
