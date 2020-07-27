@@ -1,6 +1,302 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Mon Jul 27 11:28:05 +0000 2020",
+		"id": 1287711350630887400,
+		"id_str": "1287711350630887425",
+		"full_text": "Oh boy... https://t.co/lpwOV9B29C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lpwOV9B29C",
+					"expanded_url": "https://twitter.com/angrypiln/status/1287338388127911936",
+					"display_url": "twitter.com/angrypiln/stat…",
+					"indices": [
+						10,
+						33
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8948,
+			"friends_count": 548,
+			"listed_count": 569,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6578,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62378,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1287338388127912000,
+		"quoted_status_id_str": "1287338388127911936",
+		"quoted_status_permalink": {
+			"url": "https://t.co/lpwOV9B29C",
+			"expanded": "https://twitter.com/angrypiln/status/1287338388127911936",
+			"display": "twitter.com/angrypiln/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jul 26 10:46:03 +0000 2020",
+			"id": 1287338388127912000,
+			"id_str": "1287338388127911936",
+			"full_text": "That moment of horror when Facebook crops your logo. https://t.co/Slbau3Mua6",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				52
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1287338384512426000,
+						"id_str": "1287338384512425988",
+						"indices": [
+							53,
+							76
+						],
+						"media_url": "http://pbs.twimg.com/media/Ed2LcKqWoAQbK2j.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ed2LcKqWoAQbK2j.jpg",
+						"url": "https://t.co/Slbau3Mua6",
+						"display_url": "pic.twitter.com/Slbau3Mua6",
+						"expanded_url": "https://twitter.com/angrypiln/status/1287338388127911936/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 540,
+								"h": 724,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 507,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 540,
+								"h": 724,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1287338384512426000,
+						"id_str": "1287338384512425988",
+						"indices": [
+							53,
+							76
+						],
+						"media_url": "http://pbs.twimg.com/media/Ed2LcKqWoAQbK2j.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ed2LcKqWoAQbK2j.jpg",
+						"url": "https://t.co/Slbau3Mua6",
+						"display_url": "pic.twitter.com/Slbau3Mua6",
+						"expanded_url": "https://twitter.com/angrypiln/status/1287338388127911936/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 540,
+								"h": 724,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 507,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 540,
+								"h": 724,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 183389689,
+				"id_str": "183389689",
+				"name": "Angry People in Local Newspapers",
+				"screen_name": "angrypiln",
+				"location": "Hampshire",
+				"description": "Angry People in Local Newspapers - Weird news - Bizarre headlines - Bonkers A-boards by @alistaircoleman.",
+				"url": "https://t.co/mIYHIr4D0P",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/mIYHIr4D0P",
+								"expanded_url": "https://www.facebook.com/angrypeopleinlocalnewspapers",
+								"display_url": "facebook.com/angrypeopleinl…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 18644,
+				"friends_count": 96,
+				"listed_count": 49,
+				"created_at": "Thu Aug 26 22:01:12 +0000 2010",
+				"favourites_count": 566,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4199,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1213209270696628224/1B2ixlio_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1213209270696628224/1B2ixlio_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/183389689/1595024016",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2572,
+			"favorite_count": 12849,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Oh boy... https://t.co/lpwOV9B29C"
+	},
+	{
 		"created_at": "Mon Jul 27 10:18:58 +0000 2020",
 		"id": 1287693959104536600,
 		"id_str": "1287693959104536576",
