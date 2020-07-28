@@ -1,6 +1,339 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Tue Jul 28 19:58:49 +0000 2020",
+		"id": 1288202269977182200,
+		"id_str": "1288202269977182208",
+		"full_text": "Bijzonder dat de link niet verwijst naar een eigen site maar naar een gesloten, advertentie-gedreven netwerk wat (fiks) verdient aan het verzamelen, opslaan en verhuren van privé data van burgers. Maar goed, daar zullen ze bij de afdeling Communicatie wel een reden voor hebben. https://t.co/nG2wpkMVbv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nG2wpkMVbv",
+					"expanded_url": "https://twitter.com/MinPres/status/1288185176116338690",
+					"display_url": "twitter.com/MinPres/status…",
+					"indices": [
+						279,
+						302
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8952,
+			"friends_count": 550,
+			"listed_count": 569,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6581,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62389,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1288185176116338700,
+		"quoted_status_id_str": "1288185176116338690",
+		"quoted_status_permalink": {
+			"url": "https://t.co/nG2wpkMVbv",
+			"expanded": "https://twitter.com/MinPres/status/1288185176116338690",
+			"display": "twitter.com/MinPres/status…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jul 28 18:50:53 +0000 2020",
+			"id": 1288185176116338700,
+			"id_str": "1288185176116338690",
+			"full_text": "Het aantal coronabesmettingen in ons land loopt op en daarom is het essentieel dat we ons aan de basisregels blijven houden. Ook op het terras, het strand en de camping. Lees de verklaring van @hugodejonge en mij hier: https://t.co/KMaG0fno3z",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				242
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "hugodejonge",
+						"name": "Hugo de Jonge",
+						"id": 29785926,
+						"id_str": "29785926",
+						"indices": [
+							193,
+							205
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/KMaG0fno3z",
+						"expanded_url": "https://www.facebook.com/ministerpresident/posts/3271490172912672",
+						"display_url": "facebook.com/ministerpresid…",
+						"indices": [
+							219,
+							242
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 155507136,
+				"id_str": "155507136",
+				"name": "Mark Rutte",
+				"screen_name": "MinPres",
+				"location": "Nederland",
+				"description": "Minister-president van Nederland – Redactie door de Rijksvoorlichtingsdienst.",
+				"url": "https://t.co/0FOfzD7KCb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0FOfzD7KCb",
+								"expanded_url": "http://www.rijksoverheid.nl/regering",
+								"display_url": "rijksoverheid.nl/regering",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1102643,
+				"friends_count": 38,
+				"listed_count": 3634,
+				"created_at": "Mon Jun 14 09:40:54 +0000 2010",
+				"favourites_count": 17,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 3946,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "79A9CD",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1163352047263125504/b4hlpEUO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1163352047263125504/b4hlpEUO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/155507136/1509013398",
+				"profile_link_color": "154373",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F3F5F6",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 237,
+			"favorite_count": 666,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 8,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Bijzonder dat de link niet verwijst naar een eigen site maar naar een gesloten, advertentie-gedreven netwerk wat (fiks) verdient aan het verzamelen, opslaan en verhuren van privé data van burgers. Maar goed, daar zullen ze bij de afdeling Communicatie wel een reden voor hebben. https://t.co/nG2wpkMVbv"
+	},
+	{
+		"created_at": "Tue Jul 28 19:46:48 +0000 2020",
+		"id": 1288181323195187200,
+		"id_str": "1288199245309321216",
+		"full_text": "Yeah, well, you know, that's just, like, your opinion, man.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.neilkodner.com\" rel=\"nofollow\">18data custom</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 102241939,
+			"id_str": "102241939",
+			"name": "The Bot Lebowski",
+			"screen_name": "TheBotLebowski",
+			"location": "Hollywood, FL",
+			"description": "created by @neilkod. Available for twitter and data-related projects",
+			"url": "http://t.co/lKPr9fgRE8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lKPr9fgRE8",
+							"expanded_url": "http://bit.ly/neilkodsbots",
+							"display_url": "bit.ly/neilkodsbots",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17447,
+			"friends_count": 0,
+			"listed_count": 439,
+			"created_at": "Wed Jan 06 02:18:56 +0000 2010",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 157013,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/613551924/8294_0201E2fmgLXBj7XY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/613551924/8294_0201E2fmgLXBj7XY_normal.jpg",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 59,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Yeah, well, you know, that's just, like, your opinion, man."
+	},
+	{
 		"created_at": "Tue Jul 28 15:35:13 +0000 2020",
 		"id": 1288135931430613000,
 		"id_str": "1288135931430612992",
