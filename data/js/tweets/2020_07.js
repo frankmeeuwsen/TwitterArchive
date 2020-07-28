@@ -1,6 +1,122 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Tue Jul 28 21:35:36 +0000 2020",
+		"id": 1284473850894270500,
+		"id_str": "1288226625222582273",
+		"full_text": "It's time to gradually exit Twitter.\n\nWhile Substack is great, it's better to set up a paid newsletter at your own domain. You can do this in an hour and maintain it for less than $30 per month.\n\nI wrote up a tutorial here to walk you through it:\nhttps://t.co/VCJH4vmtIV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VCJH4vmtIV",
+					"expanded_url": "https://balajis.com/set-up-a-paid-newsletter-at-your-own-domain/",
+					"display_url": "balajis.com/set-up-a-paid-…",
+					"indices": [
+						247,
+						270
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2178012643,
+			"id_str": "2178012643",
+			"name": "balajis.com",
+			"screen_name": "balajis",
+			"location": "Stanford, CA",
+			"description": "It may be possible to reverse aging. https://t.co/YESlCBNotL",
+			"url": "https://t.co/HAs4UH3Gmw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HAs4UH3Gmw",
+							"expanded_url": "https://balajis.com",
+							"display_url": "balajis.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YESlCBNotL",
+							"expanded_url": "https://www.nature.com/articles/d41586-019-02638-w",
+							"display_url": "nature.com/articles/d4158…",
+							"indices": [
+								37,
+								60
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 229085,
+			"friends_count": 3679,
+			"listed_count": 6105,
+			"created_at": "Wed Nov 06 12:51:04 +0000 2013",
+			"favourites_count": 87430,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11909,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1249433973219946496/l_JIhKeH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1249433973219946496/l_JIhKeH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2178012643/1499926367",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 377,
+		"favorite_count": 2645,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It's time to gradually exit Twitter.\n\nWhile Substack is great, it's better to set up a paid newsletter at your own domain. You can do this in an hour and maintain it for less than $30 per month.\n\nI wrote up a tutorial here to walk you through it:\nhttps://t.co/VCJH4vmtIV"
+	},
+	{
 		"created_at": "Tue Jul 28 21:19:15 +0000 2020",
 		"id": 1288222513038852000,
 		"id_str": "1288222513038852102",
@@ -259,7 +375,7 @@ Grailbird.data.tweets_2020_07 =
 			"user_mentions": [
 				{
 					"screen_name": "MargueriteEfde",
-					"name": "Marguerite 🏊‍♀️",
+					"name": "Marguerite 🏊♀️",
 					"id": 15269801,
 					"id_str": "15269801",
 					"indices": [
@@ -532,7 +648,7 @@ Grailbird.data.tweets_2020_07 =
 				},
 				{
 					"screen_name": "MargueriteEfde",
-					"name": "Marguerite 🏊‍♀️",
+					"name": "Marguerite 🏊♀️",
 					"id": 15269801,
 					"id_str": "15269801",
 					"indices": [
