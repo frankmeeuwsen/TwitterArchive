@@ -1,10 +1,126 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Thu Jul 30 18:40:51 +0000 2020",
+		"id": 1288907423722475500,
+		"id_str": "1288907423722475521",
+		"full_text": "4us (Virus...) is een toepasselijk album voor deze tijd. \"je ziet in je krantje dat het... allemaal uit de hand loopt...\" De eerste patient bij de Nachtzuster... \"zoek het zelf maar uit\"... Henny en Ernst wisten het altijd al!!!1!🚜! https://t.co/VtPFqyKhdv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			256
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VtPFqyKhdv",
+					"expanded_url": "https://www.nporadio1.nl/de-nieuws-bv/onderwerpen/29034-2020-03-13-waarom-4us-van-doe-maar-de-perfecte-corona-soundtrack-is",
+					"display_url": "nporadio1.nl/de-nieuws-bv/o…",
+					"indices": [
+						233,
+						256
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1288905424629117000,
+		"in_reply_to_status_id_str": "1288905424629116929",
+		"in_reply_to_user_id": 816203,
+		"in_reply_to_user_id_str": "816203",
+		"in_reply_to_screen_name": "frankmeeuwsen",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8959,
+			"friends_count": 550,
+			"listed_count": 570,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6593,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62407,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "4us (Virus...) is een toepasselijk album voor deze tijd. \"je ziet in je krantje dat het... allemaal uit de hand loopt...\" De eerste patient bij de Nachtzuster... \"zoek het zelf maar uit\"... Henny en Ernst wisten het altijd al!!!1!🚜! https://t.co/VtPFqyKhdv"
+	},
+	{
 		"created_at": "Thu Jul 30 16:46:47 +0000 2020",
 		"id": 1288878717054353400,
 		"id_str": "1288878717054353410",
-		"full_text": "In de nieuwsbrief wereld gebeurt hetzelfde als met blogsoftware en sociale netwerken. Wat eens een belofte was, is nu vergeten. Door gebrek aan doorontwikkeling en productvisie. Een analyse door ⁦@simonowens⁩.  https://t.co/1Bkb5Hl1sT",
+		"full_text": "In de nieuwsbrief wereld gebeurt hetzelfde als met blogsoftware en sociale netwerken. Wat eens een belofte was, is nu vergeten. Door gebrek aan doorontwikkeling en productvisie. Een analyse door @simonowens.  https://t.co/1Bkb5Hl1sT",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -125,7 +241,7 @@ Grailbird.data.tweets_2020_07 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "nl",
-		"text": "In de nieuwsbrief wereld gebeurt hetzelfde als met blogsoftware en sociale netwerken. Wat eens een belofte was, is nu vergeten. Door gebrek aan doorontwikkeling en productvisie. Een analyse door ⁦@simonowens⁩.  https://t.co/1Bkb5Hl1sT"
+		"text": "In de nieuwsbrief wereld gebeurt hetzelfde als met blogsoftware en sociale netwerken. Wat eens een belofte was, is nu vergeten. Door gebrek aan doorontwikkeling en productvisie. Een analyse door @simonowens.  https://t.co/1Bkb5Hl1sT"
 	},
 	{
 		"created_at": "Thu Jul 30 08:24:55 +0000 2020",
