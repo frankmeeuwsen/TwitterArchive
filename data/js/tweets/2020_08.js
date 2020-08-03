@@ -1,6 +1,356 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Mon Aug 03 22:12:26 +0000 2020",
+		"id": 1290410223488901000,
+		"id_str": "1290410223488901121",
+		"full_text": "Ik hou van dit soort threads. Over obscure technologie die ooit de wereld zou veranderen. En dat toch niet deed. https://t.co/GduseJ9x4E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GduseJ9x4E",
+					"expanded_url": "https://twitter.com/foone/status/1290348053476413440",
+					"display_url": "twitter.com/foone/status/1…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8962,
+			"friends_count": 551,
+			"listed_count": 570,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6594,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62417,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1290348053476413400,
+		"quoted_status_id_str": "1290348053476413440",
+		"quoted_status_permalink": {
+			"url": "https://t.co/GduseJ9x4E",
+			"expanded": "https://twitter.com/foone/status/1290348053476413440",
+			"display": "twitter.com/foone/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Aug 03 18:05:24 +0000 2020",
+			"id": 1290348053476413400,
+			"id_str": "1290348053476413440",
+			"full_text": "Someday I'll find a red Cartrivision tape that hasn't been rewind-modded, but apparently NOT TODAY (says ebay) https://t.co/RlzTjncOq6",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				110
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1290347890976551000,
+						"id_str": "1290347890976550917",
+						"indices": [
+							111,
+							134
+						],
+						"media_url": "http://pbs.twimg.com/media/Eeg8kf5U8AUsENd.png",
+						"media_url_https": "https://pbs.twimg.com/media/Eeg8kf5U8AUsENd.png",
+						"url": "https://t.co/RlzTjncOq6",
+						"display_url": "pic.twitter.com/RlzTjncOq6",
+						"expanded_url": "https://twitter.com/Foone/status/1290348053476413440/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 375,
+								"h": 500,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 375,
+								"h": 500,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 375,
+								"h": 500,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1290347890976551000,
+						"id_str": "1290347890976550917",
+						"indices": [
+							111,
+							134
+						],
+						"media_url": "http://pbs.twimg.com/media/Eeg8kf5U8AUsENd.png",
+						"media_url_https": "https://pbs.twimg.com/media/Eeg8kf5U8AUsENd.png",
+						"url": "https://t.co/RlzTjncOq6",
+						"display_url": "pic.twitter.com/RlzTjncOq6",
+						"expanded_url": "https://twitter.com/Foone/status/1290348053476413440/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 375,
+								"h": 500,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 375,
+								"h": 500,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 375,
+								"h": 500,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 1290347915471331300,
+						"id_str": "1290347915471331330",
+						"indices": [
+							111,
+							134
+						],
+						"media_url": "http://pbs.twimg.com/media/Eeg8l7JVoAI-wWv.png",
+						"media_url_https": "https://pbs.twimg.com/media/Eeg8l7JVoAI-wWv.png",
+						"url": "https://t.co/RlzTjncOq6",
+						"display_url": "pic.twitter.com/RlzTjncOq6",
+						"expanded_url": "https://twitter.com/Foone/status/1290348053476413440/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 1600,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 13502732,
+				"id_str": "13502732",
+				"name": "foone",
+				"screen_name": "Foone",
+				"location": "Milpitas, CA",
+				"description": "Hardware / software necromancer, collector of Weird Stuff, maker of Death Generators.\nPatreon: https://t.co/YZYV7eeX9y\nko-fi: https://t.co/judH4AWINA",
+				"url": "https://t.co/2PlYsHBSvH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2PlYsHBSvH",
+								"expanded_url": "http://floppy.foone.org",
+								"display_url": "floppy.foone.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/YZYV7eeX9y",
+								"expanded_url": "https://patreon.com/foone",
+								"display_url": "patreon.com/foone",
+								"indices": [
+									95,
+									118
+								]
+							},
+							{
+								"url": "https://t.co/judH4AWINA",
+								"expanded_url": "https://ko-fi.com/fooneturing",
+								"display_url": "ko-fi.com/fooneturing",
+								"indices": [
+									126,
+									149
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 70173,
+				"friends_count": 548,
+				"listed_count": 598,
+				"created_at": "Fri Feb 15 03:51:09 +0000 2008",
+				"favourites_count": 64194,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 144147,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/880340410333143040/-s_buYC0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/880340410333143040/-s_buYC0_normal.jpg",
+				"profile_link_color": "008080",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 72,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Ik hou van dit soort threads. Over obscure technologie die ooit de wereld zou veranderen. En dat toch niet deed. https://t.co/GduseJ9x4E"
+	},
+	{
 		"created_at": "Mon Aug 03 20:10:14 +0000 2020",
 		"id": 1290379469337788400,
 		"id_str": "1290379469337788416",
