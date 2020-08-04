@@ -1,6 +1,434 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Tue Aug 04 14:23:06 +0000 2020",
+		"id": 1290654499300925400,
+		"id_str": "1290654499300925453",
+		"full_text": "\"Lower than the world\".... hij zegt het echt.... https://t.co/EspIu2wEri",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EspIu2wEri",
+					"expanded_url": "https://twitter.com/MeidasTouch/status/1290516877802795008",
+					"display_url": "twitter.com/MeidasTouch/st…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8960,
+			"friends_count": 551,
+			"listed_count": 570,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6594,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62419,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1290516877802795000,
+		"quoted_status_id_str": "1290516877802795008",
+		"quoted_status_permalink": {
+			"url": "https://t.co/EspIu2wEri",
+			"expanded": "https://twitter.com/MeidasTouch/status/1290516877802795008",
+			"display": "twitter.com/MeidasTouch/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Aug 04 05:16:14 +0000 2020",
+			"id": 1290516877802795000,
+			"id_str": "1290516877802795008",
+			"full_text": "No ad needed. This is devastating for Trump. Just play this. https://t.co/CdVaKQhwNR",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				84
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1290456533667586000,
+						"id_str": "1290456533667586049",
+						"indices": [
+							61,
+							84
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1290456533667586049/img/Pb2xmJl3pARYeRnk.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1290456533667586049/img/Pb2xmJl3pARYeRnk.jpg",
+						"url": "https://t.co/CdVaKQhwNR",
+						"display_url": "pic.twitter.com/CdVaKQhwNR",
+						"expanded_url": "https://twitter.com/axios/status/1290497186489348096/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1290497186489348000,
+						"source_status_id_str": "1290497186489348096",
+						"source_user_id": 800707492346925000,
+						"source_user_id_str": "800707492346925056"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1290456533667586000,
+						"id_str": "1290456533667586049",
+						"indices": [
+							61,
+							84
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1290456533667586049/img/Pb2xmJl3pARYeRnk.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1290456533667586049/img/Pb2xmJl3pARYeRnk.jpg",
+						"url": "https://t.co/CdVaKQhwNR",
+						"display_url": "pic.twitter.com/CdVaKQhwNR",
+						"expanded_url": "https://twitter.com/axios/status/1290497186489348096/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1290497186489348000,
+						"source_status_id_str": "1290497186489348096",
+						"source_user_id": 800707492346925000,
+						"source_user_id_str": "800707492346925056",
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 174107,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1290456533667586049/vid/640x360/KX6149DP0JGjC_8-.mp4?tag=13"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1290456533667586049/pl/6HkR-IoNUfEx_k8e.m3u8?tag=13"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1290456533667586049/vid/1280x720/IxrLeimRUX8u3XeO.mp4?tag=13"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1290456533667586049/vid/480x270/nxQI_C0v71GpvZjC.mp4?tag=13"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false,
+							"source_user": {
+								"id": 800707492346925000,
+								"id_str": "800707492346925056",
+								"name": "Axios",
+								"screen_name": "axios",
+								"location": "",
+								"description": "Smart Brevity worthy of people's time, attention and trust. Visit our stream: https://t.co/MOsBGwib0S Subscribe to our newsletters: https://t.co/hi21XepUhE",
+								"url": "https://t.co/bUiTy7g0K3",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/bUiTy7g0K3",
+												"expanded_url": "https://www.axios.com/podcasts",
+												"display_url": "axios.com/podcasts",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": [
+											{
+												"url": "https://t.co/MOsBGwib0S",
+												"expanded_url": "http://www.Axios.com",
+												"display_url": "Axios.com",
+												"indices": [
+													78,
+													101
+												]
+											},
+											{
+												"url": "https://t.co/hi21XepUhE",
+												"expanded_url": "http://signup.axios.com",
+												"display_url": "signup.axios.com",
+												"indices": [
+													132,
+													155
+												]
+											}
+										]
+									}
+								},
+								"protected": false,
+								"followers_count": 416144,
+								"friends_count": 873,
+								"listed_count": 6075,
+								"created_at": "Mon Nov 21 14:28:37 +0000 2016",
+								"favourites_count": 529,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": true,
+								"verified": true,
+								"statuses_count": 73607,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "F5F8FA",
+								"profile_background_image_url": null,
+								"profile_background_image_url_https": null,
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1250736366872395779/NVnHvjJ7_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1250736366872395779/NVnHvjJ7_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/800707492346925056/1587033794",
+								"profile_link_color": "1DA1F2",
+								"profile_sidebar_border_color": "C0DEED",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": true,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1243560408025198600,
+				"id_str": "1243560408025198593",
+				"name": "MeidasTouch.com",
+				"screen_name": "MeidasTouch",
+				"location": "",
+				"description": "Producing the most hard-hitting, impactful and most watched political videos. Because truth is golden.    Donate https://t.co/5LBp5m7F0u",
+				"url": "https://t.co/R8saJm6byv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/R8saJm6byv",
+								"expanded_url": "https://www.meidastouch.com",
+								"display_url": "meidastouch.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/5LBp5m7F0u",
+								"expanded_url": "https://secure.actblue.com/donate/meidastouch/",
+								"display_url": "secure.actblue.com/donate/meidast…",
+								"indices": [
+									113,
+									136
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 334526,
+				"friends_count": 576,
+				"listed_count": 874,
+				"created_at": "Fri Mar 27 15:28:09 +0000 2020",
+				"favourites_count": 15320,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10535,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1248738664860889088/Qst2VjNl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1248738664860889088/Qst2VjNl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1243560408025198593/1594760162",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14731,
+			"favorite_count": 31895,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "\"Lower than the world\".... hij zegt het echt.... https://t.co/EspIu2wEri"
+	},
+	{
 		"created_at": "Tue Aug 04 14:18:11 +0000 2020",
 		"id": 1290653261255639000,
 		"id_str": "1290653261255639042",
