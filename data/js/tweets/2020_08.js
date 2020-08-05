@@ -1,6 +1,383 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Wed Aug 05 14:20:05 +0000 2020",
+		"id": 1291016130061054000,
+		"id_str": "1291016130061053954",
+		"full_text": "Happy to help! https://t.co/fLk2K18ZBT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fLk2K18ZBT",
+					"expanded_url": "https://twitter.com/lesley_pizza/status/1291009377692864515",
+					"display_url": "twitter.com/lesley_pizza/s…",
+					"indices": [
+						15,
+						38
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8959,
+			"friends_count": 551,
+			"listed_count": 569,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6595,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62421,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1291009377692864500,
+		"quoted_status_id_str": "1291009377692864515",
+		"quoted_status_permalink": {
+			"url": "https://t.co/fLk2K18ZBT",
+			"expanded": "https://twitter.com/lesley_pizza/status/1291009377692864515",
+			"display": "twitter.com/lesley_pizza/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Aug 05 13:53:16 +0000 2020",
+			"id": 1291009377692864500,
+			"id_str": "1291009377692864515",
+			"full_text": "It began with customer discovery. Here's some of the kind people who helped:\n@land_ofrandom @ScriptureSauce @frankmeeuwsen @dataelixir @alxhof @KarthikS2206 @khemaridh\n\nWhen reading my page, other peeps said it sounded like I really know my users - it's all thanks to these guys! https://t.co/HvgrrkuAaW",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "land_ofrandom",
+						"name": "thelandofrandom 🐙",
+						"id": 1229223273508065300,
+						"id_str": "1229223273508065281",
+						"indices": [
+							77,
+							91
+						]
+					},
+					{
+						"screen_name": "ScriptureSauce",
+						"name": "Scripture Sauce",
+						"id": 1270542484414910500,
+						"id_str": "1270542484414910464",
+						"indices": [
+							92,
+							107
+						]
+					},
+					{
+						"screen_name": "frankmeeuwsen",
+						"name": "Frank Meeuwsen",
+						"id": 816203,
+						"id_str": "816203",
+						"indices": [
+							108,
+							122
+						]
+					},
+					{
+						"screen_name": "dataelixir",
+						"name": "Data Elixir",
+						"id": 2789733414,
+						"id_str": "2789733414",
+						"indices": [
+							123,
+							134
+						]
+					},
+					{
+						"screen_name": "alxhof",
+						"name": "Alex",
+						"id": 55550931,
+						"id_str": "55550931",
+						"indices": [
+							135,
+							142
+						]
+					},
+					{
+						"screen_name": "KarthikS2206",
+						"name": "Karthik Sridharan",
+						"id": 1086509879630549000,
+						"id_str": "1086509879630548993",
+						"indices": [
+							143,
+							156
+						]
+					},
+					{
+						"screen_name": "khemaridh",
+						"name": "Khe Hy",
+						"id": 592068784,
+						"id_str": "592068784",
+						"indices": [
+							157,
+							167
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1291004938064019500,
+						"id_str": "1291004938064019459",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/EeqSJrCUwAMM1fv.png",
+						"media_url_https": "https://pbs.twimg.com/media/EeqSJrCUwAMM1fv.png",
+						"url": "https://t.co/HvgrrkuAaW",
+						"display_url": "pic.twitter.com/HvgrrkuAaW",
+						"expanded_url": "https://twitter.com/lesley_pizza/status/1291009377692864515/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1206,
+								"h": 140,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 140,
+								"h": 140,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 79,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 139,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1291004938064019500,
+						"id_str": "1291004938064019459",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/EeqSJrCUwAMM1fv.png",
+						"media_url_https": "https://pbs.twimg.com/media/EeqSJrCUwAMM1fv.png",
+						"url": "https://t.co/HvgrrkuAaW",
+						"display_url": "pic.twitter.com/HvgrrkuAaW",
+						"expanded_url": "https://twitter.com/lesley_pizza/status/1291009377692864515/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1206,
+								"h": 140,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 140,
+								"h": 140,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 79,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 139,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1291009375348244500,
+			"in_reply_to_status_id_str": "1291009375348244480",
+			"in_reply_to_user_id": 17828291,
+			"in_reply_to_user_id_str": "17828291",
+			"in_reply_to_screen_name": "lesley_pizza",
+			"user": {
+				"id": 17828291,
+				"id_str": "17828291",
+				"name": "Lesley",
+				"screen_name": "lesley_pizza",
+				"location": "",
+				"description": "Building @newsletterglue. Email me at Lesley at https://t.co/Z2J6hRKmAf for beta invites! 💌",
+				"url": "https://t.co/Wxi4XDP22c",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Wxi4XDP22c",
+								"expanded_url": "http://lesley.pizza",
+								"display_url": "lesley.pizza",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Z2J6hRKmAf",
+								"expanded_url": "http://memberhero.pro",
+								"display_url": "memberhero.pro",
+								"indices": [
+									48,
+									71
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 115,
+				"friends_count": 134,
+				"listed_count": 5,
+				"created_at": "Wed Dec 03 04:03:00 +0000 2008",
+				"favourites_count": 423,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 273,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1190148367487324160/p7vk7S9k_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1190148367487324160/p7vk7S9k_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17828291/1424008356",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Happy to help! https://t.co/fLk2K18ZBT"
+	},
+	{
 		"created_at": "Wed Aug 05 06:07:01 +0000 2020",
 		"id": 1290892043573698600,
 		"id_str": "1290892043573698561",
