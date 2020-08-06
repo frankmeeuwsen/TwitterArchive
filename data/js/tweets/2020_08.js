@@ -1,6 +1,451 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Thu Aug 06 20:08:34 +0000 2020",
+		"id": 1291466214376702000,
+		"id_str": "1291466214376701953",
+		"full_text": "@webflow Track nr 1.... https://t.co/NQ1y35WjoA",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "webflow",
+					"name": "Webflow",
+					"id": 403930194,
+					"id_str": "403930194",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NQ1y35WjoA",
+					"expanded_url": "https://pearljam.com/music/album/no-code",
+					"display_url": "pearljam.com/music/album/no…",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1291465400128020500,
+		"in_reply_to_status_id_str": "1291465400128020481",
+		"in_reply_to_user_id": 403930194,
+		"in_reply_to_user_id_str": "403930194",
+		"in_reply_to_screen_name": "webflow",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8960,
+			"friends_count": 551,
+			"listed_count": 570,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6600,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62428,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "no",
+		"text": "@webflow Track nr 1.... https://t.co/NQ1y35WjoA"
+	},
+	{
+		"created_at": "Thu Aug 06 20:00:18 +0000 2020",
+		"id": 1291464133167243300,
+		"id_str": "1291464133167243271",
+		"full_text": "What a sublime list to be mentioned in. Thanks! https://t.co/vHJoaSAWuv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vHJoaSAWuv",
+					"expanded_url": "https://twitter.com/ListoryApp/status/1291410923027128320",
+					"display_url": "twitter.com/ListoryApp/sta…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8960,
+			"friends_count": 551,
+			"listed_count": 570,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6600,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62428,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1291410923027128300,
+		"quoted_status_id_str": "1291410923027128320",
+		"quoted_status_permalink": {
+			"url": "https://t.co/vHJoaSAWuv",
+			"expanded": "https://twitter.com/ListoryApp/status/1291410923027128320",
+			"display": "twitter.com/ListoryApp/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Aug 06 16:28:51 +0000 2020",
+			"id": 1291410923027128300,
+			"id_str": "1291410923027128320",
+			"full_text": "@amoroso @newslettersco If you like these newsletters, we'd recommend:\n\nNewsletters:\n@frankmeeuwsen \"Thanks For Subscribing\"\n@land_ofrandom \n\nTech/Media:\n@eugenewei \"Remains Of The Day\" \n@simonowens \n@Mention \n@unplugg_d \n@AdContrarian \n\nTech/Media/Newsletters:\n@theedge_group",
+			"truncated": false,
+			"display_text_range": [
+				24,
+				276
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "amoroso",
+						"name": "Paolo Amoroso",
+						"id": 9224902,
+						"id_str": "9224902",
+						"indices": [
+							0,
+							8
+						]
+					},
+					{
+						"screen_name": "newslettersco",
+						"name": "Newsletters",
+						"id": 3309743547,
+						"id_str": "3309743547",
+						"indices": [
+							9,
+							23
+						]
+					},
+					{
+						"screen_name": "frankmeeuwsen",
+						"name": "Frank Meeuwsen",
+						"id": 816203,
+						"id_str": "816203",
+						"indices": [
+							85,
+							99
+						]
+					},
+					{
+						"screen_name": "land_ofrandom",
+						"name": "thelandofrandom 🐙",
+						"id": 1229223273508065300,
+						"id_str": "1229223273508065281",
+						"indices": [
+							125,
+							139
+						]
+					},
+					{
+						"screen_name": "eugenewei",
+						"name": "Eugene Wei",
+						"id": 1547221,
+						"id_str": "1547221",
+						"indices": [
+							154,
+							164
+						]
+					},
+					{
+						"screen_name": "simonowens",
+						"name": "Simon Owens",
+						"id": 16248619,
+						"id_str": "16248619",
+						"indices": [
+							187,
+							198
+						]
+					},
+					{
+						"screen_name": "Mention",
+						"name": "Mention",
+						"id": 435854974,
+						"id_str": "435854974",
+						"indices": [
+							200,
+							208
+						]
+					},
+					{
+						"screen_name": "unplugg_d",
+						"name": "Unplugg'd",
+						"id": 832415720491319300,
+						"id_str": "832415720491319296",
+						"indices": [
+							210,
+							220
+						]
+					},
+					{
+						"screen_name": "AdContrarian",
+						"name": "adcontrarian",
+						"id": 39105959,
+						"id_str": "39105959",
+						"indices": [
+							222,
+							235
+						]
+					},
+					{
+						"screen_name": "theedge_group",
+						"name": "The Edge.Group",
+						"id": 1155810338,
+						"id_str": "1155810338",
+						"indices": [
+							262,
+							276
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1291395169691013000,
+			"in_reply_to_status_id_str": "1291395169691013121",
+			"in_reply_to_user_id": 9224902,
+			"in_reply_to_user_id_str": "9224902",
+			"in_reply_to_screen_name": "amoroso",
+			"user": {
+				"id": 1134860405862539300,
+				"id_str": "1134860405862539266",
+				"name": "Listory",
+				"screen_name": "ListoryApp",
+				"location": "Manhattan, NY",
+				"description": "Listory is the world’s first content refinery. \nPowered by human-curation to mine the best of the web.",
+				"url": "https://t.co/m0CIKIrysc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/m0CIKIrysc",
+								"expanded_url": "https://www.listory.com/en/",
+								"display_url": "listory.com/en/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 299,
+				"friends_count": 1962,
+				"listed_count": 3,
+				"created_at": "Sat Jun 01 16:33:00 +0000 2019",
+				"favourites_count": 967,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 488,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1270019809447731200/Wgd-o5Gw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270019809447731200/Wgd-o5Gw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1134860405862539266/1591631294",
+				"profile_link_color": "FF7572",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What a sublime list to be mentioned in. Thanks! https://t.co/vHJoaSAWuv"
+	},
+	{
 		"created_at": "Thu Aug 06 18:34:07 +0000 2020",
 		"id": 1291442446669426700,
 		"id_str": "1291442446669426688",
