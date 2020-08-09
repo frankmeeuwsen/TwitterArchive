@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Sun Aug 09 15:04:04 +0000 2020",
+		"id": 1292476749373157400,
+		"id_str": "1292476749373157376",
+		"full_text": "Vanochtend met Finn bij de Honswijkerplas geweest, aan de Lek. 's Ochtends nog goed te doen, niet te druk. Na het middaguur werd het wel wat voller. Een prima plekje om bij het water te zijn! https://t.co/C38gvwFK0V",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1292476285529227300,
+					"id_str": "1292476285529227264",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/Ee_MVXeWAAAvZvW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ee_MVXeWAAAvZvW.jpg",
+					"url": "https://t.co/C38gvwFK0V",
+					"display_url": "pic.twitter.com/C38gvwFK0V",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1292476749373157376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 314,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 710,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 555,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1292476285529227300,
+					"id_str": "1292476285529227264",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/Ee_MVXeWAAAvZvW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ee_MVXeWAAAvZvW.jpg",
+					"url": "https://t.co/C38gvwFK0V",
+					"display_url": "pic.twitter.com/C38gvwFK0V",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1292476749373157376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 314,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 710,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 555,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1292476713381834800,
+					"id_str": "1292476713381834754",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/Ee_MuRWWsAIqYU7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ee_MuRWWsAIqYU7.jpg",
+					"url": "https://t.co/C38gvwFK0V",
+					"display_url": "pic.twitter.com/C38gvwFK0V",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1292476749373157376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8959,
+			"friends_count": 553,
+			"listed_count": 570,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6607,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62446,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Vanochtend met Finn bij de Honswijkerplas geweest, aan de Lek. 's Ochtends nog goed te doen, niet te druk. Na het middaguur werd het wel wat voller. Een prima plekje om bij het water te zijn! https://t.co/C38gvwFK0V"
+	},
+	{
 		"created_at": "Sun Aug 09 07:21:27 +0000 2020",
 		"id": 1292360326944612400,
 		"id_str": "1292360326944612352",
