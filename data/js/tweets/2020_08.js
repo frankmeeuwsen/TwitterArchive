@@ -1,6 +1,333 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Fri Aug 14 16:30:45 +0000 2020",
+		"id": 1294310500482916400,
+		"id_str": "1294310500482916352",
+		"full_text": "@patrickloonstra Good Monday! https://t.co/RvYmi55X13",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "patrickloonstra",
+					"name": "Patrick 🕶",
+					"id": 9647022,
+					"id_str": "9647022",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RvYmi55X13",
+					"expanded_url": "https://twitter.com/marty/status/1294182640229273600",
+					"display_url": "twitter.com/marty/status/1…",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 9647022,
+		"in_reply_to_user_id_str": "9647022",
+		"in_reply_to_screen_name": "patrickloonstra",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8957,
+			"friends_count": 552,
+			"listed_count": 570,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6610,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62451,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1294182640229273600,
+		"quoted_status_id_str": "1294182640229273600",
+		"quoted_status_permalink": {
+			"url": "https://t.co/RvYmi55X13",
+			"expanded": "https://twitter.com/marty/status/1294182640229273600",
+			"display": "twitter.com/marty/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Aug 14 08:02:40 +0000 2020",
+			"id": 1294182640229273600,
+			"id_str": "1294182640229273600",
+			"full_text": "POOLSIDE FM FOR MAC\n\nOUT NOW\n\nhttps://t.co/ywOQlyfFSh https://t.co/KvHNlRjwQr",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				53
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ywOQlyfFSh",
+						"expanded_url": "http://poolside.fm/mac",
+						"display_url": "poolside.fm/mac",
+						"indices": [
+							30,
+							53
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1294172014530396200,
+						"id_str": "1294172014530396162",
+						"indices": [
+							54,
+							77
+						],
+						"media_url": "http://pbs.twimg.com/media/EfXSlyRWAAIRl8C.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EfXSlyRWAAIRl8C.jpg",
+						"url": "https://t.co/KvHNlRjwQr",
+						"display_url": "pic.twitter.com/KvHNlRjwQr",
+						"expanded_url": "https://twitter.com/marty/status/1294182640229273600/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 358,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1800,
+								"h": 948,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 632,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1294172014530396200,
+						"id_str": "1294172014530396162",
+						"indices": [
+							54,
+							77
+						],
+						"media_url": "http://pbs.twimg.com/media/EfXSlyRWAAIRl8C.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EfXSlyRWAAIRl8C.jpg",
+						"url": "https://t.co/KvHNlRjwQr",
+						"display_url": "pic.twitter.com/KvHNlRjwQr",
+						"expanded_url": "https://twitter.com/marty/status/1294182640229273600/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 358,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1800,
+								"h": 948,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 632,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20476674,
+				"id_str": "20476674",
+				"name": "marty bell",
+				"screen_name": "marty",
+				"location": "highlands, scotland",
+				"description": "internet treasure hunter • building companies with friends: https://t.co/f7ZKma97UR + @poolsidefm + @tens",
+				"url": "https://t.co/ZTq1O5YiR1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ZTq1O5YiR1",
+								"expanded_url": "http://marty.land",
+								"display_url": "marty.land",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/f7ZKma97UR",
+								"expanded_url": "http://getnude.com",
+								"display_url": "getnude.com",
+								"indices": [
+									60,
+									83
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 8549,
+				"friends_count": 997,
+				"listed_count": 168,
+				"created_at": "Mon Feb 09 23:13:35 +0000 2009",
+				"favourites_count": 10799,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 15711,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1291834459269013504/PbyTyfea_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291834459269013504/PbyTyfea_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20476674/1583335255",
+				"profile_link_color": "C29948",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "5C5C5C",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 99,
+			"favorite_count": 564,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@patrickloonstra Good Monday! https://t.co/RvYmi55X13"
+	},
+	{
 		"created_at": "Fri Aug 14 12:02:46 +0000 2020",
 		"id": 1294184350519455700,
 		"id_str": "1294243060386234368",
