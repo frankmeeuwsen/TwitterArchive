@@ -1,6 +1,251 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Fri Aug 14 12:02:46 +0000 2020",
+		"id": 1294184350519455700,
+		"id_str": "1294243060386234368",
+		"full_text": "Level 3\n\n- Frank's @ForSubscribing\n- App News from @wadesellers\n- Community Finder from @angrigoryan__\n- @rosiesherry on Communities \n- Underdog stories from @JokerMagHQ \n- Andy &amp; Colin sends @vim_tricks \n- Brayden's Build Faster\n- @jayyoms' Offbeat View https://t.co/UwewQ3C5QH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			258
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ForSubscribing",
+					"name": "Thanks for Subscribing",
+					"id": 1221904161492566000,
+					"id_str": "1221904161492566016",
+					"indices": [
+						19,
+						34
+					]
+				},
+				{
+					"screen_name": "WadeSellers",
+					"name": "Wade Sellers",
+					"id": 230545775,
+					"id_str": "230545775",
+					"indices": [
+						51,
+						63
+					]
+				},
+				{
+					"screen_name": "angrigoryan__",
+					"name": "Anna Grigoryan",
+					"id": 823121807859478500,
+					"id_str": "823121807859478528",
+					"indices": [
+						88,
+						102
+					]
+				},
+				{
+					"screen_name": "rosiesherry",
+					"name": "Rosie Sherry",
+					"id": 2204961,
+					"id_str": "2204961",
+					"indices": [
+						105,
+						117
+					]
+				},
+				{
+					"screen_name": "JokerMagHQ",
+					"name": "Underdog Stories • Joker Mag",
+					"id": 928786463797514200,
+					"id_str": "928786463797514244",
+					"indices": [
+						158,
+						169
+					]
+				},
+				{
+					"screen_name": "vim_tricks",
+					"name": "VimTricks",
+					"id": 869181910983094300,
+					"id_str": "869181910983094272",
+					"indices": [
+						196,
+						207
+					]
+				},
+				{
+					"screen_name": "JayYoms",
+					"name": "Yommy",
+					"id": 705094450389844000,
+					"id_str": "705094450389843968",
+					"indices": [
+						236,
+						244
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1294179410002632700,
+					"id_str": "1294179410002632709",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/media/EfXZUQjU4AUeYEE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfXZUQjU4AUeYEE.jpg",
+					"url": "https://t.co/UwewQ3C5QH",
+					"display_url": "pic.twitter.com/UwewQ3C5QH",
+					"expanded_url": "https://twitter.com/Kamphey/status/1294184350519455744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1862,
+							"h": 1018,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 372,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 656,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1294179410002632700,
+					"id_str": "1294179410002632709",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/media/EfXZUQjU4AUeYEE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfXZUQjU4AUeYEE.jpg",
+					"url": "https://t.co/UwewQ3C5QH",
+					"display_url": "pic.twitter.com/UwewQ3C5QH",
+					"expanded_url": "https://twitter.com/Kamphey/status/1294184350519455744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1862,
+							"h": 1018,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 372,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 656,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1294184347965112300,
+		"in_reply_to_status_id_str": "1294184347965112321",
+		"in_reply_to_user_id": 880930110,
+		"in_reply_to_user_id_str": "880930110",
+		"in_reply_to_screen_name": "Kamphey",
+		"user": {
+			"id": 880930110,
+			"id_str": "880930110",
+			"name": "Kamphey",
+			"screen_name": "Kamphey",
+			"location": "Bali, Indonesia",
+			"description": "Former Santa. \nCurate @InfluenceWeek \nMaking Newsletter Writers Money @HypeLetter \nAmazeballs Google Sheets @BetterSheets",
+			"url": "https://t.co/Dcwd6Z2RFT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Dcwd6Z2RFT",
+							"expanded_url": "http://kamphey.com/",
+							"display_url": "kamphey.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11638,
+			"friends_count": 396,
+			"listed_count": 213,
+			"created_at": "Sun Oct 14 20:32:38 +0000 2012",
+			"favourites_count": 19696,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4789,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1256533331404967936/wg1EDbf2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1256533331404967936/wg1EDbf2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/880930110/1588415869",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Level 3\n\n- Frank's @ForSubscribing\n- App News from @wadesellers\n- Community Finder from @angrigoryan__\n- @rosiesherry on Communities \n- Underdog stories from @JokerMagHQ \n- Andy &amp; Colin sends @vim_tricks \n- Brayden's Build Faster\n- @jayyoms' Offbeat View https://t.co/UwewQ3C5QH"
+	},
+	{
 		"created_at": "Sun Aug 09 20:48:47 +0000 2020",
 		"id": 1292563497537147000,
 		"id_str": "1292563497537146880",
