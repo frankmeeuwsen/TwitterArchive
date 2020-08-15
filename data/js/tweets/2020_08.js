@@ -1,6 +1,252 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Sat Aug 15 07:14:32 +0000 2020",
+		"id": 1294532912273133600,
+		"id_str": "1294532912273133568",
+		"full_text": "Als je geïnteresseerd bent in het samensmelten van nieuwsbrieven met je blog, check Lesley en haar plugin. Het is Substack op je eigen domein! https://t.co/rM1Rs5cRP4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rM1Rs5cRP4",
+					"expanded_url": "https://twitter.com/lesley_pizza/status/1293880796432891907",
+					"display_url": "twitter.com/lesley_pizza/s…",
+					"indices": [
+						143,
+						166
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8958,
+			"friends_count": 552,
+			"listed_count": 570,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6610,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62452,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1293880796432892000,
+		"quoted_status_id_str": "1293880796432891907",
+		"quoted_status_permalink": {
+			"url": "https://t.co/rM1Rs5cRP4",
+			"expanded": "https://twitter.com/lesley_pizza/status/1293880796432891907",
+			"display": "twitter.com/lesley_pizza/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Aug 13 12:03:15 +0000 2020",
+			"id": 1293880796432892000,
+			"id_str": "1293880796432891907",
+			"full_text": "I'm about to start building the paid version of @NewsletterGlue (the free version just launched).\n\nI plan to build #GutenbergBlocks specially for newsletters. Each block is a feature that you can add to your newsletter, that's similar to one you've seen on a big newsletter.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				274
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GutenbergBlocks",
+						"indices": [
+							115,
+							131
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "NewsletterGlue",
+						"name": "Newsletter Glue - now available on WP directory!",
+						"id": 1273282653773377500,
+						"id_str": "1273282653773377536",
+						"indices": [
+							48,
+							63
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17828291,
+				"id_str": "17828291",
+				"name": "Lesley",
+				"screen_name": "lesley_pizza",
+				"location": "",
+				"description": "Building @newsletterglue. Email me at Lesley at https://t.co/Z2J6hRKmAf for beta invites! 💌",
+				"url": "https://t.co/Wxi4XDP22c",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Wxi4XDP22c",
+								"expanded_url": "http://lesley.pizza",
+								"display_url": "lesley.pizza",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Z2J6hRKmAf",
+								"expanded_url": "http://memberhero.pro",
+								"display_url": "memberhero.pro",
+								"indices": [
+									48,
+									71
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 138,
+				"friends_count": 195,
+				"listed_count": 7,
+				"created_at": "Wed Dec 03 04:03:00 +0000 2008",
+				"favourites_count": 660,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 381,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1190148367487324160/p7vk7S9k_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1190148367487324160/p7vk7S9k_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17828291/1424008356",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Als je geïnteresseerd bent in het samensmelten van nieuwsbrieven met je blog, check Lesley en haar plugin. Het is Substack op je eigen domein! https://t.co/rM1Rs5cRP4"
+	},
+	{
 		"created_at": "Fri Aug 14 16:30:45 +0000 2020",
 		"id": 1294310500482916400,
 		"id_str": "1294310500482916352",
