@@ -1,6 +1,381 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Sun Aug 16 18:10:10 +0000 2020",
+		"id": 1295060295178748000,
+		"id_str": "1295060295178747909",
+		"full_text": "Check die podcasts. Ze zijn echt de moeite waard! https://t.co/4wtET2flq0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4wtET2flq0",
+					"expanded_url": "https://twitter.com/revue/status/1295014963484950528",
+					"display_url": "twitter.com/revue/status/1…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8956,
+			"friends_count": 551,
+			"listed_count": 570,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6615,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62459,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1295014963484950500,
+		"quoted_status_id_str": "1295014963484950528",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4wtET2flq0",
+			"expanded": "https://twitter.com/revue/status/1295014963484950528",
+			"display": "twitter.com/revue/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Aug 16 15:10:02 +0000 2020",
+			"id": 1295014963484950500,
+			"id_str": "1295014963484950528",
+			"full_text": "The @newslettercrew does podcasts for newsletter authors. They've done 12 so far, with experts like @frankmeeuwsen, @justinmduke and @amlewis4 to name a few.\n\nhttps://t.co/9eELpYjHxz https://t.co/kHXSUbkzZq",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				182
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "newslettercrew",
+						"name": "Newsletter Crew",
+						"id": 1108427615877115900,
+						"id_str": "1108427615877115907",
+						"indices": [
+							4,
+							19
+						]
+					},
+					{
+						"screen_name": "frankmeeuwsen",
+						"name": "Frank Meeuwsen",
+						"id": 816203,
+						"id_str": "816203",
+						"indices": [
+							100,
+							114
+						]
+					},
+					{
+						"screen_name": "justinmduke",
+						"name": "justin m. duke",
+						"id": 20491193,
+						"id_str": "20491193",
+						"indices": [
+							116,
+							128
+						]
+					},
+					{
+						"screen_name": "amlewis4",
+						"name": "Ari Lewis",
+						"id": 221966379,
+						"id_str": "221966379",
+						"indices": [
+							133,
+							142
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/9eELpYjHxz",
+						"expanded_url": "https://newslettercrew.com/episodes/",
+						"display_url": "newslettercrew.com/episodes/",
+						"indices": [
+							159,
+							182
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1295014961916280800,
+						"id_str": "1295014961916280837",
+						"indices": [
+							183,
+							206
+						],
+						"media_url": "http://pbs.twimg.com/media/EfjRPx_WAAUogZ2.png",
+						"media_url_https": "https://pbs.twimg.com/media/EfjRPx_WAAUogZ2.png",
+						"url": "https://t.co/kHXSUbkzZq",
+						"display_url": "pic.twitter.com/kHXSUbkzZq",
+						"expanded_url": "https://twitter.com/revue/status/1295014963484950528/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 350,
+								"h": 325,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 350,
+								"h": 325,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 350,
+								"h": 325,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1295014961916280800,
+						"id_str": "1295014961916280837",
+						"indices": [
+							183,
+							206
+						],
+						"media_url": "http://pbs.twimg.com/media/EfjRPx_WAAUogZ2.png",
+						"media_url_https": "https://pbs.twimg.com/media/EfjRPx_WAAUogZ2.png",
+						"url": "https://t.co/kHXSUbkzZq",
+						"display_url": "pic.twitter.com/kHXSUbkzZq",
+						"expanded_url": "https://twitter.com/revue/status/1295014963484950528/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 350,
+								"h": 325,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 350,
+								"h": 325,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 350,
+								"h": 325,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3001165942,
+				"id_str": "3001165942",
+				"name": "Revue",
+				"screen_name": "revue",
+				"location": "Amsterdam, The Netherlands",
+				"description": "An editorial newsletter tool for writers and publishers.\n\nBlog: https://t.co/Z7HNONmzVk\nNewsletter: https://t.co/KbR3DUZDUK\nJoin our team: https://t.co/hL5sooIezn",
+				"url": "https://t.co/2IxuZmOe9A",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2IxuZmOe9A",
+								"expanded_url": "http://www.getrevue.co",
+								"display_url": "getrevue.co",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Z7HNONmzVk",
+								"expanded_url": "http://blog.getrevue.co",
+								"display_url": "blog.getrevue.co",
+								"indices": [
+									64,
+									87
+								]
+							},
+							{
+								"url": "https://t.co/KbR3DUZDUK",
+								"expanded_url": "http://the-week-in-newsletters.getrevue.co",
+								"display_url": "the-week-in-newsletters.getrevue.co",
+								"indices": [
+									100,
+									123
+								]
+							},
+							{
+								"url": "https://t.co/hL5sooIezn",
+								"expanded_url": "http://revue.homerun.co",
+								"display_url": "revue.homerun.co",
+								"indices": [
+									139,
+									162
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 7888,
+				"friends_count": 3997,
+				"listed_count": 327,
+				"created_at": "Tue Jan 27 10:07:33 +0000 2015",
+				"favourites_count": 11016,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3473,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E15718",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/652478352020914176/8tdT4efM_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/652478352020914176/8tdT4efM_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3001165942/1446202117",
+				"profile_link_color": "E15718",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Check die podcasts. Ze zijn echt de moeite waard! https://t.co/4wtET2flq0"
+	},
+	{
 		"created_at": "Sun Aug 16 11:42:34 +0000 2020",
 		"id": 1294962754055475200,
 		"id_str": "1294962754055475201",
