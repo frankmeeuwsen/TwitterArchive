@@ -1,6 +1,163 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Mon Aug 24 05:38:04 +0000 2020",
+		"id": 1297770126092181500,
+		"id_str": "1297770126092181505",
+		"full_text": "@JanelSGM @AndrewJDavison @integromat I made an archive of my @revue newsletters on my Wordpress blog with the help of Integromat. It’s a Dutch blogpost, but any translation site could help you out! https://t.co/uSNSqyTniU",
+		"truncated": false,
+		"display_text_range": [
+			38,
+			222
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JanelSGM",
+					"name": "Janel",
+					"id": 1688823739,
+					"id_str": "1688823739",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "AndrewJDavison",
+					"name": "Andrew Davison",
+					"id": 143805920,
+					"id_str": "143805920",
+					"indices": [
+						10,
+						25
+					]
+				},
+				{
+					"screen_name": "integromat",
+					"name": "Integromat",
+					"id": 2214615696,
+					"id_str": "2214615696",
+					"indices": [
+						26,
+						37
+					]
+				},
+				{
+					"screen_name": "revue",
+					"name": "Revue",
+					"id": 3001165942,
+					"id_str": "3001165942",
+					"indices": [
+						62,
+						68
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/uSNSqyTniU",
+					"expanded_url": "https://diggingthedigital.com/nieuwsbrief-automatisering-met-integromat-en-revue/",
+					"display_url": "diggingthedigital.com/nieuwsbrief-au…",
+					"indices": [
+						199,
+						222
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1297690593171251200,
+		"in_reply_to_status_id_str": "1297690593171251201",
+		"in_reply_to_user_id": 1688823739,
+		"in_reply_to_user_id_str": "1688823739",
+		"in_reply_to_screen_name": "JanelSGM",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8950,
+			"friends_count": 552,
+			"listed_count": 570,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6622,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62466,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@JanelSGM @AndrewJDavison @integromat I made an archive of my @revue newsletters on my Wordpress blog with the help of Integromat. It’s a Dutch blogpost, but any translation site could help you out! https://t.co/uSNSqyTniU"
+	},
+	{
 		"created_at": "Sun Aug 23 17:02:20 +0000 2020",
 		"id": 1297579940414718000,
 		"id_str": "1297579940414717960",
