@@ -1,6 +1,133 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Wed Aug 26 16:37:10 +0000 2020",
+		"id": 1298660772084678700,
+		"id_str": "1298660772084678658",
+		"full_text": "@jarroddicker Maybe this list can help you? https://t.co/ka1cnbgdp1",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jarroddicker",
+					"name": "JD",
+					"id": 256053691,
+					"id_str": "256053691",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ka1cnbgdp1",
+					"expanded_url": "https://link.medium.com/1hmkBVtMg9",
+					"display_url": "link.medium.com/1hmkBVtMg9",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1298651166503587800,
+		"in_reply_to_status_id_str": "1298651166503587841",
+		"in_reply_to_user_id": 256053691,
+		"in_reply_to_user_id_str": "256053691",
+		"in_reply_to_screen_name": "jarroddicker",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8950,
+			"friends_count": 553,
+			"listed_count": 570,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6626,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62471,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@jarroddicker Maybe this list can help you? https://t.co/ka1cnbgdp1"
+	},
+	{
 		"created_at": "Wed Aug 26 15:28:31 +0000 2020",
 		"id": 1298643493863202800,
 		"id_str": "1298643493863202816",
