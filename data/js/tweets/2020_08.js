@@ -1,6 +1,302 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Thu Aug 27 05:40:20 +0000 2020",
+		"id": 1298857862781898800,
+		"id_str": "1298857862781898752",
+		"full_text": "Hup wiskunde! https://t.co/3hrG2Tx4N0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3hrG2Tx4N0",
+					"expanded_url": "https://twitter.com/mathladyhazel/status/1298453291349823489",
+					"display_url": "twitter.com/mathladyhazel/…",
+					"indices": [
+						14,
+						37
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8949,
+			"friends_count": 554,
+			"listed_count": 570,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6627,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62472,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1298453291349823500,
+		"quoted_status_id_str": "1298453291349823489",
+		"quoted_status_permalink": {
+			"url": "https://t.co/3hrG2Tx4N0",
+			"expanded": "https://twitter.com/mathladyhazel/status/1298453291349823489",
+			"display": "twitter.com/mathladyhazel/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Aug 26 02:52:43 +0000 2020",
+			"id": 1298453291349823500,
+			"id_str": "1298453291349823489",
+			"full_text": "OMG 😱 If you divide 1 by 998,001 you get all three-digit numbers from 000 to 999 in order, except for 998. https://t.co/b66rRNfrCc",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				106
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1298453195040141300,
+						"id_str": "1298453195040141312",
+						"indices": [
+							107,
+							130
+						],
+						"media_url": "http://pbs.twimg.com/media/EgUITSfWsAA8LI7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EgUITSfWsAA8LI7.jpg",
+						"url": "https://t.co/b66rRNfrCc",
+						"display_url": "pic.twitter.com/b66rRNfrCc",
+						"expanded_url": "https://twitter.com/mathladyhazel/status/1298453291349823489/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1298453195040141300,
+						"id_str": "1298453195040141312",
+						"indices": [
+							107,
+							130
+						],
+						"media_url": "http://pbs.twimg.com/media/EgUITSfWsAA8LI7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EgUITSfWsAA8LI7.jpg",
+						"url": "https://t.co/b66rRNfrCc",
+						"display_url": "pic.twitter.com/b66rRNfrCc",
+						"expanded_url": "https://twitter.com/mathladyhazel/status/1298453291349823489/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 156576788,
+				"id_str": "156576788",
+				"name": "Math Lady Hazel 🇦🇷",
+				"screen_name": "mathladyhazel",
+				"location": "New York",
+				"description": "Math Person! All I want is kids love math! I share the things that I stumbled upon!",
+				"url": "https://t.co/URoDbQxe4E",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/URoDbQxe4E",
+								"expanded_url": "http://abakcus.com",
+								"display_url": "abakcus.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 36023,
+				"friends_count": 4705,
+				"listed_count": 188,
+				"created_at": "Thu Jun 17 09:00:26 +0000 2010",
+				"favourites_count": 265,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 646,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/979823932873129984/9K9CB1B1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/979823932873129984/9K9CB1B1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/156576788/1522443306",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1133,
+			"favorite_count": 5369,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Hup wiskunde! https://t.co/3hrG2Tx4N0"
+	},
+	{
 		"created_at": "Wed Aug 26 16:37:10 +0000 2020",
 		"id": 1298660772084678700,
 		"id_str": "1298660772084678658",
