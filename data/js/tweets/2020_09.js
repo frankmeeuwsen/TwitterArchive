@@ -1,6 +1,309 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Mon Sep 07 19:57:04 +0000 2020",
+		"id": 1303059732538720300,
+		"id_str": "1303059732538720265",
+		"full_text": "Op mijn andere Twitter account had ik ineens een nieuwe interface, waarin de replies in threads best duidelijk worden weergegeven. Heb jij dat al gehad @Hermaniak ? https://t.co/6wY7ABNtip",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Hermaniak",
+					"name": "Herman Couwenbergh",
+					"id": 6438442,
+					"id_str": "6438442",
+					"indices": [
+						152,
+						162
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1303059679241699300,
+					"id_str": "1303059679241699330",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/EhVl39ZWAAII5Gk.png",
+					"media_url_https": "https://pbs.twimg.com/media/EhVl39ZWAAII5Gk.png",
+					"url": "https://t.co/6wY7ABNtip",
+					"display_url": "pic.twitter.com/6wY7ABNtip",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1303059732538720265/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 648,
+							"h": 835,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 648,
+							"h": 835,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 528,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1303059679241699300,
+					"id_str": "1303059679241699330",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/EhVl39ZWAAII5Gk.png",
+					"media_url_https": "https://pbs.twimg.com/media/EhVl39ZWAAII5Gk.png",
+					"url": "https://t.co/6wY7ABNtip",
+					"display_url": "pic.twitter.com/6wY7ABNtip",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1303059732538720265/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 648,
+							"h": 835,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 648,
+							"h": 835,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 528,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1303059679149518800,
+					"id_str": "1303059679149518850",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/EhVl39DXcAIWDlV.png",
+					"media_url_https": "https://pbs.twimg.com/media/EhVl39DXcAIWDlV.png",
+					"url": "https://t.co/6wY7ABNtip",
+					"display_url": "pic.twitter.com/6wY7ABNtip",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1303059732538720265/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 648,
+							"h": 341,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 648,
+							"h": 341,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 648,
+							"h": 341,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1303059679157932000,
+					"id_str": "1303059679157932032",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/EhVl39FX0AAZJo5.png",
+					"media_url_https": "https://pbs.twimg.com/media/EhVl39FX0AAZJo5.png",
+					"url": "https://t.co/6wY7ABNtip",
+					"display_url": "pic.twitter.com/6wY7ABNtip",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1303059732538720265/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 648,
+							"h": 341,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 648,
+							"h": 341,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 648,
+							"h": 341,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1303059679245934600,
+					"id_str": "1303059679245934593",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/EhVl39aWoAEE1Dq.png",
+					"media_url_https": "https://pbs.twimg.com/media/EhVl39aWoAEE1Dq.png",
+					"url": "https://t.co/6wY7ABNtip",
+					"display_url": "pic.twitter.com/6wY7ABNtip",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1303059732538720265/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 640,
+							"h": 520,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 520,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 520,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8940,
+			"friends_count": 563,
+			"listed_count": 570,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6666,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62532,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Op mijn andere Twitter account had ik ineens een nieuwe interface, waarin de replies in threads best duidelijk worden weergegeven. Heb jij dat al gehad @Hermaniak ? https://t.co/6wY7ABNtip"
+	},
+	{
 		"created_at": "Mon Sep 07 19:08:36 +0000 2020",
 		"id": 1303047534215127000,
 		"id_str": "1303047534215127043",
