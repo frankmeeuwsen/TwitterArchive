@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Tue Sep 08 21:39:54 +0000 2020",
+		"id": 1303362552550760400,
+		"id_str": "1303448000375783425",
+		"full_text": "I have a favor to ask of you. I don't often ask readers for stuff, but this is maybe the most important ask of my career. It's a Kickstarter - I know, 'another crowdfunder?' - but it's:\n\na) Really cool; \n\nb) Potentially transformative for publishing.\n\nc) Anti-monopolistic \n\n1/ https://t.co/P3U9bSxFml",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1303344791309017000,
+					"id_str": "1303344791309017092",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EhZpLqnUYAQuiuS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhZpLqnUYAQuiuS.jpg",
+					"url": "https://t.co/P3U9bSxFml",
+					"display_url": "pic.twitter.com/P3U9bSxFml",
+					"expanded_url": "https://twitter.com/doctorow/status/1303362552550760450/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1303344791309017000,
+					"id_str": "1303344791309017092",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EhZpLqnUYAQuiuS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhZpLqnUYAQuiuS.jpg",
+					"url": "https://t.co/P3U9bSxFml",
+					"display_url": "pic.twitter.com/P3U9bSxFml",
+					"expanded_url": "https://twitter.com/doctorow/status/1303362552550760450/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2729061,
+			"id_str": "2729061",
+			"name": "Cory Doctorow #BLM",
+			"screen_name": "doctorow",
+			"location": "Beautiful Downtown Burbank",
+			"description": "Pre-order the audio- and e-book for ATTACK SURFACE, the third Little Brother book, on my first-ever Kickstarter: https://t.co/PkQPCe1D7c",
+			"url": "https://t.co/x4ih0Xrx8f",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x4ih0Xrx8f",
+							"expanded_url": "http://craphound.com",
+							"display_url": "craphound.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PkQPCe1D7c",
+							"expanded_url": "http://tinyurl.com/AttackSurfaceKS",
+							"display_url": "tinyurl.com/AttackSurfaceKS",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 437978,
+			"friends_count": 1945,
+			"listed_count": 12536,
+			"created_at": "Wed Mar 28 21:40:55 +0000 2007",
+			"favourites_count": 151,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 284534,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1212281151676731392/waDhlI-A_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1212281151676731392/waDhlI-A_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2729061/1599581159",
+			"profile_link_color": "3F3FC4",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 239,
+		"favorite_count": 334,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I have a favor to ask of you. I don't often ask readers for stuff, but this is maybe the most important ask of my career. It's a Kickstarter - I know, 'another crowdfunder?' - but it's:\n\na) Really cool; \n\nb) Potentially transformative for publishing.\n\nc) Anti-monopolistic \n\n1/ https://t.co/P3U9bSxFml"
+	},
+	{
 		"created_at": "Tue Sep 08 19:53:14 +0000 2020",
 		"id": 1303421157270532000,
 		"id_str": "1303421157270532101",
