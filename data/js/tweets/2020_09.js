@@ -1,6 +1,544 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Wed Sep 09 22:06:05 +0000 2020",
+		"id": 1303816976704381000,
+		"id_str": "1303816976704380930",
+		"full_text": "@AlexanderNL Bladerunner 2020.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AlexanderNL",
+					"name": "Alexander Klöpping. Juist nu.",
+					"id": 2239701,
+					"id_str": "2239701",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1303816041752125400,
+		"in_reply_to_status_id_str": "1303816041752125443",
+		"in_reply_to_user_id": 2239701,
+		"in_reply_to_user_id_str": "2239701",
+		"in_reply_to_screen_name": "AlexanderNL",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8943,
+			"friends_count": 566,
+			"listed_count": 570,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6671,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62545,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "da",
+		"text": "@AlexanderNL Bladerunner 2020."
+	},
+	{
+		"created_at": "Wed Sep 09 22:05:20 +0000 2020",
+		"id": 1303816788849889300,
+		"id_str": "1303816788849889286",
+		"full_text": "@alexdenhaan Hmm... Ik begrijp de verschillen tussen Woodward en andere journalisten. Maar of dat deze keuze vergoeilijkt? Aan de andere kant, als hij er in maart mee naar buiten was gekomen, zou het het verschil hebben gemaakt?  Of zou Trump het overtoepen met nog meer leugens?",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "alexdenhaan",
+					"name": "Alex den Haan",
+					"id": 89276202,
+					"id_str": "89276202",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1303815224605237200,
+		"in_reply_to_status_id_str": "1303815224605237249",
+		"in_reply_to_user_id": 89276202,
+		"in_reply_to_user_id_str": "89276202",
+		"in_reply_to_screen_name": "alexdenhaan",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8943,
+			"friends_count": 566,
+			"listed_count": 570,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6671,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62545,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@alexdenhaan Hmm... Ik begrijp de verschillen tussen Woodward en andere journalisten. Maar of dat deze keuze vergoeilijkt? Aan de andere kant, als hij er in maart mee naar buiten was gekomen, zou het het verschil hebben gemaakt?  Of zou Trump het overtoepen met nog meer leugens?"
+	},
+	{
+		"created_at": "Wed Sep 09 21:43:16 +0000 2020",
+		"id": 1303811234186309600,
+		"id_str": "1303811234186309637",
+		"full_text": "Paging @michielveenstra! Waar is de Kink-skin voor Winamp eigenlijk? https://t.co/4Zg57NMYhc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "michielveenstra",
+					"name": "Michiel Veenstra || ꓘINK",
+					"id": 14242065,
+					"id_str": "14242065",
+					"indices": [
+						7,
+						23
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4Zg57NMYhc",
+					"expanded_url": "https://twitter.com/kevinroose/status/1303805127552167936",
+					"display_url": "twitter.com/kevinroose/sta…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8943,
+			"friends_count": 566,
+			"listed_count": 570,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6671,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62545,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1303805127552168000,
+		"quoted_status_id_str": "1303805127552167936",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4Zg57NMYhc",
+			"expanded": "https://twitter.com/kevinroose/status/1303805127552167936",
+			"display": "twitter.com/kevinroose/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 09 21:19:00 +0000 2020",
+			"id": 1303805127552168000,
+			"id_str": "1303805127552167936",
+			"full_text": "Found my old Weezer skin, which I had installed for way longer than was cool https://t.co/Lulp5hkFqE",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				76
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1303804578559717400,
+						"id_str": "1303804578559717376",
+						"indices": [
+							77,
+							100
+						],
+						"media_url": "http://pbs.twimg.com/media/EhgLWzmUcAAzBXZ.png",
+						"media_url_https": "https://pbs.twimg.com/media/EhgLWzmUcAAzBXZ.png",
+						"url": "https://t.co/Lulp5hkFqE",
+						"display_url": "pic.twitter.com/Lulp5hkFqE",
+						"expanded_url": "https://twitter.com/kevinroose/status/1303805127552167936/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 550,
+								"h": 702,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 550,
+								"h": 702,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 533,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1303804578559717400,
+						"id_str": "1303804578559717376",
+						"indices": [
+							77,
+							100
+						],
+						"media_url": "http://pbs.twimg.com/media/EhgLWzmUcAAzBXZ.png",
+						"media_url_https": "https://pbs.twimg.com/media/EhgLWzmUcAAzBXZ.png",
+						"url": "https://t.co/Lulp5hkFqE",
+						"display_url": "pic.twitter.com/Lulp5hkFqE",
+						"expanded_url": "https://twitter.com/kevinroose/status/1303805127552167936/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 550,
+								"h": 702,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 550,
+								"h": 702,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 533,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1303803840890769400,
+			"in_reply_to_status_id_str": "1303803840890769408",
+			"in_reply_to_user_id": 18816166,
+			"in_reply_to_user_id_str": "18816166",
+			"in_reply_to_screen_name": "kevinroose",
+			"user": {
+				"id": 18816166,
+				"id_str": "18816166",
+				"name": "Kevin Roose",
+				"screen_name": "kevinroose",
+				"location": "Bay Area",
+				"description": "Tech columnist for the New York Times. Reporter of Rabbit Hole podcast, author of Futureproof and other books. Former Geocities webmaster.",
+				"url": "https://t.co/OvZsx2kR2Z",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OvZsx2kR2Z",
+								"expanded_url": "http://www.kevinroose.com",
+								"display_url": "kevinroose.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 116328,
+				"friends_count": 2459,
+				"listed_count": 2970,
+				"created_at": "Fri Jan 09 21:28:15 +0000 2009",
+				"favourites_count": 13763,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 511,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "8B542B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/986669109990522880/XqK48Wu7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/986669109990522880/XqK48Wu7_normal.jpg",
+				"profile_link_color": "2E449C",
+				"profile_sidebar_border_color": "D9B17E",
+				"profile_sidebar_fill_color": "EADEAA",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 22,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Paging @michielveenstra! Waar is de Kink-skin voor Winamp eigenlijk? https://t.co/4Zg57NMYhc"
+	},
+	{
 		"created_at": "Wed Sep 09 14:07:33 +0000 2020",
 		"id": 1303696549193625600,
 		"id_str": "1303696549193625602",
