@@ -1,6 +1,172 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Sun Sep 13 03:27:23 +0000 2020",
+		"id": 1304916940352360400,
+		"id_str": "1304984998907346950",
+		"full_text": "Tech / biz twitter is full of men\n\nI want to amplify the voices of women today\n\nI learn from:\n@anthilemoon Mindful Productivity\n@polina_marinova Writing\n@rosiesherry Community\n@stephsmithio Content\n@ljin18 Passion Economy\n@krdonnelly Biz / Writing\n@aprildunford Positioning\n\ncont.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "anthilemoon",
+					"name": "Anne-Laure Le Cunff",
+					"id": 15996668,
+					"id_str": "15996668",
+					"indices": [
+						94,
+						106
+					]
+				},
+				{
+					"screen_name": "polina_marinova",
+					"name": "Polina Marinova Pompliano",
+					"id": 190408726,
+					"id_str": "190408726",
+					"indices": [
+						128,
+						144
+					]
+				},
+				{
+					"screen_name": "rosiesherry",
+					"name": "Rosie Sherry",
+					"id": 2204961,
+					"id_str": "2204961",
+					"indices": [
+						153,
+						165
+					]
+				},
+				{
+					"screen_name": "stephsmithio",
+					"name": "Steph Smith",
+					"id": 626691391,
+					"id_str": "626691391",
+					"indices": [
+						176,
+						189
+					]
+				},
+				{
+					"screen_name": "ljin18",
+					"name": "Li Jin",
+					"id": 774642558853009400,
+					"id_str": "774642558853009408",
+					"indices": [
+						198,
+						205
+					]
+				},
+				{
+					"screen_name": "krdonnelly",
+					"name": "Katelyn Donnelly",
+					"id": 22804685,
+					"id_str": "22804685",
+					"indices": [
+						222,
+						233
+					]
+				},
+				{
+					"screen_name": "aprildunford",
+					"name": "April Dunford",
+					"id": 8880932,
+					"id_str": "8880932",
+					"indices": [
+						248,
+						261
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1688823739,
+			"id_str": "1688823739",
+			"name": "Janel",
+			"screen_name": "JanelSGM",
+			"location": "Barcelona | DMs open to all",
+			"description": "Marketer + Maker. Exploring my curiosity at the intersection of business & tech. I read a lot & love no code. Building @pheedbackco & curating my newsletter👇🏼",
+			"url": "https://t.co/welCrY72dr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/welCrY72dr",
+							"expanded_url": "http://brainpint.com",
+							"display_url": "brainpint.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 691,
+			"friends_count": 288,
+			"listed_count": 32,
+			"created_at": "Wed Aug 21 17:13:36 +0000 2013",
+			"favourites_count": 1505,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1092,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1281644754040696832/kOqgYgKQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1281644754040696832/kOqgYgKQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1688823739/1447203274",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 172,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Tech / biz twitter is full of men\n\nI want to amplify the voices of women today\n\nI learn from:\n@anthilemoon Mindful Productivity\n@polina_marinova Writing\n@rosiesherry Community\n@stephsmithio Content\n@ljin18 Passion Economy\n@krdonnelly Biz / Writing\n@aprildunford Positioning\n\ncont."
+	},
+	{
 		"created_at": "Sat Sep 12 07:10:13 +0000 2020",
 		"id": 1304678686231330800,
 		"id_str": "1304678686231330824",
