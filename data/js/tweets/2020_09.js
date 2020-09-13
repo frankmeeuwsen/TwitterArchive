@@ -1,6 +1,330 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Sun Sep 13 15:28:06 +0000 2020",
+		"id": 1305166371584606200,
+		"id_str": "1305166371584606210",
+		"full_text": "Ach helemaal vergeten! Hopelijk kan ik straks nog terugkijken? https://t.co/vL2B2NcOvI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vL2B2NcOvI",
+					"expanded_url": "https://twitter.com/bitsoffreedom/status/1305085727244517376",
+					"display_url": "twitter.com/bitsoffreedom/…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8941,
+			"friends_count": 567,
+			"listed_count": 570,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6678,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62556,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1305085727244517400,
+		"quoted_status_id_str": "1305085727244517376",
+		"quoted_status_permalink": {
+			"url": "https://t.co/vL2B2NcOvI",
+			"expanded": "https://twitter.com/bitsoffreedom/status/1305085727244517376",
+			"display": "twitter.com/bitsoffreedom/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Sep 13 10:07:39 +0000 2020",
+			"id": 1305085727244517400,
+			"id_str": "1305085727244517376",
+			"full_text": "We zijn begonnen! Kijk de komende twaalf uur mee naar de Internetmarathon! #internetmarathon\n\nhttps://t.co/QLENGkS4YK https://t.co/gUer8TmlVf",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				117
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "internetmarathon",
+						"indices": [
+							75,
+							92
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/QLENGkS4YK",
+						"expanded_url": "https://debalie.nl/livestream/",
+						"display_url": "debalie.nl/livestream/",
+						"indices": [
+							94,
+							117
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1305085720730710000,
+						"id_str": "1305085720730710021",
+						"indices": [
+							118,
+							141
+						],
+						"media_url": "http://pbs.twimg.com/media/EhyYjGGWsAUVzr7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EhyYjGGWsAUVzr7.jpg",
+						"url": "https://t.co/gUer8TmlVf",
+						"display_url": "pic.twitter.com/gUer8TmlVf",
+						"expanded_url": "https://twitter.com/bitsoffreedom/status/1305085727244517376/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1152,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1305085720730710000,
+						"id_str": "1305085720730710021",
+						"indices": [
+							118,
+							141
+						],
+						"media_url": "http://pbs.twimg.com/media/EhyYjGGWsAUVzr7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EhyYjGGWsAUVzr7.jpg",
+						"url": "https://t.co/gUer8TmlVf",
+						"display_url": "pic.twitter.com/gUer8TmlVf",
+						"expanded_url": "https://twitter.com/bitsoffreedom/status/1305085727244517376/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1152,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 55914675,
+				"id_str": "55914675",
+				"name": "Bits of Freedom",
+				"screen_name": "bitsoffreedom",
+				"location": "Amsterdam, Nederland",
+				"description": "Bits of Freedom komt op voor jouw internetvrijheid. Volg onze nieuwsbrief voor nieuws & tips https://t.co/LxsIx88kGP",
+				"url": "https://t.co/0iVksIfE3z",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0iVksIfE3z",
+								"expanded_url": "https://www.bitsoffreedom.nl/",
+								"display_url": "bitsoffreedom.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/LxsIx88kGP",
+								"expanded_url": "https://www.bitsoffreedom.nl/volg-ons",
+								"display_url": "bitsoffreedom.nl/volg-ons",
+								"indices": [
+									93,
+									116
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 32107,
+				"friends_count": 1379,
+				"listed_count": 1025,
+				"created_at": "Sat Jul 11 19:56:18 +0000 2009",
+				"favourites_count": 2460,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 28356,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1110156754883670019/nS43np_g_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110156754883670019/nS43np_g_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/55914675/1594738999",
+				"profile_link_color": "028C9B",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 22,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Ach helemaal vergeten! Hopelijk kan ik straks nog terugkijken? https://t.co/vL2B2NcOvI"
+	},
+	{
 		"created_at": "Sun Sep 13 03:27:23 +0000 2020",
 		"id": 1304916940352360400,
 		"id_str": "1304984998907346950",
