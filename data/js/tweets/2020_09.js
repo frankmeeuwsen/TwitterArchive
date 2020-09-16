@@ -1,6 +1,199 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Wed Sep 16 19:53:58 +0000 2020",
+		"id": 1306170832343961600,
+		"id_str": "1306320441372487681",
+		"full_text": "FrieslandCampina kiest voor Kaliber en Ronald vertelt over nieuwsgierigheid. Nieuwsgierig? Lees het in onze nieuwsbrief via https://t.co/AF2EO7wND9. Nog niet in je inbox? Meld je aan via https://t.co/oWNXAkBaq8! https://t.co/yuT2M1Ilyd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AF2EO7wND9",
+					"expanded_url": "https://mailchi.mp/kaliber/frieslandcampina-kiest-voor-kaliber-nummer-105",
+					"display_url": "mailchi.mp/kaliber/friesl…",
+					"indices": [
+						124,
+						147
+					]
+				},
+				{
+					"url": "https://t.co/oWNXAkBaq8",
+					"expanded_url": "http://klbr.co/lees",
+					"display_url": "klbr.co/lees",
+					"indices": [
+						187,
+						210
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1306170830162931700,
+					"id_str": "1306170830162931714",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/EiBzcxvWsAI8E0m.png",
+					"media_url_https": "https://pbs.twimg.com/media/EiBzcxvWsAI8E0m.png",
+					"url": "https://t.co/yuT2M1Ilyd",
+					"display_url": "pic.twitter.com/yuT2M1Ilyd",
+					"expanded_url": "https://twitter.com/Kaliberinteract/status/1306170832343961601/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 728,
+							"h": 409,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 728,
+							"h": 409,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1306170830162931700,
+					"id_str": "1306170830162931714",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/EiBzcxvWsAI8E0m.png",
+					"media_url_https": "https://pbs.twimg.com/media/EiBzcxvWsAI8E0m.png",
+					"url": "https://t.co/yuT2M1Ilyd",
+					"display_url": "pic.twitter.com/yuT2M1Ilyd",
+					"expanded_url": "https://twitter.com/Kaliberinteract/status/1306170832343961601/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 728,
+							"h": 409,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 728,
+							"h": 409,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.mailchimp.com\" rel=\"nofollow\">Mailchimp</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10932162,
+			"id_str": "10932162",
+			"name": "Kaliber",
+			"screen_name": "Kaliberinteract",
+			"location": "Utrecht",
+			"description": "Kaliber. Digitaal bureau dat strategie, creativiteit en technologie combineert om mensen te activeren.",
+			"url": "http://t.co/0uBteIkGBt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/0uBteIkGBt",
+							"expanded_url": "http://www.kaliber.net",
+							"display_url": "kaliber.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1965,
+			"friends_count": 920,
+			"listed_count": 114,
+			"created_at": "Fri Dec 07 10:50:24 +0000 2007",
+			"favourites_count": 351,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3129,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1161285822311800834/ZPAmW_UZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1161285822311800834/ZPAmW_UZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10932162/1553791951",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "FrieslandCampina kiest voor Kaliber en Ronald vertelt over nieuwsgierigheid. Nieuwsgierig? Lees het in onze nieuwsbrief via https://t.co/AF2EO7wND9. Nog niet in je inbox? Meld je aan via https://t.co/oWNXAkBaq8! https://t.co/yuT2M1Ilyd"
+	},
+	{
 		"created_at": "Wed Sep 16 18:59:19 +0000 2020",
 		"id": 1306306691164786700,
 		"id_str": "1306306691164786695",
