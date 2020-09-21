@@ -1,6 +1,304 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Mon Sep 21 19:17:19 +0000 2020",
+		"id": 1308123160668143600,
+		"id_str": "1308123160668143619",
+		"full_text": "Mand! https://t.co/nFsXtNcLvW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			5
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nFsXtNcLvW",
+					"expanded_url": "https://twitter.com/ForSubscribing/status/1308122197374844928",
+					"display_url": "twitter.com/ForSubscribing…",
+					"indices": [
+						6,
+						29
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8932,
+			"friends_count": 572,
+			"listed_count": 570,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6688,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62610,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1308122197374845000,
+		"quoted_status_id_str": "1308122197374844928",
+		"quoted_status_permalink": {
+			"url": "https://t.co/nFsXtNcLvW",
+			"expanded": "https://twitter.com/ForSubscribing/status/1308122197374844928",
+			"display": "twitter.com/ForSubscribing…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Sep 21 19:13:30 +0000 2020",
+			"id": 1308122197374845000,
+			"id_str": "1308122197374844928",
+			"full_text": "This week's newsletter gives you short newsletters!   \n⌘ https://t.co/8c7mugiv1I by @dennismuellr and @lukaslinser\n🎨 @webdesignrepo\n📈 S-1 Club by @mariodgabriele\n🎧 Podcastlijst by @elger\n📚 Nuton Nudge by @NutonHQ\n\nRead &amp; subscribe: \nhttps://t.co/6tiAv334Pi (via @revue)",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				273
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "dennismuellr",
+						"name": "Denninho 🍑",
+						"id": 2869226252,
+						"id_str": "2869226252",
+						"indices": [
+							84,
+							97
+						]
+					},
+					{
+						"screen_name": "webdesignrepo",
+						"name": "webdesignrepo",
+						"id": 1359263395,
+						"id_str": "1359263395",
+						"indices": [
+							117,
+							131
+						]
+					},
+					{
+						"screen_name": "mariodgabriele",
+						"name": "Mario 🦊",
+						"id": 3076212136,
+						"id_str": "3076212136",
+						"indices": [
+							146,
+							161
+						]
+					},
+					{
+						"screen_name": "elger",
+						"name": "Elger van der Wel",
+						"id": 14142375,
+						"id_str": "14142375",
+						"indices": [
+							180,
+							186
+						]
+					},
+					{
+						"screen_name": "NutonHQ",
+						"name": "Nuton",
+						"id": 1023463678710964200,
+						"id_str": "1023463678710964225",
+						"indices": [
+							204,
+							212
+						]
+					},
+					{
+						"screen_name": "revue",
+						"name": "Revue",
+						"id": 3001165942,
+						"id_str": "3001165942",
+						"indices": [
+							266,
+							272
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/8c7mugiv1I",
+						"expanded_url": "http://Productivity.so",
+						"display_url": "Productivity.so",
+						"indices": [
+							57,
+							80
+						]
+					},
+					{
+						"url": "https://t.co/6tiAv334Pi",
+						"expanded_url": "https://www.getrevue.co/profile/thanksforsubscribing/archive/278190",
+						"display_url": "getrevue.co/profile/thanks…",
+						"indices": [
+							237,
+							260
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.getrevue.co\" rel=\"nofollow\">Revue</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1221904161492566000,
+				"id_str": "1221904161492566016",
+				"name": "Thanks for Subscribing",
+				"screen_name": "ForSubscribing",
+				"location": "Utrecht, Nederland",
+				"description": "Make your inbox happy again and check out the best newsletters from around the 🌎! Curated by @frankmeeuwsen",
+				"url": "https://t.co/EUi1JLKpnL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/EUi1JLKpnL",
+								"expanded_url": "https://thanksforsubscribing.app",
+								"display_url": "thanksforsubscribing.app",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 111,
+				"friends_count": 87,
+				"listed_count": 9,
+				"created_at": "Mon Jan 27 21:14:06 +0000 2020",
+				"favourites_count": 47,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 273,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1221904344695656448/Z2Gu1jee_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1221904344695656448/Z2Gu1jee_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1221904161492566016/1590584335",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Mand! https://t.co/nFsXtNcLvW"
+	},
+	{
 		"created_at": "Mon Sep 21 16:59:42 +0000 2020",
 		"id": 1308088524655165400,
 		"id_str": "1308088524655165442",
