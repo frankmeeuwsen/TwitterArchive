@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Wed Sep 23 20:56:36 +0000 2020",
+		"id": 1308872918718447600,
+		"id_str": "1308872918718447625",
+		"full_text": "Ik ga nu de laatste aflevering van Dark kijken. Ik hoop dat ik daarna alles ga snappen. Ik begreep het huidig seizoen nog minder dan menig monoloog van een influencerende influencert in een talkshow. #VriendenpeopleVonWinden https://t.co/I3oUbRmcsM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			224
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VriendenpeopleVonWinden",
+					"indices": [
+						200,
+						224
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1308872910455664600,
+					"id_str": "1308872910455664640",
+					"indices": [
+						225,
+						248
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EioM-jPXcAA12St.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EioM-jPXcAA12St.jpg",
+					"url": "https://t.co/I3oUbRmcsM",
+					"display_url": "pic.twitter.com/I3oUbRmcsM",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1308872918718447625/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 252,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 252,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 252,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1308872910455664600,
+					"id_str": "1308872910455664640",
+					"indices": [
+						225,
+						248
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EioM-jPXcAA12St.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EioM-jPXcAA12St.jpg",
+					"url": "https://t.co/I3oUbRmcsM",
+					"display_url": "pic.twitter.com/I3oUbRmcsM",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1308872918718447625/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 252,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 252,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 252,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							83,
+							42
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EioM-jPXcAA12St.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8935,
+			"friends_count": 572,
+			"listed_count": 570,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6687,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62620,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Ik ga nu de laatste aflevering van Dark kijken. Ik hoop dat ik daarna alles ga snappen. Ik begreep het huidig seizoen nog minder dan menig monoloog van een influencerende influencert in een talkshow. #VriendenpeopleVonWinden https://t.co/I3oUbRmcsM"
+	},
+	{
 		"created_at": "Tue Sep 22 21:08:48 +0000 2020",
 		"id": 1308513600710078500,
 		"id_str": "1308513600710078464",
