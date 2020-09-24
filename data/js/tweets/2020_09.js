@@ -1,6 +1,302 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Thu Sep 24 16:24:40 +0000 2020",
+		"id": 1309166875457343500,
+		"id_str": "1309166875457343489",
+		"full_text": "+1! https://t.co/mxEgMlHJ5J",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			3
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mxEgMlHJ5J",
+					"expanded_url": "https://twitter.com/Helie/status/1309164139043082242",
+					"display_url": "twitter.com/Helie/status/1…",
+					"indices": [
+						4,
+						27
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8934,
+			"friends_count": 572,
+			"listed_count": 570,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6697,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62623,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1309164139043082200,
+		"quoted_status_id_str": "1309164139043082242",
+		"quoted_status_permalink": {
+			"url": "https://t.co/mxEgMlHJ5J",
+			"expanded": "https://twitter.com/Helie/status/1309164139043082242",
+			"display": "twitter.com/Helie/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Sep 24 16:13:48 +0000 2020",
+			"id": 1309164139043082200,
+			"id_str": "1309164139043082242",
+			"full_text": "Het is vandaag goednieuwsdag voor mij. O wat heerlijk om mee te maken. Ik ga er eens volop van genieten. https://t.co/4jbXRx3RMw",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				104
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1309164127038963700,
+						"id_str": "1309164127038963712",
+						"indices": [
+							105,
+							128
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EisV1ljXgAA7uly.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EisV1ljXgAA7uly.jpg",
+						"url": "https://t.co/4jbXRx3RMw",
+						"display_url": "pic.twitter.com/4jbXRx3RMw",
+						"expanded_url": "https://twitter.com/Helie/status/1309164139043082242/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 498,
+								"h": 334,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 498,
+								"h": 334,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 498,
+								"h": 334,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1309164127038963700,
+						"id_str": "1309164127038963712",
+						"indices": [
+							105,
+							128
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EisV1ljXgAA7uly.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EisV1ljXgAA7uly.jpg",
+						"url": "https://t.co/4jbXRx3RMw",
+						"display_url": "pic.twitter.com/4jbXRx3RMw",
+						"expanded_url": "https://twitter.com/Helie/status/1309164139043082242/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 498,
+								"h": 334,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 498,
+								"h": 334,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 498,
+								"h": 334,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								249,
+								167
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/EisV1ljXgAA7uly.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1599741,
+				"id_str": "1599741",
+				"name": "Helena",
+				"screen_name": "Helie",
+				"location": "Utrecht, the Netherlands",
+				"description": "Geen geduld met domme mensen inclusief mezelf. Mensenrechten en onderwijs. Mijn liefs: @frankmeeuwsen, @tessmoana and Finnéan.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 653,
+				"friends_count": 1069,
+				"listed_count": 25,
+				"created_at": "Tue Mar 20 07:29:49 +0000 2007",
+				"favourites_count": 9465,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4874,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1307389652232531972/tMJvxr5J_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1307389652232531972/tMJvxr5J_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1599741/1600540959",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "CD00AF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "070132",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "+1! https://t.co/mxEgMlHJ5J"
+	},
+	{
 		"created_at": "Thu Sep 24 10:31:53 +0000 2020",
 		"id": 1309078093395644400,
 		"id_str": "1309078093395644416",
