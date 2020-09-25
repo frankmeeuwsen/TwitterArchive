@@ -1,6 +1,179 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Fri Sep 25 05:18:17 +0000 2020",
+		"id": 1309273284995940400,
+		"id_str": "1309361559630688258",
+		"full_text": "If aliens ever come back to see what we’ve done with the technology they gave us, they’re gonna blow up the planet https://t.co/VtbBVegcTR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1309273282005340200,
+					"id_str": "1309273282005340161",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/Eit5HPfWkAEPWwu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eit5HPfWkAEPWwu.jpg",
+					"url": "https://t.co/VtbBVegcTR",
+					"display_url": "pic.twitter.com/VtbBVegcTR",
+					"expanded_url": "https://twitter.com/influencersitw/status/1309273284995940357/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1017,
+							"h": 741,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 495,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1017,
+							"h": 741,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1309273282005340200,
+					"id_str": "1309273282005340161",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/Eit5HPfWkAEPWwu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eit5HPfWkAEPWwu.jpg",
+					"url": "https://t.co/VtbBVegcTR",
+					"display_url": "pic.twitter.com/VtbBVegcTR",
+					"expanded_url": "https://twitter.com/influencersitw/status/1309273284995940357/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1017,
+							"h": 741,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 495,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1017,
+							"h": 741,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219740080354529300,
+			"id_str": "1219740080354529285",
+			"name": "influencersinthewild",
+			"screen_name": "influencersitw",
+			"location": "",
+			"description": "Celebrating content culture         Follow @georgeresch and @tanksgoodnews",
+			"url": "https://t.co/AnKpjY9hGn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AnKpjY9hGn",
+							"expanded_url": "http://instagram.com/influencersinthewild",
+							"display_url": "instagram.com/influencersint…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 181199,
+			"friends_count": 2,
+			"listed_count": 228,
+			"created_at": "Tue Jan 21 21:54:42 +0000 2020",
+			"favourites_count": 288,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 397,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1219740230279933953/emGKRiTy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1219740230279933953/emGKRiTy_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 139,
+		"favorite_count": 829,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If aliens ever come back to see what we’ve done with the technology they gave us, they’re gonna blow up the planet https://t.co/VtbBVegcTR"
+	},
+	{
 		"created_at": "Thu Sep 24 22:23:08 +0000 2020",
 		"id": 1309257084739952600,
 		"id_str": "1309257084739952642",
