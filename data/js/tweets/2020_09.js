@@ -1,6 +1,300 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Sat Sep 26 12:06:52 +0000 2020",
+		"id": 1309816449213624300,
+		"id_str": "1309826770842128385",
+		"full_text": "I would like to add you to my professional network on LinkedIn https://t.co/jkVj2QEnr2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jkVj2QEnr2",
+					"expanded_url": "https://twitter.com/IL0VEthe80s/status/1309473991057444864",
+					"display_url": "twitter.com/IL0VEthe80s/st…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1236101,
+			"id_str": "1236101",
+			"name": "Benedict Evans",
+			"screen_name": "benedictevans",
+			"location": "London, mostly. ",
+			"description": "Trying to work out what's going on, and what happens next. Mostly tech. Past lives in equity research, strategy and VC. Now working on new things.",
+			"url": "https://t.co/CBKvGBsZCe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CBKvGBsZCe",
+							"expanded_url": "http://www.ben-evans.com/",
+							"display_url": "ben-evans.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299638,
+			"friends_count": 970,
+			"listed_count": 7524,
+			"created_at": "Thu Mar 15 17:33:00 +0000 2007",
+			"favourites_count": 11813,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 157444,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E5E5E5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/845396356579508224/1ruiOPLI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/845396356579508224/1ruiOPLI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1236101/1584548571",
+			"profile_link_color": "336699",
+			"profile_sidebar_border_color": "5D5D5D",
+			"profile_sidebar_fill_color": "E5E5E5",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1309473991057444900,
+		"quoted_status_id_str": "1309473991057444864",
+		"quoted_status_permalink": {
+			"url": "https://t.co/jkVj2QEnr2",
+			"expanded": "https://twitter.com/IL0VEthe80s/status/1309473991057444864",
+			"display": "twitter.com/IL0VEthe80s/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Sep 25 12:45:02 +0000 2020",
+			"id": 1309473991057444900,
+			"id_str": "1309473991057444864",
+			"full_text": "What is Darth Vader saying? https://t.co/SIUcqf6r1h",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				51
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1206689557963563000,
+						"id_str": "1206689557963563009",
+						"indices": [
+							28,
+							51
+						],
+						"media_url": "http://pbs.twimg.com/media/EL8FwniXYAE1wy7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EL8FwniXYAE1wy7.jpg",
+						"url": "https://t.co/SIUcqf6r1h",
+						"display_url": "pic.twitter.com/SIUcqf6r1h",
+						"expanded_url": "https://twitter.com/IL0VEthe80s/status/1206689563189620737/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 996,
+								"h": 648,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 996,
+								"h": 648,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 442,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1206689563189620700,
+						"source_status_id_str": "1206689563189620737",
+						"source_user_id": 1198992138,
+						"source_user_id_str": "1198992138"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1206689557963563000,
+						"id_str": "1206689557963563009",
+						"indices": [
+							28,
+							51
+						],
+						"media_url": "http://pbs.twimg.com/media/EL8FwniXYAE1wy7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EL8FwniXYAE1wy7.jpg",
+						"url": "https://t.co/SIUcqf6r1h",
+						"display_url": "pic.twitter.com/SIUcqf6r1h",
+						"expanded_url": "https://twitter.com/IL0VEthe80s/status/1206689563189620737/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 996,
+								"h": 648,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 996,
+								"h": 648,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 442,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1206689563189620700,
+						"source_status_id_str": "1206689563189620737",
+						"source_user_id": 1198992138,
+						"source_user_id_str": "1198992138"
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1198992138,
+				"id_str": "1198992138",
+				"name": "I❤️80s",
+				"screen_name": "IL0VEthe80s",
+				"location": "United Kingdom",
+				"description": "Let’s just look back fondly on the best decade ever. 😎 Contact admin@ilovethe80s.me",
+				"url": "https://t.co/UfbEG3fF8d",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UfbEG3fF8d",
+								"expanded_url": "https://www.facebook.com/il0vethe8Os/",
+								"display_url": "facebook.com/il0vethe8Os/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 228992,
+				"friends_count": 2796,
+				"listed_count": 747,
+				"created_at": "Tue Feb 19 23:48:13 +0000 2013",
+				"favourites_count": 1218,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 23217,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1224312714396422146/kCANYjoN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1224312714396422146/kCANYjoN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1198992138/1544175058",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 90,
+			"favorite_count": 596,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 14,
+		"favorite_count": 220,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I would like to add you to my professional network on LinkedIn https://t.co/jkVj2QEnr2"
+	},
+	{
 		"created_at": "Fri Sep 25 17:47:06 +0000 2020",
 		"id": 1306937193513001000,
 		"id_str": "1309550007314460673",
