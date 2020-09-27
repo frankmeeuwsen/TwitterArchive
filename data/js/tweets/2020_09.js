@@ -1,6 +1,654 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Sun Sep 27 15:19:12 +0000 2020",
+		"id": 1310237560183062500,
+		"id_str": "1310237560183062529",
+		"full_text": "Wow. We hebben deze doolhoven van dichtbij meegemaakt en ik heb onder andere geleerd: Basisschool leerkrachten hebben andere kwaliteiten dan eerste diagnose stellen en ouders moeten altijd in de frontseat. Desnoods tikken we het raampje open, bij wijze van spreken. https://t.co/Pj47YsLL1R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			265
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Pj47YsLL1R",
+					"expanded_url": "https://twitter.com/haafstra/status/1310198727941009410",
+					"display_url": "twitter.com/haafstra/statu…",
+					"indices": [
+						266,
+						289
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8936,
+			"friends_count": 575,
+			"listed_count": 570,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6703,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62641,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1310198727941009400,
+		"quoted_status_id_str": "1310198727941009410",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Pj47YsLL1R",
+			"expanded": "https://twitter.com/haafstra/status/1310198727941009410",
+			"display": "twitter.com/haafstra/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Sep 27 12:44:53 +0000 2020",
+			"id": 1310198727941009400,
+			"id_str": "1310198727941009410",
+			"full_text": "Als LK aanleiding ziet voor therapie (ja, dat wordt zo geformuleerd) bij kind, dan meldt hij/zij dat bij IB-er. De IB-er gaat vervolgens in overleg met betreffende zorgaanbieder waarbij de leerling anoniem wordt ingebracht. 2/5",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				227
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": 1310198725260738600,
+			"in_reply_to_status_id_str": "1310198725260738561",
+			"in_reply_to_user_id": 260153234,
+			"in_reply_to_user_id_str": "260153234",
+			"in_reply_to_screen_name": "haafstra",
+			"user": {
+				"id": 260153234,
+				"id_str": "260153234",
+				"name": "Suzanne",
+				"screen_name": "haafstra",
+				"location": "Driebergen ",
+				"description": "Lichtblauw | blij met eigen praktijk | schrijf regelmatig voor Gifted@248media | hoogbegaafdheid | maatwerk en menselijkheid | (niet) passend onderwijs",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 676,
+				"friends_count": 953,
+				"listed_count": 2,
+				"created_at": "Thu Mar 03 09:08:11 +0000 2011",
+				"favourites_count": 13064,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9288,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "57DEF0",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1292008522784350208/MBDFxvQ5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292008522784350208/MBDFxvQ5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/260153234/1596873847",
+				"profile_link_color": "F52323",
+				"profile_sidebar_border_color": "46FAF1",
+				"profile_sidebar_fill_color": "FAFA91",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Wow. We hebben deze doolhoven van dichtbij meegemaakt en ik heb onder andere geleerd: Basisschool leerkrachten hebben andere kwaliteiten dan eerste diagnose stellen en ouders moeten altijd in de frontseat. Desnoods tikken we het raampje open, bij wijze van spreken. https://t.co/Pj47YsLL1R"
+	},
+	{
+		"created_at": "Sun Sep 27 15:15:49 +0000 2020",
+		"id": 1310236711130214400,
+		"id_str": "1310236711130214400",
+		"full_text": "Ik kreeg vanmiddag een ingeving om mijn draaitafeltje naast mijn werkplek te zetten en nu wil dat er op het @Kaliberinteract clubhuis nóg een draaitafel komt! Wat een lekkere combinatie. Een soort analoge @KINKpuntnl eigenlijk. https://t.co/y48jVljX4q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Kaliberinteract",
+					"name": "Kaliber",
+					"id": 10932162,
+					"id_str": "10932162",
+					"indices": [
+						108,
+						124
+					]
+				},
+				{
+					"screen_name": "KINKpuntnl",
+					"name": "KINK",
+					"id": 36077942,
+					"id_str": "36077942",
+					"indices": [
+						205,
+						216
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1310236656285474800,
+					"id_str": "1310236656285474816",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1310236656285474816/pu/img/IR06OrgbwbStQuvu.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1310236656285474816/pu/img/IR06OrgbwbStQuvu.jpg",
+					"url": "https://t.co/y48jVljX4q",
+					"display_url": "pic.twitter.com/y48jVljX4q",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1310236711130214400/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1310236656285474800,
+					"id_str": "1310236656285474816",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1310236656285474816/pu/img/IR06OrgbwbStQuvu.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1310236656285474816/pu/img/IR06OrgbwbStQuvu.jpg",
+					"url": "https://t.co/y48jVljX4q",
+					"display_url": "pic.twitter.com/y48jVljX4q",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1310236711130214400/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 16582,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1310236656285474816/pu/pl/j-HbSp_ALyZS8Mrm.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1310236656285474816/pu/vid/720x1280/QELMfbLlRBdX9AZy.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1310236656285474816/pu/vid/320x568/gC2bMksw13cw8c7e.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1310236656285474816/pu/vid/360x640/f6SZXmy5KI2GSXxA.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8936,
+			"friends_count": 575,
+			"listed_count": 570,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6703,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62641,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Ik kreeg vanmiddag een ingeving om mijn draaitafeltje naast mijn werkplek te zetten en nu wil dat er op het @Kaliberinteract clubhuis nóg een draaitafel komt! Wat een lekkere combinatie. Een soort analoge @KINKpuntnl eigenlijk. https://t.co/y48jVljX4q"
+	},
+	{
+		"created_at": "Sun Sep 27 15:07:26 +0000 2020",
+		"id": 1310234599851790300,
+		"id_str": "1310234599851790337",
+		"full_text": "@gonniespijkstra Er is niet 1 Q-Anon persoon... https://t.co/MX8XXrcm8R",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gonniespijkstra",
+					"name": "Gonnie Spijkstra",
+					"id": 7677082,
+					"id_str": "7677082",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1310234592461369300,
+					"id_str": "1310234592461369345",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Ei7ja4AWsAEuBBn.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Ei7ja4AWsAEuBBn.jpg",
+					"url": "https://t.co/MX8XXrcm8R",
+					"display_url": "pic.twitter.com/MX8XXrcm8R",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1310234599851790337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 400,
+							"h": 300,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 400,
+							"h": 300,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 300,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1310234592461369300,
+					"id_str": "1310234592461369345",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Ei7ja4AWsAEuBBn.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Ei7ja4AWsAEuBBn.jpg",
+					"url": "https://t.co/MX8XXrcm8R",
+					"display_url": "pic.twitter.com/MX8XXrcm8R",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1310234599851790337/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 400,
+							"h": 300,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 400,
+							"h": 300,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 300,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Ei7ja4AWsAEuBBn.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1310227601504567300,
+		"in_reply_to_status_id_str": "1310227601504567296",
+		"in_reply_to_user_id": 7677082,
+		"in_reply_to_user_id_str": "7677082",
+		"in_reply_to_screen_name": "gonniespijkstra",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8936,
+			"friends_count": 575,
+			"listed_count": 570,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6703,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62641,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tl",
+		"text": "@gonniespijkstra Er is niet 1 Q-Anon persoon... https://t.co/MX8XXrcm8R"
+	},
+	{
 		"created_at": "Sun Sep 27 09:45:19 +0000 2020",
 		"id": 1310153538681614300,
 		"id_str": "1310153538681614336",
