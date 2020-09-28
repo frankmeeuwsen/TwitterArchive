@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Mon Sep 28 05:56:49 +0000 2020",
+		"id": 1310458420609327000,
+		"id_str": "1310458420609327105",
+		"full_text": "Fijn dat er zulke accounts zijn om met feiten en cijfers te komen. https://t.co/EGbQ9Ccco2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EGbQ9Ccco2",
+					"expanded_url": "https://twitter.com/h_bouwmeester/status/1310303308221952002",
+					"display_url": "twitter.com/h_bouwmeester/…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8933,
+			"friends_count": 579,
+			"listed_count": 569,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6704,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62643,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1310303308221952000,
+		"quoted_status_id_str": "1310303308221952002",
+		"quoted_status_permalink": {
+			"url": "https://t.co/EGbQ9Ccco2",
+			"expanded": "https://twitter.com/h_bouwmeester/status/1310303308221952002",
+			"display": "twitter.com/h_bouwmeester/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Sep 27 19:40:27 +0000 2020",
+			"id": 1310303308221952000,
+			"id_str": "1310303308221952002",
+			"full_text": "Baudet stelt bij #wnlopzondag ´Uit recent wetenschappelijk onderzoek blijkt dat het stilleggen van de mondiale economie meer doden teweeg heeft gebracht dan de Eerste en Tweede Wereldoorlog bij elkaar.´ \n\nDit vind ik een opmerkelijke constatering. Een factcheck draadje.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				270
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "wnlopzondag",
+						"indices": [
+							17,
+							29
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 197892890,
+				"id_str": "197892890",
+				"name": "Hidde Bouwmeester",
+				"screen_name": "H_Bouwmeester",
+				"location": "Haarlem, Nederland",
+				"description": "Dutch graduated History BA\nStudent/History\nEast-Europe Historian\n@UvA_Amsterdam/ \nThesis: Dutch media coverage about Putin (1999-2000)\n\n\n#FakeHistoryOntleed",
+				"url": "https://t.co/IfCv0OaPfV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IfCv0OaPfV",
+								"expanded_url": "http://www.hiddebouwmeester.org/",
+								"display_url": "hiddebouwmeester.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 601,
+				"friends_count": 2101,
+				"listed_count": 18,
+				"created_at": "Sat Oct 02 19:12:57 +0000 2010",
+				"favourites_count": 11268,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 32311,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1298180390587375617/qVQ_V7_J_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1298180390587375617/qVQ_V7_J_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/197892890/1597759626",
+				"profile_link_color": "D02B55",
+				"profile_sidebar_border_color": "829D5E",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 43,
+			"favorite_count": 110,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "nl"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Fijn dat er zulke accounts zijn om met feiten en cijfers te komen. https://t.co/EGbQ9Ccco2"
+	},
+	{
 		"created_at": "Sun Sep 27 15:21:49 +0000 2020",
 		"id": 1310238218693030000,
 		"id_str": "1310238218693029897",
