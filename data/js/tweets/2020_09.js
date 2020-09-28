@@ -1,6 +1,210 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Mon Sep 28 15:58:13 +0000 2020",
+		"id": 1310473191803048000,
+		"id_str": "1310609769506525184",
+		"full_text": "Mondkapjesplicht in Nederland? Het standpunt van een @KINKpuntnl luisteraar. https://t.co/HzghewjhLb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KINKpuntnl",
+					"name": "KINK",
+					"id": 36077942,
+					"id_str": "36077942",
+					"indices": [
+						53,
+						64
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1310473183515074600,
+					"id_str": "1310473183515074561",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/Ei-8as8XYAExBtX.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ei-8as8XYAExBtX.png",
+					"url": "https://t.co/HzghewjhLb",
+					"display_url": "pic.twitter.com/HzghewjhLb",
+					"expanded_url": "https://twitter.com/michielveenstra/status/1310473191803047936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 409,
+							"h": 157,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 409,
+							"h": 157,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 409,
+							"h": 157,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1310473183515074600,
+					"id_str": "1310473183515074561",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/Ei-8as8XYAExBtX.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ei-8as8XYAExBtX.png",
+					"url": "https://t.co/HzghewjhLb",
+					"display_url": "pic.twitter.com/HzghewjhLb",
+					"expanded_url": "https://twitter.com/michielveenstra/status/1310473191803047936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 409,
+							"h": 157,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 409,
+							"h": 157,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 409,
+							"h": 157,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14242065,
+			"id_str": "14242065",
+			"name": "Michiel Veenstra || ꓘINK",
+			"screen_name": "michielveenstra",
+			"location": "Hilversum, The Netherlands",
+			"description": "Elke ochtend op KINK /// Check https://t.co/az1vgYRp6R /// Boekingen: https://t.co/fvR4qkQHyR",
+			"url": "https://t.co/BWV68PZIee",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BWV68PZIee",
+							"expanded_url": "http://www.michielveenstra.nl",
+							"display_url": "michielveenstra.nl",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/az1vgYRp6R",
+							"expanded_url": "http://KINK.nl",
+							"display_url": "KINK.nl",
+							"indices": [
+								31,
+								54
+							]
+						},
+						{
+							"url": "https://t.co/fvR4qkQHyR",
+							"expanded_url": "http://deboeker.nl/",
+							"display_url": "deboeker.nl",
+							"indices": [
+								70,
+								93
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 151215,
+			"friends_count": 1110,
+			"listed_count": 1049,
+			"created_at": "Fri Mar 28 07:13:39 +0000 2008",
+			"favourites_count": 42800,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 79496,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1232309588764000256/uHvcLi5N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1232309588764000256/uHvcLi5N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14242065/1577455428",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 254,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Mondkapjesplicht in Nederland? Het standpunt van een @KINKpuntnl luisteraar. https://t.co/HzghewjhLb"
+	},
+	{
 		"created_at": "Mon Sep 28 15:14:34 +0000 2020",
 		"id": 1310598782120272000,
 		"id_str": "1310598782120271874",
