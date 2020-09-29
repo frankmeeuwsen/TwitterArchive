@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Tue Sep 29 05:23:51 +0000 2020",
+		"id": 1290222283735232500,
+		"id_str": "1310812514393960450",
+		"full_text": "The real 5g conspiracy is that we’ve been paying for mobile data but only used wifi for 6 months 😳",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 216308705,
+			"id_str": "216308705",
+			"name": "Aaron Chen",
+			"screen_name": "aaronch3n",
+			"location": "Ogalo Marrickville",
+			"description": "Gag writer for to catch a predator",
+			"url": "https://t.co/DBWE25HIHa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DBWE25HIHa",
+							"expanded_url": "https://www.youtube.com/watch?v=ttoEcG2J64Y",
+							"display_url": "youtube.com/watch?v=ttoEcG…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10227,
+			"friends_count": 1015,
+			"listed_count": 30,
+			"created_at": "Tue Nov 16 10:30:24 +0000 2010",
+			"favourites_count": 16383,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8211,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "302D31",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1305362403178065920/l1QX7Ewx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1305362403178065920/l1QX7Ewx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/216308705/1597669938",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "8D898E",
+			"profile_sidebar_fill_color": "666567",
+			"profile_text_color": "514C53",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 223,
+		"favorite_count": 2368,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "The real 5g conspiracy is that we’ve been paying for mobile data but only used wifi for 6 months 😳"
+	},
+	{
 		"created_at": "Mon Sep 28 21:02:36 +0000 2020",
 		"id": 1310686369711304700,
 		"id_str": "1310686369711304706",
