@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Thu Oct 01 21:50:47 +0000 2020",
+		"id": 1311783125874245600,
+		"id_str": "1311785658629984257",
+		"full_text": "Apple bans RSS in China. Reeder and Fiery Feeds said this week that their iOS apps have been removed in China over content deemed \"illegal\". Inoreader, a similar service, was banned from Apple's Chinese App Store back in 2017. Feedly is also... https://t.co/aqTdqbagT9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aqTdqbagT9",
+					"expanded_url": "https://jwz.org/b/yjcn",
+					"display_url": "jwz.org/b/yjcn",
+					"indices": [
+						245,
+						268
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.jwz.org/\" rel=\"nofollow\">jwz</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7190742,
+			"id_str": "7190742",
+			"name": "j͕̠̦̪͕̓͛̊̾̄ͅw̧̧̳̪̘͊̋͗̾͢͠z̢̘̞͈̺̞̩̓̽̐̋͗̆̋̚͟͜",
+			"screen_name": "jwz",
+			"location": "San Francisco",
+			"description": "I write screen savers and sell beer. Impresario of @dnalounge, the world's greatest nightclub. Also wrote your parents' web browser and stuff.",
+			"url": "http://t.co/cgrthivFcK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/cgrthivFcK",
+							"expanded_url": "http://www.jwz.org/",
+							"display_url": "jwz.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12578,
+			"friends_count": 320,
+			"listed_count": 541,
+			"created_at": "Sun Jul 01 19:53:17 +0000 2007",
+			"favourites_count": 671,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1153,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/64763711/aim-bag-large_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/64763711/aim-bag-large_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7190742/1497900135",
+			"profile_link_color": "009900",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "003300",
+			"profile_text_color": "006600",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Apple bans RSS in China. Reeder and Fiery Feeds said this week that their iOS apps have been removed in China over content deemed \"illegal\". Inoreader, a similar service, was banned from Apple's Chinese App Store back in 2017. Feedly is also... https://t.co/aqTdqbagT9"
+	},
+	{
 		"created_at": "Thu Oct 01 20:40:08 +0000 2020",
 		"id": 1311767879373787100,
 		"id_str": "1311767879373787138",
