@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Fri Oct 02 05:41:57 +0000 2020",
+		"id": 1311902976521322500,
+		"id_str": "1311904233118150658",
+		"full_text": "BREAKING: The Emperor and Darth Vader have both tested positive for the Force, which is a Rebel hoax when it happens to other people but very real and dangerous when it happens to them. Please keep them in your thoughts and prayers.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			232
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 157218534,
+			"id_str": "157218534",
+			"name": "Death Star PR",
+			"screen_name": "DeathStarPR",
+			"location": "In a galaxy far, far away...",
+			"description": "The Galactic Empire has been getting a bad rap. We're here to set the record straight. Email: DeathStarPR@gmail.com",
+			"url": "https://t.co/CfcdL2zwfE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CfcdL2zwfE",
+							"expanded_url": "http://shop.spreadshirt.com/DeathStarPR/",
+							"display_url": "shop.spreadshirt.com/DeathStarPR/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 321749,
+			"friends_count": 316,
+			"listed_count": 5689,
+			"created_at": "Sat Jun 19 05:14:58 +0000 2010",
+			"favourites_count": 22592,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5939,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "080101",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3661409295/bb35447683362ca080bd39f057a7216c_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3661409295/bb35447683362ca080bd39f057a7216c_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/157218534/1368598512",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 486,
+		"favorite_count": 1581,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "BREAKING: The Emperor and Darth Vader have both tested positive for the Force, which is a Rebel hoax when it happens to other people but very real and dangerous when it happens to them. Please keep them in your thoughts and prayers."
+	},
+	{
 		"created_at": "Thu Oct 01 21:50:47 +0000 2020",
 		"id": 1311783125874245600,
 		"id_str": "1311785658629984257",
