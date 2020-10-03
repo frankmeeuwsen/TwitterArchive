@@ -1,6 +1,166 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sat Oct 03 14:57:32 +0000 2020",
+		"id": 1312389833445310500,
+		"id_str": "1312406434768982017",
+		"full_text": "https://t.co/Oae933fHn9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1312389827787133000,
+					"id_str": "1312389827787132933",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EjaLmFQWkAU_DN9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjaLmFQWkAU_DN9.jpg",
+					"url": "https://t.co/Oae933fHn9",
+					"display_url": "pic.twitter.com/Oae933fHn9",
+					"expanded_url": "https://twitter.com/kateconant1/status/1312389833445310465/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1312389827787133000,
+					"id_str": "1312389827787132933",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EjaLmFQWkAU_DN9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjaLmFQWkAU_DN9.jpg",
+					"url": "https://t.co/Oae933fHn9",
+					"display_url": "pic.twitter.com/Oae933fHn9",
+					"expanded_url": "https://twitter.com/kateconant1/status/1312389833445310465/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2556674208,
+			"id_str": "2556674208",
+			"name": "katherine conant",
+			"screen_name": "kateconant1",
+			"location": "Washington, DC",
+			"description": "curiosity kindled the cat :) Passionate about science, the environment, animals, and a Democrat in 2020-",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 208,
+			"friends_count": 430,
+			"listed_count": 3,
+			"created_at": "Mon Jun 09 11:41:18 +0000 2014",
+			"favourites_count": 9874,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 892,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/682626759720878081/kQzkJfmI_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/682626759720878081/kQzkJfmI_normal.png",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/Oae933fHn9"
+	},
+	{
 		"created_at": "Sat Oct 03 13:33:33 +0000 2020",
 		"id": 1312385302321860600,
 		"id_str": "1312385302321860608",
