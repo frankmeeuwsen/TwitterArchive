@@ -1,6 +1,307 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sat Oct 03 06:12:14 +0000 2020",
+		"id": 1312274241086255000,
+		"id_str": "1312274241086255104",
+		"full_text": "Soort van Domino D-Day in het Republikeinse kamp. https://t.co/7hxdQYEPr0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7hxdQYEPr0",
+					"expanded_url": "https://twitter.com/youranoncentral/status/1312273419342213121",
+					"display_url": "twitter.com/youranoncentra…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8935,
+			"friends_count": 578,
+			"listed_count": 571,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6732,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62694,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1312273419342213000,
+		"quoted_status_id_str": "1312273419342213121",
+		"quoted_status_permalink": {
+			"url": "https://t.co/7hxdQYEPr0",
+			"expanded": "https://twitter.com/youranoncentral/status/1312273419342213121",
+			"display": "twitter.com/youranoncentra…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Oct 03 06:08:58 +0000 2020",
+			"id": 1312273419342213000,
+			"id_str": "1312273419342213121",
+			"full_text": "Trump US election 2020 campaign manager Bill Stepien has tested positive for #Covid19. \n\nhttps://t.co/5pP3BIrkgD https://t.co/t6RfHWduIR",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				112
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Covid19",
+						"indices": [
+							77,
+							85
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/5pP3BIrkgD",
+						"expanded_url": "https://www.politico.com/news/2020/10/02/trump-campaign-manager-tests-positive-for-covid-19-425722",
+						"display_url": "politico.com/news/2020/10/0…",
+						"indices": [
+							89,
+							112
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1312273354670317600,
+						"id_str": "1312273354670317570",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/media/EjYhqdFVoAIUzdG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EjYhqdFVoAIUzdG.jpg",
+						"url": "https://t.co/t6RfHWduIR",
+						"display_url": "pic.twitter.com/t6RfHWduIR",
+						"expanded_url": "https://twitter.com/YourAnonCentral/status/1312273419342213121/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1160,
+								"h": 773,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1160,
+								"h": 773,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1312273354670317600,
+						"id_str": "1312273354670317570",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/media/EjYhqdFVoAIUzdG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EjYhqdFVoAIUzdG.jpg",
+						"url": "https://t.co/t6RfHWduIR",
+						"display_url": "pic.twitter.com/t6RfHWduIR",
+						"expanded_url": "https://twitter.com/YourAnonCentral/status/1312273419342213121/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1160,
+								"h": 773,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1160,
+								"h": 773,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 373157754,
+				"id_str": "373157754",
+				"name": "Anonymous",
+				"screen_name": "YourAnonCentral",
+				"location": "",
+				"description": "Anonymous. Informed. Global. \nSupport: \nThe Vulnerable\nHuman Rights\nAutonomy/ self-governance\nResistance against tyranny\nA humane society\nActions Not Nouns",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5907034,
+				"friends_count": 702,
+				"listed_count": 3303,
+				"created_at": "Wed Sep 14 02:53:08 +0000 2011",
+				"favourites_count": 47405,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 326981,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1310887283604639745/ntf05KCM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1310887283604639745/ntf05KCM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/373157754/1577692549",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 83,
+			"favorite_count": 580,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Soort van Domino D-Day in het Republikeinse kamp. https://t.co/7hxdQYEPr0"
+	},
+	{
 		"created_at": "Fri Oct 02 21:17:16 +0000 2020",
 		"id": 1312139611657760800,
 		"id_str": "1312139611657760770",
