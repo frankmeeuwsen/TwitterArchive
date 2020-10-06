@@ -1,6 +1,106 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Tue Oct 06 20:09:36 +0000 2020",
+		"id": 1313566912370991000,
+		"id_str": "1313572135537987584",
+		"full_text": "#RIPEddieVanHalen.\n\nWhat the fuck.\n\nI'm just the worst.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RIPEddieVanHalen",
+					"indices": [
+						0,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 204832963,
+			"id_str": "204832963",
+			"name": "God",
+			"screen_name": "TheTweetOfGod",
+			"location": "",
+			"description": "Unverified. Unverified. Thee/thou/thine. \n\nINTJehovah.\n\nEnjoying all this immensely.\n\nHoly relics for sale at https://t.co/O1BNjIyE9Y",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/O1BNjIyE9Y",
+							"expanded_url": "http://tweetofgod.shop.capthat.com/store",
+							"display_url": "tweetofgod.shop.capthat.com/store",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6195282,
+			"friends_count": 1,
+			"listed_count": 15169,
+			"created_at": "Tue Oct 19 15:26:05 +0000 2010",
+			"favourites_count": 436,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10905,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1272329012451217408/hbPk8w0C_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1272329012451217408/hbPk8w0C_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/204832963/1601756583",
+			"profile_link_color": "89C9FA",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 861,
+		"favorite_count": 7574,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "#RIPEddieVanHalen.\n\nWhat the fuck.\n\nI'm just the worst."
+	},
+	{
 		"created_at": "Tue Oct 06 18:52:47 +0000 2020",
 		"id": 1313552802950586400,
 		"id_str": "1313552802950586371",
