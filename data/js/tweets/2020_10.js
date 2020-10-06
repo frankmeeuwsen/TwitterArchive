@@ -1,6 +1,256 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Tue Oct 06 05:50:28 +0000 2020",
+		"id": 1313355928046047200,
+		"id_str": "1313355928046047232",
+		"full_text": "Ik geef toe, na lange dagen met deadline-werk, videocalls en gezinslogistiek kan ik genieten van de stilte laat op de avond als iedereen al op bed ligt... https://t.co/MTbGIelJbz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MTbGIelJbz",
+					"expanded_url": "https://twitter.com/daphnekylee/status/1277101831693275136",
+					"display_url": "twitter.com/daphnekylee/st…",
+					"indices": [
+						155,
+						178
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8933,
+			"friends_count": 579,
+			"listed_count": 571,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6745,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62710,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1277101831693275100,
+		"quoted_status_id_str": "1277101831693275136",
+		"quoted_status_permalink": {
+			"url": "https://t.co/MTbGIelJbz",
+			"expanded": "https://twitter.com/daphnekylee/status/1277101831693275136",
+			"display": "twitter.com/daphnekylee/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jun 28 04:49:38 +0000 2020",
+			"id": 1277101831693275100,
+			"id_str": "1277101831693275136",
+			"full_text": "Learned a very relatable term today: “報復性熬夜” (revenge bedtime procrastination), a phenomenon in which people who don’t have much control over their daytime life refuse to sleep early in order to regain some sense of freedom during late night hours.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				248
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1025381464249184300,
+				"id_str": "1025381464249184258",
+				"name": "Daphne K. Lee",
+				"screen_name": "daphnekylee",
+				"location": "nyc",
+				"description": "Journalist. Words @NAR, @goldthread2, @greatist, @popula, @thenewslensintl. Galactic troublemaker tweeting about humanly things and fighting off reply guys.",
+				"url": "https://t.co/BX9v4DzvMf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/BX9v4DzvMf",
+								"expanded_url": "https://www.daphneklee.com",
+								"display_url": "daphneklee.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7284,
+				"friends_count": 662,
+				"listed_count": 75,
+				"created_at": "Fri Aug 03 14:02:46 +0000 2018",
+				"favourites_count": 5830,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 2489,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1308467233631465473/zRzZAqOD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1308467233631465473/zRzZAqOD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1025381464249184258/1589957664",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "00180402799fed03",
+				"url": "https://api.twitter.com/1.1/geo/id/00180402799fed03.json",
+				"place_type": "city",
+				"name": "Taipei",
+				"full_name": "Taipei, 台灣",
+				"country_code": "TW",
+				"country": "台灣",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								121.457132,
+								24.960508
+							],
+							[
+								121.66582,
+								24.960508
+							],
+							[
+								121.66582,
+								25.211004
+							],
+							[
+								121.457132,
+								25.211004
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 73439,
+			"favorite_count": 263586,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Ik geef toe, na lange dagen met deadline-werk, videocalls en gezinslogistiek kan ik genieten van de stilte laat op de avond als iedereen al op bed ligt... https://t.co/MTbGIelJbz"
+	},
+	{
 		"created_at": "Mon Oct 05 19:52:07 +0000 2020",
 		"id": 1313205346924720000,
 		"id_str": "1313205346924720134",
