@@ -1,6 +1,320 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Tue Oct 06 14:50:18 +0000 2020",
+		"id": 1313491778310418400,
+		"id_str": "1313491778310418435",
+		"full_text": "In 2020 een mummiegraf openen. Dat lijkt me echt een puik plan. https://t.co/cscCTa4NZf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cscCTa4NZf",
+					"expanded_url": "https://twitter.com/VisuallySt/status/1313078675777216512",
+					"display_url": "twitter.com/VisuallySt/sta…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8934,
+			"friends_count": 580,
+			"listed_count": 571,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6749,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62713,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1313078675777216500,
+		"quoted_status_id_str": "1313078675777216512",
+		"quoted_status_permalink": {
+			"url": "https://t.co/cscCTa4NZf",
+			"expanded": "https://twitter.com/VisuallySt/status/1313078675777216512",
+			"display": "twitter.com/VisuallySt/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 05 11:28:46 +0000 2020",
+			"id": 1313078675777216500,
+			"id_str": "1313078675777216512",
+			"full_text": "The mummy tomb, which has been sealed for 2500 years, has been opened for the first time. https://t.co/KWGT95girv",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				89
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1313078614645264400,
+						"id_str": "1313078614645264384",
+						"indices": [
+							90,
+							113
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1313078614645264384/pu/img/Mwg-LK4yb4Y6ql50.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1313078614645264384/pu/img/Mwg-LK4yb4Y6ql50.jpg",
+						"url": "https://t.co/KWGT95girv",
+						"display_url": "pic.twitter.com/KWGT95girv",
+						"expanded_url": "https://twitter.com/VisuallySt/status/1313078675777216512/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 512,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1313078614645264400,
+						"id_str": "1313078614645264384",
+						"indices": [
+							90,
+							113
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1313078614645264384/pu/img/Mwg-LK4yb4Y6ql50.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1313078614645264384/pu/img/Mwg-LK4yb4Y6ql50.jpg",
+						"url": "https://t.co/KWGT95girv",
+						"display_url": "pic.twitter.com/KWGT95girv",
+						"expanded_url": "https://twitter.com/VisuallySt/status/1313078675777216512/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 512,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 512,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								5,
+								4
+							],
+							"duration_millis": 21033,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1313078614645264384/pu/pl/q8fi7SSBz0fHuDZ-.m3u8?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1313078614645264384/pu/vid/336x270/-h-q9DqRzHIyx-_b.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1313078614645264384/pu/vid/640x512/jP8Plcy1Hm6dHy0c.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1313078614645264384/pu/vid/450x360/LW_G-bf8nDEkFoQJ.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1115564335315791900,
+				"id_str": "1115564335315791880",
+				"name": "Psychedelic Art",
+				"screen_name": "VisuallySt",
+				"location": "art science space ",
+				"description": "Human is born free, but is everywhere in chains.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 65220,
+				"friends_count": 0,
+				"listed_count": 277,
+				"created_at": "Tue Apr 09 10:37:18 +0000 2019",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2494,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1257117657125584896/9ZPyJqE8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1257117657125584896/9ZPyJqE8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1115564335315791880/1594855739",
+				"profile_link_color": "E80000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 36583,
+			"favorite_count": 163689,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "In 2020 een mummiegraf openen. Dat lijkt me echt een puik plan. https://t.co/cscCTa4NZf"
+	},
+	{
 		"created_at": "Tue Oct 06 13:31:05 +0000 2020",
 		"id": 1313471846143197200,
 		"id_str": "1313471846143197185",
