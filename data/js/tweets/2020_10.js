@@ -1,6 +1,177 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Tue Oct 06 20:22:52 +0000 2020",
+		"id": 1313568984701300700,
+		"id_str": "1313575471519617025",
+		"full_text": "RIP to Eddie Van Halen, whose innovation led to the greatest illustration ever filed with the U.S. Patent and Trademark Office: https://t.co/TZxs1bRSTa https://t.co/jHU8jh7fEb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TZxs1bRSTa",
+					"expanded_url": "http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=4656917.PN.&OS=PN/4656917&RS=PN/4656917",
+					"display_url": "patft.uspto.gov/netacgi/nph-Pa…",
+					"indices": [
+						128,
+						151
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1313568326908510200,
+					"id_str": "1313568326908510210",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/Ejq7bwmWAAINKlk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ejq7bwmWAAINKlk.jpg",
+					"url": "https://t.co/jHU8jh7fEb",
+					"display_url": "pic.twitter.com/jHU8jh7fEb",
+					"expanded_url": "https://twitter.com/BradfordPearson/status/1313568984701300741/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1109,
+							"h": 802,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 492,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1109,
+							"h": 802,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1313568326908510200,
+					"id_str": "1313568326908510210",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/Ejq7bwmWAAINKlk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ejq7bwmWAAINKlk.jpg",
+					"url": "https://t.co/jHU8jh7fEb",
+					"display_url": "pic.twitter.com/jHU8jh7fEb",
+					"expanded_url": "https://twitter.com/BradfordPearson/status/1313568984701300741/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1109,
+							"h": 802,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 492,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1109,
+							"h": 802,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24550615,
+			"id_str": "24550615",
+			"name": "Bradford Pearson",
+			"screen_name": "BradfordPearson",
+			"location": "Philadelphia",
+			"description": "THE EAGLES OF HEART MOUNTAIN (January 5, @atriabooks), on football and resistance in a Japanese American concentration camp // gmail: bradford.pearson",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11509,
+			"friends_count": 757,
+			"listed_count": 166,
+			"created_at": "Sun Mar 15 17:05:26 +0000 2009",
+			"favourites_count": 28349,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 32433,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1293962016831545344/Ss-T6LuD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1293962016831545344/Ss-T6LuD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24550615/1602012607",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1791,
+		"favorite_count": 5080,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "RIP to Eddie Van Halen, whose innovation led to the greatest illustration ever filed with the U.S. Patent and Trademark Office: https://t.co/TZxs1bRSTa https://t.co/jHU8jh7fEb"
+	},
+	{
 		"created_at": "Tue Oct 06 20:09:36 +0000 2020",
 		"id": 1313566912370991000,
 		"id_str": "1313572135537987584",
