@@ -1,6 +1,183 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Tue Oct 06 18:52:47 +0000 2020",
+		"id": 1313552802950586400,
+		"id_str": "1313552802950586371",
+		"full_text": "@Jer00n @ThE_ED @NickKivits @campodipace @JerryVermanen @martijnkoetsier Met 381 Engelstalige nieuwsbrieven en 41 Nederlandstalige kan ik nog wel wat tips van eigen bodem gebruiken! https://t.co/0XHXmG7xhB",
+		"truncated": false,
+		"display_text_range": [
+			73,
+			205
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Jer00n",
+					"name": "Jeroen Verkroost",
+					"id": 6131102,
+					"id_str": "6131102",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "ThE_ED",
+					"name": "Omnichannel Gyurka Jansen ®",
+					"id": 14445960,
+					"id_str": "14445960",
+					"indices": [
+						8,
+						15
+					]
+				},
+				{
+					"screen_name": "NickKivits",
+					"name": "Nick Kivits 🚀",
+					"id": 83644622,
+					"id_str": "83644622",
+					"indices": [
+						16,
+						27
+					]
+				},
+				{
+					"screen_name": "campodipace",
+					"name": "Laurens Vreekamp",
+					"id": 2636081,
+					"id_str": "2636081",
+					"indices": [
+						28,
+						40
+					]
+				},
+				{
+					"screen_name": "JerryVermanen",
+					"name": "Jerry Vermanen",
+					"id": 40368679,
+					"id_str": "40368679",
+					"indices": [
+						41,
+						55
+					]
+				},
+				{
+					"screen_name": "martijnkoetsier",
+					"name": "Martijn Koetsier",
+					"id": 19646651,
+					"id_str": "19646651",
+					"indices": [
+						56,
+						72
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0XHXmG7xhB",
+					"expanded_url": "https://thanksforsubscribing.app/submit",
+					"display_url": "thanksforsubscribing.app/submit",
+					"indices": [
+						182,
+						205
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1313532898469982200,
+		"in_reply_to_status_id_str": "1313532898469982214",
+		"in_reply_to_user_id": 6131102,
+		"in_reply_to_user_id_str": "6131102",
+		"in_reply_to_screen_name": "Jer00n",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8936,
+			"friends_count": 580,
+			"listed_count": 571,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6750,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62715,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@Jer00n @ThE_ED @NickKivits @campodipace @JerryVermanen @martijnkoetsier Met 381 Engelstalige nieuwsbrieven en 41 Nederlandstalige kan ik nog wel wat tips van eigen bodem gebruiken! https://t.co/0XHXmG7xhB"
+	},
+	{
 		"created_at": "Tue Oct 06 15:54:16 +0000 2020",
 		"id": 1313507878276411400,
 		"id_str": "1313507878276411392",
