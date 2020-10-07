@@ -1,6 +1,253 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Wed Oct 07 12:08:02 +0000 2020",
+		"id": 1313813332332359700,
+		"id_str": "1313813332332359683",
+		"full_text": "@FredoDeSmet @campodipace @halfvet @elger @FiaLaura @martijnkoetsier @JerryVermanen @fastmoving @WvNoort @Jer00n @LocalFocusNL @yordidam @mauritsmartijn &lt;zelfpromotie&gt; En met vriend Laurens afgesproken dat deze lijst ook op https://t.co/ukMTnYoPWG komt, waar 300+ internationale nieuwsbrieven zijn te vinden op allerlei categorieën. En waar je je eigen nieuwsbrief kunt aanmelden! &lt;/zelfpromotie&gt;",
+		"truncated": false,
+		"display_text_range": [
+			153,
+			408
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FredoDeSmet",
+					"name": "Fredo De Smet 📎",
+					"id": 20082759,
+					"id_str": "20082759",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "campodipace",
+					"name": "Laurens Vreekamp",
+					"id": 2636081,
+					"id_str": "2636081",
+					"indices": [
+						13,
+						25
+					]
+				},
+				{
+					"screen_name": "halfvet",
+					"name": "Halfvet",
+					"id": 1101191767238549500,
+					"id_str": "1101191767238549504",
+					"indices": [
+						26,
+						34
+					]
+				},
+				{
+					"screen_name": "elger",
+					"name": "Elger van der Wel",
+					"id": 14142375,
+					"id_str": "14142375",
+					"indices": [
+						35,
+						41
+					]
+				},
+				{
+					"screen_name": "FiaLaura",
+					"name": "Sophie van Oostvoorn",
+					"id": 182809136,
+					"id_str": "182809136",
+					"indices": [
+						42,
+						51
+					]
+				},
+				{
+					"screen_name": "martijnkoetsier",
+					"name": "Martijn Koetsier",
+					"id": 19646651,
+					"id_str": "19646651",
+					"indices": [
+						52,
+						68
+					]
+				},
+				{
+					"screen_name": "JerryVermanen",
+					"name": "Jerry Vermanen",
+					"id": 40368679,
+					"id_str": "40368679",
+					"indices": [
+						69,
+						83
+					]
+				},
+				{
+					"screen_name": "fastmoving",
+					"name": "Fast Moving Targets",
+					"id": 210772544,
+					"id_str": "210772544",
+					"indices": [
+						84,
+						95
+					]
+				},
+				{
+					"screen_name": "WvNoort",
+					"name": "Wouter van Noort 🤖",
+					"id": 17938366,
+					"id_str": "17938366",
+					"indices": [
+						96,
+						104
+					]
+				},
+				{
+					"screen_name": "Jer00n",
+					"name": "Jeroen Verkroost",
+					"id": 6131102,
+					"id_str": "6131102",
+					"indices": [
+						105,
+						112
+					]
+				},
+				{
+					"screen_name": "LocalFocusNL",
+					"name": "LocalFocus",
+					"id": 1415401712,
+					"id_str": "1415401712",
+					"indices": [
+						113,
+						126
+					]
+				},
+				{
+					"screen_name": "yordidam",
+					"name": "Yordi Dam",
+					"id": 17677039,
+					"id_str": "17677039",
+					"indices": [
+						127,
+						136
+					]
+				},
+				{
+					"screen_name": "mauritsmartijn",
+					"name": "Maurits Martijn",
+					"id": 35703846,
+					"id_str": "35703846",
+					"indices": [
+						137,
+						152
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ukMTnYoPWG",
+					"expanded_url": "https://www.thanksforsubscribing.app/",
+					"display_url": "thanksforsubscribing.app",
+					"indices": [
+						230,
+						253
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1313812474840387600,
+		"in_reply_to_status_id_str": "1313812474840387587",
+		"in_reply_to_user_id": 20082759,
+		"in_reply_to_user_id_str": "20082759",
+		"in_reply_to_screen_name": "FredoDeSmet",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8936,
+			"friends_count": 579,
+			"listed_count": 571,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6759,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62722,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@FredoDeSmet @campodipace @halfvet @elger @FiaLaura @martijnkoetsier @JerryVermanen @fastmoving @WvNoort @Jer00n @LocalFocusNL @yordidam @mauritsmartijn &lt;zelfpromotie&gt; En met vriend Laurens afgesproken dat deze lijst ook op https://t.co/ukMTnYoPWG komt, waar 300+ internationale nieuwsbrieven zijn te vinden op allerlei categorieën. En waar je je eigen nieuwsbrief kunt aanmelden! &lt;/zelfpromotie&gt;"
+	},
+	{
 		"created_at": "Wed Oct 07 10:59:33 +0000 2020",
 		"id": 1313796097282912300,
 		"id_str": "1313796097282912257",
