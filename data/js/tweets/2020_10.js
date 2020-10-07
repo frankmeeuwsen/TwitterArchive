@@ -1,6 +1,255 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Wed Oct 07 18:18:08 +0000 2020",
+		"id": 1313906469130166300,
+		"id_str": "1313906469130166272",
+		"full_text": "Ik werd een beetje yuk van die laatste 10 woorden. Toen las ik de follow-up tweet en dacht ik: That's my Phil! :-) https://t.co/34QmprYMu3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/34QmprYMu3",
+					"expanded_url": "https://twitter.com/plibin/status/1313874682999836672",
+					"display_url": "twitter.com/plibin/status/…",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8935,
+			"friends_count": 581,
+			"listed_count": 571,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6761,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62724,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1313874682999836700,
+		"quoted_status_id_str": "1313874682999836672",
+		"quoted_status_permalink": {
+			"url": "https://t.co/34QmprYMu3",
+			"expanded": "https://twitter.com/plibin/status/1313874682999836672",
+			"display": "twitter.com/plibin/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 07 16:11:49 +0000 2020",
+			"id": 1313874682999836700,
+			"id_str": "1313874682999836672",
+			"full_text": "We raised an A-Round for @mmhmmapp led by @sequoia. A giant thank you to our beta testers, our investors, and our hard-working team! It’s been a whirlwind few months but now we have the resources to try to make the world a little bit better. https://t.co/ExoGzs9pts",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				265
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mmhmmapp",
+						"name": "mmhmm",
+						"id": 1266014530313699300,
+						"id_str": "1266014530313699329",
+						"indices": [
+							25,
+							34
+						]
+					},
+					{
+						"screen_name": "sequoia",
+						"name": "Sequoia",
+						"id": 24775410,
+						"id_str": "24775410",
+						"indices": [
+							42,
+							50
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/ExoGzs9pts",
+						"expanded_url": "https://www.mmhmm.app/blog/we-raised-some-money",
+						"display_url": "mmhmm.app/blog/we-raised…",
+						"indices": [
+							242,
+							265
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14149971,
+				"id_str": "14149971",
+				"name": "Phil Libin",
+				"screen_name": "plibin",
+				"location": "",
+				"description": "Co-founder and CEO of All Turtles and mmhmm. Co-founder and former CEO of Evernote. Generally enthusiastic.",
+				"url": "https://t.co/Cfv82x2A2H",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Cfv82x2A2H",
+								"expanded_url": "https://medium.all-turtles.com/subscribe-to-the-all-turtles-podcast-c16a2a4cbcd3",
+								"display_url": "medium.all-turtles.com/subscribe-to-t…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 36508,
+				"friends_count": 682,
+				"listed_count": 1948,
+				"created_at": "Fri Mar 14 22:52:19 +0000 2008",
+				"favourites_count": 710,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3203,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "030302",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1229065533493956610/W19LjMHG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229065533493956610/W19LjMHG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14149971/1480467891",
+				"profile_link_color": "786A55",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 185,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Ik werd een beetje yuk van die laatste 10 woorden. Toen las ik de follow-up tweet en dacht ik: That's my Phil! :-) https://t.co/34QmprYMu3"
+	},
+	{
 		"created_at": "Wed Oct 07 16:06:28 +0000 2020",
 		"id": 1313873337597202400,
 		"id_str": "1313873337597202434",
@@ -221,7 +470,7 @@ Grailbird.data.tweets_2020_10 =
 				"name": "dennis hegstad 💬",
 				"screen_name": "dennishegstad",
 				"location": "Austin, TX",
-				"description": "co-founder @LiveRecover (SMS abandoned cart recovery) - i like solving problems and building things on the internet 🧑‍💻",
+				"description": "co-founder @LiveRecover (SMS abandoned cart recovery) - i like solving problems and building things on the internet 🧑💻",
 				"url": "https://t.co/ahU09SZouQ",
 				"entities": {
 					"url": {
