@@ -1,6 +1,351 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sat Oct 10 05:46:32 +0000 2020",
+		"id": 1314804488188973000,
+		"id_str": "1314804488188973056",
+		"full_text": "2020 brengt ook goede dingen. Zoals Doom spelen op een keyboard. https://t.co/E4dYsICgvy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/E4dYsICgvy",
+					"expanded_url": "https://twitter.com/foone/status/1314730238903943168",
+					"display_url": "twitter.com/foone/status/1…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8936,
+			"friends_count": 583,
+			"listed_count": 571,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6775,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62742,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1314730238903943200,
+		"quoted_status_id_str": "1314730238903943168",
+		"quoted_status_permalink": {
+			"url": "https://t.co/E4dYsICgvy",
+			"expanded": "https://twitter.com/foone/status/1314730238903943168",
+			"display": "twitter.com/foone/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Oct 10 00:51:30 +0000 2020",
+			"id": 1314730238903943200,
+			"id_str": "1314730238903943168",
+			"full_text": "And there we go. Doom on the Steelseries Apex 7! https://t.co/DXViMnw60W",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				48
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1314730092312973300,
+						"id_str": "1314730092312973312",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1314730092312973312/pu/img/CFqTOJTbFXk-NcPa.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1314730092312973312/pu/img/CFqTOJTbFXk-NcPa.jpg",
+						"url": "https://t.co/DXViMnw60W",
+						"display_url": "pic.twitter.com/DXViMnw60W",
+						"expanded_url": "https://twitter.com/Foone/status/1314730238903943168/video/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 640,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 480,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1314730092312973300,
+						"id_str": "1314730092312973312",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1314730092312973312/pu/img/CFqTOJTbFXk-NcPa.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1314730092312973312/pu/img/CFqTOJTbFXk-NcPa.jpg",
+						"url": "https://t.co/DXViMnw60W",
+						"display_url": "pic.twitter.com/DXViMnw60W",
+						"expanded_url": "https://twitter.com/Foone/status/1314730238903943168/video/1",
+						"type": "video",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 640,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 480,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								4,
+								3
+							],
+							"duration_millis": 51634,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1314730092312973312/pu/vid/480x360/P4WPPIL-5Y2FbR15.mp4?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1314730092312973312/pu/vid/360x270/kyTGiBeJ-4_DnbwD.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1314730092312973312/pu/vid/640x480/w727UkzJhBCGNIjp.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1314730092312973312/pu/pl/jTH5tnc3JjXIVmVE.m3u8?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1314726802913329200,
+			"in_reply_to_status_id_str": "1314726802913329154",
+			"in_reply_to_user_id": 13502732,
+			"in_reply_to_user_id_str": "13502732",
+			"in_reply_to_screen_name": "Foone",
+			"user": {
+				"id": 13502732,
+				"id_str": "13502732",
+				"name": "foone",
+				"screen_name": "Foone",
+				"location": "Milpitas, CA",
+				"description": "Hardware / software necromancer, collector of Weird Stuff, maker of Death Generators. (they/them)\nPatreon: https://t.co/6UkafJHkbD\nko-fi: https://t.co/6AzbhTO0lK",
+				"url": "https://t.co/2PlYsHBSvH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2PlYsHBSvH",
+								"expanded_url": "http://floppy.foone.org",
+								"display_url": "floppy.foone.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/6UkafJHkbD",
+								"expanded_url": "http://patreon.com/foone",
+								"display_url": "patreon.com/foone",
+								"indices": [
+									107,
+									130
+								]
+							},
+							{
+								"url": "https://t.co/6AzbhTO0lK",
+								"expanded_url": "http://ko-fi.com/fooneturing",
+								"display_url": "ko-fi.com/fooneturing",
+								"indices": [
+									138,
+									161
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 95390,
+				"friends_count": 545,
+				"listed_count": 711,
+				"created_at": "Fri Feb 15 03:51:09 +0000 2008",
+				"favourites_count": 69168,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 155314,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/880340410333143040/-s_buYC0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/880340410333143040/-s_buYC0_normal.jpg",
+				"profile_link_color": "008080",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 173,
+			"favorite_count": 842,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "2020 brengt ook goede dingen. Zoals Doom spelen op een keyboard. https://t.co/E4dYsICgvy"
+	},
+	{
 		"created_at": "Fri Oct 09 17:08:27 +0000 2020",
 		"id": 1314394043946803200,
 		"id_str": "1314613711563350020",
