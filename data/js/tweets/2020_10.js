@@ -1,6 +1,1379 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sat Oct 10 08:15:56 +0000 2020",
+		"id": 1314842085829341200,
+		"id_str": "1314842085829341184",
+		"full_text": "@jelleprins @Boris @MikevHoenselaar Fantastisch hoe jullie de rollen hebben opgepakt en invulling hebben gegeven. Ik ga eerst wat bijlezen maar kom er zeker eens op terug. Verdiende lof voor jullie hele team! https://t.co/J8ZUmGVfRQ",
+		"truncated": false,
+		"display_text_range": [
+			36,
+			208
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jelleprins",
+					"name": "Jelle Prins",
+					"id": 16546619,
+					"id_str": "16546619",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "Boris",
+					"name": "Boris Veldhuijzen van Zanten",
+					"id": 17463,
+					"id_str": "17463",
+					"indices": [
+						12,
+						18
+					]
+				},
+				{
+					"screen_name": "MikevHoenselaar",
+					"name": "Mike van Hoenselaar",
+					"id": 16144104,
+					"id_str": "16144104",
+					"indices": [
+						19,
+						35
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1314842078938095600,
+					"id_str": "1314842078938095617",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Ej9B54rXYAE3w_I.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Ej9B54rXYAE3w_I.jpg",
+					"url": "https://t.co/J8ZUmGVfRQ",
+					"display_url": "pic.twitter.com/J8ZUmGVfRQ",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1314842085829341184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 406,
+							"h": 276,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 406,
+							"h": 276,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 406,
+							"h": 276,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1314842078938095600,
+					"id_str": "1314842078938095617",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Ej9B54rXYAE3w_I.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Ej9B54rXYAE3w_I.jpg",
+					"url": "https://t.co/J8ZUmGVfRQ",
+					"display_url": "pic.twitter.com/J8ZUmGVfRQ",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1314842085829341184/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 406,
+							"h": 276,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 406,
+							"h": 276,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 406,
+							"h": 276,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							203,
+							138
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Ej9B54rXYAE3w_I.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1314840976259780600,
+		"in_reply_to_status_id_str": "1314840976259780608",
+		"in_reply_to_user_id": 16546619,
+		"in_reply_to_user_id_str": "16546619",
+		"in_reply_to_screen_name": "jelleprins",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8935,
+			"friends_count": 583,
+			"listed_count": 571,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6786,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62754,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@jelleprins @Boris @MikevHoenselaar Fantastisch hoe jullie de rollen hebben opgepakt en invulling hebben gegeven. Ik ga eerst wat bijlezen maar kom er zeker eens op terug. Verdiende lof voor jullie hele team! https://t.co/J8ZUmGVfRQ"
+	},
+	{
+		"created_at": "Sat Oct 10 08:14:11 +0000 2020",
+		"id": 1314841646811537400,
+		"id_str": "1314841646811537415",
+		"full_text": "@Boris @jelleprins @MikevHoenselaar Ik ga zo voor het eerst boodschappen doen met de CoronaMelder op mijn telefoon. Volg de livestream op Twitch. Like and subscribe! Merch op https://t.co/AJOseLgAVe!",
+		"truncated": false,
+		"display_text_range": [
+			36,
+			199
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Boris",
+					"name": "Boris Veldhuijzen van Zanten",
+					"id": 17463,
+					"id_str": "17463",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"screen_name": "jelleprins",
+					"name": "Jelle Prins",
+					"id": 16546619,
+					"id_str": "16546619",
+					"indices": [
+						7,
+						18
+					]
+				},
+				{
+					"screen_name": "MikevHoenselaar",
+					"name": "Mike van Hoenselaar",
+					"id": 16144104,
+					"id_str": "16144104",
+					"indices": [
+						19,
+						35
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AJOseLgAVe",
+					"expanded_url": "http://FrankfluencerMerch.co",
+					"display_url": "FrankfluencerMerch.co",
+					"indices": [
+						175,
+						198
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1314840833619787800,
+		"in_reply_to_status_id_str": "1314840833619787777",
+		"in_reply_to_user_id": 17463,
+		"in_reply_to_user_id_str": "17463",
+		"in_reply_to_screen_name": "Boris",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8935,
+			"friends_count": 583,
+			"listed_count": 571,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6786,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62754,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@Boris @jelleprins @MikevHoenselaar Ik ga zo voor het eerst boodschappen doen met de CoronaMelder op mijn telefoon. Volg de livestream op Twitch. Like and subscribe! Merch op https://t.co/AJOseLgAVe!"
+	},
+	{
+		"created_at": "Sat Oct 10 08:09:43 +0000 2020",
+		"id": 1314840522217881600,
+		"id_str": "1314840522217881600",
+		"full_text": "@jelleprins @Boris @MikevHoenselaar Gaan jullie nog een AMA doen?",
+		"truncated": false,
+		"display_text_range": [
+			36,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jelleprins",
+					"name": "Jelle Prins",
+					"id": 16546619,
+					"id_str": "16546619",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "Boris",
+					"name": "Boris Veldhuijzen van Zanten",
+					"id": 17463,
+					"id_str": "17463",
+					"indices": [
+						12,
+						18
+					]
+				},
+				{
+					"screen_name": "MikevHoenselaar",
+					"name": "Mike van Hoenselaar",
+					"id": 16144104,
+					"id_str": "16144104",
+					"indices": [
+						19,
+						35
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1314840337865674800,
+		"in_reply_to_status_id_str": "1314840337865674753",
+		"in_reply_to_user_id": 16546619,
+		"in_reply_to_user_id_str": "16546619",
+		"in_reply_to_screen_name": "jelleprins",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8935,
+			"friends_count": 583,
+			"listed_count": 571,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6786,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62754,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@jelleprins @Boris @MikevHoenselaar Gaan jullie nog een AMA doen?"
+	},
+	{
+		"created_at": "Sat Oct 10 08:05:30 +0000 2020",
+		"id": 1314839459200934000,
+		"id_str": "1314839459200933893",
+		"full_text": "@arjanbroere @MikevHoenselaar @Boris Ja die! Ik zocht op Pokey, dus ik was in de buurt. Als je die nu van 1,5 meter hebt kun je veilig corona-data delen! 😉",
+		"truncated": false,
+		"display_text_range": [
+			37,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "arjanbroere",
+					"name": "arjan broere",
+					"id": 2087771,
+					"id_str": "2087771",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "MikevHoenselaar",
+					"name": "Mike van Hoenselaar",
+					"id": 16144104,
+					"id_str": "16144104",
+					"indices": [
+						13,
+						29
+					]
+				},
+				{
+					"screen_name": "Boris",
+					"name": "Boris Veldhuijzen van Zanten",
+					"id": 17463,
+					"id_str": "17463",
+					"indices": [
+						30,
+						36
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1314836165690888200,
+		"in_reply_to_status_id_str": "1314836165690888192",
+		"in_reply_to_user_id": 2087771,
+		"in_reply_to_user_id_str": "2087771",
+		"in_reply_to_screen_name": "arjanbroere",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8935,
+			"friends_count": 583,
+			"listed_count": 571,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6786,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62754,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@arjanbroere @MikevHoenselaar @Boris Ja die! Ik zocht op Pokey, dus ik was in de buurt. Als je die nu van 1,5 meter hebt kun je veilig corona-data delen! 😉"
+	},
+	{
+		"created_at": "Sat Oct 10 07:42:33 +0000 2020",
+		"id": 1314833683170422800,
+		"id_str": "1314833683170422784",
+		"full_text": "@Hermannus Hoe ik van 0 naar 9000 volgers ging in de CoronaMelder. \n\n👇Een thread...",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Hermannus",
+					"name": "Hermannus Stegeman 😷",
+					"id": 53655670,
+					"id_str": "53655670",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1314832962752577500,
+		"in_reply_to_status_id_str": "1314832962752577537",
+		"in_reply_to_user_id": 53655670,
+		"in_reply_to_user_id_str": "53655670",
+		"in_reply_to_screen_name": "Hermannus",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8935,
+			"friends_count": 583,
+			"listed_count": 571,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6786,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62754,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@Hermannus Hoe ik van 0 naar 9000 volgers ging in de CoronaMelder. \n\n👇Een thread..."
+	},
+	{
+		"created_at": "Sat Oct 10 07:39:22 +0000 2020",
+		"id": 1314831921067810800,
+		"id_str": "1314832884767784960",
+		"full_text": "Er staan volgens @JobJansweijer overigens weinig apps op jouw telefoon die zo weinig van jou weten als CoronaMelder. CoronaMelder werkt zonder te weten, wie je bent en zonder te weten waar je bent! #coronamelder https://t.co/TPPk7SUN4S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "coronamelder",
+					"indices": [
+						198,
+						211
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JobJansweijer",
+					"name": "Job Jansweijer",
+					"id": 2313373436,
+					"id_str": "2313373436",
+					"indices": [
+						17,
+						31
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1314831829090828300,
+					"id_str": "1314831829090828289",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej84lRBWAAEf1rr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej84lRBWAAEf1rr.jpg",
+					"url": "https://t.co/TPPk7SUN4S",
+					"display_url": "pic.twitter.com/TPPk7SUN4S",
+					"expanded_url": "https://twitter.com/marcoderksen/status/1314831921067810821/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 331,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 584,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 998,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1314831829090828300,
+					"id_str": "1314831829090828289",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej84lRBWAAEf1rr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej84lRBWAAEf1rr.jpg",
+					"url": "https://t.co/TPPk7SUN4S",
+					"display_url": "pic.twitter.com/TPPk7SUN4S",
+					"expanded_url": "https://twitter.com/marcoderksen/status/1314831921067810821/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 331,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 584,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 998,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1314826285244448800,
+		"in_reply_to_status_id_str": "1314826285244448769",
+		"in_reply_to_user_id": 1252681,
+		"in_reply_to_user_id_str": "1252681",
+		"in_reply_to_screen_name": "marcoderksen",
+		"user": {
+			"id": 1252681,
+			"id_str": "1252681",
+			"name": "Marco Derksen",
+			"screen_name": "marcoderksen",
+			"location": "Arnhem, Netherlands ",
+			"description": "Oprichter/partner Upstream, Marketingfacts, Dagstage, AOG, HAN, VPRO, DDMA, Luxor Live, leiderschap bij digitale transformatie, onderwijs, fotografie en vader!",
+			"url": "https://t.co/XN0TBMzQnD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XN0TBMzQnD",
+							"expanded_url": "https://www.linkedin.com/in/mderksen/",
+							"display_url": "linkedin.com/in/mderksen/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27558,
+			"friends_count": 5428,
+			"listed_count": 1427,
+			"created_at": "Thu Mar 15 22:44:18 +0000 2007",
+			"favourites_count": 11572,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 154355,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1260459260858830848/H1Zyfo8O_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1260459260858830848/H1Zyfo8O_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1252681/1348906748",
+			"profile_link_color": "EB8415",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Er staan volgens @JobJansweijer overigens weinig apps op jouw telefoon die zo weinig van jou weten als CoronaMelder. CoronaMelder werkt zonder te weten, wie je bent en zonder te weten waar je bent! #coronamelder https://t.co/TPPk7SUN4S"
+	},
+	{
+		"created_at": "Sat Oct 10 07:31:51 +0000 2020",
+		"id": 1314830990553088000,
+		"id_str": "1314830990553088000",
+		"full_text": "@guidoz @MikevHoenselaar @brenno @rickpastoor @Reinier Niets dan lof voor de groep mensen die er keihard én transparant aan hebben gewerkt. Het making-of artikel op Frankwatching is zeer de moeite waard. https://t.co/9wwUKouLIJ \n\n(kom je wel naar de CoronaMelder Meetup #Borrel Guido? 😉)",
+		"truncated": false,
+		"display_text_range": [
+			55,
+			287
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Borrel",
+					"indices": [
+						270,
+						277
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "guidoz",
+					"name": "g🎶d▶️z ❤️",
+					"id": 7305132,
+					"id_str": "7305132",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "MikevHoenselaar",
+					"name": "Mike van Hoenselaar",
+					"id": 16144104,
+					"id_str": "16144104",
+					"indices": [
+						8,
+						24
+					]
+				},
+				{
+					"screen_name": "brenno",
+					"name": "Brenno de Winter",
+					"id": 6426552,
+					"id_str": "6426552",
+					"indices": [
+						25,
+						32
+					]
+				},
+				{
+					"screen_name": "rickpastoor",
+					"name": "Rick Pastoor",
+					"id": 14327598,
+					"id_str": "14327598",
+					"indices": [
+						33,
+						45
+					]
+				},
+				{
+					"screen_name": "Reinier",
+					"name": "Reinier Ladan",
+					"id": 647393,
+					"id_str": "647393",
+					"indices": [
+						46,
+						54
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9wwUKouLIJ",
+					"expanded_url": "https://www.frankwatching.com/archive/2020/10/08/coronamelder-making-of/",
+					"display_url": "frankwatching.com/archive/2020/1…",
+					"indices": [
+						204,
+						227
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1314829952429293600,
+		"in_reply_to_status_id_str": "1314829952429293569",
+		"in_reply_to_user_id": 7305132,
+		"in_reply_to_user_id_str": "7305132",
+		"in_reply_to_screen_name": "guidoz",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8935,
+			"friends_count": 583,
+			"listed_count": 571,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6786,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62754,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@guidoz @MikevHoenselaar @brenno @rickpastoor @Reinier Niets dan lof voor de groep mensen die er keihard én transparant aan hebben gewerkt. Het making-of artikel op Frankwatching is zeer de moeite waard. https://t.co/9wwUKouLIJ \n\n(kom je wel naar de CoronaMelder Meetup #Borrel Guido? 😉)"
+	},
+	{
+		"created_at": "Sat Oct 10 07:29:08 +0000 2020",
+		"id": 1314830306747314200,
+		"id_str": "1314830306747314176",
+		"full_text": "@Boris Ik heb net de Stories functie ge-unlocked. Volgens mij kan ik er 5 beta-keys van weggeven. F5 je DM’s.",
+		"truncated": false,
+		"display_text_range": [
+			7,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Boris",
+					"name": "Boris Veldhuijzen van Zanten",
+					"id": 17463,
+					"id_str": "17463",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1314829494490931200,
+		"in_reply_to_status_id_str": "1314829494490931200",
+		"in_reply_to_user_id": 17463,
+		"in_reply_to_user_id_str": "17463",
+		"in_reply_to_screen_name": "Boris",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8935,
+			"friends_count": 583,
+			"listed_count": 571,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6786,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62754,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@Boris Ik heb net de Stories functie ge-unlocked. Volgens mij kan ik er 5 beta-keys van weggeven. F5 je DM’s."
+	},
+	{
+		"created_at": "Sat Oct 10 07:21:53 +0000 2020",
+		"id": 1314828482304790500,
+		"id_str": "1314828482304790528",
+		"full_text": "@MikevHoenselaar @Boris Hahaha... hoe heette dat brokje hardware ook weer van 15 jaar geleden. Soort USB key die je tegen elkaar houdt om elkaar te volgen...",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MikevHoenselaar",
+					"name": "Mike van Hoenselaar",
+					"id": 16144104,
+					"id_str": "16144104",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "Boris",
+					"name": "Boris Veldhuijzen van Zanten",
+					"id": 17463,
+					"id_str": "17463",
+					"indices": [
+						17,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1314826587444048000,
+		"in_reply_to_status_id_str": "1314826587444047873",
+		"in_reply_to_user_id": 16144104,
+		"in_reply_to_user_id_str": "16144104",
+		"in_reply_to_screen_name": "MikevHoenselaar",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8935,
+			"friends_count": 583,
+			"listed_count": 571,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6786,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62754,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@MikevHoenselaar @Boris Hahaha... hoe heette dat brokje hardware ook weer van 15 jaar geleden. Soort USB key die je tegen elkaar houdt om elkaar te volgen..."
+	},
+	{
 		"created_at": "Sat Oct 10 07:13:03 +0000 2020",
 		"id": 1314826261164961800,
 		"id_str": "1314826261164961792",
