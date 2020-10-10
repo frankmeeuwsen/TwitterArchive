@@ -1,6 +1,533 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sat Oct 10 17:18:28 +0000 2020",
+		"id": 1314978061079711700,
+		"id_str": "1314978620079771648",
+		"full_text": "“Get It Back” The new Pearl Jam studio single, “Get It Back” was released on Friday, Oct 2nd as a part of the musical compilation, Good Music To Avert The Collapse Of American Democracy, Volume 2. As our gift to you, this is now available on the Downloads page. https://t.co/mnBEDRHjkQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			261
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1314977956922622000,
+					"id_str": "1314977956922621952",
+					"indices": [
+						262,
+						285
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej-9fBnXgAAvqAI.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ej-9fBnXgAAvqAI.png",
+					"url": "https://t.co/mnBEDRHjkQ",
+					"display_url": "pic.twitter.com/mnBEDRHjkQ",
+					"expanded_url": "https://twitter.com/demetriosns/status/1314978061079711744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1314977956922622000,
+					"id_str": "1314977956922621952",
+					"indices": [
+						262,
+						285
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej-9fBnXgAAvqAI.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ej-9fBnXgAAvqAI.png",
+					"url": "https://t.co/mnBEDRHjkQ",
+					"display_url": "pic.twitter.com/mnBEDRHjkQ",
+					"expanded_url": "https://twitter.com/demetriosns/status/1314978061079711744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2445883256,
+			"id_str": "2445883256",
+			"name": "demetrios",
+			"screen_name": "demetriosns",
+			"location": " 🇨🇦",
+			"description": "#pearljam",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4196,
+			"friends_count": 4296,
+			"listed_count": 46,
+			"created_at": "Tue Apr 15 19:14:28 +0000 2014",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25568,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/964089175489351680/xBdqHMwd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/964089175489351680/xBdqHMwd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2445883256/1518692315",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“Get It Back” The new Pearl Jam studio single, “Get It Back” was released on Friday, Oct 2nd as a part of the musical compilation, Good Music To Avert The Collapse Of American Democracy, Volume 2. As our gift to you, this is now available on the Downloads page. https://t.co/mnBEDRHjkQ"
+	},
+	{
+		"created_at": "Sat Oct 10 17:16:44 +0000 2020",
+		"id": 1314978184073539600,
+		"id_str": "1314978184073539584",
+		"full_text": "Oeh.... lekker! https://t.co/dUDW1EuxOJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dUDW1EuxOJ",
+					"expanded_url": "https://twitter.com/pearljam/status/1314976209177137153",
+					"display_url": "twitter.com/pearljam/statu…",
+					"indices": [
+						16,
+						39
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8935,
+			"friends_count": 584,
+			"listed_count": 571,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6789,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62757,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1314976209177137200,
+		"quoted_status_id_str": "1314976209177137153",
+		"quoted_status_permalink": {
+			"url": "https://t.co/dUDW1EuxOJ",
+			"expanded": "https://twitter.com/pearljam/status/1314976209177137153",
+			"display": "twitter.com/pearljam/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Oct 10 17:08:54 +0000 2020",
+			"id": 1314976209177137200,
+			"id_str": "1314976209177137153",
+			"full_text": "On October 22, Pearl Jam will stream the April 29, 2016 Philadelphia show on @NugsNet.\n\nThe 32-song set includes Ten played front to back, newly mixed in stereo &amp; 5.1 digital surround sound. Stream the never-before-seen full-color HD footage 10/22-10/25: https://t.co/awSKMuF3Zj https://t.co/U3feUQi1iZ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				282
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "nugsnet",
+						"name": "nugs.net",
+						"id": 309870370,
+						"id_str": "309870370",
+						"indices": [
+							77,
+							85
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/awSKMuF3Zj",
+						"expanded_url": "https://2nu.gs/PearlJamWebcast",
+						"display_url": "2nu.gs/PearlJamWebcast",
+						"indices": [
+							259,
+							282
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1314974459279835100,
+						"id_str": "1314974459279835136",
+						"indices": [
+							283,
+							306
+						],
+						"media_url": "http://pbs.twimg.com/media/Ej-7vIuXcAUnU74.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ej-7vIuXcAUnU74.jpg",
+						"url": "https://t.co/U3feUQi1iZ",
+						"display_url": "pic.twitter.com/U3feUQi1iZ",
+						"expanded_url": "https://twitter.com/PearlJam/status/1314976209177137153/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1314974459279835100,
+						"id_str": "1314974459279835136",
+						"indices": [
+							283,
+							306
+						],
+						"media_url": "http://pbs.twimg.com/media/Ej-7vIuXcAUnU74.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ej-7vIuXcAUnU74.jpg",
+						"url": "https://t.co/U3feUQi1iZ",
+						"display_url": "pic.twitter.com/U3feUQi1iZ",
+						"expanded_url": "https://twitter.com/PearlJam/status/1314976209177137153/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 39806,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1314974459279835136/pl/1JWl4SFRXbYndXHj.m3u8?tag=13"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1314974459279835136/vid/640x360/HuUqY1aJYNLeqQOz.mp4?tag=13"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1314974459279835136/vid/480x270/4AOchT2hDQd9nfjG.mp4?tag=13"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1314974459279835136/vid/1280x720/ntbVL4mN-qQCgnnP.mp4?tag=13"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "Philadelphia (2016) Livestream",
+							"description": "",
+							"call_to_actions": {
+								"visit_site": {
+									"url": "https://2nu.gs/PearlJamWebcast"
+								}
+							},
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15155074,
+				"id_str": "15155074",
+				"name": "Pearl Jam",
+				"screen_name": "PearlJam",
+				"location": "Seattle, WA",
+				"description": "Gigaton - Out Now. Listen to the new album: https://t.co/7zBEnR3rMU",
+				"url": "https://t.co/J95aoJ5FKF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/J95aoJ5FKF",
+								"expanded_url": "http://www.PearlJam.com",
+								"display_url": "PearlJam.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/7zBEnR3rMU",
+								"expanded_url": "http://pearljam.lnk.to/gigatonTw",
+								"display_url": "pearljam.lnk.to/gigatonTw",
+								"indices": [
+									44,
+									67
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3582137,
+				"friends_count": 892,
+				"listed_count": 17253,
+				"created_at": "Wed Jun 18 06:59:14 +0000 2008",
+				"favourites_count": 4214,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 8574,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1216784176659279874/NCaJxxiE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1216784176659279874/NCaJxxiE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15155074/1585282596",
+				"profile_link_color": "A17F59",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 90,
+			"favorite_count": 435,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Oeh.... lekker! https://t.co/dUDW1EuxOJ"
+	},
+	{
 		"created_at": "Sat Oct 10 08:15:56 +0000 2020",
 		"id": 1314842085829341200,
 		"id_str": "1314842085829341184",
