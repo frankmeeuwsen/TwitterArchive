@@ -1,6 +1,299 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Mon Oct 12 16:36:17 +0000 2020",
+		"id": 1315679491382009900,
+		"id_str": "1315692779415252992",
+		"full_text": "Dear @IMDb, in The Netherlands we don’t translate movie titles. So for us it is just “2001: a space odyssey” and nobody will know what THE HELL you’re talking about with these translated titles.\n\n“De uitroeier”, “Terug naar de toekomst”?! This is madness!\n\nRetweet if you agree. https://t.co/b0vTIERGUl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IMDb",
+					"name": "IMDb",
+					"id": 17602896,
+					"id_str": "17602896",
+					"indices": [
+						5,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1315679485145034800,
+					"id_str": "1315679485145034754",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/EkI7hV5WsAIj5uT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkI7hV5WsAIj5uT.jpg",
+					"url": "https://t.co/b0vTIERGUl",
+					"display_url": "pic.twitter.com/b0vTIERGUl",
+					"expanded_url": "https://twitter.com/Boris/status/1315679491382009859/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1011,
+							"h": 496,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1011,
+							"h": 496,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 334,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1315679485145034800,
+					"id_str": "1315679485145034754",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/EkI7hV5WsAIj5uT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkI7hV5WsAIj5uT.jpg",
+					"url": "https://t.co/b0vTIERGUl",
+					"display_url": "pic.twitter.com/b0vTIERGUl",
+					"expanded_url": "https://twitter.com/Boris/status/1315679491382009859/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1011,
+							"h": 496,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1011,
+							"h": 496,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 334,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1315679485149278200,
+					"id_str": "1315679485149278210",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/EkI7hV6XcAIhQtd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkI7hV6XcAIhQtd.jpg",
+					"url": "https://t.co/b0vTIERGUl",
+					"display_url": "pic.twitter.com/b0vTIERGUl",
+					"expanded_url": "https://twitter.com/Boris/status/1315679491382009859/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1327,
+							"h": 1215,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1099,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 623,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1315679485119922200,
+					"id_str": "1315679485119922179",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/EkI7hVzXgAMkF1b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkI7hVzXgAMkF1b.jpg",
+					"url": "https://t.co/b0vTIERGUl",
+					"display_url": "pic.twitter.com/b0vTIERGUl",
+					"expanded_url": "https://twitter.com/Boris/status/1315679491382009859/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 528,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 931,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1450,
+							"h": 1125,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1315679485153378300,
+					"id_str": "1315679485153378306",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/EkI7hV7WAAIa40R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkI7hV7WAAIa40R.jpg",
+					"url": "https://t.co/b0vTIERGUl",
+					"display_url": "pic.twitter.com/b0vTIERGUl",
+					"expanded_url": "https://twitter.com/Boris/status/1315679491382009859/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 868,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 492,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1180,
+							"h": 1632,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17463,
+			"id_str": "17463",
+			"name": "Boris Veldhuijzen van Zanten",
+			"screen_name": "Boris",
+			"location": "Amsterdam, The Netherlands",
+			"description": "TNW founder & CEO. Only 47% of what I say here is true or serious. ❤️ #TNWLife. Also @Boris on Instagram 📸",
+			"url": "https://t.co/cYs8oy8tk2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cYs8oy8tk2",
+							"expanded_url": "https://thenextweb.com",
+							"display_url": "thenextweb.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36599,
+			"friends_count": 1061,
+			"listed_count": 2010,
+			"created_at": "Thu Nov 23 08:41:34 +0000 2006",
+			"favourites_count": 4701,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 48199,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/935907447188983808/7lKigQQU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/935907447188983808/7lKigQQU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17463/1583484749",
+			"profile_link_color": "C70000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "614F6E",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 45,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Dear @IMDb, in The Netherlands we don’t translate movie titles. So for us it is just “2001: a space odyssey” and nobody will know what THE HELL you’re talking about with these translated titles.\n\n“De uitroeier”, “Terug naar de toekomst”?! This is madness!\n\nRetweet if you agree. https://t.co/b0vTIERGUl"
+	},
+	{
 		"created_at": "Mon Oct 12 09:36:44 +0000 2020",
 		"id": 1315587195445670000,
 		"id_str": "1315587195445669888",
