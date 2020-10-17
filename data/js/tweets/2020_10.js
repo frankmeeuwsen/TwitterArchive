@@ -1,6 +1,306 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sat Oct 17 06:56:14 +0000 2020",
+		"id": 1317313459764146200,
+		"id_str": "1317358742569189376",
+		"full_text": "What Happens When a Musician Plays Stevie Ray Vaughan’s \"Pride and Joy\" on a $25 Kids’ Guitar at Walmart \n\nhttps://t.co/XXKofPg3fV https://t.co/dOvj5jML5O",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XXKofPg3fV",
+					"expanded_url": "https://www.openculture.com/?p=1045830",
+					"display_url": "openculture.com/?p=1045830",
+					"indices": [
+						107,
+						130
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1317313447701270500,
+					"id_str": "1317313447701270530",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/EkgJmewUUAI96RL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkgJmewUUAI96RL.jpg",
+					"url": "https://t.co/dOvj5jML5O",
+					"display_url": "pic.twitter.com/dOvj5jML5O",
+					"expanded_url": "https://twitter.com/openculture/status/1317313459764146177/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 420,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 381,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 420,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1317313447701270500,
+					"id_str": "1317313447701270530",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/EkgJmewUUAI96RL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkgJmewUUAI96RL.jpg",
+					"url": "https://t.co/dOvj5jML5O",
+					"display_url": "pic.twitter.com/dOvj5jML5O",
+					"expanded_url": "https://twitter.com/openculture/status/1317313459764146177/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 420,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 381,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 420,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19826509,
+			"id_str": "19826509",
+			"name": "Open Culture",
+			"screen_name": "openculture",
+			"location": "Planet Claire",
+			"description": "We make the web a more intelligent place. A Thought-Provoking Blog. Free Courses. Free Audio Books & eBooks. And more.",
+			"url": "http://t.co/HVA1Vpy2Ba",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/HVA1Vpy2Ba",
+							"expanded_url": "http://www.openculture.com",
+							"display_url": "openculture.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 443306,
+			"friends_count": 1002,
+			"listed_count": 12458,
+			"created_at": "Sat Jan 31 19:01:34 +0000 2009",
+			"favourites_count": 763,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 79609,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "86ACB7",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/851645340830715904/jrs1gcNM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/851645340830715904/jrs1gcNM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19826509/1491930107",
+			"profile_link_color": "306885",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "F6F2E3",
+			"profile_text_color": "62625D",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 83,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What Happens When a Musician Plays Stevie Ray Vaughan’s \"Pride and Joy\" on a $25 Kids’ Guitar at Walmart \n\nhttps://t.co/XXKofPg3fV https://t.co/dOvj5jML5O"
+	},
+	{
+		"created_at": "Sat Oct 17 06:34:10 +0000 2020",
+		"id": 1317353190212444200,
+		"id_str": "1317353190212444161",
+		"full_text": "Dit weekend schrijf ik weer de nieuwe editie van mijn nieuwsbrief OPEN. Links, tips en leukigheid uit het indieweb, over nieuwsbrieven en bloggers. Abonneren is ❤️. Jouw Maandag Mailbox Momentje!\n\nhttps://t.co/jsWRkHM72V",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jsWRkHM72V",
+					"expanded_url": "https://diggingthedigital.com/nieuwsbrief/",
+					"display_url": "diggingthedigital.com/nieuwsbrief/",
+					"indices": [
+						197,
+						220
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8931,
+			"friends_count": 587,
+			"listed_count": 571,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6832,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62804,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Dit weekend schrijf ik weer de nieuwe editie van mijn nieuwsbrief OPEN. Links, tips en leukigheid uit het indieweb, over nieuwsbrieven en bloggers. Abonneren is ❤️. Jouw Maandag Mailbox Momentje!\n\nhttps://t.co/jsWRkHM72V"
+	},
+	{
 		"created_at": "Fri Oct 16 22:08:20 +0000 2020",
 		"id": 1317225892305948700,
 		"id_str": "1317225892305948674",
