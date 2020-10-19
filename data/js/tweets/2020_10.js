@@ -1,6 +1,323 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Mon Oct 19 17:57:21 +0000 2020",
+		"id": 1318249893417357300,
+		"id_str": "1318249893417357312",
+		"full_text": "Wat een fantastische beelden van de stad honderd jaar geleden. Hoe zou het over honderd jaar zijn? https://t.co/Nujr9cR9K5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Nujr9cR9K5",
+					"expanded_url": "https://twitter.com/duicnl/status/1318158251884765185",
+					"display_url": "twitter.com/duicnl/status/…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8931,
+			"friends_count": 589,
+			"listed_count": 571,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6846,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62825,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1318158251884765200,
+		"quoted_status_id_str": "1318158251884765185",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Nujr9cR9K5",
+			"expanded": "https://twitter.com/duicnl/status/1318158251884765185",
+			"display": "twitter.com/duicnl/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 19 11:53:12 +0000 2020",
+			"id": 1318158251884765200,
+			"id_str": "1318158251884765185",
+			"full_text": "Bijzondere videobeelden in kleur van Utrecht in 1917 https://t.co/mNMEvQwFMf via @duicnl https://t.co/L617EWlxrr",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				88
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "duicnl",
+						"name": "DUIC",
+						"id": 271337979,
+						"id_str": "271337979",
+						"indices": [
+							81,
+							88
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/mNMEvQwFMf",
+						"expanded_url": "https://www.duic.nl/algemeen/bijzondere-videobeelden-in-kleur-van-utrecht-in-1917/",
+						"display_url": "duic.nl/algemeen/bijzo…",
+						"indices": [
+							53,
+							76
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1318158231055831000,
+						"id_str": "1318158231055831041",
+						"indices": [
+							89,
+							112
+						],
+						"media_url": "http://pbs.twimg.com/media/EksJ7V_XEAET3ux.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EksJ7V_XEAET3ux.jpg",
+						"url": "https://t.co/L617EWlxrr",
+						"display_url": "pic.twitter.com/L617EWlxrr",
+						"expanded_url": "https://twitter.com/duicnl/status/1318158251884765185/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 901,
+								"h": 614,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 901,
+								"h": 614,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 463,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1318158231055831000,
+						"id_str": "1318158231055831041",
+						"indices": [
+							89,
+							112
+						],
+						"media_url": "http://pbs.twimg.com/media/EksJ7V_XEAET3ux.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EksJ7V_XEAET3ux.jpg",
+						"url": "https://t.co/L617EWlxrr",
+						"display_url": "pic.twitter.com/L617EWlxrr",
+						"expanded_url": "https://twitter.com/duicnl/status/1318158251884765185/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 901,
+								"h": 614,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 901,
+								"h": 614,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 463,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 271337979,
+				"id_str": "271337979",
+				"name": "DUIC",
+				"screen_name": "duicnl",
+				"location": "Utrecht",
+				"description": "De Utrechtse Internet Courant: een must voor iedere Utrechter. Tip? Mail naar redactie@duic.nl of bel 030 633 18 90",
+				"url": "http://t.co/3VvyV3p6RJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/3VvyV3p6RJ",
+								"expanded_url": "http://www.duic.nl",
+								"display_url": "duic.nl",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 19718,
+				"friends_count": 825,
+				"listed_count": 236,
+				"created_at": "Thu Mar 24 09:20:00 +0000 2011",
+				"favourites_count": 77,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 29747,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2259882751/DUIC_logo-square_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2259882751/DUIC_logo-square_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/271337979/1456841074",
+				"profile_link_color": "E2001A",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E0E0E0",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 22,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Wat een fantastische beelden van de stad honderd jaar geleden. Hoe zou het over honderd jaar zijn? https://t.co/Nujr9cR9K5"
+	},
+	{
 		"created_at": "Mon Oct 19 16:51:51 +0000 2020",
 		"id": 1318233410876461000,
 		"id_str": "1318233410876461056",
