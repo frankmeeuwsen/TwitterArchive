@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Tue Oct 20 16:51:48 +0000 2020",
+		"id": 1318595786326876200,
+		"id_str": "1318595786326876162",
+		"full_text": "@indieletters1 @substack @emanuelcinca @dr @mallorcatnews @dstuecken @danhulton @perryraskin @richard_chu @jacksonhong_ Thanks for the shout-out here on Twitter but why don't you link to the original post I made on Indiehacker or to my site?",
+		"truncated": false,
+		"display_text_range": [
+			120,
+			241
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "indieletters1",
+					"name": "Indie Letters 💌",
+					"id": 1223173078471127000,
+					"id_str": "1223173078471127040",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "substack",
+					"name": "substack",
+					"id": 125027291,
+					"id_str": "125027291",
+					"indices": [
+						15,
+						24
+					]
+				},
+				{
+					"screen_name": "emanuelcinca",
+					"name": "Emanuel Cinca",
+					"id": 43747248,
+					"id_str": "43747248",
+					"indices": [
+						25,
+						38
+					]
+				},
+				{
+					"screen_name": "dr",
+					"name": "Dan Rowden 👨🏻‍💻",
+					"id": 5264,
+					"id_str": "5264",
+					"indices": [
+						39,
+						42
+					]
+				},
+				{
+					"screen_name": "mallorcatnews",
+					"name": "💌 Mallorca Tech Newsletter",
+					"id": 956078795425009700,
+					"id_str": "956078795425009665",
+					"indices": [
+						43,
+						57
+					]
+				},
+				{
+					"screen_name": "dstuecken",
+					"name": "Dennis Stücken",
+					"id": 764738293347024900,
+					"id_str": "764738293347024896",
+					"indices": [
+						58,
+						68
+					]
+				},
+				{
+					"screen_name": "danhulton",
+					"name": "Dan \"Abolish\" Hulton",
+					"id": 7559022,
+					"id_str": "7559022",
+					"indices": [
+						69,
+						79
+					]
+				},
+				{
+					"screen_name": "perryraskin",
+					"name": "Perry Raskin",
+					"id": 707415461886091300,
+					"id_str": "707415461886091264",
+					"indices": [
+						80,
+						92
+					]
+				},
+				{
+					"screen_name": "richard_chu",
+					"name": "Richard Chu",
+					"id": 47734215,
+					"id_str": "47734215",
+					"indices": [
+						93,
+						105
+					]
+				},
+				{
+					"screen_name": "jacksonhong_",
+					"name": "Jackson",
+					"id": 1069865465755897900,
+					"id_str": "1069865465755897856",
+					"indices": [
+						106,
+						119
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1318552796157849600,
+		"in_reply_to_status_id_str": "1318552796157849601",
+		"in_reply_to_user_id": 1223173078471127000,
+		"in_reply_to_user_id_str": "1223173078471127040",
+		"in_reply_to_screen_name": "indieletters1",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8933,
+			"friends_count": 589,
+			"listed_count": 571,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6851,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62831,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@indieletters1 @substack @emanuelcinca @dr @mallorcatnews @dstuecken @danhulton @perryraskin @richard_chu @jacksonhong_ Thanks for the shout-out here on Twitter but why don't you link to the original post I made on Indiehacker or to my site?"
+	},
+	{
 		"created_at": "Tue Oct 20 13:19:24 +0000 2020",
 		"id": 1318542333613310000,
 		"id_str": "1318542333613309954",
