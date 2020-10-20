@@ -1,6 +1,251 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Tue Oct 20 17:24:27 +0000 2020",
+		"id": 1318604002666446800,
+		"id_str": "1318604002666446852",
+		"full_text": "Paté = spuitduif. https://t.co/6FaDydLKGS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6FaDydLKGS",
+					"expanded_url": "https://twitter.com/reinier/status/1318471320225669120",
+					"display_url": "twitter.com/reinier/status…",
+					"indices": [
+						18,
+						41
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8933,
+			"friends_count": 589,
+			"listed_count": 571,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6852,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62832,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1318471320225669000,
+		"quoted_status_id_str": "1318471320225669120",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6FaDydLKGS",
+			"expanded": "https://twitter.com/reinier/status/1318471320225669120",
+			"display": "twitter.com/reinier/status…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 20 08:37:13 +0000 2020",
+			"id": 1318471320225669000,
+			"id_str": "1318471320225669120",
+			"full_text": "Filet Americain = Smeerkoe https://t.co/JC4I8hlzO7",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				26
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/JC4I8hlzO7",
+						"expanded_url": "https://twitter.com/globalistaa/status/1318444219682508805",
+						"display_url": "twitter.com/globalistaa/st…",
+						"indices": [
+							27,
+							50
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 647393,
+				"id_str": "647393",
+				"name": "Reinier Ladan",
+				"screen_name": "Reinier",
+				"location": "The Netherlands",
+				"description": "English: @reinierladan\nFreelance product owner en designer: https://t.co/iBqTp3ll0x.\nOp het moment: product manager van de 🦠 CoronaMelder app.",
+				"url": "https://t.co/Jtp8kUwmHV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Jtp8kUwmHV",
+								"expanded_url": "https://reinierladan.nl",
+								"display_url": "reinierladan.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/iBqTp3ll0x",
+								"expanded_url": "http://reinierladan.nl",
+								"display_url": "reinierladan.nl",
+								"indices": [
+									60,
+									83
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3102,
+				"friends_count": 1320,
+				"listed_count": 153,
+				"created_at": "Tue Jan 16 16:59:15 +0000 2007",
+				"favourites_count": 21789,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 41409,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1210661337640132609/MM0rtcSU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210661337640132609/MM0rtcSU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/647393/1487759229",
+				"profile_link_color": "0393D6",
+				"profile_sidebar_border_color": "5ED4DC",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1318444219682508800,
+			"quoted_status_id_str": "1318444219682508805",
+			"quoted_status_permalink": {
+				"url": "https://t.co/JC4I8hlzO7",
+				"expanded": "https://twitter.com/globalistaa/status/1318444219682508805",
+				"display": "twitter.com/globalistaa/st…"
+			},
+			"retweet_count": 0,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Paté = spuitduif. https://t.co/6FaDydLKGS"
+	},
+	{
 		"created_at": "Tue Oct 20 16:51:48 +0000 2020",
 		"id": 1318595786326876200,
 		"id_str": "1318595786326876162",
@@ -46,7 +291,7 @@ Grailbird.data.tweets_2020_10 =
 				},
 				{
 					"screen_name": "dr",
-					"name": "Dan Rowden 👨🏻‍💻",
+					"name": "Dan Rowden 👨🏻💻",
 					"id": 5264,
 					"id_str": "5264",
 					"indices": [
