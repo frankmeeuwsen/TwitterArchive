@@ -1,6 +1,354 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Wed Oct 21 20:21:07 +0000 2020",
+		"id": 1319010850208927700,
+		"id_str": "1319010850208927752",
+		"full_text": "Programmeren vanuit een tweet. Want waarom ook niet. Ik hou hier van. Ik snap er niks van, maar ❤️ https://t.co/Ek8mvwxL68",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ek8mvwxL68",
+					"expanded_url": "https://twitter.com/appleiibot/status/1319004260139294721",
+					"display_url": "twitter.com/appleiibot/sta…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8933,
+			"friends_count": 594,
+			"listed_count": 571,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6857,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62846,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1319004260139294700,
+		"quoted_status_id_str": "1319004260139294721",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Ek8mvwxL68",
+			"expanded": "https://twitter.com/appleiibot/status/1319004260139294721",
+			"display": "twitter.com/appleiibot/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 21 19:54:56 +0000 2020",
+			"id": 1319004260139294700,
+			"id_str": "1319004260139294721",
+			"full_text": "@deater78 https://t.co/ViH0tSu0dR",
+			"truncated": false,
+			"display_text_range": [
+				9,
+				9
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "deater78",
+						"name": "deater",
+						"id": 1011398737443336200,
+						"id_str": "1011398737443336199",
+						"indices": [
+							0,
+							9
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1319004230930165800,
+						"id_str": "1319004230930165760",
+						"indices": [
+							10,
+							33
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1319004230930165760/pu/img/Ycqgc83iHEPj3rdf.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1319004230930165760/pu/img/Ycqgc83iHEPj3rdf.jpg",
+						"url": "https://t.co/ViH0tSu0dR",
+						"display_url": "pic.twitter.com/ViH0tSu0dR",
+						"expanded_url": "https://twitter.com/AppleIIBot/status/1319004260139294721/video/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 850,
+								"h": 630,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 504,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 850,
+								"h": 630,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1319004230930165800,
+						"id_str": "1319004230930165760",
+						"indices": [
+							10,
+							33
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1319004230930165760/pu/img/Ycqgc83iHEPj3rdf.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1319004230930165760/pu/img/Ycqgc83iHEPj3rdf.jpg",
+						"url": "https://t.co/ViH0tSu0dR",
+						"display_url": "pic.twitter.com/ViH0tSu0dR",
+						"expanded_url": "https://twitter.com/AppleIIBot/status/1319004260139294721/video/1",
+						"type": "video",
+						"sizes": {
+							"medium": {
+								"w": 850,
+								"h": 630,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 504,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 850,
+								"h": 630,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								85,
+								63
+							],
+							"duration_millis": 30000,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1319004230930165760/pu/vid/484x360/EBHS49Mkyfec5Ekj.mp4?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1319004230930165760/pu/vid/364x270/SekK0YQy2egRbKX5.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1319004230930165760/pu/pl/E8rUe-zNkD8DkCu7.m3u8?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1319004230930165760/pu/vid/850x630/BBa2vKpqNauB2im7.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "",
+			"in_reply_to_status_id": 1319003658353135600,
+			"in_reply_to_status_id_str": "1319003658353135616",
+			"in_reply_to_user_id": 1011398737443336200,
+			"in_reply_to_user_id_str": "1011398737443336199",
+			"in_reply_to_screen_name": "deater78",
+			"user": {
+				"id": 1309367439449227300,
+				"id_str": "1309367439449227264",
+				"name": "Apple II BASIC bot",
+				"screen_name": "AppleIIBot",
+				"location": "Cupertino?",
+				"description": "Run your Applesoft BASIC code on an Apple II in Twitter. By @KaySavetz. (No sound yet.) Documentation at https://t.co/my7MyKdiXM",
+				"url": "https://t.co/my7MyKdiXM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/my7MyKdiXM",
+								"expanded_url": "https://atari8bitbot.com/apple-ii-bot/",
+								"display_url": "atari8bitbot.com/apple-ii-bot/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/my7MyKdiXM",
+								"expanded_url": "https://atari8bitbot.com/apple-ii-bot/",
+								"display_url": "atari8bitbot.com/apple-ii-bot/",
+								"indices": [
+									105,
+									128
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1147,
+				"friends_count": 8,
+				"listed_count": 29,
+				"created_at": "Fri Sep 25 05:42:12 +0000 2020",
+				"favourites_count": 238,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 614,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1309367721662902272/oDlDiqrv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1309367721662902272/oDlDiqrv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1309367439449227264/1601686126",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 17,
+			"favorite_count": 62,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Programmeren vanuit een tweet. Want waarom ook niet. Ik hou hier van. Ik snap er niks van, maar ❤️ https://t.co/Ek8mvwxL68"
+	},
+	{
 		"created_at": "Wed Oct 21 19:37:26 +0000 2020",
 		"id": 1318999856787169300,
 		"id_str": "1318999856787169280",
