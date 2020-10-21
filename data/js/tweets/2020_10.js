@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Wed Oct 21 17:59:21 +0000 2020",
+		"id": 1318899190022418400,
+		"id_str": "1318975174419599360",
+		"full_text": "The record-breaking AOC Twitch stream is the future of politics: not just tech savviness but also fandom. Fandom is the best lense to understand modern cult of personality, how ideas spread and go viral, and grassroots recruiting.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			230
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 325966297,
+			"id_str": "325966297",
+			"name": "Patricia Hernandez",
+			"screen_name": "xpatriciah",
+			"location": "New York, NY",
+			"description": "malcriada // senior editor @ Polygon",
+			"url": "https://t.co/sXuSUzz3mG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sXuSUzz3mG",
+							"expanded_url": "http://polygon.com",
+							"display_url": "polygon.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23109,
+			"friends_count": 3172,
+			"listed_count": 461,
+			"created_at": "Wed Jun 29 04:41:17 +0000 2011",
+			"favourites_count": 53234,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 102067,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1252772670862745604/p4xF2MYH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1252772670862745604/p4xF2MYH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/325966297/1401326105",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 53,
+		"favorite_count": 421,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "The record-breaking AOC Twitch stream is the future of politics: not just tech savviness but also fandom. Fandom is the best lense to understand modern cult of personality, how ideas spread and go viral, and grassroots recruiting."
+	},
+	{
 		"created_at": "Wed Oct 21 12:17:31 +0000 2020",
 		"id": 1318889147596243000,
 		"id_str": "1318889147596242946",
