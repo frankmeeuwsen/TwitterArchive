@@ -1,6 +1,345 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Thu Oct 22 10:42:41 +0000 2020",
+		"id": 1319227670312484900,
+		"id_str": "1319227670312484866",
+		"full_text": "Vandaag 30 jaar geleden. De allereerste Pearl Jam liveshow. Toen nog als Mookie Blaylock. https://t.co/AOJhq5CObD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AOJhq5CObD",
+					"expanded_url": "https://twitter.com/PearlJamOnLine/status/1319220117608300546",
+					"display_url": "twitter.com/PearlJamOnLine…",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8932,
+			"friends_count": 594,
+			"listed_count": 571,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6858,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62847,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1319220117608300500,
+		"quoted_status_id_str": "1319220117608300546",
+		"quoted_status_permalink": {
+			"url": "https://t.co/AOJhq5CObD",
+			"expanded": "https://twitter.com/PearlJamOnLine/status/1319220117608300546",
+			"display": "twitter.com/PearlJamOnLine…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 22 10:12:40 +0000 2020",
+			"id": 1319220117608300500,
+			"id_str": "1319220117608300546",
+			"full_text": "#TBT 10/22/1990\n1st #PearlJam show\n \nPhoto by @KarenMasonBlair\n#MookieBlaylock @PearlJam https://t.co/ZhmRSNPJpN",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				88
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TBT",
+						"indices": [
+							0,
+							4
+						]
+					},
+					{
+						"text": "PearlJam",
+						"indices": [
+							20,
+							29
+						]
+					},
+					{
+						"text": "MookieBlaylock",
+						"indices": [
+							63,
+							78
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "karenmasonblair",
+						"name": "KarenMasonBlair",
+						"id": 4889854583,
+						"id_str": "4889854583",
+						"indices": [
+							46,
+							62
+						]
+					},
+					{
+						"screen_name": "PearlJam",
+						"name": "Pearl Jam",
+						"id": 15155074,
+						"id_str": "15155074",
+						"indices": [
+							79,
+							88
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1319220112965226500,
+						"id_str": "1319220112965226497",
+						"indices": [
+							89,
+							112
+						],
+						"media_url": "http://pbs.twimg.com/media/Ek7PtAXX0AEwBZz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ek7PtAXX0AEwBZz.jpg",
+						"url": "https://t.co/ZhmRSNPJpN",
+						"display_url": "pic.twitter.com/ZhmRSNPJpN",
+						"expanded_url": "https://twitter.com/PearlJamOnLine/status/1319220117608300546/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 784,
+								"h": 980,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 784,
+								"h": 980,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1319220112965226500,
+						"id_str": "1319220112965226497",
+						"indices": [
+							89,
+							112
+						],
+						"media_url": "http://pbs.twimg.com/media/Ek7PtAXX0AEwBZz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ek7PtAXX0AEwBZz.jpg",
+						"url": "https://t.co/ZhmRSNPJpN",
+						"display_url": "pic.twitter.com/ZhmRSNPJpN",
+						"expanded_url": "https://twitter.com/PearlJamOnLine/status/1319220117608300546/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 784,
+								"h": 980,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 784,
+								"h": 980,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 27473819,
+				"id_str": "27473819",
+				"name": "PearlJamOnline.it",
+				"screen_name": "PearlJamOnLine",
+				"location": "Reggio Emilia, Italy",
+				"description": "🇮🇹 Pearl Jam italian fansite since 2001. Run by fans, for fans. Follow the strangest tribe...",
+				"url": "https://t.co/LF6GzIY8rj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/LF6GzIY8rj",
+								"expanded_url": "http://pearljamonline.it",
+								"display_url": "pearljamonline.it",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 41338,
+				"friends_count": 2408,
+				"listed_count": 417,
+				"created_at": "Sun Mar 29 18:24:06 +0000 2009",
+				"favourites_count": 5601,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 22477,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "17160F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/976448147919646721/HxYSlD2O_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/976448147919646721/HxYSlD2O_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/27473819/1584715463",
+				"profile_link_color": "9D582E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EBE79F",
+				"profile_text_color": "0A080A",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 48,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Vandaag 30 jaar geleden. De allereerste Pearl Jam liveshow. Toen nog als Mookie Blaylock. https://t.co/AOJhq5CObD"
+	},
+	{
 		"created_at": "Wed Oct 21 20:21:07 +0000 2020",
 		"id": 1319010850208927700,
 		"id_str": "1319010850208927752",
