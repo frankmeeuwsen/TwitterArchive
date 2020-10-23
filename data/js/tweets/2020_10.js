@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Fri Oct 23 05:36:05 +0000 2020",
+		"id": 1319414799898296300,
+		"id_str": "1319512900269182977",
+		"full_text": "Incredible map of one of the most interesting cultural complex in history. https://t.co/5KfQeXVY1g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1319414694906482700,
+					"id_str": "1319414694906482689",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/Ek-ArKlU0AERqOo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ek-ArKlU0AERqOo.jpg",
+					"url": "https://t.co/5KfQeXVY1g",
+					"display_url": "pic.twitter.com/5KfQeXVY1g",
+					"expanded_url": "https://twitter.com/trekonomics/status/1319414799898296321/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 864,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 506,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 287,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1319414694906482700,
+					"id_str": "1319414694906482689",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/Ek-ArKlU0AERqOo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ek-ArKlU0AERqOo.jpg",
+					"url": "https://t.co/5KfQeXVY1g",
+					"display_url": "pic.twitter.com/5KfQeXVY1g",
+					"expanded_url": "https://twitter.com/trekonomics/status/1319414799898296321/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 864,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 506,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 287,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3240396234,
+			"id_str": "3240396234",
+			"name": "manu YES ON CA PROP 15 🖖",
+			"screen_name": "trekonomics",
+			"location": "BUR | CDG | ITO",
+			"description": "TREKONOMICS author Manu Saadia | 'wrote the book on this subject' - Krugman | unevenly distributed futures | some geology | 🇫🇷\n\n\nA novel is coming soon\n\n_____",
+			"url": "https://t.co/3ryUz9HRJV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3ryUz9HRJV",
+							"expanded_url": "http://a.co/d/j0rnpK3",
+							"display_url": "a.co/d/j0rnpK3",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16396,
+			"friends_count": 5549,
+			"listed_count": 326,
+			"created_at": "Tue Jun 09 04:45:53 +0000 2015",
+			"favourites_count": 322121,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 549,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1312719901904125952/_9_rbwze_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1312719901904125952/_9_rbwze_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3240396234/1531802160",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 43,
+		"favorite_count": 268,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Incredible map of one of the most interesting cultural complex in history. https://t.co/5KfQeXVY1g"
+	},
+	{
 		"created_at": "Thu Oct 22 19:21:59 +0000 2020",
 		"id": 1319329864806244400,
 		"id_str": "1319358355824062470",
