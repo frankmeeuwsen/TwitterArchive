@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sun Oct 25 20:52:00 +0000 2020",
+		"id": 1320457906022699000,
+		"id_str": "1320468173272059906",
+		"full_text": "Friend sent me this, and I'm *dying*. https://t.co/46hT00va08",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1320457879149826000,
+					"id_str": "1320457879149826051",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/ElM1ceuXUAMIQcT.png",
+					"media_url_https": "https://pbs.twimg.com/media/ElM1ceuXUAMIQcT.png",
+					"url": "https://t.co/46hT00va08",
+					"display_url": "pic.twitter.com/46hT00va08",
+					"expanded_url": "https://twitter.com/joshua_eaton/status/1320457906022699014/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 646,
+							"h": 429,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 646,
+							"h": 429,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 646,
+							"h": 429,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1320457879149826000,
+					"id_str": "1320457879149826051",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/ElM1ceuXUAMIQcT.png",
+					"media_url_https": "https://pbs.twimg.com/media/ElM1ceuXUAMIQcT.png",
+					"url": "https://t.co/46hT00va08",
+					"display_url": "pic.twitter.com/46hT00va08",
+					"expanded_url": "https://twitter.com/joshua_eaton/status/1320457906022699014/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 646,
+							"h": 429,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 646,
+							"h": 429,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 646,
+							"h": 429,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 48075372,
+			"id_str": "48075372",
+			"name": "Joshua Eaton",
+			"screen_name": "joshua_eaton",
+			"location": "Washington, D.C.",
+			"description": "I write a newsletter on investigative reporting: https://t.co/1fO7Bv04Ec. FOIA nerd. Church mouse. Hayseed.\n\nTips: joshua.eaton@protonmail.com. DM for Signal/WhatsApp.",
+			"url": "https://t.co/m58gAJSMOy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/m58gAJSMOy",
+							"expanded_url": "https://www.joshuaeaton.net",
+							"display_url": "joshuaeaton.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/1fO7Bv04Ec",
+							"expanded_url": "http://bit.ly/2O8OGkt",
+							"display_url": "bit.ly/2O8OGkt",
+							"indices": [
+								49,
+								72
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9435,
+			"friends_count": 6799,
+			"listed_count": 441,
+			"created_at": "Wed Jun 17 19:09:57 +0000 2009",
+			"favourites_count": 40458,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 12233,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1275979952983363584/IiXNY7PH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1275979952983363584/IiXNY7PH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/48075372/1564405551",
+			"profile_link_color": "800000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 391,
+		"favorite_count": 2600,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Friend sent me this, and I'm *dying*. https://t.co/46hT00va08"
+	},
+	{
 		"created_at": "Sun Oct 25 20:01:48 +0000 2020",
 		"id": 1320455542054281200,
 		"id_str": "1320455542054281216",
