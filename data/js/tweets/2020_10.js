@@ -1,6 +1,566 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Tue Oct 27 18:33:13 +0000 2020",
+		"id": 1321158022652190700,
+		"id_str": "1321158022652190723",
+		"full_text": "Nooit bij stilgestaan. Mooie herkomst. https://t.co/Z1N648prw4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Z1N648prw4",
+					"expanded_url": "https://twitter.com/david_perell/status/1320962856150511616",
+					"display_url": "twitter.com/david_perell/s…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8926,
+			"friends_count": 595,
+			"listed_count": 571,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6885,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62878,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1320962856150511600,
+		"quoted_status_id_str": "1320962856150511616",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Z1N648prw4",
+			"expanded": "https://twitter.com/david_perell/status/1320962856150511616",
+			"display": "twitter.com/david_perell/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 27 05:37:41 +0000 2020",
+			"id": 1320962856150511600,
+			"id_str": "1320962856150511616",
+			"full_text": "I like the word \"freelancer.\"\n\nIt literally translates to \"a sword for hire.\"  Originally, it referred to medieval mercenaries who fought for whichever country paid them the most.\n\nToday, the sword is a good metaphor for the sharp specialization that defines a freelancer's work.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 240049622,
+				"id_str": "240049622",
+				"name": "David Perell",
+				"screen_name": "david_perell",
+				"location": "Austin, Texas",
+				"description": "\"The Writing Guy\" | I tweet about business, online learning, and Internet writing | My Podcast: https://t.co/1NhTBGV8JL | My writing school: https://t.co/bEFFy6tw2a",
+				"url": "https://t.co/wfo9dVx4mV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wfo9dVx4mV",
+								"expanded_url": "http://www.perell.com/",
+								"display_url": "perell.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/1NhTBGV8JL",
+								"expanded_url": "http://Perell.com/podcast",
+								"display_url": "Perell.com/podcast",
+								"indices": [
+									96,
+									119
+								]
+							},
+							{
+								"url": "https://t.co/bEFFy6tw2a",
+								"expanded_url": "http://writeofpassage.school",
+								"display_url": "writeofpassage.school",
+								"indices": [
+									141,
+									164
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 130158,
+				"friends_count": 802,
+				"listed_count": 2421,
+				"created_at": "Wed Jan 19 01:41:27 +0000 2011",
+				"favourites_count": 56735,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 23636,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1298333250079752195/9zaKSNHm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1298333250079752195/9zaKSNHm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/240049622/1543613054",
+				"profile_link_color": "129CE6",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 102,
+			"favorite_count": 760,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Nooit bij stilgestaan. Mooie herkomst. https://t.co/Z1N648prw4"
+	},
+	{
+		"created_at": "Tue Oct 27 18:28:28 +0000 2020",
+		"id": 1321156826688295000,
+		"id_str": "1321156826688294913",
+		"full_text": "@Bladendokter https://t.co/CrRYJuYX6M",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Bladendokter",
+					"name": "Carolien Vader",
+					"id": 21235240,
+					"id_str": "21235240",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1321156818966556700,
+					"id_str": "1321156818966556672",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ElWxIIcWMAAfUUo.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ElWxIIcWMAAfUUo.jpg",
+					"url": "https://t.co/CrRYJuYX6M",
+					"display_url": "pic.twitter.com/CrRYJuYX6M",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1321156826688294913/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1321156818966556700,
+					"id_str": "1321156818966556672",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ElWxIIcWMAAfUUo.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ElWxIIcWMAAfUUo.jpg",
+					"url": "https://t.co/CrRYJuYX6M",
+					"display_url": "pic.twitter.com/CrRYJuYX6M",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1321156826688294913/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							140
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/ElWxIIcWMAAfUUo.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1321156497435435000,
+		"in_reply_to_status_id_str": "1321156497435435009",
+		"in_reply_to_user_id": 816203,
+		"in_reply_to_user_id_str": "816203",
+		"in_reply_to_screen_name": "frankmeeuwsen",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8926,
+			"friends_count": 595,
+			"listed_count": 571,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6885,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62878,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@Bladendokter https://t.co/CrRYJuYX6M"
+	},
+	{
+		"created_at": "Tue Oct 27 18:27:09 +0000 2020",
+		"id": 1321156497435435000,
+		"id_str": "1321156497435435009",
+		"full_text": "@Bladendokter We hadden codenamen afgesproken Bladendokter! Dit escaleert nu al volledig uit de hand!",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Bladendokter",
+					"name": "Carolien Vader",
+					"id": 21235240,
+					"id_str": "21235240",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1321156040667312000,
+		"in_reply_to_status_id_str": "1321156040667312132",
+		"in_reply_to_user_id": 21235240,
+		"in_reply_to_user_id_str": "21235240",
+		"in_reply_to_screen_name": "Bladendokter",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8926,
+			"friends_count": 595,
+			"listed_count": 571,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6885,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62878,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@Bladendokter We hadden codenamen afgesproken Bladendokter! Dit escaleert nu al volledig uit de hand!"
+	},
+	{
 		"created_at": "Tue Oct 27 14:40:49 +0000 2020",
 		"id": 1321099540511051800,
 		"id_str": "1321099540511051776",
