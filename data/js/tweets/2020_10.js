@@ -1,6 +1,312 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Tue Oct 27 22:38:51 +0000 2020",
+		"id": 1321219839650836500,
+		"id_str": "1321219839650836487",
+		"full_text": "Tweet klopt. https://t.co/8rbzf6ZVAI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8rbzf6ZVAI",
+					"expanded_url": "https://twitter.com/morningbrew/status/1321201892639281155",
+					"display_url": "twitter.com/morningbrew/st…",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8925,
+			"friends_count": 595,
+			"listed_count": 571,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6884,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62880,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1321201892639281200,
+		"quoted_status_id_str": "1321201892639281155",
+		"quoted_status_permalink": {
+			"url": "https://t.co/8rbzf6ZVAI",
+			"expanded": "https://twitter.com/morningbrew/status/1321201892639281155",
+			"display": "twitter.com/morningbrew/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 27 21:27:32 +0000 2020",
+			"id": 1321201892639281200,
+			"id_str": "1321201892639281155",
+			"full_text": "https://t.co/qDA4mDzt6y",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				0
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1321201771801399300,
+						"id_str": "1321201771801399297",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/ElXaAuzW0AEQdhZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ElXaAuzW0AEQdhZ.jpg",
+						"url": "https://t.co/qDA4mDzt6y",
+						"display_url": "pic.twitter.com/qDA4mDzt6y",
+						"expanded_url": "https://twitter.com/MorningBrew/status/1321201892639281155/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 656,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1198,
+								"h": 1156,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1198,
+								"h": 1156,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1321201771801399300,
+						"id_str": "1321201771801399297",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/ElXaAuzW0AEQdhZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ElXaAuzW0AEQdhZ.jpg",
+						"url": "https://t.co/qDA4mDzt6y",
+						"display_url": "pic.twitter.com/qDA4mDzt6y",
+						"expanded_url": "https://twitter.com/MorningBrew/status/1321201892639281155/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 656,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1198,
+								"h": 1156,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1198,
+								"h": 1156,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3092541736,
+				"id_str": "3092541736",
+				"name": "Morning Brew ☕️",
+				"screen_name": "MorningBrew",
+				"location": "New York, NY",
+				"description": "The top business news from Wall Street to Silicon Valley, daily.\n\nLet us occupy some space in your inbox ➡️ https://t.co/W6uaYEtCQw\n\n#Brewcrew ☕️",
+				"url": "https://t.co/9jyOEXZ5wj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9jyOEXZ5wj",
+								"expanded_url": "http://morningbrew.com",
+								"display_url": "morningbrew.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/W6uaYEtCQw",
+								"expanded_url": "http://bit.ly/2wFk7eQ",
+								"display_url": "bit.ly/2wFk7eQ",
+								"indices": [
+									108,
+									131
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 90203,
+				"friends_count": 1494,
+				"listed_count": 733,
+				"created_at": "Mon Mar 16 18:43:25 +0000 2015",
+				"favourites_count": 9387,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 9769,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1177672352588599296/OLUd0Htt_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1177672352588599296/OLUd0Htt_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3092541736/1593629030",
+				"profile_link_color": "005AB6",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 30,
+			"favorite_count": 223,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Tweet klopt. https://t.co/8rbzf6ZVAI"
+	},
+	{
 		"created_at": "Tue Oct 27 21:00:20 +0000 2020",
 		"id": 1321195046532751400,
 		"id_str": "1321195046532751370",
