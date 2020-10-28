@@ -1,6 +1,193 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Wed Oct 28 06:41:27 +0000 2020",
+		"id": 1321341288541728800,
+		"id_str": "1321341288541728768",
+		"full_text": "@martijn @wijndelts @marcoderksen @JeroenMirck @stronk @cvodb @ianus Ik schreef er over op 14 juli 2006, maar vond het niet relevant genoeg om een account te maken destijds... Want we hadden toch al Hyves?! https://t.co/DLrNcteu14",
+		"truncated": false,
+		"display_text_range": [
+			69,
+			230
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "martijn",
+					"name": "Martijn #BlijfThuis 🏠 🚲",
+					"id": 1038,
+					"id_str": "1038",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "wijndelts",
+					"name": "Ward Wijndelts 😷",
+					"id": 47906555,
+					"id_str": "47906555",
+					"indices": [
+						9,
+						19
+					]
+				},
+				{
+					"screen_name": "marcoderksen",
+					"name": "Marco Derksen",
+					"id": 1252681,
+					"id_str": "1252681",
+					"indices": [
+						20,
+						33
+					]
+				},
+				{
+					"screen_name": "JeroenMirck",
+					"name": "Jeroen Mirck",
+					"id": 5567782,
+					"id_str": "5567782",
+					"indices": [
+						34,
+						46
+					]
+				},
+				{
+					"screen_name": "stronk",
+					"name": "Koen Smeets",
+					"id": 2933,
+					"id_str": "2933",
+					"indices": [
+						47,
+						54
+					]
+				},
+				{
+					"screen_name": "cvodb",
+					"name": "Caroline 🍜",
+					"id": 965,
+					"id_str": "965",
+					"indices": [
+						55,
+						61
+					]
+				},
+				{
+					"screen_name": "ianus",
+					"name": "!ianus keller",
+					"id": 1013,
+					"id_str": "1013",
+					"indices": [
+						62,
+						68
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DLrNcteu14",
+					"expanded_url": "https://web.archive.org/web/20060929174456/http://www.frank-ly.nl/twttr-oftewel-present-tense-blogging",
+					"display_url": "web.archive.org/web/2006092917…",
+					"indices": [
+						207,
+						230
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1321335991664283600,
+		"in_reply_to_status_id_str": "1321335991664283649",
+		"in_reply_to_user_id": 1038,
+		"in_reply_to_user_id_str": "1038",
+		"in_reply_to_screen_name": "martijn",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8925,
+			"friends_count": 596,
+			"listed_count": 571,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6885,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62881,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@martijn @wijndelts @marcoderksen @JeroenMirck @stronk @cvodb @ianus Ik schreef er over op 14 juli 2006, maar vond het niet relevant genoeg om een account te maken destijds... Want we hadden toch al Hyves?! https://t.co/DLrNcteu14"
+	},
+	{
 		"created_at": "Tue Oct 27 22:38:51 +0000 2020",
 		"id": 1321219839650836500,
 		"id_str": "1321219839650836487",
