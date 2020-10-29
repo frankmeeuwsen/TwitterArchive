@@ -1,6 +1,292 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Thu Oct 29 22:16:15 +0000 2020",
+		"id": 1321938926421053400,
+		"id_str": "1321938926421053440",
+		"full_text": "De start van een nieuwe goldrush. Deze keer voor de nieuwsbrieven? https://t.co/FxA20KQVjR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FxA20KQVjR",
+					"expanded_url": "https://twitter.com/sarafischer/status/1321905199091503104",
+					"display_url": "twitter.com/sarafischer/st…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8925,
+			"friends_count": 598,
+			"listed_count": 571,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6893,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62914,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1321905199091503000,
+		"quoted_status_id_str": "1321905199091503104",
+		"quoted_status_permalink": {
+			"url": "https://t.co/FxA20KQVjR",
+			"expanded": "https://twitter.com/sarafischer/status/1321905199091503104",
+			"display": "twitter.com/sarafischer/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 29 20:02:13 +0000 2020",
+			"id": 1321905199091503000,
+			"id_str": "1321905199091503104",
+			"full_text": "#breaking It's official ... @InsiderInc buys majority stake in @MorningBrew in all-cash deal\n\n— Deal values MB at ~$75m\n— @austin_rief @BUSlNESSBARISTA retain sizeable minority stake\n— MB expects $20m rev, $6m profit this year\nFull story on @axios: \nhttps://t.co/sbsck2FmVm",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				273
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "breaking",
+						"indices": [
+							0,
+							9
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "InsiderInc",
+						"name": "Insider Inc.",
+						"id": 875356180134207500,
+						"id_str": "875356180134207490",
+						"indices": [
+							28,
+							39
+						]
+					},
+					{
+						"screen_name": "MorningBrew",
+						"name": "Morning Brew ☕️",
+						"id": 3092541736,
+						"id_str": "3092541736",
+						"indices": [
+							63,
+							75
+						]
+					},
+					{
+						"screen_name": "austin_rief",
+						"name": "Austin Rief ☕️",
+						"id": 158610400,
+						"id_str": "158610400",
+						"indices": [
+							122,
+							134
+						]
+					},
+					{
+						"screen_name": "BUSlNESSBARISTA",
+						"name": "Alex Lieberman ☕️",
+						"id": 846417084192055300,
+						"id_str": "846417084192055296",
+						"indices": [
+							135,
+							151
+						]
+					},
+					{
+						"screen_name": "axios",
+						"name": "Axios",
+						"id": 800707492346925000,
+						"id_str": "800707492346925056",
+						"indices": [
+							241,
+							247
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/sbsck2FmVm",
+						"expanded_url": "https://www.axios.com/insider-inc-buys-majority-stake-morning-brew-e6ec0673-4354-4bc7-9feb-e0b149508c9a.html",
+						"display_url": "axios.com/insider-inc-bu…",
+						"indices": [
+							250,
+							273
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 205965649,
+				"id_str": "205965649",
+				"name": "Sara Fischer",
+				"screen_name": "sarafischer",
+				"location": "Washington, DC",
+				"description": "Media Reporter @Axios (sara@axios.com)",
+				"url": "https://t.co/FtBY32P9aG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FtBY32P9aG",
+								"expanded_url": "https://www.axios.com/authors/sara",
+								"display_url": "axios.com/authors/sara",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 24647,
+				"friends_count": 7653,
+				"listed_count": 790,
+				"created_at": "Fri Oct 22 00:24:10 +0000 2010",
+				"favourites_count": 29456,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 803,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/979802137197731841/6OeIbAga_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/979802137197731841/6OeIbAga_normal.jpg",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 49,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "De start van een nieuwe goldrush. Deze keer voor de nieuwsbrieven? https://t.co/FxA20KQVjR"
+	},
+	{
 		"created_at": "Thu Oct 29 21:19:17 +0000 2020",
 		"id": 1321924591351189500,
 		"id_str": "1321924591351189506",
