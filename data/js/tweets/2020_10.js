@@ -1,6 +1,263 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Thu Oct 29 16:05:03 +0000 2020",
+		"id": 1321845512908275700,
+		"id_str": "1321845512908275712",
+		"full_text": "Mooi! https://t.co/wf70V4qPfi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			5
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wf70V4qPfi",
+					"expanded_url": "https://twitter.com/biellacoleman/status/1321841507675025415",
+					"display_url": "twitter.com/biellacoleman/…",
+					"indices": [
+						6,
+						29
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8925,
+			"friends_count": 597,
+			"listed_count": 571,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6889,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62906,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1321841507675025400,
+		"quoted_status_id_str": "1321841507675025415",
+		"quoted_status_permalink": {
+			"url": "https://t.co/wf70V4qPfi",
+			"expanded": "https://twitter.com/biellacoleman/status/1321841507675025415",
+			"display": "twitter.com/biellacoleman/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 29 15:49:08 +0000 2020",
+			"id": 1321841507675025400,
+			"id_str": "1321841507675025415",
+			"full_text": "Today apparently is #InternetDay. Here are a few video gems to commemorate (one day they will make their way onto @HackCurio) We will start with David Bowie who in the 1990s had a more sophisticated understanding of the internet compared to most https://t.co/dp5TdxgF1D",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				269
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "InternetDay",
+						"indices": [
+							20,
+							32
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "HackCurio",
+						"name": "Hack_Curio",
+						"id": 1035204166191390700,
+						"id_str": "1035204166191390720",
+						"indices": [
+							114,
+							124
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/dp5TdxgF1D",
+						"expanded_url": "https://vimeo.com/369705382/ccd96ba174",
+						"display_url": "vimeo.com/369705382/ccd9…",
+						"indices": [
+							246,
+							269
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 31030273,
+				"id_str": "31030273",
+				"name": "Gabriella “Bielzabub” Coleman",
+				"screen_name": "BiellaColeman",
+				"location": "Montréal, Québec",
+				"description": "Anthropologist and Wolfe Chair at @McGillU, author of two books on hackers. Curator @HackCurio (https://t.co/r8vKq7naye) Board member of @torproject",
+				"url": "https://t.co/quRjgMzIlS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/quRjgMzIlS",
+								"expanded_url": "http://gabriellacoleman.org/",
+								"display_url": "gabriellacoleman.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/r8vKq7naye",
+								"expanded_url": "http://hackcur.io",
+								"display_url": "hackcur.io",
+								"indices": [
+									96,
+									119
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 49637,
+				"friends_count": 2760,
+				"listed_count": 2206,
+				"created_at": "Tue Apr 14 02:14:23 +0000 2009",
+				"favourites_count": 30580,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 22710,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DBE9ED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1313828105392476162/dN9HMnU8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1313828105392476162/dN9HMnU8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/31030273/1564701943",
+				"profile_link_color": "CC3366",
+				"profile_sidebar_border_color": "DBE9ED",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Mooi! https://t.co/wf70V4qPfi"
+	},
+	{
 		"created_at": "Thu Oct 29 14:59:20 +0000 2020",
 		"id": 1321828973907759000,
 		"id_str": "1321828973907759105",
