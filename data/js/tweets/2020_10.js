@@ -1,6 +1,443 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Thu Oct 29 17:04:56 +0000 2020",
+		"id": 1321860583927459800,
+		"id_str": "1321860583927459840",
+		"full_text": "&lt;marquee&gt;\n  &lt;blink&gt;\n    Happy Birthday!\n  &lt;/blink&gt;\n&lt;/marquee&gt; https://t.co/lm6OmL9H6o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lm6OmL9H6o",
+					"expanded_url": "https://twitter.com/webdesignmuseum/status/1321855616349052929",
+					"display_url": "twitter.com/webdesignmuseu…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8925,
+			"friends_count": 598,
+			"listed_count": 571,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6891,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62909,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1321855616349053000,
+		"quoted_status_id_str": "1321855616349052929",
+		"quoted_status_permalink": {
+			"url": "https://t.co/lm6OmL9H6o",
+			"expanded": "https://twitter.com/webdesignmuseum/status/1321855616349052929",
+			"display": "twitter.com/webdesignmuseu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 29 16:45:12 +0000 2020",
+			"id": 1321855616349053000,
+			"id_str": "1321855616349052929",
+			"full_text": "Happy 29th Birthday HTML tags! On October 29, 1991, the internet pioneer, Tim Berners-Lee, published a document entitled HTML Tags. The document contained a description of the first 18 HTML tags. https://t.co/lojaqYW5xw\n#HTML #InternetHistory https://t.co/QFVAsFLR7z",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				242
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "HTML",
+						"indices": [
+							220,
+							225
+						]
+					},
+					{
+						"text": "InternetHistory",
+						"indices": [
+							226,
+							242
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/lojaqYW5xw",
+						"expanded_url": "https://www.webdesignmuseum.org/web-design-history/tim-berners-lee-published-a-document-called-html-tags-1991",
+						"display_url": "webdesignmuseum.org/web-design-his…",
+						"indices": [
+							196,
+							219
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1321855614675538000,
+						"id_str": "1321855614675537922",
+						"indices": [
+							243,
+							266
+						],
+						"media_url": "http://pbs.twimg.com/media/ElgsrZUXUAI3th6.png",
+						"media_url_https": "https://pbs.twimg.com/media/ElgsrZUXUAI3th6.png",
+						"url": "https://t.co/QFVAsFLR7z",
+						"display_url": "pic.twitter.com/QFVAsFLR7z",
+						"expanded_url": "https://twitter.com/WebDesignMuseum/status/1321855616349052929/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 830,
+								"h": 690,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 830,
+								"h": 690,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 565,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1321855614675538000,
+						"id_str": "1321855614675537922",
+						"indices": [
+							243,
+							266
+						],
+						"media_url": "http://pbs.twimg.com/media/ElgsrZUXUAI3th6.png",
+						"media_url_https": "https://pbs.twimg.com/media/ElgsrZUXUAI3th6.png",
+						"url": "https://t.co/QFVAsFLR7z",
+						"display_url": "pic.twitter.com/QFVAsFLR7z",
+						"expanded_url": "https://twitter.com/WebDesignMuseum/status/1321855616349052929/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 830,
+								"h": 690,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 830,
+								"h": 690,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 565,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 738019344047845400,
+				"id_str": "738019344047845377",
+				"name": "Web Design Museum",
+				"screen_name": "WebDesignMuseum",
+				"location": "",
+				"description": "Web Design Museum exhibits over 1,600 carefully selected and sorted web sites that show web design trends between the years 1991 and 2006.",
+				"url": "https://t.co/vyFBftWgRB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vyFBftWgRB",
+								"expanded_url": "http://www.webdesignmuseum.org",
+								"display_url": "webdesignmuseum.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5019,
+				"friends_count": 21,
+				"listed_count": 73,
+				"created_at": "Wed Jun 01 14:48:18 +0000 2016",
+				"favourites_count": 17009,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2025,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/860928105975885828/8XLNUZIa_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/860928105975885828/8XLNUZIa_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/738019344047845377/1541958150",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "&lt;marquee&gt;\n  &lt;blink&gt;\n    Happy Birthday!\n  &lt;/blink&gt;\n&lt;/marquee&gt; https://t.co/lm6OmL9H6o"
+	},
+	{
+		"created_at": "Thu Oct 29 16:59:59 +0000 2020",
+		"id": 1321859335929188400,
+		"id_str": "1321859335929188352",
+		"full_text": "@mikeverbruggen Ik merk na 1 dag BusyCal weer wat me stoort. De minical in de menubar laat altijd een maandweergave zien die ik niet kan veranderen. En ik kan niet vanuit de minical klikken naar grotere weergave.",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			212
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mikeverbruggen",
+					"name": "Mike Verbruggen",
+					"id": 11496552,
+					"id_str": "11496552",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1321845276932538400,
+		"in_reply_to_status_id_str": "1321845276932538368",
+		"in_reply_to_user_id": 11496552,
+		"in_reply_to_user_id_str": "11496552",
+		"in_reply_to_screen_name": "mikeverbruggen",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8925,
+			"friends_count": 598,
+			"listed_count": 571,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6891,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62909,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@mikeverbruggen Ik merk na 1 dag BusyCal weer wat me stoort. De minical in de menubar laat altijd een maandweergave zien die ik niet kan veranderen. En ik kan niet vanuit de minical klikken naar grotere weergave."
+	},
+	{
 		"created_at": "Thu Oct 29 16:05:03 +0000 2020",
 		"id": 1321845512908275700,
 		"id_str": "1321845512908275712",
