@@ -1,6 +1,749 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Fri Oct 30 17:11:22 +0000 2020",
+		"id": 1322223841473683500,
+		"id_str": "1322224587761856513",
+		"full_text": "how it started                how it ends\n\n#KINK1500 https://t.co/Yy9E4tZgr6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KINK1500",
+					"indices": [
+						43,
+						52
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1322223806451196000,
+					"id_str": "1322223806451195907",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/Ell7i-kWoAMQzCc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ell7i-kWoAMQzCc.jpg",
+					"url": "https://t.co/Yy9E4tZgr6",
+					"display_url": "pic.twitter.com/Yy9E4tZgr6",
+					"expanded_url": "https://twitter.com/JimVorwald/status/1322223841473683464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1322223806451196000,
+					"id_str": "1322223806451195907",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/Ell7i-kWoAMQzCc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ell7i-kWoAMQzCc.jpg",
+					"url": "https://t.co/Yy9E4tZgr6",
+					"display_url": "pic.twitter.com/Yy9E4tZgr6",
+					"expanded_url": "https://twitter.com/JimVorwald/status/1322223841473683464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1322223818056835000,
+					"id_str": "1322223818056835072",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/Ell7jpzWoAA7Gnd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ell7jpzWoAA7Gnd.jpg",
+					"url": "https://t.co/Yy9E4tZgr6",
+					"display_url": "pic.twitter.com/Yy9E4tZgr6",
+					"expanded_url": "https://twitter.com/JimVorwald/status/1322223841473683464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15506149,
+			"id_str": "15506149",
+			"name": "Jim Vorwald",
+			"screen_name": "JimVorwald",
+			"location": "Hoogvliet",
+			"description": "Radio DJ, Podcaster & Presentator/Elke vrijdagavond 21-23 uur op KINK/Gaming content & podcasts bij GamerGeeks/Doet social media dingen bij Game Drive/",
+			"url": "https://t.co/GBASb4NqxZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GBASb4NqxZ",
+							"expanded_url": "http://www.gamergeeks.nl",
+							"display_url": "gamergeeks.nl",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1603,
+			"friends_count": 133,
+			"listed_count": 36,
+			"created_at": "Sun Jul 20 21:38:59 +0000 2008",
+			"favourites_count": 978,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32840,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1282619285400170497/fC2WMngR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1282619285400170497/fC2WMngR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15506149/1438633262",
+			"profile_link_color": "008015",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "how it started                how it ends\n\n#KINK1500 https://t.co/Yy9E4tZgr6"
+	},
+	{
+		"created_at": "Fri Oct 30 16:58:54 +0000 2020",
+		"id": 1322221451538321400,
+		"id_str": "1322221451538321409",
+		"full_text": "Vrouwlief @helena is groot Muse fan. Ik ben groot Pearl Jam fan (joh?). Dus de top van de #kink1500 is altijd goed.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "kink1500",
+					"indices": [
+						90,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "helena",
+					"name": "Helena Price Hambrecht",
+					"id": 19699682,
+					"id_str": "19699682",
+					"indices": [
+						10,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8927,
+			"friends_count": 598,
+			"listed_count": 571,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6899,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62920,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "Vrouwlief @helena is groot Muse fan. Ik ben groot Pearl Jam fan (joh?). Dus de top van de #kink1500 is altijd goed."
+	},
+	{
+		"created_at": "Fri Oct 30 16:44:35 +0000 2020",
+		"id": 1322217850967335000,
+		"id_str": "1322217850967334914",
+		"full_text": "Sorry buren #kink1500",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "kink1500",
+					"indices": [
+						12,
+						21
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8927,
+			"friends_count": 598,
+			"listed_count": 571,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6899,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62920,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Sorry buren #kink1500"
+	},
+	{
+		"created_at": "Fri Oct 30 16:33:53 +0000 2020",
+		"id": 1322215156936560600,
+		"id_str": "1322215156936560641",
+		"full_text": "Nee maar serieus wat een topidee! Met de oudejaarsconference van @TimOphetBroek een top 10 er bij, aftellen naar 2021. Onze eigen Jools Hootnanny! #kink1500 https://t.co/36mnkLyRAl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "kink1500",
+					"indices": [
+						147,
+						156
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TimOphetBroek",
+					"name": "Tim Op het Broek",
+					"id": 49320577,
+					"id_str": "49320577",
+					"indices": [
+						65,
+						79
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/36mnkLyRAl",
+					"expanded_url": "https://twitter.com/Chellsview/status/1322214398056894465",
+					"display_url": "twitter.com/Chellsview/sta…",
+					"indices": [
+						157,
+						180
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8927,
+			"friends_count": 598,
+			"listed_count": 571,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6899,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62920,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1322214398056894500,
+		"quoted_status_id_str": "1322214398056894465",
+		"quoted_status_permalink": {
+			"url": "https://t.co/36mnkLyRAl",
+			"expanded": "https://twitter.com/Chellsview/status/1322214398056894465",
+			"display": "twitter.com/Chellsview/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 30 16:30:52 +0000 2020",
+			"id": 1322214398056894500,
+			"id_str": "1322214398056894465",
+			"full_text": "Ik krijg zo met het einde van de #kink1500 een beetje zo'n oud&amp;nieuw gevoel. Straks na de nummer 1 vuurwerk en champagne. Zou wel mooi zijn, dan is 2020 tenminste ook achter de rug @KINKpuntnl",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				196
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "kink1500",
+						"indices": [
+							33,
+							42
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "KINKpuntnl",
+						"name": "KINK",
+						"id": 36077942,
+						"id_str": "36077942",
+						"indices": [
+							185,
+							196
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17025344,
+				"id_str": "17025344",
+				"name": "Michella",
+				"screen_name": "Chellsview",
+				"location": "Rotterdam, Nederland",
+				"description": "Fotograaf / muziek&cultuur / nerd op hakken",
+				"url": "https://t.co/ljzUoOibkH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ljzUoOibkH",
+								"expanded_url": "http://www.foodaholics.nl",
+								"display_url": "foodaholics.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 596,
+				"friends_count": 535,
+				"listed_count": 28,
+				"created_at": "Tue Oct 28 18:14:53 +0000 2008",
+				"favourites_count": 10512,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 26339,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "383838",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/464055174869184513/yt0wVqdb_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/464055174869184513/yt0wVqdb_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17025344/1515596562",
+				"profile_link_color": "C71087",
+				"profile_sidebar_border_color": "383838",
+				"profile_sidebar_fill_color": "DC4F8E",
+				"profile_text_color": "383838",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "ea0a61fa0c646676",
+				"url": "https://api.twitter.com/1.1/geo/id/ea0a61fa0c646676.json",
+				"place_type": "city",
+				"name": "Rotterdam",
+				"full_name": "Rotterdam, Nederland",
+				"country_code": "NL",
+				"country": "Nederland",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								3.9418364,
+								51.8421131
+							],
+							[
+								4.6013785,
+								51.8421131
+							],
+							[
+								4.6013785,
+								52.0068016
+							],
+							[
+								3.9418364,
+								52.0068016
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Nee maar serieus wat een topidee! Met de oudejaarsconference van @TimOphetBroek een top 10 er bij, aftellen naar 2021. Onze eigen Jools Hootnanny! #kink1500 https://t.co/36mnkLyRAl"
+	},
+	{
 		"created_at": "Fri Oct 30 14:41:57 +0000 2020",
 		"id": 1322186985872724000,
 		"id_str": "1322186985872723969",
