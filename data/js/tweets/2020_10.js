@@ -1,6 +1,264 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sat Oct 31 18:30:02 +0000 2020",
+		"id": 1322606773648371700,
+		"id_str": "1322606773648371714",
+		"full_text": "Oh wat tof! Next: The Underground Garage van Little Steven syndiceren! https://t.co/T2vNQ5dZsY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/T2vNQ5dZsY",
+					"expanded_url": "https://twitter.com/michielveenstra/status/1322601322542206977",
+					"display_url": "twitter.com/michielveenstr…",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8931,
+			"friends_count": 599,
+			"listed_count": 571,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6903,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62927,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1322601322542207000,
+		"quoted_status_id_str": "1322601322542206977",
+		"quoted_status_permalink": {
+			"url": "https://t.co/T2vNQ5dZsY",
+			"expanded": "https://twitter.com/michielveenstra/status/1322601322542206977",
+			"display": "twitter.com/michielveenstr…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Oct 31 18:08:22 +0000 2020",
+			"id": 1322601322542207000,
+			"id_str": "1322601322542206977",
+			"full_text": "We hebben een nieuwe DJ op ⁦@KINKpuntnl⁩! Sympathieke gast.  https://t.co/TUS6wMUX7A",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				84
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "KINKpuntnl",
+						"name": "KINK",
+						"id": 36077942,
+						"id_str": "36077942",
+						"indices": [
+							28,
+							39
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/TUS6wMUX7A",
+						"expanded_url": "https://kink.nl/nieuws/een-nieuwe-dj-op-kink-bruce-springsteen",
+						"display_url": "kink.nl/nieuws/een-nie…",
+						"indices": [
+							61,
+							84
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14242065,
+				"id_str": "14242065",
+				"name": "Michiel Veenstra || ꓘINK",
+				"screen_name": "michielveenstra",
+				"location": "Hilversum, The Netherlands",
+				"description": "Elke ochtend op KINK /// Check https://t.co/az1vgYRp6R /// Boekingen: https://t.co/fvR4qkQHyR",
+				"url": "https://t.co/BWV68PZIee",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/BWV68PZIee",
+								"expanded_url": "http://www.michielveenstra.nl",
+								"display_url": "michielveenstra.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/az1vgYRp6R",
+								"expanded_url": "http://KINK.nl",
+								"display_url": "KINK.nl",
+								"indices": [
+									31,
+									54
+								]
+							},
+							{
+								"url": "https://t.co/fvR4qkQHyR",
+								"expanded_url": "http://deboeker.nl/",
+								"display_url": "deboeker.nl",
+								"indices": [
+									70,
+									93
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 151143,
+				"friends_count": 1116,
+				"listed_count": 1047,
+				"created_at": "Fri Mar 28 07:13:39 +0000 2008",
+				"favourites_count": 43673,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 79948,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1232309588764000256/uHvcLi5N_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1232309588764000256/uHvcLi5N_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14242065/1577455428",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 63,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Oh wat tof! Next: The Underground Garage van Little Steven syndiceren! https://t.co/T2vNQ5dZsY"
+	},
+	{
 		"created_at": "Sat Oct 31 15:01:35 +0000 2020",
 		"id": 1322554316591345700,
 		"id_str": "1322554316591345664",
