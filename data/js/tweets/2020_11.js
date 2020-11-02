@@ -1,6 +1,370 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Mon Nov 02 19:08:04 +0000 2020",
+		"id": 1323336659010834400,
+		"id_str": "1323341122102579201",
+		"full_text": "https://t.co/Yax7Qsq2pU https://t.co/ffBsAkJcxl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Yax7Qsq2pU",
+					"expanded_url": "https://twitter.com/ajplus/status/1323332339674603521",
+					"display_url": "twitter.com/ajplus/status/…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1323336648638300200,
+					"id_str": "1323336648638300160",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/El1vq6xXgAAg8xw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El1vq6xXgAAg8xw.jpg",
+					"url": "https://t.co/ffBsAkJcxl",
+					"display_url": "pic.twitter.com/ffBsAkJcxl",
+					"expanded_url": "https://twitter.com/DanHF/status/1323336659010834434/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 960,
+							"h": 662,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 662,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 469,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1323336648638300200,
+					"id_str": "1323336648638300160",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/El1vq6xXgAAg8xw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El1vq6xXgAAg8xw.jpg",
+					"url": "https://t.co/ffBsAkJcxl",
+					"display_url": "pic.twitter.com/ffBsAkJcxl",
+					"expanded_url": "https://twitter.com/DanHF/status/1323336659010834434/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 960,
+							"h": 662,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 662,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 469,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16191598,
+			"id_str": "16191598",
+			"name": "Dan Hassler-Forest",
+			"screen_name": "DanHF",
+			"location": "Amsterdam",
+			"description": "Speaker. Writer. Notorious Dansplainer. Janelle Monáe fandroid. SF scholar. Author of “the stupidest article ever published by the WaPo” (Fox News). He/him",
+			"url": "https://t.co/78JzpWskqa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/78JzpWskqa",
+							"expanded_url": "http://danhf.wordpress.com",
+							"display_url": "danhf.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4820,
+			"friends_count": 2771,
+			"listed_count": 127,
+			"created_at": "Mon Sep 08 20:31:50 +0000 2008",
+			"favourites_count": 26458,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 86188,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184163931792838664/_Pm9KubU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184163931792838664/_Pm9KubU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16191598/1574349403",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1323332339674603500,
+		"quoted_status_id_str": "1323332339674603521",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Yax7Qsq2pU",
+			"expanded": "https://twitter.com/ajplus/status/1323332339674603521",
+			"display": "twitter.com/ajplus/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Nov 02 18:33:10 +0000 2020",
+			"id": 1323332339674603500,
+			"id_str": "1323332339674603521",
+			"full_text": "A study warns 5 states are at \"high risk\" for election-related militia violence: GA, MI, OR, PA, WI.\n\nACLED researchers identify 80+ active mostly right-wing militias. They report a major shift among militias during the Trump presidency promoting a \"warped\" view of U.S. history. https://t.co/FeR9hueiUl",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1323331471969583000,
+						"id_str": "1323331471969583104",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/El1q9mLXgAAYvfE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/El1q9mLXgAAYvfE.jpg",
+						"url": "https://t.co/FeR9hueiUl",
+						"display_url": "pic.twitter.com/FeR9hueiUl",
+						"expanded_url": "https://twitter.com/ajplus/status/1323332339674603521/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 462,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 816,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1392,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1323331471969583000,
+						"id_str": "1323331471969583104",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/El1q9mLXgAAYvfE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/El1q9mLXgAAYvfE.jpg",
+						"url": "https://t.co/FeR9hueiUl",
+						"display_url": "pic.twitter.com/FeR9hueiUl",
+						"expanded_url": "https://twitter.com/ajplus/status/1323332339674603521/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 462,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 816,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1392,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 110396781,
+				"id_str": "110396781",
+				"name": "AJ+",
+				"screen_name": "ajplus",
+				"location": "",
+				"description": "AJ+ is a unique digital news and storytelling project promoting human rights and equality, holding power to account, and amplifying the voices of the powerless.",
+				"url": "https://t.co/dffekhz2Zn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/dffekhz2Zn",
+								"expanded_url": "http://ajplus.co/subtexttwp",
+								"display_url": "ajplus.co/subtexttwp",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1164526,
+				"friends_count": 359,
+				"listed_count": 6871,
+				"created_at": "Mon Feb 01 11:53:42 +0000 2010",
+				"favourites_count": 2296,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 86228,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1012020793348198401/ohNwCtH9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1012020793348198401/ohNwCtH9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/110396781/1592502455",
+				"profile_link_color": "6CC5F5",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "8F8A89",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 185,
+			"favorite_count": 338,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 7,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/Yax7Qsq2pU https://t.co/ffBsAkJcxl"
+	},
+	{
 		"created_at": "Mon Nov 02 17:16:28 +0000 2020",
 		"id": 1323313035361046500,
 		"id_str": "1323313035361046530",
