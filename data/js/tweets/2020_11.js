@@ -1,6 +1,252 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Wed Nov 04 12:05:33 +0000 2020",
+		"id": 1323959567278100500,
+		"id_str": "1323959567278100480",
+		"full_text": "Ik ben benieuwd als @RoelMaalderink op pad gaat met onze verkiezingen. Ik verwacht vergelijkbare beelden. https://t.co/CQqKNWcRPP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RoelMaalderink",
+					"name": "Roel Maalderink",
+					"id": 30320065,
+					"id_str": "30320065",
+					"indices": [
+						20,
+						35
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CQqKNWcRPP",
+					"expanded_url": "https://twitter.com/hermannus/status/1323956212438806528",
+					"display_url": "twitter.com/hermannus/stat…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8924,
+			"friends_count": 601,
+			"listed_count": 569,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6914,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62952,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1323956212438806500,
+		"quoted_status_id_str": "1323956212438806528",
+		"quoted_status_permalink": {
+			"url": "https://t.co/CQqKNWcRPP",
+			"expanded": "https://twitter.com/hermannus/status/1323956212438806528",
+			"display": "twitter.com/hermannus/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Nov 04 11:52:13 +0000 2020",
+			"id": 1323956212438806500,
+			"id_str": "1323956212438806528",
+			"full_text": "Waarom begrijpen we anderen niet? Omdat we denken dat ze net zo denken als wij. Maar dat doen ze niet... 👇 https://t.co/5525Ky5kLc",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				106
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/5525Ky5kLc",
+						"expanded_url": "https://twitter.com/chinaski_the/status/1323875969288097792",
+						"display_url": "twitter.com/chinaski_the/s…",
+						"indices": [
+							107,
+							130
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 53655670,
+				"id_str": "53655670",
+				"name": "Hermannus Stegeman 😷",
+				"screen_name": "Hermannus",
+				"location": "Utrechtse Heuvelrug",
+				"description": "gastvrijheid dienstverlening@gem-heuvelrug dienstbaarheid (bord)spelletjes egypte veluwe design thinking focus Vuelta2022 Tour for Life 2021",
+				"url": "https://t.co/u8zcw6xT8g",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/u8zcw6xT8g",
+								"expanded_url": "http://nl.linkedin.com/in/hermannusstegeman",
+								"display_url": "nl.linkedin.com/in/hermannusst…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3906,
+				"friends_count": 3742,
+				"listed_count": 202,
+				"created_at": "Sat Jul 04 12:06:04 +0000 2009",
+				"favourites_count": 58415,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 110293,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F7F7F2",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1309989751362146304/iUBEnG7N_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1309989751362146304/iUBEnG7N_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/53655670/1598997858",
+				"profile_link_color": "CC0000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "869BE0",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1323875969288097800,
+			"quoted_status_id_str": "1323875969288097792",
+			"quoted_status_permalink": {
+				"url": "https://t.co/5525Ky5kLc",
+				"expanded": "https://twitter.com/chinaski_the/status/1323875969288097792",
+				"display": "twitter.com/chinaski_the/s…"
+			},
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Ik ben benieuwd als @RoelMaalderink op pad gaat met onze verkiezingen. Ik verwacht vergelijkbare beelden. https://t.co/CQqKNWcRPP"
+	},
+	{
 		"created_at": "Wed Nov 04 07:38:23 +0000 2020",
 		"id": 1323892333037932500,
 		"id_str": "1323892333037932545",
