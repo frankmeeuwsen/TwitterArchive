@@ -1,6 +1,386 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Thu Nov 05 13:53:43 +0000 2020",
+		"id": 1324349176524787700,
+		"id_str": "1324349176524787713",
+		"full_text": "@TimOphetBroek Deze? https://t.co/PzBWs5oHHc",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TimOphetBroek",
+					"name": "Tim Op het Broek",
+					"id": 49320577,
+					"id_str": "49320577",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PzBWs5oHHc",
+					"expanded_url": "https://twitter.com/richardboorman/status/1324305503510552576",
+					"display_url": "twitter.com/richardboorman…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1324346968437567500,
+		"in_reply_to_status_id_str": "1324346968437567489",
+		"in_reply_to_user_id": 49320577,
+		"in_reply_to_user_id_str": "49320577",
+		"in_reply_to_screen_name": "TimOphetBroek",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8926,
+			"friends_count": 601,
+			"listed_count": 569,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6920,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62960,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1324305503510552600,
+		"quoted_status_id_str": "1324305503510552576",
+		"quoted_status_permalink": {
+			"url": "https://t.co/PzBWs5oHHc",
+			"expanded": "https://twitter.com/richardboorman/status/1324305503510552576",
+			"display": "twitter.com/richardboorman…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Nov 05 11:00:11 +0000 2020",
+			"id": 1324305503510552600,
+			"id_str": "1324305503510552576",
+			"full_text": "Every now and then, Twitter delivers complete gold. Trump’s spiritual advisor set to Eminem. With a dancing cat. https://t.co/g3f8j6zGAP",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				136
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1324285476539375600,
+						"id_str": "1324285476539375618",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1324285476539375618/pu/img/RjMBgEC3ES6NtLTH.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1324285476539375618/pu/img/RjMBgEC3ES6NtLTH.jpg",
+						"url": "https://t.co/g3f8j6zGAP",
+						"display_url": "pic.twitter.com/g3f8j6zGAP",
+						"expanded_url": "https://twitter.com/Soapmoine/status/1324286193106898944/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1324286193106899000,
+						"source_status_id_str": "1324286193106898944",
+						"source_user_id": 37774594,
+						"source_user_id_str": "37774594"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1324285476539375600,
+						"id_str": "1324285476539375618",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1324285476539375618/pu/img/RjMBgEC3ES6NtLTH.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1324285476539375618/pu/img/RjMBgEC3ES6NtLTH.jpg",
+						"url": "https://t.co/g3f8j6zGAP",
+						"display_url": "pic.twitter.com/g3f8j6zGAP",
+						"expanded_url": "https://twitter.com/Soapmoine/status/1324286193106898944/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1324286193106899000,
+						"source_status_id_str": "1324286193106898944",
+						"source_user_id": 37774594,
+						"source_user_id_str": "37774594",
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 104433,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1324285476539375618/pu/vid/640x360/ZcHWLzaubyaYq2Lh.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1324285476539375618/pu/vid/1280x720/OySRXEuhS-vXAc4p.mp4?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1324285476539375618/pu/vid/480x270/Vhhpi17xMCCPMqdY.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1324285476539375618/pu/pl/Sf-t1qJKrM6ldTyo.m3u8?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 37774594,
+								"id_str": "37774594",
+								"name": "Capitaine OSEF",
+								"screen_name": "Soapmoine",
+								"location": "",
+								"description": "Twit twit",
+								"url": null,
+								"entities": {
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 473,
+								"friends_count": 131,
+								"listed_count": 6,
+								"created_at": "Mon May 04 22:12:57 +0000 2009",
+								"favourites_count": 348,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": false,
+								"verified": false,
+								"statuses_count": 426,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "000000",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": true,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/989159084246126592/Ctw3rGvF_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/989159084246126592/Ctw3rGvF_normal.jpg",
+								"profile_link_color": "1B95E0",
+								"profile_sidebar_border_color": "45648C",
+								"profile_sidebar_fill_color": "B8B9B4",
+								"profile_text_color": "45648C",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 95820625,
+				"id_str": "95820625",
+				"name": "Richard Boorman",
+				"screen_name": "RichardBoorman",
+				"location": "Dubai, United Arab Emirates",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1118,
+				"friends_count": 1051,
+				"listed_count": 20,
+				"created_at": "Thu Dec 10 04:13:50 +0000 2009",
+				"favourites_count": 633,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1008,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/817950933065797632/tVm-rBMo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/817950933065797632/tVm-rBMo_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/95820625/1368872867",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1530,
+			"favorite_count": 4686,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@TimOphetBroek Deze? https://t.co/PzBWs5oHHc"
+	},
+	{
 		"created_at": "Wed Nov 04 20:32:45 +0000 2020",
 		"id": 1324087207171379200,
 		"id_str": "1324087207171379200",
