@@ -1,6 +1,321 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sat Nov 07 21:11:07 +0000 2020",
+		"id": 1325184029386178600,
+		"id_str": "1325184029386178560",
+		"full_text": "Beste playlist voor vandaag. https://t.co/dgTUwhT2Hr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dgTUwhT2Hr",
+					"expanded_url": "https://twitter.com/littlesteven_ug/status/1325178596105850882",
+					"display_url": "twitter.com/littlesteven_u…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8926,
+			"friends_count": 605,
+			"listed_count": 569,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6930,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62980,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1325178596105851000,
+		"quoted_status_id_str": "1325178596105850882",
+		"quoted_status_permalink": {
+			"url": "https://t.co/dgTUwhT2Hr",
+			"expanded": "https://twitter.com/littlesteven_ug/status/1325178596105850882",
+			"display": "twitter.com/littlesteven_u…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Nov 07 20:49:32 +0000 2020",
+			"id": 1325178596105851000,
+			"id_str": "1325178596105850882",
+			"full_text": "Did you join the Friday Night Freak Out last night?  \nHere's the playlist! @DrewFromTV #LSUG https://t.co/JTtsWwYevl",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				92
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "LSUG",
+						"indices": [
+							87,
+							92
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DrewFromTV",
+						"name": "🅳🆁🅴🆆 🅲🅰🆁🅴🆈",
+						"id": 50835878,
+						"id_str": "50835878",
+						"indices": [
+							75,
+							86
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1325178593920635000,
+						"id_str": "1325178593920634880",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/media/EmP66PqXUAAa8u5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EmP66PqXUAAa8u5.jpg",
+						"url": "https://t.co/JTtsWwYevl",
+						"display_url": "pic.twitter.com/JTtsWwYevl",
+						"expanded_url": "https://twitter.com/littlesteven_ug/status/1325178596105850882/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1020,
+								"h": 1652,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 420,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 741,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1325178593920635000,
+						"id_str": "1325178593920634880",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/media/EmP66PqXUAAa8u5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EmP66PqXUAAa8u5.jpg",
+						"url": "https://t.co/JTtsWwYevl",
+						"display_url": "pic.twitter.com/JTtsWwYevl",
+						"expanded_url": "https://twitter.com/littlesteven_ug/status/1325178596105850882/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1020,
+								"h": 1652,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 420,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 741,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 275645598,
+				"id_str": "275645598",
+				"name": "Little Steven's Underground Garage",
+				"screen_name": "littlesteven_ug",
+				"location": "",
+				"description": "Maximum Rock and Soul!",
+				"url": "https://t.co/gxUICuUagV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gxUICuUagV",
+								"expanded_url": "https://www.undergroundgarage.com/",
+								"display_url": "undergroundgarage.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 23437,
+				"friends_count": 340,
+				"listed_count": 273,
+				"created_at": "Fri Apr 01 18:05:50 +0000 2011",
+				"favourites_count": 3613,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 13145,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1250063266728103943/AIiD3Mpi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1250063266728103943/AIiD3Mpi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/275645598/1586873284",
+				"profile_link_color": "665C75",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "D4FFFB",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 34,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Beste playlist voor vandaag. https://t.co/dgTUwhT2Hr"
+	},
+	{
 		"created_at": "Sat Nov 07 17:06:34 +0000 2020",
 		"id": 1325122483477950500,
 		"id_str": "1325122483477950464",
