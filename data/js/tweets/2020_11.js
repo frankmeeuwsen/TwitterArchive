@@ -1,6 +1,252 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sat Nov 07 08:04:06 +0000 2020",
+		"id": 1324985967279747000,
+		"id_str": "1324985967279747072",
+		"full_text": "@Hermannus Tom legt het zelf even uit: https://t.co/9CJKLRI86T",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Hermannus",
+					"name": "Hermannus Stegeman 😷",
+					"id": 53655670,
+					"id_str": "53655670",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9CJKLRI86T",
+					"expanded_url": "https://twitter.com/tmorello/status/1324907210426642433",
+					"display_url": "twitter.com/tmorello/statu…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1324981685742657500,
+		"in_reply_to_status_id_str": "1324981685742657541",
+		"in_reply_to_user_id": 53655670,
+		"in_reply_to_user_id_str": "53655670",
+		"in_reply_to_screen_name": "Hermannus",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8927,
+			"friends_count": 604,
+			"listed_count": 569,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6927,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62972,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1324907210426642400,
+		"quoted_status_id_str": "1324907210426642433",
+		"quoted_status_permalink": {
+			"url": "https://t.co/9CJKLRI86T",
+			"expanded": "https://twitter.com/tmorello/status/1324907210426642433",
+			"display": "twitter.com/tmorello/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Nov 07 02:51:09 +0000 2020",
+			"id": 1324907210426642400,
+			"id_str": "1324907210426642433",
+			"full_text": "Not exactly what we had in mind https://t.co/RydKGCk9RA",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				31
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/RydKGCk9RA",
+						"expanded_url": "https://twitter.com/manny_alicandro/status/1324873177416273921",
+						"display_url": "twitter.com/manny_alicandr…",
+						"indices": [
+							32,
+							55
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 23023236,
+				"id_str": "23023236",
+				"name": "Tom Morello",
+				"screen_name": "tmorello",
+				"location": "Union Town",
+				"description": "Feed the poor. Fight the power. Rock the f*ck out.\n\n\n\n\nThe Atlas Underground - OUT NOW!",
+				"url": "https://t.co/QnNWYA0DX0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/QnNWYA0DX0",
+								"expanded_url": "https://linktr.ee/TomMorello",
+								"display_url": "linktr.ee/TomMorello",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 807164,
+				"friends_count": 103,
+				"listed_count": 7012,
+				"created_at": "Fri Mar 06 03:25:17 +0000 2009",
+				"favourites_count": 12688,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 15353,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "101114",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1022525495148204032/o2eHtiCU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1022525495148204032/o2eHtiCU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/23023236/1532624151",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1324873177416274000,
+			"quoted_status_id_str": "1324873177416273921",
+			"quoted_status_permalink": {
+				"url": "https://t.co/RydKGCk9RA",
+				"expanded": "https://twitter.com/manny_alicandro/status/1324873177416273921",
+				"display": "twitter.com/manny_alicandr…"
+			},
+			"retweet_count": 29452,
+			"favorite_count": 129813,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@Hermannus Tom legt het zelf even uit: https://t.co/9CJKLRI86T"
+	},
+	{
 		"created_at": "Fri Nov 06 17:25:50 +0000 2020",
 		"id": 1324764943384748000,
 		"id_str": "1324764943384748032",
