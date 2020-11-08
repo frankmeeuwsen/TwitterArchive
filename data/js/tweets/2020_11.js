@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sun Nov 08 20:58:21 +0000 2020",
+		"id": 1325223702506696700,
+		"id_str": "1325543201776803842",
+		"full_text": "One down. One to go. https://t.co/eQYi1pBqku",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1325223700648652800,
+					"id_str": "1325223700648652800",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/EmQj7zUXcAAeelD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmQj7zUXcAAeelD.jpg",
+					"url": "https://t.co/eQYi1pBqku",
+					"display_url": "pic.twitter.com/eQYi1pBqku",
+					"expanded_url": "https://twitter.com/SachaBaronCohen/status/1325223702506696704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1325223700648652800,
+					"id_str": "1325223700648652800",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/EmQj7zUXcAAeelD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmQj7zUXcAAeelD.jpg",
+					"url": "https://t.co/eQYi1pBqku",
+					"display_url": "pic.twitter.com/eQYi1pBqku",
+					"expanded_url": "https://twitter.com/SachaBaronCohen/status/1325223702506696704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4185877812,
+			"id_str": "4185877812",
+			"name": "Sacha Baron Cohen",
+			"screen_name": "SachaBaronCohen",
+			"location": "",
+			"description": "#StopHateForProfit",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 668633,
+			"friends_count": 14,
+			"listed_count": 1241,
+			"created_at": "Tue Nov 10 03:13:00 +0000 2015",
+			"favourites_count": 29,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 158,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1021341067495575552/m5lUgbQv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1021341067495575552/m5lUgbQv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4185877812/1593374815",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14709,
+		"favorite_count": 124536,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "One down. One to go. https://t.co/eQYi1pBqku"
+	},
+	{
 		"created_at": "Sun Nov 08 20:14:47 +0000 2020",
 		"id": 1325532237786304500,
 		"id_str": "1325532237786304512",
