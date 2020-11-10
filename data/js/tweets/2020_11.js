@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Tue Nov 10 14:09:52 +0000 2020",
+		"id": 1326165177977331700,
+		"id_str": "1326165177977331712",
+		"full_text": "De markt concentreert zich weer rondom grote spelers? https://t.co/vvIwFI9e2K",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vvIwFI9e2K",
+					"expanded_url": "https://twitter.com/2PMinc/status/1326164779606675461",
+					"display_url": "twitter.com/2PMinc/status/…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8920,
+			"friends_count": 609,
+			"listed_count": 564,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6934,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62998,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1326164779606675500,
+		"quoted_status_id_str": "1326164779606675461",
+		"quoted_status_permalink": {
+			"url": "https://t.co/vvIwFI9e2K",
+			"expanded": "https://twitter.com/2PMinc/status/1326164779606675461",
+			"display": "twitter.com/2PMinc/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Nov 10 14:08:17 +0000 2020",
+			"id": 1326164779606675500,
+			"id_str": "1326164779606675461",
+			"full_text": "News: @Spotify acquires Megaphone, a major podcast ad seller.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				61
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Spotify",
+						"name": "Spotify",
+						"id": 17230018,
+						"id_str": "17230018",
+						"indices": [
+							6,
+							14
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 707053556738736100,
+				"id_str": "707053556738736128",
+				"name": "2PM",
+				"screen_name": "2PMinc",
+				"location": "Columbus, OH",
+				"description": "Analyzing the connections between media, brand, retail, and data. Sign up for the Monday letter in the footer, if you'd like. 2PM is short for \"to polymaths.\"",
+				"url": "https://t.co/vYmeWvCRFp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vYmeWvCRFp",
+								"expanded_url": "http://2pm.inc",
+								"display_url": "2pm.inc",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 17601,
+				"friends_count": 359,
+				"listed_count": 334,
+				"created_at": "Tue Mar 08 04:01:19 +0000 2016",
+				"favourites_count": 1562,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4520,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1260578890885595136/N0HzoZ_P_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1260578890885595136/N0HzoZ_P_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/707053556738736128/1585114613",
+				"profile_link_color": "F4EE25",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "De markt concentreert zich weer rondom grote spelers? https://t.co/vvIwFI9e2K"
+	},
+	{
 		"created_at": "Mon Nov 09 18:58:06 +0000 2020",
 		"id": 1325875328519123000,
 		"id_str": "1325875328519122945",
