@@ -1,6 +1,324 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Tue Nov 10 17:23:19 +0000 2020",
+		"id": 1326213863726084000,
+		"id_str": "1326213863726084096",
+		"full_text": "Hahaha. Heerlijk! https://t.co/hAMpoczc9W",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hAMpoczc9W",
+					"expanded_url": "https://twitter.com/rascalsbrewing/status/1326202813488238592",
+					"display_url": "twitter.com/rascalsbrewing…",
+					"indices": [
+						18,
+						41
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8920,
+			"friends_count": 609,
+			"listed_count": 564,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6935,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62999,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1326202813488238600,
+		"quoted_status_id_str": "1326202813488238592",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hAMpoczc9W",
+			"expanded": "https://twitter.com/rascalsbrewing/status/1326202813488238592",
+			"display": "twitter.com/rascalsbrewing…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Nov 10 16:39:25 +0000 2020",
+			"id": 1326202813488238600,
+			"id_str": "1326202813488238592",
+			"full_text": "NEW beer! Limited edition 🍺🇺🇸🌴🌿🌳\n\nFour Saisons Total Landscaping 4% farmhouse ale brewed with sour grapes\n\n#fourseasonstotallandscaping #fourSeasonsGate \n#rascalsbrewing https://t.co/oOZbV6MGYf",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				169
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "fourseasonstotallandscaping",
+						"indices": [
+							107,
+							135
+						]
+					},
+					{
+						"text": "fourSeasonsGate",
+						"indices": [
+							136,
+							152
+						]
+					},
+					{
+						"text": "rascalsbrewing",
+						"indices": [
+							154,
+							169
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1326202357122801700,
+						"id_str": "1326202357122801666",
+						"indices": [
+							170,
+							193
+						],
+						"media_url": "http://pbs.twimg.com/media/EmeeBGyXIAIoIl3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EmeeBGyXIAIoIl3.jpg",
+						"url": "https://t.co/oOZbV6MGYf",
+						"display_url": "pic.twitter.com/oOZbV6MGYf",
+						"expanded_url": "https://twitter.com/RascalsBrewing/status/1326202813488238592/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1786,
+								"h": 1786,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1326202357122801700,
+						"id_str": "1326202357122801666",
+						"indices": [
+							170,
+							193
+						],
+						"media_url": "http://pbs.twimg.com/media/EmeeBGyXIAIoIl3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EmeeBGyXIAIoIl3.jpg",
+						"url": "https://t.co/oOZbV6MGYf",
+						"display_url": "pic.twitter.com/oOZbV6MGYf",
+						"expanded_url": "https://twitter.com/RascalsBrewing/status/1326202813488238592/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1786,
+								"h": 1786,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1732401242,
+				"id_str": "1732401242",
+				"name": "Rascals Brewing Company",
+				"screen_name": "RascalsBrewing",
+				"location": "Dublin",
+				"description": "Brewery, Pizza Restaurant and Taproom in Dublin 8\nWe deliver beer nationwide 🍺🚚\nInstagram: rascalsbrewing",
+				"url": "https://t.co/mqXQgimRJW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/mqXQgimRJW",
+								"expanded_url": "https://rascalsbrewing.com",
+								"display_url": "rascalsbrewing.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9930,
+				"friends_count": 1548,
+				"listed_count": 133,
+				"created_at": "Thu Sep 05 16:18:35 +0000 2013",
+				"favourites_count": 4843,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7521,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1176069506722095105/DVPJhfbp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1176069506722095105/DVPJhfbp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1732401242/1586878783",
+				"profile_link_color": "46BBB9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 32,
+			"favorite_count": 134,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Hahaha. Heerlijk! https://t.co/hAMpoczc9W"
+	},
+	{
 		"created_at": "Tue Nov 10 14:09:52 +0000 2020",
 		"id": 1326165177977331700,
 		"id_str": "1326165177977331712",
