@@ -1,6 +1,351 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sat Nov 14 06:41:55 +0000 2020",
+		"id": 1327502000414711800,
+		"id_str": "1327502000414711809",
+		"full_text": "Webdesign Nostalgia Saturday... https://t.co/W8shhF8kaj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/W8shhF8kaj",
+					"expanded_url": "https://twitter.com/miggi/status/1327371315045675009",
+					"display_url": "twitter.com/miggi/status/1…",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8921,
+			"friends_count": 609,
+			"listed_count": 564,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6943,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63010,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1327371315045675000,
+		"quoted_status_id_str": "1327371315045675009",
+		"quoted_status_permalink": {
+			"url": "https://t.co/W8shhF8kaj",
+			"expanded": "https://twitter.com/miggi/status/1327371315045675009",
+			"display": "twitter.com/miggi/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Nov 13 22:02:37 +0000 2020",
+			"id": 1327371315045675000,
+			"id_str": "1327371315045675009",
+			"full_text": "Just shared this with my design students... they gotta know their design history... #2Advanced https://t.co/p68ANg4gxp",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				94
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "2Advanced",
+						"indices": [
+							84,
+							94
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1327369981194096600,
+						"id_str": "1327369981194096641",
+						"indices": [
+							95,
+							118
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1327369981194096641/pu/img/QnoZYsu8LKB6sUyp.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1327369981194096641/pu/img/QnoZYsu8LKB6sUyp.jpg",
+						"url": "https://t.co/p68ANg4gxp",
+						"display_url": "pic.twitter.com/p68ANg4gxp",
+						"expanded_url": "https://twitter.com/miggi/status/1327371315045675009/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 511,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 958,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 958,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1327369981194096600,
+						"id_str": "1327369981194096641",
+						"indices": [
+							95,
+							118
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1327369981194096641/pu/img/QnoZYsu8LKB6sUyp.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1327369981194096641/pu/img/QnoZYsu8LKB6sUyp.jpg",
+						"url": "https://t.co/p68ANg4gxp",
+						"display_url": "pic.twitter.com/p68ANg4gxp",
+						"expanded_url": "https://twitter.com/miggi/status/1327371315045675009/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 511,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 958,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 958,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								479,
+								360
+							],
+							"duration_millis": 49206,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1327369981194096641/pu/vid/478x360/-0PVmvtLmifDrMmw.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1327369981194096641/pu/pl/g2xRv6-UtGJU8Mkh.m3u8?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1327369981194096641/pu/vid/358x270/Epz9yZbLi6r9yuh7.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1327369981194096641/pu/vid/958x720/TrC2Kkzbv1MLGu_S.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14193134,
+				"id_str": "14193134",
+				"name": "@miggi",
+				"screen_name": "miggi",
+				"location": "Rochester NY, USA",
+				"description": "Designer & Educator / Assistant Professor @ RIT teaching New Media Design @rit_nmd. Previously: @imgix, @dwaiter. \n\nhttps://t.co/h4IxIYLYdk 🇵🇷 \nBUF ✈️ SFO ✈️ ROC",
+				"url": "https://t.co/xn88Xrlq6G",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/xn88Xrlq6G",
+								"expanded_url": "http://miggi.me",
+								"display_url": "miggi.me",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/h4IxIYLYdk",
+								"expanded_url": "http://pronoun.is/he",
+								"display_url": "pronoun.is/he",
+								"indices": [
+									116,
+									139
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2983,
+				"friends_count": 1668,
+				"listed_count": 193,
+				"created_at": "Fri Mar 21 19:17:23 +0000 2008",
+				"favourites_count": 20595,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 19154,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1326273358560956416/Pjxu7VOu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326273358560956416/Pjxu7VOu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14193134/1575236292",
+				"profile_link_color": "0033DD",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C7C7C7",
+				"profile_text_color": "3D3D3D",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 73,
+			"favorite_count": 775,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Webdesign Nostalgia Saturday... https://t.co/W8shhF8kaj"
+	},
+	{
 		"created_at": "Fri Nov 13 15:45:44 +0000 2020",
 		"id": 1327276467798020000,
 		"id_str": "1327276467798020099",
