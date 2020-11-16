@@ -1,6 +1,338 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Mon Nov 16 22:44:33 +0000 2020",
+		"id": 1328469032182362000,
+		"id_str": "1328469032182362133",
+		"full_text": "Goals voor dinsdag 261 maart 2020. https://t.co/9xbC5sOlXF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9xbC5sOlXF",
+					"expanded_url": "https://twitter.com/WolfBruening/status/1326821248320630785",
+					"display_url": "twitter.com/WolfBruening/s…",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8919,
+			"friends_count": 611,
+			"listed_count": 563,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6946,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63022,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1326821248320630800,
+		"quoted_status_id_str": "1326821248320630785",
+		"quoted_status_permalink": {
+			"url": "https://t.co/9xbC5sOlXF",
+			"expanded": "https://twitter.com/WolfBruening/status/1326821248320630785",
+			"display": "twitter.com/WolfBruening/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Nov 12 09:36:51 +0000 2020",
+			"id": 1326821248320630800,
+			"id_str": "1326821248320630785",
+			"full_text": "Today I reached the next level of remote work excellence. 🏅 https://t.co/hxbGLfo7dT",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				59
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1326821239751667700,
+						"id_str": "1326821239751667713",
+						"indices": [
+							60,
+							83
+						],
+						"media_url": "http://pbs.twimg.com/media/EmnQ40PXcAEAP_h.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EmnQ40PXcAEAP_h.jpg",
+						"url": "https://t.co/hxbGLfo7dT",
+						"display_url": "pic.twitter.com/hxbGLfo7dT",
+						"expanded_url": "https://twitter.com/WolfBruening/status/1326821248320630785/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1326821239751667700,
+						"id_str": "1326821239751667713",
+						"indices": [
+							60,
+							83
+						],
+						"media_url": "http://pbs.twimg.com/media/EmnQ40PXcAEAP_h.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EmnQ40PXcAEAP_h.jpg",
+						"url": "https://t.co/hxbGLfo7dT",
+						"display_url": "pic.twitter.com/hxbGLfo7dT",
+						"expanded_url": "https://twitter.com/WolfBruening/status/1326821248320630785/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1326821239789400000,
+						"id_str": "1326821239789400066",
+						"indices": [
+							60,
+							83
+						],
+						"media_url": "http://pbs.twimg.com/media/EmnQ40YXMAIs04O.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EmnQ40YXMAIs04O.jpg",
+						"url": "https://t.co/hxbGLfo7dT",
+						"display_url": "pic.twitter.com/hxbGLfo7dT",
+						"expanded_url": "https://twitter.com/WolfBruening/status/1326821248320630785/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 98957990,
+				"id_str": "98957990",
+				"name": "Wolf Brüning",
+				"screen_name": "WolfBruening",
+				"location": "Hamburg, Germany",
+				"description": "UX designer, blogger, speaker, connector of dots, casual photographer. Creating digital experiences for @otto_de. Writing for @produktbezogen & @TalkingPatterns",
+				"url": "https://t.co/zFZF5t0doY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zFZF5t0doY",
+								"expanded_url": "http://www.wolfbruening.de",
+								"display_url": "wolfbruening.de",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3358,
+				"friends_count": 549,
+				"listed_count": 169,
+				"created_at": "Wed Dec 23 20:52:49 +0000 2009",
+				"favourites_count": 6025,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7203,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1898341709/diaspora_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1898341709/diaspora_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/98957990/1414792382",
+				"profile_link_color": "1799D1",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 25684,
+			"favorite_count": 128937,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Goals voor dinsdag 261 maart 2020. https://t.co/9xbC5sOlXF"
+	},
+	{
 		"created_at": "Mon Nov 16 08:48:53 +0000 2020",
 		"id": 1328258727074476000,
 		"id_str": "1328258727074476032",
