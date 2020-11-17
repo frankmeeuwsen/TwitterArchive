@@ -1,6 +1,288 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Tue Nov 17 08:31:50 +0000 2020",
+		"id": 1328616824607531000,
+		"id_str": "1328616824607531013",
+		"full_text": "@Jessemoerkerk @SjoerdB Het wordt nog doller, over 3 dagen is de livestream van hun album. https://t.co/sEchm0gDBb",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Jessemoerkerk",
+					"name": "Jesse Moerkerk",
+					"id": 319033092,
+					"id_str": "319033092",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "SjoerdB",
+					"name": "Sjoerd Bosmans",
+					"id": 17674492,
+					"id_str": "17674492",
+					"indices": [
+						15,
+						23
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sEchm0gDBb",
+					"expanded_url": "https://twitter.com/SeagullsBand/status/1324704097581367302",
+					"display_url": "twitter.com/SeagullsBand/s…",
+					"indices": [
+						91,
+						114
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1328614703459950600,
+		"in_reply_to_status_id_str": "1328614703459950592",
+		"in_reply_to_user_id": 319033092,
+		"in_reply_to_user_id_str": "319033092",
+		"in_reply_to_screen_name": "Jessemoerkerk",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8919,
+			"friends_count": 611,
+			"listed_count": 563,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6947,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63027,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1324704097581367300,
+		"quoted_status_id_str": "1324704097581367302",
+		"quoted_status_permalink": {
+			"url": "https://t.co/sEchm0gDBb",
+			"expanded": "https://twitter.com/SeagullsBand/status/1324704097581367302",
+			"display": "twitter.com/SeagullsBand/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Nov 06 13:24:03 +0000 2020",
+			"id": 1324704097581367300,
+			"id_str": "1324704097581367302",
+			"full_text": "Hello! We have fantastic news! Our album release concert on Friday Nov 20th at Kulttuuritalo, Helsinki, Finland will be streamed live &amp;free https://t.co/mDUHmqPu9q\nTimes below:\nFinland 8 pm\nCET 7 pm\nUK 6 pm\nNew York 1 pm\nLos Angeles 10 am\nSydney 5 am (Nov 21)\nTokyo 3 am (Nov 21)",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				283
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/mDUHmqPu9q",
+						"expanded_url": "https://vimeo.com/472555470",
+						"display_url": "vimeo.com/472555470",
+						"indices": [
+							144,
+							167
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2863796403,
+				"id_str": "2863796403",
+				"name": "Steve'n'Seagulls",
+				"screen_name": "SeagullsBand",
+				"location": "Perunamaa",
+				"description": "We are from Finland and we have an accordion!!! \n#stevenseagulls #finland #bluegrass",
+				"url": "https://t.co/6vR5tsbexZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6vR5tsbexZ",
+								"expanded_url": "http://www.stevenseagulls.com",
+								"display_url": "stevenseagulls.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6343,
+				"friends_count": 4947,
+				"listed_count": 66,
+				"created_at": "Thu Nov 06 13:43:10 +0000 2014",
+				"favourites_count": 3420,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3546,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "301D0B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/530361521625239555/N9pBAsy0_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/530361521625239555/N9pBAsy0_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2863796403/1602251720",
+				"profile_link_color": "301D0B",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "2cb8bf4618d2876f",
+				"url": "https://api.twitter.com/1.1/geo/id/2cb8bf4618d2876f.json",
+				"place_type": "city",
+				"name": "Iisalmi",
+				"full_name": "Iisalmi, Suomi",
+				"country_code": "FI",
+				"country": "Suomi",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								26.794052,
+								63.299256
+							],
+							[
+								27.667183,
+								63.299256
+							],
+							[
+								27.667183,
+								63.689217
+							],
+							[
+								26.794052,
+								63.689217
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 29,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@Jessemoerkerk @SjoerdB Het wordt nog doller, over 3 dagen is de livestream van hun album. https://t.co/sEchm0gDBb"
+	},
+	{
 		"created_at": "Tue Nov 17 08:19:34 +0000 2020",
 		"id": 1328613740904902700,
 		"id_str": "1328613740904902656",
