@@ -1,6 +1,410 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Thu Nov 19 16:10:55 +0000 2020",
+		"id": 1329457133272838100,
+		"id_str": "1329457133272838145",
+		"full_text": "Tof! https://t.co/kZRsfkBK3g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			4
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kZRsfkBK3g",
+					"expanded_url": "https://twitter.com/ddoniolvalcroze/status/1329243556385419265",
+					"display_url": "twitter.com/ddoniolvalcroz…",
+					"indices": [
+						5,
+						28
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8918,
+			"friends_count": 613,
+			"listed_count": 562,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6957,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63043,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1329243556385419300,
+		"quoted_status_id_str": "1329243556385419265",
+		"quoted_status_permalink": {
+			"url": "https://t.co/kZRsfkBK3g",
+			"expanded": "https://twitter.com/ddoniolvalcroze/status/1329243556385419265",
+			"display": "twitter.com/ddoniolvalcroz…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Nov 19 02:02:14 +0000 2020",
+			"id": 1329243556385419300,
+			"id_str": "1329243556385419265",
+			"full_text": "Trees swallowing Trespassing Signs https://t.co/LQCmsupYK3",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				34
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1329243527826481200,
+						"id_str": "1329243527826481157",
+						"indices": [
+							35,
+							58
+						],
+						"media_url": "http://pbs.twimg.com/media/EnJr8igVoAUwbwy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EnJr8igVoAUwbwy.jpg",
+						"url": "https://t.co/LQCmsupYK3",
+						"display_url": "pic.twitter.com/LQCmsupYK3",
+						"expanded_url": "https://twitter.com/ddoniolvalcroze/status/1329243556385419265/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 480,
+								"h": 640,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 480,
+								"h": 640,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 640,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1329243527826481200,
+						"id_str": "1329243527826481157",
+						"indices": [
+							35,
+							58
+						],
+						"media_url": "http://pbs.twimg.com/media/EnJr8igVoAUwbwy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EnJr8igVoAUwbwy.jpg",
+						"url": "https://t.co/LQCmsupYK3",
+						"display_url": "pic.twitter.com/LQCmsupYK3",
+						"expanded_url": "https://twitter.com/ddoniolvalcroze/status/1329243556385419265/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 480,
+								"h": 640,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 480,
+								"h": 640,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 640,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1329243527822274600,
+						"id_str": "1329243527822274566",
+						"indices": [
+							35,
+							58
+						],
+						"media_url": "http://pbs.twimg.com/media/EnJr8ifVcAYZ3jw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EnJr8ifVcAYZ3jw.jpg",
+						"url": "https://t.co/LQCmsupYK3",
+						"display_url": "pic.twitter.com/LQCmsupYK3",
+						"expanded_url": "https://twitter.com/ddoniolvalcroze/status/1329243556385419265/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1329243527834861600,
+						"id_str": "1329243527834861568",
+						"indices": [
+							35,
+							58
+						],
+						"media_url": "http://pbs.twimg.com/media/EnJr8iiVgAAeTgT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EnJr8iiVgAAeTgT.jpg",
+						"url": "https://t.co/LQCmsupYK3",
+						"display_url": "pic.twitter.com/LQCmsupYK3",
+						"expanded_url": "https://twitter.com/ddoniolvalcroze/status/1329243556385419265/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1400,
+								"h": 1050,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1329243527834792000,
+						"id_str": "1329243527834791937",
+						"indices": [
+							35,
+							58
+						],
+						"media_url": "http://pbs.twimg.com/media/EnJr8iiUcAEnBb4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EnJr8iiUcAEnBb4.jpg",
+						"url": "https://t.co/LQCmsupYK3",
+						"display_url": "pic.twitter.com/LQCmsupYK3",
+						"expanded_url": "https://twitter.com/ddoniolvalcroze/status/1329243556385419265/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1063685129661382700,
+				"id_str": "1063685129661382656",
+				"name": "Diane Doniol-Valcroze",
+				"screen_name": "ddoniolvalcroze",
+				"location": "Hollywood, Los Angeles",
+				"description": "Writer:@41strange daughter of Jacques Doniol-Valcroze co-founder of Cahiers Du Cinéma",
+				"url": "https://t.co/lApirIcxFC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/lApirIcxFC",
+								"expanded_url": "https://41strange.wordpress.com",
+								"display_url": "41strange.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 84045,
+				"friends_count": 182,
+				"listed_count": 569,
+				"created_at": "Sat Nov 17 06:47:51 +0000 2018",
+				"favourites_count": 48854,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 19144,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1063687642267607040/D4Dc2N9L_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1063687642267607040/D4Dc2N9L_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1063685129661382656/1580692232",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3090,
+			"favorite_count": 12617,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "Tof! https://t.co/kZRsfkBK3g"
+	},
+	{
 		"created_at": "Thu Nov 19 11:06:40 +0000 2020",
 		"id": 1329380568153329700,
 		"id_str": "1329380568153329665",
