@@ -1,6 +1,210 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sat Nov 21 13:24:07 +0000 2020",
+		"id": 1330139933277884400,
+		"id_str": "1330139933277884422",
+		"full_text": "Ik hoop dat een van mijn kinderen niet met een ClaudiaMakaveli thuiskomst. (Is dat een werkwoord? Thuiskomsten?) https://t.co/eSMhJ1E7Bm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eSMhJ1E7Bm",
+					"expanded_url": "https://twitter.com/ClaudiaMakaveli/status/1329847510907686914",
+					"display_url": "twitter.com/ClaudiaMakavel…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8918,
+			"friends_count": 614,
+			"listed_count": 561,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6958,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63060,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1329847510907687000,
+		"quoted_status_id_str": "1329847510907686914",
+		"quoted_status_permalink": {
+			"url": "https://t.co/eSMhJ1E7Bm",
+			"expanded": "https://twitter.com/ClaudiaMakaveli/status/1329847510907686914",
+			"display": "twitter.com/ClaudiaMakavel…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Nov 20 18:02:08 +0000 2020",
+			"id": 1329847510907687000,
+			"id_str": "1329847510907686914",
+			"full_text": "Een vraagje, is heel Nederland  zo langzamerhand  gemengd gehuwd. 14 reclame's 13 gemengde stellen, met/zonder kinderen....ik word er een beetje misselijk van. Mijn vader zei vroeger:\"als je met een zwarte thuiskomst breek ik alle 2 je poten\".Niemand zie ik in het gips😰",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				270
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1162044743389520000,
+				"id_str": "1162044743389519876",
+				"name": "Claudia",
+				"screen_name": "ClaudiaMakaveli",
+				"location": "Amsterdam",
+				"description": "#IksteunGeert. Gaat voor een islam-vrij Nederland. Stemt PVV vanaf dag 1. Gróte liefde voor dieren en Forummers. \nLIST=BLOCK.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1105,
+				"friends_count": 988,
+				"listed_count": 2,
+				"created_at": "Thu Aug 15 16:53:51 +0000 2019",
+				"favourites_count": 17636,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 14066,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1319099615694721024/eH11Kedb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1319099615694721024/eH11Kedb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1162044743389519876/1568484114",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 104,
+			"favorite_count": 803,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Ik hoop dat een van mijn kinderen niet met een ClaudiaMakaveli thuiskomst. (Is dat een werkwoord? Thuiskomsten?) https://t.co/eSMhJ1E7Bm"
+	},
+	{
 		"created_at": "Sat Nov 21 12:20:35 +0000 2020",
 		"id": 1330123944947540000,
 		"id_str": "1330123944947539969",
