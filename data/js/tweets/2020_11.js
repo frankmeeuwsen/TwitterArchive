@@ -1,6 +1,418 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sat Nov 21 12:20:35 +0000 2020",
+		"id": 1330123944947540000,
+		"id_str": "1330123944947539969",
+		"full_text": "“Met 3D printers kunnen we protheses maken voor zij die het nodig hebben. Het is de volgende industriele revolutie! En iedereen zijn eigen gemaakte meubels!”\n\n... https://t.co/NN7fR3KowT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NN7fR3KowT",
+					"expanded_url": "https://twitter.com/wareslab/status/1329881447281414146",
+					"display_url": "twitter.com/wareslab/statu…",
+					"indices": [
+						163,
+						186
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8918,
+			"friends_count": 614,
+			"listed_count": 561,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6958,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63059,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1329881447281414100,
+		"quoted_status_id_str": "1329881447281414146",
+		"quoted_status_permalink": {
+			"url": "https://t.co/NN7fR3KowT",
+			"expanded": "https://twitter.com/wareslab/status/1329881447281414146",
+			"display": "twitter.com/wareslab/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Nov 20 20:16:59 +0000 2020",
+			"id": 1329881447281414100,
+			"id_str": "1329881447281414146",
+			"full_text": "a friend recently got a 3-d printer and has started making T-rex arms to put on his chickens https://t.co/9SVYtIH3Wy",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				92
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1329881445196816400,
+						"id_str": "1329881445196816388",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/media/EnSwIN5W4AQtn81.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EnSwIN5W4AQtn81.jpg",
+						"url": "https://t.co/9SVYtIH3Wy",
+						"display_url": "pic.twitter.com/9SVYtIH3Wy",
+						"expanded_url": "https://twitter.com/wareslab/status/1329881447281414146/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1329881445196816400,
+						"id_str": "1329881445196816388",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/media/EnSwIN5W4AQtn81.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EnSwIN5W4AQtn81.jpg",
+						"url": "https://t.co/9SVYtIH3Wy",
+						"display_url": "pic.twitter.com/9SVYtIH3Wy",
+						"expanded_url": "https://twitter.com/wareslab/status/1329881447281414146/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2426899684,
+				"id_str": "2426899684",
+				"name": "john NOW SENATE RUNOFFS wares",
+				"screen_name": "wareslab",
+				"location": "UGA | athens, georgia, USA",
+				"description": "biogeography / diversity / ecology — mostly marine — trying, trying, trying — aquatic inverts & genomics curator, @gamusnathist. he / him / his.",
+				"url": "https://t.co/ugK0z2Eg7V",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ugK0z2Eg7V",
+								"expanded_url": "http://wareslab.genetics.uga.edu",
+								"display_url": "wareslab.genetics.uga.edu",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2396,
+				"friends_count": 2239,
+				"listed_count": 42,
+				"created_at": "Fri Mar 21 13:17:32 +0000 2014",
+				"favourites_count": 51316,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 15604,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/716817306375090176/XckzOWBW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/716817306375090176/XckzOWBW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2426899684/1557924877",
+				"profile_link_color": "91D2FA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1519,
+			"favorite_count": 7232,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "“Met 3D printers kunnen we protheses maken voor zij die het nodig hebben. Het is de volgende industriele revolutie! En iedereen zijn eigen gemaakte meubels!”\n\n... https://t.co/NN7fR3KowT"
+	},
+	{
+		"created_at": "Sat Nov 21 12:14:54 +0000 2020",
+		"id": 1330122513163153400,
+		"id_str": "1330122513163153409",
+		"full_text": "@dim Maar Substack is ook een optie. Ghost installatie met paid access. Zoveel smaken, ligt een beetje aan de context (soort publiek, archivering, hoe eigen wil je het maken)",
+		"truncated": false,
+		"display_text_range": [
+			5,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dim",
+					"name": "Dim! ⭕h ⭕h....",
+					"id": 14168328,
+					"id_str": "14168328",
+					"indices": [
+						0,
+						4
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1330117023549042700,
+		"in_reply_to_status_id_str": "1330117023549042690",
+		"in_reply_to_user_id": 14168328,
+		"in_reply_to_user_id_str": "14168328",
+		"in_reply_to_screen_name": "dim",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8918,
+			"friends_count": 614,
+			"listed_count": 561,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6958,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63059,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@dim Maar Substack is ook een optie. Ghost installatie met paid access. Zoveel smaken, ligt een beetje aan de context (soort publiek, archivering, hoe eigen wil je het maken)"
+	},
+	{
 		"created_at": "Sat Nov 21 09:25:58 +0000 2020",
 		"id": 1330080002478583800,
 		"id_str": "1330080002478583810",
