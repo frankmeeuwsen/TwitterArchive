@@ -1,6 +1,301 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sun Nov 22 17:05:13 +0000 2020",
+		"id": 1330557960498671600,
+		"id_str": "1330557960498671617",
+		"full_text": "Well... https://t.co/z4iacAepLX https://t.co/dES8MfMgyQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/z4iacAepLX",
+					"expanded_url": "https://twitter.com/spotifyuk/status/1328763632574996480",
+					"display_url": "twitter.com/spotifyuk/stat…",
+					"indices": [
+						8,
+						31
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1330557954056204300,
+					"id_str": "1330557954056204292",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/EncXaNyXMAQYA33.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EncXaNyXMAQYA33.jpg",
+					"url": "https://t.co/dES8MfMgyQ",
+					"display_url": "pic.twitter.com/dES8MfMgyQ",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1330557960498671617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 1792,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1330557954056204300,
+					"id_str": "1330557954056204292",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/EncXaNyXMAQYA33.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EncXaNyXMAQYA33.jpg",
+					"url": "https://t.co/dES8MfMgyQ",
+					"display_url": "pic.twitter.com/dES8MfMgyQ",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1330557960498671617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 1792,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8917,
+			"friends_count": 615,
+			"listed_count": 561,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6960,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63064,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1328763632574996500,
+		"quoted_status_id_str": "1328763632574996480",
+		"quoted_status_permalink": {
+			"url": "https://t.co/z4iacAepLX",
+			"expanded": "https://twitter.com/spotifyuk/status/1328763632574996480",
+			"display": "twitter.com/spotifyuk/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Nov 17 18:15:11 +0000 2020",
+			"id": 1328763632574996500,
+			"id_str": "1328763632574996480",
+			"full_text": "The first track on your Time Capsule playlist is the theme song of your life. What is it?",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				89
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 479315245,
+				"id_str": "479315245",
+				"name": "Spotify UK & Ireland",
+				"screen_name": "SpotifyUK",
+				"location": "London",
+				"description": "Discover new music and podcasts. \nNeed support? We're happy to help at @SpotifyCares.",
+				"url": "https://t.co/SCHA2QWwGl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/SCHA2QWwGl",
+								"expanded_url": "http://www.spotify.com/uk",
+								"display_url": "spotify.com/uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 151661,
+				"friends_count": 1876,
+				"listed_count": 716,
+				"created_at": "Tue Jan 31 07:46:10 +0000 2012",
+				"favourites_count": 1613,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 8620,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1013712538385645568/qBcJ2nt0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1013712538385645568/qBcJ2nt0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/479315245/1602240099",
+				"profile_link_color": "1ED760",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 39,
+			"favorite_count": 1843,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Well... https://t.co/z4iacAepLX https://t.co/dES8MfMgyQ"
+	},
+	{
 		"created_at": "Sun Nov 22 15:14:57 +0000 2020",
 		"id": 1330530213432877000,
 		"id_str": "1330530213432877057",
