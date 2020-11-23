@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Mon Nov 23 22:07:17 +0000 2020",
+		"id": 1330996366273896400,
+		"id_str": "1330996366273896450",
+		"full_text": "300.000.000 dollars voor een datumprikker-dienst. Kan niet wachten tot Calendly Stories start... https://t.co/l9rUBEbFj5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/l9rUBEbFj5",
+					"expanded_url": "https://twitter.com/aneel/status/1330971465303412737",
+					"display_url": "twitter.com/aneel/status/1…",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8919,
+			"friends_count": 617,
+			"listed_count": 561,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6963,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63069,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277260417644068864/h6QTSCGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1330971465303412700,
+		"quoted_status_id_str": "1330971465303412737",
+		"quoted_status_permalink": {
+			"url": "https://t.co/l9rUBEbFj5",
+			"expanded": "https://twitter.com/aneel/status/1330971465303412737",
+			"display": "twitter.com/aneel/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Nov 23 20:28:20 +0000 2020",
+			"id": 1330971465303412700,
+			"id_str": "1330971465303412737",
+			"full_text": "\"Calendly is raising around $300 million in new funding, including a secondary tranche, at around a $3 billion valuation.\" \n\nFrom @danprimack",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				141
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "danprimack",
+						"name": "Dan Primack",
+						"id": 16246929,
+						"id_str": "16246929",
+						"indices": [
+							130,
+							141
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1293051,
+				"id_str": "1293051",
+				"name": "Aneel ✊🏽",
+				"screen_name": "aneel",
+				"location": "Brooklyn, NY",
+				"description": "fractional marketing exec + founder therapist | \nnow @crane_vc @timberdotio @gitbabel | \nprev honeycomb - signalfx - gartner - cisco - ibm |",
+				"url": "https://t.co/ahQkVc37ug",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ahQkVc37ug",
+								"expanded_url": "http://aneel.works",
+								"display_url": "aneel.works",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5100,
+				"friends_count": 1771,
+				"listed_count": 492,
+				"created_at": "Fri Mar 16 15:24:09 +0000 2007",
+				"favourites_count": 44770,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 64989,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/869738758119211008/jDCGxSSX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/869738758119211008/jDCGxSSX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1293051/1489369580",
+				"profile_link_color": "990000",
+				"profile_sidebar_border_color": "DFDFDF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "300.000.000 dollars voor een datumprikker-dienst. Kan niet wachten tot Calendly Stories start... https://t.co/l9rUBEbFj5"
+	},
+	{
 		"created_at": "Mon Nov 23 19:06:56 +0000 2020",
 		"id": 1330950983397077000,
 		"id_str": "1330950983397076994",
