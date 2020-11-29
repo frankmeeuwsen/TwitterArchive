@@ -1,6 +1,314 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sun Nov 29 08:37:37 +0000 2020",
+		"id": 1332966935475212300,
+		"id_str": "1332966935475212288",
+		"full_text": "“Ze had een kapsel als een godin en een broek die erg goed zat”. \nHet absurdistisch audiodrama van @jvtegenwoordig met o.a. @GVerbaan zit vol taalpracht en epische kantoorverwikkelingen. En regenboogkoffieblikjes. En Pierre Bokma. \n https://t.co/t46H7js22i",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			256
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jvtegenwoordig",
+					"name": "pepijn van lanen",
+					"id": 420251113,
+					"id_str": "420251113",
+					"indices": [
+						99,
+						114
+					]
+				},
+				{
+					"screen_name": "GVerbaan",
+					"name": "Georgina Verbaan",
+					"id": 21217815,
+					"id_str": "21217815",
+					"indices": [
+						124,
+						133
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1329763085008187400,
+					"id_str": "1329763085008187392",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1329763085008187392/img/32DxRBHKojDBgHz8.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1329763085008187392/img/32DxRBHKojDBgHz8.jpg",
+					"url": "https://t.co/t46H7js22i",
+					"display_url": "pic.twitter.com/t46H7js22i",
+					"expanded_url": "https://twitter.com/vpro/status/1329801680494358530/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1329801680494358500,
+					"source_status_id_str": "1329801680494358530",
+					"source_user_id": 7348632,
+					"source_user_id_str": "7348632"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1329763085008187400,
+					"id_str": "1329763085008187392",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1329763085008187392/img/32DxRBHKojDBgHz8.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1329763085008187392/img/32DxRBHKojDBgHz8.jpg",
+					"url": "https://t.co/t46H7js22i",
+					"display_url": "pic.twitter.com/t46H7js22i",
+					"expanded_url": "https://twitter.com/vpro/status/1329801680494358530/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1329801680494358500,
+					"source_status_id_str": "1329801680494358530",
+					"source_user_id": 7348632,
+					"source_user_id_str": "7348632",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 59893,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1329763085008187392/pl/OM_PkZcIpFQkWZbP.m3u8?tag=13"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1329763085008187392/vid/720x720/31pF514IIRc0bYWq.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1329763085008187392/vid/480x480/LIFoUbdYfAPqPc3q.mp4?tag=13"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1329763085008187392/vid/320x320/6X3hjVEPQpMZxSpq.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false,
+						"source_user": {
+							"id": 7348632,
+							"id_str": "7348632",
+							"name": "vpro",
+							"screen_name": "vpro",
+							"location": "Hilversum Netherlands",
+							"description": "#VPRO | Grensverkenners sinds 1926 Bakermat van o.a. @zondagmetlubach #zml, @VPROTegenlicht, @3voor12 en @VPRO_mondo.",
+							"url": "https://t.co/Y7rvLe7p7X",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/Y7rvLe7p7X",
+											"expanded_url": "http://vpro.nl",
+											"display_url": "vpro.nl",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 53622,
+							"friends_count": 959,
+							"listed_count": 1094,
+							"created_at": "Mon Jul 09 15:02:51 +0000 2007",
+							"favourites_count": 19344,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 23027,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "FFFFFF",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1184030001253011457/P0w4oSLa_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184030001253011457/P0w4oSLa_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/7348632/1602493943",
+							"profile_link_color": "FF0D00",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "00AAFF",
+							"profile_text_color": "000000",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8918,
+			"friends_count": 617,
+			"listed_count": 560,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6980,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63087,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "“Ze had een kapsel als een godin en een broek die erg goed zat”. \nHet absurdistisch audiodrama van @jvtegenwoordig met o.a. @GVerbaan zit vol taalpracht en epische kantoorverwikkelingen. En regenboogkoffieblikjes. En Pierre Bokma. \n https://t.co/t46H7js22i"
+	},
+	{
 		"created_at": "Fri Nov 27 20:55:45 +0000 2020",
 		"id": 1332427915733168000,
 		"id_str": "1332427915733168128",
