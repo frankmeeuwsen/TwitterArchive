@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sun Nov 29 18:29:35 +0000 2020",
+		"id": 1333051636655087600,
+		"id_str": "1333115907208589312",
+		"full_text": "It was today on November 29, 1972 and Atari releases Pong, the first commercially successful video game. https://t.co/5QWghmyCZy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1332774544147443700,
+					"id_str": "1332774544147443712",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/En73YvWXcAA-Jh_.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/En73YvWXcAA-Jh_.jpg",
+					"url": "https://t.co/5QWghmyCZy",
+					"display_url": "pic.twitter.com/5QWghmyCZy",
+					"expanded_url": "https://twitter.com/engineers_feed/status/1333048065075388419/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1333048065075388400,
+					"source_status_id_str": "1333048065075388419",
+					"source_user_id": 3429950987,
+					"source_user_id_str": "3429950987"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1332774544147443700,
+					"id_str": "1332774544147443712",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/En73YvWXcAA-Jh_.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/En73YvWXcAA-Jh_.jpg",
+					"url": "https://t.co/5QWghmyCZy",
+					"display_url": "pic.twitter.com/5QWghmyCZy",
+					"expanded_url": "https://twitter.com/engineers_feed/status/1333048065075388419/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1333048065075388400,
+					"source_status_id_str": "1333048065075388419",
+					"source_user_id": 3429950987,
+					"source_user_id_str": "3429950987",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/En73YvWXcAA-Jh_.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 101584084,
+			"id_str": "101584084",
+			"name": "Brian Roemmele",
+			"screen_name": "BrianRoemmele",
+			"location": "transcendence",
+			"description": "we can only see what we think is possible...",
+			"url": "https://t.co/i9oM6p7PHi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/i9oM6p7PHi",
+							"expanded_url": "http://VoiceFirst.expert",
+							"display_url": "VoiceFirst.expert",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 107469,
+			"friends_count": 21338,
+			"listed_count": 1095,
+			"created_at": "Sun Jan 03 22:04:29 +0000 2010",
+			"favourites_count": 219141,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65425,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1492616506/Brian-Med-Green-Fin_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1492616506/Brian-Med-Green-Fin_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/101584084/1414798559",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 54,
+		"favorite_count": 220,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It was today on November 29, 1972 and Atari releases Pong, the first commercially successful video game. https://t.co/5QWghmyCZy"
+	},
+	{
 		"created_at": "Sun Nov 29 15:47:17 +0000 2020",
 		"id": 1333075064791715800,
 		"id_str": "1333075064791715842",
