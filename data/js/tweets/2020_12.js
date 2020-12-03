@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 03 07:07:11 +0000 2020",
+		"id": 1334393730711908400,
+		"id_str": "1334393730711908352",
+		"full_text": "🔊De eerste OPEN audiosnack staat te shinen in @cappuccino_fm met een tip voor je eigen nieuwsbrief en een abonnement-aanrader voor je inbox. \n\n👇 Download de Cappucino app en tik onderstaande invitecode in. Je krijgt dan elke ochtend om 7 uur een tip. https://t.co/ixCOrkK0Ww",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			250
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cappuccino_fm",
+					"name": "CappuccinoFM",
+					"id": 1207503186333982700,
+					"id_str": "1207503186333982721",
+					"indices": [
+						46,
+						60
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1334393687854428200,
+					"id_str": "1334393687854428165",
+					"indices": [
+						251,
+						274
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1334393687854428165/pu/img/HAShia0OlOOhB4P2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1334393687854428165/pu/img/HAShia0OlOOhB4P2.jpg",
+					"url": "https://t.co/ixCOrkK0Ww",
+					"display_url": "pic.twitter.com/ixCOrkK0Ww",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1334393730711908352/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1334393687854428200,
+					"id_str": "1334393687854428165",
+					"indices": [
+						251,
+						274
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1334393687854428165/pu/img/HAShia0OlOOhB4P2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1334393687854428165/pu/img/HAShia0OlOOhB4P2.jpg",
+					"url": "https://t.co/ixCOrkK0Ww",
+					"display_url": "pic.twitter.com/ixCOrkK0Ww",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1334393730711908352/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 58733,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1334393687854428165/pu/pl/9ArNHhrkgLMIdCUS.m3u8?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1334393687854428165/pu/vid/320x320/4F0073MBzEIk1ieP.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1334393687854428165/pu/vid/480x480/4Ut83LzOi_9ysWQM.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8921,
+			"friends_count": 624,
+			"listed_count": 560,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6986,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63112,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "🔊De eerste OPEN audiosnack staat te shinen in @cappuccino_fm met een tip voor je eigen nieuwsbrief en een abonnement-aanrader voor je inbox. \n\n👇 Download de Cappucino app en tik onderstaande invitecode in. Je krijgt dan elke ochtend om 7 uur een tip. https://t.co/ixCOrkK0Ww"
+	},
+	{
 		"created_at": "Wed Dec 02 21:34:42 +0000 2020",
 		"id": 1334249660496703500,
 		"id_str": "1334249660496703494",
