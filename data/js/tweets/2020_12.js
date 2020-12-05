@@ -1,6 +1,420 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sat Dec 05 19:21:59 +0000 2020",
+		"id": 1335303424318054400,
+		"id_str": "1335303424318054401",
+		"full_text": "CMS met ingebakken nieuwsbrief-mogelijkheden. Interessant! https://t.co/2Vw25Bhp4q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2Vw25Bhp4q",
+					"expanded_url": "https://twitter.com/dr/status/1335290359908245505",
+					"display_url": "twitter.com/dr/status/1335…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8925,
+			"friends_count": 626,
+			"listed_count": 560,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6992,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63127,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1335290359908245500,
+		"quoted_status_id_str": "1335290359908245505",
+		"quoted_status_permalink": {
+			"url": "https://t.co/2Vw25Bhp4q",
+			"expanded": "https://twitter.com/dr/status/1335290359908245505",
+			"display": "twitter.com/dr/status/1335…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Dec 05 18:30:04 +0000 2020",
+			"id": 1335290359908245500,
+			"id_str": "1335290359908245505",
+			"full_text": "Ghost v3.39.0 tracks and displays newsletter open rates! I know people have been put off Ghost due to zero newsletter analytics in the product. This is a small first step in the right direction. 👏\n\nYou can also now send newsletters to only free or paid members, or both. https://t.co/FODuzOdDdn",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				270
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1335288941235171300,
+						"id_str": "1335288941235171335",
+						"indices": [
+							271,
+							294
+						],
+						"media_url": "http://pbs.twimg.com/media/EofmN6bUcAc1Bh2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EofmN6bUcAc1Bh2.jpg",
+						"url": "https://t.co/FODuzOdDdn",
+						"display_url": "pic.twitter.com/FODuzOdDdn",
+						"expanded_url": "https://twitter.com/dr/status/1335290359908245505/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1636,
+								"h": 822,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 342,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 603,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1335288941235171300,
+						"id_str": "1335288941235171335",
+						"indices": [
+							271,
+							294
+						],
+						"media_url": "http://pbs.twimg.com/media/EofmN6bUcAc1Bh2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EofmN6bUcAc1Bh2.jpg",
+						"url": "https://t.co/FODuzOdDdn",
+						"display_url": "pic.twitter.com/FODuzOdDdn",
+						"expanded_url": "https://twitter.com/dr/status/1335290359908245505/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1636,
+								"h": 822,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 342,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 603,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1335289608846786600,
+						"id_str": "1335289608846786560",
+						"indices": [
+							271,
+							294
+						],
+						"media_url": "http://pbs.twimg.com/media/Eofm0xeVQAA1EGL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Eofm0xeVQAA1EGL.jpg",
+						"url": "https://t.co/FODuzOdDdn",
+						"display_url": "pic.twitter.com/FODuzOdDdn",
+						"expanded_url": "https://twitter.com/dr/status/1335290359908245505/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1748,
+								"h": 983,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1335289672726036500,
+						"id_str": "1335289672726036480",
+						"indices": [
+							271,
+							294
+						],
+						"media_url": "http://pbs.twimg.com/media/Eofm4fcVQAAn-Ht.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Eofm4fcVQAAn-Ht.jpg",
+						"url": "https://t.co/FODuzOdDdn",
+						"display_url": "pic.twitter.com/FODuzOdDdn",
+						"expanded_url": "https://twitter.com/dr/status/1335290359908245505/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1593,
+								"h": 896,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5264,
+				"id_str": "5264",
+				"name": "Dan Rowden 👨🏻‍💻",
+				"screen_name": "dr",
+				"location": "Brit in Mauritius 🏝",
+				"description": "Building products for creators\n→ https://t.co/OwIAMfO7F9, https://t.co/BQezexxjm9, https://t.co/GWB7rKtGQn, https://t.co/6c34LuMkVN, https://t.co/yN2OLtZEL5\nGhost, subscriptions, newsletters.\nHead of Product by day.\nOpen DMs 💬",
+				"url": "https://t.co/QwC9IRzuBt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/QwC9IRzuBt",
+								"expanded_url": "https://ilo.so/dr/",
+								"display_url": "ilo.so/dr/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/OwIAMfO7F9",
+								"expanded_url": "http://ilo.so",
+								"display_url": "ilo.so",
+								"indices": [
+									33,
+									56
+								]
+							},
+							{
+								"url": "https://t.co/BQezexxjm9",
+								"expanded_url": "http://cove.chat",
+								"display_url": "cove.chat",
+								"indices": [
+									58,
+									81
+								]
+							},
+							{
+								"url": "https://t.co/GWB7rKtGQn",
+								"expanded_url": "http://subsail.com",
+								"display_url": "subsail.com",
+								"indices": [
+									83,
+									106
+								]
+							},
+							{
+								"url": "https://t.co/6c34LuMkVN",
+								"expanded_url": "http://gloat.dev",
+								"display_url": "gloat.dev",
+								"indices": [
+									108,
+									131
+								]
+							},
+							{
+								"url": "https://t.co/yN2OLtZEL5",
+								"expanded_url": "http://ongloat.com",
+								"display_url": "ongloat.com",
+								"indices": [
+									133,
+									156
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 7198,
+				"friends_count": 583,
+				"listed_count": 167,
+				"created_at": "Mon Sep 04 12:18:42 +0000 2006",
+				"favourites_count": 7835,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7202,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FBFAF5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1295705469126729728/nNU3Zxs-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1295705469126729728/nNU3Zxs-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5264/1601896448",
+				"profile_link_color": "91D2FA",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DFF0F5",
+				"profile_text_color": "3F3834",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "CMS met ingebakken nieuwsbrief-mogelijkheden. Interessant! https://t.co/2Vw25Bhp4q"
+	},
+	{
 		"created_at": "Sat Dec 05 16:53:07 +0000 2020",
 		"id": 1335265961230872600,
 		"id_str": "1335265961230872580",
