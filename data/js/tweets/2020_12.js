@@ -1,6 +1,389 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sat Dec 05 16:53:07 +0000 2020",
+		"id": 1335265961230872600,
+		"id_str": "1335265961230872580",
+		"full_text": "124 jaar oud filmpje. Wauw. https://t.co/NLkTKzADVk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NLkTKzADVk",
+					"expanded_url": "https://twitter.com/mikewarburton/status/1332607966529413133",
+					"display_url": "twitter.com/mikewarburton/…",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8923,
+			"friends_count": 626,
+			"listed_count": 560,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 6990,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63126,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1332607966529413000,
+		"quoted_status_id_str": "1332607966529413133",
+		"quoted_status_permalink": {
+			"url": "https://t.co/NLkTKzADVk",
+			"expanded": "https://twitter.com/mikewarburton/status/1332607966529413133",
+			"display": "twitter.com/mikewarburton/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Nov 28 08:51:12 +0000 2020",
+			"id": 1332607966529413000,
+			"id_str": "1332607966529413133",
+			"full_text": "Incredible colourised footage of a snowball fight filmed by cinema pioneers THE LUMIERE BROTHERS in 1896.\n https://t.co/ZpQadQFefl",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				130
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1324642198193868800,
+						"id_str": "1324642198193868801",
+						"indices": [
+							107,
+							130
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1324642198193868801/pu/img/aP5Cp7SzGIL5ICSP.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1324642198193868801/pu/img/aP5Cp7SzGIL5ICSP.jpg",
+						"url": "https://t.co/ZpQadQFefl",
+						"display_url": "pic.twitter.com/ZpQadQFefl",
+						"expanded_url": "https://twitter.com/vmarkov/status/1324642452221943808/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 964,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 964,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 508,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1324642452221943800,
+						"source_status_id_str": "1324642452221943808",
+						"source_user_id": 24343921,
+						"source_user_id_str": "24343921"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1324642198193868800,
+						"id_str": "1324642198193868801",
+						"indices": [
+							107,
+							130
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1324642198193868801/pu/img/aP5Cp7SzGIL5ICSP.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1324642198193868801/pu/img/aP5Cp7SzGIL5ICSP.jpg",
+						"url": "https://t.co/ZpQadQFefl",
+						"display_url": "pic.twitter.com/ZpQadQFefl",
+						"expanded_url": "https://twitter.com/vmarkov/status/1324642452221943808/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 964,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 964,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 508,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1324642452221943800,
+						"source_status_id_str": "1324642452221943808",
+						"source_user_id": 24343921,
+						"source_user_id_str": "24343921",
+						"video_info": {
+							"aspect_ratio": [
+								241,
+								180
+							],
+							"duration_millis": 52300,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1324642198193868801/pu/vid/360x270/kmfXofPrFwaFUq0J.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1324642198193868801/pu/vid/964x720/Qeqr05isoE36DFN8.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1324642198193868801/pu/pl/wiYRrmfcSYP9ehlF.m3u8?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1324642198193868801/pu/vid/482x360/IGHOEXTjFAvwMrgl.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 24343921,
+								"id_str": "24343921",
+								"name": "Vlad Markov",
+								"screen_name": "vmarkov",
+								"location": "San Francisco, CA",
+								"description": "Computer geek, from Silicon Valley, developing Technologies, essentially want World Peace.\nUnapologetically American, Francophone in my heart. \nLiving in France",
+								"url": "https://t.co/OBnkqfnP95",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/OBnkqfnP95",
+												"expanded_url": "https://www.linkedin.com/in/vmarkov/",
+												"display_url": "linkedin.com/in/vmarkov/",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 1315,
+								"friends_count": 166,
+								"listed_count": 12,
+								"created_at": "Sat Mar 14 07:16:08 +0000 2009",
+								"favourites_count": 18788,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": true,
+								"verified": false,
+								"statuses_count": 24798,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "C6E2EE",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/966441219478896640/JZHxjDw2_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/966441219478896640/JZHxjDw2_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/24343921/1437781772",
+								"profile_link_color": "1F98C7",
+								"profile_sidebar_border_color": "C6E2EE",
+								"profile_sidebar_fill_color": "DAECF4",
+								"profile_text_color": "663B12",
+								"profile_use_background_image": true,
+								"has_extended_profile": true,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20363221,
+				"id_str": "20363221",
+				"name": "Michael Warburton",
+				"screen_name": "mikewarburton",
+				"location": "London ",
+				"description": "Actor (All About Eve), Cinephile, Drummer, Funk Soul & Soho man. 🎄❄️☃️",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10956,
+				"friends_count": 442,
+				"listed_count": 196,
+				"created_at": "Sun Feb 08 12:15:50 +0000 2009",
+				"favourites_count": 59554,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 93628,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "BADFCD",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1334216431345561606/XmdQl8z9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1334216431345561606/XmdQl8z9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20363221/1601933606",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFF7CC",
+				"profile_text_color": "0C3E53",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 61,
+			"favorite_count": 207,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "124 jaar oud filmpje. Wauw. https://t.co/NLkTKzADVk"
+	},
+	{
 		"created_at": "Sat Dec 05 15:47:04 +0000 2020",
 		"id": 1335249337895563300,
 		"id_str": "1335249337895563265",
