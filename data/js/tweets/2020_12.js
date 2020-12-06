@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sun Dec 06 23:03:52 +0000 2020",
+		"id": 1335652292045856800,
+		"id_str": "1335721649157644289",
+		"full_text": "Does anyone have a theory for why RSS readers flamed out?\n\nAlso, does anyone have stats on their popularity over time? I couldn't find much from a quick google search, so \"flame out\" is just my personal, anecdotal experience from friends' usage.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			245
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 709644992,
+			"id_str": "709644992",
+			"name": "Devon ☀️",
+			"screen_name": "devonzuegel",
+			"location": "San Francisco",
+			"description": "I've gone to look for myself. If I return before I get back, please ask me to wait.\nProduct: @GitHub Code: @Bloom @Affirm Words: @StanfordReview @a16z @NotionHQ",
+			"url": "https://t.co/Mut8ghOyHS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Mut8ghOyHS",
+							"expanded_url": "http://www.devonzuegel.com/",
+							"display_url": "devonzuegel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37748,
+			"friends_count": 990,
+			"listed_count": 771,
+			"created_at": "Sat Jul 21 22:03:16 +0000 2012",
+			"favourites_count": 41892,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11513,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "333333",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1157349348541210624/V8l8duun_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1157349348541210624/V8l8duun_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/709644992/1439179171",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 103,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Does anyone have a theory for why RSS readers flamed out?\n\nAlso, does anyone have stats on their popularity over time? I couldn't find much from a quick google search, so \"flame out\" is just my personal, anecdotal experience from friends' usage."
+	},
+	{
 		"created_at": "Sun Dec 06 17:28:58 +0000 2020",
 		"id": 1335637370285256700,
 		"id_str": "1335637370285256705",
