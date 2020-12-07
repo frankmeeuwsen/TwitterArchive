@@ -1,6 +1,284 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Mon Dec 07 20:28:07 +0000 2020",
+		"id": 1336044842900656000,
+		"id_str": "1336044842900656131",
+		"full_text": "Live on stage een handleiding schrijven. Ik ben er nu al zenuwachtig over. (Nee maar echt! @elger, wat doe je me aan!) https://t.co/7NhrmKLCPR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "elger",
+					"name": "Elger van der Wel",
+					"id": 14142375,
+					"id_str": "14142375",
+					"indices": [
+						91,
+						97
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7NhrmKLCPR",
+					"expanded_url": "https://twitter.com/Frenetiek/status/1336043284158967809",
+					"display_url": "twitter.com/Frenetiek/stat…",
+					"indices": [
+						119,
+						142
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8919,
+			"friends_count": 628,
+			"listed_count": 560,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7002,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63144,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1336043284158967800,
+		"quoted_status_id_str": "1336043284158967809",
+		"quoted_status_permalink": {
+			"url": "https://t.co/7NhrmKLCPR",
+			"expanded": "https://twitter.com/Frenetiek/status/1336043284158967809",
+			"display": "twitter.com/Frenetiek/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 07 20:21:56 +0000 2020",
+			"id": 1336043284158967800,
+			"id_str": "1336043284158967809",
+			"full_text": "Op 14/12 schrijven nieuwsbrief-experts @elger, @FiaLaura &amp; @frankmeeuwsen samen een handleiding: hoe bouw je een succesvolle nieuwsbrief uit? Ik ga daar mijn bescheiden ervaring ook delen. Zin om mee te doen? #mediafastforward https://t.co/PXt27EOIyO",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				254
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "mediafastforward",
+						"indices": [
+							213,
+							230
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "elger",
+						"name": "Elger van der Wel",
+						"id": 14142375,
+						"id_str": "14142375",
+						"indices": [
+							39,
+							45
+						]
+					},
+					{
+						"screen_name": "FiaLaura",
+						"name": "Sophie van Oostvoorn",
+						"id": 182809136,
+						"id_str": "182809136",
+						"indices": [
+							47,
+							56
+						]
+					},
+					{
+						"screen_name": "frankmeeuwsen",
+						"name": "Frank Meeuwsen",
+						"id": 816203,
+						"id_str": "816203",
+						"indices": [
+							63,
+							77
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/PXt27EOIyO",
+						"expanded_url": "https://mediafastforward.be/sessie/how-to-hoe-maak-je-van-je-nieuwsbrief-een-serieuze-business/",
+						"display_url": "mediafastforward.be/sessie/how-to-…",
+						"indices": [
+							231,
+							254
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 44182754,
+				"id_str": "44182754",
+				"name": "✍️ Freek Evers",
+				"screen_name": "Frenetiek",
+				"location": "Sint-Jans-Molenbeek/Gent",
+				"description": "Spaarzaam met Twitter. Schrijft voor @demorgen. Schrijft wekelijks een korte, prikkelende nieuwsbrief. IG: @frenetiek. Contact: freek.evers@demorgen.be",
+				"url": "https://t.co/xHwRfSqyYe",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/xHwRfSqyYe",
+								"expanded_url": "https://freekevers.substack.com/",
+								"display_url": "freekevers.substack.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1924,
+				"friends_count": 1608,
+				"listed_count": 64,
+				"created_at": "Tue Jun 02 19:09:47 +0000 2009",
+				"favourites_count": 6738,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 220,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1310578478140592131/mskaqWD0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1310578478140592131/mskaqWD0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/44182754/1561052361",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Live on stage een handleiding schrijven. Ik ben er nu al zenuwachtig over. (Nee maar echt! @elger, wat doe je me aan!) https://t.co/7NhrmKLCPR"
+	},
+	{
 		"created_at": "Mon Dec 07 16:00:45 +0000 2020",
 		"id": 1335977555179032600,
 		"id_str": "1335977555179032578",
