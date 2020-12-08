@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Tue Dec 08 06:20:55 +0000 2020",
+		"id": 1336194023145533400,
+		"id_str": "1336194023145533440",
+		"full_text": "Hoe breng je de waarde van je nieuwsbrief onder woorden voor nieuwe lezers? Het antwoord én de abonnements-aanbeveling van de dag vind je in de OPEN Audiosnack. Te luisteren via de Cappuccino app nodig (https://t.co/lHcu3aSBMN) en de persoonlijke invitecode (463852). https://t.co/nXGib6PDjK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lHcu3aSBMN",
+					"expanded_url": "http://www.cappuccino.fm",
+					"display_url": "cappuccino.fm",
+					"indices": [
+						203,
+						226
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1336193928920494000,
+					"id_str": "1336193928920494083",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/EosdTIRW8AM3pcD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EosdTIRW8AM3pcD.jpg",
+					"url": "https://t.co/nXGib6PDjK",
+					"display_url": "pic.twitter.com/nXGib6PDjK",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1336194023145533440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1082,
+							"h": 608,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1082,
+							"h": 608,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1336193928920494000,
+					"id_str": "1336193928920494083",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/EosdTIRW8AM3pcD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EosdTIRW8AM3pcD.jpg",
+					"url": "https://t.co/nXGib6PDjK",
+					"display_url": "pic.twitter.com/nXGib6PDjK",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1336194023145533440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1082,
+							"h": 608,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1082,
+							"h": 608,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8919,
+			"friends_count": 629,
+			"listed_count": 560,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7002,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63145,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Hoe breng je de waarde van je nieuwsbrief onder woorden voor nieuwe lezers? Het antwoord én de abonnements-aanbeveling van de dag vind je in de OPEN Audiosnack. Te luisteren via de Cappuccino app nodig (https://t.co/lHcu3aSBMN) en de persoonlijke invitecode (463852). https://t.co/nXGib6PDjK"
+	},
+	{
 		"created_at": "Mon Dec 07 20:28:07 +0000 2020",
 		"id": 1336044842900656000,
 		"id_str": "1336044842900656131",
