@@ -1,6 +1,285 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Fri Dec 11 21:38:50 +0000 2020",
+		"id": 1337512190337806300,
+		"id_str": "1337512190337806338",
+		"full_text": "Goed dat sommige dingen consistent blijven in 2020.... https://t.co/bbUkhovyGq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bbUkhovyGq",
+					"expanded_url": "https://twitter.com/klup/status/1337426932934332419",
+					"display_url": "twitter.com/klup/status/13…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8910,
+			"friends_count": 628,
+			"listed_count": 560,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7006,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63150,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1337426932934332400,
+		"quoted_status_id_str": "1337426932934332419",
+		"quoted_status_permalink": {
+			"url": "https://t.co/bbUkhovyGq",
+			"expanded": "https://twitter.com/klup/status/1337426932934332419",
+			"display": "twitter.com/klup/status/13…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Dec 11 16:00:03 +0000 2020",
+			"id": 1337426932934332400,
+			"id_str": "1337426932934332419",
+			"full_text": "Top influentials webtech_nl Dec 1 @AlexanderNL 2 @erwblo 3 @Boris 4 @ejpfauth 5 @frankmeeuwsen https://t.co/Mnz2DThJvb",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				118
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "AlexanderNL",
+						"name": "Alexander Klöpping",
+						"id": 2239701,
+						"id_str": "2239701",
+						"indices": [
+							34,
+							46
+						]
+					},
+					{
+						"screen_name": "erwblo",
+						"name": "Erwin Blom",
+						"id": 713333,
+						"id_str": "713333",
+						"indices": [
+							49,
+							56
+						]
+					},
+					{
+						"screen_name": "Boris",
+						"name": "Boris Veldhuijzen van Zanten",
+						"id": 17463,
+						"id_str": "17463",
+						"indices": [
+							59,
+							65
+						]
+					},
+					{
+						"screen_name": "ejpfauth",
+						"name": "Ernst-Jan Pfauth",
+						"id": 9472802,
+						"id_str": "9472802",
+						"indices": [
+							68,
+							77
+						]
+					},
+					{
+						"screen_name": "frankmeeuwsen",
+						"name": "Frank Meeuwsen",
+						"id": 816203,
+						"id_str": "816203",
+						"indices": [
+							80,
+							94
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Mnz2DThJvb",
+						"expanded_url": "http://peerreach.com/lists/Webtech/nl",
+						"display_url": "peerreach.com/lists/Webtech/…",
+						"indices": [
+							95,
+							118
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://peerreach.com\" rel=\"nofollow\">PeerReach</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 6816072,
+				"id_str": "6816072",
+				"name": "Nico🐰",
+				"screen_name": "klup",
+				"location": "",
+				"description": "Co-founder of 3 kids. 020. Migrant uit 050. Expired Ph.D. in physics. Born 330 ppm CO2.",
+				"url": "https://t.co/Ic0CzSeim1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Ic0CzSeim1",
+								"expanded_url": "http://peerreach.com/klup",
+								"display_url": "peerreach.com/klup",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2385,
+				"friends_count": 2637,
+				"listed_count": 126,
+				"created_at": "Thu Jun 14 16:55:29 +0000 2007",
+				"favourites_count": 10129,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 48760,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ACDED6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1076085363578466305/HII5cytK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1076085363578466305/HII5cytK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/6816072/1465904567",
+				"profile_link_color": "038543",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F6F6F6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Goed dat sommige dingen consistent blijven in 2020.... https://t.co/bbUkhovyGq"
+	},
+	{
 		"created_at": "Thu Dec 10 10:12:17 +0000 2020",
 		"id": 1336977026729848800,
 		"id_str": "1336977026729848832",
