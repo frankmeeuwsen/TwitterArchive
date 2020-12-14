@@ -1,6 +1,300 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Mon Dec 14 18:12:54 +0000 2020",
+		"id": 1338547530565607400,
+		"id_str": "1338547530565607424",
+		"full_text": "Klein duwtje met een paar man en ze liggen in de vijver. Kan niet moeilijk zijn. https://t.co/5nwHwbUKCm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5nwHwbUKCm",
+					"expanded_url": "https://twitter.com/hausofsharon/status/1338545790185316356",
+					"display_url": "twitter.com/hausofsharon/s…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8911,
+			"friends_count": 630,
+			"listed_count": 560,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7013,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63179,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1338545790185316400,
+		"quoted_status_id_str": "1338545790185316356",
+		"quoted_status_permalink": {
+			"url": "https://t.co/5nwHwbUKCm",
+			"expanded": "https://twitter.com/hausofsharon/status/1338545790185316356",
+			"display": "twitter.com/hausofsharon/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 14 18:06:00 +0000 2020",
+			"id": 1338545790185316400,
+			"id_str": "1338545790185316356",
+			"full_text": "@DieTukkerfries Viruswappies, laat je horen! https://t.co/e6qpwhF6Ky",
+			"truncated": false,
+			"display_text_range": [
+				16,
+				44
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DieTukkerfries",
+						"name": "Jelmer Visser",
+						"id": 22024763,
+						"id_str": "22024763",
+						"indices": [
+							0,
+							15
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1338545779267526700,
+						"id_str": "1338545779267526658",
+						"indices": [
+							45,
+							68
+						],
+						"media_url": "http://pbs.twimg.com/media/EpN4S1jW4AIBnn9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EpN4S1jW4AIBnn9.jpg",
+						"url": "https://t.co/e6qpwhF6Ky",
+						"display_url": "pic.twitter.com/e6qpwhF6Ky",
+						"expanded_url": "https://twitter.com/HausOfSharon/status/1338545790185316356/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1338545779267526700,
+						"id_str": "1338545779267526658",
+						"indices": [
+							45,
+							68
+						],
+						"media_url": "http://pbs.twimg.com/media/EpN4S1jW4AIBnn9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EpN4S1jW4AIBnn9.jpg",
+						"url": "https://t.co/e6qpwhF6Ky",
+						"display_url": "pic.twitter.com/e6qpwhF6Ky",
+						"expanded_url": "https://twitter.com/HausOfSharon/status/1338545790185316356/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1338545465562976300,
+			"in_reply_to_status_id_str": "1338545465562976261",
+			"in_reply_to_user_id": 22024763,
+			"in_reply_to_user_id_str": "22024763",
+			"in_reply_to_screen_name": "DieTukkerfries",
+			"user": {
+				"id": 21109954,
+				"id_str": "21109954",
+				"name": "Sharon",
+				"screen_name": "HausOfSharon",
+				"location": "Vlissingen, Nederland",
+				"description": "You are the one you've been waiting for. All of your life.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 798,
+				"friends_count": 239,
+				"listed_count": 31,
+				"created_at": "Tue Feb 17 17:43:35 +0000 2009",
+				"favourites_count": 20276,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 22908,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1306211520079163392/lD1Iv0tr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1306211520079163392/lD1Iv0tr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21109954/1529330964",
+				"profile_link_color": "F5ABB5",
+				"profile_sidebar_border_color": "AD0707",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Klein duwtje met een paar man en ze liggen in de vijver. Kan niet moeilijk zijn. https://t.co/5nwHwbUKCm"
+	},
+	{
 		"created_at": "Mon Dec 14 16:35:41 +0000 2020",
 		"id": 1338523063953092600,
 		"id_str": "1338523063953092610",
