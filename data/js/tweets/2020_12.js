@@ -1,6 +1,340 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Mon Dec 14 15:56:25 +0000 2020",
+		"id": 1338513179417129000,
+		"id_str": "1338513179417128961",
+		"full_text": "@erwblo @dim Alles bij Google is ook niet ideaal blijkt maar weer. Ik zeg ook niet zelf hosten en backuppen. Maar wat spreiding van diensten kan geen kwaad toch?",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "erwblo",
+					"name": "Erwin Blom",
+					"id": 713333,
+					"id_str": "713333",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "dim",
+					"name": "Dim!",
+					"id": 14168328,
+					"id_str": "14168328",
+					"indices": [
+						8,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1338506778389180400,
+		"in_reply_to_status_id_str": "1338506778389180416",
+		"in_reply_to_user_id": 713333,
+		"in_reply_to_user_id_str": "713333",
+		"in_reply_to_screen_name": "erwblo",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8911,
+			"friends_count": 630,
+			"listed_count": 560,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7013,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@erwblo @dim Alles bij Google is ook niet ideaal blijkt maar weer. Ik zeg ook niet zelf hosten en backuppen. Maar wat spreiding van diensten kan geen kwaad toch?"
+	},
+	{
+		"created_at": "Mon Dec 14 15:22:54 +0000 2020",
+		"id": 1338504747490357200,
+		"id_str": "1338504747490357248",
+		"full_text": "@ChristaRomp Hier, een stukje Ome Ed beleving naar je toe om de pijn te verzachten. https://t.co/6D4ZXLjmci",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ChristaRomp",
+					"name": "Christa Romp",
+					"id": 26492815,
+					"id_str": "26492815",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1338504739076583400,
+					"id_str": "1338504739076583424",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EpNS9-7WMAApcb2.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EpNS9-7WMAApcb2.jpg",
+					"url": "https://t.co/6D4ZXLjmci",
+					"display_url": "pic.twitter.com/6D4ZXLjmci",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1338504747490357248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 250,
+							"h": 140,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 140,
+							"h": 140,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 250,
+							"h": 140,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 250,
+							"h": 140,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1338504739076583400,
+					"id_str": "1338504739076583424",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EpNS9-7WMAApcb2.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EpNS9-7WMAApcb2.jpg",
+					"url": "https://t.co/6D4ZXLjmci",
+					"display_url": "pic.twitter.com/6D4ZXLjmci",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1338504747490357248/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 250,
+							"h": 140,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 140,
+							"h": 140,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 250,
+							"h": 140,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 250,
+							"h": 140,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							25,
+							14
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EpNS9-7WMAApcb2.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1338497023608283100,
+		"in_reply_to_status_id_str": "1338497023608283136",
+		"in_reply_to_user_id": 26492815,
+		"in_reply_to_user_id_str": "26492815",
+		"in_reply_to_screen_name": "ChristaRomp",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8911,
+			"friends_count": 630,
+			"listed_count": 560,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7013,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@ChristaRomp Hier, een stukje Ome Ed beleving naar je toe om de pijn te verzachten. https://t.co/6D4ZXLjmci"
+	},
+	{
 		"created_at": "Mon Dec 14 15:19:48 +0000 2020",
 		"id": 1338503967110811600,
 		"id_str": "1338503967110811648",
