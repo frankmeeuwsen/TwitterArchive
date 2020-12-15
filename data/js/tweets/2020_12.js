@@ -1,6 +1,317 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Tue Dec 15 20:24:30 +0000 2020",
+		"id": 1338943034478694400,
+		"id_str": "1338943034478694402",
+		"full_text": "Webgeschiedenis. https://t.co/ItYz1M4t45",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ItYz1M4t45",
+					"expanded_url": "https://twitter.com/webdesignmuseum/status/1338940880057757701",
+					"display_url": "twitter.com/webdesignmuseu…",
+					"indices": [
+						17,
+						40
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8909,
+			"friends_count": 632,
+			"listed_count": 560,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7023,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63189,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1338940880057757700,
+		"quoted_status_id_str": "1338940880057757701",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ItYz1M4t45",
+			"expanded": "https://twitter.com/webdesignmuseum/status/1338940880057757701",
+			"display": "twitter.com/webdesignmuseu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Dec 15 20:15:56 +0000 2020",
+			"id": 1338940880057757700,
+			"id_str": "1338940880057757701",
+			"full_text": "Happy 26th Birthday Netscape Navigator 1.0! On December 15, 1994, The Netscape Communications Corporation released the web browser Netscape Navigator 1.0.\n#Netscape #InternetHistory https://t.co/k6FiUgOjMp",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				181
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Netscape",
+						"indices": [
+							155,
+							164
+						]
+					},
+					{
+						"text": "InternetHistory",
+						"indices": [
+							165,
+							181
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1338940817239658500,
+						"id_str": "1338940817239658497",
+						"indices": [
+							182,
+							205
+						],
+						"media_url": "http://pbs.twimg.com/media/EpTflErXUAEzbsY.png",
+						"media_url_https": "https://pbs.twimg.com/media/EpTflErXUAEzbsY.png",
+						"url": "https://t.co/k6FiUgOjMp",
+						"display_url": "pic.twitter.com/k6FiUgOjMp",
+						"expanded_url": "https://twitter.com/WebDesignMuseum/status/1338940880057757701/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 630,
+								"h": 470,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 630,
+								"h": 470,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 630,
+								"h": 470,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1338940817239658500,
+						"id_str": "1338940817239658497",
+						"indices": [
+							182,
+							205
+						],
+						"media_url": "http://pbs.twimg.com/media/EpTflErXUAEzbsY.png",
+						"media_url_https": "https://pbs.twimg.com/media/EpTflErXUAEzbsY.png",
+						"url": "https://t.co/k6FiUgOjMp",
+						"display_url": "pic.twitter.com/k6FiUgOjMp",
+						"expanded_url": "https://twitter.com/WebDesignMuseum/status/1338940880057757701/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 630,
+								"h": 470,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 630,
+								"h": 470,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 630,
+								"h": 470,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 738019344047845400,
+				"id_str": "738019344047845377",
+				"name": "Web Design Museum",
+				"screen_name": "WebDesignMuseum",
+				"location": "",
+				"description": "Web Design Museum exhibits over 1,600 carefully selected and sorted web sites that show web design trends between the years 1991 and 2006.",
+				"url": "https://t.co/vyFBftWgRB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vyFBftWgRB",
+								"expanded_url": "http://www.webdesignmuseum.org",
+								"display_url": "webdesignmuseum.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5425,
+				"friends_count": 20,
+				"listed_count": 79,
+				"created_at": "Wed Jun 01 14:48:18 +0000 2016",
+				"favourites_count": 17846,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2105,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/860928105975885828/8XLNUZIa_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/860928105975885828/8XLNUZIa_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/738019344047845377/1541958150",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 41,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Webgeschiedenis. https://t.co/ItYz1M4t45"
+	},
+	{
 		"created_at": "Tue Dec 15 18:58:18 +0000 2020",
 		"id": 1338921340590579700,
 		"id_str": "1338921340590579713",
@@ -218,7 +529,7 @@ Grailbird.data.tweets_2020_12 =
 			"user": {
 				"id": 54333244,
 				"id_str": "54333244",
-				"name": "👩🏼‍💻 Marie Dollé",
+				"name": "👩🏼💻 Marie Dollé",
 				"screen_name": "MarieDOLLE",
 				"location": "Paris, baby!",
 				"description": "Curious mind with an eager eye for emerging game-changers 🧠 Quadrilingual. Substacker, link here👇 Views are mine.",
