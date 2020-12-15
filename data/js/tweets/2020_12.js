@@ -1,6 +1,302 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Tue Dec 15 18:58:18 +0000 2020",
+		"id": 1338921340590579700,
+		"id_str": "1338921340590579713",
+		"full_text": "Curious to see what you come up with this time Marie! Article is in production? https://t.co/yq3UufL74q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yq3UufL74q",
+					"expanded_url": "https://twitter.com/mariedolle/status/1338919108172275714",
+					"display_url": "twitter.com/mariedolle/sta…",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8909,
+			"friends_count": 632,
+			"listed_count": 560,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7021,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63188,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1338919108172275700,
+		"quoted_status_id_str": "1338919108172275714",
+		"quoted_status_permalink": {
+			"url": "https://t.co/yq3UufL74q",
+			"expanded": "https://twitter.com/mariedolle/status/1338919108172275714",
+			"display": "twitter.com/mariedolle/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Dec 15 18:49:25 +0000 2020",
+			"id": 1338919108172275700,
+			"id_str": "1338919108172275714",
+			"full_text": "Unbundling Linkedin. Started mapping it out like this... but it actually goes way deeper,7 subcategories in the learning category alone. Big Bang. 🤯 https://t.co/hMUo7ksuUX",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				148
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1338918304237367300,
+						"id_str": "1338918304237367296",
+						"indices": [
+							149,
+							172
+						],
+						"media_url": "http://pbs.twimg.com/media/EpTLGpNWMAAaJeV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EpTLGpNWMAAaJeV.jpg",
+						"url": "https://t.co/hMUo7ksuUX",
+						"display_url": "pic.twitter.com/hMUo7ksuUX",
+						"expanded_url": "https://twitter.com/MarieDOLLE/status/1338919108172275714/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1510,
+								"h": 1074,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 854,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 484,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1338918304237367300,
+						"id_str": "1338918304237367296",
+						"indices": [
+							149,
+							172
+						],
+						"media_url": "http://pbs.twimg.com/media/EpTLGpNWMAAaJeV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EpTLGpNWMAAaJeV.jpg",
+						"url": "https://t.co/hMUo7ksuUX",
+						"display_url": "pic.twitter.com/hMUo7ksuUX",
+						"expanded_url": "https://twitter.com/MarieDOLLE/status/1338919108172275714/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1510,
+								"h": 1074,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 854,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 484,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 54333244,
+				"id_str": "54333244",
+				"name": "👩🏼‍💻 Marie Dollé",
+				"screen_name": "MarieDOLLE",
+				"location": "Paris, baby!",
+				"description": "Curious mind with an eager eye for emerging game-changers 🧠 Quadrilingual. Substacker, link here👇 Views are mine.",
+				"url": "https://t.co/JGGMesDrni",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JGGMesDrni",
+								"expanded_url": "https://linktr.ee/Mariedolle",
+								"display_url": "linktr.ee/Mariedolle",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7423,
+				"friends_count": 2888,
+				"listed_count": 462,
+				"created_at": "Mon Jul 06 21:07:25 +0000 2009",
+				"favourites_count": 9861,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 13422,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1277993716322615297/7WbmO4Du_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277993716322615297/7WbmO4Du_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/54333244/1586580510",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Curious to see what you come up with this time Marie! Article is in production? https://t.co/yq3UufL74q"
+	},
+	{
 		"created_at": "Tue Dec 15 09:30:41 +0000 2020",
 		"id": 1338778494764003300,
 		"id_str": "1338778494764003333",
