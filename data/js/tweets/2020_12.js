@@ -1,6 +1,252 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 17 20:52:19 +0000 2020",
+		"id": 1339674809689641000,
+		"id_str": "1339674809689640962",
+		"full_text": "De allerbesteste afsluiter van 2020 bij @Kaliberinteract. Met een paar man in het clubhuis, live muziek van de Flageolettes voor iedereen via video. Nooit gedacht met zo’n glimlach dit kutjaar uit te luiden. Topshit eindbazen  @Roh en @heusie https://t.co/Oh7FBGzyE9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			242
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Kaliberinteract",
+					"name": "Kaliber",
+					"id": 10932162,
+					"id_str": "10932162",
+					"indices": [
+						40,
+						56
+					]
+				},
+				{
+					"screen_name": "Roh",
+					"name": "Ronald van Schaik",
+					"id": 1447551,
+					"id_str": "1447551",
+					"indices": [
+						227,
+						231
+					]
+				},
+				{
+					"screen_name": "heusie",
+					"name": "Nienke van Heusden",
+					"id": 99101689,
+					"id_str": "99101689",
+					"indices": [
+						235,
+						242
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1339674724281045000,
+					"id_str": "1339674724281044996",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1339674724281044996/pu/img/-3sF0o2ep_y722kB.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1339674724281044996/pu/img/-3sF0o2ep_y722kB.jpg",
+					"url": "https://t.co/Oh7FBGzyE9",
+					"display_url": "pic.twitter.com/Oh7FBGzyE9",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1339674809689640962/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1339674724281045000,
+					"id_str": "1339674724281044996",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1339674724281044996/pu/img/-3sF0o2ep_y722kB.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1339674724281044996/pu/img/-3sF0o2ep_y722kB.jpg",
+					"url": "https://t.co/Oh7FBGzyE9",
+					"display_url": "pic.twitter.com/Oh7FBGzyE9",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1339674809689640962/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 25322,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1339674724281044996/pu/vid/720x1280/mVHOH1JpPcAlFnQy.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1339674724281044996/pu/vid/320x568/ktoZMCFp1ahr1ZzA.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1339674724281044996/pu/vid/360x640/WCLuU3T8bOgTB5JR.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1339674724281044996/pu/pl/B64O200fJE4qC_gi.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8908,
+			"friends_count": 633,
+			"listed_count": 560,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7034,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63205,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "De allerbesteste afsluiter van 2020 bij @Kaliberinteract. Met een paar man in het clubhuis, live muziek van de Flageolettes voor iedereen via video. Nooit gedacht met zo’n glimlach dit kutjaar uit te luiden. Topshit eindbazen  @Roh en @heusie https://t.co/Oh7FBGzyE9"
+	},
+	{
 		"created_at": "Thu Dec 17 12:06:49 +0000 2020",
 		"id": 1339542565339738000,
 		"id_str": "1339542565339738115",
