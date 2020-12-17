@@ -1,6 +1,244 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 17 05:21:27 +0000 2020",
+		"id": 1339257875034566700,
+		"id_str": "1339440549493927938",
+		"full_text": "I always awkwardly struggle to get to the end call button on video calls. So I made this https://t.co/4z4zsxNkeQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1339257850363723800,
+					"id_str": "1339257850363723777",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1339257850363723777/pu/img/uQ31zETjNIUnW0gy.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1339257850363723777/pu/img/uQ31zETjNIUnW0gy.jpg",
+					"url": "https://t.co/4z4zsxNkeQ",
+					"display_url": "pic.twitter.com/4z4zsxNkeQ",
+					"expanded_url": "https://twitter.com/lanewinfield/status/1339257875034566656/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1339257850363723800,
+					"id_str": "1339257850363723777",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1339257850363723777/pu/img/uQ31zETjNIUnW0gy.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1339257850363723777/pu/img/uQ31zETjNIUnW0gy.jpg",
+					"url": "https://t.co/4z4zsxNkeQ",
+					"display_url": "pic.twitter.com/4z4zsxNkeQ",
+					"expanded_url": "https://twitter.com/lanewinfield/status/1339257875034566656/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 21855,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1339257850363723777/pu/vid/480x270/l-B6EUZOYuTae3Fr.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1339257850363723777/pu/vid/1280x720/aeRjFnxxdCxdaB-B.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1339257850363723777/pu/vid/640x360/PkRs_ygEsSsBcn1g.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1339257850363723777/pu/pl/eK2CEf5B9oK2ZS7Z.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 6194102,
+			"id_str": "6194102",
+			"name": "Brian Moore",
+			"screen_name": "lanewinfield",
+			"location": "Now, suddenly, Los Angeles",
+			"description": "creative director/technologist at @anomaly. probably has an ironic business type on instagram like 'dairy farm' or 'non-profit'. he/him",
+			"url": "https://t.co/7UibRDVw9v",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7UibRDVw9v",
+							"expanded_url": "http://brianmoore.com",
+							"display_url": "brianmoore.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2728,
+			"friends_count": 540,
+			"listed_count": 75,
+			"created_at": "Mon May 21 08:36:13 +0000 2007",
+			"favourites_count": 13237,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12042,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "95DBE1",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/778975063102091264/-IujVfjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/778975063102091264/-IujVfjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/6194102/1474239334",
+			"profile_link_color": "349391",
+			"profile_sidebar_border_color": "7AA1EB",
+			"profile_sidebar_fill_color": "EEF5F7",
+			"profile_text_color": "333324",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "Verenigde Staten",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1621,
+		"favorite_count": 9983,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I always awkwardly struggle to get to the end call button on video calls. So I made this https://t.co/4z4zsxNkeQ"
+	},
+	{
 		"created_at": "Wed Dec 16 20:19:13 +0000 2020",
 		"id": 1339304091026075600,
 		"id_str": "1339304091026075657",
