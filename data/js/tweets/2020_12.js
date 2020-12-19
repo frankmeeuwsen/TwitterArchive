@@ -1,6 +1,153 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sat Dec 19 11:46:20 +0000 2020",
+		"id": 1340262186799804400,
+		"id_str": "1340262186799804417",
+		"full_text": "@wilg @Jeroedeb @Blauw Een wat uitgebreide versie lees je in mijn nieuwsbrief: https://t.co/Ic65oEbeHG bottomline: gesloten app met slechte discovery en niet passend bij mijn usecase (podcast ipv audio-berichten naar elkaar sturen)",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			231
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wilg",
+					"name": "Esther Gons",
+					"id": 9912022,
+					"id_str": "9912022",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"screen_name": "Jeroedeb",
+					"name": "Jeroen de Bakker 🎧",
+					"id": 6618672,
+					"id_str": "6618672",
+					"indices": [
+						6,
+						15
+					]
+				},
+				{
+					"screen_name": "Blauw",
+					"name": "Jos van Essen",
+					"id": 15789130,
+					"id_str": "15789130",
+					"indices": [
+						16,
+						22
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ic65oEbeHG",
+					"expanded_url": "https://diggingthedigital.com/open-s02e20/",
+					"display_url": "diggingthedigital.com/open-s02e20/",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1340251775652278300,
+		"in_reply_to_status_id_str": "1340251775652278272",
+		"in_reply_to_user_id": 9912022,
+		"in_reply_to_user_id_str": "9912022",
+		"in_reply_to_screen_name": "wilg",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8907,
+			"friends_count": 634,
+			"listed_count": 560,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7038,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63211,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@wilg @Jeroedeb @Blauw Een wat uitgebreide versie lees je in mijn nieuwsbrief: https://t.co/Ic65oEbeHG bottomline: gesloten app met slechte discovery en niet passend bij mijn usecase (podcast ipv audio-berichten naar elkaar sturen)"
+	},
+	{
 		"created_at": "Sat Dec 19 10:45:58 +0000 2020",
 		"id": 1340246993231376400,
 		"id_str": "1340246993231376384",
