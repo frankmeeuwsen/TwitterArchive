@@ -1,6 +1,323 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Mon Dec 21 13:16:09 +0000 2020",
+		"id": 1341009563336765400,
+		"id_str": "1341009563336765447",
+		"full_text": "Oh wow, dat is handig! Een speciaal scherm voor werk-gerelateerde apps die je uit kunt zetten als nodig. Zoals nu, want vakantie :-) https://t.co/CIU3nVNvFM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CIU3nVNvFM",
+					"expanded_url": "https://twitter.com/Onvoorstelbaard/status/1341001771582369802",
+					"display_url": "twitter.com/Onvoorstelbaar…",
+					"indices": [
+						133,
+						156
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8909,
+			"friends_count": 634,
+			"listed_count": 560,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7043,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63231,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1341001771582369800,
+		"quoted_status_id_str": "1341001771582369802",
+		"quoted_status_permalink": {
+			"url": "https://t.co/CIU3nVNvFM",
+			"expanded": "https://twitter.com/Onvoorstelbaard/status/1341001771582369802",
+			"display": "twitter.com/Onvoorstelbaar…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 21 12:45:11 +0000 2020",
+			"id": 1341001771582369800,
+			"id_str": "1341001771582369802",
+			"full_text": "@PimOremans @Scarbir Als je bij ‘wiggle mode’ op de pagina stippen klikt kan je pagina’s aan- en uit zetten. https://t.co/jAqr2JBWr9",
+			"truncated": false,
+			"display_text_range": [
+				21,
+				108
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "PimOremans",
+						"name": "Pim Oremans",
+						"id": 82195457,
+						"id_str": "82195457",
+						"indices": [
+							0,
+							11
+						]
+					},
+					{
+						"screen_name": "Scarbir",
+						"name": "Bart Breij",
+						"id": 12458682,
+						"id_str": "12458682",
+						"indices": [
+							12,
+							20
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1341001767354511400,
+						"id_str": "1341001767354511362",
+						"indices": [
+							109,
+							132
+						],
+						"media_url": "http://pbs.twimg.com/media/EpwyAKJWMAIaNgz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EpwyAKJWMAIaNgz.jpg",
+						"url": "https://t.co/jAqr2JBWr9",
+						"display_url": "pic.twitter.com/jAqr2JBWr9",
+						"expanded_url": "https://twitter.com/Onvoorstelbaard/status/1341001771582369802/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 946,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 314,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 554,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1341001767354511400,
+						"id_str": "1341001767354511362",
+						"indices": [
+							109,
+							132
+						],
+						"media_url": "http://pbs.twimg.com/media/EpwyAKJWMAIaNgz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EpwyAKJWMAIaNgz.jpg",
+						"url": "https://t.co/jAqr2JBWr9",
+						"display_url": "pic.twitter.com/jAqr2JBWr9",
+						"expanded_url": "https://twitter.com/Onvoorstelbaard/status/1341001771582369802/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 946,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 314,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 554,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1341001517705392000,
+			"in_reply_to_status_id_str": "1341001517705392130",
+			"in_reply_to_user_id": 82195457,
+			"in_reply_to_user_id_str": "82195457",
+			"in_reply_to_screen_name": "PimOremans",
+			"user": {
+				"id": 87537349,
+				"id_str": "87537349",
+				"name": "Maarten",
+				"screen_name": "Onvoorstelbaard",
+				"location": "Utrecht",
+				"description": "Ik kan mijzelf niet altijd helemaal volgen, maar jullie kunnen hier een poging doen",
+				"url": "https://t.co/WDx397aFdl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WDx397aFdl",
+								"expanded_url": "https://www.instagram.com/onvoorstelbaard",
+								"display_url": "instagram.com/onvoorstelbaard",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4752,
+				"friends_count": 413,
+				"listed_count": 55,
+				"created_at": "Wed Nov 04 21:27:49 +0000 2009",
+				"favourites_count": 11208,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 141583,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1339914397955874821/gNLyO_t8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1339914397955874821/gNLyO_t8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/87537349/1520862153",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Oh wow, dat is handig! Een speciaal scherm voor werk-gerelateerde apps die je uit kunt zetten als nodig. Zoals nu, want vakantie :-) https://t.co/CIU3nVNvFM"
+	},
+	{
 		"created_at": "Mon Dec 21 10:48:01 +0000 2020",
 		"id": 1340972284245323800,
 		"id_str": "1340972284245323776",
