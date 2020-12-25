@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Fri Dec 25 16:32:36 +0000 2020",
+		"id": 1342500866964787200,
+		"id_str": "1342508554679439362",
+		"full_text": "Happy 30th Birthday WorldWideWeb – the first browser! On December 25, 1990, at CERN, a British physicist and internet pioneer Tim Berners-Lee created the world's first web browser, called WorldWideWeb.  \nhttps://t.co/Q6yBDVinpH\n#CERN #WWW #InternetHistory https://t.co/tROlKQSo4N",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			255
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CERN",
+					"indices": [
+						228,
+						233
+					]
+				},
+				{
+					"text": "WWW",
+					"indices": [
+						234,
+						238
+					]
+				},
+				{
+					"text": "InternetHistory",
+					"indices": [
+						239,
+						255
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Q6yBDVinpH",
+					"expanded_url": "https://www.webdesignmuseum.org/web-design-history/worldwideweb-the-first-browser-1990",
+					"display_url": "webdesignmuseum.org/web-design-his…",
+					"indices": [
+						204,
+						227
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1342500865861705700,
+					"id_str": "1342500865861705732",
+					"indices": [
+						256,
+						279
+					],
+					"media_url": "http://pbs.twimg.com/media/EqGFbLRXYAQbMVa.png",
+					"media_url_https": "https://pbs.twimg.com/media/EqGFbLRXYAQbMVa.png",
+					"url": "https://t.co/tROlKQSo4N",
+					"display_url": "pic.twitter.com/tROlKQSo4N",
+					"expanded_url": "https://twitter.com/WebDesignMuseum/status/1342500866964787203/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 830,
+							"h": 780,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 830,
+							"h": 780,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 639,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1342500865861705700,
+					"id_str": "1342500865861705732",
+					"indices": [
+						256,
+						279
+					],
+					"media_url": "http://pbs.twimg.com/media/EqGFbLRXYAQbMVa.png",
+					"media_url_https": "https://pbs.twimg.com/media/EqGFbLRXYAQbMVa.png",
+					"url": "https://t.co/tROlKQSo4N",
+					"display_url": "pic.twitter.com/tROlKQSo4N",
+					"expanded_url": "https://twitter.com/WebDesignMuseum/status/1342500866964787203/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 830,
+							"h": 780,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 830,
+							"h": 780,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 639,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 738019344047845400,
+			"id_str": "738019344047845377",
+			"name": "Web Design Museum",
+			"screen_name": "WebDesignMuseum",
+			"location": "",
+			"description": "Web Design Museum exhibits over 1,600 carefully selected and sorted web sites that show web design trends between the years 1991 and 2006.",
+			"url": "https://t.co/vyFBftWgRB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vyFBftWgRB",
+							"expanded_url": "http://www.webdesignmuseum.org",
+							"display_url": "webdesignmuseum.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5491,
+			"friends_count": 20,
+			"listed_count": 79,
+			"created_at": "Wed Jun 01 14:48:18 +0000 2016",
+			"favourites_count": 18096,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2127,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/860928105975885828/8XLNUZIa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/860928105975885828/8XLNUZIa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/738019344047845377/1541958150",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 34,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Happy 30th Birthday WorldWideWeb – the first browser! On December 25, 1990, at CERN, a British physicist and internet pioneer Tim Berners-Lee created the world's first web browser, called WorldWideWeb.  \nhttps://t.co/Q6yBDVinpH\n#CERN #WWW #InternetHistory https://t.co/tROlKQSo4N"
+	},
+	{
 		"created_at": "Fri Dec 25 11:20:41 +0000 2020",
 		"id": 1342430056375840800,
 		"id_str": "1342430056375840768",
