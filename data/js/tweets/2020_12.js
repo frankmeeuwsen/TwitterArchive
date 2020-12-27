@@ -1,6 +1,245 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sun Dec 27 09:43:26 +0000 2020",
+		"id": 1343130358141890600,
+		"id_str": "1343130358141890560",
+		"full_text": "De 500e titel in de database. 500 nieuwsbrieftitels voor jou om te ontdekken. Er zit altijd wel iets bij voor jouw interesse. Van mode tot muziek. Van startups tot opvoeding. https://t.co/EyWdG3YHO7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EyWdG3YHO7",
+					"expanded_url": "https://twitter.com/ForSubscribing/status/1343129900220342272",
+					"display_url": "twitter.com/ForSubscribing…",
+					"indices": [
+						175,
+						198
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8917,
+			"friends_count": 641,
+			"listed_count": 560,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7072,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1343129900220342300,
+		"quoted_status_id_str": "1343129900220342272",
+		"quoted_status_permalink": {
+			"url": "https://t.co/EyWdG3YHO7",
+			"expanded": "https://twitter.com/ForSubscribing/status/1343129900220342272",
+			"display": "twitter.com/ForSubscribing…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Dec 27 09:41:37 +0000 2020",
+			"id": 1343129900220342300,
+			"id_str": "1343129900220342272",
+			"full_text": "Need a cool title in your inbox? Check out this one!\n🖱Klikdinges by @JerryVermanen\n\nhttps://t.co/gQCdJEqPX1",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				107
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "JerryVermanen",
+						"name": "Jerry Vermanen",
+						"id": 40368679,
+						"id_str": "40368679",
+						"indices": [
+							68,
+							82
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/gQCdJEqPX1",
+						"expanded_url": "https://thanksforsubscribing.app/newsletter/klikdinges",
+						"display_url": "thanksforsubscribing.app/newsletter/kli…",
+						"indices": [
+							84,
+							107
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.integromat.com\" rel=\"nofollow\">Integromat</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1221904161492566000,
+				"id_str": "1221904161492566016",
+				"name": "Thanks for Subscribing",
+				"screen_name": "ForSubscribing",
+				"location": "Utrecht, Nederland",
+				"description": "Make your inbox happy again and check out the best newsletters from around the 🌎! Curated by @frankmeeuwsen",
+				"url": "https://t.co/EUi1JLKpnL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/EUi1JLKpnL",
+								"expanded_url": "https://thanksforsubscribing.app",
+								"display_url": "thanksforsubscribing.app",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 167,
+				"friends_count": 86,
+				"listed_count": 10,
+				"created_at": "Mon Jan 27 21:14:06 +0000 2020",
+				"favourites_count": 63,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 437,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1221904344695656448/Z2Gu1jee_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1221904344695656448/Z2Gu1jee_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1221904161492566016/1590584335",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "De 500e titel in de database. 500 nieuwsbrieftitels voor jou om te ontdekken. Er zit altijd wel iets bij voor jouw interesse. Van mode tot muziek. Van startups tot opvoeding. https://t.co/EyWdG3YHO7"
+	},
+	{
 		"created_at": "Sun Dec 27 09:07:56 +0000 2020",
 		"id": 1343121424043679700,
 		"id_str": "1343121424043679745",
