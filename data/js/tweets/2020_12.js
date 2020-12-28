@@ -1,6 +1,333 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Mon Dec 28 11:50:32 +0000 2020",
+		"id": 1343524734106005500,
+		"id_str": "1343524734106005506",
+		"full_text": "Deze plugin wordt echt steeds beter als je een nieuwsbrief en blog wilt combineren. https://t.co/IE0KMpohFG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IE0KMpohFG",
+					"expanded_url": "https://twitter.com/NewsletterGlue/status/1343514227563098113",
+					"display_url": "twitter.com/NewsletterGlue…",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8914,
+			"friends_count": 642,
+			"listed_count": 558,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7075,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63264,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1343514227563098000,
+		"quoted_status_id_str": "1343514227563098113",
+		"quoted_status_permalink": {
+			"url": "https://t.co/IE0KMpohFG",
+			"expanded": "https://twitter.com/NewsletterGlue/status/1343514227563098113",
+			"display": "twitter.com/NewsletterGlue…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 28 11:08:47 +0000 2020",
+			"id": 1343514227563098000,
+			"id_str": "1343514227563098113",
+			"full_text": "Just launched post embeds! 🥳\n\nPerfect if you write a weekly round up or curation newsletter.\n\nAutomatically pull the header, excerpt and featured image from any link.\n\nEdit text directly. Make styling changes to every part. https://t.co/dPknLMeGHN",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				223
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1343513519501631500,
+						"id_str": "1343513519501631488",
+						"indices": [
+							224,
+							247
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1343513519501631488/pu/img/PVNukWriWm6MQRN8.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1343513519501631488/pu/img/PVNukWriWm6MQRN8.jpg",
+						"url": "https://t.co/dPknLMeGHN",
+						"display_url": "pic.twitter.com/dPknLMeGHN",
+						"expanded_url": "https://twitter.com/NewsletterGlue/status/1343514227563098113/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1278,
+								"h": 720,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 676,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1343513519501631500,
+						"id_str": "1343513519501631488",
+						"indices": [
+							224,
+							247
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1343513519501631488/pu/img/PVNukWriWm6MQRN8.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1343513519501631488/pu/img/PVNukWriWm6MQRN8.jpg",
+						"url": "https://t.co/dPknLMeGHN",
+						"display_url": "pic.twitter.com/dPknLMeGHN",
+						"expanded_url": "https://twitter.com/NewsletterGlue/status/1343514227563098113/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1278,
+								"h": 720,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 676,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								71,
+								40
+							],
+							"duration_millis": 21300,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1343513519501631488/pu/vid/478x270/ih_Ei84TX90xTEiN.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1343513519501631488/pu/vid/1278x720/5a--I4ewsbaWJwZ8.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1343513519501631488/pu/vid/638x360/d1YWCOmZ6FU41P_e.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1343513519501631488/pu/pl/vjrJVBdRjIpYZoks.m3u8?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1273282653773377500,
+				"id_str": "1273282653773377536",
+				"name": "Newsletter Glue",
+				"screen_name": "NewsletterGlue",
+				"location": "",
+				"description": "The smarter way to publish your newsletter. Connect your email service provider, publish in WordPress. Built by @lesley_pizza and @ahmedfouad_e",
+				"url": "https://t.co/pmZqm8Wv43",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pmZqm8Wv43",
+								"expanded_url": "https://wordpress.org/plugins/newsletter-glue/",
+								"display_url": "wordpress.org/plugins/newsle…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 173,
+				"friends_count": 45,
+				"listed_count": 7,
+				"created_at": "Wed Jun 17 15:56:22 +0000 2020",
+				"favourites_count": 215,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 226,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1328284250714509313/OaRrawLj_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1328284250714509313/OaRrawLj_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273282653773377536/1605522619",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Deze plugin wordt echt steeds beter als je een nieuwsbrief en blog wilt combineren. https://t.co/IE0KMpohFG"
+	},
+	{
 		"created_at": "Mon Dec 28 08:28:38 +0000 2020",
 		"id": 1343473924399575000,
 		"id_str": "1343473924399575040",
