@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Tue Dec 29 06:17:20 +0000 2020",
+		"id": 1343680923301245000,
+		"id_str": "1343803268850454528",
+		"full_text": "I spent the last 2 months going viral on TikTok (2M+ views).\n\nAnd the prior 6 trying to build in Consumer Social.\n\nHere's what you should know about the future of Social 👇",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 755532413208526800,
+			"id_str": "755532413208526850",
+			"name": "John Hu",
+			"screen_name": "JohnHeezy",
+			"location": "New York, USA",
+			"description": "Sharing my MBA learnings @StanfordGSB 🌲 former investment banker @GoldmanSachs 🏛 building for Creators 🎨",
+			"url": "https://t.co/q7HJsGTqYy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/q7HJsGTqYy",
+							"expanded_url": "https://www.tiktok.com/@jayhoovy",
+							"display_url": "tiktok.com/@jayhoovy",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1821,
+			"friends_count": 317,
+			"listed_count": 11,
+			"created_at": "Tue Jul 19 22:38:59 +0000 2016",
+			"favourites_count": 845,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 204,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1315844180871049217/M0WzUAaM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1315844180871049217/M0WzUAaM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/755532413208526850/1602556743",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 44,
+		"favorite_count": 372,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I spent the last 2 months going viral on TikTok (2M+ views).\n\nAnd the prior 6 trying to build in Consumer Social.\n\nHere's what you should know about the future of Social 👇"
+	},
+	{
 		"created_at": "Mon Dec 28 22:27:44 +0000 2020",
 		"id": 1343685088383524900,
 		"id_str": "1343685088383524865",
