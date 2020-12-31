@@ -1,10 +1,194 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 31 18:13:04 +0000 2020",
+		"id": 1344708163073962000,
+		"id_str": "1344708163073961984",
+		"full_text": "Vandaag strepen onder en door dit jaar gezet. Het had echt wel lichtpuntjes. Finn die weer naar school mag. Tess vindt haar plek op school. Ik heb een vaste baan. Helena kijkt weer vooruit. \n\n2019 was onze repetitie voor de shitstorm van 2020 zo bleek. \n\nHeb lief. En rock hard. https://t.co/GFJb2npZMJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1344708158074269700,
+					"id_str": "1344708158074269696",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/Eqlc8fiWMAAeMk3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eqlc8fiWMAAeMk3.jpg",
+					"url": "https://t.co/GFJb2npZMJ",
+					"display_url": "pic.twitter.com/GFJb2npZMJ",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1344708163073961984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 587,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 953,
+							"h": 822,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 953,
+							"h": 822,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1344708158074269700,
+					"id_str": "1344708158074269696",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/Eqlc8fiWMAAeMk3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eqlc8fiWMAAeMk3.jpg",
+					"url": "https://t.co/GFJb2npZMJ",
+					"display_url": "pic.twitter.com/GFJb2npZMJ",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1344708163073961984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 587,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 953,
+							"h": 822,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 953,
+							"h": 822,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8910,
+			"friends_count": 642,
+			"listed_count": 557,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7094,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63284,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Vandaag strepen onder en door dit jaar gezet. Het had echt wel lichtpuntjes. Finn die weer naar school mag. Tess vindt haar plek op school. Ik heb een vaste baan. Helena kijkt weer vooruit. \n\n2019 was onze repetitie voor de shitstorm van 2020 zo bleek. \n\nHeb lief. En rock hard. https://t.co/GFJb2npZMJ"
+	},
+	{
 		"created_at": "Thu Dec 31 07:02:08 +0000 2020",
 		"id": 1344539316513616000,
 		"id_str": "1344539316513615873",
-		"full_text": "Paging mr ⁦@Kamphey⁩: Making a digital clock in Google Sheets https://t.co/VtPcQtTnG8",
+		"full_text": "Paging mr @Kamphey: Making a digital clock in Google Sheets https://t.co/VtPcQtTnG8",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -125,7 +309,7 @@ Grailbird.data.tweets_2020_12 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Paging mr ⁦@Kamphey⁩: Making a digital clock in Google Sheets https://t.co/VtPcQtTnG8"
+		"text": "Paging mr @Kamphey: Making a digital clock in Google Sheets https://t.co/VtPcQtTnG8"
 	},
 	{
 		"created_at": "Thu Dec 31 06:09:56 +0000 2020",
