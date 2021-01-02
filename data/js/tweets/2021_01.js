@@ -1,6 +1,340 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Sat Jan 02 09:12:01 +0000 2021",
+		"id": 1345296782234890200,
+		"id_str": "1345296782234890240",
+		"full_text": "@johanvoets @Inoreader Oeh, dan kunnen we elkaar ook op de RSS Readerts volgen Votsie! ;-)",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "johanvoets",
+					"name": "Johan Voets",
+					"id": 7422272,
+					"id_str": "7422272",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "Inoreader",
+					"name": "Inoreader",
+					"id": 1536852836,
+					"id_str": "1536852836",
+					"indices": [
+						12,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1345290489768120300,
+		"in_reply_to_status_id_str": "1345290489768120323",
+		"in_reply_to_user_id": 7422272,
+		"in_reply_to_user_id_str": "7422272",
+		"in_reply_to_screen_name": "johanvoets",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8907,
+			"friends_count": 645,
+			"listed_count": 557,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7106,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63296,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@johanvoets @Inoreader Oeh, dan kunnen we elkaar ook op de RSS Readerts volgen Votsie! ;-)"
+	},
+	{
+		"created_at": "Sat Jan 02 09:11:24 +0000 2021",
+		"id": 1345296624436785200,
+		"id_str": "1345296624436785153",
+		"full_text": "Dat je @KINKpuntnl DNA aanzet en meteen Pearl Jam's Evolution hoort. Lekker op de radio. Hallelujaaahhhh.... https://t.co/xGl9411Gfs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KINKpuntnl",
+					"name": "KINK",
+					"id": 36077942,
+					"id_str": "36077942",
+					"indices": [
+						7,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1345296616966795300,
+					"id_str": "1345296616966795264",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Eqt0JTvXMAAvLT1.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Eqt0JTvXMAAvLT1.jpg",
+					"url": "https://t.co/xGl9411Gfs",
+					"display_url": "pic.twitter.com/xGl9411Gfs",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1345296624436785153/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1345296616966795300,
+					"id_str": "1345296616966795264",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Eqt0JTvXMAAvLT1.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Eqt0JTvXMAAvLT1.jpg",
+					"url": "https://t.co/xGl9411Gfs",
+					"display_url": "pic.twitter.com/xGl9411Gfs",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1345296624436785153/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							140
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Eqt0JTvXMAAvLT1.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8907,
+			"friends_count": 645,
+			"listed_count": 557,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7106,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63296,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Dat je @KINKpuntnl DNA aanzet en meteen Pearl Jam's Evolution hoort. Lekker op de radio. Hallelujaaahhhh.... https://t.co/xGl9411Gfs"
+	},
+	{
 		"created_at": "Sat Jan 02 08:14:32 +0000 2021",
 		"id": 1345282314490826800,
 		"id_str": "1345282314490826757",
@@ -221,7 +555,7 @@ Grailbird.data.tweets_2021_01 =
 				"name": "dotori-muk, gelatina coreana de bellota",
 				"screen_name": "dotorii_muk",
 				"location": "",
-				"description": "🇰🇷 with 🇲🇽 characteristics\n🏳️‍🌈 queer, demisexual, polyam\n♀️ she/her\n🚫🇺🇸🚮USA GTFO of Korea\n🔞 minors dni",
+				"description": "🇰🇷 with 🇲🇽 characteristics\n🏳️🌈 queer, demisexual, polyam\n♀️ she/her\n🚫🇺🇸🚮USA GTFO of Korea\n🔞 minors dni",
 				"url": null,
 				"entities": {
 					"description": {
