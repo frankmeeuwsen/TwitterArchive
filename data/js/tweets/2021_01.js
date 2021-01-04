@@ -1,6 +1,214 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Mon Jan 04 21:12:02 +0000 2021",
+		"id": 1346202755376042000,
+		"id_str": "1346202755376041992",
+		"full_text": "@BjornFranke https://t.co/fOvhHDjC14",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BjornFranke",
+					"name": "C:\\Gebruikers\\Bjorn",
+					"id": 5220761,
+					"id_str": "5220761",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1346202747532697600,
+					"id_str": "1346202747532697603",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Eq6sRDJXYAMQ18U.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Eq6sRDJXYAMQ18U.jpg",
+					"url": "https://t.co/fOvhHDjC14",
+					"display_url": "pic.twitter.com/fOvhHDjC14",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1346202755376041992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1346202747532697600,
+					"id_str": "1346202747532697603",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Eq6sRDJXYAMQ18U.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Eq6sRDJXYAMQ18U.jpg",
+					"url": "https://t.co/fOvhHDjC14",
+					"display_url": "pic.twitter.com/fOvhHDjC14",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1346202755376041992/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 400,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							6,
+							5
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Eq6sRDJXYAMQ18U.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1346201466692923400,
+		"in_reply_to_status_id_str": "1346201466692923399",
+		"in_reply_to_user_id": 5220761,
+		"in_reply_to_user_id_str": "5220761",
+		"in_reply_to_screen_name": "BjornFranke",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8908,
+			"friends_count": 644,
+			"listed_count": 557,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7114,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63342,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@BjornFranke https://t.co/fOvhHDjC14"
+	},
+	{
 		"created_at": "Mon Jan 04 15:38:54 +0000 2021",
 		"id": 1346118918293893000,
 		"id_str": "1346118918293893121",
