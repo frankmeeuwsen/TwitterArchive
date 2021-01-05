@@ -1,6 +1,406 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Tue Jan 05 11:11:49 +0000 2021",
+		"id": 1346414091284471800,
+		"id_str": "1346414091284471808",
+		"full_text": "Sja nou en offie! En we hebben een plek gereserveerd voor een minstens zo'n kneiter van een DevOps Engineer! https://t.co/d2kSayb63q https://t.co/l5eTH9sv72",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d2kSayb63q",
+					"expanded_url": "https://werkenbij.kaliber.net/talentvolle-devops-engineer-met-liefde-voor-puppet-en-linux/nl",
+					"display_url": "werkenbij.kaliber.net/talentvolle-de…",
+					"indices": [
+						109,
+						132
+					]
+				},
+				{
+					"url": "https://t.co/l5eTH9sv72",
+					"expanded_url": "https://twitter.com/Roh/status/1346403032469274624",
+					"display_url": "twitter.com/Roh/status/134…",
+					"indices": [
+						133,
+						156
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8907,
+			"friends_count": 644,
+			"listed_count": 557,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7116,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63348,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1346403032469274600,
+		"quoted_status_id_str": "1346403032469274624",
+		"quoted_status_permalink": {
+			"url": "https://t.co/l5eTH9sv72",
+			"expanded": "https://twitter.com/Roh/status/1346403032469274624",
+			"display": "twitter.com/Roh/status/134…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 05 10:27:52 +0000 2021",
+			"id": 1346403032469274600,
+			"id_str": "1346403032469274624",
+			"full_text": "Zin in een lekker begin van 2021? We hebben plek voor een kneiter van een online marketeer bij @Kaliberinteract!\n\nhttps://t.co/d2G6U96PYG \n\n#onlinemarketeer #marketing #CRO #vacature #utrecht #goedevoornemens https://t.co/mLMUzqSdYX",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				208
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "onlinemarketeer",
+						"indices": [
+							140,
+							156
+						]
+					},
+					{
+						"text": "marketing",
+						"indices": [
+							157,
+							167
+						]
+					},
+					{
+						"text": "CRO",
+						"indices": [
+							168,
+							172
+						]
+					},
+					{
+						"text": "vacature",
+						"indices": [
+							173,
+							182
+						]
+					},
+					{
+						"text": "utrecht",
+						"indices": [
+							183,
+							191
+						]
+					},
+					{
+						"text": "goedevoornemens",
+						"indices": [
+							192,
+							208
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Kaliberinteract",
+						"name": "Kaliber",
+						"id": 10932162,
+						"id_str": "10932162",
+						"indices": [
+							95,
+							111
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/d2G6U96PYG",
+						"expanded_url": "https://werkenbij.kaliber.net/ervaren-online-marketeer-met-focus-op-cro/nl",
+						"display_url": "werkenbij.kaliber.net/ervaren-online…",
+						"indices": [
+							114,
+							137
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1346402900482912300,
+						"id_str": "1346402900482912257",
+						"indices": [
+							209,
+							232
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1346402900482912257/pu/img/W_RRORqQEAvuFMS6.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1346402900482912257/pu/img/W_RRORqQEAvuFMS6.jpg",
+						"url": "https://t.co/mLMUzqSdYX",
+						"display_url": "pic.twitter.com/mLMUzqSdYX",
+						"expanded_url": "https://twitter.com/Roh/status/1346403032469274624/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1346402900482912300,
+						"id_str": "1346402900482912257",
+						"indices": [
+							209,
+							232
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1346402900482912257/pu/img/W_RRORqQEAvuFMS6.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1346402900482912257/pu/img/W_RRORqQEAvuFMS6.jpg",
+						"url": "https://t.co/mLMUzqSdYX",
+						"display_url": "pic.twitter.com/mLMUzqSdYX",
+						"expanded_url": "https://twitter.com/Roh/status/1346403032469274624/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 15000,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1346402900482912257/pu/pl/RcYqJeCScGVkr5fB.m3u8?tag=10"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1346402900482912257/pu/vid/320x320/GwoCnMxUj4EAoyYm.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1346402900482912257/pu/vid/480x480/kV7kGd5Kd1GSjedt.mp4?tag=10"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1346402900482912257/pu/vid/720x720/lhLDL88Wz4Vhs4KE.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1447551,
+				"id_str": "1447551",
+				"name": "Ronald van Schaik",
+				"screen_name": "Roh",
+				"location": "Utrecht, The Netherlands",
+				"description": "Eigenaar van Kaliber Interactive - Making Sense For Futureproof Brands",
+				"url": "http://t.co/0uBteIkGBt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/0uBteIkGBt",
+								"expanded_url": "http://www.kaliber.net",
+								"display_url": "kaliber.net",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1290,
+				"friends_count": 965,
+				"listed_count": 42,
+				"created_at": "Sun Mar 18 22:18:27 +0000 2007",
+				"favourites_count": 3797,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11340,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1213030981805977603/C2XqXQxh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1213030981805977603/C2XqXQxh_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1447551/1553790896",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Sja nou en offie! En we hebben een plek gereserveerd voor een minstens zo'n kneiter van een DevOps Engineer! https://t.co/d2kSayb63q https://t.co/l5eTH9sv72"
+	},
+	{
 		"created_at": "Tue Jan 05 09:50:54 +0000 2021",
 		"id": 1346393729293299700,
 		"id_str": "1346393729293299712",
