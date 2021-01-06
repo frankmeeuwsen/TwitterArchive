@@ -1,6 +1,265 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Wed Jan 06 11:29:45 +0000 2021",
+		"id": 1346780993227792400,
+		"id_str": "1346780993227792385",
+		"full_text": "Check dit @eljadaae en @pelpina ! https://t.co/rt2pSnytXH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eljadaae",
+					"name": "Elja Daae",
+					"id": 111704957,
+					"id_str": "111704957",
+					"indices": [
+						10,
+						19
+					]
+				},
+				{
+					"screen_name": "pelpina",
+					"name": "Pelpina Trip",
+					"id": 19604140,
+					"id_str": "19604140",
+					"indices": [
+						23,
+						31
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rt2pSnytXH",
+					"expanded_url": "https://twitter.com/johanvoets/status/1346719242289369088",
+					"display_url": "twitter.com/johanvoets/sta…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8905,
+			"friends_count": 645,
+			"listed_count": 557,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7121,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63355,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1346719242289369000,
+		"quoted_status_id_str": "1346719242289369088",
+		"quoted_status_permalink": {
+			"url": "https://t.co/rt2pSnytXH",
+			"expanded": "https://twitter.com/johanvoets/status/1346719242289369088",
+			"display": "twitter.com/johanvoets/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jan 06 07:24:22 +0000 2021",
+			"id": 1346719242289369000,
+			"id_str": "1346719242289369088",
+			"full_text": "(Vlog)lifehack du jour. \n \nhttps://t.co/rHg6OehEdE",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				50
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/rHg6OehEdE",
+						"expanded_url": "https://okgo.nu/3bkMWRY",
+						"display_url": "okgo.nu/3bkMWRY",
+						"indices": [
+							27,
+							50
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 7422272,
+				"id_str": "7422272",
+				"name": "Johan Voets",
+				"screen_name": "johanvoets",
+				"location": "Haarlem, Nederland",
+				"description": "👨‍💻 Content Strategy Director @ https://t.co/TK2R817vKJ\n🏎 Co-host #F1 podcast @F1SpoilerAlert \n📠 Co-host #gadget podcast V2\n🎮 Press start\n🚵‍♂️ 🥊🏋️‍♂️🏂🏐 Sporty Spice.",
+				"url": "https://t.co/qbxSYEbsyP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/qbxSYEbsyP",
+								"expanded_url": "https://instagram.com/johanvoets",
+								"display_url": "instagram.com/johanvoets",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/TK2R817vKJ",
+								"expanded_url": "http://OKGO.nl",
+								"display_url": "OKGO.nl",
+								"indices": [
+									32,
+									55
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 4712,
+				"friends_count": 1902,
+				"listed_count": 276,
+				"created_at": "Thu Jul 12 06:41:46 +0000 2007",
+				"favourites_count": 1410,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 59338,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1218649589760135168/iqLBIri4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1218649589760135168/iqLBIri4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/7422272/1504438597",
+				"profile_link_color": "FAB81E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "2C2C2C",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Check dit @eljadaae en @pelpina ! https://t.co/rt2pSnytXH"
+	},
+	{
 		"created_at": "Wed Jan 06 10:30:41 +0000 2021",
 		"id": 1346766126957678600,
 		"id_str": "1346766126957678592",
