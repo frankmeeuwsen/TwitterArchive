@@ -1,6 +1,984 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Wed Jan 06 22:13:44 +0000 2021",
+		"id": 1346942667985363000,
+		"id_str": "1346943057317539848",
+		"full_text": "\"We love you. You're very special.\" https://t.co/6U1PaUuQbs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1346942665296801800,
+					"id_str": "1346942665296801792",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/ErFNN7nVcAA2ssJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErFNN7nVcAA2ssJ.jpg",
+					"url": "https://t.co/6U1PaUuQbs",
+					"display_url": "pic.twitter.com/6U1PaUuQbs",
+					"expanded_url": "https://twitter.com/DeathStarPR/status/1346942667985362944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 738,
+							"h": 415,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 738,
+							"h": 415,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1346942665296801800,
+					"id_str": "1346942665296801792",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/ErFNN7nVcAA2ssJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErFNN7nVcAA2ssJ.jpg",
+					"url": "https://t.co/6U1PaUuQbs",
+					"display_url": "pic.twitter.com/6U1PaUuQbs",
+					"expanded_url": "https://twitter.com/DeathStarPR/status/1346942667985362944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 738,
+							"h": 415,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 738,
+							"h": 415,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 157218534,
+			"id_str": "157218534",
+			"name": "Death Star PR",
+			"screen_name": "DeathStarPR",
+			"location": "In a galaxy far, far away...",
+			"description": "The Galactic Empire has been getting a bad rap. We're here to set the record straight. Email: DeathStarPR@gmail.com",
+			"url": "https://t.co/CfcdL2zwfE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CfcdL2zwfE",
+							"expanded_url": "http://shop.spreadshirt.com/DeathStarPR/",
+							"display_url": "shop.spreadshirt.com/DeathStarPR/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 328992,
+			"friends_count": 331,
+			"listed_count": 5645,
+			"created_at": "Sat Jun 19 05:14:58 +0000 2010",
+			"favourites_count": 24915,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6047,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "080101",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3661409295/bb35447683362ca080bd39f057a7216c_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3661409295/bb35447683362ca080bd39f057a7216c_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/157218534/1368598512",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 415,
+		"favorite_count": 1402,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"We love you. You're very special.\" https://t.co/6U1PaUuQbs"
+	},
+	{
+		"created_at": "Wed Jan 06 22:05:10 +0000 2021",
+		"id": 1346940900459618300,
+		"id_str": "1346940900459618306",
+		"full_text": "@michielveenstra Run The Jewels - Walking in the snow",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "michielveenstra",
+					"name": "Michiel Veenstra || ꓘINK",
+					"id": 14242065,
+					"id_str": "14242065",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1346940494010609700,
+		"in_reply_to_status_id_str": "1346940494010609664",
+		"in_reply_to_user_id": 14242065,
+		"in_reply_to_user_id_str": "14242065",
+		"in_reply_to_screen_name": "michielveenstra",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8905,
+			"friends_count": 645,
+			"listed_count": 557,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7129,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63370,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@michielveenstra Run The Jewels - Walking in the snow"
+	},
+	{
+		"created_at": "Wed Jan 06 22:02:23 +0000 2021",
+		"id": 1346939083021422600,
+		"id_str": "1346940201000644608",
+		"full_text": "Here’s a looter stealing a podium from inside the U.S. Capitol and not getting shot, tear gassed, or thrown in an unmarked police van. #MakesYaThink https://t.co/LX6PVddqCe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MakesYaThink",
+					"indices": [
+						135,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1346939080752263200,
+					"id_str": "1346939080752263168",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/ErFJ9SJUcAAEWIf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErFJ9SJUcAAEWIf.jpg",
+					"url": "https://t.co/LX6PVddqCe",
+					"display_url": "pic.twitter.com/LX6PVddqCe",
+					"expanded_url": "https://twitter.com/tmorello/status/1346939083021422596/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 469,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 516,
+							"h": 748,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 516,
+							"h": 748,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1346939080752263200,
+					"id_str": "1346939080752263168",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/ErFJ9SJUcAAEWIf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErFJ9SJUcAAEWIf.jpg",
+					"url": "https://t.co/LX6PVddqCe",
+					"display_url": "pic.twitter.com/LX6PVddqCe",
+					"expanded_url": "https://twitter.com/tmorello/status/1346939083021422596/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 469,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 516,
+							"h": 748,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 516,
+							"h": 748,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 23023236,
+			"id_str": "23023236",
+			"name": "Tom Morello",
+			"screen_name": "tmorello",
+			"location": "Union Town",
+			"description": "Feed the poor. Fight the power. Rock the f*ck out.\n\n\nComandante EP out now ft. “Interstate 80” with Slash",
+			"url": "https://t.co/QnNWYA0DX0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QnNWYA0DX0",
+							"expanded_url": "https://linktr.ee/TomMorello",
+							"display_url": "linktr.ee/TomMorello",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 835989,
+			"friends_count": 104,
+			"listed_count": 7006,
+			"created_at": "Fri Mar 06 03:25:17 +0000 2009",
+			"favourites_count": 12997,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15460,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "101114",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1022525495148204032/o2eHtiCU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1022525495148204032/o2eHtiCU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/23023236/1606074998",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4538,
+		"favorite_count": 15457,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here’s a looter stealing a podium from inside the U.S. Capitol and not getting shot, tear gassed, or thrown in an unmarked police van. #MakesYaThink https://t.co/LX6PVddqCe"
+	},
+	{
+		"created_at": "Wed Jan 06 21:54:38 +0000 2021",
+		"id": 1346938249705640000,
+		"id_str": "1346938249705639946",
+		"full_text": "Ongelooflijk. https://t.co/aWAUmLavIA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aWAUmLavIA",
+					"expanded_url": "https://twitter.com/AustinKellerman/status/1346921721429782531",
+					"display_url": "twitter.com/AustinKellerma…",
+					"indices": [
+						14,
+						37
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8905,
+			"friends_count": 645,
+			"listed_count": 557,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7129,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63370,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1346921721429782500,
+		"quoted_status_id_str": "1346921721429782531",
+		"quoted_status_permalink": {
+			"url": "https://t.co/aWAUmLavIA",
+			"expanded": "https://twitter.com/AustinKellerman/status/1346921721429782531",
+			"display": "twitter.com/AustinKellerma…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jan 06 20:48:57 +0000 2021",
+			"id": 1346921721429782500,
+			"id_str": "1346921721429782531",
+			"full_text": "Right now on the West side of the US Capitol.\n\n(📸 Getty Images) https://t.co/1FxSN5Ugc7",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				63
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1346921705781026800,
+						"id_str": "1346921705781026817",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/media/ErE6J7VXYAEVFAf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ErE6J7VXYAEVFAf.jpg",
+						"url": "https://t.co/1FxSN5Ugc7",
+						"display_url": "pic.twitter.com/1FxSN5Ugc7",
+						"expanded_url": "https://twitter.com/AustinKellerman/status/1346921721429782531/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 452,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 681,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 681,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1346921705781026800,
+						"id_str": "1346921705781026817",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/media/ErE6J7VXYAEVFAf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ErE6J7VXYAEVFAf.jpg",
+						"url": "https://t.co/1FxSN5Ugc7",
+						"display_url": "pic.twitter.com/1FxSN5Ugc7",
+						"expanded_url": "https://twitter.com/AustinKellerman/status/1346921721429782531/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 452,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 681,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 681,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22703339,
+				"id_str": "22703339",
+				"name": "Austin Kellerman",
+				"screen_name": "AustinKellerman",
+				"location": "Dallas, TX",
+				"description": "Husband. #GirlDad. Director of Digital Content for Nexstar Media Group. #NexstarNation",
+				"url": "https://t.co/5utFPTNlYr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5utFPTNlYr",
+								"expanded_url": "http://austinkellerman.com",
+								"display_url": "austinkellerman.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 33618,
+				"friends_count": 1007,
+				"listed_count": 325,
+				"created_at": "Wed Mar 04 00:00:37 +0000 2009",
+				"favourites_count": 22768,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 86005,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1094236161185337344/9mfm7z0v_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1094236161185337344/9mfm7z0v_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22703339/1609616272",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10283,
+			"favorite_count": 9963,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Ongelooflijk. https://t.co/aWAUmLavIA"
+	},
+	{
+		"created_at": "Wed Jan 06 21:47:57 +0000 2021",
+		"id": 1346915269470466000,
+		"id_str": "1346936566799863814",
+		"full_text": "I’m currently writing about hypermasculinity and Viking Medievalisms in white supremacy... the horns, valknut, and the ‘tree of life’ (Yggdrasil) on this guy underline this terrifyingly perfectly. https://t.co/K1EBfmRrgJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1346915263866921000,
+					"id_str": "1346915263866920964",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/ErE0S9VW4AQ4Sbk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErE0S9VW4AQ4Sbk.jpg",
+					"url": "https://t.co/K1EBfmRrgJ",
+					"display_url": "pic.twitter.com/K1EBfmRrgJ",
+					"expanded_url": "https://twitter.com/queertyyr/status/1346915269470466049/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1180,
+							"h": 834,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1180,
+							"h": 834,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1346915263866921000,
+					"id_str": "1346915263866920964",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/ErE0S9VW4AQ4Sbk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErE0S9VW4AQ4Sbk.jpg",
+					"url": "https://t.co/K1EBfmRrgJ",
+					"display_url": "pic.twitter.com/K1EBfmRrgJ",
+					"expanded_url": "https://twitter.com/queertyyr/status/1346915269470466049/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1180,
+							"h": 834,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1180,
+							"h": 834,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1346915263942434800,
+					"id_str": "1346915263942434817",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/ErE0S9nXIAET136.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErE0S9nXIAET136.jpg",
+					"url": "https://t.co/K1EBfmRrgJ",
+					"display_url": "pic.twitter.com/K1EBfmRrgJ",
+					"expanded_url": "https://twitter.com/queertyyr/status/1346915269470466049/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 345,
+							"h": 275,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 345,
+							"h": 275,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 345,
+							"h": 275,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 269366228,
+			"id_str": "269366228",
+			"name": "Amy J F",
+			"screen_name": "queertyyr",
+			"location": "London, England",
+			"description": "Fundraiser by day, queer Viking religious historian by night / General Editor @kyngervi / Host of @VikingsAreGay! / they/them / Patreon: queertyyr",
+			"url": "https://t.co/khzbCiWyJy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/khzbCiWyJy",
+							"expanded_url": "https://amyjeffordfranks.wordpress.com/",
+							"display_url": "amyjeffordfranks.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2722,
+			"friends_count": 1193,
+			"listed_count": 30,
+			"created_at": "Sun Mar 20 16:43:27 +0000 2011",
+			"favourites_count": 39541,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16367,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1341551672544407553/OYKcqupB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1341551672544407553/OYKcqupB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/269366228/1605446356",
+			"profile_link_color": "BC1636",
+			"profile_sidebar_border_color": "F5F8FA",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 164,
+		"favorite_count": 756,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I’m currently writing about hypermasculinity and Viking Medievalisms in white supremacy... the horns, valknut, and the ‘tree of life’ (Yggdrasil) on this guy underline this terrifyingly perfectly. https://t.co/K1EBfmRrgJ"
+	},
+	{
 		"created_at": "Wed Jan 06 21:11:45 +0000 2021",
 		"id": 1346927460064104400,
 		"id_str": "1346927460064104453",
@@ -560,7 +1538,7 @@ Grailbird.data.tweets_2021_01 =
 				"name": "Tim Dunn",
 				"screen_name": "MrTimDunn",
 				"location": "London, UK",
-				"description": "Mainly railways & buildings. Historian, geographer, TV presenter of @UKTV’s #TheArchitectureTheRailwaysBuilt, Travel Editor at Trainline. Own views, obvs.🏳️‍🌈",
+				"description": "Mainly railways & buildings. Historian, geographer, TV presenter of @UKTV’s #TheArchitectureTheRailwaysBuilt, Travel Editor at Trainline. Own views, obvs.🏳️🌈",
 				"url": "https://t.co/gjCFNSHgce",
 				"entities": {
 					"url": {
