@@ -1,6 +1,487 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Fri Jan 08 15:04:54 +0000 2021",
+		"id": 1347559914906988500,
+		"id_str": "1347559914906988552",
+		"full_text": "@erwblo 17",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "erwblo",
+					"name": "Erwin Blom",
+					"id": 713333,
+					"id_str": "713333",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1347559760334377000,
+		"in_reply_to_status_id_str": "1347559760334376963",
+		"in_reply_to_user_id": 713333,
+		"in_reply_to_user_id_str": "713333",
+		"in_reply_to_screen_name": "erwblo",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8906,
+			"friends_count": 648,
+			"listed_count": 557,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63394,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@erwblo 17"
+	},
+	{
+		"created_at": "Fri Jan 08 15:01:34 +0000 2021",
+		"id": 1347559076176273400,
+		"id_str": "1347559076176273414",
+		"full_text": "Oh dit is toch mooi. https://t.co/aTAC7bxdHi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aTAC7bxdHi",
+					"expanded_url": "https://twitter.com/MrsKhandiCoated/status/1347260573252280326",
+					"display_url": "twitter.com/MrsKhandiCoate…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8906,
+			"friends_count": 648,
+			"listed_count": 557,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63394,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1347260573252280300,
+		"quoted_status_id_str": "1347260573252280326",
+		"quoted_status_permalink": {
+			"url": "https://t.co/aTAC7bxdHi",
+			"expanded": "https://twitter.com/MrsKhandiCoated/status/1347260573252280326",
+			"display": "twitter.com/MrsKhandiCoate…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 07 19:15:26 +0000 2021",
+			"id": 1347260573252280300,
+			"id_str": "1347260573252280326",
+			"full_text": "A story in 3 Acts: https://t.co/kWH7gPFVor",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				18
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1347260556055621600,
+						"id_str": "1347260556055621634",
+						"indices": [
+							19,
+							42
+						],
+						"media_url": "http://pbs.twimg.com/media/ErJuVm-XMAIMa3e.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ErJuVm-XMAIMa3e.jpg",
+						"url": "https://t.co/kWH7gPFVor",
+						"display_url": "pic.twitter.com/kWH7gPFVor",
+						"expanded_url": "https://twitter.com/MrsKhandiCoated/status/1347260573252280326/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1170,
+								"h": 1715,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 819,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 464,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1347260556055621600,
+						"id_str": "1347260556055621634",
+						"indices": [
+							19,
+							42
+						],
+						"media_url": "http://pbs.twimg.com/media/ErJuVm-XMAIMa3e.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ErJuVm-XMAIMa3e.jpg",
+						"url": "https://t.co/kWH7gPFVor",
+						"display_url": "pic.twitter.com/kWH7gPFVor",
+						"expanded_url": "https://twitter.com/MrsKhandiCoated/status/1347260573252280326/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1170,
+								"h": 1715,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 819,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 464,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1347260556038844400,
+						"id_str": "1347260556038844416",
+						"indices": [
+							19,
+							42
+						],
+						"media_url": "http://pbs.twimg.com/media/ErJuVm6XMAAoEW6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ErJuVm6XMAAoEW6.jpg",
+						"url": "https://t.co/kWH7gPFVor",
+						"display_url": "pic.twitter.com/kWH7gPFVor",
+						"expanded_url": "https://twitter.com/MrsKhandiCoated/status/1347260573252280326/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 477,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1170,
+								"h": 820,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1170,
+								"h": 820,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1347260556332458000,
+						"id_str": "1347260556332457984",
+						"indices": [
+							19,
+							42
+						],
+						"media_url": "http://pbs.twimg.com/media/ErJuVoAXYAA3huQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ErJuVoAXYAA3huQ.jpg",
+						"url": "https://t.co/kWH7gPFVor",
+						"display_url": "pic.twitter.com/kWH7gPFVor",
+						"expanded_url": "https://twitter.com/MrsKhandiCoated/status/1347260573252280326/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 314,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 555,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 947,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1156987241744523300,
+				"id_str": "1156987241744523264",
+				"name": "Can I peg you, @SethRogen ??",
+				"screen_name": "MrsKhandiCoated",
+				"location": "HidingFromResponsibility",
+				"description": "BABY KIRKLAND REGISTRY!! https://t.co/YdcpXRlXPD",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/YdcpXRlXPD",
+								"expanded_url": "https://www.amazon.com/baby-reg/kayce-smalls-september-2020-columbia/1H9YHHXRECKP4",
+								"display_url": "amazon.com/baby-reg/kayce…",
+								"indices": [
+									25,
+									48
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2531,
+				"friends_count": 545,
+				"listed_count": 10,
+				"created_at": "Thu Aug 01 17:57:09 +0000 2019",
+				"favourites_count": 1627,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 81987,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1340422538036457472/QOlmIj0f_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1340422538036457472/QOlmIj0f_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1156987241744523264/1610052197",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 66579,
+			"favorite_count": 381614,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Oh dit is toch mooi. https://t.co/aTAC7bxdHi"
+	},
+	{
 		"created_at": "Fri Jan 08 11:09:08 +0000 2021",
 		"id": 1347500582832136200,
 		"id_str": "1347500582832136197",
