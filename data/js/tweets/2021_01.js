@@ -1,6 +1,567 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Sat Jan 09 07:03:34 +0000 2021",
+		"id": 1347801167951179800,
+		"id_str": "1347801167951179776",
+		"full_text": "Dit is een fraai staaltje publieke onderzoeksjournalistiek. Tenminste, voor zover ik dat kan beoordelen. De hele thread is het lezen waard. https://t.co/uNUYu6YkO6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uNUYu6YkO6",
+					"expanded_url": "https://twitter.com/jsrailton/status/1347783405677776897",
+					"display_url": "twitter.com/jsrailton/stat…",
+					"indices": [
+						140,
+						163
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8908,
+			"friends_count": 648,
+			"listed_count": 557,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63402,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1347783405677777000,
+		"quoted_status_id_str": "1347783405677776897",
+		"quoted_status_permalink": {
+			"url": "https://t.co/uNUYu6YkO6",
+			"expanded": "https://twitter.com/jsrailton/status/1347783405677776897",
+			"display": "twitter.com/jsrailton/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jan 09 05:52:59 +0000 2021",
+			"id": 1347783405677777000,
+			"id_str": "1347783405677776897",
+			"full_text": "How we identified Eric Munchel (longer)\n1. Focus on gear. So many contributed!\n2. Clothing led to him being spotted entering #CapitolBuilding w/female. \n3. Led to a lead of him on grounds. Paid @AP $435 for hires pic.. which led to\n..continues https://t.co/IKAoKBtXI7",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				243
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "CapitolBuilding",
+						"indices": [
+							125,
+							141
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "AP",
+						"name": "The Associated Press",
+						"id": 51241574,
+						"id_str": "51241574",
+						"indices": [
+							194,
+							197
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1347782980119441400,
+						"id_str": "1347782980119441408",
+						"indices": [
+							244,
+							267
+						],
+						"media_url": "http://pbs.twimg.com/media/ErRJesRWMAA1dH1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ErRJesRWMAA1dH1.jpg",
+						"url": "https://t.co/IKAoKBtXI7",
+						"display_url": "pic.twitter.com/IKAoKBtXI7",
+						"expanded_url": "https://twitter.com/jsrailton/status/1347783405677776897/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1014,
+								"h": 902,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1014,
+								"h": 902,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 605,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1347782980119441400,
+						"id_str": "1347782980119441408",
+						"indices": [
+							244,
+							267
+						],
+						"media_url": "http://pbs.twimg.com/media/ErRJesRWMAA1dH1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ErRJesRWMAA1dH1.jpg",
+						"url": "https://t.co/IKAoKBtXI7",
+						"display_url": "pic.twitter.com/IKAoKBtXI7",
+						"expanded_url": "https://twitter.com/jsrailton/status/1347783405677776897/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1014,
+								"h": 902,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1014,
+								"h": 902,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 605,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1347783008020000800,
+						"id_str": "1347783008020000776",
+						"indices": [
+							244,
+							267
+						],
+						"media_url": "http://pbs.twimg.com/media/ErRJgUNW8AgvBKK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ErRJgUNW8AgvBKK.jpg",
+						"url": "https://t.co/IKAoKBtXI7",
+						"display_url": "pic.twitter.com/IKAoKBtXI7",
+						"expanded_url": "https://twitter.com/jsrailton/status/1347783405677776897/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 974,
+								"h": 956,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 974,
+								"h": 956,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 667,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1347783061749043200,
+						"id_str": "1347783061749043200",
+						"indices": [
+							244,
+							267
+						],
+						"media_url": "http://pbs.twimg.com/media/ErRJjcXXEAAPO5p.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ErRJjcXXEAAPO5p.jpg",
+						"url": "https://t.co/IKAoKBtXI7",
+						"display_url": "pic.twitter.com/IKAoKBtXI7",
+						"expanded_url": "https://twitter.com/jsrailton/status/1347783405677776897/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 671,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1012,
+								"h": 1026,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1012,
+								"h": 1026,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1347781243291766800,
+			"in_reply_to_status_id_str": "1347781243291766785",
+			"in_reply_to_user_id": 243032876,
+			"in_reply_to_user_id_str": "243032876",
+			"in_reply_to_screen_name": "jsrailton",
+			"user": {
+				"id": 243032876,
+				"id_str": "243032876",
+				"name": "John Scott-Railton",
+				"screen_name": "jsrailton",
+				"location": "",
+				"description": "Chasing digital badness. Sr. Researcher @citizenlab @UofT @munkschool. Fmr. Ed. @SecPlanner. Once-upon-a-time neuropharmacology. Tweets & typos mine.",
+				"url": "http://t.co/zeE2LP7Zl4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/zeE2LP7Zl4",
+								"expanded_url": "http://www.johnscottrailton.com",
+								"display_url": "johnscottrailton.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 57990,
+				"friends_count": 676,
+				"listed_count": 566,
+				"created_at": "Wed Jan 26 04:10:38 +0000 2011",
+				"favourites_count": 255,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 806,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1276291608661626880/uBzccSkA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1276291608661626880/uBzccSkA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/243032876/1549057638",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 272,
+			"favorite_count": 1162,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Dit is een fraai staaltje publieke onderzoeksjournalistiek. Tenminste, voor zover ik dat kan beoordelen. De hele thread is het lezen waard. https://t.co/uNUYu6YkO6"
+	},
+	{
+		"created_at": "Sat Jan 09 06:56:17 +0000 2021",
+		"id": 1347715220786057200,
+		"id_str": "1347799338043498496",
+		"full_text": "https://t.co/zwXwZcxIpl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1347715212338745300,
+					"id_str": "1347715212338745344",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/ErQL2FnXUAAQLMF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErQL2FnXUAAQLMF.jpg",
+					"url": "https://t.co/zwXwZcxIpl",
+					"display_url": "pic.twitter.com/zwXwZcxIpl",
+					"expanded_url": "https://twitter.com/JamieDMJ/status/1347715220786057216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 701,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 701,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 424,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1347715212338745300,
+					"id_str": "1347715212338745344",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/ErQL2FnXUAAQLMF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErQL2FnXUAAQLMF.jpg",
+					"url": "https://t.co/zwXwZcxIpl",
+					"display_url": "pic.twitter.com/zwXwZcxIpl",
+					"expanded_url": "https://twitter.com/JamieDMJ/status/1347715220786057216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 701,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 701,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 424,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 59426484,
+			"id_str": "59426484",
+			"name": "Jamie Jones",
+			"screen_name": "JamieDMJ",
+			"location": "London (via 🏴󠁧󠁢󠁷󠁬󠁳󠁿)",
+			"description": "﹌ominous whooshing﹌ | Editorial consultant, writer + other stuff | Former senior editor @BuzzFeedUK",
+			"url": "https://t.co/H63bm8ziZt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/H63bm8ziZt",
+							"expanded_url": "https://www.instagram.com/jamiedmj/",
+							"display_url": "instagram.com/jamiedmj/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13795,
+			"friends_count": 491,
+			"listed_count": 150,
+			"created_at": "Thu Jul 23 11:00:04 +0000 2009",
+			"favourites_count": 3985,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14152,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "8778DE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325049852653350912/P7Gxep91_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325049852653350912/P7Gxep91_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/59426484/1604751837",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1044,
+		"favorite_count": 3556,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/zwXwZcxIpl"
+	},
+	{
 		"created_at": "Fri Jan 08 19:54:03 +0000 2021",
 		"id": 1347632681698390000,
 		"id_str": "1347632681698390016",
