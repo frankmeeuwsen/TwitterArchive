@@ -1,6 +1,319 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Sat Jan 09 18:32:23 +0000 2021",
+		"id": 1347974515926716400,
+		"id_str": "1347974515926716419",
+		"full_text": "Ja? Mag het weer? Komtie! https://t.co/BMOe9bb09a https://t.co/muItcrFAl4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BMOe9bb09a",
+					"expanded_url": "https://twitter.com/tjarko/status/1347957190179643393",
+					"display_url": "twitter.com/tjarko/status/…",
+					"indices": [
+						26,
+						49
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1347974509538799600,
+					"id_str": "1347974509538799618",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/ErT3rK9XcAIoqGP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErT3rK9XcAIoqGP.jpg",
+					"url": "https://t.co/muItcrFAl4",
+					"display_url": "pic.twitter.com/muItcrFAl4",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1347974515926716419/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 666,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1132,
+							"h": 1155,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1132,
+							"h": 1155,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1347974509538799600,
+					"id_str": "1347974509538799618",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/ErT3rK9XcAIoqGP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErT3rK9XcAIoqGP.jpg",
+					"url": "https://t.co/muItcrFAl4",
+					"display_url": "pic.twitter.com/muItcrFAl4",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1347974515926716419/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 666,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1132,
+							"h": 1155,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1132,
+							"h": 1155,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8907,
+			"friends_count": 648,
+			"listed_count": 557,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7141,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63406,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1347957190179643400,
+		"quoted_status_id_str": "1347957190179643393",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BMOe9bb09a",
+			"expanded": "https://twitter.com/tjarko/status/1347957190179643393",
+			"display": "twitter.com/tjarko/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jan 09 17:23:32 +0000 2021",
+			"id": 1347957190179643400,
+			"id_str": "1347957190179643393",
+			"full_text": "Dit dus. En is ook geen freedom of speech gevalletje want je kan nog steeds roepen wat je wilt behalve op dit ene kanaal wat zelf bepaald wat de regels zijn. https://t.co/c9zD6HTCVV",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				157
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/c9zD6HTCVV",
+						"expanded_url": "https://twitter.com/bertboerland/status/1347954954678513666",
+						"display_url": "twitter.com/bertboerland/s…",
+						"indices": [
+							158,
+							181
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 997804616455770100,
+				"id_str": "997804616455770113",
+				"name": "Tjarko",
+				"screen_name": "tjarko",
+				"location": "Oss, Nederland",
+				"description": "Doet dingen, en ook best goed. De vorige @tjarko zat hier van 10/2007 - 10/2017 en begon weer opnieuw. Offline Micro-influencert. #fitAFgoals #hoale",
+				"url": "https://t.co/KYF3Habwwp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/KYF3Habwwp",
+								"expanded_url": "https://www.tjarkoiseeneindbaas.nl/",
+								"display_url": "tjarkoiseeneindbaas.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 646,
+				"friends_count": 543,
+				"listed_count": 5,
+				"created_at": "Sat May 19 11:42:13 +0000 2018",
+				"favourites_count": 15147,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7274,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1244330128206966786/2U2198sN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1244330128206966786/2U2198sN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/997804616455770113/1576789558",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1347954954678513700,
+			"quoted_status_id_str": "1347954954678513666",
+			"quoted_status_permalink": {
+				"url": "https://t.co/c9zD6HTCVV",
+				"expanded": "https://twitter.com/bertboerland/status/1347954954678513666",
+				"display": "twitter.com/bertboerland/s…"
+			},
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Ja? Mag het weer? Komtie! https://t.co/BMOe9bb09a https://t.co/muItcrFAl4"
+	},
+	{
 		"created_at": "Sat Jan 09 16:37:59 +0000 2021",
 		"id": 1347945726177898500,
 		"id_str": "1347945726177898496",
