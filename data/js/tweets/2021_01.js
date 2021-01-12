@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Tue Jan 12 18:33:53 +0000 2021",
+		"id": 1349055886757650400,
+		"id_str": "1349062058193661952",
+		"full_text": "BLIJF IN NEDERLAND \nSchiphol blijft open\nBOEK GEEN REIS\nSchiphol blijft open\nELKE REIS IS EEN RISICO\nSchiphol blijft open",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 30631388,
+			"id_str": "30631388",
+			"name": "Charlotte Bouwman",
+			"screen_name": "charlotbouwman",
+			"location": "Amsterdam, Noord-Holland",
+			"description": "WIE DIT LEEST IS GEK 🌈 Journalist. Politicoloog. Gek. Schrijft boek @nijgh over de GGZ.  🐶 Bobbie",
+			"url": "https://t.co/a5xMPRv8iC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/a5xMPRv8iC",
+							"expanded_url": "http://charlottebouwman.nl",
+							"display_url": "charlottebouwman.nl",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8500,
+			"friends_count": 1005,
+			"listed_count": 33,
+			"created_at": "Sun Apr 12 10:13:54 +0000 2009",
+			"favourites_count": 24530,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29818,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1345360447696990209/npiBWqcS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1345360447696990209/npiBWqcS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/30631388/1601082590",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "0766B8",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 324,
+		"favorite_count": 1238,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "nl",
+		"text": "BLIJF IN NEDERLAND \nSchiphol blijft open\nBOEK GEEN REIS\nSchiphol blijft open\nELKE REIS IS EEN RISICO\nSchiphol blijft open"
+	},
+	{
+		"created_at": "Tue Jan 12 18:26:35 +0000 2021",
+		"id": 1349060219024900000,
+		"id_str": "1349060219024900098",
+		"full_text": "@patrickloonstra @elger Zou wel mooi zijn als een Youtuber ofzo zo'n persco nadoet in Apple keynote stijl. Met demo's, grote schermen, fabulous new possibilities.",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "patrickloonstra",
+					"name": "Patrick 🕶",
+					"id": 9647022,
+					"id_str": "9647022",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "elger",
+					"name": "Elger van der Wel",
+					"id": 14142375,
+					"id_str": "14142375",
+					"indices": [
+						17,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1349059150425288700,
+		"in_reply_to_status_id_str": "1349059150425288704",
+		"in_reply_to_user_id": 9647022,
+		"in_reply_to_user_id_str": "9647022",
+		"in_reply_to_screen_name": "patrickloonstra",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8900,
+			"friends_count": 651,
+			"listed_count": 558,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7156,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63429,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@patrickloonstra @elger Zou wel mooi zijn als een Youtuber ofzo zo'n persco nadoet in Apple keynote stijl. Met demo's, grote schermen, fabulous new possibilities."
+	},
+	{
 		"created_at": "Tue Jan 12 17:49:33 +0000 2021",
 		"id": 1349050901814800400,
 		"id_str": "1349050901814800386",
