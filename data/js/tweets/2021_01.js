@@ -1,6 +1,278 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Fri Jan 15 12:58:24 +0000 2021",
+		"id": 1350064794775269400,
+		"id_str": "1350064794775269380",
+		"full_text": "Prachtige video! Veel bekende gezichten. https://t.co/d8UENaNGex",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d8UENaNGex",
+					"expanded_url": "https://twitter.com/punkmedia/status/1350062266029379590",
+					"display_url": "twitter.com/punkmedia/stat…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8901,
+			"friends_count": 654,
+			"listed_count": 556,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7175,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63453,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1350062266029379600,
+		"quoted_status_id_str": "1350062266029379590",
+		"quoted_status_permalink": {
+			"url": "https://t.co/d8UENaNGex",
+			"expanded": "https://twitter.com/punkmedia/status/1350062266029379590",
+			"display": "twitter.com/punkmedia/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 15 12:48:21 +0000 2021",
+			"id": 1350062266029379600,
+			"id_str": "1350062266029379590",
+			"full_text": "Geweldig Joris, wat een gekke tijd was dat. Ik sloot pas in mei 2005 aan, maar dat ging wel meteen als een dolle, net als bij jou. En de Dutchbloggies die volgden... video's uit 2006 staan nog online gelukkig https://t.co/GlWuBb4oUd https://t.co/hi7SsJFD5G",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				232
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/GlWuBb4oUd",
+						"expanded_url": "https://www.dailymotion.com/video/x1moz",
+						"display_url": "dailymotion.com/video/x1moz",
+						"indices": [
+							209,
+							232
+						]
+					},
+					{
+						"url": "https://t.co/hi7SsJFD5G",
+						"expanded_url": "https://twitter.com/JorisL/status/1350023614448414726",
+						"display_url": "twitter.com/JorisL/status/…",
+						"indices": [
+							233,
+							256
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5549572,
+				"id_str": "5549572",
+				"name": "PUNKMEDIA",
+				"screen_name": "punkmedia",
+				"location": "Lochem",
+				"description": "Fotograaf, filmer en journalist. Portretten in foto, video en tekst. Sony A7III, Fujifilm X100V. Doet https://t.co/ArCN7xSCGH, https://t.co/0SXaY8sc7w en https://t.co/0kkUg1e1xJ Joehoe!",
+				"url": "https://t.co/sqrWT0NL2U",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sqrWT0NL2U",
+								"expanded_url": "http://www.punkmedia.nl",
+								"display_url": "punkmedia.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/ArCN7xSCGH",
+								"expanded_url": "http://punkmedia.nl",
+								"display_url": "punkmedia.nl",
+								"indices": [
+									102,
+									125
+								]
+							},
+							{
+								"url": "https://t.co/0SXaY8sc7w",
+								"expanded_url": "http://mijnmoment.com",
+								"display_url": "mijnmoment.com",
+								"indices": [
+									127,
+									150
+								]
+							},
+							{
+								"url": "https://t.co/0kkUg1e1xJ",
+								"expanded_url": "http://blochem.nl",
+								"display_url": "blochem.nl",
+								"indices": [
+									154,
+									177
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 4936,
+				"friends_count": 2409,
+				"listed_count": 259,
+				"created_at": "Fri Apr 27 09:53:39 +0000 2007",
+				"favourites_count": 2669,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 33519,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1002148110267813888/4oM-Dgtj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1002148110267813888/4oM-Dgtj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5549572/1411466287",
+				"profile_link_color": "FF0073",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1350023614448414700,
+			"quoted_status_id_str": "1350023614448414726",
+			"quoted_status_permalink": {
+				"url": "https://t.co/hi7SsJFD5G",
+				"expanded": "https://twitter.com/JorisL/status/1350023614448414726",
+				"display": "twitter.com/JorisL/status/…"
+			},
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Prachtige video! Veel bekende gezichten. https://t.co/d8UENaNGex"
+	},
+	{
 		"created_at": "Fri Jan 15 11:56:20 +0000 2021",
 		"id": 1350049173744312300,
 		"id_str": "1350049173744312320",
