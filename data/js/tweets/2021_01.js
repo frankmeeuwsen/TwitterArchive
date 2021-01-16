@@ -1,6 +1,1057 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Sat Jan 16 22:19:42 +0000 2021",
+		"id": 1350424602888073200,
+		"id_str": "1350568438616485888",
+		"full_text": "What’s also quintessentially Dutch is the fact that so many people are focusing on Rutte riding his bike rather than focussing on the fact that the government resigned over institutional racism. https://t.co/11SOWH9i7c",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/11SOWH9i7c",
+					"expanded_url": "https://twitter.com/kvanoosterom/status/1350143729542328320",
+					"display_url": "twitter.com/kvanoosterom/s…",
+					"indices": [
+						195,
+						218
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2379945576,
+			"id_str": "2379945576",
+			"name": "H.",
+			"screen_name": "ggzellig",
+			"location": "",
+			"description": "life is soup, i am fork.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 764,
+			"friends_count": 392,
+			"listed_count": 4,
+			"created_at": "Sun Mar 09 06:11:28 +0000 2014",
+			"favourites_count": 45484,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41851,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1334270085658251269/vGPcsgYt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1334270085658251269/vGPcsgYt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2379945576/1606950566",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1350143729542328300,
+		"quoted_status_id_str": "1350143729542328320",
+		"quoted_status_permalink": {
+			"url": "https://t.co/11SOWH9i7c",
+			"expanded": "https://twitter.com/kvanoosterom/status/1350143729542328320",
+			"display": "twitter.com/kvanoosterom/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 15 18:12:04 +0000 2021",
+			"id": 1350143729542328300,
+			"id_str": "1350143729542328320",
+			"full_text": "Quintessentially Dutch. \nOn the day Dutch government resigns and @MinPres Rutte submits the cabinet's resignation to our King, all day he uses a bike for transport. https://t.co/9LogWd519s",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				164
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MinPres",
+						"name": "Mark Rutte",
+						"id": 155507136,
+						"id_str": "155507136",
+						"indices": [
+							65,
+							73
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1350143720998527000,
+						"id_str": "1350143720998526976",
+						"indices": [
+							165,
+							188
+						],
+						"media_url": "http://pbs.twimg.com/media/Erysj5XXYAAgnh0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Erysj5XXYAAgnh0.jpg",
+						"url": "https://t.co/9LogWd519s",
+						"display_url": "pic.twitter.com/9LogWd519s",
+						"expanded_url": "https://twitter.com/KvanOosterom/status/1350143729542328320/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1350143720998527000,
+						"id_str": "1350143720998526976",
+						"indices": [
+							165,
+							188
+						],
+						"media_url": "http://pbs.twimg.com/media/Erysj5XXYAAgnh0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Erysj5XXYAAgnh0.jpg",
+						"url": "https://t.co/9LogWd519s",
+						"display_url": "pic.twitter.com/9LogWd519s",
+						"expanded_url": "https://twitter.com/KvanOosterom/status/1350143729542328320/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1350143721019474000,
+						"id_str": "1350143721019473921",
+						"indices": [
+							165,
+							188
+						],
+						"media_url": "http://pbs.twimg.com/media/Erysj5cXAAEDPho.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Erysj5cXAAEDPho.jpg",
+						"url": "https://t.co/9LogWd519s",
+						"display_url": "pic.twitter.com/9LogWd519s",
+						"expanded_url": "https://twitter.com/KvanOosterom/status/1350143729542328320/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 634,
+								"h": 421,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 634,
+								"h": 421,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 634,
+								"h": 421,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1350143721086591000,
+						"id_str": "1350143721086590977",
+						"indices": [
+							165,
+							188
+						],
+						"media_url": "http://pbs.twimg.com/media/Erysj5sXIAEfEo7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Erysj5sXIAEfEo7.jpg",
+						"url": "https://t.co/9LogWd519s",
+						"display_url": "pic.twitter.com/9LogWd519s",
+						"expanded_url": "https://twitter.com/KvanOosterom/status/1350143729542328320/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 599,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 424,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 599,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1350143721535320000,
+						"id_str": "1350143721535320064",
+						"indices": [
+							165,
+							188
+						],
+						"media_url": "http://pbs.twimg.com/media/Erysj7XWMAAYoGd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Erysj7XWMAAYoGd.jpg",
+						"url": "https://t.co/9LogWd519s",
+						"display_url": "pic.twitter.com/9LogWd519s",
+						"expanded_url": "https://twitter.com/KvanOosterom/status/1350143729542328320/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1366,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 454,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 241926029,
+				"id_str": "241926029",
+				"name": "Karel van Oosterom",
+				"screen_name": "KvanOosterom",
+				"location": "London, England",
+				"description": "Ambassador of the Kingdom of the Netherlands to the United Kingdom of Great Britain and Northern Ireland",
+				"url": "https://t.co/rQ3mcnoc7V",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rQ3mcnoc7V",
+								"expanded_url": "http://www.karelvanoosterom.com",
+								"display_url": "karelvanoosterom.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 29043,
+				"friends_count": 882,
+				"listed_count": 512,
+				"created_at": "Sun Jan 23 13:56:55 +0000 2011",
+				"favourites_count": 10036,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 31570,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/961558601239355392/Wbggz5Wu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/961558601239355392/Wbggz5Wu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/241926029/1569503998",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 90,
+			"favorite_count": 338,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 94,
+		"favorite_count": 243,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What’s also quintessentially Dutch is the fact that so many people are focusing on Rutte riding his bike rather than focussing on the fact that the government resigned over institutional racism. https://t.co/11SOWH9i7c"
+	},
+	{
+		"created_at": "Sat Jan 16 22:00:36 +0000 2021",
+		"id": 1350563629133918200,
+		"id_str": "1350563629133918209",
+		"full_text": "@ehpo Ik miste de sambaballen!",
+		"truncated": false,
+		"display_text_range": [
+			6,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ehpo",
+					"name": "Niels Aalberts",
+					"id": 20199054,
+					"id_str": "20199054",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1350563484946337800,
+		"in_reply_to_status_id_str": "1350563484946337794",
+		"in_reply_to_user_id": 20199054,
+		"in_reply_to_user_id_str": "20199054",
+		"in_reply_to_screen_name": "ehpo",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8900,
+			"friends_count": 658,
+			"listed_count": 556,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7188,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63484,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@ehpo Ik miste de sambaballen!"
+	},
+	{
+		"created_at": "Sat Jan 16 21:58:22 +0000 2021",
+		"id": 1350563069076844500,
+		"id_str": "1350563069076844553",
+		"full_text": "Temple Fang in een Hang Youth shirt. Dat kan ik waarderen. #esns21",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "esns21",
+					"indices": [
+						59,
+						66
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8900,
+			"friends_count": 658,
+			"listed_count": 556,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7188,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63484,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "Temple Fang in een Hang Youth shirt. Dat kan ik waarderen. #esns21"
+	},
+	{
+		"created_at": "Sat Jan 16 21:52:20 +0000 2021",
+		"id": 1350561548620734500,
+		"id_str": "1350561548620734465",
+		"full_text": "https://t.co/byFZsneUtJ https://t.co/2Dc1vNSRxJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/byFZsneUtJ",
+					"expanded_url": "https://twitter.com/Chronicbias/status/1350559809175769094",
+					"display_url": "twitter.com/Chronicbias/st…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1350561517838721000,
+					"id_str": "1350561517838721025",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/Er4oi34W4AEIW0q.png",
+					"media_url_https": "https://pbs.twimg.com/media/Er4oi34W4AEIW0q.png",
+					"url": "https://t.co/2Dc1vNSRxJ",
+					"display_url": "pic.twitter.com/2Dc1vNSRxJ",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1350561548620734465/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 541,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 629,
+							"h": 790,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 629,
+							"h": 790,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1350561517838721000,
+					"id_str": "1350561517838721025",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/Er4oi34W4AEIW0q.png",
+					"media_url_https": "https://pbs.twimg.com/media/Er4oi34W4AEIW0q.png",
+					"url": "https://t.co/2Dc1vNSRxJ",
+					"display_url": "pic.twitter.com/2Dc1vNSRxJ",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1350561548620734465/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 541,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 629,
+							"h": 790,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 629,
+							"h": 790,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8900,
+			"friends_count": 658,
+			"listed_count": 556,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7188,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63484,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1350559809175769000,
+		"quoted_status_id_str": "1350559809175769094",
+		"quoted_status_permalink": {
+			"url": "https://t.co/byFZsneUtJ",
+			"expanded": "https://twitter.com/Chronicbias/status/1350559809175769094",
+			"display": "twitter.com/Chronicbias/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jan 16 21:45:25 +0000 2021",
+			"id": 1350559809175769000,
+			"id_str": "1350559809175769094",
+			"full_text": "Grappig hoe echte punks niks moeten hebben van Hang Youth, maar mensen die normaal niet zo veel met punk hebben Hang Youth wel grappig vinden. Het is ook wel raar dat Ray Fuego met Ploegendienst en Hang Youth alleen aandacht krijgen #esns #esns21 #noorderslag",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				259
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "esns",
+						"indices": [
+							233,
+							238
+						]
+					},
+					{
+						"text": "esns21",
+						"indices": [
+							239,
+							246
+						]
+					},
+					{
+						"text": "noorderslag",
+						"indices": [
+							247,
+							259
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 162023294,
+				"id_str": "162023294",
+				"name": "Thomas Harteveld",
+				"screen_name": "Chronicbias",
+				"location": "Rotterdam",
+				"description": "Musica | @Bangyourradio | @popronderdam | @3voor12rdam |  | Spotify-playlist Nieuw uit Nederland ontdek iedere zondag toffe alt NLse muziek | #eendrachtfestival",
+				"url": "https://t.co/PH9GyRKOQE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PH9GyRKOQE",
+								"expanded_url": "https://open.spotify.com/playlist/1nMqh93VTMiDCD10q0RpgL?si=a3xBpNxxSbuP8f_8-ZotlA",
+								"display_url": "open.spotify.com/playlist/1nMqh…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1539,
+				"friends_count": 5000,
+				"listed_count": 9,
+				"created_at": "Fri Jul 02 12:05:56 +0000 2010",
+				"favourites_count": 45361,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12479,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1044794121/Indian_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1044794121/Indian_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/162023294/1469491222",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/byFZsneUtJ https://t.co/2Dc1vNSRxJ"
+	},
+	{
+		"created_at": "Sat Jan 16 21:45:06 +0000 2021",
+		"id": 1350559729521713200,
+		"id_str": "1350559729521713154",
+		"full_text": "Ook wel fijn dat ze hun eigen moshpit-maker bij hebben. Die gast rent zich een ongeluk. #ESNS2021",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ESNS2021",
+					"indices": [
+						88,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1350559470078873600,
+		"in_reply_to_status_id_str": "1350559470078873613",
+		"in_reply_to_user_id": 816203,
+		"in_reply_to_user_id_str": "816203",
+		"in_reply_to_screen_name": "frankmeeuwsen",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8900,
+			"friends_count": 658,
+			"listed_count": 556,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7188,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63484,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "Ook wel fijn dat ze hun eigen moshpit-maker bij hebben. Die gast rent zich een ongeluk. #ESNS2021"
+	},
+	{
 		"created_at": "Sat Jan 16 21:00:22 +0000 2021",
 		"id": 1350548471506460700,
 		"id_str": "1350548471506460673",
