@@ -1,6 +1,302 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Sat Jan 16 09:29:14 +0000 2021",
+		"id": 1350374545123901400,
+		"id_str": "1350374545123901442",
+		"full_text": "Joe, ik ben prima op Signal bereikbaar hoor. https://t.co/EGsBRs25ZT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EGsBRs25ZT",
+					"expanded_url": "https://twitter.com/signalapp/status/1349577579091566592",
+					"display_url": "twitter.com/signalapp/stat…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8899,
+			"friends_count": 657,
+			"listed_count": 556,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7180,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63466,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1349577579091566600,
+		"quoted_status_id_str": "1349577579091566592",
+		"quoted_status_permalink": {
+			"url": "https://t.co/EGsBRs25ZT",
+			"expanded": "https://twitter.com/signalapp/status/1349577579091566592",
+			"display": "twitter.com/signalapp/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 14 04:42:23 +0000 2021",
+			"id": 1349577579091566600,
+			"id_str": "1349577579091566592",
+			"full_text": "How it started vs how it's going 😅 https://t.co/ERiFpZUz6c",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				34
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1349577575786397700,
+						"id_str": "1349577575786397697",
+						"indices": [
+							35,
+							58
+						],
+						"media_url": "http://pbs.twimg.com/media/Erqpp6GUwAEjk24.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Erqpp6GUwAEjk24.jpg",
+						"url": "https://t.co/ERiFpZUz6c",
+						"display_url": "pic.twitter.com/ERiFpZUz6c",
+						"expanded_url": "https://twitter.com/signalapp/status/1349577579091566592/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 370,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1125,
+								"h": 612,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1125,
+								"h": 612,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1349577575786397700,
+						"id_str": "1349577575786397697",
+						"indices": [
+							35,
+							58
+						],
+						"media_url": "http://pbs.twimg.com/media/Erqpp6GUwAEjk24.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Erqpp6GUwAEjk24.jpg",
+						"url": "https://t.co/ERiFpZUz6c",
+						"display_url": "pic.twitter.com/ERiFpZUz6c",
+						"expanded_url": "https://twitter.com/signalapp/status/1349577579091566592/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 370,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1125,
+								"h": 612,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1125,
+								"h": 612,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 142415193,
+				"id_str": "142415193",
+				"name": "Signal",
+				"screen_name": "signalapp",
+				"location": "",
+				"description": "Signal is a cross-platform messaging app. Privacy isn’t an optional mode – it’s just the way that Signal works. Every message, every call, every time.",
+				"url": "https://t.co/PcAHLU7cth",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PcAHLU7cth",
+								"expanded_url": "http://signal.org",
+								"display_url": "signal.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 419913,
+				"friends_count": 30,
+				"listed_count": 2745,
+				"created_at": "Mon May 10 20:47:35 +0000 2010",
+				"favourites_count": 1385,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 3846,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1245828066200276995/gOuxVdfv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245828066200276995/gOuxVdfv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/142415193/1422133327",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6148,
+			"favorite_count": 51030,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Joe, ik ben prima op Signal bereikbaar hoor. https://t.co/EGsBRs25ZT"
+	},
+	{
 		"created_at": "Sat Jan 16 08:36:29 +0000 2021",
 		"id": 1350361267018621000,
 		"id_str": "1350361267018620928",
