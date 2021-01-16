@@ -1,6 +1,478 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Sat Jan 16 21:00:22 +0000 2021",
+		"id": 1350548471506460700,
+		"id_str": "1350548471506460673",
+		"full_text": "Zin in Hang Youth en Temple Fang straks. #esns21 /cc @reneevh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "esns21",
+					"indices": [
+						41,
+						48
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "reneevh",
+					"name": "Renée van Holsteijn",
+					"id": 25069966,
+					"id_str": "25069966",
+					"indices": [
+						53,
+						61
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8900,
+			"friends_count": 658,
+			"listed_count": 556,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7187,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63478,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Zin in Hang Youth en Temple Fang straks. #esns21 /cc @reneevh"
+	},
+	{
+		"created_at": "Sat Jan 16 20:57:29 +0000 2021",
+		"id": 1350547748165189600,
+		"id_str": "1350547748165189634",
+		"full_text": "@atzedevrieze Maar wat een lekkere set van Sophie Straat. Eerste keer dat ik haar zie. Fijn hoor. Kan zo een tent in Biddinghuizen op zijn kop zetten.",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "atzedevrieze",
+					"name": "Atze de Vrieze",
+					"id": 3192511,
+					"id_str": "3192511",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1350543542561738800,
+		"in_reply_to_status_id_str": "1350543542561738758",
+		"in_reply_to_user_id": 3192511,
+		"in_reply_to_user_id_str": "3192511",
+		"in_reply_to_screen_name": "atzedevrieze",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8900,
+			"friends_count": 658,
+			"listed_count": 556,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7187,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63478,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@atzedevrieze Maar wat een lekkere set van Sophie Straat. Eerste keer dat ik haar zie. Fijn hoor. Kan zo een tent in Biddinghuizen op zijn kop zetten."
+	},
+	{
+		"created_at": "Sat Jan 16 20:56:16 +0000 2021",
+		"id": 1350547441590919200,
+		"id_str": "1350547441590919170",
+		"full_text": "@bertptse Ik zou een slechte zijn voor dat team...",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bertptse",
+					"name": "Bert Potse",
+					"id": 161400019,
+					"id_str": "161400019",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1350544250862243800,
+		"in_reply_to_status_id_str": "1350544250862243843",
+		"in_reply_to_user_id": 161400019,
+		"in_reply_to_user_id_str": "161400019",
+		"in_reply_to_screen_name": "bertptse",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8900,
+			"friends_count": 658,
+			"listed_count": 556,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7187,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63478,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@bertptse Ik zou een slechte zijn voor dat team..."
+	},
+	{
+		"created_at": "Sat Jan 16 20:42:14 +0000 2021",
+		"id": 1350543907990462500,
+		"id_str": "1350543907990462464",
+		"full_text": "@atzedevrieze Ik heb zo mijn twitches bij bepaalde uitdrukkingen ;-)",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "atzedevrieze",
+					"name": "Atze de Vrieze",
+					"id": 3192511,
+					"id_str": "3192511",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1350543542561738800,
+		"in_reply_to_status_id_str": "1350543542561738758",
+		"in_reply_to_user_id": 3192511,
+		"in_reply_to_user_id_str": "3192511",
+		"in_reply_to_screen_name": "atzedevrieze",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8900,
+			"friends_count": 658,
+			"listed_count": 556,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7187,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63478,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@atzedevrieze Ik heb zo mijn twitches bij bepaalde uitdrukkingen ;-)"
+	},
+	{
 		"created_at": "Sat Jan 16 20:05:17 +0000 2021",
 		"id": 1350534611508617200,
 		"id_str": "1350534611508617220",
