@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Mon Jan 18 17:23:25 +0000 2021",
+		"id": 1351218650464866300,
+		"id_str": "1351218650464866304",
+		"full_text": "“We kunnen ons nu echt geen taboes veroorloven.\"\nMooi, kijk dan eens naar de reisbeperkingen. Bijvoorbeeld vanuit het buitenland naar oh ik noem maar wat pin me er niet op vast even uit de losse pols Schiphol? https://t.co/1JdQmr2CJz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1JdQmr2CJz",
+					"expanded_url": "https://twitter.com/rtlnieuws/status/1351163306015416326",
+					"display_url": "twitter.com/rtlnieuws/stat…",
+					"indices": [
+						210,
+						233
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8901,
+			"friends_count": 660,
+			"listed_count": 556,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7196,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63517,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1351163306015416300,
+		"quoted_status_id_str": "1351163306015416326",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1JdQmr2CJz",
+			"expanded": "https://twitter.com/rtlnieuws/status/1351163306015416326",
+			"display": "twitter.com/rtlnieuws/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jan 18 13:43:30 +0000 2021",
+			"id": 1351163306015416300,
+			"id_str": "1351163306015416326",
+			"full_text": "Nut en noodzaak van de avondklok: we beantwoorden vijf vragen over deze zware maatregel. https://t.co/YUYR8UOpxU",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				112
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/YUYR8UOpxU",
+						"expanded_url": "https://www.rtlnieuws.nl/nieuws/nederland/artikel/5209290/invoeren-avondklok-coronavirus-besmettingen-thuis-jongeren",
+						"display_url": "rtlnieuws.nl/nieuws/nederla…",
+						"indices": [
+							89,
+							112
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.rtlnieuws.nl\" rel=\"nofollow\">rtlnieuws.nl prod web</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20968385,
+				"id_str": "20968385",
+				"name": "RTL Nieuws",
+				"screen_name": "RTLnieuws",
+				"location": "Nederland",
+				"description": "Volg het nieuws terwijl het gebeurt. De laatste berichten uit binnen- en buitenland. Politiek, sport, economie, opmerkelijk nieuws. Video.",
+				"url": "http://t.co/CdGxqigxAM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/CdGxqigxAM",
+								"expanded_url": "http://www.rtlnieuws.nl",
+								"display_url": "rtlnieuws.nl",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 486196,
+				"friends_count": 627,
+				"listed_count": 3398,
+				"created_at": "Mon Feb 16 07:17:30 +0000 2009",
+				"favourites_count": 161,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 270256,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/948470929163800576/8yYXeZbK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/948470929163800576/8yYXeZbK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20968385/1514968058",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E1E1E1",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "“We kunnen ons nu echt geen taboes veroorloven.\"\nMooi, kijk dan eens naar de reisbeperkingen. Bijvoorbeeld vanuit het buitenland naar oh ik noem maar wat pin me er niet op vast even uit de losse pols Schiphol? https://t.co/1JdQmr2CJz"
+	},
+	{
 		"created_at": "Mon Jan 18 15:23:35 +0000 2021",
 		"id": 1351188492378902500,
 		"id_str": "1351188492378902532",
