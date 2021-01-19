@@ -1,6 +1,152 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Tue Jan 19 06:35:25 +0000 2021",
+		"id": 1351417963920957400,
+		"id_str": "1351417963920957440",
+		"full_text": "@donckrr @Frankblzs @allesonthouden @evernote Nee hoor, het is geen wrok. Ik leg in het artikel uit waarom ik mijn Evernote account verwijder. Daar zit geen wrok bij:\n- achterblijven op rest van ecosysteem \n- nieuwe versie vind ik slecht\n- een vergroot ecosysteem van andere apps.",
+		"truncated": false,
+		"display_text_range": [
+			46,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "donckrr",
+					"name": "Roel Vanhooydonck",
+					"id": 157047558,
+					"id_str": "157047558",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "Frankblzs",
+					"name": "Frank",
+					"id": 271827867,
+					"id_str": "271827867",
+					"indices": [
+						9,
+						19
+					]
+				},
+				{
+					"screen_name": "allesonthouden",
+					"name": "Alles Onthouden",
+					"id": 2660728160,
+					"id_str": "2660728160",
+					"indices": [
+						20,
+						35
+					]
+				},
+				{
+					"screen_name": "evernote",
+					"name": "Evernote",
+					"id": 13837292,
+					"id_str": "13837292",
+					"indices": [
+						36,
+						45
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1351284330065244200,
+		"in_reply_to_status_id_str": "1351284330065244171",
+		"in_reply_to_user_id": 157047558,
+		"in_reply_to_user_id_str": "157047558",
+		"in_reply_to_screen_name": "donckrr",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8900,
+			"friends_count": 660,
+			"listed_count": 556,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7197,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63518,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@donckrr @Frankblzs @allesonthouden @evernote Nee hoor, het is geen wrok. Ik leg in het artikel uit waarom ik mijn Evernote account verwijder. Daar zit geen wrok bij:\n- achterblijven op rest van ecosysteem \n- nieuwe versie vind ik slecht\n- een vergroot ecosysteem van andere apps."
+	},
+	{
 		"created_at": "Mon Jan 18 17:23:25 +0000 2021",
 		"id": 1351218650464866300,
 		"id_str": "1351218650464866304",
