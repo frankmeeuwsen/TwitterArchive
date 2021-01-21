@@ -1,6 +1,370 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Thu Jan 21 16:58:37 +0000 2021",
+		"id": 1352299574904443000,
+		"id_str": "1352299574904442882",
+		"full_text": "We have a winner! https://t.co/hDlEIq8UeF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hDlEIq8UeF",
+					"expanded_url": "https://twitter.com/ByBiSc/status/1352298826309238784",
+					"display_url": "twitter.com/ByBiSc/status/…",
+					"indices": [
+						18,
+						41
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8899,
+			"friends_count": 668,
+			"listed_count": 556,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7218,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63547,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1352298826309238800,
+		"quoted_status_id_str": "1352298826309238784",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hDlEIq8UeF",
+			"expanded": "https://twitter.com/ByBiSc/status/1352298826309238784",
+			"display": "twitter.com/ByBiSc/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 21 16:55:39 +0000 2021",
+			"id": 1352298826309238800,
+			"id_str": "1352298826309238784",
+			"full_text": "@frankmeeuwsen @roosvanvugt @KAFygi @remkusdevries @Markies @ChristaRomp @mtinebosj @BerniceNice (sorry) https://t.co/IPZ66JCfez",
+			"truncated": false,
+			"display_text_range": [
+				97,
+				104
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "frankmeeuwsen",
+						"name": "Frank Meeuwsen",
+						"id": 816203,
+						"id_str": "816203",
+						"indices": [
+							0,
+							14
+						]
+					},
+					{
+						"screen_name": "roosvanvugt",
+						"name": "Roos",
+						"id": 21687228,
+						"id_str": "21687228",
+						"indices": [
+							15,
+							27
+						]
+					},
+					{
+						"screen_name": "KAFygi",
+						"name": "Kari-Anne Fygi 📚",
+						"id": 8242152,
+						"id_str": "8242152",
+						"indices": [
+							28,
+							35
+						]
+					},
+					{
+						"screen_name": "remkusdevries",
+						"name": "Remkus de Vries",
+						"id": 14264386,
+						"id_str": "14264386",
+						"indices": [
+							36,
+							50
+						]
+					},
+					{
+						"screen_name": "Markies",
+						"name": "Mark de Kock",
+						"id": 1858541,
+						"id_str": "1858541",
+						"indices": [
+							51,
+							59
+						]
+					},
+					{
+						"screen_name": "ChristaRomp",
+						"name": "Christa Romp",
+						"id": 26492815,
+						"id_str": "26492815",
+						"indices": [
+							60,
+							72
+						]
+					},
+					{
+						"screen_name": "mtinebosj",
+						"name": "ℳtine 🦄",
+						"id": 39790804,
+						"id_str": "39790804",
+						"indices": [
+							73,
+							83
+						]
+					},
+					{
+						"screen_name": "BerniceNice",
+						"name": "Iam_bernice",
+						"id": 278660206,
+						"id_str": "278660206",
+						"indices": [
+							84,
+							96
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1352298822429536300,
+						"id_str": "1352298822429536257",
+						"indices": [
+							105,
+							128
+						],
+						"media_url": "http://pbs.twimg.com/media/EsRUnT0XcAEG2sU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EsRUnT0XcAEG2sU.jpg",
+						"url": "https://t.co/IPZ66JCfez",
+						"display_url": "pic.twitter.com/IPZ66JCfez",
+						"expanded_url": "https://twitter.com/ByBiSc/status/1352298826309238784/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 945,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 554,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 314,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1352298822429536300,
+						"id_str": "1352298822429536257",
+						"indices": [
+							105,
+							128
+						],
+						"media_url": "http://pbs.twimg.com/media/EsRUnT0XcAEG2sU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EsRUnT0XcAEG2sU.jpg",
+						"url": "https://t.co/IPZ66JCfez",
+						"display_url": "pic.twitter.com/IPZ66JCfez",
+						"expanded_url": "https://twitter.com/ByBiSc/status/1352298826309238784/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 945,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 554,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 314,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1352203803190288400,
+			"in_reply_to_status_id_str": "1352203803190288384",
+			"in_reply_to_user_id": 816203,
+			"in_reply_to_user_id_str": "816203",
+			"in_reply_to_screen_name": "frankmeeuwsen",
+			"user": {
+				"id": 59726807,
+				"id_str": "59726807",
+				"name": "Bianca",
+				"screen_name": "ByBiSc",
+				"location": "In de polder",
+				"description": "Concert-, festival & vinylfreak • Inked girl •  The guilt of the cocaine kiss is afire in you - Oh, the things you do in the dark • Pearl Jam 🤟🏻",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2164,
+				"friends_count": 638,
+				"listed_count": 77,
+				"created_at": "Fri Jul 24 08:20:42 +0000 2009",
+				"favourites_count": 6373,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3892,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1340360489759612930/tRIw5Zvk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1340360489759612930/tRIw5Zvk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/59726807/1597768073",
+				"profile_link_color": "1E9494",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We have a winner! https://t.co/hDlEIq8UeF"
+	},
+	{
 		"created_at": "Thu Jan 21 10:38:04 +0000 2021",
 		"id": 1352203803190288400,
 		"id_str": "1352203803190288384",
