@@ -1,6 +1,216 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Thu Jan 21 18:57:55 +0000 2021",
+		"id": 1352126804639830000,
+		"id_str": "1352329596625158147",
+		"full_text": "I couldn't sleep, see https://t.co/gc3hgO47GO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1352126476959809500,
+					"id_str": "1352126476959809536",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/media/EsO33e6XAAAIcqR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsO33e6XAAAIcqR.jpg",
+					"url": "https://t.co/gc3hgO47GO",
+					"display_url": "pic.twitter.com/gc3hgO47GO",
+					"expanded_url": "https://twitter.com/DanSchkade/status/1352126804639830017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 780,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 442,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 917,
+							"h": 1410,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1352126476959809500,
+					"id_str": "1352126476959809536",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/media/EsO33e6XAAAIcqR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsO33e6XAAAIcqR.jpg",
+					"url": "https://t.co/gc3hgO47GO",
+					"display_url": "pic.twitter.com/gc3hgO47GO",
+					"expanded_url": "https://twitter.com/DanSchkade/status/1352126804639830017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 780,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 442,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 917,
+							"h": 1410,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1352126489915961300,
+					"id_str": "1352126489915961344",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/media/EsO34PLWMAAFZ-C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsO34PLWMAAFZ-C.jpg",
+					"url": "https://t.co/gc3hgO47GO",
+					"display_url": "pic.twitter.com/gc3hgO47GO",
+					"expanded_url": "https://twitter.com/DanSchkade/status/1352126804639830017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 790,
+							"h": 1117,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 790,
+							"h": 1117,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 525116730,
+			"id_str": "525116730",
+			"name": "Dan Schkade",
+			"screen_name": "DanSchkade",
+			"location": "",
+			"description": "Writer/artist of the Eisner & Ringo-nominated LAVENDER JACK on @Webtoon, THE SPIRIT, SAN HANNIBAL, and more! He/him, underweight, “Schkade” rhymes with \"body\"",
+			"url": "https://t.co/cWdQUvEwfx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cWdQUvEwfx",
+							"expanded_url": "https://www.webtoons.com/en/thriller/lavender-jack/list?title_no=1410",
+							"display_url": "webtoons.com/en/thriller/la…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3228,
+			"friends_count": 595,
+			"listed_count": 58,
+			"created_at": "Thu Mar 15 07:03:41 +0000 2012",
+			"favourites_count": 24515,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11114,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1030191028257443841/QuebwVNX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1030191028257443841/QuebwVNX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/525116730/1597267201",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7002,
+		"favorite_count": 40529,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I couldn't sleep, see https://t.co/gc3hgO47GO"
+	},
+	{
 		"created_at": "Thu Jan 21 18:17:13 +0000 2021",
 		"id": 1352319352662597600,
 		"id_str": "1352319352662597633",
