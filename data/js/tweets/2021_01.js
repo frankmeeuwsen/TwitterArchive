@@ -1,6 +1,271 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Thu Jan 21 10:38:04 +0000 2021",
+		"id": 1352203803190288400,
+		"id_str": "1352203803190288384",
+		"full_text": "@roosvanvugt Nee DIT! /cc @KAFygi @remkusdevries @Markies @ChristaRomp @mtinebosj @BerniceNice @ByBiSc (ik vergeet weer de helft... share en like mensen, share en like) https://t.co/Eck1sRDtip",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "roosvanvugt",
+					"name": "Roos",
+					"id": 21687228,
+					"id_str": "21687228",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "KAFygi",
+					"name": "Kari-Anne Fygi 📚",
+					"id": 8242152,
+					"id_str": "8242152",
+					"indices": [
+						26,
+						33
+					]
+				},
+				{
+					"screen_name": "remkusdevries",
+					"name": "Remkus de Vries",
+					"id": 14264386,
+					"id_str": "14264386",
+					"indices": [
+						34,
+						48
+					]
+				},
+				{
+					"screen_name": "Markies",
+					"name": "Mark de Kock",
+					"id": 1858541,
+					"id_str": "1858541",
+					"indices": [
+						49,
+						57
+					]
+				},
+				{
+					"screen_name": "ChristaRomp",
+					"name": "Christa Romp",
+					"id": 26492815,
+					"id_str": "26492815",
+					"indices": [
+						58,
+						70
+					]
+				},
+				{
+					"screen_name": "mtinebosj",
+					"name": "ℳtine 🦄",
+					"id": 39790804,
+					"id_str": "39790804",
+					"indices": [
+						71,
+						81
+					]
+				},
+				{
+					"screen_name": "BerniceNice",
+					"name": "Iam_bernice",
+					"id": 278660206,
+					"id_str": "278660206",
+					"indices": [
+						82,
+						94
+					]
+				},
+				{
+					"screen_name": "ByBiSc",
+					"name": "Bianca",
+					"id": 59726807,
+					"id_str": "59726807",
+					"indices": [
+						95,
+						102
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1352203798022926300,
+					"id_str": "1352203798022926338",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/EsP-MKUXMAIAUdP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsP-MKUXMAIAUdP.jpg",
+					"url": "https://t.co/Eck1sRDtip",
+					"display_url": "pic.twitter.com/Eck1sRDtip",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1352203803190288384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 677,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 824,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 828,
+							"h": 824,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1352203798022926300,
+					"id_str": "1352203798022926338",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/EsP-MKUXMAIAUdP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsP-MKUXMAIAUdP.jpg",
+					"url": "https://t.co/Eck1sRDtip",
+					"display_url": "pic.twitter.com/Eck1sRDtip",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1352203803190288384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 677,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 824,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 828,
+							"h": 824,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1352151960397500400,
+		"in_reply_to_status_id_str": "1352151960397500416",
+		"in_reply_to_user_id": 21687228,
+		"in_reply_to_user_id_str": "21687228",
+		"in_reply_to_screen_name": "roosvanvugt",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8899,
+			"friends_count": 668,
+			"listed_count": 556,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7217,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63546,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@roosvanvugt Nee DIT! /cc @KAFygi @remkusdevries @Markies @ChristaRomp @mtinebosj @BerniceNice @ByBiSc (ik vergeet weer de helft... share en like mensen, share en like) https://t.co/Eck1sRDtip"
+	},
+	{
 		"created_at": "Thu Jan 21 06:59:13 +0000 2021",
 		"id": 1352148730674368500,
 		"id_str": "1352148730674368512",
