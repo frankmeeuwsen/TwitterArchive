@@ -1,6 +1,345 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Thu Jan 21 06:59:13 +0000 2021",
+		"id": 1352148730674368500,
+		"id_str": "1352148730674368512",
+		"full_text": "Who needs siervuurwerk when you can hebben mooie vlieglichtjes in formatie? https://t.co/Coq4iTfCR3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Coq4iTfCR3",
+					"expanded_url": "https://twitter.com/realsexycyborg/status/1352131256339709952",
+					"display_url": "twitter.com/realsexycyborg…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8899,
+			"friends_count": 668,
+			"listed_count": 556,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7216,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63545,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1352131256339710000,
+		"quoted_status_id_str": "1352131256339709952",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Coq4iTfCR3",
+			"expanded": "https://twitter.com/realsexycyborg/status/1352131256339709952",
+			"display": "twitter.com/realsexycyborg…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 21 05:49:47 +0000 2021",
+			"id": 1352131256339710000,
+			"id_str": "1352131256339709952",
+			"full_text": "We really wish you well and love the old-timey Chinese fireworks, can we interest you in something ahh...a little more current😉? https://t.co/vwbglYeVfa https://t.co/sY2HxIBNL8",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				152
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/vwbglYeVfa",
+						"expanded_url": "https://twitter.com/mdornic/status/1352090555342270466",
+						"display_url": "twitter.com/mdornic/status…",
+						"indices": [
+							129,
+							152
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1352130288420233200,
+						"id_str": "1352130288420233216",
+						"indices": [
+							153,
+							176
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1352130288420233216/pu/img/q_cP0GXMkb5OahoX.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1352130288420233216/pu/img/q_cP0GXMkb5OahoX.jpg",
+						"url": "https://t.co/sY2HxIBNL8",
+						"display_url": "pic.twitter.com/sY2HxIBNL8",
+						"expanded_url": "https://twitter.com/RealSexyCyborg/status/1352131256339709952/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1352130288420233200,
+						"id_str": "1352130288420233216",
+						"indices": [
+							153,
+							176
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1352130288420233216/pu/img/q_cP0GXMkb5OahoX.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1352130288420233216/pu/img/q_cP0GXMkb5OahoX.jpg",
+						"url": "https://t.co/sY2HxIBNL8",
+						"display_url": "pic.twitter.com/sY2HxIBNL8",
+						"expanded_url": "https://twitter.com/RealSexyCyborg/status/1352131256339709952/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 40507,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1352130288420233216/pu/pl/herk-enW_8Gh8tvl.m3u8?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1352130288420233216/pu/vid/640x360/BLZc15o1p2-nYmof.mp4?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1352130288420233216/pu/vid/480x270/FU9wX4fEQ_oKGltc.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3562121415,
+				"id_str": "3562121415",
+				"name": "Naomi Wu 机械妖姬",
+				"screen_name": "RealSexyCyborg",
+				"location": "Shenzhen, China",
+				"description": "China's #1 Tech & DIY YouTuber\nOpen Source, 3D Printing & Digital Fabrication, Automation, Infosec\n1/18th synthetic\n'It's all about merit until merit has tits'",
+				"url": "https://t.co/dIR0XfOgFk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/dIR0XfOgFk",
+								"expanded_url": "http://youtube.com/c/SexyCyborg",
+								"display_url": "youtube.com/c/SexyCyborg",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 150490,
+				"friends_count": 2686,
+				"listed_count": 1175,
+				"created_at": "Sun Sep 06 03:39:45 +0000 2015",
+				"favourites_count": 269898,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 59458,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/763179688013377536/mbsD4Ptg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/763179688013377536/mbsD4Ptg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3562121415/1511133594",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1352090555342270500,
+			"quoted_status_id_str": "1352090555342270466",
+			"quoted_status_permalink": {
+				"url": "https://t.co/vwbglYeVfa",
+				"expanded": "https://twitter.com/mdornic/status/1352090555342270466",
+				"display": "twitter.com/mdornic/status…"
+			},
+			"retweet_count": 100,
+			"favorite_count": 522,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Who needs siervuurwerk when you can hebben mooie vlieglichtjes in formatie? https://t.co/Coq4iTfCR3"
+	},
+	{
 		"created_at": "Wed Jan 20 22:58:33 +0000 2021",
 		"id": 1352027764279423000,
 		"id_str": "1352027764279422979",
