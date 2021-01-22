@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Fri Jan 22 06:39:51 +0000 2021",
+		"id": 1352506244301512700,
+		"id_str": "1352506244301512704",
+		"full_text": "Is dat niet juist de oorzaak van veel van de problemen die we nu zien? https://t.co/YyOyiL1zPl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YyOyiL1zPl",
+					"expanded_url": "https://twitter.com/rmac18/status/1352373485167726593",
+					"display_url": "twitter.com/rmac18/status/…",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8899,
+			"friends_count": 668,
+			"listed_count": 556,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7220,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63550,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1352373485167726600,
+		"quoted_status_id_str": "1352373485167726593",
+		"quoted_status_permalink": {
+			"url": "https://t.co/YyOyiL1zPl",
+			"expanded": "https://twitter.com/rmac18/status/1352373485167726593",
+			"display": "twitter.com/rmac18/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 21 21:52:19 +0000 2021",
+			"id": 1352373485167726600,
+			"id_str": "1352373485167726593",
+			"full_text": "Zuckerberg: \"One of the ways that I think that we can contribute in a very important way to the world right now is helping people join and become a part of groups that are very meaningful to them.\"",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				197
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1352373088101404700,
+			"in_reply_to_status_id_str": "1352373088101404673",
+			"in_reply_to_user_id": 47191293,
+			"in_reply_to_user_id_str": "47191293",
+			"in_reply_to_screen_name": "RMac18",
+			"user": {
+				"id": 47191293,
+				"id_str": "47191293",
+				"name": "Ryan Mac 🙃",
+				"screen_name": "RMac18",
+				"location": "If you were there, beware",
+				"description": "senior tech reporter @BuzzFeedNews. ryan.mac@buzzfeed.com & rmac18@protonmail.com. DMs open. On Signal--ask for my number",
+				"url": "https://t.co/igtuNLQ0ia",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/igtuNLQ0ia",
+								"expanded_url": "https://www.buzzfeednews.com/article/ryanmac",
+								"display_url": "buzzfeednews.com/article/ryanmac",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 54928,
+				"friends_count": 4025,
+				"listed_count": 1391,
+				"created_at": "Sun Jun 14 22:21:58 +0000 2009",
+				"favourites_count": 35792,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 44472,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1276574958609592321/BciyGVM5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1276574958609592321/BciyGVM5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/47191293/1567143936",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 52,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Is dat niet juist de oorzaak van veel van de problemen die we nu zien? https://t.co/YyOyiL1zPl"
+	},
+	{
 		"created_at": "Thu Jan 21 22:27:03 +0000 2021",
 		"id": 1352382226047119400,
 		"id_str": "1352382226047119363",
