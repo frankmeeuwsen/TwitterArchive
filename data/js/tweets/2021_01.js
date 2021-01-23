@@ -1,6 +1,100 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Sat Jan 23 20:40:26 +0000 2021",
+		"id": 1353078950369570800,
+		"id_str": "1353080169897091073",
+		"full_text": "Shut the fuck up, Donny.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.neilkodner.com\" rel=\"nofollow\">18data custom</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 102241939,
+			"id_str": "102241939",
+			"name": "The Bot Lebowski",
+			"screen_name": "TheBotLebowski",
+			"location": "Hollywood, FL",
+			"description": "created by @neilkod. Available for twitter and data-related projects",
+			"url": "http://t.co/lKPr9fgRE8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lKPr9fgRE8",
+							"expanded_url": "http://bit.ly/neilkodsbots",
+							"display_url": "bit.ly/neilkodsbots",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17591,
+			"friends_count": 0,
+			"listed_count": 431,
+			"created_at": "Wed Jan 06 02:18:56 +0000 2010",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 157320,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/613551924/8294_0201E2fmgLXBj7XY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/613551924/8294_0201E2fmgLXBj7XY_normal.jpg",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 47,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Shut the fuck up, Donny."
+	},
+	{
 		"created_at": "Sat Jan 23 14:10:49 +0000 2021",
 		"id": 1352777264015044600,
 		"id_str": "1352982120021561346",
