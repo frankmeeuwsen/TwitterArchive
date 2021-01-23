@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Sat Jan 23 14:10:49 +0000 2021",
+		"id": 1352777264015044600,
+		"id_str": "1352982120021561346",
+		"full_text": "This beats the Bernie meme and it’s not even close. https://t.co/Mp2usWYNp4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1352777261569757200,
+					"id_str": "1352777261569757185",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/EsYHwIgXUAEDhlQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsYHwIgXUAEDhlQ.jpg",
+					"url": "https://t.co/Mp2usWYNp4",
+					"display_url": "pic.twitter.com/Mp2usWYNp4",
+					"expanded_url": "https://twitter.com/keithedwards/status/1352777264015044608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1037,
+							"h": 1025,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 672,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1037,
+							"h": 1025,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1352777261569757200,
+					"id_str": "1352777261569757185",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/EsYHwIgXUAEDhlQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsYHwIgXUAEDhlQ.jpg",
+					"url": "https://t.co/Mp2usWYNp4",
+					"display_url": "pic.twitter.com/Mp2usWYNp4",
+					"expanded_url": "https://twitter.com/keithedwards/status/1352777264015044608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1037,
+							"h": 1025,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 672,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1037,
+							"h": 1025,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14102215,
+			"id_str": "14102215",
+			"name": "Keith Edwards",
+			"screen_name": "keithedwards",
+			"location": "New York, NY",
+			"description": "Senior Digital Advisor @ossoff. Alum @ProjectLincoln, @Mike2020, @NYCSpeakerCoJo. Former small business owner, reality TV producer, and KFC cook.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 105744,
+			"friends_count": 716,
+			"listed_count": 444,
+			"created_at": "Sat Mar 08 18:43:43 +0000 2008",
+			"favourites_count": 23223,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4383,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D0DAE0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1251715007454248960/8efBqEe0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1251715007454248960/8efBqEe0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14102215/1605321944",
+			"profile_link_color": "89C9FA",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFF5",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10115,
+		"favorite_count": 79014,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This beats the Bernie meme and it’s not even close. https://t.co/Mp2usWYNp4"
+	},
+	{
 		"created_at": "Sat Jan 23 10:20:59 +0000 2021",
 		"id": 1352919094933278700,
 		"id_str": "1352924283358617600",
