@@ -1,6 +1,316 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Sun Jan 24 20:21:03 +0000 2021",
+		"id": 1352844148357755000,
+		"id_str": "1353437680185569283",
+		"full_text": "雪の舞い❄️ https://t.co/GwJNWbtHFf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			6
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1352843967461613600,
+					"id_str": "1352843967461613568",
+					"indices": [
+						7,
+						30
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1352843967461613568/pu/img/N7j0jeaCDJOHAcGb.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1352843967461613568/pu/img/N7j0jeaCDJOHAcGb.jpg",
+					"url": "https://t.co/GwJNWbtHFf",
+					"display_url": "pic.twitter.com/GwJNWbtHFf",
+					"expanded_url": "https://twitter.com/arakencloud/status/1352844148357754880/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1352843967461613600,
+					"id_str": "1352843967461613568",
+					"indices": [
+						7,
+						30
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1352843967461613568/pu/img/N7j0jeaCDJOHAcGb.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1352843967461613568/pu/img/N7j0jeaCDJOHAcGb.jpg",
+					"url": "https://t.co/GwJNWbtHFf",
+					"display_url": "pic.twitter.com/GwJNWbtHFf",
+					"expanded_url": "https://twitter.com/arakencloud/status/1352844148357754880/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 18220,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1352843967461613568/pu/vid/1280x720/2S1zrakrfJKMohgj.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1352843967461613568/pu/pl/j1YCZWbquBg9q5TU.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1352843967461613568/pu/vid/640x360/yKaICikkYzbUKKNk.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1352843967461613568/pu/vid/480x270/2a-rJzCmuyBdsKt7.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2533292042,
+			"id_str": "2533292042",
+			"name": "荒木健太郎",
+			"screen_name": "arakencloud",
+			"location": "Tsukuba, Ibaraki, Japan",
+			"description": "雲研究者・気象庁気象研究所研究官・学術博士．防災・減災のために，気象災害をもたらす雲の仕組みを研究してます．著書：#雲を愛する技術／世界でいちばん素敵な #雲の教室／雲の中では何が起こっているのか／#せきらんうんのいっしょう／#ろっかのきせつ など．監修：#天気の子 など．主宰：#関東雪結晶 #霜活 発信は個人見解です",
+			"url": "https://t.co/Eq0qt62u3a",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eq0qt62u3a",
+							"expanded_url": "http://www.mri-jma.go.jp/Dep/typ/araki/",
+							"display_url": "mri-jma.go.jp/Dep/typ/araki/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 217969,
+			"friends_count": 382,
+			"listed_count": 3302,
+			"created_at": "Thu May 29 19:51:40 +0000 2014",
+			"favourites_count": 74206,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 21638,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/750407308140638210/aWCDTJdT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/750407308140638210/aWCDTJdT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2533292042/1555595748",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 591,
+		"favorite_count": 4747,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "雪の舞い❄️ https://t.co/GwJNWbtHFf"
+	},
+	{
+		"created_at": "Sun Jan 24 20:20:15 +0000 2021",
+		"id": 1353437479190352000,
+		"id_str": "1353437479190351872",
+		"full_text": "Venlo...Venlo...Venlo... Kwam daar niet een zekere goedgekuifde zwaarbeveiligde politicus vandaan? Zou hij zich nú uitspreken over zijn stadsgenoten dan? Of met twee maten blijven meten?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8894,
+			"friends_count": 669,
+			"listed_count": 556,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7229,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63568,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "Venlo...Venlo...Venlo... Kwam daar niet een zekere goedgekuifde zwaarbeveiligde politicus vandaan? Zou hij zich nú uitspreken over zijn stadsgenoten dan? Of met twee maten blijven meten?"
+	},
+	{
 		"created_at": "Sun Jan 24 17:55:05 +0000 2021",
 		"id": 1353400945569394700,
 		"id_str": "1353400945569394688",
