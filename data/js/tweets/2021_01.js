@@ -1,6 +1,1015 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Tue Jan 26 20:01:43 +0000 2021",
+		"id": 1354157589567852500,
+		"id_str": "1354157589567852544",
+		"full_text": "@erwblo @atzedevrieze @ehpo @pvdp @michielveenstra @wilbertleering Starten is wat anders dan proberen direct compleet te zijn he ;-)",
+		"truncated": false,
+		"display_text_range": [
+			67,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "erwblo",
+					"name": "Erwin Blom",
+					"id": 713333,
+					"id_str": "713333",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "atzedevrieze",
+					"name": "Atze de Vrieze",
+					"id": 3192511,
+					"id_str": "3192511",
+					"indices": [
+						8,
+						21
+					]
+				},
+				{
+					"screen_name": "ehpo",
+					"name": "Niels Aalberts",
+					"id": 20199054,
+					"id_str": "20199054",
+					"indices": [
+						22,
+						27
+					]
+				},
+				{
+					"screen_name": "pvdp",
+					"name": "Peter van der Ploeg",
+					"id": 10153142,
+					"id_str": "10153142",
+					"indices": [
+						28,
+						33
+					]
+				},
+				{
+					"screen_name": "michielveenstra",
+					"name": "Michiel Veenstra || ꓘINK",
+					"id": 14242065,
+					"id_str": "14242065",
+					"indices": [
+						34,
+						50
+					]
+				},
+				{
+					"screen_name": "wilbertleering",
+					"name": "Wilbert Leering",
+					"id": 11021172,
+					"id_str": "11021172",
+					"indices": [
+						51,
+						66
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1354150649064280000,
+		"in_reply_to_status_id_str": "1354150649064280065",
+		"in_reply_to_user_id": 713333,
+		"in_reply_to_user_id_str": "713333",
+		"in_reply_to_screen_name": "erwblo",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8896,
+			"friends_count": 672,
+			"listed_count": 556,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7255,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63602,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			1221904161492566000
+		],
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@erwblo @atzedevrieze @ehpo @pvdp @michielveenstra @wilbertleering Starten is wat anders dan proberen direct compleet te zijn he ;-)"
+	},
+	{
+		"created_at": "Tue Jan 26 19:49:09 +0000 2021",
+		"id": 1354154430829047800,
+		"id_str": "1354154430829047808",
+		"full_text": "@freek_janssen @remkusdevries @PearlJam @ndrgwrdrdldjs @ByBiSc @roosvanvugt @KAFygi @hansdenk @PJMirella @ChristaRomp Er is nog altijd deze: https://t.co/k9j0K9YunC",
+		"truncated": false,
+		"display_text_range": [
+			118,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "freek_janssen",
+					"name": "uǝssuɐɾ‾ʞǝǝɹɟ@",
+					"id": 71275737,
+					"id_str": "71275737",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "remkusdevries",
+					"name": "Remkus de Vries",
+					"id": 14264386,
+					"id_str": "14264386",
+					"indices": [
+						15,
+						29
+					]
+				},
+				{
+					"screen_name": "PearlJam",
+					"name": "Pearl Jam",
+					"id": 15155074,
+					"id_str": "15155074",
+					"indices": [
+						30,
+						39
+					]
+				},
+				{
+					"screen_name": "ndrgwrdrdldjs",
+					"name": "Ondrgwrdeerdeliedjes",
+					"id": 2274872545,
+					"id_str": "2274872545",
+					"indices": [
+						40,
+						54
+					]
+				},
+				{
+					"screen_name": "ByBiSc",
+					"name": "Bianca",
+					"id": 59726807,
+					"id_str": "59726807",
+					"indices": [
+						55,
+						62
+					]
+				},
+				{
+					"screen_name": "roosvanvugt",
+					"name": "Roos",
+					"id": 21687228,
+					"id_str": "21687228",
+					"indices": [
+						63,
+						75
+					]
+				},
+				{
+					"screen_name": "KAFygi",
+					"name": "Kari-Anne Fygi 📚",
+					"id": 8242152,
+					"id_str": "8242152",
+					"indices": [
+						76,
+						83
+					]
+				},
+				{
+					"screen_name": "hansdenk",
+					"name": "Hans Janssen",
+					"id": 115017250,
+					"id_str": "115017250",
+					"indices": [
+						84,
+						93
+					]
+				},
+				{
+					"screen_name": "PJMirella",
+					"name": "Mirella van der Made",
+					"id": 62478457,
+					"id_str": "62478457",
+					"indices": [
+						94,
+						104
+					]
+				},
+				{
+					"screen_name": "ChristaRomp",
+					"name": "Christa Romp",
+					"id": 26492815,
+					"id_str": "26492815",
+					"indices": [
+						105,
+						117
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/k9j0K9YunC",
+					"expanded_url": "https://www.perfects.nl/perfect-pearl-jam/",
+					"display_url": "perfects.nl/perfect-pearl-…",
+					"indices": [
+						141,
+						164
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1354153632141357000,
+		"in_reply_to_status_id_str": "1354153632141357058",
+		"in_reply_to_user_id": 71275737,
+		"in_reply_to_user_id_str": "71275737",
+		"in_reply_to_screen_name": "freek_janssen",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8896,
+			"friends_count": 672,
+			"listed_count": 556,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7255,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63602,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			1221904161492566000
+		],
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@freek_janssen @remkusdevries @PearlJam @ndrgwrdrdldjs @ByBiSc @roosvanvugt @KAFygi @hansdenk @PJMirella @ChristaRomp Er is nog altijd deze: https://t.co/k9j0K9YunC"
+	},
+	{
+		"created_at": "Tue Jan 26 19:30:02 +0000 2021",
+		"id": 1354149616942461000,
+		"id_str": "1354149616942460928",
+		"full_text": "@freek_janssen @PearlJam @ndrgwrdrdldjs @ByBiSc @roosvanvugt @KAFygi @hansdenk @PJMirella @remkusdevries @ChristaRomp In die vorige tweet heb je al meteen een ondergewaardeerd nummer te pakken ;-)",
+		"truncated": false,
+		"display_text_range": [
+			118,
+			196
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "freek_janssen",
+					"name": "uǝssuɐɾ‾ʞǝǝɹɟ@",
+					"id": 71275737,
+					"id_str": "71275737",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "PearlJam",
+					"name": "Pearl Jam",
+					"id": 15155074,
+					"id_str": "15155074",
+					"indices": [
+						15,
+						24
+					]
+				},
+				{
+					"screen_name": "ndrgwrdrdldjs",
+					"name": "Ondrgwrdeerdeliedjes",
+					"id": 2274872545,
+					"id_str": "2274872545",
+					"indices": [
+						25,
+						39
+					]
+				},
+				{
+					"screen_name": "ByBiSc",
+					"name": "Bianca",
+					"id": 59726807,
+					"id_str": "59726807",
+					"indices": [
+						40,
+						47
+					]
+				},
+				{
+					"screen_name": "roosvanvugt",
+					"name": "Roos",
+					"id": 21687228,
+					"id_str": "21687228",
+					"indices": [
+						48,
+						60
+					]
+				},
+				{
+					"screen_name": "KAFygi",
+					"name": "Kari-Anne Fygi 📚",
+					"id": 8242152,
+					"id_str": "8242152",
+					"indices": [
+						61,
+						68
+					]
+				},
+				{
+					"screen_name": "hansdenk",
+					"name": "Hans Janssen",
+					"id": 115017250,
+					"id_str": "115017250",
+					"indices": [
+						69,
+						78
+					]
+				},
+				{
+					"screen_name": "PJMirella",
+					"name": "Mirella van der Made",
+					"id": 62478457,
+					"id_str": "62478457",
+					"indices": [
+						79,
+						89
+					]
+				},
+				{
+					"screen_name": "remkusdevries",
+					"name": "Remkus de Vries",
+					"id": 14264386,
+					"id_str": "14264386",
+					"indices": [
+						90,
+						104
+					]
+				},
+				{
+					"screen_name": "ChristaRomp",
+					"name": "Christa Romp",
+					"id": 26492815,
+					"id_str": "26492815",
+					"indices": [
+						105,
+						117
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1354149235185381400,
+		"in_reply_to_status_id_str": "1354149235185381377",
+		"in_reply_to_user_id": 816203,
+		"in_reply_to_user_id_str": "816203",
+		"in_reply_to_screen_name": "frankmeeuwsen",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8896,
+			"friends_count": 672,
+			"listed_count": 556,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7255,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63602,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			1221904161492566000
+		],
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@freek_janssen @PearlJam @ndrgwrdrdldjs @ByBiSc @roosvanvugt @KAFygi @hansdenk @PJMirella @remkusdevries @ChristaRomp In die vorige tweet heb je al meteen een ondergewaardeerd nummer te pakken ;-)"
+	},
+	{
+		"created_at": "Tue Jan 26 19:28:31 +0000 2021",
+		"id": 1354149235185381400,
+		"id_str": "1354149235185381377",
+		"full_text": "@freek_janssen @PearlJam @ndrgwrdrdldjs @ByBiSc @roosvanvugt @KAFygi @hansdenk Tuurlijk! Check ook @PJMirella @remkusdevries en @ChristaRomp. De Strangest Tribe is groot genoeg!",
+		"truncated": false,
+		"display_text_range": [
+			79,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "freek_janssen",
+					"name": "uǝssuɐɾ‾ʞǝǝɹɟ@",
+					"id": 71275737,
+					"id_str": "71275737",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "PearlJam",
+					"name": "Pearl Jam",
+					"id": 15155074,
+					"id_str": "15155074",
+					"indices": [
+						15,
+						24
+					]
+				},
+				{
+					"screen_name": "ndrgwrdrdldjs",
+					"name": "Ondrgwrdeerdeliedjes",
+					"id": 2274872545,
+					"id_str": "2274872545",
+					"indices": [
+						25,
+						39
+					]
+				},
+				{
+					"screen_name": "ByBiSc",
+					"name": "Bianca",
+					"id": 59726807,
+					"id_str": "59726807",
+					"indices": [
+						40,
+						47
+					]
+				},
+				{
+					"screen_name": "roosvanvugt",
+					"name": "Roos",
+					"id": 21687228,
+					"id_str": "21687228",
+					"indices": [
+						48,
+						60
+					]
+				},
+				{
+					"screen_name": "KAFygi",
+					"name": "Kari-Anne Fygi 📚",
+					"id": 8242152,
+					"id_str": "8242152",
+					"indices": [
+						61,
+						68
+					]
+				},
+				{
+					"screen_name": "hansdenk",
+					"name": "Hans Janssen",
+					"id": 115017250,
+					"id_str": "115017250",
+					"indices": [
+						69,
+						78
+					]
+				},
+				{
+					"screen_name": "PJMirella",
+					"name": "Mirella van der Made",
+					"id": 62478457,
+					"id_str": "62478457",
+					"indices": [
+						99,
+						109
+					]
+				},
+				{
+					"screen_name": "remkusdevries",
+					"name": "Remkus de Vries",
+					"id": 14264386,
+					"id_str": "14264386",
+					"indices": [
+						110,
+						124
+					]
+				},
+				{
+					"screen_name": "ChristaRomp",
+					"name": "Christa Romp",
+					"id": 26492815,
+					"id_str": "26492815",
+					"indices": [
+						128,
+						140
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1354148384391786500,
+		"in_reply_to_status_id_str": "1354148384391786498",
+		"in_reply_to_user_id": 71275737,
+		"in_reply_to_user_id_str": "71275737",
+		"in_reply_to_screen_name": "freek_janssen",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8896,
+			"friends_count": 672,
+			"listed_count": 556,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7255,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63602,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			1221904161492566000
+		],
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@freek_janssen @PearlJam @ndrgwrdrdldjs @ByBiSc @roosvanvugt @KAFygi @hansdenk Tuurlijk! Check ook @PJMirella @remkusdevries en @ChristaRomp. De Strangest Tribe is groot genoeg!"
+	},
+	{
+		"created_at": "Tue Jan 26 19:26:06 +0000 2021",
+		"id": 1354049176145961000,
+		"id_str": "1354148628949053441",
+		"full_text": "So @Twitter bought @Revue. @UplandSoftware bought @secondstreet. @MailChimp bought @Chatitive. @Mailerlite announced a @stripe integration. @Forbes  announced a paid newsletter program. @SubstackInc announced segmentation.\n\nThat's the past 14 days of news in the email world.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Twitter",
+					"name": "Twitter",
+					"id": 783214,
+					"id_str": "783214",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "revue",
+					"name": "Revue",
+					"id": 3001165942,
+					"id_str": "3001165942",
+					"indices": [
+						19,
+						25
+					]
+				},
+				{
+					"screen_name": "UplandSoftware",
+					"name": "Upland Software",
+					"id": 1360201458,
+					"id_str": "1360201458",
+					"indices": [
+						27,
+						42
+					]
+				},
+				{
+					"screen_name": "secondstreet",
+					"name": "Second Street",
+					"id": 462286513,
+					"id_str": "462286513",
+					"indices": [
+						50,
+						63
+					]
+				},
+				{
+					"screen_name": "Mailchimp",
+					"name": "Mailchimp",
+					"id": 14377870,
+					"id_str": "14377870",
+					"indices": [
+						65,
+						75
+					]
+				},
+				{
+					"screen_name": "Chatitive",
+					"name": "Chatitive",
+					"id": 702198728745062400,
+					"id_str": "702198728745062400",
+					"indices": [
+						83,
+						93
+					]
+				},
+				{
+					"screen_name": "MailerLite",
+					"name": "MailerLite",
+					"id": 200449661,
+					"id_str": "200449661",
+					"indices": [
+						95,
+						106
+					]
+				},
+				{
+					"screen_name": "stripe",
+					"name": "Stripe",
+					"id": 102812444,
+					"id_str": "102812444",
+					"indices": [
+						119,
+						126
+					]
+				},
+				{
+					"screen_name": "Forbes",
+					"name": "Forbes",
+					"id": 91478624,
+					"id_str": "91478624",
+					"indices": [
+						140,
+						147
+					]
+				},
+				{
+					"screen_name": "SubstackInc",
+					"name": "Substack",
+					"id": 877295296828522500,
+					"id_str": "877295296828522496",
+					"indices": [
+						186,
+						198
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16892321,
+			"id_str": "16892321",
+			"name": "Dan Oshinsky",
+			"screen_name": "danoshinsky",
+			"location": "New York, NY",
+			"description": "@inboxcollective and https://t.co/RHE0P5TIJz. Helping publishers and nonprofits send better email. Formerly: @newyorker @BuzzFeed, @StryUs, @tools4reporters. M-I-Z.",
+			"url": "http://t.co/JPKxb54Bo1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/JPKxb54Bo1",
+							"expanded_url": "http://danoshinsky.com",
+							"display_url": "danoshinsky.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RHE0P5TIJz",
+							"expanded_url": "http://notanewsletter.com",
+							"display_url": "notanewsletter.com",
+							"indices": [
+								21,
+								44
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4284,
+			"friends_count": 115,
+			"listed_count": 223,
+			"created_at": "Tue Oct 21 19:42:03 +0000 2008",
+			"favourites_count": 1889,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11648,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238224250500190208/EOQibeHz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238224250500190208/EOQibeHz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16892321/1502229251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 58,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "So @Twitter bought @Revue. @UplandSoftware bought @secondstreet. @MailChimp bought @Chatitive. @Mailerlite announced a @stripe integration. @Forbes  announced a paid newsletter program. @SubstackInc announced segmentation.\n\nThat's the past 14 days of news in the email world."
+	},
+	{
 		"created_at": "Tue Jan 26 18:37:31 +0000 2021",
 		"id": 1354136402229944300,
 		"id_str": "1354136402229944320",
