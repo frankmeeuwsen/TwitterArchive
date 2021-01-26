@@ -1,6 +1,487 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Tue Jan 26 22:15:24 +0000 2021",
+		"id": 1354191233053323300,
+		"id_str": "1354191233053323264",
+		"full_text": "@JWvdPol frank@frankmeeuwsen.com. Thanks!",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JWvdPol",
+					"name": "Jan-Willem v/d Pol",
+					"id": 13089612,
+					"id_str": "13089612",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1354189610730086400,
+		"in_reply_to_status_id_str": "1354189610730086401",
+		"in_reply_to_user_id": 13089612,
+		"in_reply_to_user_id_str": "13089612",
+		"in_reply_to_screen_name": "JWvdPol",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8896,
+			"friends_count": 672,
+			"listed_count": 556,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7256,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63606,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			1221904161492566000
+		],
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@JWvdPol frank@frankmeeuwsen.com. Thanks!"
+	},
+	{
+		"created_at": "Tue Jan 26 22:02:43 +0000 2021",
+		"id": 1354188041397678000,
+		"id_str": "1354188041397678087",
+		"full_text": "Is er iemand lid van Stratechery die mij kan helpen aan dit artikel? https://t.co/NLWUdV8CXc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NLWUdV8CXc",
+					"expanded_url": "https://stratechery.com/2021/twitter-acquires-revue-twitters-opportunity-twitters-achilles-heel/",
+					"display_url": "stratechery.com/2021/twitter-a…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8896,
+			"friends_count": 672,
+			"listed_count": 556,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7256,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63606,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			1221904161492566000
+		],
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Is er iemand lid van Stratechery die mij kan helpen aan dit artikel? https://t.co/NLWUdV8CXc"
+	},
+	{
+		"created_at": "Tue Jan 26 22:00:26 +0000 2021",
+		"id": 1354187469089099800,
+		"id_str": "1354187469089099785",
+		"full_text": "Een interessante thread hoe de Twitter/Revue deal in het nadeel van de nieuwsbrief auteur kan zijn. Want aandeelhouderswaarde en het algoritme winnen altijd. https://t.co/LAwl9YfWyD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LAwl9YfWyD",
+					"expanded_url": "https://twitter.com/jdgraffam/status/1354128672945549313",
+					"display_url": "twitter.com/jdgraffam/stat…",
+					"indices": [
+						158,
+						181
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8896,
+			"friends_count": 672,
+			"listed_count": 556,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7256,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63606,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			1221904161492566000
+		],
+		"is_quote_status": true,
+		"quoted_status_id": 1354128672945549300,
+		"quoted_status_id_str": "1354128672945549313",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LAwl9YfWyD",
+			"expanded": "https://twitter.com/jdgraffam/status/1354128672945549313",
+			"display": "twitter.com/jdgraffam/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 26 18:06:48 +0000 2021",
+			"id": 1354128672945549300,
+			"id_str": "1354128672945549313",
+			"full_text": "I'm glad Twitter bought Revue because I own $TWTR and I think it’s a good long-term investment. This acquisition is shrewd, timed perfectly, and they’ve needed long-form content for a while. They’ll give Substack a headache. But if you are a  newsletter creator, I have thoughts. https://t.co/yHDOtwcYhh",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [
+					{
+						"text": "TWTR",
+						"indices": [
+							44,
+							49
+						]
+					}
+				],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/yHDOtwcYhh",
+						"expanded_url": "https://twitter.com/revue/status/1354036529367314432",
+						"display_url": "twitter.com/revue/status/1…",
+						"indices": [
+							280,
+							303
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 7996802,
+				"id_str": "7996802",
+				"name": "JD Graffam",
+				"screen_name": "jdgraffam",
+				"location": "Memphis, TN",
+				"description": "I’m a family guy who does business things.",
+				"url": "https://t.co/zCzQ64dfj6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zCzQ64dfj6",
+								"expanded_url": "http://graffam.co",
+								"display_url": "graffam.co",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1911,
+				"friends_count": 501,
+				"listed_count": 117,
+				"created_at": "Mon Aug 06 16:50:07 +0000 2007",
+				"favourites_count": 3205,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 13563,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "CDA874",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/631317950813835264/_i_-pf5__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/631317950813835264/_i_-pf5__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/7996802/1475204930",
+				"profile_link_color": "D35400",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1354036529367314400,
+			"quoted_status_id_str": "1354036529367314432",
+			"quoted_status_permalink": {
+				"url": "https://t.co/yHDOtwcYhh",
+				"expanded": "https://twitter.com/revue/status/1354036529367314432",
+				"display": "twitter.com/revue/status/1…"
+			},
+			"retweet_count": 0,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Een interessante thread hoe de Twitter/Revue deal in het nadeel van de nieuwsbrief auteur kan zijn. Want aandeelhouderswaarde en het algoritme winnen altijd. https://t.co/LAwl9YfWyD"
+	},
+	{
 		"created_at": "Tue Jan 26 20:01:43 +0000 2021",
 		"id": 1354157589567852500,
 		"id_str": "1354157589567852544",
