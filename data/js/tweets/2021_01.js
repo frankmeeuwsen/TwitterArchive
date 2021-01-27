@@ -1,6 +1,333 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Wed Jan 27 09:02:21 +0000 2021",
+		"id": 1354354046191214600,
+		"id_str": "1354354046191214593",
+		"full_text": "popcorn.gif hoor mensen... Ik hoop dat ze in de Kamer meelezen en vragen kunnen stellen op basis van de weerleggingen van Daniël. Of werkt dat zo niet? https://t.co/2jiX6Byfw3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2jiX6Byfw3",
+					"expanded_url": "https://twitter.com/danielverlaan/status/1354340498006274048",
+					"display_url": "twitter.com/danielverlaan/…",
+					"indices": [
+						152,
+						175
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8896,
+			"friends_count": 672,
+			"listed_count": 556,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7257,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63609,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1354340498006274000,
+		"quoted_status_id_str": "1354340498006274048",
+		"quoted_status_permalink": {
+			"url": "https://t.co/2jiX6Byfw3",
+			"expanded": "https://twitter.com/danielverlaan/status/1354340498006274048",
+			"display": "twitter.com/danielverlaan/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jan 27 08:08:31 +0000 2021",
+			"id": 1354340498006274000,
+			"id_str": "1354340498006274048",
+			"full_text": "De Jonge zegt: 'hulde voor Daniël Verlaan' dat ik de GGD heb getipt over de illegale datahandel.\n\nZo spint de politiek een grof schandaal. Ik stelde kritische vragen, ik heb ze niet getipt.\n\nIk ga De Jonges uitspraken checken op alle spins &amp; feitelijke onjuistheden: draadje. https://t.co/9qvOG9PCNm",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1354340415936352300,
+						"id_str": "1354340415936352259",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1354340415936352259/pu/img/qMcwTZVOjcu_Xmbz.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1354340415936352259/pu/img/qMcwTZVOjcu_Xmbz.jpg",
+						"url": "https://t.co/9qvOG9PCNm",
+						"display_url": "pic.twitter.com/9qvOG9PCNm",
+						"expanded_url": "https://twitter.com/danielverlaan/status/1354340498006274048/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1354340415936352300,
+						"id_str": "1354340415936352259",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1354340415936352259/pu/img/qMcwTZVOjcu_Xmbz.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1354340415936352259/pu/img/qMcwTZVOjcu_Xmbz.jpg",
+						"url": "https://t.co/9qvOG9PCNm",
+						"display_url": "pic.twitter.com/9qvOG9PCNm",
+						"expanded_url": "https://twitter.com/danielverlaan/status/1354340498006274048/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 36803,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1354340415936352259/pu/vid/640x360/u21X1JRIQDvcdcJV.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1354340415936352259/pu/pl/83yaocORQlB6fHnz.m3u8?tag=12"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1354340415936352259/pu/vid/1280x720/Ai8g8n5VHT5hHgli.mp4?tag=12"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1354340415936352259/pu/vid/480x270/_6nHTB2hjYToCNVa.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14224500,
+				"id_str": "14224500",
+				"name": "Daniël Verlaan",
+				"screen_name": "danielverlaan",
+				"location": "🚀",
+				"description": "techjournalist @RTLnieuws ☎️ 06 2089 8142 📫 daniel.verlaan@rtl.nl 🏆 Tegel & Loep 📕 boek 'Ik weet je wachtwoord' @DasMag 👨‍💻 auteur Laat Je Niet Hack Maken",
+				"url": "https://t.co/HCmkTQFjQd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/HCmkTQFjQd",
+								"expanded_url": "https://daniel.verlaan.xyz/",
+								"display_url": "daniel.verlaan.xyz",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 50295,
+				"friends_count": 630,
+				"listed_count": 594,
+				"created_at": "Wed Mar 26 10:36:54 +0000 2008",
+				"favourites_count": 9650,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 2283,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1319677297041997824/z9Bd0tC1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1319677297041997824/z9Bd0tC1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14224500/1603717861",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 545,
+			"favorite_count": 1446,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "popcorn.gif hoor mensen... Ik hoop dat ze in de Kamer meelezen en vragen kunnen stellen op basis van de weerleggingen van Daniël. Of werkt dat zo niet? https://t.co/2jiX6Byfw3"
+	},
+	{
 		"created_at": "Wed Jan 27 07:05:53 +0000 2021",
 		"id": 1354324735954448400,
 		"id_str": "1354324735954448386",
