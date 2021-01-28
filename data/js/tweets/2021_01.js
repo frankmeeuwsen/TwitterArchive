@@ -1,6 +1,613 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Thu Jan 28 19:20:56 +0000 2021",
+		"id": 1354872104454418400,
+		"id_str": "1354872104454418432",
+		"full_text": "@frankgvisser Hardoplachen! “online reading club”….",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "frankgvisser",
+					"name": "Frank Visser",
+					"id": 249057365,
+					"id_str": "249057365",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1354869372695810000,
+		"in_reply_to_status_id_str": "1354869372695810048",
+		"in_reply_to_user_id": 249057365,
+		"in_reply_to_user_id_str": "249057365",
+		"in_reply_to_screen_name": "frankgvisser",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8896,
+			"friends_count": 673,
+			"listed_count": 556,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7268,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63655,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			1221904161492566000
+		],
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@frankgvisser Hardoplachen! “online reading club”…."
+	},
+	{
+		"created_at": "Thu Jan 28 19:08:00 +0000 2021",
+		"id": 1354868848441380900,
+		"id_str": "1354868848441380866",
+		"full_text": "@Reinier @Oli4K @sandervdv Ik snap het! Dank!",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Reinier",
+					"name": "Reinier Ladan",
+					"id": 647393,
+					"id_str": "647393",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "Oli4K",
+					"name": "Olivier Slabbers",
+					"id": 6091182,
+					"id_str": "6091182",
+					"indices": [
+						9,
+						15
+					]
+				},
+				{
+					"screen_name": "sandervdv",
+					"name": "Sander van der Vliet",
+					"id": 6512202,
+					"id_str": "6512202",
+					"indices": [
+						16,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1354868580416942000,
+		"in_reply_to_status_id_str": "1354868580416942083",
+		"in_reply_to_user_id": 647393,
+		"in_reply_to_user_id_str": "647393",
+		"in_reply_to_screen_name": "Reinier",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8896,
+			"friends_count": 673,
+			"listed_count": 556,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7268,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63655,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			1221904161492566000
+		],
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@Reinier @Oli4K @sandervdv Ik snap het! Dank!"
+	},
+	{
+		"created_at": "Thu Jan 28 19:00:27 +0000 2021",
+		"id": 1354866946907508700,
+		"id_str": "1354866946907508742",
+		"full_text": "@Oli4K @sandervdv Dus niks doen (=uitlenen en achterover leunen) geeft gegarandeerd geld (want rente). Terwijl iets doen (=zelf verkopen, handelen en gedoe gedoe) kan risico geven en geld kosten. Zoiets?",
+		"truncated": false,
+		"display_text_range": [
+			18,
+			203
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Oli4K",
+					"name": "Olivier Slabbers",
+					"id": 6091182,
+					"id_str": "6091182",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"screen_name": "sandervdv",
+					"name": "Sander van der Vliet",
+					"id": 6512202,
+					"id_str": "6512202",
+					"indices": [
+						7,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1354866153227767800,
+		"in_reply_to_status_id_str": "1354866153227767812",
+		"in_reply_to_user_id": 6091182,
+		"in_reply_to_user_id_str": "6091182",
+		"in_reply_to_screen_name": "Oli4K",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8896,
+			"friends_count": 673,
+			"listed_count": 556,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7268,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63655,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			1221904161492566000
+		],
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@Oli4K @sandervdv Dus niks doen (=uitlenen en achterover leunen) geeft gegarandeerd geld (want rente). Terwijl iets doen (=zelf verkopen, handelen en gedoe gedoe) kan risico geven en geld kosten. Zoiets?"
+	},
+	{
+		"created_at": "Thu Jan 28 18:55:00 +0000 2021",
+		"id": 1354865577836355600,
+		"id_str": "1354865577836355584",
+		"full_text": "@Oli4K @sandervdv Dat impliceert dat de rente van het uitlenen hoger is dan het rendement op het zelf verkopen. Waarom zou ik de aandelen dan uberhaupt willen lenen als de rente die het me kost hoger is dan verkoopwaarde?",
+		"truncated": false,
+		"display_text_range": [
+			18,
+			221
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Oli4K",
+					"name": "Olivier Slabbers",
+					"id": 6091182,
+					"id_str": "6091182",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"screen_name": "sandervdv",
+					"name": "Sander van der Vliet",
+					"id": 6512202,
+					"id_str": "6512202",
+					"indices": [
+						7,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1354859560041918500,
+		"in_reply_to_status_id_str": "1354859560041918467",
+		"in_reply_to_user_id": 6091182,
+		"in_reply_to_user_id_str": "6091182",
+		"in_reply_to_screen_name": "Oli4K",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8896,
+			"friends_count": 673,
+			"listed_count": 556,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7268,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63655,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			1221904161492566000
+		],
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@Oli4K @sandervdv Dat impliceert dat de rente van het uitlenen hoger is dan het rendement op het zelf verkopen. Waarom zou ik de aandelen dan uberhaupt willen lenen als de rente die het me kost hoger is dan verkoopwaarde?"
+	},
+	{
+		"created_at": "Thu Jan 28 18:32:20 +0000 2021",
+		"id": 1354805805296480300,
+		"id_str": "1354859872383336448",
+		"full_text": "Rich People: wHy dOn'T tHe pOoR jUsT iNvEsT tHeIr mOnEy\nPoor People: Ok.\nRich People: ...\nRich People: wait stop",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 489535347,
+			"id_str": "489535347",
+			"name": "Justin McDaniel 🏳️‍🌈",
+			"screen_name": "JUSTINtime4aLAF",
+			"location": "Philadelphia, PA",
+			"description": "Bi/Pan. He/Him | Director/Writer/Animator/Game Dev/Designer. Art Director/Editor for @JimSterling. Producer on @BostonsFaveSon, Podquisition, Spin Off Doctors.",
+			"url": "https://t.co/hOWnlmCUF8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hOWnlmCUF8",
+							"expanded_url": "https://justinmcdaniel.itch.io/",
+							"display_url": "justinmcdaniel.itch.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5059,
+			"friends_count": 695,
+			"listed_count": 37,
+			"created_at": "Sat Feb 11 16:41:37 +0000 2012",
+			"favourites_count": 34935,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25810,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1353440627501883393/pfZ4ZRwD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1353440627501883393/pfZ4ZRwD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/489535347/1571196522",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 74878,
+		"favorite_count": 350003,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Rich People: wHy dOn'T tHe pOoR jUsT iNvEsT tHeIr mOnEy\nPoor People: Ok.\nRich People: ...\nRich People: wait stop"
+	},
+	{
 		"created_at": "Thu Jan 28 18:04:39 +0000 2021",
 		"id": 1354852905304678400,
 		"id_str": "1354852905304678403",
@@ -537,7 +1144,7 @@ Grailbird.data.tweets_2021_01 =
 				"name": "Steven Sinofsky",
 				"screen_name": "stevesi",
 				"location": "Seattle • SV • 🌏",
-				"description": "ॐ • Subscribe to https://t.co/vcfesJIIuX • investing • advising • writing • w/@a16z @boxhq @tanium @everlaw… • 📷•🧘🏻‍♂️• tweets kept for 90 days",
+				"description": "ॐ • Subscribe to https://t.co/vcfesJIIuX • investing • advising • writing • w/@a16z @boxhq @tanium @everlaw… • 📷•🧘🏻♂️• tweets kept for 90 days",
 				"url": "https://t.co/NzEIDdrO6y",
 				"entities": {
 					"url": {
