@@ -1,6 +1,144 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Thu Jan 28 19:25:25 +0000 2021",
+		"id": 1354873230683738000,
+		"id_str": "1354873230683738120",
+		"full_text": "@Reinier @Oli4K @sandervdv Boys, get a Clubhouse Club ;-)",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Reinier",
+					"name": "Reinier Ladan",
+					"id": 647393,
+					"id_str": "647393",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "Oli4K",
+					"name": "Olivier Slabbers",
+					"id": 6091182,
+					"id_str": "6091182",
+					"indices": [
+						9,
+						15
+					]
+				},
+				{
+					"screen_name": "sandervdv",
+					"name": "Sander van der Vliet",
+					"id": 6512202,
+					"id_str": "6512202",
+					"indices": [
+						16,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1354872599185121300,
+		"in_reply_to_status_id_str": "1354872599185121280",
+		"in_reply_to_user_id": 647393,
+		"in_reply_to_user_id_str": "647393",
+		"in_reply_to_screen_name": "Reinier",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8896,
+			"friends_count": 673,
+			"listed_count": 556,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7268,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63656,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			1221904161492566000
+		],
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Reinier @Oli4K @sandervdv Boys, get a Clubhouse Club ;-)"
+	},
+	{
 		"created_at": "Thu Jan 28 19:20:56 +0000 2021",
 		"id": 1354872104454418400,
 		"id_str": "1354872104454418432",
@@ -537,7 +675,7 @@ Grailbird.data.tweets_2021_01 =
 		"user": {
 			"id": 489535347,
 			"id_str": "489535347",
-			"name": "Justin McDaniel 🏳️‍🌈",
+			"name": "Justin McDaniel 🏳️🌈",
 			"screen_name": "JUSTINtime4aLAF",
 			"location": "Philadelphia, PA",
 			"description": "Bi/Pan. He/Him | Director/Writer/Animator/Game Dev/Designer. Art Director/Editor for @JimSterling. Producer on @BostonsFaveSon, Podquisition, Spin Off Doctors.",
