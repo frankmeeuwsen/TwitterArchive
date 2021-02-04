@@ -1,6 +1,439 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Thu Feb 04 06:01:20 +0000 2021",
+		"id": 1357207592590839800,
+		"id_str": "1357207592590839809",
+		"full_text": "Als je je afvraagt of die andere chatapps wel de juiste features hebben om met je posse te roddelen over die ene van digital PR of met je partner de boodschappenlijst te delen, check het overzicht van my man @patrickloonstra https://t.co/LjJyWZiMaR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			248
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "patrickloonstra",
+					"name": "Patrick 🕶",
+					"id": 9647022,
+					"id_str": "9647022",
+					"indices": [
+						208,
+						224
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LjJyWZiMaR",
+					"expanded_url": "https://twitter.com/patrickloonstra/status/1347255715048681472?s=21",
+					"display_url": "twitter.com/patrickloonstr…",
+					"indices": [
+						225,
+						248
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1357206420589080600,
+		"in_reply_to_status_id_str": "1357206420589080577",
+		"in_reply_to_user_id": 816203,
+		"in_reply_to_user_id_str": "816203",
+		"in_reply_to_screen_name": "frankmeeuwsen",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8896,
+			"friends_count": 681,
+			"listed_count": 553,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7311,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63726,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1347255715048681500,
+		"quoted_status_id_str": "1347255715048681472",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LjJyWZiMaR",
+			"expanded": "https://twitter.com/patrickloonstra/status/1347255715048681472?s=21",
+			"display": "twitter.com/patrickloonstr…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 07 18:56:07 +0000 2021",
+			"id": 1347255715048681500,
+			"id_str": "1347255715048681472",
+			"full_text": "Ik starte vandaag een klein leuk project. Een vergelijking van de verschillende berichten apps.\n\nDan kun je lekker zelf je keuze maken. En je vrienden en familie helpen om die keuze ook te maken. https://t.co/W8VgBVDZ5H",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				195
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1347255709768048600,
+						"id_str": "1347255709768048642",
+						"indices": [
+							196,
+							219
+						],
+						"media_url": "http://pbs.twimg.com/media/ErJp7hJXYAI44Ll.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ErJp7hJXYAI44Ll.jpg",
+						"url": "https://t.co/W8VgBVDZ5H",
+						"display_url": "pic.twitter.com/W8VgBVDZ5H",
+						"expanded_url": "https://twitter.com/patrickloonstra/status/1347255715048681472/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 528,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 932,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1021,
+								"h": 1315,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1347255709768048600,
+						"id_str": "1347255709768048642",
+						"indices": [
+							196,
+							219
+						],
+						"media_url": "http://pbs.twimg.com/media/ErJp7hJXYAI44Ll.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ErJp7hJXYAI44Ll.jpg",
+						"url": "https://t.co/W8VgBVDZ5H",
+						"display_url": "pic.twitter.com/W8VgBVDZ5H",
+						"expanded_url": "https://twitter.com/patrickloonstra/status/1347255715048681472/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 528,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 932,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1021,
+								"h": 1315,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 9647022,
+				"id_str": "9647022",
+				"name": "Patrick 🕶",
+				"screen_name": "patrickloonstra",
+				"location": "Zwolle + Groningen",
+				"description": "Brand en Product Designer bij https://t.co/Kn26zljKjQ en @chordify  / Maakt elke week de Good Monday! nieuwsbrief en podcast / MapArt / Verzameld op @acffca",
+				"url": "https://t.co/q2Rt6BQYeZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/q2Rt6BQYeZ",
+								"expanded_url": "http://www.patrickloonstra.nl",
+								"display_url": "patrickloonstra.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Kn26zljKjQ",
+								"expanded_url": "http://patrickloonstra.nl",
+								"display_url": "patrickloonstra.nl",
+								"indices": [
+									30,
+									53
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1808,
+				"friends_count": 112,
+				"listed_count": 108,
+				"created_at": "Wed Oct 24 06:17:00 +0000 2007",
+				"favourites_count": 3497,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 57669,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "40817D",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1352253481353142273/E5OpksF__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1352253481353142273/E5OpksF__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/9647022/1611679230",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "85C1BE",
+				"profile_text_color": "061F20",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 30,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Als je je afvraagt of die andere chatapps wel de juiste features hebben om met je posse te roddelen over die ene van digital PR of met je partner de boodschappenlijst te delen, check het overzicht van my man @patrickloonstra https://t.co/LjJyWZiMaR"
+	},
+	{
+		"created_at": "Thu Feb 04 05:56:41 +0000 2021",
+		"id": 1357206420589080600,
+		"id_str": "1357206420589080577",
+		"full_text": "Chatapp Telegram gaat er vol in: exporteer je historie van Whatsapp en babbel verder in Telegram. Weer een beer minder op de weg om een andere chatapp te gebruiken dan Whatsapp. https://t.co/mhbV9qSInC (PS: ik ben prima te bereiken op zowel Telegram als Signal)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			261
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mhbV9qSInC",
+					"expanded_url": "https://telegram.org/blog/move-history",
+					"display_url": "telegram.org/blog/move-hist…",
+					"indices": [
+						178,
+						201
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8896,
+			"friends_count": 681,
+			"listed_count": 553,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7311,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63726,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Chatapp Telegram gaat er vol in: exporteer je historie van Whatsapp en babbel verder in Telegram. Weer een beer minder op de weg om een andere chatapp te gebruiken dan Whatsapp. https://t.co/mhbV9qSInC (PS: ik ben prima te bereiken op zowel Telegram als Signal)"
+	},
+	{
 		"created_at": "Wed Feb 03 17:08:51 +0000 2021",
 		"id": 1357013192405381000,
 		"id_str": "1357013192405381122",
