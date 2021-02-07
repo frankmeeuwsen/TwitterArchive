@@ -1,6 +1,430 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Sun Feb 07 20:06:27 +0000 2021",
+		"id": 1358507436861239300,
+		"id_str": "1358507436861239297",
+		"full_text": "Ik hou van dit soort geschiedenislessen in technologie. https://t.co/bwOq1Hg3lJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bwOq1Hg3lJ",
+					"expanded_url": "https://twitter.com/benjedwards/status/1357683247694696451",
+					"display_url": "twitter.com/benjedwards/st…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8895,
+			"friends_count": 684,
+			"listed_count": 553,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7345,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63772,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1357683247694696400,
+		"quoted_status_id_str": "1357683247694696451",
+		"quoted_status_permalink": {
+			"url": "https://t.co/bwOq1Hg3lJ",
+			"expanded": "https://twitter.com/benjedwards/status/1357683247694696451",
+			"display": "twitter.com/benjedwards/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Feb 05 13:31:25 +0000 2021",
+			"id": 1357683247694696400,
+			"id_str": "1357683247694696451",
+			"full_text": "You know that triangle-shaped icon you see on GPS maps? I tracked down its origins to the 1979 Atari arcade game Asteroids. That's a tiny spaceship on your iPhone status bar!\n\nI wrote about it for How-To Geek:\nhttps://t.co/bCzDpt4b4X\n\nWhen did you first use an in-car nav system? https://t.co/BJUsKZZFNy",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/bCzDpt4b4X",
+						"expanded_url": "https://www.howtogeek.com/696738/did-you-know-the-gps-triangle-cursor-comes-from-ataris-asteroids/",
+						"display_url": "howtogeek.com/696738/did-you…",
+						"indices": [
+							210,
+							233
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1357681146339934200,
+						"id_str": "1357681146339934208",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/Etdzzy3WQAAysQN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Etdzzy3WQAAysQN.jpg",
+						"url": "https://t.co/BJUsKZZFNy",
+						"display_url": "pic.twitter.com/BJUsKZZFNy",
+						"expanded_url": "https://twitter.com/benjedwards/status/1357683247694696451/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 650,
+								"h": 429,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 650,
+								"h": 429,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 650,
+								"h": 429,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1357681146339934200,
+						"id_str": "1357681146339934208",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/Etdzzy3WQAAysQN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Etdzzy3WQAAysQN.jpg",
+						"url": "https://t.co/BJUsKZZFNy",
+						"display_url": "pic.twitter.com/BJUsKZZFNy",
+						"expanded_url": "https://twitter.com/benjedwards/status/1357683247694696451/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 650,
+								"h": 429,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 650,
+								"h": 429,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 650,
+								"h": 429,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1357681146289602600,
+						"id_str": "1357681146289602562",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/EtdzzyrWQAIZvYy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EtdzzyrWQAIZvYy.jpg",
+						"url": "https://t.co/BJUsKZZFNy",
+						"display_url": "pic.twitter.com/BJUsKZZFNy",
+						"expanded_url": "https://twitter.com/benjedwards/status/1357683247694696451/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 650,
+								"h": 348,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 650,
+								"h": 348,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 650,
+								"h": 348,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1357681146738442200,
+						"id_str": "1357681146738442245",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/Etdzz0WXAAUrm7-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Etdzz0WXAAUrm7-.jpg",
+						"url": "https://t.co/BJUsKZZFNy",
+						"display_url": "pic.twitter.com/BJUsKZZFNy",
+						"expanded_url": "https://twitter.com/benjedwards/status/1357683247694696451/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 650,
+								"h": 400,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 650,
+								"h": 400,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 650,
+								"h": 400,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1357681147115888600,
+						"id_str": "1357681147115888647",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/Etdzz1wWYAc1aQz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Etdzz1wWYAc1aQz.jpg",
+						"url": "https://t.co/BJUsKZZFNy",
+						"display_url": "pic.twitter.com/BJUsKZZFNy",
+						"expanded_url": "https://twitter.com/benjedwards/status/1357683247694696451/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 650,
+								"h": 410,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 650,
+								"h": 410,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 650,
+								"h": 410,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19948217,
+				"id_str": "19948217",
+				"name": "Benj Edwards",
+				"screen_name": "benjedwards",
+				"location": "Raleigh, NC",
+				"description": "The tech history guy. Staff Writer, How-To Geek. Contributor FastCompany / Retronauts / The Atlantic. Creator https://t.co/rm8moUb7K3, Culture of Tech",
+				"url": "https://t.co/8wuurupJRV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8wuurupJRV",
+								"expanded_url": "http://www.benjedwards.com",
+								"display_url": "benjedwards.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/rm8moUb7K3",
+								"expanded_url": "http://Vintagecomputing.com",
+								"display_url": "Vintagecomputing.com",
+								"indices": [
+									110,
+									133
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 7587,
+				"friends_count": 543,
+				"listed_count": 218,
+				"created_at": "Tue Feb 03 02:08:17 +0000 2009",
+				"favourites_count": 140506,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 41468,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EDECE9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1328455845840121856/4Nwp8A3U_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1328455845840121856/4Nwp8A3U_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19948217/1399165908",
+				"profile_link_color": "088253",
+				"profile_sidebar_border_color": "D3D2CF",
+				"profile_sidebar_fill_color": "E3E2DE",
+				"profile_text_color": "634047",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 69,
+			"favorite_count": 191,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Ik hou van dit soort geschiedenislessen in technologie. https://t.co/bwOq1Hg3lJ"
+	},
+	{
 		"created_at": "Sun Feb 07 18:51:30 +0000 2021",
 		"id": 1358488573469741000,
 		"id_str": "1358488573469741057",
