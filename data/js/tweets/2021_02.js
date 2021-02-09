@@ -1,6 +1,500 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Tue Feb 09 18:20:10 +0000 2021",
+		"id": 1359205465901662200,
+		"id_str": "1359205465901662219",
+		"full_text": "@marcoderksen @IndiraReynaert @vangeest @Yme @Dutchcowboy @JosK @JorisL @Boris @tonie @robertgaal @florisrost @Rhymo @erwblo Yes. Gevonden. https://t.co/DLrNcteu14",
+		"truncated": false,
+		"display_text_range": [
+			125,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "marcoderksen",
+					"name": "Marco Derksen",
+					"id": 1252681,
+					"id_str": "1252681",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "IndiraReynaert",
+					"name": "Indira Reynaert MA MEd",
+					"id": 3408191,
+					"id_str": "3408191",
+					"indices": [
+						14,
+						29
+					]
+				},
+				{
+					"screen_name": "vangeest",
+					"name": "Yuri van Geest",
+					"id": 819522,
+					"id_str": "819522",
+					"indices": [
+						30,
+						39
+					]
+				},
+				{
+					"screen_name": "Yme",
+					"name": "Yme Bosma",
+					"id": 821758,
+					"id_str": "821758",
+					"indices": [
+						40,
+						44
+					]
+				},
+				{
+					"screen_name": "Dutchcowboy",
+					"name": "M. Lens-FitzGerald",
+					"id": 794801,
+					"id_str": "794801",
+					"indices": [
+						45,
+						57
+					]
+				},
+				{
+					"screen_name": "JosK",
+					"name": "Jos Kok",
+					"id": 5096741,
+					"id_str": "5096741",
+					"indices": [
+						58,
+						63
+					]
+				},
+				{
+					"screen_name": "JorisL",
+					"name": "Joris Leermakers",
+					"id": 1545971,
+					"id_str": "1545971",
+					"indices": [
+						64,
+						71
+					]
+				},
+				{
+					"screen_name": "Boris",
+					"name": "Boris Veldhuijzen van Zanten",
+					"id": 17463,
+					"id_str": "17463",
+					"indices": [
+						72,
+						78
+					]
+				},
+				{
+					"screen_name": "tonie",
+					"name": "Tonie",
+					"id": 786193,
+					"id_str": "786193",
+					"indices": [
+						79,
+						85
+					]
+				},
+				{
+					"screen_name": "robertgaal",
+					"name": "Robert Gaal",
+					"id": 1274561,
+					"id_str": "1274561",
+					"indices": [
+						86,
+						97
+					]
+				},
+				{
+					"screen_name": "florisrost",
+					"name": "Floris",
+					"id": 1303501,
+					"id_str": "1303501",
+					"indices": [
+						98,
+						109
+					]
+				},
+				{
+					"screen_name": "Rhymo",
+					"name": "Raimo van der Klein ॐ",
+					"id": 788863,
+					"id_str": "788863",
+					"indices": [
+						110,
+						116
+					]
+				},
+				{
+					"screen_name": "erwblo",
+					"name": "Erwin Blom",
+					"id": 713333,
+					"id_str": "713333",
+					"indices": [
+						117,
+						124
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DLrNcteu14",
+					"expanded_url": "https://web.archive.org/web/20060929174456/http://www.frank-ly.nl/twttr-oftewel-present-tense-blogging",
+					"display_url": "web.archive.org/web/2006092917…",
+					"indices": [
+						140,
+						163
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1359205002594701300,
+		"in_reply_to_status_id_str": "1359205002594701313",
+		"in_reply_to_user_id": 816203,
+		"in_reply_to_user_id_str": "816203",
+		"in_reply_to_screen_name": "frankmeeuwsen",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8896,
+			"friends_count": 685,
+			"listed_count": 554,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7344,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63783,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@marcoderksen @IndiraReynaert @vangeest @Yme @Dutchcowboy @JosK @JorisL @Boris @tonie @robertgaal @florisrost @Rhymo @erwblo Yes. Gevonden. https://t.co/DLrNcteu14"
+	},
+	{
+		"created_at": "Tue Feb 09 18:18:20 +0000 2021",
+		"id": 1359205002594701300,
+		"id_str": "1359205002594701313",
+		"full_text": "@marcoderksen @IndiraReynaert @vangeest @Yme @Dutchcowboy @JosK @JorisL @Boris @tonie @robertgaal @florisrost @Rhymo @erwblo Mijn eerste blogpost over (toen) Twttr was schijnbaar 14 juli 2006. Toen geen account aangemaakt want “we hadden toch al Hyves”... de blogpost van Frank-ly destijds staat denk ik nog wel op het webarchief.   https://t.co/uQtQ0mWlod",
+		"truncated": false,
+		"display_text_range": [
+			125,
+			356
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "marcoderksen",
+					"name": "Marco Derksen",
+					"id": 1252681,
+					"id_str": "1252681",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "IndiraReynaert",
+					"name": "Indira Reynaert MA MEd",
+					"id": 3408191,
+					"id_str": "3408191",
+					"indices": [
+						14,
+						29
+					]
+				},
+				{
+					"screen_name": "vangeest",
+					"name": "Yuri van Geest",
+					"id": 819522,
+					"id_str": "819522",
+					"indices": [
+						30,
+						39
+					]
+				},
+				{
+					"screen_name": "Yme",
+					"name": "Yme Bosma",
+					"id": 821758,
+					"id_str": "821758",
+					"indices": [
+						40,
+						44
+					]
+				},
+				{
+					"screen_name": "Dutchcowboy",
+					"name": "M. Lens-FitzGerald",
+					"id": 794801,
+					"id_str": "794801",
+					"indices": [
+						45,
+						57
+					]
+				},
+				{
+					"screen_name": "JosK",
+					"name": "Jos Kok",
+					"id": 5096741,
+					"id_str": "5096741",
+					"indices": [
+						58,
+						63
+					]
+				},
+				{
+					"screen_name": "JorisL",
+					"name": "Joris Leermakers",
+					"id": 1545971,
+					"id_str": "1545971",
+					"indices": [
+						64,
+						71
+					]
+				},
+				{
+					"screen_name": "Boris",
+					"name": "Boris Veldhuijzen van Zanten",
+					"id": 17463,
+					"id_str": "17463",
+					"indices": [
+						72,
+						78
+					]
+				},
+				{
+					"screen_name": "tonie",
+					"name": "Tonie",
+					"id": 786193,
+					"id_str": "786193",
+					"indices": [
+						79,
+						85
+					]
+				},
+				{
+					"screen_name": "robertgaal",
+					"name": "Robert Gaal",
+					"id": 1274561,
+					"id_str": "1274561",
+					"indices": [
+						86,
+						97
+					]
+				},
+				{
+					"screen_name": "florisrost",
+					"name": "Floris",
+					"id": 1303501,
+					"id_str": "1303501",
+					"indices": [
+						98,
+						109
+					]
+				},
+				{
+					"screen_name": "Rhymo",
+					"name": "Raimo van der Klein ॐ",
+					"id": 788863,
+					"id_str": "788863",
+					"indices": [
+						110,
+						116
+					]
+				},
+				{
+					"screen_name": "erwblo",
+					"name": "Erwin Blom",
+					"id": 713333,
+					"id_str": "713333",
+					"indices": [
+						117,
+						124
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/uQtQ0mWlod",
+					"expanded_url": "https://diggingthedigital.com/twitter-is-geen-sociaal-netwerk/",
+					"display_url": "diggingthedigital.com/twitter-is-gee…",
+					"indices": [
+						333,
+						356
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1359199915566628900,
+		"in_reply_to_status_id_str": "1359199915566628871",
+		"in_reply_to_user_id": 1252681,
+		"in_reply_to_user_id_str": "1252681",
+		"in_reply_to_screen_name": "marcoderksen",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8896,
+			"friends_count": 685,
+			"listed_count": 554,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7344,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63783,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@marcoderksen @IndiraReynaert @vangeest @Yme @Dutchcowboy @JosK @JorisL @Boris @tonie @robertgaal @florisrost @Rhymo @erwblo Mijn eerste blogpost over (toen) Twttr was schijnbaar 14 juli 2006. Toen geen account aangemaakt want “we hadden toch al Hyves”... de blogpost van Frank-ly destijds staat denk ik nog wel op het webarchief.   https://t.co/uQtQ0mWlod"
+	},
+	{
 		"created_at": "Tue Feb 09 07:10:01 +0000 2021",
 		"id": 1359036818218496000,
 		"id_str": "1359036818218496000",
