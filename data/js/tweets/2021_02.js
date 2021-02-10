@@ -1,6 +1,752 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Wed Feb 10 08:53:02 +0000 2021",
+		"id": 1359425129105793000,
+		"id_str": "1359425129105793024",
+		"full_text": "@patrickloonstra @MinPres Het medium maakt de message niet beter ;-)",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "patrickloonstra",
+					"name": "Patrick 🕶",
+					"id": 9647022,
+					"id_str": "9647022",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "MinPres",
+					"name": "Mark Rutte",
+					"id": 155507136,
+					"id_str": "155507136",
+					"indices": [
+						17,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1359069726874419200,
+		"in_reply_to_status_id_str": "1359069726874419200",
+		"in_reply_to_user_id": 9647022,
+		"in_reply_to_user_id_str": "9647022",
+		"in_reply_to_screen_name": "patrickloonstra",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8896,
+			"friends_count": 688,
+			"listed_count": 554,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7351,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63798,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@patrickloonstra @MinPres Het medium maakt de message niet beter ;-)"
+	},
+	{
+		"created_at": "Wed Feb 10 08:51:34 +0000 2021",
+		"id": 1359424762699726800,
+		"id_str": "1359424762699726848",
+		"full_text": "@Dutchcowboy @LeoLovesTwtr @public_spaces Volgens mij is @mdverhoeven daar mee bezig. Hij zit wel in Nieuw-Zeeland... misschien @marleenstikker of anderen vanuit @waag? @ton_zylstra vanuit @OpenNederland.",
+		"truncated": false,
+		"display_text_range": [
+			42,
+			204
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Dutchcowboy",
+					"name": "M. Lens-FitzGerald",
+					"id": 794801,
+					"id_str": "794801",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "LeoLovesTwtr",
+					"name": "Leonieke",
+					"id": 1274591,
+					"id_str": "1274591",
+					"indices": [
+						13,
+						26
+					]
+				},
+				{
+					"screen_name": "public_spaces",
+					"name": "PublicSpaces",
+					"id": 999601427768062000,
+					"id_str": "999601427768061952",
+					"indices": [
+						27,
+						41
+					]
+				},
+				{
+					"screen_name": "mdverhoeven",
+					"name": "Martijn Verhoeven",
+					"id": 64960436,
+					"id_str": "64960436",
+					"indices": [
+						57,
+						69
+					]
+				},
+				{
+					"screen_name": "marleenstikker",
+					"name": "marleenstikker",
+					"id": 16408747,
+					"id_str": "16408747",
+					"indices": [
+						128,
+						143
+					]
+				},
+				{
+					"screen_name": "waag",
+					"name": "Waag",
+					"id": 26712390,
+					"id_str": "26712390",
+					"indices": [
+						162,
+						167
+					]
+				},
+				{
+					"screen_name": "ton_zylstra",
+					"name": "Ton Zijlstra",
+					"id": 25049203,
+					"id_str": "25049203",
+					"indices": [
+						169,
+						181
+					]
+				},
+				{
+					"screen_name": "OpenNederland",
+					"name": "Vereniging Open Nederland",
+					"id": 226550364,
+					"id_str": "226550364",
+					"indices": [
+						189,
+						203
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1359421318052122600,
+		"in_reply_to_status_id_str": "1359421318052122624",
+		"in_reply_to_user_id": 794801,
+		"in_reply_to_user_id_str": "794801",
+		"in_reply_to_screen_name": "Dutchcowboy",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8896,
+			"friends_count": 688,
+			"listed_count": 554,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7351,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63798,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@Dutchcowboy @LeoLovesTwtr @public_spaces Volgens mij is @mdverhoeven daar mee bezig. Hij zit wel in Nieuw-Zeeland... misschien @marleenstikker of anderen vanuit @waag? @ton_zylstra vanuit @OpenNederland."
+	},
+	{
+		"created_at": "Wed Feb 10 08:34:48 +0000 2021",
+		"id": 1359420542315597800,
+		"id_str": "1359420542315597828",
+		"full_text": "@IndiraReynaert @JorisL @marcoderksen @Dutchcowboy @mschenk @hansmestrum @aukje @jkivit @Bakkel @Boris Ja grote paniek bij degenen die diensten hebben om in de gaten te houden wie hen ontvolgt. https://t.co/vz0v4RofoA",
+		"truncated": false,
+		"display_text_range": [
+			103,
+			217
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IndiraReynaert",
+					"name": "Indira Reynaert MA MEd",
+					"id": 3408191,
+					"id_str": "3408191",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "JorisL",
+					"name": "Joris Leermakers",
+					"id": 1545971,
+					"id_str": "1545971",
+					"indices": [
+						16,
+						23
+					]
+				},
+				{
+					"screen_name": "marcoderksen",
+					"name": "Marco Derksen",
+					"id": 1252681,
+					"id_str": "1252681",
+					"indices": [
+						24,
+						37
+					]
+				},
+				{
+					"screen_name": "Dutchcowboy",
+					"name": "M. Lens-FitzGerald",
+					"id": 794801,
+					"id_str": "794801",
+					"indices": [
+						38,
+						50
+					]
+				},
+				{
+					"screen_name": "mschenk",
+					"name": "Maarten Schenk",
+					"id": 1285001,
+					"id_str": "1285001",
+					"indices": [
+						51,
+						59
+					]
+				},
+				{
+					"screen_name": "hansmestrum",
+					"name": "Hans Mestrum",
+					"id": 1432581,
+					"id_str": "1432581",
+					"indices": [
+						60,
+						72
+					]
+				},
+				{
+					"screen_name": "aukje",
+					"name": "Aukje Leermakers",
+					"id": 1721011,
+					"id_str": "1721011",
+					"indices": [
+						73,
+						79
+					]
+				},
+				{
+					"screen_name": "jkivit",
+					"name": "John Kivit",
+					"id": 1355231,
+					"id_str": "1355231",
+					"indices": [
+						80,
+						87
+					]
+				},
+				{
+					"screen_name": "Bakkel",
+					"name": "Michel van Helden",
+					"id": 2330351,
+					"id_str": "2330351",
+					"indices": [
+						88,
+						95
+					]
+				},
+				{
+					"screen_name": "Boris",
+					"name": "Boris Veldhuijzen van Zanten",
+					"id": 17463,
+					"id_str": "17463",
+					"indices": [
+						96,
+						102
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vz0v4RofoA",
+					"expanded_url": "https://diggingthedigital.com/Twitter-uitlezen/",
+					"display_url": "diggingthedigital.com/Twitter-uitlez…",
+					"indices": [
+						194,
+						217
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1359420072641630200,
+		"in_reply_to_status_id_str": "1359420072641630214",
+		"in_reply_to_user_id": 3408191,
+		"in_reply_to_user_id_str": "3408191",
+		"in_reply_to_screen_name": "IndiraReynaert",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8896,
+			"friends_count": 688,
+			"listed_count": 554,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7351,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63798,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@IndiraReynaert @JorisL @marcoderksen @Dutchcowboy @mschenk @hansmestrum @aukje @jkivit @Bakkel @Boris Ja grote paniek bij degenen die diensten hebben om in de gaten te houden wie hen ontvolgt. https://t.co/vz0v4RofoA"
+	},
+	{
+		"created_at": "Wed Feb 10 08:31:48 +0000 2021",
+		"id": 1359419786376134700,
+		"id_str": "1359419786376134658",
+		"full_text": "@JorisL @IndiraReynaert @marcoderksen @Dutchcowboy @mschenk @hansmestrum @aukje @jkivit @Bakkel @Boris 2,5 jaar geleden ben ik opnieuw begonnen op Twitter. Daarom kan ik niet meer zien wie ik ooit als eerste ben gaan volgen. Zie https://t.co/bsgLymYlHq",
+		"truncated": false,
+		"display_text_range": [
+			103,
+			252
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JorisL",
+					"name": "Joris Leermakers",
+					"id": 1545971,
+					"id_str": "1545971",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "IndiraReynaert",
+					"name": "Indira Reynaert MA MEd",
+					"id": 3408191,
+					"id_str": "3408191",
+					"indices": [
+						8,
+						23
+					]
+				},
+				{
+					"screen_name": "marcoderksen",
+					"name": "Marco Derksen",
+					"id": 1252681,
+					"id_str": "1252681",
+					"indices": [
+						24,
+						37
+					]
+				},
+				{
+					"screen_name": "Dutchcowboy",
+					"name": "M. Lens-FitzGerald",
+					"id": 794801,
+					"id_str": "794801",
+					"indices": [
+						38,
+						50
+					]
+				},
+				{
+					"screen_name": "mschenk",
+					"name": "Maarten Schenk",
+					"id": 1285001,
+					"id_str": "1285001",
+					"indices": [
+						51,
+						59
+					]
+				},
+				{
+					"screen_name": "hansmestrum",
+					"name": "Hans Mestrum",
+					"id": 1432581,
+					"id_str": "1432581",
+					"indices": [
+						60,
+						72
+					]
+				},
+				{
+					"screen_name": "aukje",
+					"name": "Aukje Leermakers",
+					"id": 1721011,
+					"id_str": "1721011",
+					"indices": [
+						73,
+						79
+					]
+				},
+				{
+					"screen_name": "jkivit",
+					"name": "John Kivit",
+					"id": 1355231,
+					"id_str": "1355231",
+					"indices": [
+						80,
+						87
+					]
+				},
+				{
+					"screen_name": "Bakkel",
+					"name": "Michel van Helden",
+					"id": 2330351,
+					"id_str": "2330351",
+					"indices": [
+						88,
+						95
+					]
+				},
+				{
+					"screen_name": "Boris",
+					"name": "Boris Veldhuijzen van Zanten",
+					"id": 17463,
+					"id_str": "17463",
+					"indices": [
+						96,
+						102
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bsgLymYlHq",
+					"expanded_url": "https://diggingthedigital.com/Ontvolg/",
+					"display_url": "diggingthedigital.com/Ontvolg/",
+					"indices": [
+						229,
+						252
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1359411442592678000,
+		"in_reply_to_status_id_str": "1359411442592677888",
+		"in_reply_to_user_id": 1545971,
+		"in_reply_to_user_id_str": "1545971",
+		"in_reply_to_screen_name": "JorisL",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8896,
+			"friends_count": 688,
+			"listed_count": 554,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7351,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63798,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@JorisL @IndiraReynaert @marcoderksen @Dutchcowboy @mschenk @hansmestrum @aukje @jkivit @Bakkel @Boris 2,5 jaar geleden ben ik opnieuw begonnen op Twitter. Daarom kan ik niet meer zien wie ik ooit als eerste ben gaan volgen. Zie https://t.co/bsgLymYlHq"
+	},
+	{
 		"created_at": "Wed Feb 10 06:16:09 +0000 2021",
 		"id": 1359385648097067000,
 		"id_str": "1359385648097067008",
