@@ -1,6 +1,330 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Wed Feb 10 22:21:56 +0000 2021",
+		"id": 1359628695036719000,
+		"id_str": "1359628695036719110",
+		"full_text": "Oh ja zeg. Wat een concert was dat. Kan me eerlijk gezegd Luscious Jackson niet meer herinneren, maar Beasties en UDS...geweldig. https://t.co/OdZCwCy5eV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OdZCwCy5eV",
+					"expanded_url": "https://twitter.com/EdgarKruize/status/1359541317152493571",
+					"display_url": "twitter.com/EdgarKruize/st…",
+					"indices": [
+						130,
+						153
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8897,
+			"friends_count": 690,
+			"listed_count": 554,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7352,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63805,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1359541317152493600,
+		"quoted_status_id_str": "1359541317152493571",
+		"quoted_status_permalink": {
+			"url": "https://t.co/OdZCwCy5eV",
+			"expanded": "https://twitter.com/EdgarKruize/status/1359541317152493571",
+			"display": "twitter.com/EdgarKruize/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 10 16:34:43 +0000 2021",
+			"id": 1359541317152493600,
+			"id_str": "1359541317152493571",
+			"full_text": "Vandaag in 1995 in de Statenhal. Heel veel meer 90s krijg je die line-up niet. Mooiste herinnering is aan Rudeboy, die in de coulissen het hele optreden van Beastie Boys mee stond te rappen en in zijn enthousiasme ongemerkt steeds verder het podium op stuiterde. https://t.co/XPPY55lL3t",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				262
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1359540567902937000,
+						"id_str": "1359540567902937090",
+						"indices": [
+							263,
+							286
+						],
+						"media_url": "http://pbs.twimg.com/media/Et4O8X-WYAIkIgG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Et4O8X-WYAIkIgG.jpg",
+						"url": "https://t.co/XPPY55lL3t",
+						"display_url": "pic.twitter.com/XPPY55lL3t",
+						"expanded_url": "https://twitter.com/EdgarKruize/status/1359541317152493571/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1072,
+								"h": 1440,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 506,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 893,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1359540567902937000,
+						"id_str": "1359540567902937090",
+						"indices": [
+							263,
+							286
+						],
+						"media_url": "http://pbs.twimg.com/media/Et4O8X-WYAIkIgG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Et4O8X-WYAIkIgG.jpg",
+						"url": "https://t.co/XPPY55lL3t",
+						"display_url": "pic.twitter.com/XPPY55lL3t",
+						"expanded_url": "https://twitter.com/EdgarKruize/status/1359541317152493571/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1072,
+								"h": 1440,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 506,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 893,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 148688068,
+				"id_str": "148688068",
+				"name": "Edgar Kruize",
+				"screen_name": "EdgarKruize",
+				"location": "planeet Aarde",
+				"description": "eigenaar https://t.co/0xNRvmv1He | uitgever https://t.co/p5k3Om79fm | 2nd in command https://t.co/iAFsVGDxAd | auteur Prince: The Dutch Experience",
+				"url": "https://t.co/Ilz1etZUGO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Ilz1etZUGO",
+								"expanded_url": "http://www.edgarkruize.nl",
+								"display_url": "edgarkruize.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/0xNRvmv1He",
+								"expanded_url": "http://buro33.nl",
+								"display_url": "buro33.nl",
+								"indices": [
+									9,
+									32
+								]
+							},
+							{
+								"url": "https://t.co/p5k3Om79fm",
+								"expanded_url": "http://permafrostpublishers.com",
+								"display_url": "permafrostpublishers.com",
+								"indices": [
+									44,
+									67
+								]
+							},
+							{
+								"url": "https://t.co/iAFsVGDxAd",
+								"expanded_url": "http://VintageFever.nl",
+								"display_url": "VintageFever.nl",
+								"indices": [
+									85,
+									108
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1589,
+				"friends_count": 858,
+				"listed_count": 29,
+				"created_at": "Thu May 27 10:26:55 +0000 2010",
+				"favourites_count": 22464,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 59726,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1348410032153636865/2mYZscWf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1348410032153636865/2mYZscWf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/148688068/1451903718",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 23,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Oh ja zeg. Wat een concert was dat. Kan me eerlijk gezegd Luscious Jackson niet meer herinneren, maar Beasties en UDS...geweldig. https://t.co/OdZCwCy5eV"
+	},
+	{
 		"created_at": "Wed Feb 10 21:02:22 +0000 2021",
 		"id": 1359608673878880300,
 		"id_str": "1359608673878880260",
