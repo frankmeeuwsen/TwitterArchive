@@ -1,10 +1,126 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Thu Feb 11 07:56:24 +0000 2021",
+		"id": 1359773266467041300,
+		"id_str": "1359773266467041280",
+		"full_text": "@bramkoster Wachten tot ze Clubhouse Reels introduceren. Ik zou het dan Clubhouse Jingles noemen...",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bramkoster",
+					"name": "Bram Koster",
+					"id": 6893682,
+					"id_str": "6893682",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1359769614679502800,
+		"in_reply_to_status_id_str": "1359769614679502848",
+		"in_reply_to_user_id": 6893682,
+		"in_reply_to_user_id_str": "6893682",
+		"in_reply_to_screen_name": "bramkoster",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8898,
+			"friends_count": 691,
+			"listed_count": 554,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7352,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63809,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1593008431",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@bramkoster Wachten tot ze Clubhouse Reels introduceren. Ik zou het dan Clubhouse Jingles noemen..."
+	},
+	{
 		"created_at": "Thu Feb 11 06:22:46 +0000 2021",
 		"id": 1359740099160723500,
 		"id_str": "1359749703747989504",
-		"full_text": "Clubhouse Alternatives\n\n👩‍🚀 @join_space (Android, iOS, Web)\n\n🔊 @app_stereo (Positioned as live podcasts, avatars are emoji-like)\n\n🙈 Video-less @zoom_us or any video call app cc: @trydaily  \n\n🛠 Build your own with @AgoraIO\n\n👄 Use @telegram with voice messages only",
+		"full_text": "Clubhouse Alternatives\n\n👩🚀 @join_space (Android, iOS, Web)\n\n🔊 @app_stereo (Positioned as live podcasts, avatars are emoji-like)\n\n🙈 Video-less @zoom_us or any video call app cc: @trydaily  \n\n🛠 Build your own with @AgoraIO\n\n👄 Use @telegram with voice messages only",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -154,7 +270,7 @@ Grailbird.data.tweets_2021_02 =
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
-		"text": "Clubhouse Alternatives\n\n👩‍🚀 @join_space (Android, iOS, Web)\n\n🔊 @app_stereo (Positioned as live podcasts, avatars are emoji-like)\n\n🙈 Video-less @zoom_us or any video call app cc: @trydaily  \n\n🛠 Build your own with @AgoraIO\n\n👄 Use @telegram with voice messages only"
+		"text": "Clubhouse Alternatives\n\n👩🚀 @join_space (Android, iOS, Web)\n\n🔊 @app_stereo (Positioned as live podcasts, avatars are emoji-like)\n\n🙈 Video-less @zoom_us or any video call app cc: @trydaily  \n\n🛠 Build your own with @AgoraIO\n\n👄 Use @telegram with voice messages only"
 	},
 	{
 		"created_at": "Thu Feb 11 06:18:43 +0000 2021",
