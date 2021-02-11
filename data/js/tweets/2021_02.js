@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Thu Feb 11 16:46:01 +0000 2021",
+		"id": 1359904672497172500,
+		"id_str": "1359906548408061953",
+		"full_text": "liberalen die ontkennen dat kapitalisme de hoofdoorzaak is van klimaatverandering zijn ook klimaatontkenners https://t.co/vh2QyGX2d6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1359904669120749600,
+					"id_str": "1359904669120749568",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/Et9aF2tWYAAPG4d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Et9aF2tWYAAPG4d.jpg",
+					"url": "https://t.co/vh2QyGX2d6",
+					"display_url": "pic.twitter.com/vh2QyGX2d6",
+					"expanded_url": "https://twitter.com/BROODBUIS/status/1359904672497172480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 828,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 647,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 367,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1359904669120749600,
+					"id_str": "1359904669120749568",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/Et9aF2tWYAAPG4d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Et9aF2tWYAAPG4d.jpg",
+					"url": "https://t.co/vh2QyGX2d6",
+					"display_url": "pic.twitter.com/vh2QyGX2d6",
+					"expanded_url": "https://twitter.com/BROODBUIS/status/1359904672497172480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 828,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 647,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 367,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1319998252478042000,
+			"id_str": "1319998252478042112",
+			"name": "BROODBUIS",
+			"screen_name": "BROODBUIS",
+			"location": "Utopia",
+			"description": "vernieuwend | links | progressief | brutaal",
+			"url": "https://t.co/t7mRcskhhH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t7mRcskhhH",
+							"expanded_url": "https://linktr.ee/BROODBUIS",
+							"display_url": "linktr.ee/BROODBUIS",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3400,
+			"friends_count": 358,
+			"listed_count": 7,
+			"created_at": "Sat Oct 24 13:44:45 +0000 2020",
+			"favourites_count": 1624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1145,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1359827526458212352/3euADr3U_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1359827526458212352/3euADr3U_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1319998252478042112/1613042802",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 46,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "liberalen die ontkennen dat kapitalisme de hoofdoorzaak is van klimaatverandering zijn ook klimaatontkenners https://t.co/vh2QyGX2d6"
+	},
+	{
 		"created_at": "Thu Feb 11 15:28:05 +0000 2021",
 		"id": 1359886937130229800,
 		"id_str": "1359886937130229762",
