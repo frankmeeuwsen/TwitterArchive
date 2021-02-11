@@ -1,6 +1,162 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Thu Feb 11 06:22:46 +0000 2021",
+		"id": 1359740099160723500,
+		"id_str": "1359749703747989504",
+		"full_text": "Clubhouse Alternatives\n\n👩‍🚀 @join_space (Android, iOS, Web)\n\n🔊 @app_stereo (Positioned as live podcasts, avatars are emoji-like)\n\n🙈 Video-less @zoom_us or any video call app cc: @trydaily  \n\n🛠 Build your own with @AgoraIO\n\n👄 Use @telegram with voice messages only",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			263
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "join_space",
+					"name": "Space",
+					"id": 1044981438528065500,
+					"id_str": "1044981438528065538",
+					"indices": [
+						28,
+						39
+					]
+				},
+				{
+					"screen_name": "app_stereo",
+					"name": "Stereo App",
+					"id": 1217236670312931300,
+					"id_str": "1217236670312931329",
+					"indices": [
+						63,
+						74
+					]
+				},
+				{
+					"screen_name": "zoom_us",
+					"name": "Zoom",
+					"id": 522701657,
+					"id_str": "522701657",
+					"indices": [
+						143,
+						151
+					]
+				},
+				{
+					"screen_name": "trydaily",
+					"name": "Daily",
+					"id": 2851359619,
+					"id_str": "2851359619",
+					"indices": [
+						178,
+						187
+					]
+				},
+				{
+					"screen_name": "AgoraIO",
+					"name": "Agora",
+					"id": 231535138,
+					"id_str": "231535138",
+					"indices": [
+						213,
+						221
+					]
+				},
+				{
+					"screen_name": "telegram",
+					"name": "Telegram Messenger",
+					"id": 1689053928,
+					"id_str": "1689053928",
+					"indices": [
+						229,
+						238
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 880930110,
+			"id_str": "880930110",
+			"name": "Kamphey👍",
+			"screen_name": "Kamphey",
+			"location": "SheetsVille, USA",
+			"description": "Former Santa\nCurrent Spreadsheet Savior @BetterSheets\nI write about Newsletters",
+			"url": "https://t.co/TCXKevYJoR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TCXKevYJoR",
+							"expanded_url": "http://xn--ug8h.kamphey.com/?unique=kampheyworldsheet",
+							"display_url": "🌎.kamphey.com/?unique=kamphe…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11740,
+			"friends_count": 333,
+			"listed_count": 225,
+			"created_at": "Sun Oct 14 20:32:38 +0000 2012",
+			"favourites_count": 22680,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8375,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1256533331404967936/wg1EDbf2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1256533331404967936/wg1EDbf2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/880930110/1612495426",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Clubhouse Alternatives\n\n👩‍🚀 @join_space (Android, iOS, Web)\n\n🔊 @app_stereo (Positioned as live podcasts, avatars are emoji-like)\n\n🙈 Video-less @zoom_us or any video call app cc: @trydaily  \n\n🛠 Build your own with @AgoraIO\n\n👄 Use @telegram with voice messages only"
+	},
+	{
 		"created_at": "Thu Feb 11 06:18:43 +0000 2021",
 		"id": 1359748684012007400,
 		"id_str": "1359748684012007426",
