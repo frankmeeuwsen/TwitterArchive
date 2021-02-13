@@ -1,6 +1,323 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Sat Feb 13 11:21:02 +0000 2021",
+		"id": 1360549539032227800,
+		"id_str": "1360549539032227841",
+		"full_text": "@bramkoster Ik ga een verzameling beginnen denk ik. En die dan voorlezen in Clubhouse. https://t.co/Koqj568ZiH",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bramkoster",
+					"name": "Bram Koster",
+					"id": 6893682,
+					"id_str": "6893682",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Koqj568ZiH",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1360487384048144387",
+					"display_url": "twitter.com/frankmeeuwsen/…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1360549047933763600,
+		"in_reply_to_status_id_str": "1360549047933763585",
+		"in_reply_to_user_id": 6893682,
+		"in_reply_to_user_id_str": "6893682",
+		"in_reply_to_screen_name": "bramkoster",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8894,
+			"friends_count": 698,
+			"listed_count": 554,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7374,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63843,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1613162785",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1360487384048144400,
+		"quoted_status_id_str": "1360487384048144387",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Koqj568ZiH",
+			"expanded": "https://twitter.com/frankmeeuwsen/status/1360487384048144387",
+			"display": "twitter.com/frankmeeuwsen/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Feb 13 07:14:03 +0000 2021",
+			"id": 1360487384048144400,
+			"id_str": "1360487384048144387",
+			"full_text": "Drie archetypes van Clubhouse Rooms in 1 screenshot:\n1️⃣ Gebruik het platform als clickbait  klaslokaal\n2️⃣ Gebruik het platform voor nieuwe vormen van entertainment \n3️⃣ Gebruik het platform als extensie voor kennisoverdracht. https://t.co/lJmqbI5U8d",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				227
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1360487379753185300,
+						"id_str": "1360487379753185286",
+						"indices": [
+							228,
+							251
+						],
+						"media_url": "http://pbs.twimg.com/media/EuFsEE-XMAYl1oW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EuFsEE-XMAYl1oW.jpg",
+						"url": "https://t.co/lJmqbI5U8d",
+						"display_url": "pic.twitter.com/lJmqbI5U8d",
+						"expanded_url": "https://twitter.com/frankmeeuwsen/status/1360487384048144387/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 473,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 314,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 473,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1360487379753185300,
+						"id_str": "1360487379753185286",
+						"indices": [
+							228,
+							251
+						],
+						"media_url": "http://pbs.twimg.com/media/EuFsEE-XMAYl1oW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EuFsEE-XMAYl1oW.jpg",
+						"url": "https://t.co/lJmqbI5U8d",
+						"display_url": "pic.twitter.com/lJmqbI5U8d",
+						"expanded_url": "https://twitter.com/frankmeeuwsen/status/1360487384048144387/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 473,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 314,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 473,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 816203,
+				"id_str": "816203",
+				"name": "Frank Meeuwsen",
+				"screen_name": "frankmeeuwsen",
+				"location": "Utrecht, the Netherlands",
+				"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+				"url": "https://t.co/6YB8i11ryl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6YB8i11ryl",
+								"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+								"display_url": "diggingthedigital.com/nieuwsbrief",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/ODgIUUbnBR",
+								"expanded_url": "http://Thanksforsubscribing.app",
+								"display_url": "Thanksforsubscribing.app",
+								"indices": [
+									40,
+									63
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 8894,
+				"friends_count": 698,
+				"listed_count": 554,
+				"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+				"favourites_count": 7374,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 63843,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "709397",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1613162785",
+				"profile_link_color": "FF3300",
+				"profile_sidebar_border_color": "86A4A6",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@bramkoster Ik ga een verzameling beginnen denk ik. En die dan voorlezen in Clubhouse. https://t.co/Koqj568ZiH"
+	},
+	{
 		"created_at": "Sat Feb 13 07:24:39 +0000 2021",
 		"id": 1360490050249756700,
 		"id_str": "1360490050249756673",
