@@ -1,6 +1,392 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Sun Feb 14 11:07:17 +0000 2021",
+		"id": 1360903219690487800,
+		"id_str": "1360908466894884866",
+		"full_text": "Twitter, doe je werk! Vriend heeft deze telefoon gevonden op het ijs van de Loenderveense plas. We komen niet verder dan deze foto. Herkent iemand 1 van deze mensen? HELP! RETWEET! https://t.co/Yitlex44Uw https://t.co/8ZaSje5upH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Yitlex44Uw",
+					"expanded_url": "https://twitter.com/GuidovDijk/status/1360902611705208833/photo/1",
+					"display_url": "pic.twitter.com/Yitlex44Uw",
+					"indices": [
+						181,
+						204
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1360903217048092700,
+					"id_str": "1360903217048092679",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/EuLmQ_nWgAcoTg1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuLmQ_nWgAcoTg1.jpg",
+					"url": "https://t.co/8ZaSje5upH",
+					"display_url": "pic.twitter.com/8ZaSje5upH",
+					"expanded_url": "https://twitter.com/GuidovDijk/status/1360903219690487810/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 969,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 568,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 322,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1360903217048092700,
+					"id_str": "1360903217048092679",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/EuLmQ_nWgAcoTg1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuLmQ_nWgAcoTg1.jpg",
+					"url": "https://t.co/8ZaSje5upH",
+					"display_url": "pic.twitter.com/8ZaSje5upH",
+					"expanded_url": "https://twitter.com/GuidovDijk/status/1360903219690487810/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 969,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 568,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 322,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 168102928,
+			"id_str": "168102928",
+			"name": "Guido van Dijk",
+			"screen_name": "GuidovDijk",
+			"location": "Amsterdam, Nederland",
+			"description": "Die ganze Welt ist nur ein Hospital",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1112,
+			"friends_count": 1557,
+			"listed_count": 13,
+			"created_at": "Sun Jul 18 11:37:42 +0000 2010",
+			"favourites_count": 6714,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7214,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112098031200030725/k7-_nmpJ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112098031200030725/k7-_nmpJ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/168102928/1602229844",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 147,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Twitter, doe je werk! Vriend heeft deze telefoon gevonden op het ijs van de Loenderveense plas. We komen niet verder dan deze foto. Herkent iemand 1 van deze mensen? HELP! RETWEET! https://t.co/Yitlex44Uw https://t.co/8ZaSje5upH"
+	},
+	{
+		"created_at": "Sun Feb 14 11:02:03 +0000 2021",
+		"id": 1360907148952232000,
+		"id_str": "1360907148952231937",
+		"full_text": "Op video he. Voor het eerst de live opnames. (Geen idee of ik nu gebanned wordt want copyright enzo) https://t.co/G21dK8OsLq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1360907025711050800,
+					"id_str": "1360907025711050758",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1360907025711050758/pu/img/fEFc6zkzqYZ-7jwY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1360907025711050758/pu/img/fEFc6zkzqYZ-7jwY.jpg",
+					"url": "https://t.co/G21dK8OsLq",
+					"display_url": "pic.twitter.com/G21dK8OsLq",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1360907148952231937/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1360907025711050800,
+					"id_str": "1360907025711050758",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1360907025711050758/pu/img/fEFc6zkzqYZ-7jwY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1360907025711050758/pu/img/fEFc6zkzqYZ-7jwY.jpg",
+					"url": "https://t.co/G21dK8OsLq",
+					"display_url": "pic.twitter.com/G21dK8OsLq",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1360907148952231937/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 23030,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1360907025711050758/pu/vid/720x1280/QcUIMyUQQ59ZmsVf.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1360907025711050758/pu/vid/320x568/jihgfhSgeb6zTBYa.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1360907025711050758/pu/vid/360x640/aZAT9NTh8Ito_3ID.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1360907025711050758/pu/pl/KhZShS4v0_-VfJsZ.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1360906282589380600,
+		"in_reply_to_status_id_str": "1360906282589380608",
+		"in_reply_to_user_id": 816203,
+		"in_reply_to_user_id_str": "816203",
+		"in_reply_to_screen_name": "frankmeeuwsen",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8894,
+			"friends_count": 699,
+			"listed_count": 554,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7384,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63853,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1613162785",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Op video he. Voor het eerst de live opnames. (Geen idee of ik nu gebanned wordt want copyright enzo) https://t.co/G21dK8OsLq"
+	},
+	{
 		"created_at": "Sun Feb 14 09:03:31 +0000 2021",
 		"id": 1360877317980045300,
 		"id_str": "1360877317980045314",
