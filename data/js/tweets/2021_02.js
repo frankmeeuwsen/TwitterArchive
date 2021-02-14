@@ -1,6 +1,244 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Sun Feb 14 07:53:58 +0000 2021",
+		"id": 1360859818614022100,
+		"id_str": "1360859818614022145",
+		"full_text": "Dispo is de nieuwe Insta. Welkom in een nieuwe hypeweek met mieuwe hype invites. https://t.co/aam5kG0p6T",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aam5kG0p6T",
+					"expanded_url": "https://twitter.com/jacksondame/status/1360627964828860419",
+					"display_url": "twitter.com/jacksondame/st…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8894,
+			"friends_count": 698,
+			"listed_count": 554,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7382,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63849,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1613162785",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1360627964828860400,
+		"quoted_status_id_str": "1360627964828860419",
+		"quoted_status_permalink": {
+			"url": "https://t.co/aam5kG0p6T",
+			"expanded": "https://twitter.com/jacksondame/status/1360627964828860419",
+			"display": "twitter.com/jacksondame/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Feb 13 16:32:40 +0000 2021",
+			"id": 1360627964828860400,
+			"id_str": "1360627964828860419",
+			"full_text": "Wondering what the hell this Dispo thing is that everyone is talking about? Here’s an overview 🧵\n\n📸 What is @DispoHQ?\n\nIt’s a new social media app created by @DavidDobrik. It originally was released in 2020 as a camera app that mimicked a retro disposable camera.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				263
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DispoHQ",
+						"name": "Dispo",
+						"id": 1307011782481858600,
+						"id_str": "1307011782481858560",
+						"indices": [
+							108,
+							116
+						]
+					},
+					{
+						"screen_name": "DavidDobrik",
+						"name": "DAVID DOBRIK",
+						"id": 325306055,
+						"id_str": "325306055",
+						"indices": [
+							158,
+							170
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 476019403,
+				"id_str": "476019403",
+				"name": "Jackson Dame 🧮",
+				"screen_name": "jacksondame",
+				"location": "",
+				"description": "Hi 👋 I help people harness technology 🧮 and social media 📲 to live healthier & more fulfilling lives. @teal_hq • @vestigory • non-binary 🌗",
+				"url": "https://t.co/iU4CnzWu5O",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/iU4CnzWu5O",
+								"expanded_url": "http://jacksondame.com/newsletter",
+								"display_url": "jacksondame.com/newsletter",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3257,
+				"friends_count": 534,
+				"listed_count": 94,
+				"created_at": "Fri Jan 27 17:47:18 +0000 2012",
+				"favourites_count": 48526,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 13211,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1327731502684237825/YDXTj2Qr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1327731502684237825/YDXTj2Qr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/476019403/1612800112",
+				"profile_link_color": "1A1A1A",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 19,
+			"favorite_count": 100,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Dispo is de nieuwe Insta. Welkom in een nieuwe hypeweek met mieuwe hype invites. https://t.co/aam5kG0p6T"
+	},
+	{
 		"created_at": "Sat Feb 13 20:48:34 +0000 2021",
 		"id": 1360692363790844000,
 		"id_str": "1360692363790843906",
