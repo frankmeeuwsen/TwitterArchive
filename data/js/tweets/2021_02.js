@@ -1,6 +1,1240 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Mon Feb 15 07:10:03 +0000 2021",
+		"id": 1361211150457839600,
+		"id_str": "1361211150457839621",
+		"full_text": "Een fijne dag, kijk uit voor gladheid en hou het warm!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://typefully.app/\" rel=\"nofollow\">Typefully</a>",
+		"in_reply_to_status_id": 1361211149228904400,
+		"in_reply_to_status_id_str": "1361211149228904451",
+		"in_reply_to_user_id": 816203,
+		"in_reply_to_user_id_str": "816203",
+		"in_reply_to_screen_name": "frankmeeuwsen",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8895,
+			"friends_count": 700,
+			"listed_count": 554,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7387,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63864,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1613162785",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "Een fijne dag, kijk uit voor gladheid en hou het warm!"
+	},
+	{
+		"created_at": "Mon Feb 15 07:10:02 +0000 2021",
+		"id": 1361211149228904400,
+		"id_str": "1361211149228904451",
+		"full_text": "OPEN Supporters zijn altijd welkom via https://t.co/HMWJ3WfU5C!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HMWJ3WfU5C",
+					"expanded_url": "https://petje.af/frank",
+					"display_url": "petje.af/frank",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://typefully.app/\" rel=\"nofollow\">Typefully</a>",
+		"in_reply_to_status_id": 1361211146770997200,
+		"in_reply_to_status_id_str": "1361211146770997249",
+		"in_reply_to_user_id": 816203,
+		"in_reply_to_user_id_str": "816203",
+		"in_reply_to_screen_name": "frankmeeuwsen",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8895,
+			"friends_count": 700,
+			"listed_count": 554,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7387,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63864,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1613162785",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "OPEN Supporters zijn altijd welkom via https://t.co/HMWJ3WfU5C!"
+	},
+	{
+		"created_at": "Mon Feb 15 07:10:02 +0000 2021",
+		"id": 1361211146770997200,
+		"id_str": "1361211146770997249",
+		"full_text": "Veel meer in de OPEN nieuwsbrief van deze week. Extragratis te lezen op https://t.co/EOZN18n1mh, abonneren mag altijd.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EOZN18n1mh",
+					"expanded_url": "https://diggingthedigital.com/s02e29",
+					"display_url": "diggingthedigital.com/s02e29",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://typefully.app/\" rel=\"nofollow\">Typefully</a>",
+		"in_reply_to_status_id": 1361211144766120000,
+		"in_reply_to_status_id_str": "1361211144766119936",
+		"in_reply_to_user_id": 816203,
+		"in_reply_to_user_id_str": "816203",
+		"in_reply_to_screen_name": "frankmeeuwsen",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8895,
+			"friends_count": 700,
+			"listed_count": 554,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7387,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63864,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1613162785",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Veel meer in de OPEN nieuwsbrief van deze week. Extragratis te lezen op https://t.co/EOZN18n1mh, abonneren mag altijd."
+	},
+	{
+		"created_at": "Mon Feb 15 07:10:01 +0000 2021",
+		"id": 1361211144766120000,
+		"id_str": "1361211144766119936",
+		"full_text": "Newsletter memes FTW! https://t.co/4kU2a5QxN5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4kU2a5QxN5",
+					"expanded_url": "https://twitter.com/newslettermemes/status/1359928193935933440",
+					"display_url": "twitter.com/newslettermeme…",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://typefully.app/\" rel=\"nofollow\">Typefully</a>",
+		"in_reply_to_status_id": 1361211143365288000,
+		"in_reply_to_status_id_str": "1361211143365287937",
+		"in_reply_to_user_id": 816203,
+		"in_reply_to_user_id_str": "816203",
+		"in_reply_to_screen_name": "frankmeeuwsen",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8895,
+			"friends_count": 700,
+			"listed_count": 554,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7387,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63864,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1613162785",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1359928193935933400,
+		"quoted_status_id_str": "1359928193935933440",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4kU2a5QxN5",
+			"expanded": "https://twitter.com/newslettermemes/status/1359928193935933440",
+			"display": "twitter.com/newslettermeme…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Feb 11 18:12:02 +0000 2021",
+			"id": 1359928193935933400,
+			"id_str": "1359928193935933440",
+			"full_text": "Indie newsletters 🤷‍♂️ https://t.co/Dgr0KGlVol",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				22
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1359928192392433700,
+						"id_str": "1359928192392433667",
+						"indices": [
+							23,
+							46
+						],
+						"media_url": "http://pbs.twimg.com/media/Et9vfFuXEAMTSeh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Et9vfFuXEAMTSeh.jpg",
+						"url": "https://t.co/Dgr0KGlVol",
+						"display_url": "pic.twitter.com/Dgr0KGlVol",
+						"expanded_url": "https://twitter.com/newslettermemes/status/1359928193935933440/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1000,
+								"h": 750,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1000,
+								"h": 750,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1359928192392433700,
+						"id_str": "1359928192392433667",
+						"indices": [
+							23,
+							46
+						],
+						"media_url": "http://pbs.twimg.com/media/Et9vfFuXEAMTSeh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Et9vfFuXEAMTSeh.jpg",
+						"url": "https://t.co/Dgr0KGlVol",
+						"display_url": "pic.twitter.com/Dgr0KGlVol",
+						"expanded_url": "https://twitter.com/newslettermemes/status/1359928193935933440/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1000,
+								"h": 750,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1000,
+								"h": 750,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1359451886206783500,
+				"id_str": "1359451886206783490",
+				"name": "Newsletter Memes",
+				"screen_name": "newslettermemes",
+				"location": "Instagram 👉",
+				"description": "Poking fun at newsletters since this morning 😄",
+				"url": "https://t.co/CGXAMKYBwU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/CGXAMKYBwU",
+								"expanded_url": "https://instagram.com/newslettermemes",
+								"display_url": "instagram.com/newslettermemes",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 32,
+				"friends_count": 17,
+				"listed_count": 1,
+				"created_at": "Wed Feb 10 10:39:38 +0000 2021",
+				"favourites_count": 12,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 14,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1359453864475426821/6-ZavB77_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1359453864475426821/6-ZavB77_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1359451886206783490/1612958567",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 18,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Newsletter memes FTW! https://t.co/4kU2a5QxN5"
+	},
+	{
+		"created_at": "Mon Feb 15 07:10:01 +0000 2021",
+		"id": 1361211143365288000,
+		"id_str": "1361211143365287937",
+		"full_text": "Hoe verdubbel je je abonneelijst in 3 maanden? @louisnicholls_ geeft praktische tips. https://t.co/zOqK2kMe28",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "louisnicholls_",
+					"name": "Louis Nicholls",
+					"id": 42932810,
+					"id_str": "42932810",
+					"indices": [
+						47,
+						62
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zOqK2kMe28",
+					"expanded_url": "https://twitter.com/louisnicholls_/status/1358079895847501824",
+					"display_url": "twitter.com/louisnicholls_…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://typefully.app/\" rel=\"nofollow\">Typefully</a>",
+		"in_reply_to_status_id": 1361211141393899500,
+		"in_reply_to_status_id_str": "1361211141393899520",
+		"in_reply_to_user_id": 816203,
+		"in_reply_to_user_id_str": "816203",
+		"in_reply_to_screen_name": "frankmeeuwsen",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8895,
+			"friends_count": 700,
+			"listed_count": 554,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7387,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63864,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1613162785",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1358079895847501800,
+		"quoted_status_id_str": "1358079895847501824",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zOqK2kMe28",
+			"expanded": "https://twitter.com/louisnicholls_/status/1358079895847501824",
+			"display": "twitter.com/louisnicholls_…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Feb 06 15:47:33 +0000 2021",
+			"id": 1358079895847501800,
+			"id_str": "1358079895847501824",
+			"full_text": "Rain ruined my plans for today, so let's try something different...\n\nNewsletter creators — reply with:\n\n1. a link to your newsletter\n2. your current subscriber count (or revenue)\n3. how often you send (daily/weekly etc)\n\n... and I'll show you how I'd 2x it in 3 months or less!",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 42932810,
+				"id_str": "42932810",
+				"name": "Louis Nicholls",
+				"screen_name": "louisnicholls_",
+				"location": "Zurich, Switzerland",
+				"description": "Making thousands of newsletters grow faster @SparkLoopHQ | Helping you get better at sales @ https://t.co/AX59MYYRAB | Writing *the* book on social proof",
+				"url": "https://t.co/h856mLEXkO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/h856mLEXkO",
+								"expanded_url": "https://www.louisnicholls.com",
+								"display_url": "louisnicholls.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/AX59MYYRAB",
+								"expanded_url": "http://SalesForFounders.com",
+								"display_url": "SalesForFounders.com",
+								"indices": [
+									93,
+									116
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3255,
+				"friends_count": 914,
+				"listed_count": 117,
+				"created_at": "Wed May 27 17:38:41 +0000 2009",
+				"favourites_count": 33964,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8858,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000552782740/8b747701a1e24c95be2192efd8c622d8_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000552782740/8b747701a1e24c95be2192efd8c622d8_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/42932810/1589546117",
+				"profile_link_color": "644EFF",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 69,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Hoe verdubbel je je abonneelijst in 3 maanden? @louisnicholls_ geeft praktische tips. https://t.co/zOqK2kMe28"
+	},
+	{
+		"created_at": "Mon Feb 15 07:10:00 +0000 2021",
+		"id": 1361211141393899500,
+		"id_str": "1361211141393899520",
+		"full_text": "The New York Times zien hun nieuwsbrieven als een van de belangrijkste aanjagers voor betaalde abonnementen, aldus Digiday. https://t.co/MhUbw7RfEy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MhUbw7RfEy",
+					"expanded_url": "https://digiday.com/media/the-new-york-times-aims-to-convert-newsletter-readers-into-paid-subscribers/",
+					"display_url": "digiday.com/media/the-new-…",
+					"indices": [
+						124,
+						147
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://typefully.app/\" rel=\"nofollow\">Typefully</a>",
+		"in_reply_to_status_id": 1361211139913371600,
+		"in_reply_to_status_id_str": "1361211139913371648",
+		"in_reply_to_user_id": 816203,
+		"in_reply_to_user_id_str": "816203",
+		"in_reply_to_screen_name": "frankmeeuwsen",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8895,
+			"friends_count": 700,
+			"listed_count": 554,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7387,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63864,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1613162785",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "The New York Times zien hun nieuwsbrieven als een van de belangrijkste aanjagers voor betaalde abonnementen, aldus Digiday. https://t.co/MhUbw7RfEy"
+	},
+	{
+		"created_at": "Mon Feb 15 07:10:00 +0000 2021",
+		"id": 1361211139913371600,
+		"id_str": "1361211139913371648",
+		"full_text": "43 high-quality nieuwsbrieven, dankzij @dickiebush. https://t.co/jOum2UBqa3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dickiebush",
+					"name": "Dickie Bush 🚢",
+					"id": 1286341463597604900,
+					"id_str": "1286341463597604864",
+					"indices": [
+						39,
+						50
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jOum2UBqa3",
+					"expanded_url": "https://twitter.com/dickiebush/status/1331018514266787840?s=12",
+					"display_url": "twitter.com/dickiebush/sta…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://typefully.app/\" rel=\"nofollow\">Typefully</a>",
+		"in_reply_to_status_id": 1361211138982240300,
+		"in_reply_to_status_id_str": "1361211138982240256",
+		"in_reply_to_user_id": 816203,
+		"in_reply_to_user_id_str": "816203",
+		"in_reply_to_screen_name": "frankmeeuwsen",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8895,
+			"friends_count": 700,
+			"listed_count": 554,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7387,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63864,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1613162785",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1331018514266787800,
+		"quoted_status_id_str": "1331018514266787840",
+		"quoted_status_permalink": {
+			"url": "https://t.co/jOum2UBqa3",
+			"expanded": "https://twitter.com/dickiebush/status/1331018514266787840?s=12",
+			"display": "twitter.com/dickiebush/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Nov 23 23:35:17 +0000 2020",
+			"id": 1331018514266787800,
+			"id_str": "1331018514266787840",
+			"full_text": "We've reached peak newsletter. \n\nBut we haven't reached peak quality newsletter.\n\nI've spent the last few days on an unsubscribe BINGE.\n\nHere are the 43 epic newsletters that made the cut 👇🏼",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				190
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1286341463597604900,
+				"id_str": "1286341463597604864",
+				"name": "Dickie Bush 🚢",
+				"screen_name": "dickiebush",
+				"location": "Get my weekly thoughts",
+				"description": "Tweeting about systems and growth | Building https://t.co/KgNM2SAG3G 🚢 | Macro Investor | Weekly newsletter: https://t.co/OrWN3fXBGf📈",
+				"url": "https://t.co/6skg17tHQW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6skg17tHQW",
+								"expanded_url": "https://gumroad.com/l/dickies-digest-favorite-podcasts",
+								"display_url": "gumroad.com/l/dickies-dige…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/KgNM2SAG3G",
+								"expanded_url": "http://ship30for30.com",
+								"display_url": "ship30for30.com",
+								"indices": [
+									45,
+									68
+								]
+							},
+							{
+								"url": "https://t.co/OrWN3fXBGf",
+								"expanded_url": "http://digest.dickiebush.com/subscribe",
+								"display_url": "digest.dickiebush.com/subscribe",
+								"indices": [
+									109,
+									132
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 8050,
+				"friends_count": 580,
+				"listed_count": 243,
+				"created_at": "Thu Jul 23 16:44:46 +0000 2020",
+				"favourites_count": 6340,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4097,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1286341574125854721/YwESwOIV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1286341574125854721/YwESwOIV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1286341463597604864/1595884013",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 190,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "43 high-quality nieuwsbrieven, dankzij @dickiebush. https://t.co/jOum2UBqa3"
+	},
+	{
 		"created_at": "Sun Feb 14 22:30:12 +0000 2021",
 		"id": 1361080329763717000,
 		"id_str": "1361080329763717120",
