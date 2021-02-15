@@ -1,6 +1,865 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Mon Feb 15 16:15:05 +0000 2021",
+		"id": 1361348314856317000,
+		"id_str": "1361348314856316933",
+		"full_text": "@Wilbert @johanvoets Zie https://t.co/houdSIxnOz",
+		"truncated": false,
+		"display_text_range": [
+			21,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Wilbert",
+					"name": "Wilbert Pot",
+					"id": 2286901,
+					"id_str": "2286901",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "johanvoets",
+					"name": "Johan Voets",
+					"id": 7422272,
+					"id_str": "7422272",
+					"indices": [
+						9,
+						20
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/houdSIxnOz",
+					"expanded_url": "https://twitter.com/johanvoets/status/1361256255176781826",
+					"display_url": "twitter.com/johanvoets/sta…",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1361348067895746600,
+		"in_reply_to_status_id_str": "1361348067895746568",
+		"in_reply_to_user_id": 2286901,
+		"in_reply_to_user_id_str": "2286901",
+		"in_reply_to_screen_name": "Wilbert",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8895,
+			"friends_count": 699,
+			"listed_count": 554,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7389,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63867,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1613162785",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1361256255176781800,
+		"quoted_status_id_str": "1361256255176781826",
+		"quoted_status_permalink": {
+			"url": "https://t.co/houdSIxnOz",
+			"expanded": "https://twitter.com/johanvoets/status/1361256255176781826",
+			"display": "twitter.com/johanvoets/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Feb 15 10:09:16 +0000 2021",
+			"id": 1361256255176781800,
+			"id_str": "1361256255176781826",
+			"full_text": "Morgenavond samen met Ome @frankmeeuwsen even nerden rond alle notitie/tweede brein apps en platformen van het moment. Meepraten kan en mag! Sluit dus zeker aan:   https://t.co/9aE8E6KYBs",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				187
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "frankmeeuwsen",
+						"name": "Frank Meeuwsen",
+						"id": 816203,
+						"id_str": "816203",
+						"indices": [
+							26,
+							40
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/9aE8E6KYBs",
+						"expanded_url": "https://www.joinclubhouse.com/event/M5RaXV4p",
+						"display_url": "joinclubhouse.com/event/M5RaXV4p",
+						"indices": [
+							164,
+							187
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 7422272,
+				"id_str": "7422272",
+				"name": "Johan Voets",
+				"screen_name": "johanvoets",
+				"location": "Haarlem, Nederland",
+				"description": "👨‍💻 Content Strategy Director @ https://t.co/TK2R817vKJ\n🏎 Co-host #F1 podcast @F1SpoilerAlert \n📠 Co-host #gadget podcast V2\n🎮 Press start\n🚵‍♂️ 🥊🏋️‍♂️🏂🏐 Sporty Spice.",
+				"url": "https://t.co/qbxSYEbsyP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/qbxSYEbsyP",
+								"expanded_url": "https://instagram.com/johanvoets",
+								"display_url": "instagram.com/johanvoets",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/TK2R817vKJ",
+								"expanded_url": "http://OKGO.nl",
+								"display_url": "OKGO.nl",
+								"indices": [
+									32,
+									55
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 4704,
+				"friends_count": 1918,
+				"listed_count": 272,
+				"created_at": "Thu Jul 12 06:41:46 +0000 2007",
+				"favourites_count": 1445,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 59590,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1218649589760135168/iqLBIri4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1218649589760135168/iqLBIri4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/7422272/1504438597",
+				"profile_link_color": "FAB81E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "2C2C2C",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@Wilbert @johanvoets Zie https://t.co/houdSIxnOz"
+	},
+	{
+		"created_at": "Mon Feb 15 16:14:37 +0000 2021",
+		"id": 1361348198514765800,
+		"id_str": "1361348198514765824",
+		"full_text": "@Wilbert Lees even mee. 2 belangrijke inzichten: \"Make no mistake, most of these conversations will be terrible. That, though, is the case for all user-generated content.\" &amp; \"Clubhouse is far better suited than podcasts to discuss events as they are happening\" https://t.co/yQKcu5cJlE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			264
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Wilbert",
+					"name": "Wilbert Pot",
+					"id": 2286901,
+					"id_str": "2286901",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/yQKcu5cJlE",
+					"expanded_url": "https://twitter.com/stratechery/status/1361344054349295616",
+					"display_url": "twitter.com/stratechery/st…",
+					"indices": [
+						265,
+						288
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 2286901,
+		"in_reply_to_user_id_str": "2286901",
+		"in_reply_to_screen_name": "Wilbert",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8895,
+			"friends_count": 699,
+			"listed_count": 554,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7389,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63867,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1613162785",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1361344054349295600,
+		"quoted_status_id_str": "1361344054349295616",
+		"quoted_status_permalink": {
+			"url": "https://t.co/yQKcu5cJlE",
+			"expanded": "https://twitter.com/stratechery/status/1361344054349295616",
+			"display": "twitter.com/stratechery/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Feb 15 15:58:09 +0000 2021",
+			"id": 1361344054349295600,
+			"id_str": "1361344054349295616",
+			"full_text": "Clubhouse's Inevitability\n\nClubhouse will do for audio what Twitter, Instagram Stories, and TikTok did for text, images, and video.\n\nhttps://t.co/6h7muMUMlH",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				156
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/6h7muMUMlH",
+						"expanded_url": "https://stratechery.com/2021/clubhouses-inevitability/",
+						"display_url": "stratechery.com/2021/clubhouse…",
+						"indices": [
+							133,
+							156
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1233663476,
+				"id_str": "1233663476",
+				"name": "Stratechery",
+				"screen_name": "stratechery",
+				"location": "",
+				"description": "Posts from https://t.co/qcFpl8jLp6. For the author, follow @benthompson.",
+				"url": "https://t.co/qcFpl8jLp6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/qcFpl8jLp6",
+								"expanded_url": "http://stratechery.com",
+								"display_url": "stratechery.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/qcFpl8jLp6",
+								"expanded_url": "http://stratechery.com",
+								"display_url": "stratechery.com",
+								"indices": [
+									11,
+									34
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 122886,
+				"friends_count": 3,
+				"listed_count": 2916,
+				"created_at": "Sat Mar 02 08:46:44 +0000 2013",
+				"favourites_count": 152,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 702,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FAA634",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/978622651370323969/8uxRCpZp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/978622651370323969/8uxRCpZp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1233663476/1364232205",
+				"profile_link_color": "FAA634",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 74,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@Wilbert Lees even mee. 2 belangrijke inzichten: \"Make no mistake, most of these conversations will be terrible. That, though, is the case for all user-generated content.\" &amp; \"Clubhouse is far better suited than podcasts to discuss events as they are happening\" https://t.co/yQKcu5cJlE"
+	},
+	{
+		"created_at": "Mon Feb 15 16:00:06 +0000 2021",
+		"id": 1361344543828885500,
+		"id_str": "1361344543828885506",
+		"full_text": "Nice! https://t.co/S4gr9RaIW0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			5
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/S4gr9RaIW0",
+					"expanded_url": "https://twitter.com/bbcmicrobot/status/1361058909033795589",
+					"display_url": "twitter.com/bbcmicrobot/st…",
+					"indices": [
+						6,
+						29
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8895,
+			"friends_count": 699,
+			"listed_count": 554,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7389,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63867,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1613162785",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1361058909033795600,
+		"quoted_status_id_str": "1361058909033795589",
+		"quoted_status_permalink": {
+			"url": "https://t.co/S4gr9RaIW0",
+			"expanded": "https://twitter.com/bbcmicrobot/status/1361058909033795589",
+			"display": "twitter.com/bbcmicrobot/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Feb 14 21:05:05 +0000 2021",
+			"id": 1361058909033795600,
+			"id_str": "1361058909033795589",
+			"full_text": "@life_is_tweet Source: https://t.co/GBfhwrVsfK https://t.co/DoFxHFBq56",
+			"truncated": false,
+			"display_text_range": [
+				15,
+				46
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "life_is_tweet",
+						"name": "Colin Robbins",
+						"id": 19670033,
+						"id_str": "19670033",
+						"indices": [
+							0,
+							14
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/GBfhwrVsfK",
+						"expanded_url": "https://bbcmic.ro/#%7B%22v%22%3A1%2C%22program%22%3A%22MODE0%5CnT%3DTIME%5CnVDU5%5CnREPEAT%20UNTIL%20TIME%3ET%2B3000%5CnX%3D170%5CnA%3D640-X*1.5%5CnB%3DA%2BX%5CnC%3DB%2BX%5CnD%3DC%2BX%5CnL%3D512-X*3%5CnL2%3D512-X*2.92%5CnH%3D512%2BX*3%5CnVDU19%2C1%2C1%3B0%3B%5CnMOVE%20A%2CL%3AMOVE%20B%2CL2%3APLOT%2085%2CA%2CH%3AMOVE%20B%2CH%3APLOT%2085%2CB%2CL2%5CnMOVE%20A%2CH%3AMOVE%20B%2CH%3APLOT%2085%2CD%2CL%3AMOVE%20C%2CL2%3APLOT%2085%2CA%2CH%5CnMOVE%20D%2CL%3AMOVE%20C%2CL2%3APLOT%2085%2CC%2CH%3AMOVE%20D%2CH%3APLOT%2085%2CD%2CL%5CnGCOL%200%2C0%5CnFOR%20E%3D0%20TO%20%28L2-L%29*4%20STEP%208%5CnMOVE%20A%2CH%3ADRAW%20C-E%2CL%3AMOVE%20D%2CL%3ADRAW%20B%2BE%2CH%5CnNEXT%22%2C%22author%22%3A%22%40life_is_tweet%22%2C%22date%22%3A1613336705139%2C%22id%22%3A%221361058853467672583%22%7D",
+						"display_url": "bbcmic.ro/#%7B%22v%22%3A…",
+						"indices": [
+							23,
+							46
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1361058906374631400,
+						"id_str": "1361058906374631427",
+						"indices": [
+							47,
+							70
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EuNz3TjXcAMx6jM.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EuNz3TjXcAMx6jM.jpg",
+						"url": "https://t.co/DoFxHFBq56",
+						"display_url": "pic.twitter.com/DoFxHFBq56",
+						"expanded_url": "https://twitter.com/bbcmicrobot/status/1361058909033795589/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 512,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1361058906374631400,
+						"id_str": "1361058906374631427",
+						"indices": [
+							47,
+							70
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EuNz3TjXcAMx6jM.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EuNz3TjXcAMx6jM.jpg",
+						"url": "https://t.co/DoFxHFBq56",
+						"display_url": "pic.twitter.com/DoFxHFBq56",
+						"expanded_url": "https://twitter.com/bbcmicrobot/status/1361058909033795589/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 512,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 512,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								5,
+								4
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/EuNz3TjXcAMx6jM.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.dompajak.com/bbcmicrobot.html\" rel=\"nofollow\">BBC Micro Bot</a>",
+			"in_reply_to_status_id": 1361058853467672600,
+			"in_reply_to_status_id_str": "1361058853467672583",
+			"in_reply_to_user_id": 19670033,
+			"in_reply_to_user_id_str": "19670033",
+			"in_reply_to_screen_name": "life_is_tweet",
+			"user": {
+				"id": 1225968288842182700,
+				"id_str": "1225968288842182657",
+				"name": "BBC Micro 🦉 Bot",
+				"screen_name": "bbcmicrobot",
+				"location": "",
+				"description": "Runs your tweet on a 8-bit computer. OG code bot. #BASIC #pixelart. Unofficial | Get started: https://t.co/VFvCNkFuSW | WARNING: May contain flashing GIFs",
+				"url": "https://t.co/VFvCNkFuSW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/VFvCNkFuSW",
+								"expanded_url": "http://bbcmicrobot.com",
+								"display_url": "bbcmicrobot.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/VFvCNkFuSW",
+								"expanded_url": "http://bbcmicrobot.com",
+								"display_url": "bbcmicrobot.com",
+								"indices": [
+									94,
+									117
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 7510,
+				"friends_count": 27,
+				"listed_count": 109,
+				"created_at": "Sat Feb 08 02:23:40 +0000 2020",
+				"favourites_count": 15362,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 15377,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1348151179235135492/tqhplsOw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1348151179235135492/tqhplsOw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1225968288842182657/1610320663",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Nice! https://t.co/S4gr9RaIW0"
+	},
+	{
 		"created_at": "Mon Feb 15 07:10:03 +0000 2021",
 		"id": 1361211150457839600,
 		"id_str": "1361211150457839621",
@@ -456,7 +1315,7 @@ Grailbird.data.tweets_2021_02 =
 			"created_at": "Thu Feb 11 18:12:02 +0000 2021",
 			"id": 1359928193935933400,
 			"id_str": "1359928193935933440",
-			"full_text": "Indie newsletters 🤷‍♂️ https://t.co/Dgr0KGlVol",
+			"full_text": "Indie newsletters 🤷♂️ https://t.co/Dgr0KGlVol",
 			"truncated": false,
 			"display_text_range": [
 				0,
