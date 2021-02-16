@@ -1,6 +1,255 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Tue Feb 16 17:21:57 +0000 2021",
+		"id": 1361727532022845400,
+		"id_str": "1361727532022845445",
+		"full_text": "Snelle reminder dat deze sessie u avondklokvrij wordt aangeboden! https://t.co/houdSIxnOz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/houdSIxnOz",
+					"expanded_url": "https://twitter.com/johanvoets/status/1361256255176781826",
+					"display_url": "twitter.com/johanvoets/sta…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8895,
+			"friends_count": 699,
+			"listed_count": 555,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7384,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63870,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1613162785",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1361256255176781800,
+		"quoted_status_id_str": "1361256255176781826",
+		"quoted_status_permalink": {
+			"url": "https://t.co/houdSIxnOz",
+			"expanded": "https://twitter.com/johanvoets/status/1361256255176781826",
+			"display": "twitter.com/johanvoets/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Feb 15 10:09:16 +0000 2021",
+			"id": 1361256255176781800,
+			"id_str": "1361256255176781826",
+			"full_text": "Morgenavond samen met Ome @frankmeeuwsen even nerden rond alle notitie/tweede brein apps en platformen van het moment. Meepraten kan en mag! Sluit dus zeker aan:   https://t.co/9aE8E6KYBs",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				187
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "frankmeeuwsen",
+						"name": "Frank Meeuwsen",
+						"id": 816203,
+						"id_str": "816203",
+						"indices": [
+							26,
+							40
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/9aE8E6KYBs",
+						"expanded_url": "https://www.joinclubhouse.com/event/M5RaXV4p",
+						"display_url": "joinclubhouse.com/event/M5RaXV4p",
+						"indices": [
+							164,
+							187
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 7422272,
+				"id_str": "7422272",
+				"name": "Johan Voets",
+				"screen_name": "johanvoets",
+				"location": "Haarlem, Nederland",
+				"description": "👨‍💻 Content Strategy Director @ https://t.co/TK2R817vKJ\n🏎 Co-host #F1 podcast @F1SpoilerAlert \n📠 Co-host #gadget podcast V2\n🎮 Press start\n🚵‍♂️ 🥊🏋️‍♂️🏂🏐 Sporty Spice.",
+				"url": "https://t.co/qbxSYEbsyP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/qbxSYEbsyP",
+								"expanded_url": "https://instagram.com/johanvoets",
+								"display_url": "instagram.com/johanvoets",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/TK2R817vKJ",
+								"expanded_url": "http://OKGO.nl",
+								"display_url": "OKGO.nl",
+								"indices": [
+									32,
+									55
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 4702,
+				"friends_count": 1918,
+				"listed_count": 272,
+				"created_at": "Thu Jul 12 06:41:46 +0000 2007",
+				"favourites_count": 1449,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 59603,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1218649589760135168/iqLBIri4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1218649589760135168/iqLBIri4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/7422272/1504438597",
+				"profile_link_color": "FAB81E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "2C2C2C",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Snelle reminder dat deze sessie u avondklokvrij wordt aangeboden! https://t.co/houdSIxnOz"
+	},
+	{
 		"created_at": "Tue Feb 16 15:48:05 +0000 2021",
 		"id": 1361703909555900400,
 		"id_str": "1361703909555900416",
