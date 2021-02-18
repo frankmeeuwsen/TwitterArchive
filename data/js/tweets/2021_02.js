@@ -1,6 +1,1021 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Thu Feb 18 22:08:51 +0000 2021",
+		"id": 1362524507857162200,
+		"id_str": "1362524507857162240",
+		"full_text": "@LNevesGoncalves @michelvanbaal @mbootsman Nou vooruit. https://t.co/ll27MTdswy",
+		"truncated": false,
+		"display_text_range": [
+			43,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LNevesGoncalves",
+					"name": "Lisa",
+					"id": 501562075,
+					"id_str": "501562075",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "michelvanbaal",
+					"name": "Michel van Baal",
+					"id": 20303544,
+					"id_str": "20303544",
+					"indices": [
+						17,
+						31
+					]
+				},
+				{
+					"screen_name": "mbootsman",
+					"name": "Marcel ₿",
+					"id": 45863272,
+					"id_str": "45863272",
+					"indices": [
+						32,
+						42
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1362524486269096000,
+					"id_str": "1362524486269095936",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/EuiozSHXUAAQ2RS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuiozSHXUAAQ2RS.jpg",
+					"url": "https://t.co/ll27MTdswy",
+					"display_url": "pic.twitter.com/ll27MTdswy",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1362524507857162240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1538,
+							"h": 1016,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 449,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 793,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1362524486269096000,
+					"id_str": "1362524486269095936",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/EuiozSHXUAAQ2RS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuiozSHXUAAQ2RS.jpg",
+					"url": "https://t.co/ll27MTdswy",
+					"display_url": "pic.twitter.com/ll27MTdswy",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1362524507857162240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1538,
+							"h": 1016,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 449,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 793,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1362523505775018000,
+		"in_reply_to_status_id_str": "1362523505775017986",
+		"in_reply_to_user_id": 501562075,
+		"in_reply_to_user_id_str": "501562075",
+		"in_reply_to_screen_name": "LNevesGoncalves",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8893,
+			"friends_count": 706,
+			"listed_count": 555,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7409,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63907,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1613162785",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@LNevesGoncalves @michelvanbaal @mbootsman Nou vooruit. https://t.co/ll27MTdswy"
+	},
+	{
+		"created_at": "Thu Feb 18 22:01:34 +0000 2021",
+		"id": 1362522673197310000,
+		"id_str": "1362522673197309952",
+		"full_text": "@LNevesGoncalves @mbootsman We kunnen alle kanten op met dit beeld... https://t.co/mjAKtmV3gK",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LNevesGoncalves",
+					"name": "Lisa",
+					"id": 501562075,
+					"id_str": "501562075",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "mbootsman",
+					"name": "Marcel ₿",
+					"id": 45863272,
+					"id_str": "45863272",
+					"indices": [
+						17,
+						27
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1362522605518000000,
+					"id_str": "1362522605518000129",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/EuinFzxXEAEusxz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuinFzxXEAEusxz.jpg",
+					"url": "https://t.co/mjAKtmV3gK",
+					"display_url": "pic.twitter.com/mjAKtmV3gK",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1362522673197309952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1538,
+							"h": 1016,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 793,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 449,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1362522605518000000,
+					"id_str": "1362522605518000129",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/EuinFzxXEAEusxz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuinFzxXEAEusxz.jpg",
+					"url": "https://t.co/mjAKtmV3gK",
+					"display_url": "pic.twitter.com/mjAKtmV3gK",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1362522673197309952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1538,
+							"h": 1016,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 793,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 449,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1362521281510461400,
+		"in_reply_to_status_id_str": "1362521281510461446",
+		"in_reply_to_user_id": 501562075,
+		"in_reply_to_user_id_str": "501562075",
+		"in_reply_to_screen_name": "LNevesGoncalves",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8893,
+			"friends_count": 706,
+			"listed_count": 555,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7409,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63907,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1613162785",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@LNevesGoncalves @mbootsman We kunnen alle kanten op met dit beeld... https://t.co/mjAKtmV3gK"
+	},
+	{
+		"created_at": "Thu Feb 18 21:54:50 +0000 2021",
+		"id": 1362520980669759500,
+		"id_str": "1362520980669759488",
+		"full_text": "@mbootsman Hahaha... Ik wist al dat ik niet origineel zou zijn...",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mbootsman",
+					"name": "Marcel ₿",
+					"id": 45863272,
+					"id_str": "45863272",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1362520810544640000,
+		"in_reply_to_status_id_str": "1362520810544640007",
+		"in_reply_to_user_id": 45863272,
+		"in_reply_to_user_id_str": "45863272",
+		"in_reply_to_screen_name": "mbootsman",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8893,
+			"friends_count": 706,
+			"listed_count": 555,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7409,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63907,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1613162785",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@mbootsman Hahaha... Ik wist al dat ik niet origineel zou zijn..."
+	},
+	{
+		"created_at": "Thu Feb 18 21:53:59 +0000 2021",
+		"id": 1362519398804766700,
+		"id_str": "1362520765497769987",
+		"full_text": "Het werd wederom een tikkie later dan gedacht, maar de tweede sessie van \"Heb je nog een tip?\" aka #Tippie2 op Clubhouse was gezellig! Dank aan alle deelnemers en luisteraars o.a. @IsabelMosk @Marjolijn  @frankmeeuwsen @tuurke @roh @tonie @Dutchcowboy @johanschaap. De shownotes: https://t.co/sFmnyPKiNO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Tippie2",
+					"indices": [
+						99,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IsabelMosk",
+					"name": "Isabel Mosk",
+					"id": 16664200,
+					"id_str": "16664200",
+					"indices": [
+						180,
+						191
+					]
+				},
+				{
+					"screen_name": "Marjolijn",
+					"name": "Marjolijn",
+					"id": 1610571,
+					"id_str": "1610571",
+					"indices": [
+						192,
+						202
+					]
+				},
+				{
+					"screen_name": "frankmeeuwsen",
+					"name": "Frank Meeuwsen",
+					"id": 816203,
+					"id_str": "816203",
+					"indices": [
+						204,
+						218
+					]
+				},
+				{
+					"screen_name": "tuurke",
+					"name": "natasja kirkels",
+					"id": 50733565,
+					"id_str": "50733565",
+					"indices": [
+						219,
+						226
+					]
+				},
+				{
+					"screen_name": "Roh",
+					"name": "Ronald van Schaik",
+					"id": 1447551,
+					"id_str": "1447551",
+					"indices": [
+						227,
+						231
+					]
+				},
+				{
+					"screen_name": "tonie",
+					"name": "Tonie",
+					"id": 786193,
+					"id_str": "786193",
+					"indices": [
+						232,
+						238
+					]
+				},
+				{
+					"screen_name": "Dutchcowboy",
+					"name": "M. Lens-FitzGerald",
+					"id": 794801,
+					"id_str": "794801",
+					"indices": [
+						239,
+						251
+					]
+				},
+				{
+					"screen_name": "johanschaap",
+					"name": "Johan Schaap",
+					"id": 2268351,
+					"id_str": "2268351",
+					"indices": [
+						252,
+						264
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1362518698796408800,
+					"id_str": "1362518698796408834",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/EuijiaGWYAIgobg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuijiaGWYAIgobg.jpg",
+					"url": "https://t.co/sFmnyPKiNO",
+					"display_url": "pic.twitter.com/sFmnyPKiNO",
+					"expanded_url": "https://twitter.com/johanvoets/status/1362519398804766724/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 976,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 324,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 572,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1362518698796408800,
+					"id_str": "1362518698796408834",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/EuijiaGWYAIgobg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuijiaGWYAIgobg.jpg",
+					"url": "https://t.co/sFmnyPKiNO",
+					"display_url": "pic.twitter.com/sFmnyPKiNO",
+					"expanded_url": "https://twitter.com/johanvoets/status/1362519398804766724/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 976,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 324,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 572,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7422272,
+			"id_str": "7422272",
+			"name": "Johan Voets",
+			"screen_name": "johanvoets",
+			"location": "Haarlem, Nederland",
+			"description": "👨‍💻 Content Strategy Director @ https://t.co/TK2R817vKJ\n🏎 Co-host #F1 podcast @F1SpoilerAlert \n📠 Co-host #gadget podcast V2\n🎮 Press start\n🚵‍♂️ 🥊🏋️‍♂️🏂🏐 Sporty Spice.",
+			"url": "https://t.co/qbxSYEbsyP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbxSYEbsyP",
+							"expanded_url": "https://instagram.com/johanvoets",
+							"display_url": "instagram.com/johanvoets",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/TK2R817vKJ",
+							"expanded_url": "http://OKGO.nl",
+							"display_url": "OKGO.nl",
+							"indices": [
+								32,
+								55
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4700,
+			"friends_count": 1922,
+			"listed_count": 272,
+			"created_at": "Thu Jul 12 06:41:46 +0000 2007",
+			"favourites_count": 1456,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59624,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1218649589760135168/iqLBIri4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1218649589760135168/iqLBIri4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7422272/1504438597",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "2C2C2C",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Het werd wederom een tikkie later dan gedacht, maar de tweede sessie van \"Heb je nog een tip?\" aka #Tippie2 op Clubhouse was gezellig! Dank aan alle deelnemers en luisteraars o.a. @IsabelMosk @Marjolijn  @frankmeeuwsen @tuurke @roh @tonie @Dutchcowboy @johanschaap. De shownotes: https://t.co/sFmnyPKiNO"
+	},
+	{
+		"created_at": "Thu Feb 18 21:53:02 +0000 2021",
+		"id": 1362520525310943200,
+		"id_str": "1362520525310943233",
+		"full_text": "Too soon? #MarsLanding #MarsPerseverance #CountdownToMars https://t.co/qH9f7Zan7F",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MarsLanding",
+					"indices": [
+						10,
+						22
+					]
+				},
+				{
+					"text": "MarsPerseverance",
+					"indices": [
+						23,
+						40
+					]
+				},
+				{
+					"text": "CountdownToMars",
+					"indices": [
+						41,
+						57
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1362520206065758200,
+					"id_str": "1362520206065758210",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/Euik6JHXcAIQBMZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Euik6JHXcAIQBMZ.jpg",
+					"url": "https://t.co/qH9f7Zan7F",
+					"display_url": "pic.twitter.com/qH9f7Zan7F",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1362520525310943233/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 449,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 793,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1538,
+							"h": 1016,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1362520206065758200,
+					"id_str": "1362520206065758210",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/Euik6JHXcAIQBMZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Euik6JHXcAIQBMZ.jpg",
+					"url": "https://t.co/qH9f7Zan7F",
+					"display_url": "pic.twitter.com/qH9f7Zan7F",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1362520525310943233/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 449,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 793,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1538,
+							"h": 1016,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8893,
+			"friends_count": 706,
+			"listed_count": 555,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7409,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63907,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1613162785",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Too soon? #MarsLanding #MarsPerseverance #CountdownToMars https://t.co/qH9f7Zan7F"
+	},
+	{
 		"created_at": "Thu Feb 18 20:21:55 +0000 2021",
 		"id": 1362497594618953700,
 		"id_str": "1362497594618953733",
