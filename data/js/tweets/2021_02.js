@@ -1,6 +1,203 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Fri Feb 19 07:26:30 +0000 2021",
+		"id": 1362664842998534100,
+		"id_str": "1362664842998534149",
+		"full_text": "@johanvoets @IsabelMosk @Marjolijn @tuurke @Roh @tonie @Dutchcowboy @johanschaap Laat maar Johan. Vergeefse moeite volgens de wijsheden van Adformatie: \"Zonder Bas Smit of Eelco de Boer als host of als gast doe je er eigenlijk niet toe.\"... https://t.co/as0knRznJD",
+		"truncated": false,
+		"display_text_range": [
+			81,
+			264
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "johanvoets",
+					"name": "Johan Voets",
+					"id": 7422272,
+					"id_str": "7422272",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "IsabelMosk",
+					"name": "Isabel Mosk",
+					"id": 16664200,
+					"id_str": "16664200",
+					"indices": [
+						12,
+						23
+					]
+				},
+				{
+					"screen_name": "Marjolijn",
+					"name": "Marjolijn",
+					"id": 1610571,
+					"id_str": "1610571",
+					"indices": [
+						24,
+						34
+					]
+				},
+				{
+					"screen_name": "tuurke",
+					"name": "natasja kirkels",
+					"id": 50733565,
+					"id_str": "50733565",
+					"indices": [
+						35,
+						42
+					]
+				},
+				{
+					"screen_name": "Roh",
+					"name": "Ronald van Schaik",
+					"id": 1447551,
+					"id_str": "1447551",
+					"indices": [
+						43,
+						47
+					]
+				},
+				{
+					"screen_name": "tonie",
+					"name": "Tonie",
+					"id": 786193,
+					"id_str": "786193",
+					"indices": [
+						48,
+						54
+					]
+				},
+				{
+					"screen_name": "Dutchcowboy",
+					"name": "M. Lens-FitzGerald",
+					"id": 794801,
+					"id_str": "794801",
+					"indices": [
+						55,
+						67
+					]
+				},
+				{
+					"screen_name": "johanschaap",
+					"name": "Johan Schaap",
+					"id": 2268351,
+					"id_str": "2268351",
+					"indices": [
+						68,
+						80
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/as0knRznJD",
+					"expanded_url": "https://www.adformatie.nl/media/clubhouse-een-klein-dorp-vol-zendamateurs-wat-moet-je-er",
+					"display_url": "adformatie.nl/media/clubhous…",
+					"indices": [
+						241,
+						264
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1362519398804766700,
+		"in_reply_to_status_id_str": "1362519398804766724",
+		"in_reply_to_user_id": 7422272,
+		"in_reply_to_user_id_str": "7422272",
+		"in_reply_to_screen_name": "johanvoets",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8894,
+			"friends_count": 706,
+			"listed_count": 556,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7412,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63908,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1613162785",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@johanvoets @IsabelMosk @Marjolijn @tuurke @Roh @tonie @Dutchcowboy @johanschaap Laat maar Johan. Vergeefse moeite volgens de wijsheden van Adformatie: \"Zonder Bas Smit of Eelco de Boer als host of als gast doe je er eigenlijk niet toe.\"... https://t.co/as0knRznJD"
+	},
+	{
 		"created_at": "Thu Feb 18 22:08:51 +0000 2021",
 		"id": 1362524507857162200,
 		"id_str": "1362524507857162240",
@@ -731,7 +928,7 @@ Grailbird.data.tweets_2021_02 =
 			"name": "Johan Voets",
 			"screen_name": "johanvoets",
 			"location": "Haarlem, Nederland",
-			"description": "👨‍💻 Content Strategy Director @ https://t.co/TK2R817vKJ\n🏎 Co-host #F1 podcast @F1SpoilerAlert \n📠 Co-host #gadget podcast V2\n🎮 Press start\n🚵‍♂️ 🥊🏋️‍♂️🏂🏐 Sporty Spice.",
+			"description": "👨💻 Content Strategy Director @ https://t.co/TK2R817vKJ\n🏎 Co-host #F1 podcast @F1SpoilerAlert \n📠 Co-host #gadget podcast V2\n🎮 Press start\n🚵♂️ 🥊🏋️♂️🏂🏐 Sporty Spice.",
 			"url": "https://t.co/qbxSYEbsyP",
 			"entities": {
 				"url": {
