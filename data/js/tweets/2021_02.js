@@ -1,6 +1,203 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Sat Feb 20 10:32:24 +0000 2021",
+		"id": 1363074014835576800,
+		"id_str": "1363074014835576834",
+		"full_text": "Of mijn leven verrijkt is, nu ik weet wie Eelco de Boer en Bas Smit zijn? https://t.co/hl6kygIaEg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1363074007512346600,
+					"id_str": "1363074007512346628",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EuqcloRXcAQHJ-2.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EuqcloRXcAQHJ-2.jpg",
+					"url": "https://t.co/hl6kygIaEg",
+					"display_url": "pic.twitter.com/hl6kygIaEg",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1363074014835576834/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 384,
+							"h": 286,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 384,
+							"h": 286,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 384,
+							"h": 286,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1363074007512346600,
+					"id_str": "1363074007512346628",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EuqcloRXcAQHJ-2.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EuqcloRXcAQHJ-2.jpg",
+					"url": "https://t.co/hl6kygIaEg",
+					"display_url": "pic.twitter.com/hl6kygIaEg",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1363074014835576834/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 384,
+							"h": 286,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 384,
+							"h": 286,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 384,
+							"h": 286,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							192,
+							143
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EuqcloRXcAQHJ-2.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1363073664003043300,
+		"in_reply_to_status_id_str": "1363073664003043328",
+		"in_reply_to_user_id": 816203,
+		"in_reply_to_user_id_str": "816203",
+		"in_reply_to_screen_name": "frankmeeuwsen",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8895,
+			"friends_count": 707,
+			"listed_count": 555,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7421,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63919,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1613162785",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Of mijn leven verrijkt is, nu ik weet wie Eelco de Boer en Bas Smit zijn? https://t.co/hl6kygIaEg"
+	},
+	{
 		"created_at": "Fri Feb 19 18:41:13 +0000 2021",
 		"id": 1362834640365617200,
 		"id_str": "1362834640365617155",
