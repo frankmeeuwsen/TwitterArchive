@@ -1,6 +1,478 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Sun Feb 21 19:00:29 +0000 2021",
+		"id": 1363564264880021500,
+		"id_str": "1363564264880021504",
+		"full_text": "Wat is dit toch een mooi programma. Van poezie naar muziek naar theater. Alles komt langs. Vitamine voor je ziel. https://t.co/NaJn6FPFr9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NaJn6FPFr9",
+					"expanded_url": "https://twitter.com/vpro/status/1363563166085619716",
+					"display_url": "twitter.com/vpro/status/13…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8892,
+			"friends_count": 708,
+			"listed_count": 556,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7425,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63934,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1613162785",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1363563166085619700,
+		"quoted_status_id_str": "1363563166085619716",
+		"quoted_status_permalink": {
+			"url": "https://t.co/NaJn6FPFr9",
+			"expanded": "https://twitter.com/vpro/status/1363563166085619716",
+			"display": "twitter.com/vpro/status/13…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Feb 21 18:56:07 +0000 2021",
+			"id": 1363563166085619700,
+			"id_str": "1363563166085619716",
+			"full_text": "Alle optredens uit ’On Stage’ vind je op ons YouTube-kanaal. Met @luckyfonzIII, @dichterdesvaderlands, @NanaAdjoaMusic, @betonnie, Doke Pauwels en @meeslepend. https://t.co/W11XVCVdZ4 https://t.co/HFmr786ckJ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				183
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "LuckyFonzIII",
+						"name": "Lucky Fonz III",
+						"id": 37096169,
+						"id_str": "37096169",
+						"indices": [
+							65,
+							78
+						]
+					},
+					{
+						"screen_name": "NanaAdjoaMusic",
+						"name": "Nana Adjoa",
+						"id": 3484263861,
+						"id_str": "3484263861",
+						"indices": [
+							103,
+							118
+						]
+					},
+					{
+						"screen_name": "betonnie",
+						"name": "dieleman",
+						"id": 300471459,
+						"id_str": "300471459",
+						"indices": [
+							120,
+							129
+						]
+					},
+					{
+						"screen_name": "meeslepend",
+						"name": "Groots en Meeslepend",
+						"id": 2170151335,
+						"id_str": "2170151335",
+						"indices": [
+							147,
+							158
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/W11XVCVdZ4",
+						"expanded_url": "http://bit.ly/onstageopyoutube",
+						"display_url": "bit.ly/onstageopyoutu…",
+						"indices": [
+							160,
+							183
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1362682218531999700,
+						"id_str": "1362682218531999744",
+						"indices": [
+							184,
+							207
+						],
+						"media_url": "http://pbs.twimg.com/media/Euk4QglXUAAZXrz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Euk4QglXUAAZXrz.jpg",
+						"url": "https://t.co/HFmr786ckJ",
+						"display_url": "pic.twitter.com/HFmr786ckJ",
+						"expanded_url": "https://twitter.com/vpro/status/1363563166085619716/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1365,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1362682218531999700,
+						"id_str": "1362682218531999744",
+						"indices": [
+							184,
+							207
+						],
+						"media_url": "http://pbs.twimg.com/media/Euk4QglXUAAZXrz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Euk4QglXUAAZXrz.jpg",
+						"url": "https://t.co/HFmr786ckJ",
+						"display_url": "pic.twitter.com/HFmr786ckJ",
+						"expanded_url": "https://twitter.com/vpro/status/1363563166085619716/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1365,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 7348632,
+				"id_str": "7348632",
+				"name": "vpro",
+				"screen_name": "vpro",
+				"location": "Hilversum Netherlands",
+				"description": "#VPRO | Grensverkenners sinds 1926 Bakermat van o.a. @zondagmetlubach #zml, @VPROTegenlicht, @3voor12 en @Argosonderzoekt",
+				"url": "https://t.co/Y7rvLe7p7X",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Y7rvLe7p7X",
+								"expanded_url": "http://vpro.nl",
+								"display_url": "vpro.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 54328,
+				"friends_count": 958,
+				"listed_count": 1108,
+				"created_at": "Mon Jul 09 15:02:51 +0000 2007",
+				"favourites_count": 19448,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 23427,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1184030001253011457/P0w4oSLa_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184030001253011457/P0w4oSLa_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/7348632/1602493943",
+				"profile_link_color": "FF0D00",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "00AAFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Wat is dit toch een mooi programma. Van poezie naar muziek naar theater. Alles komt langs. Vitamine voor je ziel. https://t.co/NaJn6FPFr9"
+	},
+	{
+		"created_at": "Sun Feb 21 18:56:28 +0000 2021",
+		"id": 1363563255524974600,
+		"id_str": "1363563255524974598",
+		"full_text": "Verifying myself: I am frankmeeuwsen on https://t.co/o6vsujJzsu. laWc51Eif0x72w8ezYzo24HxI0kInMSzBVfQ / https://t.co/AASSDWf1vW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/o6vsujJzsu",
+					"expanded_url": "http://Keybase.io",
+					"display_url": "Keybase.io",
+					"indices": [
+						40,
+						63
+					]
+				},
+				{
+					"url": "https://t.co/AASSDWf1vW",
+					"expanded_url": "https://keybase.io/frankmeeuwsen/sigs/laWc51Eif0x72w8ezYzo24HxI0kInMSzBVfQ",
+					"display_url": "keybase.io/frankmeeuwsen/…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8892,
+			"friends_count": 708,
+			"listed_count": 556,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7425,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63934,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1613162785",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Verifying myself: I am frankmeeuwsen on https://t.co/o6vsujJzsu. laWc51Eif0x72w8ezYzo24HxI0kInMSzBVfQ / https://t.co/AASSDWf1vW"
+	},
+	{
 		"created_at": "Sun Feb 21 16:20:31 +0000 2021",
 		"id": 1363524010869485600,
 		"id_str": "1363524010869485569",
