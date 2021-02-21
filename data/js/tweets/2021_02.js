@@ -1,6 +1,374 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Sun Feb 21 13:59:03 +0000 2021",
+		"id": 1363488407196991500,
+		"id_str": "1363488407196991491",
+		"full_text": "Ha. Je kunt vinden van Facebook wat je wilt (hellehonden zijn het) maar andere mediamakers in krant en TV zijn zelf inderdaad net zo erg. Makers niet de juiste credits of betaling geven. https://t.co/gOyMgePuDR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gOyMgePuDR",
+					"expanded_url": "https://twitter.com/baekdal/status/1363460227098624001",
+					"display_url": "twitter.com/baekdal/status…",
+					"indices": [
+						187,
+						210
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8893,
+			"friends_count": 707,
+			"listed_count": 556,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7423,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63930,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1613162785",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1363460227098624000,
+		"quoted_status_id_str": "1363460227098624001",
+		"quoted_status_permalink": {
+			"url": "https://t.co/gOyMgePuDR",
+			"expanded": "https://twitter.com/baekdal/status/1363460227098624001",
+			"display": "twitter.com/baekdal/status…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Feb 21 12:07:04 +0000 2021",
+			"id": 1363460227098624000,
+			"id_str": "1363460227098624001",
+			"full_text": "Note to publishers: Over the past several days, you have been screaming that Facebook should for links, so why do you think this is okay? \n\nOffer to pay for the media others produce or shut up. https://t.co/D0nThrFoRQ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				193
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1363460219263713300,
+						"id_str": "1363460219263713280",
+						"indices": [
+							194,
+							217
+						],
+						"media_url": "http://pbs.twimg.com/media/Euv72HKXAAA9VvG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Euv72HKXAAA9VvG.jpg",
+						"url": "https://t.co/D0nThrFoRQ",
+						"display_url": "pic.twitter.com/D0nThrFoRQ",
+						"expanded_url": "https://twitter.com/baekdal/status/1363460227098624001/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1370,
+								"h": 1808,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 515,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 909,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1363460219263713300,
+						"id_str": "1363460219263713280",
+						"indices": [
+							194,
+							217
+						],
+						"media_url": "http://pbs.twimg.com/media/Euv72HKXAAA9VvG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Euv72HKXAAA9VvG.jpg",
+						"url": "https://t.co/D0nThrFoRQ",
+						"display_url": "pic.twitter.com/D0nThrFoRQ",
+						"expanded_url": "https://twitter.com/baekdal/status/1363460227098624001/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1370,
+								"h": 1808,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 515,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 909,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1363460219280502800,
+						"id_str": "1363460219280502785",
+						"indices": [
+							194,
+							217
+						],
+						"media_url": "http://pbs.twimg.com/media/Euv72HOXMAEKWhx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Euv72HOXMAEKWhx.jpg",
+						"url": "https://t.co/D0nThrFoRQ",
+						"display_url": "pic.twitter.com/D0nThrFoRQ",
+						"expanded_url": "https://twitter.com/baekdal/status/1363460227098624001/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1334,
+								"h": 1215,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1093,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 619,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1363460220127764500,
+						"id_str": "1363460220127764497",
+						"indices": [
+							194,
+							217
+						],
+						"media_url": "http://pbs.twimg.com/media/Euv72KYXYBEKBxY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Euv72KYXYBEKBxY.jpg",
+						"url": "https://t.co/D0nThrFoRQ",
+						"display_url": "pic.twitter.com/D0nThrFoRQ",
+						"expanded_url": "https://twitter.com/baekdal/status/1363460227098624001/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 518,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 293,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1375,
+								"h": 593,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14473569,
+				"id_str": "14473569",
+				"name": "Thomas Baekdal",
+				"screen_name": "baekdal",
+				"location": "I'm global",
+				"description": "Author, Professional Writer, Magazine Publisher, and Media Analyst.",
+				"url": "https://t.co/XIiG03rQ86",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/XIiG03rQ86",
+								"expanded_url": "http://www.baekdal.com",
+								"display_url": "baekdal.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13480,
+				"friends_count": 519,
+				"listed_count": 803,
+				"created_at": "Tue Apr 22 11:53:41 +0000 2008",
+				"favourites_count": 6260,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 99015,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/717866365445611520/-xzZLZ2E_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/717866365445611520/-xzZLZ2E_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14473569/1402865547",
+				"profile_link_color": "285FA1",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FCFCFC",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 76,
+			"favorite_count": 140,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Ha. Je kunt vinden van Facebook wat je wilt (hellehonden zijn het) maar andere mediamakers in krant en TV zijn zelf inderdaad net zo erg. Makers niet de juiste credits of betaling geven. https://t.co/gOyMgePuDR"
+	},
+	{
 		"created_at": "Sun Feb 21 12:11:22 +0000 2021",
 		"id": 1363461310030184400,
 		"id_str": "1363461310030184452",
