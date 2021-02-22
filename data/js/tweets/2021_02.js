@@ -1,6 +1,311 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Mon Feb 22 16:47:26 +0000 2021",
+		"id": 1363893172947026000,
+		"id_str": "1363893172947025926",
+		"full_text": "Ze zetten er een punkt achter... https://t.co/miRvWcR1nh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/miRvWcR1nh",
+					"expanded_url": "https://twitter.com/teletekst/status/1363889614218493953",
+					"display_url": "twitter.com/teletekst/stat…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8890,
+			"friends_count": 708,
+			"listed_count": 556,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7429,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63944,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1613162785",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1363889614218494000,
+		"quoted_status_id_str": "1363889614218493953",
+		"quoted_status_permalink": {
+			"url": "https://t.co/miRvWcR1nh",
+			"expanded": "https://twitter.com/teletekst/status/1363889614218493953",
+			"display": "twitter.com/teletekst/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Feb 22 16:33:18 +0000 2021",
+			"id": 1363889614218494000,
+			"id_str": "1363889614218493953",
+			"full_text": "Frans danceduo Daft Punkt stopt https://t.co/3y9AeP1Kqa",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				31
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1363889612872122400,
+						"id_str": "1363889612872122373",
+						"indices": [
+							32,
+							55
+						],
+						"media_url": "http://pbs.twimg.com/media/Eu2CYHAWgAUbEoY.png",
+						"media_url_https": "https://pbs.twimg.com/media/Eu2CYHAWgAUbEoY.png",
+						"url": "https://t.co/3y9AeP1Kqa",
+						"display_url": "pic.twitter.com/3y9AeP1Kqa",
+						"expanded_url": "https://twitter.com/Teletekst/status/1363889614218493953/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 440,
+								"h": 506,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 440,
+								"h": 506,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 440,
+								"h": 506,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1363889612872122400,
+						"id_str": "1363889612872122373",
+						"indices": [
+							32,
+							55
+						],
+						"media_url": "http://pbs.twimg.com/media/Eu2CYHAWgAUbEoY.png",
+						"media_url_https": "https://pbs.twimg.com/media/Eu2CYHAWgAUbEoY.png",
+						"url": "https://t.co/3y9AeP1Kqa",
+						"display_url": "pic.twitter.com/3y9AeP1Kqa",
+						"expanded_url": "https://twitter.com/Teletekst/status/1363889614218493953/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 440,
+								"h": 506,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 440,
+								"h": 506,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 440,
+								"h": 506,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://nos.nl/teletekst\" rel=\"nofollow\">Teletekst Twitter Uitkoppeling</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5136281,
+				"id_str": "5136281",
+				"name": "NOS Teletekst",
+				"screen_name": "Teletekst",
+				"location": "Hilversum",
+				"description": "Het laatste nieuws van NOS Teletekst-pagina 101. Download ook de Teletekst-app voor Android, iPhone, iPad, Windows en BlackBerry: http://t.co/6p7ipVpdIW",
+				"url": "http://t.co/LSHkxTF9qA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/LSHkxTF9qA",
+								"expanded_url": "http://teletekst.nos.nl",
+								"display_url": "teletekst.nos.nl",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/6p7ipVpdIW",
+								"expanded_url": "http://nos.nl/ttapp",
+								"display_url": "nos.nl/ttapp",
+								"indices": [
+									130,
+									152
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 127164,
+				"friends_count": 4391,
+				"listed_count": 1931,
+				"created_at": "Wed Apr 18 16:31:44 +0000 2007",
+				"favourites_count": 1,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 121393,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/432824663316496384/-rXY3JwX_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/432824663316496384/-rXY3JwX_normal.png",
+				"profile_link_color": "B41A1F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E8E8FF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Ze zetten er een punkt achter... https://t.co/miRvWcR1nh"
+	},
+	{
 		"created_at": "Mon Feb 22 16:18:34 +0000 2021",
 		"id": 1363885905300361200,
 		"id_str": "1363885905300361219",
