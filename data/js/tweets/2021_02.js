@@ -1,6 +1,600 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Tue Feb 23 21:51:34 +0000 2021",
+		"id": 1364332095720599600,
+		"id_str": "1364332095720599556",
+		"full_text": "@HumphryJoey @WouterBlok @TimmermansEU Dat is @Kaliberinteract en we zijn de koningen in koetjes en kalfjes kakafonie tijdens collaboratieve conferencecalls. We zijn ook niet onbedreven in alliteraties. \nMaar serieus, probeer thuis geen kantoortje te spelen. Hou het menselijk. Daar hoort ontspanning bij.",
+		"truncated": false,
+		"display_text_range": [
+			39,
+			305
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HumphryJoey",
+					"name": "Humphry",
+					"id": 54028848,
+					"id_str": "54028848",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "WouterBlok",
+					"name": "Wouter Blok",
+					"id": 9800112,
+					"id_str": "9800112",
+					"indices": [
+						13,
+						24
+					]
+				},
+				{
+					"screen_name": "TimmermansEU",
+					"name": "Frans Timmermans",
+					"id": 1391776140,
+					"id_str": "1391776140",
+					"indices": [
+						25,
+						38
+					]
+				},
+				{
+					"screen_name": "Kaliberinteract",
+					"name": "Kaliber",
+					"id": 10932162,
+					"id_str": "10932162",
+					"indices": [
+						46,
+						62
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1364330851551637500,
+		"in_reply_to_status_id_str": "1364330851551637505",
+		"in_reply_to_user_id": 54028848,
+		"in_reply_to_user_id_str": "54028848",
+		"in_reply_to_screen_name": "HumphryJoey",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8894,
+			"friends_count": 711,
+			"listed_count": 555,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7456,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63974,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1614116726",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@HumphryJoey @WouterBlok @TimmermansEU Dat is @Kaliberinteract en we zijn de koningen in koetjes en kalfjes kakafonie tijdens collaboratieve conferencecalls. We zijn ook niet onbedreven in alliteraties. \nMaar serieus, probeer thuis geen kantoortje te spelen. Hou het menselijk. Daar hoort ontspanning bij."
+	},
+	{
+		"created_at": "Tue Feb 23 21:48:49 +0000 2021",
+		"id": 1364331402821570600,
+		"id_str": "1364331402821570561",
+		"full_text": "@Luukros @IndiraReynaert @DannyOosterveer Als dat allemaal kan met het internet, dan kon dat wel eens wat worden!",
+		"truncated": false,
+		"display_text_range": [
+			42,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Luukros",
+					"name": "Luuk Ros ♻️",
+					"id": 22533801,
+					"id_str": "22533801",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "IndiraReynaert",
+					"name": "Indira Reynaert MA MEd",
+					"id": 3408191,
+					"id_str": "3408191",
+					"indices": [
+						9,
+						24
+					]
+				},
+				{
+					"screen_name": "DannyOosterveer",
+					"name": "Danny Oosterveer",
+					"id": 91883951,
+					"id_str": "91883951",
+					"indices": [
+						25,
+						41
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1364327497773551600,
+		"in_reply_to_status_id_str": "1364327497773551620",
+		"in_reply_to_user_id": 22533801,
+		"in_reply_to_user_id_str": "22533801",
+		"in_reply_to_screen_name": "Luukros",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8894,
+			"friends_count": 711,
+			"listed_count": 555,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7456,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63974,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1614116726",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@Luukros @IndiraReynaert @DannyOosterveer Als dat allemaal kan met het internet, dan kon dat wel eens wat worden!"
+	},
+	{
+		"created_at": "Tue Feb 23 21:46:23 +0000 2021",
+		"id": 1364330792520994800,
+		"id_str": "1364330792520994817",
+		"full_text": "@freek_janssen @KAFygi @Popmartijn @PJMirella @Scheer @Beusdotcom @skoopnl Dank voor deze nieuwe header op mijn Twitter profiel 😂😂😂",
+		"truncated": false,
+		"display_text_range": [
+			75,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "freek_janssen",
+					"name": "uǝssuɐɾ‾ʞǝǝɹɟ@",
+					"id": 71275737,
+					"id_str": "71275737",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "KAFygi",
+					"name": "Kari-Anne Fygi 📚",
+					"id": 8242152,
+					"id_str": "8242152",
+					"indices": [
+						15,
+						22
+					]
+				},
+				{
+					"screen_name": "Popmartijn",
+					"name": "Martijn Janssen",
+					"id": 478116264,
+					"id_str": "478116264",
+					"indices": [
+						23,
+						34
+					]
+				},
+				{
+					"screen_name": "PJMirella",
+					"name": "Mirella van der Made",
+					"id": 62478457,
+					"id_str": "62478457",
+					"indices": [
+						35,
+						45
+					]
+				},
+				{
+					"screen_name": "Scheer",
+					"name": "Maarten Scheer",
+					"id": 6294872,
+					"id_str": "6294872",
+					"indices": [
+						46,
+						53
+					]
+				},
+				{
+					"screen_name": "Beusdotcom",
+					"name": "Pascal van Beusekom",
+					"id": 53728911,
+					"id_str": "53728911",
+					"indices": [
+						54,
+						65
+					]
+				},
+				{
+					"screen_name": "skoopnl",
+					"name": "Stefan Koopmanschap | ꓘINK",
+					"id": 179001722,
+					"id_str": "179001722",
+					"indices": [
+						66,
+						74
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1364316343227588600,
+		"in_reply_to_status_id_str": "1364316343227588609",
+		"in_reply_to_user_id": 71275737,
+		"in_reply_to_user_id_str": "71275737",
+		"in_reply_to_screen_name": "freek_janssen",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8894,
+			"friends_count": 711,
+			"listed_count": 555,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7456,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63974,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1614116726",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@freek_janssen @KAFygi @Popmartijn @PJMirella @Scheer @Beusdotcom @skoopnl Dank voor deze nieuwe header op mijn Twitter profiel 😂😂😂"
+	},
+	{
+		"created_at": "Tue Feb 23 21:32:05 +0000 2021",
+		"id": 1364327192780497000,
+		"id_str": "1364327192780496897",
+		"full_text": "@Luukros @IndiraReynaert @DannyOosterveer Ja maar Clubhouse!",
+		"truncated": false,
+		"display_text_range": [
+			42,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Luukros",
+					"name": "Luuk Ros ♻️",
+					"id": 22533801,
+					"id_str": "22533801",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "IndiraReynaert",
+					"name": "Indira Reynaert MA MEd",
+					"id": 3408191,
+					"id_str": "3408191",
+					"indices": [
+						9,
+						24
+					]
+				},
+				{
+					"screen_name": "DannyOosterveer",
+					"name": "Danny Oosterveer",
+					"id": 91883951,
+					"id_str": "91883951",
+					"indices": [
+						25,
+						41
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1364321136843120600,
+		"in_reply_to_status_id_str": "1364321136843120647",
+		"in_reply_to_user_id": 22533801,
+		"in_reply_to_user_id_str": "22533801",
+		"in_reply_to_screen_name": "Luukros",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8894,
+			"friends_count": 711,
+			"listed_count": 555,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7456,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63974,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1614116726",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@Luukros @IndiraReynaert @DannyOosterveer Ja maar Clubhouse!"
+	},
+	{
 		"created_at": "Tue Feb 23 20:47:55 +0000 2021",
 		"id": 1364316076247576600,
 		"id_str": "1364316076247576582",
