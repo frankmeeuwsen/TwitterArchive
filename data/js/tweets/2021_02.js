@@ -1,6 +1,178 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Tue Feb 23 06:06:32 +0000 2021",
+		"id": 1363990675537076200,
+		"id_str": "1364094269879943174",
+		"full_text": "We've launched a small contextual link to @revue when composing a thread on web.\n\nIt's just a link, but it's emblematic of our intention to bring newsletters closer to the Twitter experience 🚀 https://t.co/KUpM6h3K2y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "revue",
+					"name": "Revue",
+					"id": 3001165942,
+					"id_str": "3001165942",
+					"indices": [
+						42,
+						48
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1363990021443776500,
+					"id_str": "1363990021443776514",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/Eu3dsqFVcAIAnKq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eu3dsqFVcAIAnKq.jpg",
+					"url": "https://t.co/KUpM6h3K2y",
+					"display_url": "pic.twitter.com/KUpM6h3K2y",
+					"expanded_url": "https://twitter.com/mep/status/1363990675537076235/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 300,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 529,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1884,
+							"h": 830,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1363990021443776500,
+					"id_str": "1363990021443776514",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/Eu3dsqFVcAIAnKq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eu3dsqFVcAIAnKq.jpg",
+					"url": "https://t.co/KUpM6h3K2y",
+					"display_url": "pic.twitter.com/KUpM6h3K2y",
+					"expanded_url": "https://twitter.com/mep/status/1363990675537076235/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 300,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 529,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1884,
+							"h": 830,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 29127028,
+			"id_str": "29127028",
+			"name": "Mike Park",
+			"screen_name": "mep",
+			"location": "Iowa & Brooklyn",
+			"description": "Product VP @Twitter focused on creators & longform. Co-creator Twitter Amplify. Prior: music startup-er, options trader, unemployed drummer, miler @DukeTFXC.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4238,
+			"friends_count": 2177,
+			"listed_count": 88,
+			"created_at": "Mon Apr 06 02:36:57 +0000 2009",
+			"favourites_count": 10009,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5352,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "383838",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1204095438196027398/jA3QZL8e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1204095438196027398/jA3QZL8e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/29127028/1469070467",
+			"profile_link_color": "108EAD",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C9C9C9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 110,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We've launched a small contextual link to @revue when composing a thread on web.\n\nIt's just a link, but it's emblematic of our intention to bring newsletters closer to the Twitter experience 🚀 https://t.co/KUpM6h3K2y"
+	},
+	{
 		"created_at": "Mon Feb 22 19:42:35 +0000 2021",
 		"id": 1363937248958414800,
 		"id_str": "1363937248958414851",
