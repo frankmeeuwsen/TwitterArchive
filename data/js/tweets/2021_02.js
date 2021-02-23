@@ -1,6 +1,282 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Tue Feb 23 20:08:32 +0000 2021",
+		"id": 1364306167044984800,
+		"id_str": "1364306167044984838",
+		"full_text": "Zijn tweet klopt. https://t.co/yAiGf6329Q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yAiGf6329Q",
+					"expanded_url": "https://twitter.com/freek_janssen/status/1364301098178252809",
+					"display_url": "twitter.com/freek_janssen/…",
+					"indices": [
+						18,
+						41
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8891,
+			"friends_count": 709,
+			"listed_count": 555,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7447,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63967,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1613162785",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1364301098178252800,
+		"quoted_status_id_str": "1364301098178252809",
+		"quoted_status_permalink": {
+			"url": "https://t.co/yAiGf6329Q",
+			"expanded": "https://twitter.com/freek_janssen/status/1364301098178252809",
+			"display": "twitter.com/freek_janssen/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Feb 23 19:48:23 +0000 2021",
+			"id": 1364301098178252800,
+			"id_str": "1364301098178252809",
+			"full_text": "We zijn amper een halfuur verder of de eerste keer 'keiharde porno' is alweer gevallen. @frankmeeuwsen @Scheer @Beusdotcom @skoopnl https://t.co/PxX8UuAnXe",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				131
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "frankmeeuwsen",
+						"name": "Frank Meeuwsen",
+						"id": 816203,
+						"id_str": "816203",
+						"indices": [
+							88,
+							102
+						]
+					},
+					{
+						"screen_name": "Scheer",
+						"name": "Maarten Scheer",
+						"id": 6294872,
+						"id_str": "6294872",
+						"indices": [
+							103,
+							110
+						]
+					},
+					{
+						"screen_name": "Beusdotcom",
+						"name": "Pascal van Beusekom",
+						"id": 53728911,
+						"id_str": "53728911",
+						"indices": [
+							111,
+							122
+						]
+					},
+					{
+						"screen_name": "skoopnl",
+						"name": "Stefan Koopmanschap | ꓘINK",
+						"id": 179001722,
+						"id_str": "179001722",
+						"indices": [
+							123,
+							131
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/PxX8UuAnXe",
+						"expanded_url": "https://twitter.com/Popmartijn/status/1364293379241213960",
+						"display_url": "twitter.com/Popmartijn/sta…",
+						"indices": [
+							132,
+							155
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 71275737,
+				"id_str": "71275737",
+				"name": "uǝssuɐɾ‾ʞǝǝɹɟ@",
+				"screen_name": "freek_janssen",
+				"location": "Netherlands",
+				"description": "Freek Janssen, voor de broodnodige nuance. Altijd wakker met @ndrgwrdrdldjs in mijn hoofd. Content mens @Philips.",
+				"url": "https://t.co/9sGDbO5QkI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9sGDbO5QkI",
+								"expanded_url": "http://www.ondergewaardeerdeliedjes.nl",
+								"display_url": "ondergewaardeerdeliedjes.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2139,
+				"friends_count": 1129,
+				"listed_count": 106,
+				"created_at": "Thu Sep 03 15:08:24 +0000 2009",
+				"favourites_count": 4946,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 42000,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1250407295340752897/wAy5bpmX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1250407295340752897/wAy5bpmX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/71275737/1421059954",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1364293379241214000,
+			"quoted_status_id_str": "1364293379241213960",
+			"quoted_status_permalink": {
+				"url": "https://t.co/PxX8UuAnXe",
+				"expanded": "https://twitter.com/Popmartijn/status/1364293379241213960",
+				"display": "twitter.com/Popmartijn/sta…"
+			},
+			"retweet_count": 0,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Zijn tweet klopt. https://t.co/yAiGf6329Q"
+	},
+	{
 		"created_at": "Tue Feb 23 18:08:47 +0000 2021",
 		"id": 1364276029867630600,
 		"id_str": "1364276029867630601",
