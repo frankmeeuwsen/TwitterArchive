@@ -1,6 +1,518 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Tue Feb 23 13:13:41 +0000 2021",
+		"id": 1364201767148347400,
+		"id_str": "1364201767148347393",
+		"full_text": "Ik ga vanavond met mede-Pearl Jam fans voor een podcast een paar uur nerden over de band en hun ondergewaardeerde tracks. En ik heb me daar toch een partij zin in! https://t.co/xbsX8zf8S1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1364201759728664600,
+					"id_str": "1364201759728664577",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Eu6eRcqXAAEC35P.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Eu6eRcqXAAEC35P.jpg",
+					"url": "https://t.co/xbsX8zf8S1",
+					"display_url": "pic.twitter.com/xbsX8zf8S1",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1364201767148347393/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 498,
+							"h": 272,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 272,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 272,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1364201759728664600,
+					"id_str": "1364201759728664577",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Eu6eRcqXAAEC35P.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Eu6eRcqXAAEC35P.jpg",
+					"url": "https://t.co/xbsX8zf8S1",
+					"display_url": "pic.twitter.com/xbsX8zf8S1",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1364201767148347393/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 498,
+							"h": 272,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 272,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 272,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							136
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Eu6eRcqXAAEC35P.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8891,
+			"friends_count": 708,
+			"listed_count": 555,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7436,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63960,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1613162785",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Ik ga vanavond met mede-Pearl Jam fans voor een podcast een paar uur nerden over de band en hun ondergewaardeerde tracks. En ik heb me daar toch een partij zin in! https://t.co/xbsX8zf8S1"
+	},
+	{
+		"created_at": "Tue Feb 23 13:07:42 +0000 2021",
+		"id": 1364200262588588000,
+		"id_str": "1364200262588588040",
+		"full_text": "@Schellevis Even naar Erwin luisteren dan. Het kan ook anders. https://t.co/iUbiS6Acef",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Schellevis",
+					"name": "Joost Schellevis",
+					"id": 6043092,
+					"id_str": "6043092",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/iUbiS6Acef",
+					"expanded_url": "https://twitter.com/erwblo/status/1364199702741344256",
+					"display_url": "twitter.com/erwblo/status/…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1364197418896613400,
+		"in_reply_to_status_id_str": "1364197418896613378",
+		"in_reply_to_user_id": 6043092,
+		"in_reply_to_user_id_str": "6043092",
+		"in_reply_to_screen_name": "Schellevis",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8891,
+			"friends_count": 708,
+			"listed_count": 555,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7436,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63960,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1613162785",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1364199702741344300,
+		"quoted_status_id_str": "1364199702741344256",
+		"quoted_status_permalink": {
+			"url": "https://t.co/iUbiS6Acef",
+			"expanded": "https://twitter.com/erwblo/status/1364199702741344256",
+			"display": "twitter.com/erwblo/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Feb 23 13:05:29 +0000 2021",
+			"id": 1364199702741344300,
+			"id_str": "1364199702741344256",
+			"full_text": "Wil je zien hoe simpel het is om met @SpreadSimpleHQ obv een spreadsheet een online shop te maken? Maandag 1 maart heb je drie kansen om dit gratis te zien en leren! Meld je aan! https://t.co/gaqFp56zSW https://t.co/nxo4ZrDQyp",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				202
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "SpreadSimpleHQ",
+						"name": "SpreadSimple",
+						"id": 1279112908534878200,
+						"id_str": "1279112908534878209",
+						"indices": [
+							37,
+							52
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/gaqFp56zSW",
+						"expanded_url": "https://productschool.ewebinar.com/webinar/leer-gratis-binnen-een-uur-een-online-shop-te-maken-731",
+						"display_url": "productschool.ewebinar.com/webinar/leer-g…",
+						"indices": [
+							179,
+							202
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1364199626027528200,
+						"id_str": "1364199626027528192",
+						"indices": [
+							203,
+							226
+						],
+						"media_url": "http://pbs.twimg.com/media/Eu6cVQAXcAAhoyn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Eu6cVQAXcAAhoyn.jpg",
+						"url": "https://t.co/nxo4ZrDQyp",
+						"display_url": "pic.twitter.com/nxo4ZrDQyp",
+						"expanded_url": "https://twitter.com/erwblo/status/1364199702741344256/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2040,
+								"h": 924,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 308,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 544,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1364199626027528200,
+						"id_str": "1364199626027528192",
+						"indices": [
+							203,
+							226
+						],
+						"media_url": "http://pbs.twimg.com/media/Eu6cVQAXcAAhoyn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Eu6cVQAXcAAhoyn.jpg",
+						"url": "https://t.co/nxo4ZrDQyp",
+						"display_url": "pic.twitter.com/nxo4ZrDQyp",
+						"expanded_url": "https://twitter.com/erwblo/status/1364199702741344256/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2040,
+								"h": 924,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 308,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 544,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 713333,
+				"id_str": "713333",
+				"name": "Erwin Blom",
+				"screen_name": "erwblo",
+				"location": "Amsterdam. Netherlands",
+				"description": "Media & Innovation. (Co-)Founder of @fastmoving, @tistv and @productschoolNL plus: 'different kind of tune vocalist' of Eton Crop.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 35340,
+				"friends_count": 6411,
+				"listed_count": 1134,
+				"created_at": "Sat Jan 27 08:39:45 +0000 2007",
+				"favourites_count": 19861,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 209137,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/611811780780625920/2O7Fqt6i_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/611811780780625920/2O7Fqt6i_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/713333/1606043106",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@Schellevis Even naar Erwin luisteren dan. Het kan ook anders. https://t.co/iUbiS6Acef"
+	},
+	{
 		"created_at": "Tue Feb 23 12:14:38 +0000 2021",
 		"id": 1364183252391645200,
 		"id_str": "1364186907983441921",
