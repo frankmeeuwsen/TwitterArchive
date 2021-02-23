@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Tue Feb 23 12:14:38 +0000 2021",
+		"id": 1364183252391645200,
+		"id_str": "1364186907983441921",
+		"full_text": "As a...\n– Telegram user\nI want to...\n– be notified when anyone in my contacts joins\nSo that...\n– my inbox is filled with messages informing me that my ex-girlfriend, my old landlord, the guy who bought my playstation 3, and “Dave Plumber” are available to chat https://t.co/enMRBDii8l",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1364183244330180600,
+					"id_str": "1364183244330180613",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/Eu6NbtbXIAUrgXj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eu6NbtbXIAUrgXj.jpg",
+					"url": "https://t.co/enMRBDii8l",
+					"display_url": "pic.twitter.com/enMRBDii8l",
+					"expanded_url": "https://twitter.com/shituserstories/status/1364183252391645184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1160,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1364183244330180600,
+					"id_str": "1364183244330180613",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/Eu6NbtbXIAUrgXj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eu6NbtbXIAUrgXj.jpg",
+					"url": "https://t.co/enMRBDii8l",
+					"display_url": "pic.twitter.com/enMRBDii8l",
+					"expanded_url": "https://twitter.com/shituserstories/status/1364183252391645184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1160,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.hubspot.com/\" rel=\"nofollow\">HubSpot</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1351114532408668200,
+			"id_str": "1351114532408668163",
+			"name": "Shit User Stories",
+			"screen_name": "shituserstories",
+			"location": "The cesspit that is the web",
+			"description": "Do better.",
+			"url": "https://t.co/bWWJUea1UG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bWWJUea1UG",
+							"expanded_url": "https://www.instagram.com/shituserstories/",
+							"display_url": "instagram.com/shituserstorie…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46432,
+			"friends_count": 0,
+			"listed_count": 221,
+			"created_at": "Mon Jan 18 10:29:50 +0000 2021",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 95,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1351120550060556295/9sxc5mHH_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1351120550060556295/9sxc5mHH_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1351114532408668163/1610967190",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 118,
+		"favorite_count": 468,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "As a...\n– Telegram user\nI want to...\n– be notified when anyone in my contacts joins\nSo that...\n– my inbox is filled with messages informing me that my ex-girlfriend, my old landlord, the guy who bought my playstation 3, and “Dave Plumber” are available to chat https://t.co/enMRBDii8l"
+	},
+	{
 		"created_at": "Tue Feb 23 08:07:54 +0000 2021",
 		"id": 1364124813548224500,
 		"id_str": "1364124813548224517",
