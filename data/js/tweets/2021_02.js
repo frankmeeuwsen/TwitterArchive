@@ -1,6 +1,182 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Tue Feb 23 20:47:55 +0000 2021",
+		"id": 1364316076247576600,
+		"id_str": "1364316076247576582",
+		"full_text": "@freek_janssen @KAFygi @Popmartijn @PJMirella @Scheer @Beusdotcom @skoopnl Ik zou het geen dreinen noemen. Eerder suggestief de podcast een kant op sturen....",
+		"truncated": false,
+		"display_text_range": [
+			75,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "freek_janssen",
+					"name": "uǝssuɐɾ‾ʞǝǝɹɟ@",
+					"id": 71275737,
+					"id_str": "71275737",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "KAFygi",
+					"name": "Kari-Anne Fygi 📚",
+					"id": 8242152,
+					"id_str": "8242152",
+					"indices": [
+						15,
+						22
+					]
+				},
+				{
+					"screen_name": "Popmartijn",
+					"name": "Martijn Janssen",
+					"id": 478116264,
+					"id_str": "478116264",
+					"indices": [
+						23,
+						34
+					]
+				},
+				{
+					"screen_name": "PJMirella",
+					"name": "Mirella van der Made",
+					"id": 62478457,
+					"id_str": "62478457",
+					"indices": [
+						35,
+						45
+					]
+				},
+				{
+					"screen_name": "Scheer",
+					"name": "Maarten Scheer",
+					"id": 6294872,
+					"id_str": "6294872",
+					"indices": [
+						46,
+						53
+					]
+				},
+				{
+					"screen_name": "Beusdotcom",
+					"name": "Pascal van Beusekom",
+					"id": 53728911,
+					"id_str": "53728911",
+					"indices": [
+						54,
+						65
+					]
+				},
+				{
+					"screen_name": "skoopnl",
+					"name": "Stefan Koopmanschap | ꓘINK",
+					"id": 179001722,
+					"id_str": "179001722",
+					"indices": [
+						66,
+						74
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1364314914622484500,
+		"in_reply_to_status_id_str": "1364314914622484480",
+		"in_reply_to_user_id": 71275737,
+		"in_reply_to_user_id_str": "71275737",
+		"in_reply_to_screen_name": "freek_janssen",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract\nNieuwsbriefgeek: https://t.co/ODgIUUbnBR / @ForSubscribing\nCheck ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfers. ⬇️\n\n#PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ODgIUUbnBR",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8893,
+			"friends_count": 709,
+			"listed_count": 555,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7450,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63969,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1613162785",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@freek_janssen @KAFygi @Popmartijn @PJMirella @Scheer @Beusdotcom @skoopnl Ik zou het geen dreinen noemen. Eerder suggestief de podcast een kant op sturen...."
+	},
+	{
 		"created_at": "Tue Feb 23 20:08:32 +0000 2021",
 		"id": 1364306167044984800,
 		"id_str": "1364306167044984838",
