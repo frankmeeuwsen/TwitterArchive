@@ -1,6 +1,322 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Thu Feb 25 21:26:25 +0000 2021",
+		"id": 1365050542150602800,
+		"id_str": "1365050542150602752",
+		"full_text": "@Beusdotcom @freek_janssen @PJMirella @Popmartijn @KAFygi @Scheer @skoopnl Ik ben er sinds gisteren weer uit. Maar draai natuurlijk gewoon Lukin. Omdat het kan! https://t.co/uuT3UExn73",
+		"truncated": false,
+		"display_text_range": [
+			75,
+			184
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Beusdotcom",
+					"name": "Pascal van Beusekom",
+					"id": 53728911,
+					"id_str": "53728911",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "freek_janssen",
+					"name": "uǝssuɐɾ‾ʞǝǝɹɟ@",
+					"id": 71275737,
+					"id_str": "71275737",
+					"indices": [
+						12,
+						26
+					]
+				},
+				{
+					"screen_name": "PJMirella",
+					"name": "Mirella van der Made",
+					"id": 62478457,
+					"id_str": "62478457",
+					"indices": [
+						27,
+						37
+					]
+				},
+				{
+					"screen_name": "Popmartijn",
+					"name": "Martijn Janssen",
+					"id": 478116264,
+					"id_str": "478116264",
+					"indices": [
+						38,
+						49
+					]
+				},
+				{
+					"screen_name": "KAFygi",
+					"name": "Kari-Anne Fygi 💈",
+					"id": 8242152,
+					"id_str": "8242152",
+					"indices": [
+						50,
+						57
+					]
+				},
+				{
+					"screen_name": "Scheer",
+					"name": "Maarten Scheer",
+					"id": 6294872,
+					"id_str": "6294872",
+					"indices": [
+						58,
+						65
+					]
+				},
+				{
+					"screen_name": "skoopnl",
+					"name": "Stefan Koopmanschap | ꓘINK",
+					"id": 179001722,
+					"id_str": "179001722",
+					"indices": [
+						66,
+						74
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/uuT3UExn73",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1364568640830455811",
+					"display_url": "twitter.com/frankmeeuwsen/…",
+					"indices": [
+						161,
+						184
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1365049439979778000,
+		"in_reply_to_status_id_str": "1365049439979778049",
+		"in_reply_to_user_id": 53728911,
+		"in_reply_to_user_id_str": "53728911",
+		"in_reply_to_screen_name": "Beusdotcom",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8893,
+			"friends_count": 712,
+			"listed_count": 555,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7466,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64005,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1614116726",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1364568640830455800,
+		"quoted_status_id_str": "1364568640830455811",
+		"quoted_status_permalink": {
+			"url": "https://t.co/uuT3UExn73",
+			"expanded": "https://twitter.com/frankmeeuwsen/status/1364568640830455811",
+			"display": "twitter.com/frankmeeuwsen/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 24 13:31:31 +0000 2021",
+			"id": 1364568640830455800,
+			"id_str": "1364568640830455811",
+			"full_text": "Clubhouse gesloten. Verzoek gedaan om account te verwijderen. Uitgelogd. App verwijderd. Klaar. \n\nIk nam de verkeerde beslissing een paar weken terug  om toch een account te nemen. Laat Clubhouse de boel eerst op orde krijgen. Dan kijken we weer verder. https://t.co/R6utb6UGHC",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				253
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/R6utb6UGHC",
+						"expanded_url": "https://twitter.com/chelseycolbert/status/1362821678926077957",
+						"display_url": "twitter.com/chelseycolbert…",
+						"indices": [
+							254,
+							277
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 816203,
+				"id_str": "816203",
+				"name": "Frank Meeuwsen",
+				"screen_name": "frankmeeuwsen",
+				"location": "Utrecht, the Netherlands",
+				"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+				"url": "https://t.co/6YB8i11ryl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6YB8i11ryl",
+								"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+								"display_url": "diggingthedigital.com/nieuwsbrief",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/VH3v4gLIpG",
+								"expanded_url": "http://Thanksforsubscribing.app/",
+								"display_url": "Thanksforsubscribing.app",
+								"indices": [
+									40,
+									63
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 8893,
+				"friends_count": 712,
+				"listed_count": 555,
+				"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+				"favourites_count": 7466,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 64005,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "709397",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1614116726",
+				"profile_link_color": "FF3300",
+				"profile_sidebar_border_color": "86A4A6",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1362821678926078000,
+			"quoted_status_id_str": "1362821678926077957",
+			"quoted_status_permalink": {
+				"url": "https://t.co/R6utb6UGHC",
+				"expanded": "https://twitter.com/chelseycolbert/status/1362821678926077957",
+				"display": "twitter.com/chelseycolbert…"
+			},
+			"retweet_count": 3,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@Beusdotcom @freek_janssen @PJMirella @Popmartijn @KAFygi @Scheer @skoopnl Ik ben er sinds gisteren weer uit. Maar draai natuurlijk gewoon Lukin. Omdat het kan! https://t.co/uuT3UExn73"
+	},
+	{
 		"created_at": "Thu Feb 25 20:48:48 +0000 2021",
 		"id": 1365041078404067300,
 		"id_str": "1365041078404067334",
