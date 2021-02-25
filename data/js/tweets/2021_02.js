@@ -1,6 +1,302 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Thu Feb 25 18:21:59 +0000 2021",
+		"id": 1365004127026217000,
+		"id_str": "1365004127026216961",
+		"full_text": "Wat een hoop interessante bewegingen op Twitter de laatste tijd. https://t.co/BRjribEJTU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BRjribEJTU",
+					"expanded_url": "https://twitter.com/thehustle/status/1365001717297778688",
+					"display_url": "twitter.com/thehustle/stat…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8892,
+			"friends_count": 712,
+			"listed_count": 555,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7463,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63998,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1614116726",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1365001717297778700,
+		"quoted_status_id_str": "1365001717297778688",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BRjribEJTU",
+			"expanded": "https://twitter.com/thehustle/status/1365001717297778688",
+			"display": "twitter.com/thehustle/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Feb 25 18:12:24 +0000 2021",
+			"id": 1365001717297778700,
+			"id_str": "1365001717297778688",
+			"full_text": "Twitter announced the rollout of their new feature, 'Super Follows.'\n\nHere, users will be able to monetize exclusive content. https://t.co/MVe3uW5U3J",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				125
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1365001239298273300,
+						"id_str": "1365001239298273282",
+						"indices": [
+							126,
+							149
+						],
+						"media_url": "http://pbs.twimg.com/media/EvF1ZSJXcAIFzPL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EvF1ZSJXcAIFzPL.jpg",
+						"url": "https://t.co/MVe3uW5U3J",
+						"display_url": "pic.twitter.com/MVe3uW5U3J",
+						"expanded_url": "https://twitter.com/TheHustle/status/1365001717297778688/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 964,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1320,
+								"h": 1060,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 546,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1365001239298273300,
+						"id_str": "1365001239298273282",
+						"indices": [
+							126,
+							149
+						],
+						"media_url": "http://pbs.twimg.com/media/EvF1ZSJXcAIFzPL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EvF1ZSJXcAIFzPL.jpg",
+						"url": "https://t.co/MVe3uW5U3J",
+						"display_url": "pic.twitter.com/MVe3uW5U3J",
+						"expanded_url": "https://twitter.com/TheHustle/status/1365001717297778688/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 964,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1320,
+								"h": 1060,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 546,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1408727533,
+				"id_str": "1408727533",
+				"name": "The Hustle",
+				"screen_name": "TheHustle",
+				"location": "Austin, TX",
+				"description": "Follow us to get a grip on what's happening in business and tech daily.",
+				"url": "https://t.co/5sF1stt8Nu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5sF1stt8Nu",
+								"expanded_url": "https://linktr.ee/thehustledaily",
+								"display_url": "linktr.ee/thehustledaily",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 46100,
+				"friends_count": 396,
+				"listed_count": 623,
+				"created_at": "Mon May 06 21:00:18 +0000 2013",
+				"favourites_count": 12531,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8862,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "38383D",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1120823588855013376/OBcdkRA6_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1120823588855013376/OBcdkRA6_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1408727533/1578430455",
+				"profile_link_color": "ED4D1F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 168,
+			"favorite_count": 494,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Wat een hoop interessante bewegingen op Twitter de laatste tijd. https://t.co/BRjribEJTU"
+	},
+	{
 		"created_at": "Thu Feb 25 18:17:14 +0000 2021",
 		"id": 1365002931557306400,
 		"id_str": "1365002931557306369",
