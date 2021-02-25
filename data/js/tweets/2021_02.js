@@ -1,6 +1,375 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Thu Feb 25 23:15:35 +0000 2021",
+		"id": 1365078013956792300,
+		"id_str": "1365078013956792323",
+		"full_text": "@BabyGrandpa https://t.co/HwgkZc7AAv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BabyGrandpa",
+					"name": "Baby Grandpa",
+					"id": 36064991,
+					"id_str": "36064991",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HwgkZc7AAv",
+					"expanded_url": "https://twitter.com/tracklib/status/1364656925024092165",
+					"display_url": "twitter.com/tracklib/statu…",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 36064991,
+		"in_reply_to_user_id_str": "36064991",
+		"in_reply_to_screen_name": "BabyGrandpa",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8893,
+			"friends_count": 712,
+			"listed_count": 555,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7467,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64007,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1614116726",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1364656925024092200,
+		"quoted_status_id_str": "1364656925024092165",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HwgkZc7AAv",
+			"expanded": "https://twitter.com/tracklib/status/1364656925024092165",
+			"display": "twitter.com/tracklib/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 24 19:22:19 +0000 2021",
+			"id": 1364656925024092200,
+			"id_str": "1364656925024092165",
+			"full_text": ".@BobJamesMusic on getting sampled for @OfficialRunDMC's 'Peter Piper' and how he feels about \"𝘵𝘩𝘦 𝘣𝘦𝘭𝘭𝘴\" 🔔 \n\nWatch the full interview and sample Bob James: https://t.co/LsJ7KOnT7f https://t.co/u9mxdsPkMR",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				180
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BobJamesMusic",
+						"name": "Bob James",
+						"id": 2848781853,
+						"id_str": "2848781853",
+						"indices": [
+							1,
+							15
+						]
+					},
+					{
+						"screen_name": "OfficialRunDMC",
+						"name": "RUN DMC",
+						"id": 186154690,
+						"id_str": "186154690",
+						"indices": [
+							39,
+							54
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/LsJ7KOnT7f",
+						"expanded_url": "http://bit.ly/sample-bobjames",
+						"display_url": "bit.ly/sample-bobjames",
+						"indices": [
+							157,
+							180
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1364605521475625000,
+						"id_str": "1364605521475624967",
+						"indices": [
+							181,
+							204
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1364605521475624967/pu/img/fDraYoDWmg_TVHqj.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1364605521475624967/pu/img/fDraYoDWmg_TVHqj.jpg",
+						"url": "https://t.co/u9mxdsPkMR",
+						"display_url": "pic.twitter.com/u9mxdsPkMR",
+						"expanded_url": "https://twitter.com/tracklib/status/1364656925024092165/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1364605521475625000,
+						"id_str": "1364605521475624967",
+						"indices": [
+							181,
+							204
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1364605521475624967/pu/img/fDraYoDWmg_TVHqj.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1364605521475624967/pu/img/fDraYoDWmg_TVHqj.jpg",
+						"url": "https://t.co/u9mxdsPkMR",
+						"display_url": "pic.twitter.com/u9mxdsPkMR",
+						"expanded_url": "https://twitter.com/tracklib/status/1364656925024092165/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 49483,
+							"variants": [
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1364605521475624967/pu/vid/720x720/WHhDWIDQ1UR3qTHN.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1364605521475624967/pu/pl/SZy-ScJoZ8tQPYtR.m3u8?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1364605521475624967/pu/vid/480x480/AZADq5NAj8Bz4wgu.mp4?tag=10"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1364605521475624967/pu/vid/320x320/zPz9WW9AmaUbndG6.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2192122248,
+				"id_str": "2192122248",
+				"name": "tracklib",
+				"screen_name": "tracklib",
+				"location": "",
+				"description": "Tracklib is the only service where anyone can legally clear samples from real music. From Bob James to Mozart - we got it.",
+				"url": "https://t.co/BJ0qGr5v2U",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/BJ0qGr5v2U",
+								"expanded_url": "http://tracklib.com",
+								"display_url": "tracklib.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5155,
+				"friends_count": 1305,
+				"listed_count": 31,
+				"created_at": "Wed Nov 13 11:18:08 +0000 2013",
+				"favourites_count": 1751,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1912,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1262735305708208135/qFJwO1xz_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1262735305708208135/qFJwO1xz_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2192122248/1612181910",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 28,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@BabyGrandpa https://t.co/HwgkZc7AAv"
+	},
+	{
 		"created_at": "Thu Feb 25 21:26:25 +0000 2021",
 		"id": 1365050542150602800,
 		"id_str": "1365050542150602752",
