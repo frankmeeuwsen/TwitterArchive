@@ -1,6 +1,257 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Fri Feb 26 09:06:14 +0000 2021",
+		"id": 1365226659075522600,
+		"id_str": "1365226659075522560",
+		"full_text": "30 jaar oud en nog altijd mooi. \n\nSeeing Things - Live - Atlanta, December 1990 by The Black Crowes https://t.co/YCw5mdqGrC #NowPlaying",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NowPlaying",
+					"indices": [
+						124,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YCw5mdqGrC",
+					"expanded_url": "https://open.spotify.com/track/4i83wmvbLMJbsMTQXpdNuS?si=qow-N4tkR5mGXQ_NjO3Oug",
+					"display_url": "open.spotify.com/track/4i83wmvb…",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8894,
+			"friends_count": 712,
+			"listed_count": 555,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7467,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64010,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1614116726",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "30 jaar oud en nog altijd mooi. \n\nSeeing Things - Live - Atlanta, December 1990 by The Black Crowes https://t.co/YCw5mdqGrC #NowPlaying"
+	},
+	{
+		"created_at": "Fri Feb 26 09:05:04 +0000 2021",
+		"id": 1365226365428113400,
+		"id_str": "1365226365428113409",
+		"full_text": "@patrickloonstra Klopt, ze hebben de Newspack plugin gepubliceerd. Zie https://t.co/kyXoB4FxhS",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "patrickloonstra",
+					"name": "Patrick 🕶",
+					"id": 9647022,
+					"id_str": "9647022",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kyXoB4FxhS",
+					"expanded_url": "https://diggingthedigital.com/s02e30/",
+					"display_url": "diggingthedigital.com/s02e30/",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1365225431146897400,
+		"in_reply_to_status_id_str": "1365225431146897411",
+		"in_reply_to_user_id": 9647022,
+		"in_reply_to_user_id_str": "9647022",
+		"in_reply_to_screen_name": "patrickloonstra",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8894,
+			"friends_count": 712,
+			"listed_count": 555,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7467,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64010,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1614116726",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@patrickloonstra Klopt, ze hebben de Newspack plugin gepubliceerd. Zie https://t.co/kyXoB4FxhS"
+	},
+	{
 		"created_at": "Thu Feb 25 23:15:35 +0000 2021",
 		"id": 1365078013956792300,
 		"id_str": "1365078013956792323",
