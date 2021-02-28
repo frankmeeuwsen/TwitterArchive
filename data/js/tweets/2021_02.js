@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Sun Feb 28 11:08:12 +0000 2021",
+		"id": 1365982126139728000,
+		"id_str": "1365982126139727873",
+		"full_text": "🤯vandaag jaar oud. https://t.co/nVU5z3QC9G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nVU5z3QC9G",
+					"expanded_url": "https://twitter.com/amzeratul/status/1365682631589978112",
+					"display_url": "twitter.com/amzeratul/stat…",
+					"indices": [
+						19,
+						42
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8893,
+			"friends_count": 714,
+			"listed_count": 555,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7468,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64025,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1614116726",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1365682631589978000,
+		"quoted_status_id_str": "1365682631589978112",
+		"quoted_status_permalink": {
+			"url": "https://t.co/nVU5z3QC9G",
+			"expanded": "https://twitter.com/amzeratul/status/1365682631589978112",
+			"display": "twitter.com/amzeratul/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Feb 27 15:18:07 +0000 2021",
+			"id": 1365682631589978000,
+			"id_str": "1365682631589978112",
+			"full_text": "How old were you when you realised it's called \"firmware\" because it's halfway between \"hardware\" and \"software\"?",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				113
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 30518499,
+				"id_str": "30518499",
+				"name": "Rodrigo Monteiro",
+				"screen_name": "amzeratul",
+				"location": "London, UK",
+				"description": "CTO @ChucklefishLTD. Lead Programmer on Witchbrook, @WargrooveGame, Halley Game Engine & Aegisub. ❤️ C++ / Game Engines ❤️. BAFTA Member. He/Him. 🇪🇺",
+				"url": "https://t.co/zmtgTqUifg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zmtgTqUifg",
+								"expanded_url": "https://linktr.ee/rodrigo.monteiro",
+								"display_url": "linktr.ee/rodrigo.montei…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7037,
+				"friends_count": 2207,
+				"listed_count": 161,
+				"created_at": "Sat Apr 11 20:35:57 +0000 2009",
+				"favourites_count": 17982,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 37991,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1114883837299974144/Dc6Q2rUY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1114883837299974144/Dc6Q2rUY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/30518499/1517752415",
+				"profile_link_color": "A03030",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1046,
+			"favorite_count": 8853,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "🤯vandaag jaar oud. https://t.co/nVU5z3QC9G"
+	},
+	{
 		"created_at": "Sun Feb 28 07:49:05 +0000 2021",
 		"id": 1365932016030605300,
 		"id_str": "1365932016030605314",
