@@ -1,6 +1,379 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Wed Mar 03 21:45:00 +0000 2021",
+		"id": 1367229548241240000,
+		"id_str": "1367229548241240065",
+		"full_text": "@erwblo @elger https://t.co/qgiSUA4LUt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "erwblo",
+					"name": "Erwin Blom",
+					"id": 713333,
+					"id_str": "713333",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "elger",
+					"name": "Elger van der Wel",
+					"id": 14142375,
+					"id_str": "14142375",
+					"indices": [
+						8,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qgiSUA4LUt",
+					"expanded_url": "https://twitter.com/TwitterNews/status/1367221537607213056",
+					"display_url": "twitter.com/TwitterNews/st…",
+					"indices": [
+						15,
+						38
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 713333,
+		"in_reply_to_user_id_str": "713333",
+		"in_reply_to_screen_name": "erwblo",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8892,
+			"friends_count": 719,
+			"listed_count": 555,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7481,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64052,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1614116726",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1367221537607213000,
+		"quoted_status_id_str": "1367221537607213056",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qgiSUA4LUt",
+			"expanded": "https://twitter.com/TwitterNews/status/1367221537607213056",
+			"display": "twitter.com/TwitterNews/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 03 21:13:10 +0000 2021",
+			"id": 1367221537607213000,
+			"id_str": "1367221537607213056",
+			"full_text": "📌 Hey journalists, want to learn more about @TwitterSpaces? Come join our #SpacesForJournalists event with @Niketa, @Kavyz, @mayagpatterson &amp; more tomorrow at 3 p.m. ET/12 p.m. PT right here on Twitter! Share questions for them ahead of time using #SpacesForJournalists https://t.co/QGfYY2JbHV",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				273
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SpacesForJournalists",
+						"indices": [
+							74,
+							95
+						]
+					},
+					{
+						"text": "SpacesForJournalists",
+						"indices": [
+							252,
+							273
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "TwitterSpaces",
+						"name": "Spaces",
+						"id": 1065249714214457300,
+						"id_str": "1065249714214457345",
+						"indices": [
+							44,
+							58
+						]
+					},
+					{
+						"screen_name": "Niketa",
+						"name": "Niketa Patel",
+						"id": 17539413,
+						"id_str": "17539413",
+						"indices": [
+							107,
+							114
+						]
+					},
+					{
+						"screen_name": "Kavyz",
+						"name": "Kavya Mohan",
+						"id": 80580527,
+						"id_str": "80580527",
+						"indices": [
+							116,
+							122
+						]
+					},
+					{
+						"screen_name": "mayagpatterson",
+						"name": "Maya Gold",
+						"id": 755887116,
+						"id_str": "755887116",
+						"indices": [
+							124,
+							139
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1367221268903317500,
+						"id_str": "1367221268903317507",
+						"indices": [
+							274,
+							297
+						],
+						"media_url": "http://pbs.twimg.com/media/EvlYgA5XUAMNdS6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EvlYgA5XUAMNdS6.jpg",
+						"url": "https://t.co/QGfYY2JbHV",
+						"display_url": "pic.twitter.com/QGfYY2JbHV",
+						"expanded_url": "https://twitter.com/TwitterNews/status/1367221537607213056/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1200,
+								"h": 600,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 600,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1367221268903317500,
+						"id_str": "1367221268903317507",
+						"indices": [
+							274,
+							297
+						],
+						"media_url": "http://pbs.twimg.com/media/EvlYgA5XUAMNdS6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EvlYgA5XUAMNdS6.jpg",
+						"url": "https://t.co/QGfYY2JbHV",
+						"display_url": "pic.twitter.com/QGfYY2JbHV",
+						"expanded_url": "https://twitter.com/TwitterNews/status/1367221537607213056/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1200,
+								"h": 600,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 600,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 372575989,
+				"id_str": "372575989",
+				"name": "Twitter News",
+				"screen_name": "TwitterNews",
+				"location": "Newsrooms everywhere",
+				"description": "Spotlighting best practices and innovative uses of Twitter by journalists and newsrooms.",
+				"url": "https://t.co/ZJ2tqfNy3t",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ZJ2tqfNy3t",
+								"expanded_url": "https://media.twitter.com/news",
+								"display_url": "media.twitter.com/news",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2805008,
+				"friends_count": 66,
+				"listed_count": 5479,
+				"created_at": "Tue Sep 13 01:06:02 +0000 2011",
+				"favourites_count": 751,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 9195,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1354489023780118531/1SHtaMZI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1354489023780118531/1SHtaMZI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/372575989/1611793345",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 36,
+			"favorite_count": 90,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@erwblo @elger https://t.co/qgiSUA4LUt"
+	},
+	{
 		"created_at": "Wed Mar 03 19:50:21 +0000 2021",
 		"id": 1367200696022552600,
 		"id_str": "1367200696022552577",
