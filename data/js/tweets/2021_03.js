@@ -1,6 +1,571 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Fri Mar 05 18:57:53 +0000 2021",
+		"id": 1367912267115823000,
+		"id_str": "1367912267115823108",
+		"full_text": "Lowlands India tent. Met een biertje langslopen en toch blijven hangen vanwege de bliepjes. Naderhand wekenlang bij iedereen door de strot duwen want fabuleus. 🥔 https://t.co/qg2e0Ymv8M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qg2e0Ymv8M",
+					"expanded_url": "https://twitter.com/thejazzemu/status/1367481789376327682",
+					"display_url": "twitter.com/thejazzemu/sta…",
+					"indices": [
+						162,
+						185
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8891,
+			"friends_count": 719,
+			"listed_count": 555,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7496,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64068,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1614116726",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1367481789376327700,
+		"quoted_status_id_str": "1367481789376327682",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qg2e0Ymv8M",
+			"expanded": "https://twitter.com/thejazzemu/status/1367481789376327682",
+			"display": "twitter.com/thejazzemu/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Mar 04 14:27:19 +0000 2021",
+			"id": 1367481789376327700,
+			"id_str": "1367481789376327682",
+			"full_text": "Just made a mind-blowing discovery https://t.co/aS4k2OlnUW",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				34
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1367479840895557600,
+						"id_str": "1367479840895557634",
+						"indices": [
+							35,
+							58
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1367479840895557634/pu/img/utnoYt2THsDr6iB-.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1367479840895557634/pu/img/utnoYt2THsDr6iB-.jpg",
+						"url": "https://t.co/aS4k2OlnUW",
+						"display_url": "pic.twitter.com/aS4k2OlnUW",
+						"expanded_url": "https://twitter.com/thejazzemu/status/1367481789376327682/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1367479840895557600,
+						"id_str": "1367479840895557634",
+						"indices": [
+							35,
+							58
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1367479840895557634/pu/img/utnoYt2THsDr6iB-.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1367479840895557634/pu/img/utnoYt2THsDr6iB-.jpg",
+						"url": "https://t.co/aS4k2OlnUW",
+						"display_url": "pic.twitter.com/aS4k2OlnUW",
+						"expanded_url": "https://twitter.com/thejazzemu/status/1367481789376327682/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 131214,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1367479840895557634/pu/vid/480x270/TFak5NHb4U1tewl1.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1367479840895557634/pu/vid/640x360/zm_cGW6B_F1vNepJ.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1367479840895557634/pu/pl/pPJTudXqbg4bP0F5.m3u8?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1367479840895557634/pu/vid/1280x720/p71KSX_lRXNrKeQW.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1312022450763427800,
+				"id_str": "1312022450763427843",
+				"name": "Jazz Emu",
+				"screen_name": "thejazzemu",
+				"location": "",
+				"description": "stone cold hotshot. Listen to my FunkNuggs:",
+				"url": "https://t.co/DSWt7NGBrN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/DSWt7NGBrN",
+								"expanded_url": "http://linktr.ee/jazzemu_",
+								"display_url": "linktr.ee/jazzemu_",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8342,
+				"friends_count": 1,
+				"listed_count": 12,
+				"created_at": "Fri Oct 02 13:31:53 +0000 2020",
+				"favourites_count": 320,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 138,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1312023053912727552/eoWBrdiB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1312023053912727552/eoWBrdiB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1312022450763427843/1607946026",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3802,
+			"favorite_count": 14198,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Lowlands India tent. Met een biertje langslopen en toch blijven hangen vanwege de bliepjes. Naderhand wekenlang bij iedereen door de strot duwen want fabuleus. 🥔 https://t.co/qg2e0Ymv8M"
+	},
+	{
+		"created_at": "Fri Mar 05 18:33:46 +0000 2021",
+		"id": 1367906197190410200,
+		"id_str": "1367906197190410243",
+		"full_text": "@erwblo oh toevallig nog wat quotes in de tijdlijn. \nTijd voor een NFT Mailbrew? 😉 https://t.co/0DAqZTumtd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "erwblo",
+					"name": "Erwin Blom",
+					"id": 713333,
+					"id_str": "713333",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0DAqZTumtd",
+					"expanded_url": "https://twitter.com/sriramk/status/1367662358907162625",
+					"display_url": "twitter.com/sriramk/status…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 713333,
+		"in_reply_to_user_id_str": "713333",
+		"in_reply_to_screen_name": "erwblo",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8891,
+			"friends_count": 719,
+			"listed_count": 555,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7496,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64068,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1614116726",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1367662358907162600,
+		"quoted_status_id_str": "1367662358907162625",
+		"quoted_status_permalink": {
+			"url": "https://t.co/0DAqZTumtd",
+			"expanded": "https://twitter.com/sriramk/status/1367662358907162625",
+			"display": "twitter.com/sriramk/status…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Mar 05 02:24:50 +0000 2021",
+			"id": 1367662358907162600,
+			"id_str": "1367662358907162625",
+			"full_text": "Some clips from our NFT episode last night. Full episode coming soon 👇",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				70
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 149763,
+				"id_str": "149763",
+				"name": "Sriram Krishnan",
+				"screen_name": "sriramk",
+				"location": "San Francisco",
+				"description": "🧱 Current: @a16z.   🎤co-host @GoodTimeShowCH with @aarthir ✍️ Writing: https://t.co/VIQU0kf23z 🎙Interviews: @ObserverEffect.",
+				"url": "https://t.co/VIQU0kf23z",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/VIQU0kf23z",
+								"expanded_url": "http://sriramk.com",
+								"display_url": "sriramk.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/VIQU0kf23z",
+								"expanded_url": "http://sriramk.com",
+								"display_url": "sriramk.com",
+								"indices": [
+									71,
+									94
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 80659,
+				"friends_count": 1066,
+				"listed_count": 1564,
+				"created_at": "Fri Dec 22 06:29:50 +0000 2006",
+				"favourites_count": 99414,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 10283,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1095519365150076929/rlcY3w0e_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1095519365150076929/rlcY3w0e_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/149763/1378163043",
+				"profile_link_color": "050505",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 94,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@erwblo oh toevallig nog wat quotes in de tijdlijn. \nTijd voor een NFT Mailbrew? 😉 https://t.co/0DAqZTumtd"
+	},
+	{
 		"created_at": "Fri Mar 05 08:05:44 +0000 2021",
 		"id": 1367748146651136000,
 		"id_str": "1367748146651136001",
