@@ -1,6 +1,344 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Fri Mar 05 08:05:44 +0000 2021",
+		"id": 1367748146651136000,
+		"id_str": "1367748146651136001",
+		"full_text": "Newsletter Glue keeps improving. I'm glad I can help! https://t.co/t6JrHKXi9h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/t6JrHKXi9h",
+					"expanded_url": "https://twitter.com/NewsletterGlue/status/1367738777439891459",
+					"display_url": "twitter.com/NewsletterGlue…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8891,
+			"friends_count": 719,
+			"listed_count": 555,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7493,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64065,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1614116726",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1367738777439891500,
+		"quoted_status_id_str": "1367738777439891459",
+		"quoted_status_permalink": {
+			"url": "https://t.co/t6JrHKXi9h",
+			"expanded": "https://twitter.com/NewsletterGlue/status/1367738777439891459",
+			"display": "twitter.com/NewsletterGlue…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Mar 05 07:28:30 +0000 2021",
+			"id": 1367738777439891500,
+			"id_str": "1367738777439891459",
+			"full_text": "- Improved sent display UI when newsletter is sent.\n- Improved scheduling posts UX (now includes unschedule option) \n\nThanks @frankmeeuwsen for the suggestion! https://t.co/H006hhAM1A",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				159
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "frankmeeuwsen",
+						"name": "Frank Meeuwsen",
+						"id": 816203,
+						"id_str": "816203",
+						"indices": [
+							125,
+							139
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1367738405627465700,
+						"id_str": "1367738405627465731",
+						"indices": [
+							160,
+							183
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1367738405627465731/pu/img/5W5LpgJQCMVl5NR5.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1367738405627465731/pu/img/5W5LpgJQCMVl5NR5.jpg",
+						"url": "https://t.co/H006hhAM1A",
+						"display_url": "pic.twitter.com/H006hhAM1A",
+						"expanded_url": "https://twitter.com/NewsletterGlue/status/1367738777439891459/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 352,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 622,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1390,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1367738405627465700,
+						"id_str": "1367738405627465731",
+						"indices": [
+							160,
+							183
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1367738405627465731/pu/img/5W5LpgJQCMVl5NR5.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1367738405627465731/pu/img/5W5LpgJQCMVl5NR5.jpg",
+						"url": "https://t.co/H006hhAM1A",
+						"display_url": "pic.twitter.com/H006hhAM1A",
+						"expanded_url": "https://twitter.com/NewsletterGlue/status/1367738777439891459/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 352,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 622,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1390,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								139,
+								72
+							],
+							"duration_millis": 22733,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1367738405627465731/pu/vid/520x270/0wgeVE9gXnt8n7ua.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1367738405627465731/pu/pl/MnHlQlkJLESXIpKK.m3u8?tag=12"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1367738405627465731/pu/vid/694x360/6H_VLCRgD7YcBNZm.mp4?tag=12"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1367738405627465731/pu/vid/1390x720/cYSKRmjYzCgMHhW2.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1367738735748477000,
+			"in_reply_to_status_id_str": "1367738735748476933",
+			"in_reply_to_user_id": 1273282653773377500,
+			"in_reply_to_user_id_str": "1273282653773377536",
+			"in_reply_to_screen_name": "NewsletterGlue",
+			"user": {
+				"id": 1273282653773377500,
+				"id_str": "1273282653773377536",
+				"name": "Newsletter Glue",
+				"screen_name": "NewsletterGlue",
+				"location": "",
+				"description": "Lightweight newsletter builder inside WordPress. Built by @lesley_pizza and @ahmedfouad_e",
+				"url": "https://t.co/kq3ouoFzNy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kq3ouoFzNy",
+								"expanded_url": "https://newsletterglue.com",
+								"display_url": "newsletterglue.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 249,
+				"friends_count": 56,
+				"listed_count": 11,
+				"created_at": "Wed Jun 17 15:56:22 +0000 2020",
+				"favourites_count": 365,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 326,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1328284250714509313/OaRrawLj_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1328284250714509313/OaRrawLj_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273282653773377536/1611826659",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Newsletter Glue keeps improving. I'm glad I can help! https://t.co/t6JrHKXi9h"
+	},
+	{
 		"created_at": "Fri Mar 05 06:37:08 +0000 2021",
 		"id": 1367725849307476000,
 		"id_str": "1367725849307475972",
