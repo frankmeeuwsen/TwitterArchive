@@ -1,6 +1,193 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Wed Mar 10 18:21:33 +0000 2021",
+		"id": 1369446455333781500,
+		"id_str": "1369715062521335811",
+		"full_text": "𝘚𝘶𝘯𝘴𝘦𝘵𝘴 𝘢𝘳𝘦 𝘣𝘦𝘵𝘵𝘦𝘳 𝘰𝘯 𝘝𝘏𝘚.™ https://t.co/siK6Cqc24u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1369446415005540400,
+					"id_str": "1369446415005540365",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EwFAQkFWYA0mvrF.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EwFAQkFWYA0mvrF.jpg",
+					"url": "https://t.co/siK6Cqc24u",
+					"display_url": "pic.twitter.com/siK6Cqc24u",
+					"expanded_url": "https://twitter.com/diskettepark/status/1369446455333781511/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 540,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 540,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1369446415005540400,
+					"id_str": "1369446415005540365",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EwFAQkFWYA0mvrF.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EwFAQkFWYA0mvrF.jpg",
+					"url": "https://t.co/siK6Cqc24u",
+					"display_url": "pic.twitter.com/siK6Cqc24u",
+					"expanded_url": "https://twitter.com/diskettepark/status/1369446455333781511/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 540,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 540,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 400,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							27,
+							20
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EwFAQkFWYA0mvrF.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1069658419706114000,
+			"id_str": "1069658419706114049",
+			"name": "👥",
+			"screen_name": "diskettepark",
+			"location": "New Orleans",
+			"description": "Sound/GIF/VHS/Glitch/Retrotech\nsom3ry@gmail.com",
+			"url": "https://t.co/NL5UUPl47V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NL5UUPl47V",
+							"expanded_url": "https://foundation.app/nlite",
+							"display_url": "foundation.app/nlite",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1358,
+			"friends_count": 377,
+			"listed_count": 11,
+			"created_at": "Mon Dec 03 18:23:35 +0000 2018",
+			"favourites_count": 13955,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9721,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1101525788153790464/dStY8hRT_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101525788153790464/dStY8hRT_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1069658419706114049/1567968639",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 66,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "𝘚𝘶𝘯𝘴𝘦𝘵𝘴 𝘢𝘳𝘦 𝘣𝘦𝘵𝘵𝘦𝘳 𝘰𝘯 𝘝𝘏𝘚.™ https://t.co/siK6Cqc24u"
+	},
+	{
 		"created_at": "Wed Mar 10 18:15:10 +0000 2021",
 		"id": 1369713455066980400,
 		"id_str": "1369713455066980362",
