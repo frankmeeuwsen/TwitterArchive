@@ -1,6 +1,232 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Sat Mar 13 10:59:09 +0000 2021",
+		"id": 1370690890969272300,
+		"id_str": "1370690890969272322",
+		"full_text": "Waarom het initiatief van Gordon niet kan werken en wat een alternatief kan zijn: https://t.co/RAK2BqBiTf https://t.co/beY4jYqO3b",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RAK2BqBiTf",
+					"expanded_url": "https://diggingthedigital.com/waarom-een-online-identiteitsbewijs-niet-werkt/",
+					"display_url": "diggingthedigital.com/waarom-een-onl…",
+					"indices": [
+						82,
+						105
+					]
+				},
+				{
+					"url": "https://t.co/beY4jYqO3b",
+					"expanded_url": "https://twitter.com/nicolebus/status/1370328415388250113",
+					"display_url": "twitter.com/nicolebus/stat…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8891,
+			"friends_count": 721,
+			"listed_count": 555,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7540,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64147,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1615141708",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1370328415388250000,
+		"quoted_status_id_str": "1370328415388250113",
+		"quoted_status_permalink": {
+			"url": "https://t.co/beY4jYqO3b",
+			"expanded": "https://twitter.com/nicolebus/status/1370328415388250113",
+			"display": "twitter.com/nicolebus/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Mar 12 10:58:48 +0000 2021",
+			"id": 1370328415388250000,
+			"id_str": "1370328415388250113",
+			"full_text": "D66-leider Sigrid Kaag wil dat mensen zich niet meer achter een anoniem account kunnen verschuilen. Ze steunt initiatief van zanger Gordon, die wil dat het laten zien van een identiteitsbewijs een voorwaarde wordt voor het aanmaken van een account op FB, Twitter of Insta.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				272
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 791547564638232600,
+				"id_str": "791547564638232576",
+				"name": "Nicole Bus",
+				"screen_name": "nicolebus",
+				"location": "Heerlen, Nederland",
+				"description": "Never stop hustling - Business Owner 💼 👩🏼‍💻 - Zumba 💃🏻 - Work hard, shop harder 🛍 - Nicole met de zachte G - Klein maar groots in marketing & sales",
+				"url": "https://t.co/46vCtZy9Wm",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/46vCtZy9Wm",
+								"expanded_url": "http://www.kalibermedia.nl",
+								"display_url": "kalibermedia.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1219,
+				"friends_count": 1133,
+				"listed_count": 2,
+				"created_at": "Thu Oct 27 07:50:20 +0000 2016",
+				"favourites_count": 10028,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 10556,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1361190572103499776/j5X7m9l__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1361190572103499776/j5X7m9l__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/791547564638232576/1531426302",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 143,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "nl"
+		},
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Waarom het initiatief van Gordon niet kan werken en wat een alternatief kan zijn: https://t.co/RAK2BqBiTf https://t.co/beY4jYqO3b"
+	},
+	{
 		"created_at": "Sat Mar 13 10:11:32 +0000 2021",
 		"id": 1370678908350267400,
 		"id_str": "1370678908350267398",
