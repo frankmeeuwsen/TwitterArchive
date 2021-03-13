@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Sat Mar 13 06:50:26 +0000 2021",
+		"id": 1370454331477028900,
+		"id_str": "1370628301325266945",
+		"full_text": "if this is a                            then wtf\npair of scissors                    is this https://t.co/bEVCPLfsI5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1370454147514822700,
+					"id_str": "1370454147514822659",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/EwTUyUOU8AMEMIv.png",
+					"media_url_https": "https://pbs.twimg.com/media/EwTUyUOU8AMEMIv.png",
+					"url": "https://t.co/bEVCPLfsI5",
+					"display_url": "pic.twitter.com/bEVCPLfsI5",
+					"expanded_url": "https://twitter.com/FredTaming/status/1370454331477028865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 785,
+							"h": 769,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 785,
+							"h": 769,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 666,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1370454147514822700,
+					"id_str": "1370454147514822659",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/EwTUyUOU8AMEMIv.png",
+					"media_url_https": "https://pbs.twimg.com/media/EwTUyUOU8AMEMIv.png",
+					"url": "https://t.co/bEVCPLfsI5",
+					"display_url": "pic.twitter.com/bEVCPLfsI5",
+					"expanded_url": "https://twitter.com/FredTaming/status/1370454331477028865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 785,
+							"h": 769,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 785,
+							"h": 769,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 666,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1370454224870408200,
+					"id_str": "1370454224870408192",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/EwTU20ZVgAALrtv.png",
+					"media_url_https": "https://pbs.twimg.com/media/EwTU20ZVgAALrtv.png",
+					"url": "https://t.co/bEVCPLfsI5",
+					"display_url": "pic.twitter.com/bEVCPLfsI5",
+					"expanded_url": "https://twitter.com/FredTaming/status/1370454331477028865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 651,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 731,
+							"h": 763,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 731,
+							"h": 763,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024826757587890200,
+			"id_str": "1024826757587890177",
+			"name": "taming fred savage",
+			"screen_name": "FredTaming",
+			"location": "",
+			"description": "black & trans lives matter | 🏳️‍🌈 friendly | local man | Top Tweets: https://t.co/u078lv9Mt0 | Recent tweets 👇",
+			"url": "https://t.co/JGBVLN434A",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JGBVLN434A",
+							"expanded_url": "https://twitter.com/search?q=from%3A%40FredTaming%2Fexclude%3Areplies",
+							"display_url": "twitter.com/search?q=from%…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/u078lv9Mt0",
+							"expanded_url": "https://twitter.com/i/events/1137051421788975106?s=21YUStRl",
+							"display_url": "twitter.com/i/events/11370…",
+							"indices": [
+								69,
+								92
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 23514,
+			"friends_count": 936,
+			"listed_count": 136,
+			"created_at": "Thu Aug 02 01:18:34 +0000 2018",
+			"favourites_count": 125321,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 79371,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1349362628133412864/pvIlwiI1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1349362628133412864/pvIlwiI1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024826757587890177/1607349897",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8784,
+		"favorite_count": 78999,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "if this is a                            then wtf\npair of scissors                    is this https://t.co/bEVCPLfsI5"
+	},
+	{
 		"created_at": "Fri Mar 12 14:41:48 +0000 2021",
 		"id": 1370384537830707200,
 		"id_str": "1370384537830707204",
