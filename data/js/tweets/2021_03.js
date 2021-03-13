@@ -1,6 +1,333 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Sat Mar 13 10:11:32 +0000 2021",
+		"id": 1370678908350267400,
+		"id_str": "1370678908350267398",
+		"full_text": "Ik ben zo benieuwd hoeveel je moet knippen uit opnames van mensen die het direct door hebben. https://t.co/sH9CTE14t4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sH9CTE14t4",
+					"expanded_url": "https://twitter.com/RoelMaalderink/status/1370674887443017728",
+					"display_url": "twitter.com/RoelMaalderink…",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8891,
+			"friends_count": 721,
+			"listed_count": 555,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7539,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64145,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1615141708",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1370674887443017700,
+		"quoted_status_id_str": "1370674887443017728",
+		"quoted_status_permalink": {
+			"url": "https://t.co/sH9CTE14t4",
+			"expanded": "https://twitter.com/RoelMaalderink/status/1370674887443017728",
+			"display": "twitter.com/RoelMaalderink…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Mar 13 09:55:33 +0000 2021",
+			"id": 1370674887443017700,
+			"id_str": "1370674887443017728",
+			"full_text": "Wat vindt Nederland van opiniepeilingen? https://t.co/ZditRBj7Ma",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				40
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1370674237434949600,
+						"id_str": "1370674237434949632",
+						"indices": [
+							41,
+							64
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1370674237434949632/pu/img/R8tuh1tM1eomXmR3.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1370674237434949632/pu/img/R8tuh1tM1eomXmR3.jpg",
+						"url": "https://t.co/ZditRBj7Ma",
+						"display_url": "pic.twitter.com/ZditRBj7Ma",
+						"expanded_url": "https://twitter.com/RoelMaalderink/status/1370674887443017728/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1370674237434949600,
+						"id_str": "1370674237434949632",
+						"indices": [
+							41,
+							64
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1370674237434949632/pu/img/R8tuh1tM1eomXmR3.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1370674237434949632/pu/img/R8tuh1tM1eomXmR3.jpg",
+						"url": "https://t.co/ZditRBj7Ma",
+						"display_url": "pic.twitter.com/ZditRBj7Ma",
+						"expanded_url": "https://twitter.com/RoelMaalderink/status/1370674887443017728/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 140000,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1370674237434949632/pu/vid/480x270/qj13as1UPDphcpab.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1370674237434949632/pu/pl/FudAnFHlWjxZRIHY.m3u8?tag=12"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1370674237434949632/pu/vid/640x360/haKrJqMSFWOYqPEN.mp4?tag=12"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1370674237434949632/pu/vid/1280x720/BWxeTzmNMJi30WpU.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 30320065,
+				"id_str": "30320065",
+				"name": "Roel Maalderink",
+				"screen_name": "RoelMaalderink",
+				"location": "Nederland",
+				"description": "Televisie- & filmpjesmaker || Voxpop || De De Speld Podcast || AD Live || Mediajurist || Geen familie van Bert",
+				"url": "https://t.co/gXDLyz6vd7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gXDLyz6vd7",
+								"expanded_url": "http://www.instagram.com/roelmaalderink",
+								"display_url": "instagram.com/roelmaalderink",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 19533,
+				"friends_count": 624,
+				"listed_count": 75,
+				"created_at": "Fri Apr 10 21:40:19 +0000 2009",
+				"favourites_count": 7520,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4613,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/967767345551888389/cVD0OiBA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/967767345551888389/cVD0OiBA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/30320065/1587836053",
+				"profile_link_color": "93A644",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 56,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Ik ben zo benieuwd hoeveel je moet knippen uit opnames van mensen die het direct door hebben. https://t.co/sH9CTE14t4"
+	},
+	{
 		"created_at": "Sat Mar 13 06:50:26 +0000 2021",
 		"id": 1370454331477028900,
 		"id_str": "1370628301325266945",
@@ -142,7 +469,7 @@ Grailbird.data.tweets_2021_03 =
 			"name": "taming fred savage",
 			"screen_name": "FredTaming",
 			"location": "",
-			"description": "black & trans lives matter | 🏳️‍🌈 friendly | local man | Top Tweets: https://t.co/u078lv9Mt0 | Recent tweets 👇",
+			"description": "black & trans lives matter | 🏳️🌈 friendly | local man | Top Tweets: https://t.co/u078lv9Mt0 | Recent tweets 👇",
 			"url": "https://t.co/JGBVLN434A",
 			"entities": {
 				"url": {
