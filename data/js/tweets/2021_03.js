@@ -1,6 +1,328 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Tue Mar 16 22:06:23 +0000 2021",
+		"id": 1371945970125181000,
+		"id_str": "1371945970125180930",
+		"full_text": "Balkenende op een skateboard revisited... https://t.co/UPN1LY4cy7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UPN1LY4cy7",
+					"expanded_url": "https://twitter.com/cdavandaag/status/1371913106960625671",
+					"display_url": "twitter.com/cdavandaag/sta…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8890,
+			"friends_count": 723,
+			"listed_count": 556,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7561,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64176,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1615141708",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1371913106960625700,
+		"quoted_status_id_str": "1371913106960625671",
+		"quoted_status_permalink": {
+			"url": "https://t.co/UPN1LY4cy7",
+			"expanded": "https://twitter.com/cdavandaag/status/1371913106960625671",
+			"display": "twitter.com/cdavandaag/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 16 19:55:48 +0000 2021",
+			"id": 1371913106960625700,
+			"id_str": "1371913106960625671",
+			"full_text": "Go @WBHoekstra! 🔥 #NuDoorpakken #NOSdebat https://t.co/KPD5117r7P",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				41
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "NuDoorpakken",
+						"indices": [
+							18,
+							31
+						]
+					},
+					{
+						"text": "NOSdebat",
+						"indices": [
+							32,
+							41
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "WBHoekstra",
+						"name": "Wopke Hoekstra",
+						"id": 920164010342912000,
+						"id_str": "920164010342912000",
+						"indices": [
+							3,
+							14
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1371912741447942100,
+						"id_str": "1371912741447942145",
+						"indices": [
+							42,
+							65
+						],
+						"media_url": "http://pbs.twimg.com/media/EwoDXqDWQAESwUz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EwoDXqDWQAESwUz.jpg",
+						"url": "https://t.co/KPD5117r7P",
+						"display_url": "pic.twitter.com/KPD5117r7P",
+						"expanded_url": "https://twitter.com/cdavandaag/status/1371913106960625671/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1371912741447942100,
+						"id_str": "1371912741447942145",
+						"indices": [
+							42,
+							65
+						],
+						"media_url": "http://pbs.twimg.com/media/EwoDXqDWQAESwUz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EwoDXqDWQAESwUz.jpg",
+						"url": "https://t.co/KPD5117r7P",
+						"display_url": "pic.twitter.com/KPD5117r7P",
+						"expanded_url": "https://twitter.com/cdavandaag/status/1371913106960625671/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 23770198,
+				"id_str": "23770198",
+				"name": "CDA",
+				"screen_name": "cdavandaag",
+				"location": "Den Haag, Nederland",
+				"description": "👏 #NuDoorpakken! Want dit is het moment. Nederland verder brengen en verbeteren. Nu Doorpakken voor de belofte van een beter Nederland.   👉 Volg @WBHoekstra",
+				"url": "https://t.co/YqgL0x5wxv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YqgL0x5wxv",
+								"expanded_url": "http://www.cda.nl",
+								"display_url": "cda.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 54982,
+				"friends_count": 4629,
+				"listed_count": 1067,
+				"created_at": "Wed Mar 11 14:32:27 +0000 2009",
+				"favourites_count": 3231,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 37353,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "005F61",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1352665338362605568/_UFazwxQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1352665338362605568/_UFazwxQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/23770198/1607720156",
+				"profile_link_color": "6BBBAE",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 67,
+			"favorite_count": 204,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Balkenende op een skateboard revisited... https://t.co/UPN1LY4cy7"
+	},
+	{
 		"created_at": "Tue Mar 16 20:24:43 +0000 2021",
 		"id": 1371920383998312400,
 		"id_str": "1371920383998312449",
