@@ -1,6 +1,282 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Wed Mar 17 17:05:04 +0000 2021",
+		"id": 1372209275007873000,
+		"id_str": "1372232530628386818",
+		"full_text": "Amazing. Just voted (elections in The Netherlands) in @boogkerk \nStraight above the voting boot : a CCTV camera 🎥! #verkiezingsdag #verkiezingen #Verkiezing2021 https://t.co/UfJ8dAFXxH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "verkiezingsdag",
+					"indices": [
+						115,
+						130
+					]
+				},
+				{
+					"text": "verkiezingen",
+					"indices": [
+						131,
+						144
+					]
+				},
+				{
+					"text": "Verkiezing2021",
+					"indices": [
+						145,
+						160
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "boogkerk",
+					"name": "Boogkerk",
+					"id": 94509538,
+					"id_str": "94509538",
+					"indices": [
+						54,
+						63
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1372209269936959500,
+					"id_str": "1372209269936959495",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/EwsRD4wXMAcrog4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EwsRD4wXMAcrog4.jpg",
+					"url": "https://t.co/UfJ8dAFXxH",
+					"display_url": "pic.twitter.com/UfJ8dAFXxH",
+					"expanded_url": "https://twitter.com/henkvaness/status/1372209275007873025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 946,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1372209269936959500,
+					"id_str": "1372209269936959495",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/EwsRD4wXMAcrog4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EwsRD4wXMAcrog4.jpg",
+					"url": "https://t.co/UfJ8dAFXxH",
+					"display_url": "pic.twitter.com/UfJ8dAFXxH",
+					"expanded_url": "https://twitter.com/henkvaness/status/1372209275007873025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 946,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1372209269920174000,
+					"id_str": "1372209269920174083",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/EwsRD4sXEAMmBNC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EwsRD4sXEAMmBNC.jpg",
+					"url": "https://t.co/UfJ8dAFXxH",
+					"display_url": "pic.twitter.com/UfJ8dAFXxH",
+					"expanded_url": "https://twitter.com/henkvaness/status/1372209275007873025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15037033,
+			"id_str": "15037033",
+			"name": "ʜᴇɴᴋ ᴠᴀɴ ᴇss",
+			"screen_name": "henkvaness",
+			"location": "Mac, Will Stream (beyond Zoom)",
+			"description": "Worldwide open source training: social media, verification and visual search. l talk, teach & write about use & misuse of open source data @factchecknet @gijn",
+			"url": "https://t.co/VBuwGGV2dW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VBuwGGV2dW",
+							"expanded_url": "https://digitaldigging.org",
+							"display_url": "digitaldigging.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 48049,
+			"friends_count": 8823,
+			"listed_count": 1494,
+			"created_at": "Sat Jun 07 09:10:35 +0000 2008",
+			"favourites_count": 1418,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 31324,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "6EADB1",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1284041435336052737/SLOvyxF5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1284041435336052737/SLOvyxF5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15037033/1455272750",
+			"profile_link_color": "191919",
+			"profile_sidebar_border_color": "14F1FF",
+			"profile_sidebar_fill_color": "6EADB1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "97c947a0b42af46f",
+			"url": "https://api.twitter.com/1.1/geo/id/97c947a0b42af46f.json",
+			"place_type": "city",
+			"name": "Amersfoort",
+			"full_name": "Amersfoort, Nederland",
+			"country_code": "NL",
+			"country": "Nederland",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							5.3067086,
+							52.108447
+						],
+						[
+							5.4843168,
+							52.108447
+						],
+						[
+							5.4843168,
+							52.2191943
+						],
+						[
+							5.3067086,
+							52.2191943
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 30,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Amazing. Just voted (elections in The Netherlands) in @boogkerk \nStraight above the voting boot : a CCTV camera 🎥! #verkiezingsdag #verkiezingen #Verkiezing2021 https://t.co/UfJ8dAFXxH"
+	},
+	{
 		"created_at": "Wed Mar 17 12:34:49 +0000 2021",
 		"id": 1372164519624081400,
 		"id_str": "1372164519624081409",
