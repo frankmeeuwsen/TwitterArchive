@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Wed Mar 17 05:56:51 +0000 2021",
+		"id": 1372064365701165000,
+		"id_str": "1372064365701165056",
+		"full_text": "Goed geschreven, geen idee of hij gelijk gaat hebben. Ik hoop het niet. https://t.co/N7G1RD6HrN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/N7G1RD6HrN",
+					"expanded_url": "https://twitter.com/shaanvp/status/1371972261004070913",
+					"display_url": "twitter.com/shaanvp/status…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8890,
+			"friends_count": 723,
+			"listed_count": 556,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7564,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64177,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1615141708",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1371972261004071000,
+		"quoted_status_id_str": "1371972261004070913",
+		"quoted_status_permalink": {
+			"url": "https://t.co/N7G1RD6HrN",
+			"expanded": "https://twitter.com/shaanvp/status/1371972261004070913",
+			"display": "twitter.com/shaanvp/status…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 16 23:50:51 +0000 2021",
+			"id": 1371972261004071000,
+			"id_str": "1371972261004070913",
+			"full_text": "So... everyone seems to think clubhouse is the \"next big thing\" - but I think it's going to fail. \n\nHere's how I think it all goes down..",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				137
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 101354595,
+				"id_str": "101354595",
+				"name": "Shaan Puri",
+				"screen_name": "ShaanVP",
+				"location": "San Francisco, CA",
+				"description": "I take complicated business stuff and make it simple for people to understand. 3x founder, 1x exit. Now investing $3M/year into startups.",
+				"url": "https://t.co/vHk4MUSYem",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vHk4MUSYem",
+								"expanded_url": "http://www.shaanpuri.com",
+								"display_url": "shaanpuri.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 109478,
+				"friends_count": 9711,
+				"listed_count": 1465,
+				"created_at": "Sun Jan 03 00:47:50 +0000 2010",
+				"favourites_count": 12784,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8840,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1370084367943364608/1SkSKLIS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1370084367943364608/1SkSKLIS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/101354595/1559284662",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 652,
+			"favorite_count": 3886,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Goed geschreven, geen idee of hij gelijk gaat hebben. Ik hoop het niet. https://t.co/N7G1RD6HrN"
+	},
+	{
 		"created_at": "Tue Mar 16 22:06:23 +0000 2021",
 		"id": 1371945970125181000,
 		"id_str": "1371945970125180930",
