@@ -1,6 +1,348 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Sun Mar 21 18:53:58 +0000 2021",
+		"id": 1373709484489588700,
+		"id_str": "1373709484489588741",
+		"full_text": "Was toch Theo? https://t.co/sy2eW8OXYd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sy2eW8OXYd",
+					"expanded_url": "https://twitter.com/3fm/status/1373703116974141442",
+					"display_url": "twitter.com/3fm/status/137…",
+					"indices": [
+						15,
+						38
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8889,
+			"friends_count": 730,
+			"listed_count": 555,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7607,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64228,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1373703116974141400,
+		"quoted_status_id_str": "1373703116974141442",
+		"quoted_status_permalink": {
+			"url": "https://t.co/sy2eW8OXYd",
+			"expanded": "https://twitter.com/3fm/status/1373703116974141442",
+			"display": "twitter.com/3fm/status/137…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Mar 21 18:28:39 +0000 2021",
+			"id": 1373703116974141400,
+			"id_str": "1373703116974141442",
+			"full_text": "Een jaar geen festivals, dan zou je verwachten dat sommige hypes gaan liggen... #3FM #Michaeeel https://t.co/enmWWXAStT",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				95
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "3FM",
+						"indices": [
+							80,
+							84
+						]
+					},
+					{
+						"text": "Michaeeel",
+						"indices": [
+							85,
+							95
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1373702788023263200,
+						"id_str": "1373702788023263240",
+						"indices": [
+							96,
+							119
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1373702788023263240/pu/img/vS3eLhEhyAkQIn7O.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1373702788023263240/pu/img/vS3eLhEhyAkQIn7O.jpg",
+						"url": "https://t.co/enmWWXAStT",
+						"display_url": "pic.twitter.com/enmWWXAStT",
+						"expanded_url": "https://twitter.com/3FM/status/1373703116974141442/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1373702788023263200,
+						"id_str": "1373702788023263240",
+						"indices": [
+							96,
+							119
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1373702788023263240/pu/img/vS3eLhEhyAkQIn7O.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1373702788023263240/pu/img/vS3eLhEhyAkQIn7O.jpg",
+						"url": "https://t.co/enmWWXAStT",
+						"display_url": "pic.twitter.com/enmWWXAStT",
+						"expanded_url": "https://twitter.com/3FM/status/1373703116974141442/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 13046,
+							"variants": [
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1373702788023263240/pu/vid/320x568/qvcn-duHn9IuNNyY.mp4?tag=12"
+								},
+								{
+									"bitrate": 950000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1373702788023263240/pu/vid/480x852/q67yywSUoEJEcEOY.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1373702788023263240/pu/pl/Bhge3DHaM-qwfa4P.m3u8?tag=12"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1373702788023263240/pu/vid/720x1280/6EVspfaGMso8QMMm.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5521182,
+				"id_str": "5521182",
+				"name": "3FM",
+				"screen_name": "3FM",
+				"location": "Hilversum - Netherlands",
+				"description": "• Sta op met @sanderhoogendrn • Geniet van je lunch met @timur_perlin • Welkom bij club @frank3fm & @evakoreman Dit is 3FM. Laat je horen!",
+				"url": "https://t.co/LHJYXpfC8b",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/LHJYXpfC8b",
+								"expanded_url": "http://www.npo3fm.nl",
+								"display_url": "npo3fm.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 310121,
+				"friends_count": 275,
+				"listed_count": 1154,
+				"created_at": "Thu Apr 26 07:50:07 +0000 2007",
+				"favourites_count": 7767,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 53101,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1342365275195371520/HSNSqFh3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1342365275195371520/HSNSqFh3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5521182/1613548805",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 29,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Was toch Theo? https://t.co/sy2eW8OXYd"
+	},
+	{
 		"created_at": "Sun Mar 21 18:09:06 +0000 2021",
 		"id": 1373698197361729500,
 		"id_str": "1373698197361729544",
