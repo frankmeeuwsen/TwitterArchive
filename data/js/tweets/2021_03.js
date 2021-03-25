@@ -1,6 +1,1126 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Thu Mar 25 18:04:11 +0000 2021",
+		"id": 1375146508308381700,
+		"id_str": "1375146508308381698",
+		"full_text": "@Bladendokter Klopt het dat in het artikel geen link naar het blad staat? Is er nog geen site?",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Bladendokter",
+					"name": "Carolien Vader",
+					"id": 21235240,
+					"id_str": "21235240",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1375141188051828700,
+		"in_reply_to_status_id_str": "1375141188051828741",
+		"in_reply_to_user_id": 21235240,
+		"in_reply_to_user_id_str": "21235240",
+		"in_reply_to_screen_name": "Bladendokter",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8893,
+			"friends_count": 731,
+			"listed_count": 554,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7622,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64256,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@Bladendokter Klopt het dat in het artikel geen link naar het blad staat? Is er nog geen site?"
+	},
+	{
+		"created_at": "Thu Mar 25 18:01:29 +0000 2021",
+		"id": 1375145830684975000,
+		"id_str": "1375145830684975109",
+		"full_text": "1/2 Winklevi 🔥🔥🔥 https://t.co/4M0QN5IVtb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4M0QN5IVtb",
+					"expanded_url": "https://twitter.com/zachhazard/status/1374589801882652672",
+					"display_url": "twitter.com/zachhazard/sta…",
+					"indices": [
+						17,
+						40
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8893,
+			"friends_count": 731,
+			"listed_count": 554,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7622,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64256,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1374589801882652700,
+		"quoted_status_id_str": "1374589801882652672",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4M0QN5IVtb",
+			"expanded": "https://twitter.com/zachhazard/status/1374589801882652672",
+			"display": "twitter.com/zachhazard/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 24 05:12:02 +0000 2021",
+			"id": 1374589801882652700,
+			"id_str": "1374589801882652672",
+			"full_text": "LMFAO THIS IS A MURDER https://t.co/k77fNcMeX5",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				22
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1374589798904631300,
+						"id_str": "1374589798904631297",
+						"indices": [
+							23,
+							46
+						],
+						"media_url": "http://pbs.twimg.com/media/ExOGI6OWEAE0Dp2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ExOGI6OWEAE0Dp2.jpg",
+						"url": "https://t.co/k77fNcMeX5",
+						"display_url": "pic.twitter.com/k77fNcMeX5",
+						"expanded_url": "https://twitter.com/zachhazard/status/1374589801882652672/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 553,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 828,
+								"h": 673,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 828,
+								"h": 673,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1374589798904631300,
+						"id_str": "1374589798904631297",
+						"indices": [
+							23,
+							46
+						],
+						"media_url": "http://pbs.twimg.com/media/ExOGI6OWEAE0Dp2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ExOGI6OWEAE0Dp2.jpg",
+						"url": "https://t.co/k77fNcMeX5",
+						"display_url": "pic.twitter.com/k77fNcMeX5",
+						"expanded_url": "https://twitter.com/zachhazard/status/1374589801882652672/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 553,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 828,
+								"h": 673,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 828,
+								"h": 673,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1374589798896316400,
+						"id_str": "1374589798896316416",
+						"indices": [
+							23,
+							46
+						],
+						"media_url": "http://pbs.twimg.com/media/ExOGI6MXMAAe3kT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ExOGI6MXMAAe3kT.jpg",
+						"url": "https://t.co/k77fNcMeX5",
+						"display_url": "pic.twitter.com/k77fNcMeX5",
+						"expanded_url": "https://twitter.com/zachhazard/status/1374589801882652672/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 696,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 395,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 828,
+								"h": 1427,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 41306886,
+				"id_str": "41306886",
+				"name": "The Only Artist Named Zach",
+				"screen_name": "zachhazard",
+				"location": "He/Him",
+				"description": "///hire me/// Mixed 2D + 3D style comics and illustrations ::Current Projects #TherapyGun and #PixelDog:: ~abolish prisons~ https://t.co/TN6820r1Nl",
+				"url": "https://t.co/14Z0d5r6Z4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/14Z0d5r6Z4",
+								"expanded_url": "https://emo-sludge.com/",
+								"display_url": "emo-sludge.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/TN6820r1Nl",
+								"expanded_url": "http://patreon.com/emosludge",
+								"display_url": "patreon.com/emosludge",
+								"indices": [
+									124,
+									147
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2334,
+				"friends_count": 1852,
+				"listed_count": 30,
+				"created_at": "Wed May 20 05:58:58 +0000 2009",
+				"favourites_count": 203951,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 28037,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/750407407071789057/GUo8A1u3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/750407407071789057/GUo8A1u3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/41306886/1467745855",
+				"profile_link_color": "800478",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11837,
+			"favorite_count": 78180,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "1/2 Winklevi 🔥🔥🔥 https://t.co/4M0QN5IVtb"
+	},
+	{
+		"created_at": "Thu Mar 25 17:58:22 +0000 2021",
+		"id": 1374429492576317400,
+		"id_str": "1375145045901389832",
+		"full_text": "Fuuuuuuuuuuuck🤯🤯🤯🤯🤯🤯🤯 https://t.co/cXiqzt4HYZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1374429333628936200,
+					"id_str": "1374429333628936197",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1374429333628936197/pu/img/arO0jpK1WlqIYrDn.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1374429333628936197/pu/img/arO0jpK1WlqIYrDn.jpg",
+					"url": "https://t.co/cXiqzt4HYZ",
+					"display_url": "pic.twitter.com/cXiqzt4HYZ",
+					"expanded_url": "https://twitter.com/i_am_Gwingy/status/1374429492576317449/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1374429333628936200,
+					"id_str": "1374429333628936197",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1374429333628936197/pu/img/arO0jpK1WlqIYrDn.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1374429333628936197/pu/img/arO0jpK1WlqIYrDn.jpg",
+					"url": "https://t.co/cXiqzt4HYZ",
+					"display_url": "pic.twitter.com/cXiqzt4HYZ",
+					"expanded_url": "https://twitter.com/i_am_Gwingy/status/1374429492576317449/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 126126,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1374429333628936197/pu/vid/480x270/Wawb9cReueLqVCSW.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1374429333628936197/pu/vid/640x360/PMD0OISPX3mWsD29.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1374429333628936197/pu/pl/ygc2P15mQWWr6PXN.m3u8?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 455602985,
+			"id_str": "455602985",
+			"name": "Gwingy",
+			"screen_name": "i_am_Gwingy",
+			"location": "🎵",
+			"description": "GENERATION HYDRA. Brand Storytelling Consultant. YTA. OUTSIDER. TWISTED SO GO AHEAD AND HUMOUR ME. I am in love with @thetweetofGod",
+			"url": "https://t.co/ocWPFyAIoW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ocWPFyAIoW",
+							"expanded_url": "https://docs.google.com/presentation/d/15dIrxbTuI1b-Nx2ggoKuQPp7rPMw3po18DluljoxE0M/edit",
+							"display_url": "docs.google.com/presentation/d…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1758,
+			"friends_count": 1697,
+			"listed_count": 21,
+			"created_at": "Thu Jan 05 09:01:09 +0000 2012",
+			"favourites_count": 15057,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19783,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1318680270229438464/wufk2Y2T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1318680270229438464/wufk2Y2T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/455602985/1517309834",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 89845,
+		"favorite_count": 242075,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Fuuuuuuuuuuuck🤯🤯🤯🤯🤯🤯🤯 https://t.co/cXiqzt4HYZ"
+	},
+	{
+		"created_at": "Thu Mar 25 17:40:20 +0000 2021",
+		"id": 1375140506146107400,
+		"id_str": "1375140506146107393",
+		"full_text": "Ik heb uit deze serie de editie van Beastie Boys’ Paul’s Boutique en die is fantastisch. Dus deze ook maar bestellen vrees ik. https://t.co/gOE0fZ83hJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gOE0fZ83hJ",
+					"expanded_url": "https://twitter.com/dolearyauthor/status/1375118706624229382",
+					"display_url": "twitter.com/dolearyauthor/…",
+					"indices": [
+						127,
+						150
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8893,
+			"friends_count": 731,
+			"listed_count": 554,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7622,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64256,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1375118706624229400,
+		"quoted_status_id_str": "1375118706624229382",
+		"quoted_status_permalink": {
+			"url": "https://t.co/gOE0fZ83hJ",
+			"expanded": "https://twitter.com/dolearyauthor/status/1375118706624229382",
+			"display": "twitter.com/dolearyauthor/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Mar 25 16:13:42 +0000 2021",
+			"id": 1375118706624229400,
+			"id_str": "1375118706624229382",
+			"full_text": "For @PearlJam fans and music fans in general my friend (and editor of both of my books) Clint Brownlee (@tenaciousc ) has had his own book published about the recording of Pearl Jam's VS. Check it out. Good stuff!\nhttps://t.co/01uWY7im0o https://t.co/GpFPHDbIXs",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				237
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "PearlJam",
+						"name": "Pearl Jam",
+						"id": 15155074,
+						"id_str": "15155074",
+						"indices": [
+							4,
+							13
+						]
+					},
+					{
+						"screen_name": "tenaciousc",
+						"name": "Clint Brownlee",
+						"id": 16548046,
+						"id_str": "16548046",
+						"indices": [
+							104,
+							115
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/01uWY7im0o",
+						"expanded_url": "https://www.amazon.com/Pearl-Jams-Vs-33-154/dp/1501355309",
+						"display_url": "amazon.com/Pearl-Jams-Vs-…",
+						"indices": [
+							214,
+							237
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1375118536889180200,
+						"id_str": "1375118536889180160",
+						"indices": [
+							238,
+							261
+						],
+						"media_url": "http://pbs.twimg.com/media/ExVnBgtVoAAHAoo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ExVnBgtVoAAHAoo.jpg",
+						"url": "https://t.co/GpFPHDbIXs",
+						"display_url": "pic.twitter.com/GpFPHDbIXs",
+						"expanded_url": "https://twitter.com/dolearyauthor/status/1375118706624229382/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1375118536889180200,
+						"id_str": "1375118536889180160",
+						"indices": [
+							238,
+							261
+						],
+						"media_url": "http://pbs.twimg.com/media/ExVnBgtVoAAHAoo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ExVnBgtVoAAHAoo.jpg",
+						"url": "https://t.co/GpFPHDbIXs",
+						"display_url": "pic.twitter.com/GpFPHDbIXs",
+						"expanded_url": "https://twitter.com/dolearyauthor/status/1375118706624229382/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 28705384,
+				"id_str": "28705384",
+				"name": "Dave O'Leary",
+				"screen_name": "dolearyauthor",
+				"location": "Seattle, Wa",
+				"description": "Writer, Musician. The Music Book (November 2014, https://t.co/sZbygUVnqb) and Horse Bite (October 2011, https://t.co/Khrft2TBvH)",
+				"url": "http://t.co/VBYvQRcebK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/VBYvQRcebK",
+								"expanded_url": "http://www.daveoleary.net",
+								"display_url": "daveoleary.net",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/sZbygUVnqb",
+								"expanded_url": "https://www.amazon.com/gp/product/1937634051",
+								"display_url": "amazon.com/gp/product/193…",
+								"indices": [
+									49,
+									72
+								]
+							},
+							{
+								"url": "https://t.co/Khrft2TBvH",
+								"expanded_url": "http://amzn.to/1RVFa1w",
+								"display_url": "amzn.to/1RVFa1w",
+								"indices": [
+									104,
+									127
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 494,
+				"friends_count": 1381,
+				"listed_count": 28,
+				"created_at": "Sat Apr 04 01:13:11 +0000 2009",
+				"favourites_count": 2474,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2680,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1368326669149241345/q7IkyKBN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368326669149241345/q7IkyKBN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/28705384/1416372834",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Ik heb uit deze serie de editie van Beastie Boys’ Paul’s Boutique en die is fantastisch. Dus deze ook maar bestellen vrees ik. https://t.co/gOE0fZ83hJ"
+	},
+	{
+		"created_at": "Thu Mar 25 17:37:56 +0000 2021",
+		"id": 1375139903240085500,
+		"id_str": "1375139903240085507",
+		"full_text": "@KarenRomme Als ik getest was mocht ik volgens mij van overheidswege niet op mijn werk verschijnen. Maar ik kan me vergissen in de richtlijnen die door onze volksvertegenwoordigers worden opgelegd. \n\nJa, ik word hier knap cynisch van.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			234
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KarenRomme",
+					"name": "Karen Romme",
+					"id": 23805234,
+					"id_str": "23805234",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1375131362789851100,
+		"in_reply_to_status_id_str": "1375131362789851136",
+		"in_reply_to_user_id": 23805234,
+		"in_reply_to_user_id_str": "23805234",
+		"in_reply_to_screen_name": "KarenRomme",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8893,
+			"friends_count": 731,
+			"listed_count": 554,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7622,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64256,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@KarenRomme Als ik getest was mocht ik volgens mij van overheidswege niet op mijn werk verschijnen. Maar ik kan me vergissen in de richtlijnen die door onze volksvertegenwoordigers worden opgelegd. \n\nJa, ik word hier knap cynisch van."
+	},
+	{
 		"created_at": "Thu Mar 25 16:41:31 +0000 2021",
 		"id": 1375125707534299100,
 		"id_str": "1375125707534299146",
