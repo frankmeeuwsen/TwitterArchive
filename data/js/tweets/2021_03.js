@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Wed Mar 31 17:42:02 +0000 2021",
+		"id": 1377315264379895800,
+		"id_str": "1377315264379895809",
+		"full_text": "Ja @mathys nou ben ik wel benieuwd wat er in dat “intentionally redacted” stuk staat van @OkunaSocial! https://t.co/ocwTfsDdaL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mathys",
+					"name": "⭐ Mathys van Abbe ⭐️",
+					"id": 6493412,
+					"id_str": "6493412",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"screen_name": "OkunaSocial",
+					"name": "Okuna",
+					"id": 985094873840848900,
+					"id_str": "985094873840848896",
+					"indices": [
+						89,
+						101
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1377315258264588300,
+					"id_str": "1377315258264588308",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/Ex007hiWEBQjJDU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ex007hiWEBQjJDU.jpg",
+					"url": "https://t.co/ocwTfsDdaL",
+					"display_url": "pic.twitter.com/ocwTfsDdaL",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1377315264379895809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 828,
+							"h": 1792,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1377315258264588300,
+					"id_str": "1377315258264588308",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/Ex007hiWEBQjJDU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ex007hiWEBQjJDU.jpg",
+					"url": "https://t.co/ocwTfsDdaL",
+					"display_url": "pic.twitter.com/ocwTfsDdaL",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1377315264379895809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 828,
+							"h": 1792,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8886,
+			"friends_count": 732,
+			"listed_count": 555,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7641,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64298,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Ja @mathys nou ben ik wel benieuwd wat er in dat “intentionally redacted” stuk staat van @OkunaSocial! https://t.co/ocwTfsDdaL"
+	},
+	{
 		"created_at": "Wed Mar 31 14:22:05 +0000 2021",
 		"id": 1377264943171571700,
 		"id_str": "1377264943171571718",
