@@ -1,6 +1,372 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Fri Apr 02 15:28:12 +0000 2021",
+		"id": 1378006357325013000,
+		"id_str": "1378006357325012993",
+		"full_text": "Weer een dag dichterbij zo'n avondje... https://t.co/9VuBzLYjar",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9VuBzLYjar",
+					"expanded_url": "https://twitter.com/PearlJam/status/1378000512847593475",
+					"display_url": "twitter.com/PearlJam/statu…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8884,
+			"friends_count": 732,
+			"listed_count": 554,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7652,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64323,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1378000512847593500,
+		"quoted_status_id_str": "1378000512847593475",
+		"quoted_status_permalink": {
+			"url": "https://t.co/9VuBzLYjar",
+			"expanded": "https://twitter.com/PearlJam/status/1378000512847593475",
+			"display": "twitter.com/PearlJam/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 02 15:04:58 +0000 2021",
+			"id": 1378000512847593500,
+			"id_str": "1378000512847593475",
+			"full_text": "\"Of The Earth\" from Hyde Park, London (2010).\n\nDon't forget to tune in and watch the full show starting tonight at 8pm ET. Stream on Pearl Jam's YouTube and Facebook and on @nugsnet until Monday, April 5th at 11:59pm ET.\n\nWatch the full video on YouTube: https://t.co/nZIqUo4RbY https://t.co/akQ5SliDWY",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "nugsnet",
+						"name": "nugs.net",
+						"id": 309870370,
+						"id_str": "309870370",
+						"indices": [
+							173,
+							181
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/nZIqUo4RbY",
+						"expanded_url": "http://pj.lnk.to/OfTheEarthYTTP",
+						"display_url": "pj.lnk.to/OfTheEarthYTTP",
+						"indices": [
+							255,
+							278
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1377998695392743400,
+						"id_str": "1377998695392743427",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/Ex-kIX4WUAA4J8j.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ex-kIX4WUAA4J8j.jpg",
+						"url": "https://t.co/akQ5SliDWY",
+						"display_url": "pic.twitter.com/akQ5SliDWY",
+						"expanded_url": "https://twitter.com/PearlJam/status/1378000512847593475/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1377998695392743400,
+						"id_str": "1377998695392743427",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/Ex-kIX4WUAA4J8j.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ex-kIX4WUAA4J8j.jpg",
+						"url": "https://t.co/akQ5SliDWY",
+						"display_url": "pic.twitter.com/akQ5SliDWY",
+						"expanded_url": "https://twitter.com/PearlJam/status/1378000512847593475/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 57720,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1377998695392743427/vid/1280x720/TOQDBJaoqKoEd_V5.mp4?tag=14"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1377998695392743427/vid/640x360/dFry0ZeVxG_I4F3h.mp4?tag=14"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1377998695392743427/vid/480x270/uee_mb0C9m9qUcXO.mp4?tag=14"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1377998695392743427/pl/7_ybzioISoy0vx15.m3u8?tag=14"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "Of The Earth - Hyde Park, London (2010)",
+							"description": "",
+							"call_to_actions": {
+								"watch_now": {
+									"url": "https://pj.lnk.to/OfTheEarthYTTP"
+								}
+							},
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15155074,
+				"id_str": "15155074",
+				"name": "Pearl Jam",
+				"screen_name": "PearlJam",
+				"location": "Seattle, WA",
+				"description": "Gigaton - Out Now. Listen to the new album: https://t.co/7zBEnR3rMU",
+				"url": "https://t.co/J95aoJ5FKF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/J95aoJ5FKF",
+								"expanded_url": "http://www.PearlJam.com",
+								"display_url": "PearlJam.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/7zBEnR3rMU",
+								"expanded_url": "http://pearljam.lnk.to/gigatonTw",
+								"display_url": "pearljam.lnk.to/gigatonTw",
+								"indices": [
+									44,
+									67
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3572533,
+				"friends_count": 897,
+				"listed_count": 17113,
+				"created_at": "Wed Jun 18 06:59:14 +0000 2008",
+				"favourites_count": 4213,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 8800,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1216784176659279874/NCaJxxiE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1216784176659279874/NCaJxxiE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15155074/1585282596",
+				"profile_link_color": "A17F59",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 75,
+			"favorite_count": 423,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Weer een dag dichterbij zo'n avondje... https://t.co/9VuBzLYjar"
+	},
+	{
 		"created_at": "Fri Apr 02 14:41:48 +0000 2021",
 		"id": 1377994681368391700,
 		"id_str": "1377994681368391685",
