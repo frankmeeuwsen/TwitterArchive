@@ -1,6 +1,312 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Mon Apr 05 17:20:31 +0000 2021",
+		"id": 1379121788320428000,
+		"id_str": "1379121788320428032",
+		"full_text": "Niet naar luisteren. Nu gaan de robots te ver. https://t.co/Kg74lC93EO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Kg74lC93EO",
+					"expanded_url": "https://twitter.com/consequence/status/1379102212757065730",
+					"display_url": "twitter.com/consequence/st…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8887,
+			"friends_count": 736,
+			"listed_count": 554,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7656,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64331,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1379102212757065700,
+		"quoted_status_id_str": "1379102212757065730",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Kg74lC93EO",
+			"expanded": "https://twitter.com/consequence/status/1379102212757065730",
+			"display": "twitter.com/consequence/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 05 16:02:44 +0000 2021",
+			"id": 1379102212757065700,
+			"id_str": "1379102212757065730",
+			"full_text": "AI software creates \"new\" Nirvana song \"Drowned in the Sun\": https://t.co/L57Eq9rJuI https://t.co/rbuQKPaDYy",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				84
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/L57Eq9rJuI",
+						"expanded_url": "http://cos.lv/Nnv030rDrZ5",
+						"display_url": "cos.lv/Nnv030rDrZ5",
+						"indices": [
+							61,
+							84
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1379102190023946200,
+						"id_str": "1379102190023946241",
+						"indices": [
+							85,
+							108
+						],
+						"media_url": "http://pbs.twimg.com/media/EyOOIpFXMAE3J9K.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EyOOIpFXMAE3J9K.jpg",
+						"url": "https://t.co/rbuQKPaDYy",
+						"display_url": "pic.twitter.com/rbuQKPaDYy",
+						"expanded_url": "https://twitter.com/consequence/status/1379102212757065730/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1379102190023946200,
+						"id_str": "1379102190023946241",
+						"indices": [
+							85,
+							108
+						],
+						"media_url": "http://pbs.twimg.com/media/EyOOIpFXMAE3J9K.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EyOOIpFXMAE3J9K.jpg",
+						"url": "https://t.co/rbuQKPaDYy",
+						"display_url": "pic.twitter.com/rbuQKPaDYy",
+						"expanded_url": "https://twitter.com/consequence/status/1379102212757065730/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15553222,
+				"id_str": "15553222",
+				"name": "Consequence of Sound",
+				"screen_name": "consequence",
+				"location": "New York / Chicago",
+				"description": "Music, film, and pop culture publication. Get merch ➡ @consequenceshop",
+				"url": "https://t.co/IwVcgfGgL0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IwVcgfGgL0",
+								"expanded_url": "https://consequenceofsound.net/",
+								"display_url": "consequenceofsound.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 237160,
+				"friends_count": 2431,
+				"listed_count": 5065,
+				"created_at": "Wed Jul 23 02:17:36 +0000 2008",
+				"favourites_count": 12897,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 175357,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1266914555281707014/avyQ7MXs_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1266914555281707014/avyQ7MXs_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15553222/1590891073",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "07647E",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 22,
+			"favorite_count": 72,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Niet naar luisteren. Nu gaan de robots te ver. https://t.co/Kg74lC93EO"
+	},
+	{
 		"created_at": "Mon Apr 05 15:46:44 +0000 2021",
 		"id": 1379098185780564000,
 		"id_str": "1379098185780563969",
