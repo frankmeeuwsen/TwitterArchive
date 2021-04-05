@@ -1,6 +1,271 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Mon Apr 05 15:46:44 +0000 2021",
+		"id": 1379098185780564000,
+		"id_str": "1379098185780563969",
+		"full_text": "Als Cory Doctorow zijn pen in een vrije val gooit over de laatste Facebook fuckups, dan weet je dat het de moeite waard is om te lezen. Lees de volledige thread op zijn blog of scroll terug voor de Twitter versie. https://t.co/dRINLaAhau",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dRINLaAhau",
+					"expanded_url": "https://twitter.com/doctorow/status/1379071046410588161",
+					"display_url": "twitter.com/doctorow/statu…",
+					"indices": [
+						214,
+						237
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8886,
+			"friends_count": 736,
+			"listed_count": 554,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7655,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64330,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1379071046410588200,
+		"quoted_status_id_str": "1379071046410588161",
+		"quoted_status_permalink": {
+			"url": "https://t.co/dRINLaAhau",
+			"expanded": "https://twitter.com/doctorow/status/1379071046410588161",
+			"display": "twitter.com/doctorow/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 05 13:58:54 +0000 2021",
+			"id": 1379071046410588200,
+			"id_str": "1379071046410588161",
+			"full_text": "If you'd like an unrolled version of this thread to read or share, here's a link to it on https://t.co/iSBh8s9m7q, my surveillance-free, ad-free, tracker-free blog:\n\nhttps://t.co/StkVZXIftX\n\n26/",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				194
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/iSBh8s9m7q",
+						"expanded_url": "http://pluralistic.net",
+						"display_url": "pluralistic.net",
+						"indices": [
+							90,
+							113
+						]
+					},
+					{
+						"url": "https://t.co/StkVZXIftX",
+						"expanded_url": "https://pluralistic.net/2021/04/05/zucks-oily-rags/#into-the-breach",
+						"display_url": "pluralistic.net/2021/04/05/zuc…",
+						"indices": [
+							166,
+							189
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1379070986755039200,
+			"in_reply_to_status_id_str": "1379070986755039234",
+			"in_reply_to_user_id": 2729061,
+			"in_reply_to_user_id_str": "2729061",
+			"in_reply_to_screen_name": "doctorow",
+			"user": {
+				"id": 2729061,
+				"id_str": "2729061",
+				"name": "Cory Doctorow",
+				"screen_name": "doctorow",
+				"location": "Beautiful Downtown Burbank",
+				"description": "Author, journalist, activist. My latest is ATTACK SURFACE https://t.co/Tqg2M6lqri Books: https://t.co/bRVgxZt5np Blog: https://t.co/MWQJRnPOIy.",
+				"url": "https://t.co/x4ih0Xrx8f",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/x4ih0Xrx8f",
+								"expanded_url": "http://craphound.com",
+								"display_url": "craphound.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Tqg2M6lqri",
+								"expanded_url": "http://attacksurface.com",
+								"display_url": "attacksurface.com",
+								"indices": [
+									58,
+									81
+								]
+							},
+							{
+								"url": "https://t.co/bRVgxZt5np",
+								"expanded_url": "http://craphound.com",
+								"display_url": "craphound.com",
+								"indices": [
+									89,
+									112
+								]
+							},
+							{
+								"url": "https://t.co/MWQJRnPOIy",
+								"expanded_url": "http://pluralistic.net",
+								"display_url": "pluralistic.net",
+								"indices": [
+									119,
+									142
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 458455,
+				"friends_count": 2100,
+				"listed_count": 12634,
+				"created_at": "Wed Mar 28 21:40:55 +0000 2007",
+				"favourites_count": 160,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 327006,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1373743438290513920/CiUL5-wz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1373743438290513920/CiUL5-wz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2729061/1603464886",
+				"profile_link_color": "3F3FC4",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 61,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Als Cory Doctorow zijn pen in een vrije val gooit over de laatste Facebook fuckups, dan weet je dat het de moeite waard is om te lezen. Lees de volledige thread op zijn blog of scroll terug voor de Twitter versie. https://t.co/dRINLaAhau"
+	},
+	{
 		"created_at": "Mon Apr 05 12:01:27 +0000 2021",
 		"id": 1379041491499282400,
 		"id_str": "1379041491499282434",
