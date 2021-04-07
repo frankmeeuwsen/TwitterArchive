@@ -1,6 +1,315 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Wed Apr 07 05:42:01 +0000 2021",
+		"id": 1379636573461880800,
+		"id_str": "1379670778459926528",
+		"full_text": "This is AWESOME. Science-fiction fans take note. https://t.co/dUc0Ht36kA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dUc0Ht36kA",
+					"expanded_url": "https://twitter.com/kbiegel/status/1379092836025393159",
+					"display_url": "twitter.com/kbiegel/status…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18655567,
+			"id_str": "18655567",
+			"name": "Steve Silberman",
+			"screen_name": "stevesilberman",
+			"location": "San Francisco",
+			"description": "Author of NeuroTribes: The Legacy of Autism and the Future of Neurodiversity, a NYT bestseller. The Taste of Salt, a history of cystic fibrosis, coming 2023.",
+			"url": "http://t.co/tes6x6HkZf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tes6x6HkZf",
+							"expanded_url": "http://stevesilberman.com",
+							"display_url": "stevesilberman.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 132979,
+			"friends_count": 10216,
+			"listed_count": 3776,
+			"created_at": "Tue Jan 06 01:27:19 +0000 2009",
+			"favourites_count": 44827,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 158594,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/801317729978449920/1ZDKwlMv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/801317729978449920/1ZDKwlMv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18655567/1398227781",
+			"profile_link_color": "8600A1",
+			"profile_sidebar_border_color": "9CCE82",
+			"profile_sidebar_fill_color": "D2FEE4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1379092836025393200,
+		"quoted_status_id_str": "1379092836025393159",
+		"quoted_status_permalink": {
+			"url": "https://t.co/dUc0Ht36kA",
+			"expanded": "https://twitter.com/kbiegel/status/1379092836025393159",
+			"display": "twitter.com/kbiegel/status…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 05 15:25:29 +0000 2021",
+			"id": 1379092836025393200,
+			"id_str": "1379092836025393159",
+			"full_text": "This post on Reddit is one of the best, most terrifying short stories I’ve ever read about aliens. https://t.co/uZxNg5LbQZ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				98
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1379092827989139500,
+						"id_str": "1379092827989139456",
+						"indices": [
+							99,
+							122
+						],
+						"media_url": "http://pbs.twimg.com/media/EyOFnsyU4AAXe7j.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EyOFnsyU4AAXe7j.jpg",
+						"url": "https://t.co/uZxNg5LbQZ",
+						"display_url": "pic.twitter.com/uZxNg5LbQZ",
+						"expanded_url": "https://twitter.com/kbiegel/status/1379092836025393159/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 828,
+								"h": 1792,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 314,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 554,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1379092827989139500,
+						"id_str": "1379092827989139456",
+						"indices": [
+							99,
+							122
+						],
+						"media_url": "http://pbs.twimg.com/media/EyOFnsyU4AAXe7j.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EyOFnsyU4AAXe7j.jpg",
+						"url": "https://t.co/uZxNg5LbQZ",
+						"display_url": "pic.twitter.com/uZxNg5LbQZ",
+						"expanded_url": "https://twitter.com/kbiegel/status/1379092836025393159/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 828,
+								"h": 1792,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 314,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 554,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1379092831826940000,
+						"id_str": "1379092831826939904",
+						"indices": [
+							99,
+							122
+						],
+						"media_url": "http://pbs.twimg.com/media/EyOFn7FVEAAWJbu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EyOFn7FVEAAWJbu.jpg",
+						"url": "https://t.co/uZxNg5LbQZ",
+						"display_url": "pic.twitter.com/uZxNg5LbQZ",
+						"expanded_url": "https://twitter.com/kbiegel/status/1379092836025393159/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 554,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 314,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 828,
+								"h": 1792,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21473334,
+				"id_str": "21473334",
+				"name": "kevinbiegel",
+				"screen_name": "kbiegel",
+				"location": "",
+				"description": "Dad, husband... I do some other stuff, but those are the most important ones.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13804,
+				"friends_count": 8579,
+				"listed_count": 318,
+				"created_at": "Sat Feb 21 09:12:49 +0000 2009",
+				"favourites_count": 94559,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 91191,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1049181165154787328/sFXJDuQP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1049181165154787328/sFXJDuQP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21473334/1422294152",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2383,
+			"favorite_count": 9990,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 18,
+		"favorite_count": 117,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is AWESOME. Science-fiction fans take note. https://t.co/dUc0Ht36kA"
+	},
+	{
 		"created_at": "Tue Apr 06 18:30:37 +0000 2021",
 		"id": 1379501815985737700,
 		"id_str": "1379501815985737730",
