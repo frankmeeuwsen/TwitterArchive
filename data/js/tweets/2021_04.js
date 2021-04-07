@@ -1,6 +1,360 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Wed Apr 07 18:49:04 +0000 2021",
+		"id": 1379868846258069500,
+		"id_str": "1379868846258069505",
+		"full_text": "Potverdorie wat zitten hier mooie zinnen tussen! Al gehoord @puur? https://t.co/xCzoNdxm5m",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "puur",
+					"name": "puur",
+					"id": 5776422,
+					"id_str": "5776422",
+					"indices": [
+						60,
+						65
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xCzoNdxm5m",
+					"expanded_url": "https://twitter.com/JamesWorthy/status/1379753259351601154",
+					"display_url": "twitter.com/JamesWorthy/st…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8888,
+			"friends_count": 737,
+			"listed_count": 554,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7658,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64341,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1379753259351601200,
+		"quoted_status_id_str": "1379753259351601154",
+		"quoted_status_permalink": {
+			"url": "https://t.co/xCzoNdxm5m",
+			"expanded": "https://twitter.com/JamesWorthy/status/1379753259351601154",
+			"display": "twitter.com/JamesWorthy/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 07 11:09:46 +0000 2021",
+			"id": 1379753259351601200,
+			"id_str": "1379753259351601154",
+			"full_text": "Ik schreef een ode aan Amsterdam. @BigShotsNL @bpd_nl https://t.co/DZNcBmcGCs",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				53
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BigShotsNL",
+						"name": "Big Shots",
+						"id": 400006994,
+						"id_str": "400006994",
+						"indices": [
+							34,
+							45
+						]
+					},
+					{
+						"screen_name": "bpd_nl",
+						"name": "BPD | Bouwfonds Gebiedsontwikkeling",
+						"id": 1630284361,
+						"id_str": "1630284361",
+						"indices": [
+							46,
+							53
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1379753214157987800,
+						"id_str": "1379753214157987840",
+						"indices": [
+							54,
+							77
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1379753214157987840/pu/img/oH1WH47UnzrPcP7j.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1379753214157987840/pu/img/oH1WH47UnzrPcP7j.jpg",
+						"url": "https://t.co/DZNcBmcGCs",
+						"display_url": "pic.twitter.com/DZNcBmcGCs",
+						"expanded_url": "https://twitter.com/JamesWorthy/status/1379753259351601154/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1379753214157987800,
+						"id_str": "1379753214157987840",
+						"indices": [
+							54,
+							77
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1379753214157987840/pu/img/oH1WH47UnzrPcP7j.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1379753214157987840/pu/img/oH1WH47UnzrPcP7j.jpg",
+						"url": "https://t.co/DZNcBmcGCs",
+						"display_url": "pic.twitter.com/DZNcBmcGCs",
+						"expanded_url": "https://twitter.com/JamesWorthy/status/1379753259351601154/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 101107,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1379753214157987840/pu/pl/adiOC7jJvWEgPB1g.m3u8?tag=12"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1379753214157987840/pu/vid/480x270/NDTpAO2oKCe18e53.mp4?tag=12"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1379753214157987840/pu/vid/640x360/R_ZCxz8SZdz4-vvk.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 23452029,
+				"id_str": "23452029",
+				"name": "James Worthy",
+				"screen_name": "JamesWorthy",
+				"location": "Amsterdam",
+				"description": "Schrijver. Stotteraar. Dichter. Columnist. Amsterdam. Liverpool. Lebowski. James Worthy. Zwarte Sylvester. Mottenballen voor de ziel. In de buik van de wolf.",
+				"url": "https://t.co/qVZUa9DXrK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/qVZUa9DXrK",
+								"expanded_url": "http://www.james-worthy.com",
+								"display_url": "james-worthy.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 84177,
+				"friends_count": 1771,
+				"listed_count": 239,
+				"created_at": "Mon Mar 09 16:04:04 +0000 2009",
+				"favourites_count": 6811,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7241,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1029397636179275776/uSrBjScp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1029397636179275776/uSrBjScp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/23452029/1510096060",
+				"profile_link_color": "030003",
+				"profile_sidebar_border_color": "333333",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "030003",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 85,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Potverdorie wat zitten hier mooie zinnen tussen! Al gehoord @puur? https://t.co/xCzoNdxm5m"
+	},
+	{
 		"created_at": "Wed Apr 07 10:20:07 +0000 2021",
 		"id": 1379408171954008000,
 		"id_str": "1379740764335435776",
