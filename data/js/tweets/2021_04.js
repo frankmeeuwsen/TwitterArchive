@@ -1,6 +1,122 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Wed Apr 07 10:20:07 +0000 2021",
+		"id": 1379408171954008000,
+		"id_str": "1379740764335435776",
+		"full_text": "Vraag...Twitter laat je kracht zien! Volg @puurevents want ik wil over de 5k ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️ liefde voor events",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "puurevents",
+					"name": "Puur Events",
+					"id": 211792147,
+					"id_str": "211792147",
+					"indices": [
+						42,
+						53
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5776422,
+			"id_str": "5776422",
+			"name": "puur",
+			"screen_name": "puur",
+			"location": "Amsterdam en ook soms Aalsmeer",
+			"description": "Italiaans Amsterdamse I https://t.co/2fHylabTky I Journalist l Podcast l Engaging Woman of the Year I Blog l insta: nooitsaai #radicaalmild #Toftwitter #Kemta",
+			"url": "https://t.co/slwY95esbw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/slwY95esbw",
+							"expanded_url": "http://www.puur.nl",
+							"display_url": "puur.nl",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/2fHylabTky",
+							"expanded_url": "http://Puur.nl",
+							"display_url": "Puur.nl",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 15831,
+			"friends_count": 7395,
+			"listed_count": 648,
+			"created_at": "Fri May 04 22:06:39 +0000 2007",
+			"favourites_count": 74155,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 129598,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1189453629486456832/v7ZBGJ9j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1189453629486456832/v7ZBGJ9j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5776422/1553455118",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "82CE22",
+			"profile_sidebar_fill_color": "715B75",
+			"profile_text_color": "130C0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 38,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "nl",
+		"text": "Vraag...Twitter laat je kracht zien! Volg @puurevents want ik wil over de 5k ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️ liefde voor events"
+	},
+	{
 		"created_at": "Wed Apr 07 07:32:36 +0000 2021",
 		"id": 1379698610292555800,
 		"id_str": "1379698610292555777",
