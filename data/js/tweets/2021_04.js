@@ -1,6 +1,708 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Wed Apr 07 20:07:03 +0000 2021",
+		"id": 1379888471976861700,
+		"id_str": "1379888471976861696",
+		"full_text": "Hoe is het eigenlijk met die boot uit het Suez kanaal? Is die nog steeds onderweg?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8888,
+			"friends_count": 736,
+			"listed_count": 554,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7661,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64345,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "Hoe is het eigenlijk met die boot uit het Suez kanaal? Is die nog steeds onderweg?"
+	},
+	{
+		"created_at": "Wed Apr 07 20:02:56 +0000 2021",
+		"id": 1379887435161743400,
+		"id_str": "1379887435161743360",
+		"full_text": "Dit is fantastisch. De NL-Blogosfeer nog beter en dieper geïndexeerd. En best trots dat ik daar met Bloghelden aan mee heb geholpen :-) https://t.co/ffzoz0rKTF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ffzoz0rKTF",
+					"expanded_url": "https://twitter.com/keesone/status/1379749814213181440",
+					"display_url": "twitter.com/keesone/status…",
+					"indices": [
+						136,
+						159
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8888,
+			"friends_count": 736,
+			"listed_count": 554,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7661,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64345,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1379749814213181400,
+		"quoted_status_id_str": "1379749814213181440",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ffzoz0rKTF",
+			"expanded": "https://twitter.com/keesone/status/1379749814213181440",
+			"display": "twitter.com/keesone/status…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 07 10:56:04 +0000 2021",
+			"id": 1379749814213181400,
+			"id_str": "1379749814213181440",
+			"full_text": "#webarchivingwednesday: description of third web collection on Dutch blogosphere of @KB_Nederland #library published. Thanks @silvertje and @esthr for their help! https://t.co/J02XcxUTGl https://t.co/9OKsBFE0rd",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				186
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "webarchivingwednesday",
+						"indices": [
+							0,
+							22
+						]
+					},
+					{
+						"text": "library",
+						"indices": [
+							98,
+							106
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "KB_Nederland",
+						"name": "KB Nederland",
+						"id": 52443287,
+						"id_str": "52443287",
+						"indices": [
+							84,
+							97
+						]
+					},
+					{
+						"screen_name": "silvertje",
+						"name": "Anne Helmond",
+						"id": 8273852,
+						"id_str": "8273852",
+						"indices": [
+							125,
+							135
+						]
+					},
+					{
+						"screen_name": "esthr",
+						"name": "esther weltevrede",
+						"id": 8104332,
+						"id_str": "8104332",
+						"indices": [
+							140,
+							146
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/J02XcxUTGl",
+						"expanded_url": "https://lab.kb.nl/dataset/web-collection-nl-blogosfeer",
+						"display_url": "lab.kb.nl/dataset/web-co…",
+						"indices": [
+							163,
+							186
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1379749525863211000,
+						"id_str": "1379749525863211010",
+						"indices": [
+							187,
+							210
+						],
+						"media_url": "http://pbs.twimg.com/media/EyXa4jAXIAIEOvQ.png",
+						"media_url_https": "https://pbs.twimg.com/media/EyXa4jAXIAIEOvQ.png",
+						"url": "https://t.co/9OKsBFE0rd",
+						"display_url": "pic.twitter.com/9OKsBFE0rd",
+						"expanded_url": "https://twitter.com/keesone/status/1379749814213181440/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 830,
+								"h": 735,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 602,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 830,
+								"h": 735,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1379749525863211000,
+						"id_str": "1379749525863211010",
+						"indices": [
+							187,
+							210
+						],
+						"media_url": "http://pbs.twimg.com/media/EyXa4jAXIAIEOvQ.png",
+						"media_url_https": "https://pbs.twimg.com/media/EyXa4jAXIAIEOvQ.png",
+						"url": "https://t.co/9OKsBFE0rd",
+						"display_url": "pic.twitter.com/9OKsBFE0rd",
+						"expanded_url": "https://twitter.com/keesone/status/1379749814213181440/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 830,
+								"h": 735,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 602,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 830,
+								"h": 735,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15970999,
+				"id_str": "15970999",
+				"name": "Kees Teszelszky",
+				"screen_name": "keesone",
+				"location": "The Hague, The Netherlands",
+				"description": "Curator Digital Collections @KB_Nederland national library | born digital heritage | web archaeology | Meme Lord | earlymodern history→@teszelszky",
+				"url": "https://t.co/0d00DlmPxH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0d00DlmPxH",
+								"expanded_url": "https://zenodo.org/search?page=1&size=20&q=teszelszky",
+								"display_url": "zenodo.org/search?page=1&…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1318,
+				"friends_count": 1781,
+				"listed_count": 42,
+				"created_at": "Sun Aug 24 18:05:00 +0000 2008",
+				"favourites_count": 6951,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6353,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1020417469243166721/IyKx41sW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1020417469243166721/IyKx41sW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15970999/1600163995",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Dit is fantastisch. De NL-Blogosfeer nog beter en dieper geïndexeerd. En best trots dat ik daar met Bloghelden aan mee heb geholpen :-) https://t.co/ffzoz0rKTF"
+	},
+	{
+		"created_at": "Wed Apr 07 19:47:53 +0000 2021",
+		"id": 1379883650746028000,
+		"id_str": "1379883650746028034",
+		"full_text": "Notetaking apps als de nieuwe dataslurpers... https://t.co/fLciPHO63N",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fLciPHO63N",
+					"expanded_url": "https://twitter.com/obsdmd/status/1379839734189543425",
+					"display_url": "twitter.com/obsdmd/status/…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8888,
+			"friends_count": 736,
+			"listed_count": 554,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7661,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64345,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1379839734189543400,
+		"quoted_status_id_str": "1379839734189543425",
+		"quoted_status_permalink": {
+			"url": "https://t.co/fLciPHO63N",
+			"expanded": "https://twitter.com/obsdmd/status/1379839734189543425",
+			"display": "twitter.com/obsdmd/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 07 16:53:23 +0000 2021",
+			"id": 1379839734189543400,
+			"id_str": "1379839734189543425",
+			"full_text": "Oh snap...\n\nIt can’t happen with Obsidian though, since everything is offline and end-to-end encrypted (Obsidian Sync). https://t.co/JKtOh8vfhO",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				119
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/JKtOh8vfhO",
+						"expanded_url": "https://twitter.com/jevakallio/status/1379557958439333889",
+						"display_url": "twitter.com/jevakallio/sta…",
+						"indices": [
+							120,
+							143
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1239876481951596500,
+				"id_str": "1239876481951596545",
+				"name": "Obsidian",
+				"screen_name": "obsdmd",
+				"location": "",
+				"description": "A second brain, for you, forever. Join our community! https://t.co/F9cLHhN4GR",
+				"url": "https://t.co/BoI54Hk6VB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/BoI54Hk6VB",
+								"expanded_url": "https://obsidian.md",
+								"display_url": "obsidian.md",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/F9cLHhN4GR",
+								"expanded_url": "https://obsidian.md/community",
+								"display_url": "obsidian.md/community",
+								"indices": [
+									54,
+									77
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 21493,
+				"friends_count": 3,
+				"listed_count": 486,
+				"created_at": "Tue Mar 17 11:29:40 +0000 2020",
+				"favourites_count": 924,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 488,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1269490744609341442/MaweGLMN_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269490744609341442/MaweGLMN_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1239876481951596545/1590695448",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1379557958439334000,
+			"quoted_status_id_str": "1379557958439333889",
+			"quoted_status_permalink": {
+				"url": "https://t.co/JKtOh8vfhO",
+				"expanded": "https://twitter.com/jevakallio/status/1379557958439333889",
+				"display": "twitter.com/jevakallio/sta…"
+			},
+			"retweet_count": 29,
+			"favorite_count": 258,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Notetaking apps als de nieuwe dataslurpers... https://t.co/fLciPHO63N"
+	},
+	{
 		"created_at": "Wed Apr 07 18:49:04 +0000 2021",
 		"id": 1379868846258069500,
 		"id_str": "1379868846258069505",
