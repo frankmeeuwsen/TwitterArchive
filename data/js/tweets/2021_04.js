@@ -1,6 +1,302 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Sun Apr 11 22:27:00 +0000 2021",
+		"id": 1381373243051901000,
+		"id_str": "1381373243051900928",
+		"full_text": "😍😍😍😍 https://t.co/2296Z2a3OI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			4
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2296Z2a3OI",
+					"expanded_url": "https://twitter.com/ballmatthew/status/1381337897316519938",
+					"display_url": "twitter.com/ballmatthew/st…",
+					"indices": [
+						5,
+						28
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8883,
+			"friends_count": 740,
+			"listed_count": 554,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7667,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64364,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1381337897316520000,
+		"quoted_status_id_str": "1381337897316519938",
+		"quoted_status_permalink": {
+			"url": "https://t.co/2296Z2a3OI",
+			"expanded": "https://twitter.com/ballmatthew/status/1381337897316519938",
+			"display": "twitter.com/ballmatthew/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Apr 11 20:06:33 +0000 2021",
+			"id": 1381337897316520000,
+			"id_str": "1381337897316519938",
+			"full_text": "Making a deck.\n\nPopular Mechanics, 1995 https://t.co/4JTJTei257",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				39
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1381337724259565600,
+						"id_str": "1381337724259565568",
+						"indices": [
+							40,
+							63
+						],
+						"media_url": "http://pbs.twimg.com/media/Eyt_V3FWgAApCLQ.png",
+						"media_url_https": "https://pbs.twimg.com/media/Eyt_V3FWgAApCLQ.png",
+						"url": "https://t.co/4JTJTei257",
+						"display_url": "pic.twitter.com/4JTJTei257",
+						"expanded_url": "https://twitter.com/ballmatthew/status/1381337897316519938/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 662,
+								"h": 768,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 586,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 662,
+								"h": 768,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1381337724259565600,
+						"id_str": "1381337724259565568",
+						"indices": [
+							40,
+							63
+						],
+						"media_url": "http://pbs.twimg.com/media/Eyt_V3FWgAApCLQ.png",
+						"media_url_https": "https://pbs.twimg.com/media/Eyt_V3FWgAApCLQ.png",
+						"url": "https://t.co/4JTJTei257",
+						"display_url": "pic.twitter.com/4JTJTei257",
+						"expanded_url": "https://twitter.com/ballmatthew/status/1381337897316519938/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 662,
+								"h": 768,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 586,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 662,
+								"h": 768,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2434397022,
+				"id_str": "2434397022",
+				"name": "Matthew Ball",
+				"screen_name": "ballmatthew",
+				"location": "Toronto / NYC / LA",
+				"description": "Strategist, essayist, investor, advisor. Partner @EpyllionCo + Venture Partner @makersfundvc. Former Head of Strategy @AmazonStudios, Otter @ Chernin. 🇨🇦",
+				"url": "https://t.co/83uzyw1OJQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/83uzyw1OJQ",
+								"expanded_url": "http://Www.matthewball.vc",
+								"display_url": "matthewball.vc",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 67474,
+				"friends_count": 173,
+				"listed_count": 1502,
+				"created_at": "Tue Apr 08 21:38:01 +0000 2014",
+				"favourites_count": 15226,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 20352,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "89C9FA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1327446922416844800/2MsEDbaC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1327446922416844800/2MsEDbaC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2434397022/1604849206",
+				"profile_link_color": "654321",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 113,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "😍😍😍😍 https://t.co/2296Z2a3OI"
+	},
+	{
 		"created_at": "Sun Apr 11 21:24:23 +0000 2021",
 		"id": 1381357485311803400,
 		"id_str": "1381357485311803396",
