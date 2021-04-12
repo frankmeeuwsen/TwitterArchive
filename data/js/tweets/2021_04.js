@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Mon Apr 12 16:56:34 +0000 2021",
+		"id": 1381634712431702000,
+		"id_str": "1381652474180812803",
+		"full_text": "Nog minder dan 1000 (!!). Dus als je wil helpen om Lego-stad fietsvriendelijk te maken en het laatste zetje te geven richting @LEGO_Group klik even door op https://t.co/ZtJDGVYteF en support! (en deel ver en wijd en overal)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LEGO_Group",
+					"name": "LEGO",
+					"id": 295325513,
+					"id_str": "295325513",
+					"indices": [
+						126,
+						137
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZtJDGVYteF",
+					"expanded_url": "http://bit.ly/legofiets",
+					"display_url": "bit.ly/legofiets",
+					"indices": [
+						156,
+						179
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19087381,
+			"id_str": "19087381",
+			"name": "Marcel Steeman",
+			"screen_name": "msteeman",
+			"location": "Castricum",
+			"description": "Ouwe weblogkliek. Statenlid D66 NH. Stroopwafelenthousiast Vader Goeroe Protector of the realm. #eerlijkeverpakkingen #ophefkalender LEGO FIETSPADEN!",
+			"url": "https://t.co/Xu8PN3EDru",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Xu8PN3EDru",
+							"expanded_url": "https://ideas.lego.com/projects/acdc6e0c-d635-43d4-8292-76510aa54f02/",
+							"display_url": "ideas.lego.com/projects/acdc6…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5274,
+			"friends_count": 4422,
+			"listed_count": 93,
+			"created_at": "Fri Jan 16 21:53:51 +0000 2009",
+			"favourites_count": 67884,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93389,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F96609",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1369581003417804802/kl2r7Ddg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1369581003417804802/kl2r7Ddg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19087381/1401992182",
+			"profile_link_color": "F96609",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F4EBDC",
+			"profile_text_color": "95979A",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Nog minder dan 1000 (!!). Dus als je wil helpen om Lego-stad fietsvriendelijk te maken en het laatste zetje te geven richting @LEGO_Group klik even door op https://t.co/ZtJDGVYteF en support! (en deel ver en wijd en overal)"
+	},
+	{
 		"created_at": "Mon Apr 12 15:04:17 +0000 2021",
 		"id": 1381624217444229000,
 		"id_str": "1381624217444229123",
