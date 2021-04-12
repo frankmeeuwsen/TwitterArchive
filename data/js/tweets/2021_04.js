@@ -1,6 +1,355 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Mon Apr 12 18:00:26 +0000 2021",
+		"id": 1381668547743645700,
+		"id_str": "1381668547743645700",
+		"full_text": "Dit zijn van die sportmomenten waar @Jessemoerkerk van smult volgens mij. https://t.co/IILyWNbbVH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Jessemoerkerk",
+					"name": "Jesse Moerkerk",
+					"id": 319033092,
+					"id_str": "319033092",
+					"indices": [
+						36,
+						50
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/IILyWNbbVH",
+					"expanded_url": "https://twitter.com/guardian_sport/status/1381626228940148737",
+					"display_url": "twitter.com/guardian_sport…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8884,
+			"friends_count": 741,
+			"listed_count": 554,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7672,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64370,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1381626228940148700,
+		"quoted_status_id_str": "1381626228940148737",
+		"quoted_status_permalink": {
+			"url": "https://t.co/IILyWNbbVH",
+			"expanded": "https://twitter.com/guardian_sport/status/1381626228940148737",
+			"display": "twitter.com/guardian_sport…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 12 15:12:17 +0000 2021",
+			"id": 1381626228940148700,
+			"id_str": "1381626228940148737",
+			"full_text": "\"My goodness! The ginger assassin just dropped the 7-10! Give me some oxygen and water!\" – the commentators go wild as 18-year-old Anthony Neuer becomes the first bowler to hit a 7-10 on TV in 30 years. Via @PBATour https://t.co/C9daP9xAAg",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				215
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "PBATour",
+						"name": "PBA Tour",
+						"id": 22534835,
+						"id_str": "22534835",
+						"indices": [
+							207,
+							215
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1381625718124187600,
+						"id_str": "1381625718124187651",
+						"indices": [
+							216,
+							239
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1381625718124187651/pu/img/h-Thu13Z3tHwp-vg.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1381625718124187651/pu/img/h-Thu13Z3tHwp-vg.jpg",
+						"url": "https://t.co/C9daP9xAAg",
+						"display_url": "pic.twitter.com/C9daP9xAAg",
+						"expanded_url": "https://twitter.com/guardian_sport/status/1381626228940148737/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1381625718124187600,
+						"id_str": "1381625718124187651",
+						"indices": [
+							216,
+							239
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1381625718124187651/pu/img/h-Thu13Z3tHwp-vg.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1381625718124187651/pu/img/h-Thu13Z3tHwp-vg.jpg",
+						"url": "https://t.co/C9daP9xAAg",
+						"display_url": "pic.twitter.com/C9daP9xAAg",
+						"expanded_url": "https://twitter.com/guardian_sport/status/1381626228940148737/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 59840,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1381625718124187651/pu/vid/540x540/dJuT4nR0Jk1dNSeH.mp4?tag=12"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1381625718124187651/pu/vid/320x320/qbcXrsIxMKEFo07_.mp4?tag=12"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1381625718124187651/pu/vid/720x720/W1wD90uT2HCztdmj.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1381625718124187651/pu/pl/iICENRiaY2qyn00Y.m3u8?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 46403451,
+				"id_str": "46403451",
+				"name": "Guardian sport",
+				"screen_name": "guardian_sport",
+				"location": "London",
+				"description": "Sport news, comment, video and more from the @Guardian. For all your US sports needs, follow @GdnUSsports, and Australian sport @GdnAusSport. IG: guardian_sport",
+				"url": "https://t.co/YJoNLFSjE2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YJoNLFSjE2",
+								"expanded_url": "http://www.theguardian.com/sport",
+								"display_url": "theguardian.com/sport",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 853911,
+				"friends_count": 1773,
+				"listed_count": 8863,
+				"created_at": "Thu Jun 11 14:55:04 +0000 2009",
+				"favourites_count": 369,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 227778,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1065992924566077441/5iDfDrqi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065992924566077441/5iDfDrqi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/46403451/1542987487",
+				"profile_link_color": "005689",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 48,
+			"favorite_count": 243,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Dit zijn van die sportmomenten waar @Jessemoerkerk van smult volgens mij. https://t.co/IILyWNbbVH"
+	},
+	{
 		"created_at": "Mon Apr 12 16:56:34 +0000 2021",
 		"id": 1381634712431702000,
 		"id_str": "1381652474180812803",
