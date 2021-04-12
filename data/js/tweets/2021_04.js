@@ -1,6 +1,203 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Mon Apr 12 19:39:28 +0000 2021",
+		"id": 1381693469287194600,
+		"id_str": "1381693469287194624",
+		"full_text": "Weinig series zo vol met kneitersterke muziek als High Fidelity. Verhaal is meh maar de muziek is *chef's kiss* https://t.co/bZj86IiNp0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1381693454607073300,
+					"id_str": "1381693454607073291",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EyzC4F5WQAstWcg.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EyzC4F5WQAstWcg.jpg",
+					"url": "https://t.co/bZj86IiNp0",
+					"display_url": "pic.twitter.com/bZj86IiNp0",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1381693469287194624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 248,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 248,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 248,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1381693454607073300,
+					"id_str": "1381693454607073291",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EyzC4F5WQAstWcg.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EyzC4F5WQAstWcg.jpg",
+					"url": "https://t.co/bZj86IiNp0",
+					"display_url": "pic.twitter.com/bZj86IiNp0",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1381693469287194624/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 248,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 248,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 248,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							124
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EyzC4F5WQAstWcg.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8884,
+			"friends_count": 741,
+			"listed_count": 554,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7673,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64371,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Weinig series zo vol met kneitersterke muziek als High Fidelity. Verhaal is meh maar de muziek is *chef's kiss* https://t.co/bZj86IiNp0"
+	},
+	{
 		"created_at": "Mon Apr 12 18:00:26 +0000 2021",
 		"id": 1381668547743645700,
 		"id_str": "1381668547743645700",
