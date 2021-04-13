@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Tue Apr 13 16:48:16 +0000 2021",
+		"id": 1382012775128572000,
+		"id_str": "1382012775128571911",
+		"full_text": "Lekker nummer hoor https://t.co/3oxIL6rpQD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3oxIL6rpQD",
+					"expanded_url": "https://twitter.com/jasperleijdens/status/1381986654173401088",
+					"display_url": "twitter.com/jasperleijdens…",
+					"indices": [
+						19,
+						42
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8883,
+			"friends_count": 743,
+			"listed_count": 554,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7674,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64372,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1381986654173401000,
+		"quoted_status_id_str": "1381986654173401088",
+		"quoted_status_permalink": {
+			"url": "https://t.co/3oxIL6rpQD",
+			"expanded": "https://twitter.com/jasperleijdens/status/1381986654173401088",
+			"display": "twitter.com/jasperleijdens…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 13 15:04:29 +0000 2021",
+			"id": 1381986654173401000,
+			"id_str": "1381986654173401088",
+			"full_text": "Whoaaa! Mick Jagger en Dave Grohl samen. https://t.co/rd6B8Tu2zL",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				64
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/rd6B8Tu2zL",
+						"expanded_url": "https://www.youtube.com/watch?v=MN9YLLQl7gE&feature=emb_title&ab_channel=MickJagger",
+						"display_url": "youtube.com/watch?v=MN9YLL…",
+						"indices": [
+							41,
+							64
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18266124,
+				"id_str": "18266124",
+				"name": "Jasper Leijdens | ꓘINK 📻",
+				"screen_name": "JasperLeijdens",
+				"location": "Utrecht, Nederland",
+				"description": "KINK In Touch (ma-do: 19-22u), Brand New KINK (ma-vr 18-19u @ KINK Indie | Muzieksamensteller KINK Indie | Altijd op zoek naar nieuwe muziek | Speciaalbier🍻",
+				"url": "https://t.co/Shz8fBrqRr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Shz8fBrqRr",
+								"expanded_url": "http://www.instagram.com/jasperleijdens",
+								"display_url": "instagram.com/jasperleijdens",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3971,
+				"friends_count": 824,
+				"listed_count": 61,
+				"created_at": "Sat Dec 20 13:46:17 +0000 2008",
+				"favourites_count": 15025,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 51191,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1330740132643823617/cV8AKDo3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330740132643823617/cV8AKDo3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18266124/1603884640",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Lekker nummer hoor https://t.co/3oxIL6rpQD"
+	},
+	{
 		"created_at": "Mon Apr 12 19:39:28 +0000 2021",
 		"id": 1381693469287194600,
 		"id_str": "1381693469287194624",
