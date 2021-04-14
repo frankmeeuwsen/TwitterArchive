@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Wed Apr 14 20:15:02 +0000 2021",
+		"id": 1382426567792586800,
+		"id_str": "1382427194991972356",
+		"full_text": "My podcast producer just noticed that Bernie Madoff died the same day that Coinbase went public. Is this mere coincidence, or the passing of the torch..?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15085196,
+			"id_str": "15085196",
+			"name": "douglas rushkoff",
+			"screen_name": "rushkoff",
+			"location": "Hastings on Hudson, NY",
+			"description": "Media theorist, author. Team Human. He, Him.",
+			"url": "https://t.co/saXVwJz1Zy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/saXVwJz1Zy",
+							"expanded_url": "http://rushkoff.com",
+							"display_url": "rushkoff.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53515,
+			"friends_count": 742,
+			"listed_count": 2638,
+			"created_at": "Wed Jun 11 14:38:01 +0000 2008",
+			"favourites_count": 363,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 187,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1143932572583505927/XJ2lqYkI_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1143932572583505927/XJ2lqYkI_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15085196/1548165833",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 53,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "My podcast producer just noticed that Bernie Madoff died the same day that Coinbase went public. Is this mere coincidence, or the passing of the torch..?"
+	},
+	{
 		"created_at": "Wed Apr 14 11:07:25 +0000 2021",
 		"id": 1382289381927612400,
 		"id_str": "1382289381927612418",
