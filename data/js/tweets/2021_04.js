@@ -1,6 +1,140 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Thu Apr 15 17:52:19 +0000 2021",
+		"id": 1382599362015023000,
+		"id_str": "1382753667628023808",
+		"full_text": "Spotify Partners with Live Music Streaming Platform https://t.co/FHG1RNZikH for Virtual Concert Integration https://t.co/ajHQ5tn5PX @nugsnet @SpotifyUSA @consequence",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nugsnet",
+					"name": "nugs.net",
+					"id": 309870370,
+					"id_str": "309870370",
+					"indices": [
+						132,
+						140
+					]
+				},
+				{
+					"screen_name": "SpotifyUSA",
+					"name": "Spotify USA",
+					"id": 213687893,
+					"id_str": "213687893",
+					"indices": [
+						141,
+						152
+					]
+				},
+				{
+					"screen_name": "consequence",
+					"name": "Consequence",
+					"id": 15553222,
+					"id_str": "15553222",
+					"indices": [
+						153,
+						165
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FHG1RNZikH",
+					"expanded_url": "http://nugs.net",
+					"display_url": "nugs.net",
+					"indices": [
+						52,
+						75
+					]
+				},
+				{
+					"url": "https://t.co/ajHQ5tn5PX",
+					"expanded_url": "https://consequence.net/2021/04/spotify-nugs-net/",
+					"display_url": "consequence.net/2021/04/spotif…",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2445883256,
+			"id_str": "2445883256",
+			"name": "demetrios",
+			"screen_name": "demetriosns",
+			"location": " 🇨🇦",
+			"description": "#pearljam",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4529,
+			"friends_count": 4629,
+			"listed_count": 48,
+			"created_at": "Tue Apr 15 19:14:28 +0000 2014",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27535,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/964089175489351680/xBdqHMwd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/964089175489351680/xBdqHMwd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2445883256/1518692315",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 23,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Spotify Partners with Live Music Streaming Platform https://t.co/FHG1RNZikH for Virtual Concert Integration https://t.co/ajHQ5tn5PX @nugsnet @SpotifyUSA @consequence"
+	},
+	{
 		"created_at": "Thu Apr 15 17:14:54 +0000 2021",
 		"id": 1382459782511140900,
 		"id_str": "1382744251809861634",
@@ -261,7 +395,7 @@ Grailbird.data.tweets_2021_04 =
 				},
 				{
 					"screen_name": "bopp",
-					"name": "Bob 🧙‍♂️",
+					"name": "Bob 🧙♂️",
 					"id": 8160822,
 					"id_str": "8160822",
 					"indices": [
