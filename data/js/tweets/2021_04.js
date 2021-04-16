@@ -1,6 +1,268 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Fri Apr 16 05:39:24 +0000 2021",
+		"id": 1382906597169623000,
+		"id_str": "1382931612820766720",
+		"full_text": "Celebrating 30 years of Temple of the Dog and the legend who inspired the group.\n\n@TheNudeDragons @MikeMcCreadyPJ @SGossard @ChrisCornell\n\n📸: Lance Mercer https://t.co/nx8XFbujBo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thenudedragons",
+					"name": "nudedragons",
+					"id": 1271277398315630600,
+					"id_str": "1271277398315630592",
+					"indices": [
+						82,
+						97
+					]
+				},
+				{
+					"screen_name": "MikeMcCreadyPJ",
+					"name": "Mike McCready",
+					"id": 270193608,
+					"id_str": "270193608",
+					"indices": [
+						98,
+						113
+					]
+				},
+				{
+					"screen_name": "SGossard",
+					"name": "Stone Gossard",
+					"id": 337894513,
+					"id_str": "337894513",
+					"indices": [
+						114,
+						123
+					]
+				},
+				{
+					"screen_name": "chriscornell",
+					"name": "Chris Cornell",
+					"id": 19404587,
+					"id_str": "19404587",
+					"indices": [
+						124,
+						137
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1382861700555227100,
+					"id_str": "1382861700555227136",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/EzDpY9MWQAAyuVr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzDpY9MWQAAyuVr.jpg",
+					"url": "https://t.co/nx8XFbujBo",
+					"display_url": "pic.twitter.com/nx8XFbujBo",
+					"expanded_url": "https://twitter.com/PearlJam/status/1382906597169623041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 780,
+							"h": 516,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 780,
+							"h": 516,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1382861700555227100,
+					"id_str": "1382861700555227136",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/EzDpY9MWQAAyuVr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzDpY9MWQAAyuVr.jpg",
+					"url": "https://t.co/nx8XFbujBo",
+					"display_url": "pic.twitter.com/nx8XFbujBo",
+					"expanded_url": "https://twitter.com/PearlJam/status/1382906597169623041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 780,
+							"h": 516,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 780,
+							"h": 516,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1382861727247786000,
+					"id_str": "1382861727247785987",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/EzDpagoWYAMCkmF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzDpagoWYAMCkmF.jpg",
+					"url": "https://t.co/nx8XFbujBo",
+					"display_url": "pic.twitter.com/nx8XFbujBo",
+					"expanded_url": "https://twitter.com/PearlJam/status/1382906597169623041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 444,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 980,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 784,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15155074,
+			"id_str": "15155074",
+			"name": "Pearl Jam",
+			"screen_name": "PearlJam",
+			"location": "Seattle, WA",
+			"description": "Gigaton - Out Now. Listen to the new album: https://t.co/7zBEnR3rMU",
+			"url": "https://t.co/J95aoJ5FKF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/J95aoJ5FKF",
+							"expanded_url": "http://www.PearlJam.com",
+							"display_url": "PearlJam.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7zBEnR3rMU",
+							"expanded_url": "http://pearljam.lnk.to/gigatonTw",
+							"display_url": "pearljam.lnk.to/gigatonTw",
+							"indices": [
+								44,
+								67
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3570230,
+			"friends_count": 897,
+			"listed_count": 17100,
+			"created_at": "Wed Jun 18 06:59:14 +0000 2008",
+			"favourites_count": 4213,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8821,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1216784176659279874/NCaJxxiE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1216784176659279874/NCaJxxiE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15155074/1585282596",
+			"profile_link_color": "A17F59",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 290,
+		"favorite_count": 1725,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Celebrating 30 years of Temple of the Dog and the legend who inspired the group.\n\n@TheNudeDragons @MikeMcCreadyPJ @SGossard @ChrisCornell\n\n📸: Lance Mercer https://t.co/nx8XFbujBo"
+	},
+	{
 		"created_at": "Thu Apr 15 20:11:25 +0000 2021",
 		"id": 1382788673490587600,
 		"id_str": "1382788673490587652",
