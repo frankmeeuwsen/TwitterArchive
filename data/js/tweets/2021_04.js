@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Fri Apr 16 16:02:38 +0000 2021",
+		"id": 1383087094957011000,
+		"id_str": "1383088453982818306",
+		"full_text": "A clone of the original WorldWideWeb browser that TBL wrote, running in a web browser. https://t.co/DzKHkD14sx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DzKHkD14sx",
+					"expanded_url": "https://worldwideweb.cern.ch/browser/",
+					"display_url": "worldwideweb.cern.ch/browser/",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://radio3.io/\" rel=\"nofollow\">radio3.io</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3839,
+			"id_str": "3839",
+			"name": "Dave Winer",
+			"screen_name": "davewiner",
+			"location": "Woodstock, NY",
+			"description": "On the net since mid-70s. Started two Silicon Valley companies. Wrote for Wired. Fellow at Harvard, NYU. Founder of podcasting, blogging, RSS. Open web.",
+			"url": "https://t.co/ztgzDGiyOj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ztgzDGiyOj",
+							"expanded_url": "http://scripting.com/",
+							"display_url": "scripting.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 67312,
+			"friends_count": 3848,
+			"listed_count": 5299,
+			"created_at": "Sat Aug 05 23:04:08 +0000 2006",
+			"favourites_count": 17493,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 191123,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325163719400153089/eW6KCGsY_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325163719400153089/eW6KCGsY_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3839/1616275541",
+			"profile_link_color": "7F7F90",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E1E1DF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A clone of the original WorldWideWeb browser that TBL wrote, running in a web browser. https://t.co/DzKHkD14sx"
+	},
+	{
 		"created_at": "Fri Apr 16 14:16:03 +0000 2021",
 		"id": 1383061630192324600,
 		"id_str": "1383061630192324612",
