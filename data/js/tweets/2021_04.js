@@ -1,6 +1,246 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Sat Apr 17 06:59:56 +0000 2021",
+		"id": 1383314264627187700,
+		"id_str": "1383314264627187713",
+		"full_text": "Wat een verhaal is dit. Door afbraakpolitiek was dit land een jaar geleden compleet onvoorbereid op de pandemie. Maar hé, “wat een gááf land is het he!” Beschamend. https://t.co/utpfrOTJSp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/utpfrOTJSp",
+					"expanded_url": "https://twitter.com/m_nieuwenhuis/status/1383285441093267456",
+					"display_url": "twitter.com/m_nieuwenhuis/…",
+					"indices": [
+						165,
+						188
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8883,
+			"friends_count": 740,
+			"listed_count": 554,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7690,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64409,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1383285441093267500,
+		"quoted_status_id_str": "1383285441093267456",
+		"quoted_status_permalink": {
+			"url": "https://t.co/utpfrOTJSp",
+			"expanded": "https://twitter.com/m_nieuwenhuis/status/1383285441093267456",
+			"display": "twitter.com/m_nieuwenhuis/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Apr 17 05:05:24 +0000 2021",
+			"id": 1383285441093267500,
+			"id_str": "1383285441093267456",
+			"full_text": "ONDERZOEK Alarm over slagkracht GGD weggehoond: 'Bewindsman zei letterlijk infectieziekten zijn toch voorbij'\nhttps://t.co/ywIJKzYTwx",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				133
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ywIJKzYTwx",
+						"expanded_url": "https://www.ad.nl/binnenland/ggd-kon-niet-anders-dan-falen-al-een-dag-na-eerste-positieve-test-in-nederland-overvraagd~a594f3b2b/",
+						"display_url": "ad.nl/binnenland/ggd…",
+						"indices": [
+							110,
+							133
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19065068,
+				"id_str": "19065068",
+				"name": "Marcia Nieuwenhuis",
+				"screen_name": "m_nieuwenhuis",
+				"location": "The Netherlands",
+				"description": "(Onderzoeks)journalist/politicoloog @ADnl/@DPGMediaNL 🔍 coronavirus wob data 3,5 miljoen 👁 p/d 🏆 winnaar Tegel 📬 Tip veilig m.nieuwenhuis@ad.nl https://t.co/OtUQcmMSDu",
+				"url": "https://t.co/FIYsVViMiu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FIYsVViMiu",
+								"expanded_url": "http://www.linkedin.com/in/marcianieuwenhuis/nl",
+								"display_url": "linkedin.com/in/marcianieuw…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/OtUQcmMSDu",
+								"expanded_url": "http://ad.nl/tips",
+								"display_url": "ad.nl/tips",
+								"indices": [
+									144,
+									167
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 11764,
+				"friends_count": 2455,
+				"listed_count": 313,
+				"created_at": "Fri Jan 16 13:00:37 +0000 2009",
+				"favourites_count": 837,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8005,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1303082891023351814/x_FO4Qz6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1303082891023351814/x_FO4Qz6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19065068/1603185972",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "5ED4DC",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 15,
+			"favorite_count": 21,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Wat een verhaal is dit. Door afbraakpolitiek was dit land een jaar geleden compleet onvoorbereid op de pandemie. Maar hé, “wat een gááf land is het he!” Beschamend. https://t.co/utpfrOTJSp"
+	},
+	{
 		"created_at": "Fri Apr 16 20:28:54 +0000 2021",
 		"id": 1383155460656799700,
 		"id_str": "1383155460656799747",
