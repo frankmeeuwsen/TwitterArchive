@@ -1,6 +1,215 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Sat Apr 17 20:34:22 +0000 2021",
+		"id": 1383519226325995500,
+		"id_str": "1383519226325995525",
+		"full_text": "@wimrampen Jimi Hendrix - Star Sprangled Banner live op Woodstock. \nZodat ze voelen en snappen wat de waarde van muziek in een bepaald tijdperk kan zijn. \nMaar goed, dan kan ik nog 25 nummers noemen... mooie vraag! https://t.co/exLgcEGtrt",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			214
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wimrampen",
+					"name": "Wim Rampen",
+					"id": 34012344,
+					"id_str": "34012344",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1383519218415530000,
+					"id_str": "1383519218415529990",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EzM_ZiGVcAYjL1l.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EzM_ZiGVcAYjL1l.jpg",
+					"url": "https://t.co/exLgcEGtrt",
+					"display_url": "pic.twitter.com/exLgcEGtrt",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1383519226325995525/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 300,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 300,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 300,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1383519218415530000,
+					"id_str": "1383519218415529990",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EzM_ZiGVcAYjL1l.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EzM_ZiGVcAYjL1l.jpg",
+					"url": "https://t.co/exLgcEGtrt",
+					"display_url": "pic.twitter.com/exLgcEGtrt",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1383519226325995525/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 300,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 300,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 300,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							83,
+							50
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EzM_ZiGVcAYjL1l.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1383474978205536300,
+		"in_reply_to_status_id_str": "1383474978205536260",
+		"in_reply_to_user_id": 34012344,
+		"in_reply_to_user_id_str": "34012344",
+		"in_reply_to_screen_name": "wimrampen",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8881,
+			"friends_count": 741,
+			"listed_count": 554,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7694,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64416,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@wimrampen Jimi Hendrix - Star Sprangled Banner live op Woodstock. \nZodat ze voelen en snappen wat de waarde van muziek in een bepaald tijdperk kan zijn. \nMaar goed, dan kan ik nog 25 nummers noemen... mooie vraag! https://t.co/exLgcEGtrt"
+	},
+	{
 		"created_at": "Sat Apr 17 10:58:49 +0000 2021",
 		"id": 1383374383016677400,
 		"id_str": "1383374383016677376",
