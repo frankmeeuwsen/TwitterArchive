@@ -1,6 +1,345 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Mon Apr 19 17:49:18 +0000 2021",
+		"id": 1384202459963220000,
+		"id_str": "1384202459963219976",
+		"full_text": "Ik ben heel benieuwd hoe dit gaat werken! https://t.co/6nHqAWz6Ue",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6nHqAWz6Ue",
+					"expanded_url": "https://twitter.com/alexvoica/status/1384115217978646535",
+					"display_url": "twitter.com/alexvoica/stat…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8884,
+			"friends_count": 742,
+			"listed_count": 554,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7695,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64426,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1384115217978646500,
+		"quoted_status_id_str": "1384115217978646535",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6nHqAWz6Ue",
+			"expanded": "https://twitter.com/alexvoica/status/1384115217978646535",
+			"display": "twitter.com/alexvoica/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 19 12:02:38 +0000 2021",
+			"id": 1384115217978646500,
+			"id_str": "1384115217978646535",
+			"full_text": "To give people more control and choice over their data, today we're announcing that Facebook posts and notes can be directly transferred to @GoogleDocs, @Blogger and @WordPress via our Transfer Your Information tool:\n\nhttps://t.co/ksHO0oeYq5 https://t.co/tiUrXZzFri",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				241
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "googledocs",
+						"name": "Google Docs",
+						"id": 488683847,
+						"id_str": "488683847",
+						"indices": [
+							140,
+							151
+						]
+					},
+					{
+						"screen_name": "Blogger",
+						"name": "Blogger",
+						"id": 18780567,
+						"id_str": "18780567",
+						"indices": [
+							153,
+							161
+						]
+					},
+					{
+						"screen_name": "WordPress",
+						"name": "WordPress",
+						"id": 685513,
+						"id_str": "685513",
+						"indices": [
+							166,
+							176
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/ksHO0oeYq5",
+						"expanded_url": "https://about.fb.com/news/2021/04/transfer-your-facebook-posts-and-notes-with-our-expanded-data-portability-tool/",
+						"display_url": "about.fb.com/news/2021/04/t…",
+						"indices": [
+							218,
+							241
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1384111526693335000,
+						"id_str": "1384111526693335041",
+						"indices": [
+							242,
+							265
+						],
+						"media_url": "http://pbs.twimg.com/media/EzVaGaYUcAEl0kC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EzVaGaYUcAEl0kC.jpg",
+						"url": "https://t.co/tiUrXZzFri",
+						"display_url": "pic.twitter.com/tiUrXZzFri",
+						"expanded_url": "https://twitter.com/alexvoica/status/1384115217978646535/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 429,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 757,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1292,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1384111526693335000,
+						"id_str": "1384111526693335041",
+						"indices": [
+							242,
+							265
+						],
+						"media_url": "http://pbs.twimg.com/media/EzVaGaYUcAEl0kC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EzVaGaYUcAEl0kC.jpg",
+						"url": "https://t.co/tiUrXZzFri",
+						"display_url": "pic.twitter.com/tiUrXZzFri",
+						"expanded_url": "https://twitter.com/alexvoica/status/1384115217978646535/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 429,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 757,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1292,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 202527880,
+				"id_str": "202527880",
+				"name": "Alexandru Voica 💀",
+				"screen_name": "alexvoica",
+				"location": "London, UK",
+				"description": "EMEA tech comms @Facebook covering innovation in AI, peanut butter, open source, maple syrup, sustainability, Guns N' Roses, and Facebook apps.",
+				"url": "https://t.co/DqzR69F3t4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/DqzR69F3t4",
+								"expanded_url": "https://linktr.ee/alexvoica",
+								"display_url": "linktr.ee/alexvoica",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5157,
+				"friends_count": 496,
+				"listed_count": 285,
+				"created_at": "Thu Oct 14 07:11:11 +0000 2010",
+				"favourites_count": 5713,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 9427,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "5A5A5A",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1031895501782708226/foFe8AeS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1031895501782708226/foFe8AeS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/202527880/1435300849",
+				"profile_link_color": "5A5A5A",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 20,
+			"favorite_count": 47,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Ik ben heel benieuwd hoe dit gaat werken! https://t.co/6nHqAWz6Ue"
+	},
+	{
 		"created_at": "Sun Apr 18 21:08:27 +0000 2021",
 		"id": 1383890189202854000,
 		"id_str": "1383890189202853890",
