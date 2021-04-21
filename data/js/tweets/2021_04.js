@@ -1,6 +1,541 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Wed Apr 21 20:00:14 +0000 2021",
+		"id": 1384960186591350800,
+		"id_str": "1384960186591350789",
+		"full_text": "But will it play Doom... ;-) https://t.co/y2wrUqSqvf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/y2wrUqSqvf",
+					"expanded_url": "https://twitter.com/Foone/status/1384958667838083074",
+					"display_url": "twitter.com/Foone/status/1…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8885,
+			"friends_count": 743,
+			"listed_count": 553,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7709,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64449,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1384958667838083000,
+		"quoted_status_id_str": "1384958667838083074",
+		"quoted_status_permalink": {
+			"url": "https://t.co/y2wrUqSqvf",
+			"expanded": "https://twitter.com/Foone/status/1384958667838083074",
+			"display": "twitter.com/Foone/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 21 19:54:12 +0000 2021",
+			"id": 1384958667838083000,
+			"id_str": "1384958667838083074",
+			"full_text": "I've said it before but one of the first things I want when I become a cyborg is to have calipers built into my hands. \nI pick up a thing and go \"hmm, 50.51mm\" https://t.co/DAMBRqsgVz",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				159
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1384958653963243500,
+						"id_str": "1384958653963243522",
+						"indices": [
+							160,
+							183
+						],
+						"media_url": "http://pbs.twimg.com/media/EzhcjtYVEAIjUHF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EzhcjtYVEAIjUHF.jpg",
+						"url": "https://t.co/DAMBRqsgVz",
+						"display_url": "pic.twitter.com/DAMBRqsgVz",
+						"expanded_url": "https://twitter.com/Foone/status/1384958667838083074/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 425,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 749,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1279,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1384958653963243500,
+						"id_str": "1384958653963243522",
+						"indices": [
+							160,
+							183
+						],
+						"media_url": "http://pbs.twimg.com/media/EzhcjtYVEAIjUHF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EzhcjtYVEAIjUHF.jpg",
+						"url": "https://t.co/DAMBRqsgVz",
+						"display_url": "pic.twitter.com/DAMBRqsgVz",
+						"expanded_url": "https://twitter.com/Foone/status/1384958667838083074/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 425,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 749,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1279,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 13502732,
+				"id_str": "13502732",
+				"name": "foone",
+				"screen_name": "Foone",
+				"location": "San Leandro, CA",
+				"description": "Hardware / software necromancer, collector of Weird Stuff, maker of Death Generators. (they/them)\nPatreon: https://t.co/6UkafJHkbD\nko-fi: https://t.co/6AzbhTO0lK",
+				"url": "https://t.co/2PlYsHBSvH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2PlYsHBSvH",
+								"expanded_url": "http://floppy.foone.org",
+								"display_url": "floppy.foone.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/6UkafJHkbD",
+								"expanded_url": "http://patreon.com/foone",
+								"display_url": "patreon.com/foone",
+								"indices": [
+									107,
+									130
+								]
+							},
+							{
+								"url": "https://t.co/6AzbhTO0lK",
+								"expanded_url": "http://ko-fi.com/fooneturing",
+								"display_url": "ko-fi.com/fooneturing",
+								"indices": [
+									138,
+									161
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 103544,
+				"friends_count": 548,
+				"listed_count": 823,
+				"created_at": "Fri Feb 15 03:51:09 +0000 2008",
+				"favourites_count": 77899,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 188017,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/880340410333143040/-s_buYC0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/880340410333143040/-s_buYC0_normal.jpg",
+				"profile_link_color": "008080",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 143,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "But will it play Doom... ;-) https://t.co/y2wrUqSqvf"
+	},
+	{
+		"created_at": "Wed Apr 21 19:58:26 +0000 2021",
+		"id": 1384688443398054000,
+		"id_str": "1384959733149446145",
+		"full_text": "#PJNerds\n“He won the lottery...”\nCredited to Dave Abbruzzese &amp; Jeff Ament, w/ lyrics by Eddie Vedder, WMA has been played live 101 times.\nW.M.A. stands for \"White Male American\" and is a statement against systemic racism in American police forces. The whole story is in the photo: https://t.co/CTo9k1AbJX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			284
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PJNerds",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1384688436703948800,
+					"id_str": "1384688436703948804",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/Ezdmy_pUcAQcawG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ezdmy_pUcAQcawG.jpg",
+					"url": "https://t.co/CTo9k1AbJX",
+					"display_url": "pic.twitter.com/CTo9k1AbJX",
+					"expanded_url": "https://twitter.com/JeffAmentsArmy/status/1384688443398053889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 677,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1236,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1194,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1384688436703948800,
+					"id_str": "1384688436703948804",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/Ezdmy_pUcAQcawG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ezdmy_pUcAQcawG.jpg",
+					"url": "https://t.co/CTo9k1AbJX",
+					"display_url": "pic.twitter.com/CTo9k1AbJX",
+					"expanded_url": "https://twitter.com/JeffAmentsArmy/status/1384688443398053889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 677,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1236,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1194,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1384688436720799700,
+					"id_str": "1384688436720799746",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/Ezdmy_tVkAINcE8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ezdmy_tVkAINcE8.jpg",
+					"url": "https://t.co/CTo9k1AbJX",
+					"display_url": "pic.twitter.com/CTo9k1AbJX",
+					"expanded_url": "https://twitter.com/JeffAmentsArmy/status/1384688443398053889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1242,
+							"h": 1103,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 604,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1066,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 545436446,
+			"id_str": "545436446",
+			"name": "Jeff Ament's Army",
+			"screen_name": "JeffAmentsArmy",
+			"location": "the whole world, world over",
+			"description": "JAA is a fan-based, grassroots organization (& division of the Montana Skatepark Assoc.) dedicated to supporting Jeff Ament's charitable & artistic activities.",
+			"url": "https://t.co/PQvNUvY8ra",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PQvNUvY8ra",
+							"expanded_url": "https://www.montanaskatepark.org",
+							"display_url": "montanaskatepark.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16932,
+			"friends_count": 252,
+			"listed_count": 137,
+			"created_at": "Wed Apr 04 20:59:31 +0000 2012",
+			"favourites_count": 13487,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25777,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2037558711/419865_3475000636501_1315764115_3464489_196590763_n_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2037558711/419865_3475000636501_1315764115_3464489_196590763_n_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/545436446/1589127818",
+			"profile_link_color": "ED6B2F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 102,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#PJNerds\n“He won the lottery...”\nCredited to Dave Abbruzzese &amp; Jeff Ament, w/ lyrics by Eddie Vedder, WMA has been played live 101 times.\nW.M.A. stands for \"White Male American\" and is a statement against systemic racism in American police forces. The whole story is in the photo: https://t.co/CTo9k1AbJX"
+	},
+	{
 		"created_at": "Wed Apr 21 07:06:12 +0000 2021",
 		"id": 1384765394775380000,
 		"id_str": "1384765394775379969",
