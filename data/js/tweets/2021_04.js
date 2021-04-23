@@ -1,6 +1,222 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Fri Apr 23 18:20:21 +0000 2021",
+		"id": 1385150764306346000,
+		"id_str": "1385659825430880260",
+		"full_text": "David Baguetta 😂 https://t.co/dusoxAtjmh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1385150605648334800,
+					"id_str": "1385150605648334853",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1385150605648334853/pu/img/HTJlQ8YPLfA4y28Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1385150605648334853/pu/img/HTJlQ8YPLfA4y28Y.jpg",
+					"url": "https://t.co/dusoxAtjmh",
+					"display_url": "pic.twitter.com/dusoxAtjmh",
+					"expanded_url": "https://twitter.com/maarten_goet/status/1385150764306345987/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1385150605648334800,
+					"id_str": "1385150605648334853",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1385150605648334853/pu/img/HTJlQ8YPLfA4y28Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1385150605648334853/pu/img/HTJlQ8YPLfA4y28Y.jpg",
+					"url": "https://t.co/dusoxAtjmh",
+					"display_url": "pic.twitter.com/dusoxAtjmh",
+					"expanded_url": "https://twitter.com/maarten_goet/status/1385150764306345987/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 15680,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1385150605648334853/pu/vid/480x852/-PvQKGFjXotKQq5o.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1385150605648334853/pu/vid/320x568/OZh82sp62sYgHWTX.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1385150605648334853/pu/vid/720x1280/EKjfJYLCtr5phoRP.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1385150605648334853/pu/pl/r0q1bUWin6TT5yiU.m3u8?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 47910081,
+			"id_str": "47910081",
+			"name": "Maarten Goet",
+			"screen_name": "maarten_goet",
+			"location": "The Netherlands",
+			"description": "Microsoft MVP since '07 & RD since '15. Director @Wortell. Speaker, mentor, coach. Love #AzureSentinel, #Defender & @msftsecurity. Follow me: https://t.co/9vlrm9ivz9",
+			"url": "https://t.co/FHAegAeVGu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FHAegAeVGu",
+							"expanded_url": "https://youtube.com/c/MaartenGoet",
+							"display_url": "youtube.com/c/MaartenGoet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/9vlrm9ivz9",
+							"expanded_url": "http://maartengoet.org",
+							"display_url": "maartengoet.org",
+							"indices": [
+								142,
+								165
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6494,
+			"friends_count": 199,
+			"listed_count": 513,
+			"created_at": "Wed Jun 17 09:38:12 +0000 2009",
+			"favourites_count": 2941,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29200,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "002F5D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1335193723764953088/jiFROlCX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1335193723764953088/jiFROlCX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/47910081/1607958927",
+			"profile_link_color": "1E66F7",
+			"profile_sidebar_border_color": "0064DE",
+			"profile_sidebar_fill_color": "002F5D",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 245,
+		"favorite_count": 1261,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "David Baguetta 😂 https://t.co/dusoxAtjmh"
+	},
+	{
 		"created_at": "Fri Apr 23 07:23:27 +0000 2021",
 		"id": 1385494512420720600,
 		"id_str": "1385494512420720641",
