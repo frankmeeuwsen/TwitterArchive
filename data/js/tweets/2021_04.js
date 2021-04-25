@@ -1,6 +1,363 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Sun Apr 25 04:44:58 +0000 2021",
+		"id": 1386179401759481900,
+		"id_str": "1386179401759481863",
+		"full_text": "Rotondes in de USA... https://t.co/O6ksYfBwqn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/O6ksYfBwqn",
+					"expanded_url": "https://twitter.com/foone/status/1386138654632943624",
+					"display_url": "twitter.com/foone/status/1…",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8885,
+			"friends_count": 745,
+			"listed_count": 553,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7726,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64466,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1386138654632943600,
+		"quoted_status_id_str": "1386138654632943624",
+		"quoted_status_permalink": {
+			"url": "https://t.co/O6ksYfBwqn",
+			"expanded": "https://twitter.com/foone/status/1386138654632943624",
+			"display": "twitter.com/foone/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Apr 25 02:03:03 +0000 2021",
+			"id": 1386138654632943600,
+			"id_str": "1386138654632943624",
+			"full_text": "Remember a while ago I said America needs more roundabouts so that people will learn how to use them?\nHere's a good example of what I mean. \nhttps://t.co/EbVWL2U8xh https://t.co/xbkyEe2F2Y",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				164
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/EbVWL2U8xh",
+						"expanded_url": "https://www.reddit.com/r/IdiotsInCars/comments/mxtoe6/they_added_a_roundabout_near_my_hometown_in_rural",
+						"display_url": "reddit.com/r/IdiotsInCars…",
+						"indices": [
+							141,
+							164
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1386138582327251000,
+						"id_str": "1386138582327250945",
+						"indices": [
+							165,
+							188
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1386138582327250945/pu/img/CdMa9TdR5yE2fauy.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1386138582327250945/pu/img/CdMa9TdR5yE2fauy.jpg",
+						"url": "https://t.co/xbkyEe2F2Y",
+						"display_url": "pic.twitter.com/xbkyEe2F2Y",
+						"expanded_url": "https://twitter.com/Foone/status/1386138654632943624/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 634,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 676,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 359,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1386138582327251000,
+						"id_str": "1386138582327250945",
+						"indices": [
+							165,
+							188
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1386138582327250945/pu/img/CdMa9TdR5yE2fauy.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1386138582327250945/pu/img/CdMa9TdR5yE2fauy.jpg",
+						"url": "https://t.co/xbkyEe2F2Y",
+						"display_url": "pic.twitter.com/xbkyEe2F2Y",
+						"expanded_url": "https://twitter.com/Foone/status/1386138654632943624/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 634,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 676,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 359,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								320,
+								169
+							],
+							"duration_millis": 44967,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1386138582327250945/pu/vid/1280x676/G7BNnPzlZzQSK8EO.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1386138582327250945/pu/pl/tCxU90vGOeXMNK6k.m3u8?tag=12"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1386138582327250945/pu/vid/680x360/wrmvAIPDbO6LTCYs.mp4?tag=12"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1386138582327250945/pu/vid/510x270/dNUJjY_4KvVU-bDX.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 13502732,
+				"id_str": "13502732",
+				"name": "foone",
+				"screen_name": "Foone",
+				"location": "San Leandro, CA",
+				"description": "Hardware / software necromancer, collector of Weird Stuff, maker of Death Generators. (they/them)\nPatreon: https://t.co/6UkafJHkbD\nko-fi: https://t.co/6AzbhTO0lK",
+				"url": "https://t.co/2PlYsHBSvH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2PlYsHBSvH",
+								"expanded_url": "http://floppy.foone.org",
+								"display_url": "floppy.foone.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/6UkafJHkbD",
+								"expanded_url": "http://patreon.com/foone",
+								"display_url": "patreon.com/foone",
+								"indices": [
+									107,
+									130
+								]
+							},
+							{
+								"url": "https://t.co/6AzbhTO0lK",
+								"expanded_url": "http://ko-fi.com/fooneturing",
+								"display_url": "ko-fi.com/fooneturing",
+								"indices": [
+									138,
+									161
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 103722,
+				"friends_count": 548,
+				"listed_count": 822,
+				"created_at": "Fri Feb 15 03:51:09 +0000 2008",
+				"favourites_count": 78053,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 188632,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/880340410333143040/-s_buYC0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/880340410333143040/-s_buYC0_normal.jpg",
+				"profile_link_color": "008080",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 159,
+			"favorite_count": 610,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "es",
+		"text": "Rotondes in de USA... https://t.co/O6ksYfBwqn"
+	},
+	{
 		"created_at": "Sat Apr 24 17:47:44 +0000 2021",
 		"id": 1385879009741865000,
 		"id_str": "1386014004561289219",
