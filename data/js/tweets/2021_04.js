@@ -1,6 +1,301 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Mon Apr 26 20:21:27 +0000 2021",
+		"id": 1386777464203092000,
+		"id_str": "1386777464203091973",
+		"full_text": "@MartinStiemer wij missen dingen. https://t.co/Yzezf9tPiI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MartinStiemer",
+					"name": "Martin Stiemer",
+					"id": 29224574,
+					"id_str": "29224574",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Yzezf9tPiI",
+					"expanded_url": "https://twitter.com/sylviawitteman/status/1386611113631039493",
+					"display_url": "twitter.com/sylviawitteman…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 29224574,
+		"in_reply_to_user_id_str": "29224574",
+		"in_reply_to_screen_name": "MartinStiemer",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8885,
+			"friends_count": 745,
+			"listed_count": 553,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7734,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64475,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1386611113631039500,
+		"quoted_status_id_str": "1386611113631039493",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Yzezf9tPiI",
+			"expanded": "https://twitter.com/sylviawitteman/status/1386611113631039493",
+			"display": "twitter.com/sylviawitteman…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 26 09:20:26 +0000 2021",
+			"id": 1386611113631039500,
+			"id_str": "1386611113631039493",
+			"full_text": "Ik zit sinds gisteren in een Gummbah-appgroep (er mag niet geouwehoerd of zelfs maar gereageerd worden, je mag louter cartoons plaatsen) en het is zo’n feest! https://t.co/gaT3Rex26D",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				158
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1386611109348712400,
+						"id_str": "1386611109348712448",
+						"indices": [
+							159,
+							182
+						],
+						"media_url": "http://pbs.twimg.com/media/Ez47dRZXIAAS2DY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ez47dRZXIAAS2DY.jpg",
+						"url": "https://t.co/gaT3Rex26D",
+						"display_url": "pic.twitter.com/gaT3Rex26D",
+						"expanded_url": "https://twitter.com/sylviawitteman/status/1386611113631039493/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 554,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 314,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 946,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1386611109348712400,
+						"id_str": "1386611109348712448",
+						"indices": [
+							159,
+							182
+						],
+						"media_url": "http://pbs.twimg.com/media/Ez47dRZXIAAS2DY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ez47dRZXIAAS2DY.jpg",
+						"url": "https://t.co/gaT3Rex26D",
+						"display_url": "pic.twitter.com/gaT3Rex26D",
+						"expanded_url": "https://twitter.com/sylviawitteman/status/1386611113631039493/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 554,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 314,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 946,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 101224288,
+				"id_str": "101224288",
+				"name": "Sylvia Witteman",
+				"screen_name": "sylviawitteman",
+				"location": "Onder de poes",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 163152,
+				"friends_count": 371,
+				"listed_count": 982,
+				"created_at": "Sat Jan 02 13:43:01 +0000 2010",
+				"favourites_count": 131,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 89142,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/989984158477795328/CGiE4NRu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/989984158477795328/CGiE4NRu_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 323,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@MartinStiemer wij missen dingen. https://t.co/Yzezf9tPiI"
+	},
+	{
 		"created_at": "Mon Apr 26 20:17:35 +0000 2021",
 		"id": 1386776493599166500,
 		"id_str": "1386776493599166470",
