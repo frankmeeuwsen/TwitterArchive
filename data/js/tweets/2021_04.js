@@ -1,6 +1,247 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Wed Apr 28 19:50:58 +0000 2021",
+		"id": 1387494569416171500,
+		"id_str": "1387494569416171523",
+		"full_text": "Wat een fantastische covers. /cc @Bladendokter https://t.co/KKaZopmhWp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Bladendokter",
+					"name": "Carolien Vader",
+					"id": 21235240,
+					"id_str": "21235240",
+					"indices": [
+						33,
+						46
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KKaZopmhWp",
+					"expanded_url": "https://twitter.com/tropical_toxic/status/1385698382589698048",
+					"display_url": "twitter.com/tropical_toxic…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8883,
+			"friends_count": 746,
+			"listed_count": 554,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7742,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64495,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1385698382589698000,
+		"quoted_status_id_str": "1385698382589698048",
+		"quoted_status_permalink": {
+			"url": "https://t.co/KKaZopmhWp",
+			"expanded": "https://twitter.com/tropical_toxic/status/1385698382589698048",
+			"display": "twitter.com/tropical_toxic…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 23 20:53:34 +0000 2021",
+			"id": 1385698382589698000,
+			"id_str": "1385698382589698048",
+			"full_text": "I’ve asked my 3rd year illustration students at @sva to come up with a post-pandemic New Yorker magazine cover. Here is what they sent in:",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				138
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "sva",
+						"name": "just be.",
+						"id": 2285941,
+						"id_str": "2285941",
+						"indices": [
+							48,
+							52
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 125070249,
+				"id_str": "125070249",
+				"name": "Tomer Hanuka",
+				"screen_name": "tropical_toxic",
+				"location": "NYC",
+				"description": "artist",
+				"url": "https://t.co/yVgC9d7LkG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/yVgC9d7LkG",
+								"expanded_url": "http://www.thanuka.com",
+								"display_url": "thanuka.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 29257,
+				"friends_count": 511,
+				"listed_count": 563,
+				"created_at": "Sun Mar 21 15:43:17 +0000 2010",
+				"favourites_count": 1647,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2117,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000767597368/15d4348f756261ce3cab1a8a66588ad0_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000767597368/15d4348f756261ce3cab1a8a66588ad0_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/125070249/1470922082",
+				"profile_link_color": "AF1225",
+				"profile_sidebar_border_color": "BCBCBC",
+				"profile_sidebar_fill_color": "B8A1A8",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 34886,
+			"favorite_count": 130486,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Wat een fantastische covers. /cc @Bladendokter https://t.co/KKaZopmhWp"
+	},
+	{
 		"created_at": "Wed Apr 28 19:13:36 +0000 2021",
 		"id": 1387485165170172000,
 		"id_str": "1387485165170171909",
