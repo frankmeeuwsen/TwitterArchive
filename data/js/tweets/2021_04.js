@@ -1,6 +1,350 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Wed Apr 28 12:41:21 +0000 2021",
+		"id": 1387386454616182800,
+		"id_str": "1387386454616182790",
+		"full_text": "@YStraalman @MaximaKoningin_ @538ochtendshow Psst... heb je https://t.co/V1Laj9UXVV al gezien?",
+		"truncated": false,
+		"display_text_range": [
+			45,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YStraalman",
+					"name": "🏡🍀🦋 Yvonne",
+					"id": 110475378,
+					"id_str": "110475378",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "MaximaKoningin_",
+					"name": "Koningin Máxima🔸",
+					"id": 4860048994,
+					"id_str": "4860048994",
+					"indices": [
+						12,
+						28
+					]
+				},
+				{
+					"screen_name": "538ochtendshow",
+					"name": "De 538 Ochtendshow met Frank",
+					"id": 21079242,
+					"id_str": "21079242",
+					"indices": [
+						29,
+						44
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/V1Laj9UXVV",
+					"expanded_url": "https://twitter.com/Vockingworst/status/1387316599347154945?s=20",
+					"display_url": "twitter.com/Vockingworst/s…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1387371883222290400,
+		"in_reply_to_status_id_str": "1387371883222290434",
+		"in_reply_to_user_id": 110475378,
+		"in_reply_to_user_id_str": "110475378",
+		"in_reply_to_screen_name": "YStraalman",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8883,
+			"friends_count": 745,
+			"listed_count": 554,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7739,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64487,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1387316599347155000,
+		"quoted_status_id_str": "1387316599347154945",
+		"quoted_status_permalink": {
+			"url": "https://t.co/V1Laj9UXVV",
+			"expanded": "https://twitter.com/Vockingworst/status/1387316599347154945?s=20",
+			"display": "twitter.com/Vockingworst/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 28 08:03:47 +0000 2021",
+			"id": 1387316599347155000,
+			"id_str": "1387316599347154945",
+			"full_text": "Iedereen kijkt uit naar het eerste terrasbiertje. Maar wat hoort daarbij? Een bitterbal natuurlijk. Geen tijd te verliezen met de korte openingstijden. De oplossing: de Vocking Bitterbel! Met één druk op de knop staan ze in een mum van tijd op tafel.\n#bitterbel #terrassenopen https://t.co/wCvyE4r8Fk",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				276
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "bitterbel",
+						"indices": [
+							251,
+							261
+						]
+					},
+					{
+						"text": "terrassenopen",
+						"indices": [
+							262,
+							276
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1387316383269142500,
+						"id_str": "1387316383269142529",
+						"indices": [
+							277,
+							300
+						],
+						"media_url": "http://pbs.twimg.com/media/E0C85nfWQAEsbKo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E0C85nfWQAEsbKo.jpg",
+						"url": "https://t.co/wCvyE4r8Fk",
+						"display_url": "pic.twitter.com/wCvyE4r8Fk",
+						"expanded_url": "https://twitter.com/Vockingworst/status/1387316599347154945/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1387316383269142500,
+						"id_str": "1387316383269142529",
+						"indices": [
+							277,
+							300
+						],
+						"media_url": "http://pbs.twimg.com/media/E0C85nfWQAEsbKo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E0C85nfWQAEsbKo.jpg",
+						"url": "https://t.co/wCvyE4r8Fk",
+						"display_url": "pic.twitter.com/wCvyE4r8Fk",
+						"expanded_url": "https://twitter.com/Vockingworst/status/1387316599347154945/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 66475455,
+				"id_str": "66475455",
+				"name": "Vocking",
+				"screen_name": "Vockingworst",
+				"location": "Utrecht",
+				"description": "De échte Utrechtse Vocking leverworst | 100% vrij van kleurstoffen, emulgatoren, stabilisatoren en smaakversterkers | Sinds 1891 | It's Vocking delicious!",
+				"url": "http://t.co/Y2BUmIuIuY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Y2BUmIuIuY",
+								"expanded_url": "http://bit.ly/vocking",
+								"display_url": "bit.ly/vocking",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 600,
+				"friends_count": 578,
+				"listed_count": 9,
+				"created_at": "Mon Aug 17 20:28:40 +0000 2009",
+				"favourites_count": 142,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 716,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/431018102550048768/hsy-a-41_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/431018102550048768/hsy-a-41_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/66475455/1377465517",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@YStraalman @MaximaKoningin_ @538ochtendshow Psst... heb je https://t.co/V1Laj9UXVV al gezien?"
+	},
+	{
 		"created_at": "Tue Apr 27 18:35:33 +0000 2021",
 		"id": 1387113201125494800,
 		"id_str": "1387113201125494786",
