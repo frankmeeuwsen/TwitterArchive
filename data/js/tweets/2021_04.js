@@ -1,6 +1,237 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Thu Apr 29 16:50:36 +0000 2021",
+		"id": 1387811567899758600,
+		"id_str": "1387811567899758593",
+		"full_text": "Minder asfalt en meer bos rond je stad werkt dan exponentieel goed! Ik zeg opschalen! #amelisweerd https://t.co/9tcbyJ9jzr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "amelisweerd",
+					"indices": [
+						86,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9tcbyJ9jzr",
+					"expanded_url": "https://twitter.com/cvnieuwenhuizen/status/1387794351884013568",
+					"display_url": "twitter.com/cvnieuwenhuize…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8881,
+			"friends_count": 746,
+			"listed_count": 553,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7745,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64501,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1387794351884013600,
+		"quoted_status_id_str": "1387794351884013568",
+		"quoted_status_permalink": {
+			"url": "https://t.co/9tcbyJ9jzr",
+			"expanded": "https://twitter.com/cvnieuwenhuizen/status/1387794351884013568",
+			"display": "twitter.com/cvnieuwenhuize…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 29 15:42:12 +0000 2021",
+			"id": 1387794351884013600,
+			"id_str": "1387794351884013568",
+			"full_text": "Minder tegels in je tuin helpt om regenwater vast te houden in droge periodes. Dat geldt ook voor een vijvertje. https://t.co/i47HnXVeRI",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				112
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/i47HnXVeRI",
+						"expanded_url": "https://twitter.com/ons_water/status/1387787428677685256",
+						"display_url": "twitter.com/ons_water/stat…",
+						"indices": [
+							113,
+							136
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 91981058,
+				"id_str": "91981058",
+				"name": "Cora van Nieuwenhuizen",
+				"screen_name": "CvNieuwenhuizen",
+				"location": "Rotterdam",
+				"description": "Minister Infrastructuur en Waterstaat",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 20224,
+				"friends_count": 715,
+				"listed_count": 506,
+				"created_at": "Mon Nov 23 10:40:24 +0000 2009",
+				"favourites_count": 2340,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 8974,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "CDCDC5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1101479694145384448/vnlA1x41_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101479694145384448/vnlA1x41_normal.jpg",
+				"profile_link_color": "CFA865",
+				"profile_sidebar_border_color": "332E2A",
+				"profile_sidebar_fill_color": "917043",
+				"profile_text_color": "F8F9F4",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1387787428677685200,
+			"quoted_status_id_str": "1387787428677685256",
+			"quoted_status_permalink": {
+				"url": "https://t.co/i47HnXVeRI",
+				"expanded": "https://twitter.com/ons_water/status/1387787428677685256",
+				"display": "twitter.com/ons_water/stat…"
+			},
+			"retweet_count": 4,
+			"favorite_count": 24,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Minder asfalt en meer bos rond je stad werkt dan exponentieel goed! Ik zeg opschalen! #amelisweerd https://t.co/9tcbyJ9jzr"
+	},
+	{
 		"created_at": "Thu Apr 29 11:54:03 +0000 2021",
 		"id": 1387716529144406000,
 		"id_str": "1387736936647962626",
