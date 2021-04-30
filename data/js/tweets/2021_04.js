@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Fri Apr 30 14:35:31 +0000 2021",
+		"id": 1388131064300855300,
+		"id_str": "1388139959073267717",
+		"full_text": "#Whywebarchiving: one of the best quotes on the historic significance of old home pages by @textfiles https://t.co/ulpFgl621x #webarchiving https://t.co/E3E33tVfjT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Whywebarchiving",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"text": "webarchiving",
+					"indices": [
+						126,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "textfiles",
+					"name": "Jason Scott",
+					"id": 1465481,
+					"id_str": "1465481",
+					"indices": [
+						91,
+						101
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ulpFgl621x",
+					"expanded_url": "http://ascii.textfiles.com/archives/2402",
+					"display_url": "ascii.textfiles.com/archives/2402",
+					"indices": [
+						102,
+						125
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1388130801905246200,
+					"id_str": "1388130801905246210",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/E0OhnBVXIAId9Sr.png",
+					"media_url_https": "https://pbs.twimg.com/media/E0OhnBVXIAId9Sr.png",
+					"url": "https://t.co/E3E33tVfjT",
+					"display_url": "pic.twitter.com/E3E33tVfjT",
+					"expanded_url": "https://twitter.com/keesone/status/1388131064300855300/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 589,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 697,
+							"h": 604,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 697,
+							"h": 604,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1388130801905246200,
+					"id_str": "1388130801905246210",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/E0OhnBVXIAId9Sr.png",
+					"media_url_https": "https://pbs.twimg.com/media/E0OhnBVXIAId9Sr.png",
+					"url": "https://t.co/E3E33tVfjT",
+					"display_url": "pic.twitter.com/E3E33tVfjT",
+					"expanded_url": "https://twitter.com/keesone/status/1388131064300855300/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 589,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 697,
+							"h": 604,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 697,
+							"h": 604,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15970999,
+			"id_str": "15970999",
+			"name": "Kees Teszelszky",
+			"screen_name": "keesone",
+			"location": "The Hague, The Netherlands",
+			"description": "Curator Digital Collections @KB_Nederland national library | born digital heritage | web archaeology | Meme Lord | earlymodern history→@teszelszky",
+			"url": "https://t.co/0d00DlmPxH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0d00DlmPxH",
+							"expanded_url": "https://zenodo.org/search?page=1&size=20&q=teszelszky",
+							"display_url": "zenodo.org/search?page=1&…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1322,
+			"friends_count": 1785,
+			"listed_count": 42,
+			"created_at": "Sun Aug 24 18:05:00 +0000 2008",
+			"favourites_count": 7080,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6482,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1020417469243166721/IyKx41sW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1020417469243166721/IyKx41sW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15970999/1600163995",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Whywebarchiving: one of the best quotes on the historic significance of old home pages by @textfiles https://t.co/ulpFgl621x #webarchiving https://t.co/E3E33tVfjT"
+	},
+	{
 		"created_at": "Thu Apr 29 16:50:36 +0000 2021",
 		"id": 1387811567899758600,
 		"id_str": "1387811567899758593",
