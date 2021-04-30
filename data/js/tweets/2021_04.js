@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Fri Apr 30 17:35:01 +0000 2021",
+		"id": 1388183863353036800,
+		"id_str": "1388185133161881606",
+		"full_text": "Jan Is De Man maakt alles leuk https://t.co/WipJ2F0Hv8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1388183840519336000,
+					"id_str": "1388183840519335938",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1388183840519335938/pu/img/0hlnTpNtZfbiKxbr.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1388183840519335938/pu/img/0hlnTpNtZfbiKxbr.jpg",
+					"url": "https://t.co/WipJ2F0Hv8",
+					"display_url": "pic.twitter.com/WipJ2F0Hv8",
+					"expanded_url": "https://twitter.com/Roh/status/1388183863353036800/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1388183840519336000,
+					"id_str": "1388183840519335938",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1388183840519335938/pu/img/0hlnTpNtZfbiKxbr.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1388183840519335938/pu/img/0hlnTpNtZfbiKxbr.jpg",
+					"url": "https://t.co/WipJ2F0Hv8",
+					"display_url": "pic.twitter.com/WipJ2F0Hv8",
+					"expanded_url": "https://twitter.com/Roh/status/1388183863353036800/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 7733,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1388183840519335938/pu/vid/320x320/t2GDm5tR0JYIRYVA.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1388183840519335938/pu/vid/720x720/m1aogFyaCglmGpWa.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1388183840519335938/pu/vid/540x540/POgQpSJeWKoZPMMf.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1388183840519335938/pu/pl/p_5xG1lvKeai5q7h.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1447551,
+			"id_str": "1447551",
+			"name": "Ronald van Schaik",
+			"screen_name": "Roh",
+			"location": "Utrecht, The Netherlands",
+			"description": "Eigenaar van Kaliber Interactive - Making Sense For Futureproof Brands",
+			"url": "http://t.co/0uBteIkGBt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/0uBteIkGBt",
+							"expanded_url": "http://www.kaliber.net",
+							"display_url": "kaliber.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1292,
+			"friends_count": 967,
+			"listed_count": 43,
+			"created_at": "Sun Mar 18 22:18:27 +0000 2007",
+			"favourites_count": 3929,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11364,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1213030981805977603/C2XqXQxh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1213030981805977603/C2XqXQxh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1447551/1553790896",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Jan Is De Man maakt alles leuk https://t.co/WipJ2F0Hv8"
+	},
+	{
 		"created_at": "Fri Apr 30 14:35:31 +0000 2021",
 		"id": 1388131064300855300,
 		"id_str": "1388139959073267717",
