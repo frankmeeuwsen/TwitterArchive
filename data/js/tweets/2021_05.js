@@ -1,6 +1,215 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Sat May 01 18:22:57 +0000 2021",
+		"id": 1388509010345791500,
+		"id_str": "1388559585154408452",
+		"full_text": "Adrian - \"Lots of us after two years without a Pearl Jam show.\" @PearlJam  https://t.co/XkHtYR25x9 https://t.co/DiDwnNhia7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PearlJam",
+					"name": "Pearl Jam",
+					"id": 15155074,
+					"id_str": "15155074",
+					"indices": [
+						64,
+						73
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XkHtYR25x9",
+					"expanded_url": "https://www.facebook.com/groups/tenclubmembers/permalink/10159414979903713/",
+					"display_url": "facebook.com/groups/tenclub…",
+					"indices": [
+						75,
+						98
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1388508963260485600,
+					"id_str": "1388508963260485635",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1388508963260485635/pu/img/Whhfs1KrdcAfU2iq.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1388508963260485635/pu/img/Whhfs1KrdcAfU2iq.jpg",
+					"url": "https://t.co/DiDwnNhia7",
+					"display_url": "pic.twitter.com/DiDwnNhia7",
+					"expanded_url": "https://twitter.com/demetriosns/status/1388509010345791490/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 406,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 406,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1388508963260485600,
+					"id_str": "1388508963260485635",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1388508963260485635/pu/img/Whhfs1KrdcAfU2iq.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1388508963260485635/pu/img/Whhfs1KrdcAfU2iq.jpg",
+					"url": "https://t.co/DiDwnNhia7",
+					"display_url": "pic.twitter.com/DiDwnNhia7",
+					"expanded_url": "https://twitter.com/demetriosns/status/1388509010345791490/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 406,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 406,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							203,
+							360
+						],
+						"duration_millis": 27067,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1388508963260485635/pu/vid/320x566/4HlGbY2pqTDCHScH.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1388508963260485635/pu/pl/9-48OETbXVKGk-sh.m3u8?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1388508963260485635/pu/vid/406x720/yo1Y5oOzvgwWsxrJ.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2445883256,
+			"id_str": "2445883256",
+			"name": "demetrios",
+			"screen_name": "demetriosns",
+			"location": " 🇨🇦",
+			"description": "#pearljam",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4562,
+			"friends_count": 4661,
+			"listed_count": 49,
+			"created_at": "Tue Apr 15 19:14:28 +0000 2014",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27656,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/964089175489351680/xBdqHMwd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/964089175489351680/xBdqHMwd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2445883256/1518692315",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 63,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Adrian - \"Lots of us after two years without a Pearl Jam show.\" @PearlJam  https://t.co/XkHtYR25x9 https://t.co/DiDwnNhia7"
+	},
+	{
 		"created_at": "Sat May 01 09:23:50 +0000 2021",
 		"id": 1388423910711038000,
 		"id_str": "1388423910711037953",
