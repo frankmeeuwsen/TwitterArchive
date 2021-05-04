@@ -1,6 +1,357 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Tue May 04 20:59:21 +0000 2021",
+		"id": 1389686107739144200,
+		"id_str": "1389686107739144208",
+		"full_text": "Trump blogt. Tja. https://t.co/7bb92frohn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7bb92frohn",
+					"expanded_url": "https://twitter.com/MattNavarra/status/1389681549562585093",
+					"display_url": "twitter.com/MattNavarra/st…",
+					"indices": [
+						18,
+						41
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8872,
+			"friends_count": 748,
+			"listed_count": 553,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7771,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64526,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1389681549562585000,
+		"quoted_status_id_str": "1389681549562585093",
+		"quoted_status_permalink": {
+			"url": "https://t.co/7bb92frohn",
+			"expanded": "https://twitter.com/MattNavarra/status/1389681549562585093",
+			"display": "twitter.com/MattNavarra/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 04 20:41:15 +0000 2021",
+			"id": 1389681549562585000,
+			"id_str": "1389681549562585093",
+			"full_text": "This is Donald Trump’s new s̶o̶c̶i̶a̶l̶ ̶n̶e̶t̶w̶o̶r̶k̶ “communications platform”\n\nZuck and Dorsey ain’t going to lose any sleep over this one https://t.co/9RRvV2oV4P https://t.co/ez7WjVnuX6",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				166
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/9RRvV2oV4P",
+						"expanded_url": "https://www.donaldjtrump.com/desk",
+						"display_url": "donaldjtrump.com/desk",
+						"indices": [
+							143,
+							166
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1389681545963835400,
+						"id_str": "1389681545963835400",
+						"indices": [
+							167,
+							190
+						],
+						"media_url": "http://pbs.twimg.com/media/E0kkANIXEAgdl63.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E0kkANIXEAgdl63.jpg",
+						"url": "https://t.co/ez7WjVnuX6",
+						"display_url": "pic.twitter.com/ez7WjVnuX6",
+						"expanded_url": "https://twitter.com/MattNavarra/status/1389681549562585093/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 389,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 687,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1172,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1389681545963835400,
+						"id_str": "1389681545963835400",
+						"indices": [
+							167,
+							190
+						],
+						"media_url": "http://pbs.twimg.com/media/E0kkANIXEAgdl63.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E0kkANIXEAgdl63.jpg",
+						"url": "https://t.co/ez7WjVnuX6",
+						"display_url": "pic.twitter.com/ez7WjVnuX6",
+						"expanded_url": "https://twitter.com/MattNavarra/status/1389681549562585093/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 389,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 687,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1172,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16211566,
+				"id_str": "16211566",
+				"name": "🟣 Matt Navarra",
+				"screen_name": "MattNavarra",
+				"location": "Cardiff, Wales",
+				"description": "🎙 Social media consultant + industry commentator\n💼 Previously: @govuk + @thenextweb\n🤓 Founder of Geekout: https://t.co/LuH0TkzvGl",
+				"url": "https://t.co/LuH0TkzvGl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/LuH0TkzvGl",
+								"expanded_url": "http://getrevue.co/profile/geekout",
+								"display_url": "getrevue.co/profile/geekout",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/LuH0TkzvGl",
+								"expanded_url": "http://getrevue.co/profile/geekout",
+								"display_url": "getrevue.co/profile/geekout",
+								"indices": [
+									106,
+									129
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 80884,
+				"friends_count": 5077,
+				"listed_count": 2788,
+				"created_at": "Tue Sep 09 21:25:05 +0000 2008",
+				"favourites_count": 99444,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 117777,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1362546766323867648/1_azHfT1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1362546766323867648/1_azHfT1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16211566/1617798744",
+				"profile_link_color": "3C5A99",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "171106",
+				"profile_text_color": "473623",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "1981dc44d58103b8",
+				"url": "https://api.twitter.com/1.1/geo/id/1981dc44d58103b8.json",
+				"place_type": "city",
+				"name": "Penarth",
+				"full_name": "Penarth, Wales",
+				"country_code": "GB",
+				"country": "Verenigd Koninkrijk",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-3.207316,
+								51.41538
+							],
+							[
+								-3.164369,
+								51.41538
+							],
+							[
+								-3.164369,
+								51.456395
+							],
+							[
+								-3.207316,
+								51.456395
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 22,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "sv",
+		"text": "Trump blogt. Tja. https://t.co/7bb92frohn"
+	},
+	{
 		"created_at": "Tue May 04 11:01:08 +0000 2021",
 		"id": 1389535558293205000,
 		"id_str": "1389535558293204995",
