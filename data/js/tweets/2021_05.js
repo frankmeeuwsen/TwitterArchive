@@ -1,6 +1,236 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Tue May 04 11:01:08 +0000 2021",
+		"id": 1389535558293205000,
+		"id_str": "1389535558293204995",
+		"full_text": "Hier word ik echt heel blij van. Nieuwsbrief templates in Newsletter Glue. De plugin wordt echt steeds beter. https://t.co/Ewa3hcGPYa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ewa3hcGPYa",
+					"expanded_url": "https://twitter.com/lesley_pizza/status/1389528507512852482",
+					"display_url": "twitter.com/lesley_pizza/s…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8874,
+			"friends_count": 749,
+			"listed_count": 553,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7769,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64525,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1389528507512852500,
+		"quoted_status_id_str": "1389528507512852482",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Ewa3hcGPYa",
+			"expanded": "https://twitter.com/lesley_pizza/status/1389528507512852482",
+			"display": "twitter.com/lesley_pizza/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 04 10:33:07 +0000 2021",
+			"id": 1389528507512852500,
+			"id_str": "1389528507512852482",
+			"full_text": "Introducing our brand new Newsletter Editor!\n\nGet a tour of our new features and learn how you can create and use newsletter patterns like a pro.\n\nhttps://t.co/M2R4FLxYAE",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				170
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/M2R4FLxYAE",
+						"expanded_url": "https://www.youtube.com/watch?v=gF7gQeI4Wwo",
+						"display_url": "youtube.com/watch?v=gF7gQe…",
+						"indices": [
+							147,
+							170
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17828291,
+				"id_str": "17828291",
+				"name": "Lesley 🍕",
+				"screen_name": "lesley_pizza",
+				"location": "Singapore",
+				"description": "Bootstrapping @NewsletterGlue. 2021 goal: $10k ARR.\n\nCurrently reading: Keeping your shit together, Sherry Walling",
+				"url": "https://t.co/I9XiB835UN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/I9XiB835UN",
+								"expanded_url": "https://lesley.pizza",
+								"display_url": "lesley.pizza",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1251,
+				"friends_count": 735,
+				"listed_count": 63,
+				"created_at": "Wed Dec 03 04:03:00 +0000 2008",
+				"favourites_count": 14241,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4360,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1333105140186771456/Dpb8Ax4N_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1333105140186771456/Dpb8Ax4N_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17828291/1598931940",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Hier word ik echt heel blij van. Nieuwsbrief templates in Newsletter Glue. De plugin wordt echt steeds beter. https://t.co/Ewa3hcGPYa"
+	},
+	{
 		"created_at": "Tue May 04 10:08:10 +0000 2021",
 		"id": 1389522230657355800,
 		"id_str": "1389522230657355778",
