@@ -1,6 +1,726 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Wed May 05 10:53:47 +0000 2021",
+		"id": 1389896098827878400,
+		"id_str": "1389896098827878400",
+		"full_text": "Klein stukje statistiekisme naar demensetoe. Ja ik moet dus nog 53 nieuwsbrieven reviewen en akkoorderen voor de database. Ik zal binnenkort eens een blogpost schrijven over die stats en Airtable. I ❤️ @airtable https://t.co/9vMMDhkyck",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "airtable",
+					"name": "Airtable",
+					"id": 2786252385,
+					"id_str": "2786252385",
+					"indices": [
+						202,
+						211
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1389895830790975500,
+					"id_str": "1389895830790975489",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/E0nm5OUXsAEtK7a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E0nm5OUXsAEtK7a.jpg",
+					"url": "https://t.co/9vMMDhkyck",
+					"display_url": "pic.twitter.com/9vMMDhkyck",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1389896098827878400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 343,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 605,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1032,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1389895830790975500,
+					"id_str": "1389895830790975489",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/E0nm5OUXsAEtK7a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E0nm5OUXsAEtK7a.jpg",
+					"url": "https://t.co/9vMMDhkyck",
+					"display_url": "pic.twitter.com/9vMMDhkyck",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1389896098827878400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 343,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 605,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1032,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8877,
+			"friends_count": 750,
+			"listed_count": 553,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7775,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64531,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Klein stukje statistiekisme naar demensetoe. Ja ik moet dus nog 53 nieuwsbrieven reviewen en akkoorderen voor de database. Ik zal binnenkort eens een blogpost schrijven over die stats en Airtable. I ❤️ @airtable https://t.co/9vMMDhkyck"
+	},
+	{
+		"created_at": "Wed May 05 10:52:36 +0000 2021",
+		"id": 1389895801552392200,
+		"id_str": "1389895801552392194",
+		"full_text": "De 700e nieuwsbrief in de zoekmachine is een van mijn favorieten. Garbage Day brengt het toffe web weer naar je inbox! https://t.co/nI3T6LhnVi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nI3T6LhnVi",
+					"expanded_url": "https://twitter.com/ForSubscribing/status/1389895057956904962",
+					"display_url": "twitter.com/ForSubscribing…",
+					"indices": [
+						119,
+						142
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8877,
+			"friends_count": 750,
+			"listed_count": 553,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7775,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64531,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1389895057956905000,
+		"quoted_status_id_str": "1389895057956904962",
+		"quoted_status_permalink": {
+			"url": "https://t.co/nI3T6LhnVi",
+			"expanded": "https://twitter.com/ForSubscribing/status/1389895057956904962",
+			"display": "twitter.com/ForSubscribing…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 05 10:49:39 +0000 2021",
+			"id": 1389895057956905000,
+			"id_str": "1389895057956904962",
+			"full_text": "Welcome to a new newsletter in our collection 💌\n⚡️Garbage Day by @broderick\n\nhttps://t.co/AJjQsgvs5r",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				100
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "broderick",
+						"name": "Ryan Broderick",
+						"id": 18205531,
+						"id_str": "18205531",
+						"indices": [
+							65,
+							75
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/AJjQsgvs5r",
+						"expanded_url": "https://thanksforsubscribing.app/newsletter/garbage-day",
+						"display_url": "thanksforsubscribing.app/newsletter/gar…",
+						"indices": [
+							77,
+							100
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.integromat.com\" rel=\"nofollow\">Integromat</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1221904161492566000,
+				"id_str": "1221904161492566016",
+				"name": "Thanks for Subscribing",
+				"screen_name": "ForSubscribing",
+				"location": "Utrecht, Nederland",
+				"description": "Make your inbox happy again and check out the best newsletters from around the 🌎! Curated by @frankmeeuwsen",
+				"url": "https://t.co/EUi1JLKpnL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/EUi1JLKpnL",
+								"expanded_url": "https://thanksforsubscribing.app",
+								"display_url": "thanksforsubscribing.app",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 239,
+				"friends_count": 88,
+				"listed_count": 14,
+				"created_at": "Mon Jan 27 21:14:06 +0000 2020",
+				"favourites_count": 68,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 644,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1221904344695656448/Z2Gu1jee_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1221904344695656448/Z2Gu1jee_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1221904161492566016/1590584335",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "De 700e nieuwsbrief in de zoekmachine is een van mijn favorieten. Garbage Day brengt het toffe web weer naar je inbox! https://t.co/nI3T6LhnVi"
+	},
+	{
+		"created_at": "Wed May 05 10:48:38 +0000 2021",
+		"id": 1389043030435537000,
+		"id_str": "1389894802196635650",
+		"full_text": "this genre of 90s/early 2000s bedrooms is unbeatable https://t.co/LC3Jq3UQLB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1389042672518803500,
+					"id_str": "1389042672518803464",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/E0be84FXsAg1qx2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E0be84FXsAg1qx2.jpg",
+					"url": "https://t.co/LC3Jq3UQLB",
+					"display_url": "pic.twitter.com/LC3Jq3UQLB",
+					"expanded_url": "https://twitter.com/feIixkranken/status/1389043030435536905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1389042672518803500,
+					"id_str": "1389042672518803464",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/E0be84FXsAg1qx2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E0be84FXsAg1qx2.jpg",
+					"url": "https://t.co/LC3Jq3UQLB",
+					"display_url": "pic.twitter.com/LC3Jq3UQLB",
+					"expanded_url": "https://twitter.com/feIixkranken/status/1389043030435536905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1389042743553544200,
+					"id_str": "1389042743553544200",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/E0bfBAtX0Ag-SNG.png",
+					"media_url_https": "https://pbs.twimg.com/media/E0bfBAtX0Ag-SNG.png",
+					"url": "https://t.co/LC3Jq3UQLB",
+					"display_url": "pic.twitter.com/LC3Jq3UQLB",
+					"expanded_url": "https://twitter.com/feIixkranken/status/1389043030435536905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1389042838512484400,
+					"id_str": "1389042838512484357",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/E0bfGidWQAUebDg.png",
+					"media_url_https": "https://pbs.twimg.com/media/E0bfGidWQAUebDg.png",
+					"url": "https://t.co/LC3Jq3UQLB",
+					"display_url": "pic.twitter.com/LC3Jq3UQLB",
+					"expanded_url": "https://twitter.com/feIixkranken/status/1389043030435536905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 642,
+							"h": 427,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 642,
+							"h": 427,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 642,
+							"h": 427,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1389042939045814300,
+					"id_str": "1389042939045814272",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/E0bfMY-XIAAsxeN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E0bfMY-XIAAsxeN.jpg",
+					"url": "https://t.co/LC3Jq3UQLB",
+					"display_url": "pic.twitter.com/LC3Jq3UQLB",
+					"expanded_url": "https://twitter.com/feIixkranken/status/1389043030435536905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1350669898276614100,
+			"id_str": "1350669898276614151",
+			"name": "free version of autism",
+			"screen_name": "feIixkranken",
+			"location": "awful city , utah",
+			"description": "tobi / felix ・ he / it / pup  ・ voice actor , artist , local old man enjoyer\n\n                                    🤍 @jackwaIten 🤍",
+			"url": "https://t.co/EEBks57obg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EEBks57obg",
+							"expanded_url": "https://girls-just-wanna-have-fun.carrd.co",
+							"display_url": "girls-just-wanna-have-fun.carrd.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 574,
+			"friends_count": 821,
+			"listed_count": 6,
+			"created_at": "Sun Jan 17 05:02:58 +0000 2021",
+			"favourites_count": 9814,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9270,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1378874027415068672/drp7RH0E_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1378874027415068672/drp7RH0E_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1350669898276614151/1617584162",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7037,
+		"favorite_count": 43644,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "this genre of 90s/early 2000s bedrooms is unbeatable https://t.co/LC3Jq3UQLB"
+	},
+	{
 		"created_at": "Wed May 05 06:43:23 +0000 2021",
 		"id": 1389833084183400400,
 		"id_str": "1389833084183400448",
