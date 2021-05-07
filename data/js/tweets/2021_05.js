@@ -1,6 +1,314 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Fri May 07 16:46:10 +0000 2021",
+		"id": 1390709554065940500,
+		"id_str": "1390709554065940487",
+		"full_text": "'90s modem aesthetics. https://t.co/CfkZGLMdve",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CfkZGLMdve",
+					"expanded_url": "https://twitter.com/kiwapebretech/status/1390518596581969921",
+					"display_url": "twitter.com/kiwapebretech/…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8877,
+			"friends_count": 751,
+			"listed_count": 553,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7785,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64540,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1390518596581970000,
+		"quoted_status_id_str": "1390518596581969921",
+		"quoted_status_permalink": {
+			"url": "https://t.co/CfkZGLMdve",
+			"expanded": "https://twitter.com/kiwapebretech/status/1390518596581969921",
+			"display": "twitter.com/kiwapebretech/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 07 04:07:22 +0000 2021",
+			"id": 1390518596581970000,
+			"id_str": "1390518596581969921",
+			"full_text": "I'm in the mood for modems, so ill make a thread with random photos of cool ones. https://t.co/bumL32LjC8",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				81
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1390518554026467300,
+						"id_str": "1390518554026467329",
+						"indices": [
+							82,
+							105
+						],
+						"media_url": "http://pbs.twimg.com/media/E0wdQfJWYAEbWZd.png",
+						"media_url_https": "https://pbs.twimg.com/media/E0wdQfJWYAEbWZd.png",
+						"url": "https://t.co/bumL32LjC8",
+						"display_url": "pic.twitter.com/bumL32LjC8",
+						"expanded_url": "https://twitter.com/kiwapebretech/status/1390518596581969921/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 452,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 498,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 750,
+								"h": 498,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1390518554026467300,
+						"id_str": "1390518554026467329",
+						"indices": [
+							82,
+							105
+						],
+						"media_url": "http://pbs.twimg.com/media/E0wdQfJWYAEbWZd.png",
+						"media_url_https": "https://pbs.twimg.com/media/E0wdQfJWYAEbWZd.png",
+						"url": "https://t.co/bumL32LjC8",
+						"display_url": "pic.twitter.com/bumL32LjC8",
+						"expanded_url": "https://twitter.com/kiwapebretech/status/1390518596581969921/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 452,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 498,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 750,
+								"h": 498,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 896955700169060400,
+				"id_str": "896955700169060357",
+				"name": "Kiwa",
+				"screen_name": "kiwapebretech",
+				"location": "computer",
+				"description": "he/they | if you want you can buy me a ☕ https://t.co/2mrXqSL3MI\n\nretro computing and stuff 👌",
+				"url": "https://t.co/nYoirzBHPo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/nYoirzBHPo",
+								"expanded_url": "https://bigcat.cl/",
+								"display_url": "bigcat.cl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/2mrXqSL3MI",
+								"expanded_url": "http://ko-fi.com/kiwapebre",
+								"display_url": "ko-fi.com/kiwapebre",
+								"indices": [
+									41,
+									64
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1834,
+				"friends_count": 598,
+				"listed_count": 21,
+				"created_at": "Mon Aug 14 04:44:38 +0000 2017",
+				"favourites_count": 7889,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12653,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1386144885586251778/IfaBf0oh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1386144885586251778/IfaBf0oh_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/896955700169060357/1589417825",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 71,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ca",
+		"text": "'90s modem aesthetics. https://t.co/CfkZGLMdve"
+	},
+	{
 		"created_at": "Fri May 07 13:28:38 +0000 2021",
 		"id": 1390659843862716400,
 		"id_str": "1390659843862716417",
