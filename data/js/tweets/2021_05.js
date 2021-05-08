@@ -1,6 +1,225 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Sat May 08 05:21:23 +0000 2021",
+		"id": 1390899609485074400,
+		"id_str": "1390899609485074434",
+		"full_text": "Floephaan. Datum domeinregistratie is niet hetzelfde als een volledige website live hebben. Hoe ik dat weet? Ga fijn zelf onderzoek doen. Verwacht niet dat ik alles op een dienblad presenteer. \n\nZo klaar met dit hersenloze geblaat. https://t.co/p3wCzGThVZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			231
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/p3wCzGThVZ",
+					"expanded_url": "https://twitter.com/2Ajaxfriend/status/1390686398244659204",
+					"display_url": "twitter.com/2Ajaxfriend/st…",
+					"indices": [
+						232,
+						255
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8879,
+			"friends_count": 754,
+			"listed_count": 553,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7790,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64546,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1390686398244659200,
+		"quoted_status_id_str": "1390686398244659204",
+		"quoted_status_permalink": {
+			"url": "https://t.co/p3wCzGThVZ",
+			"expanded": "https://twitter.com/2Ajaxfriend/status/1390686398244659204",
+			"display": "twitter.com/2Ajaxfriend/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 07 15:14:09 +0000 2021",
+			"id": 1390686398244659200,
+			"id_str": "1390686398244659204",
+			"full_text": "2/3\n VOOR de eerste coronabesmetting al een volledige website klaarhebben om het testen voor toegang in te richten? \n\nWij gaan hier nu een mailing van maken naar alle Tweedekamerleden! Hier wordt zeer vuil spel gespeeld bij het inrichten van de testmaatschappij.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				262
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1390686394109075500,
+			"in_reply_to_status_id_str": "1390686394109075457",
+			"in_reply_to_user_id": 1317397189468053500,
+			"in_reply_to_user_id_str": "1317397189468053504",
+			"in_reply_to_screen_name": "2Ajaxfriend",
+			"user": {
+				"id": 1317397189468053500,
+				"id_str": "1317397189468053504",
+				"name": "Ajaxfriend❌❌❌2",
+				"screen_name": "2Ajaxfriend",
+				"location": "",
+				"description": "Account 2 @Ajaxfriend Account 1",
+				"url": "https://t.co/STwVTwNhMr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/STwVTwNhMr",
+								"expanded_url": "https://burgelijkongehoorzaam.wordpress.com/2018/05/09/het-bedrog-en-waarom-jouw-rechten-niet-aan-we",
+								"display_url": "burgelijkongehoorzaam.wordpress.com/2018/05/09/het…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1550,
+				"friends_count": 1525,
+				"listed_count": 0,
+				"created_at": "Sat Oct 17 09:29:12 +0000 2020",
+				"favourites_count": 4129,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2244,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1378342592866361344/SyLQjoDK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1378342592866361344/SyLQjoDK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1317397189468053504/1617304663",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 19,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Floephaan. Datum domeinregistratie is niet hetzelfde als een volledige website live hebben. Hoe ik dat weet? Ga fijn zelf onderzoek doen. Verwacht niet dat ik alles op een dienblad presenteer. \n\nZo klaar met dit hersenloze geblaat. https://t.co/p3wCzGThVZ"
+	},
+	{
 		"created_at": "Sat May 08 05:12:33 +0000 2021",
 		"id": 1390897388131426300,
 		"id_str": "1390897388131426305",
