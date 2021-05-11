@@ -1,6 +1,413 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Tue May 11 19:40:07 +0000 2021",
+		"id": 1392202883400089600,
+		"id_str": "1392202883400089604",
+		"full_text": "Dat is toch mooi he. Bij de online sessie van het Genootschap van Contentstrategen wordt afgesloten met Pearl Jam's Lukin. Heerlijk! https://t.co/QYcQHy7a1y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QYcQHy7a1y",
+					"expanded_url": "https://twitter.com/freek_janssen/status/1392200279622397959",
+					"display_url": "twitter.com/freek_janssen/…",
+					"indices": [
+						133,
+						156
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8875,
+			"friends_count": 757,
+			"listed_count": 552,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7813,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64572,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1392200279622398000,
+		"quoted_status_id_str": "1392200279622397959",
+		"quoted_status_permalink": {
+			"url": "https://t.co/QYcQHy7a1y",
+			"expanded": "https://twitter.com/freek_janssen/status/1392200279622397959",
+			"display": "twitter.com/freek_janssen/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 11 19:29:47 +0000 2021",
+			"id": 1392200279622398000,
+			"id_str": "1392200279622397959",
+			"full_text": "@frankmeeuwsen @marcoderksen @bramkoster @PeterMinkjan Straks, als toegift, draaien we Lukin.",
+			"truncated": false,
+			"display_text_range": [
+				55,
+				93
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "frankmeeuwsen",
+						"name": "Frank Meeuwsen",
+						"id": 816203,
+						"id_str": "816203",
+						"indices": [
+							0,
+							14
+						]
+					},
+					{
+						"screen_name": "marcoderksen",
+						"name": "Marco Derksen",
+						"id": 1252681,
+						"id_str": "1252681",
+						"indices": [
+							15,
+							28
+						]
+					},
+					{
+						"screen_name": "bramkoster",
+						"name": "Bram Koster",
+						"id": 6893682,
+						"id_str": "6893682",
+						"indices": [
+							29,
+							40
+						]
+					},
+					{
+						"screen_name": "PeterMinkjan",
+						"name": "Peter Minkjan",
+						"id": 151503895,
+						"id_str": "151503895",
+						"indices": [
+							41,
+							54
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 1392199932669538300,
+			"in_reply_to_status_id_str": "1392199932669538309",
+			"in_reply_to_user_id": 816203,
+			"in_reply_to_user_id_str": "816203",
+			"in_reply_to_screen_name": "frankmeeuwsen",
+			"user": {
+				"id": 71275737,
+				"id_str": "71275737",
+				"name": "Freek From Above 1979",
+				"screen_name": "freek_janssen",
+				"location": "Netherlands",
+				"description": "Freek Janssen, voor de broodnodige nuance. Altijd wakker met @ndrgwrdrdldjs in mijn hoofd. Content mens @Philips.",
+				"url": "https://t.co/Cn0HpK4Hhz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Cn0HpK4Hhz",
+								"expanded_url": "http://www.ondergewaardeerdeliedjes.nl",
+								"display_url": "ondergewaardeerdeliedjes.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2161,
+				"friends_count": 1168,
+				"listed_count": 106,
+				"created_at": "Thu Sep 03 15:08:24 +0000 2009",
+				"favourites_count": 5106,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 42289,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1250407295340752897/wAy5bpmX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1250407295340752897/wAy5bpmX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/71275737/1421059954",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Dat is toch mooi he. Bij de online sessie van het Genootschap van Contentstrategen wordt afgesloten met Pearl Jam's Lukin. Heerlijk! https://t.co/QYcQHy7a1y"
+	},
+	{
+		"created_at": "Tue May 11 19:34:00 +0000 2021",
+		"id": 1392201343046140000,
+		"id_str": "1392201343046139905",
+		"full_text": "@freek_janssen @marcoderksen @bramkoster @PeterMinkjan Nu moet je wel he",
+		"truncated": false,
+		"display_text_range": [
+			55,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "freek_janssen",
+					"name": "Freek From Above 1979",
+					"id": 71275737,
+					"id_str": "71275737",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "marcoderksen",
+					"name": "Marco Derksen",
+					"id": 1252681,
+					"id_str": "1252681",
+					"indices": [
+						15,
+						28
+					]
+				},
+				{
+					"screen_name": "bramkoster",
+					"name": "Bram Koster",
+					"id": 6893682,
+					"id_str": "6893682",
+					"indices": [
+						29,
+						40
+					]
+				},
+				{
+					"screen_name": "PeterMinkjan",
+					"name": "Peter Minkjan",
+					"id": 151503895,
+					"id_str": "151503895",
+					"indices": [
+						41,
+						54
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1392200279622398000,
+		"in_reply_to_status_id_str": "1392200279622397959",
+		"in_reply_to_user_id": 71275737,
+		"in_reply_to_user_id_str": "71275737",
+		"in_reply_to_screen_name": "freek_janssen",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8875,
+			"friends_count": 757,
+			"listed_count": 552,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7813,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64572,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@freek_janssen @marcoderksen @bramkoster @PeterMinkjan Nu moet je wel he"
+	},
+	{
 		"created_at": "Tue May 11 14:20:21 +0000 2021",
 		"id": 1392122411324166100,
 		"id_str": "1392122411324166144",
