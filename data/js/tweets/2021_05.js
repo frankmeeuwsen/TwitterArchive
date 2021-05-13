@@ -1,6 +1,278 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Thu May 13 14:31:10 +0000 2021",
+		"id": 1392849908365934600,
+		"id_str": "1392849908365934594",
+		"full_text": "@erwblo 👇 https://t.co/zngWDSaX7m",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "erwblo",
+					"name": "Erwin Blom",
+					"id": 713333,
+					"id_str": "713333",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zngWDSaX7m",
+					"expanded_url": "https://twitter.com/andrewjdavison/status/1392840679462633474",
+					"display_url": "twitter.com/andrewjdavison…",
+					"indices": [
+						10,
+						33
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 713333,
+		"in_reply_to_user_id_str": "713333",
+		"in_reply_to_screen_name": "erwblo",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8870,
+			"friends_count": 760,
+			"listed_count": 552,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7815,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64580,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1392840679462633500,
+		"quoted_status_id_str": "1392840679462633474",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zngWDSaX7m",
+			"expanded": "https://twitter.com/andrewjdavison/status/1392840679462633474",
+			"display": "twitter.com/andrewjdavison…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 13 13:54:30 +0000 2021",
+			"id": 1392840679462633500,
+			"id_str": "1392840679462633474",
+			"full_text": "You heard it here first...\n\n@NotionHQ just launched on @Zapier 🚀🙌\n\n👉 https://t.co/OlsXIr27ie",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				92
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "NotionHQ",
+						"name": "Notion",
+						"id": 708915428454576100,
+						"id_str": "708915428454576128",
+						"indices": [
+							28,
+							37
+						]
+					},
+					{
+						"screen_name": "zapier",
+						"name": "Zapier",
+						"id": 383012058,
+						"id_str": "383012058",
+						"indices": [
+							55,
+							62
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/OlsXIr27ie",
+						"expanded_url": "https://zapier.com/apps/notion/integrations",
+						"display_url": "zapier.com/apps/notion/in…",
+						"indices": [
+							69,
+							92
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 143805920,
+				"id_str": "143805920",
+				"name": "Andrew Davison",
+				"screen_name": "AndrewJDavison",
+				"location": "",
+				"description": "@Zapier & @Integromat expert. Running an automation agency @LuhhuHQ.\n\nWant help becoming an expert yourself? Join the club: https://t.co/kN1RY0J3m3\n---",
+				"url": "https://t.co/4DQfyZIN6w",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4DQfyZIN6w",
+								"expanded_url": "https://www.luhhu.com",
+								"display_url": "luhhu.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/kN1RY0J3m3",
+								"expanded_url": "https://link.luhhu.com/573d",
+								"display_url": "link.luhhu.com/573d",
+								"indices": [
+									124,
+									147
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2990,
+				"friends_count": 4061,
+				"listed_count": 103,
+				"created_at": "Fri May 14 12:57:35 +0000 2010",
+				"favourites_count": 7155,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 10572,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1072410722339053569/jjmkaPr2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072410722339053569/jjmkaPr2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/143805920/1372245773",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 45,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@erwblo 👇 https://t.co/zngWDSaX7m"
+	},
+	{
 		"created_at": "Thu May 13 11:21:42 +0000 2021",
 		"id": 1392802227803332600,
 		"id_str": "1392802227803332610",
