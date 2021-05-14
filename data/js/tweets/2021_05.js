@@ -1,6 +1,338 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Fri May 14 17:58:51 +0000 2021",
+		"id": 1393264558479970300,
+		"id_str": "1393264558479970304",
+		"full_text": "HAHAHAHA!!!! (Gen-X hier) https://t.co/2TYPyIEG57 https://t.co/g6me56t1lx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2TYPyIEG57",
+					"expanded_url": "https://twitter.com/Medium/status/1393144758982385664",
+					"display_url": "twitter.com/Medium/status/…",
+					"indices": [
+						26,
+						49
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1393264548669493200,
+					"id_str": "1393264548669493255",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E1XeuaWXEAcWlmM.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E1XeuaWXEAcWlmM.jpg",
+					"url": "https://t.co/g6me56t1lx",
+					"display_url": "pic.twitter.com/g6me56t1lx",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1393264558479970304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 498,
+							"h": 214,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 214,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 214,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1393264548669493200,
+					"id_str": "1393264548669493255",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E1XeuaWXEAcWlmM.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E1XeuaWXEAcWlmM.jpg",
+					"url": "https://t.co/g6me56t1lx",
+					"display_url": "pic.twitter.com/g6me56t1lx",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1393264558479970304/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 498,
+							"h": 214,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 214,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 214,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							107
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/E1XeuaWXEAcWlmM.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8868,
+			"friends_count": 761,
+			"listed_count": 552,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7820,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64589,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1393144758982385700,
+		"quoted_status_id_str": "1393144758982385664",
+		"quoted_status_permalink": {
+			"url": "https://t.co/2TYPyIEG57",
+			"expanded": "https://twitter.com/Medium/status/1393144758982385664",
+			"display": "twitter.com/Medium/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 14 10:02:48 +0000 2021",
+			"id": 1393144758982385700,
+			"id_str": "1393144758982385664",
+			"full_text": "\"Geriatric millennials\" (born between 1980 and 1985) are best positioned to lead teams that will thrive in the hybrid workplace,\" writes @ericadhawan.   https://t.co/e0jSyj6eJY",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				176
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ericadhawan",
+						"name": "Erica Dhawan",
+						"id": 16505786,
+						"id_str": "16505786",
+						"indices": [
+							137,
+							149
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/e0jSyj6eJY",
+						"expanded_url": "http://read.medium.com/HbZzE3k",
+						"display_url": "read.medium.com/HbZzE3k",
+						"indices": [
+							153,
+							176
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 571202103,
+				"id_str": "571202103",
+				"name": "Medium",
+				"screen_name": "Medium",
+				"location": "San Francisco, CA, US",
+				"description": "Every idea needs a Medium. We’re an open platform where readers find insightful thinking, and where creators can share their writing on any topic.",
+				"url": "https://t.co/JV5396gd2O",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JV5396gd2O",
+								"expanded_url": "http://medium.com",
+								"display_url": "medium.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2257583,
+				"friends_count": 142,
+				"listed_count": 12877,
+				"created_at": "Fri May 04 20:16:39 +0000 2012",
+				"favourites_count": 6238,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 45463,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1316412044959252482/3EZR8AKp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1316412044959252482/3EZR8AKp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/571202103/1602692065",
+				"profile_link_color": "00AB69",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 477,
+			"favorite_count": 1798,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "HAHAHAHA!!!! (Gen-X hier) https://t.co/2TYPyIEG57 https://t.co/g6me56t1lx"
+	},
+	{
 		"created_at": "Fri May 14 17:07:23 +0000 2021",
 		"id": 1393220906818936800,
 		"id_str": "1393251607576518658",
