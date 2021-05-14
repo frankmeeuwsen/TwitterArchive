@@ -1,6 +1,225 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Fri May 14 09:10:21 +0000 2021",
+		"id": 1393131560451428400,
+		"id_str": "1393131560451428355",
+		"full_text": "@BigSteals @Jopenbier Ik ben een open boek. https://t.co/IfPsdf4qKS",
+		"truncated": false,
+		"display_text_range": [
+			22,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BigSteals",
+					"name": "Dennis Staals",
+					"id": 28779063,
+					"id_str": "28779063",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "Jopenbier",
+					"name": "Jopenbier",
+					"id": 52832067,
+					"id_str": "52832067",
+					"indices": [
+						11,
+						21
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1393131553073549300,
+					"id_str": "1393131553073549313",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E1VlxDJWUAEZnqO.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E1VlxDJWUAEZnqO.jpg",
+					"url": "https://t.co/IfPsdf4qKS",
+					"display_url": "pic.twitter.com/IfPsdf4qKS",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1393131560451428355/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1393131553073549300,
+					"id_str": "1393131553073549313",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E1VlxDJWUAEZnqO.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E1VlxDJWUAEZnqO.jpg",
+					"url": "https://t.co/IfPsdf4qKS",
+					"display_url": "pic.twitter.com/IfPsdf4qKS",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1393131560451428355/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							140
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/E1VlxDJWUAEZnqO.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1393110294797426700,
+		"in_reply_to_status_id_str": "1393110294797426689",
+		"in_reply_to_user_id": 28779063,
+		"in_reply_to_user_id_str": "28779063",
+		"in_reply_to_screen_name": "BigSteals",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8868,
+			"friends_count": 761,
+			"listed_count": 552,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7814,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64584,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@BigSteals @Jopenbier Ik ben een open boek. https://t.co/IfPsdf4qKS"
+	},
+	{
 		"created_at": "Fri May 14 07:44:00 +0000 2021",
 		"id": 1393109826687885300,
 		"id_str": "1393109826687885314",
