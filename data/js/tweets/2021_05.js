@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Fri May 14 17:07:23 +0000 2021",
+		"id": 1393220906818936800,
+		"id_str": "1393251607576518658",
+		"full_text": "Dingen die volgens Mark Rutte \"binnen de grenzen van internationaal recht en proportionaliteit\" vallen. Een draadje 👇",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1319998252478042000,
+			"id_str": "1319998252478042112",
+			"name": "BROODBUIS",
+			"screen_name": "BROODBUIS",
+			"location": "",
+			"description": "vernieuwend | links | progressief | brutaal",
+			"url": "https://t.co/TsBgMKlyLA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TsBgMKlyLA",
+							"expanded_url": "https://linktr.ee/BROODBUIS",
+							"display_url": "linktr.ee/BROODBUIS",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5177,
+			"friends_count": 351,
+			"listed_count": 25,
+			"created_at": "Sat Oct 24 13:44:45 +0000 2020",
+			"favourites_count": 2123,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1836,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1369937143418720257/H4_1QDhd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1369937143418720257/H4_1QDhd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1319998252478042112/1613042802",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 81,
+		"favorite_count": 171,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "nl",
+		"text": "Dingen die volgens Mark Rutte \"binnen de grenzen van internationaal recht en proportionaliteit\" vallen. Een draadje 👇"
+	},
+	{
 		"created_at": "Fri May 14 13:10:39 +0000 2021",
 		"id": 1393192034383581200,
 		"id_str": "1393192034383581191",
