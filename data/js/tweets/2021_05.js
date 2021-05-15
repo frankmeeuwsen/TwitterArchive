@@ -1,6 +1,236 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Sat May 15 21:32:17 +0000 2021",
+		"id": 1393680662427799600,
+		"id_str": "1393680662427799556",
+		"full_text": "En daar dan de befaamde Edit-knop introduceren 😂😂😂 € 2,50 per maand vind ik best een redelijke prijs. https://t.co/aFwe7zb4iQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aFwe7zb4iQ",
+					"expanded_url": "https://twitter.com/cnet/status/1393658678809698307",
+					"display_url": "twitter.com/cnet/status/13…",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8859,
+			"friends_count": 762,
+			"listed_count": 552,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7825,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64592,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1393658678809698300,
+		"quoted_status_id_str": "1393658678809698307",
+		"quoted_status_permalink": {
+			"url": "https://t.co/aFwe7zb4iQ",
+			"expanded": "https://twitter.com/cnet/status/1393658678809698307",
+			"display": "twitter.com/cnet/status/13…"
+		},
+		"quoted_status": {
+			"created_at": "Sat May 15 20:04:56 +0000 2021",
+			"id": 1393658678809698300,
+			"id_str": "1393658678809698307",
+			"full_text": "Twitter to call subscription service Twitter Blue, charge $2.99 a month, report says https://t.co/NZCJCjhsX3",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				108
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/NZCJCjhsX3",
+						"expanded_url": "https://cnet.co/2RcsT0J",
+						"display_url": "cnet.co/2RcsT0J",
+						"indices": [
+							85,
+							108
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 30261067,
+				"id_str": "30261067",
+				"name": "CNET",
+				"screen_name": "CNET",
+				"location": "San Francisco",
+				"description": "Honest Advice. Original Reporting.",
+				"url": "https://t.co/SSA14X2cTK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/SSA14X2cTK",
+								"expanded_url": "http://www.cnet.com",
+								"display_url": "cnet.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1747216,
+				"friends_count": 421,
+				"listed_count": 26379,
+				"created_at": "Fri Apr 10 17:10:53 +0000 2009",
+				"favourites_count": 4795,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 288101,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1272576526182039553/2wNFGvT1_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1272576526182039553/2wNFGvT1_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/30261067/1611074696",
+				"profile_link_color": "0164A1",
+				"profile_sidebar_border_color": "DDDDDD",
+				"profile_sidebar_fill_color": "DDDDDD",
+				"profile_text_color": "404040",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 78,
+			"favorite_count": 94,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "En daar dan de befaamde Edit-knop introduceren 😂😂😂 € 2,50 per maand vind ik best een redelijke prijs. https://t.co/aFwe7zb4iQ"
+	},
+	{
 		"created_at": "Sat May 15 06:52:18 +0000 2021",
 		"id": 1393459204296515600,
 		"id_str": "1393459204296515585",
