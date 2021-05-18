@@ -1,6 +1,324 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Tue May 18 09:08:24 +0000 2021",
+		"id": 1394580620936892400,
+		"id_str": "1394580620936892417",
+		"full_text": "Zijn tweet klopt. https://t.co/GUUjvqKYBF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GUUjvqKYBF",
+					"expanded_url": "https://twitter.com/Sytsevliegen/status/1392457837712916484",
+					"display_url": "twitter.com/Sytsevliegen/s…",
+					"indices": [
+						18,
+						41
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8841,
+			"friends_count": 763,
+			"listed_count": 552,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7833,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64597,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1392457837712916500,
+		"quoted_status_id_str": "1392457837712916484",
+		"quoted_status_permalink": {
+			"url": "https://t.co/GUUjvqKYBF",
+			"expanded": "https://twitter.com/Sytsevliegen/status/1392457837712916484",
+			"display": "twitter.com/Sytsevliegen/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 12 12:33:13 +0000 2021",
+			"id": 1392457837712916500,
+			"id_str": "1392457837712916484",
+			"full_text": "We zijn op zoek naar een Creatief Strateeg bij @Kaliberinteract . Kom je samen met mij toffe dingen doen voor mooie merken?\n\n👉 https://t.co/ED6rVlEY3f https://t.co/MsOmwRPRfq",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				150
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Kaliberinteract",
+						"name": "Kaliber",
+						"id": 10932162,
+						"id_str": "10932162",
+						"indices": [
+							47,
+							63
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/ED6rVlEY3f",
+						"expanded_url": "https://werkenbij.kaliber.net/creatiefstrateeg/nl",
+						"display_url": "werkenbij.kaliber.net/creatiefstrate…",
+						"indices": [
+							127,
+							150
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1392457788186574800,
+						"id_str": "1392457788186574850",
+						"indices": [
+							151,
+							174
+						],
+						"media_url": "http://pbs.twimg.com/media/E1MA-xWWQAI2ax_.png",
+						"media_url_https": "https://pbs.twimg.com/media/E1MA-xWWQAI2ax_.png",
+						"url": "https://t.co/MsOmwRPRfq",
+						"display_url": "pic.twitter.com/MsOmwRPRfq",
+						"expanded_url": "https://twitter.com/Sytsevliegen/status/1392457837712916484/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1386,
+								"h": 956,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 828,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 469,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1392457788186574800,
+						"id_str": "1392457788186574850",
+						"indices": [
+							151,
+							174
+						],
+						"media_url": "http://pbs.twimg.com/media/E1MA-xWWQAI2ax_.png",
+						"media_url_https": "https://pbs.twimg.com/media/E1MA-xWWQAI2ax_.png",
+						"url": "https://t.co/MsOmwRPRfq",
+						"display_url": "pic.twitter.com/MsOmwRPRfq",
+						"expanded_url": "https://twitter.com/Sytsevliegen/status/1392457837712916484/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1386,
+								"h": 956,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 828,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 469,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 6494792,
+				"id_str": "6494792",
+				"name": "Sytse Kooistra",
+				"screen_name": "Sytsevliegen",
+				"location": "Utrecht",
+				"description": "Creative strategy | Utrecht | Miami Ad School New York Graduate | Craft Beer lover | Dutch champion juggler in a past life",
+				"url": "https://t.co/7LyV0327EH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7LyV0327EH",
+								"expanded_url": "http://nl.linkedin.com/in/sytsekooistra/",
+								"display_url": "nl.linkedin.com/in/sytsekooist…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1069,
+				"friends_count": 389,
+				"listed_count": 55,
+				"created_at": "Fri Jun 01 08:15:22 +0000 2007",
+				"favourites_count": 4571,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8863,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DBE9ED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1098853217725763584/8-OONAJ-_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1098853217725763584/8-OONAJ-_normal.png",
+				"profile_link_color": "CC3366",
+				"profile_sidebar_border_color": "DBE9ED",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Zijn tweet klopt. https://t.co/GUUjvqKYBF"
+	},
+	{
 		"created_at": "Tue May 18 06:12:27 +0000 2021",
 		"id": 1394536339970871300,
 		"id_str": "1394536339970871297",
